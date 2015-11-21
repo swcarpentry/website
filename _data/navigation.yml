@@ -1,0 +1,95 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: About
+  url: "/about/"
+  side: left
+  dropdown:
+  - title: "About Us"
+    url: "/about/"
+  - title: "FAQ"
+    url: "/faq/"
+  - title: "Code of Conduct"
+    url: "/conduct/"
+  - title: "Our Team"
+    url: "/team/"
+  - title: "Our Audience"
+    url: "/audience/"
+  - title: "Testimonials"
+    url: "/testimonials/"
+
+- title: Foundation
+  url: "/scf/"
+  side: left
+  dropdown:
+  - title: "Software Carpentry Foundation"
+    url: "/scf/"
+  - title: "Our Partners"
+    url: "/scf/partners/"
+  - title: "Become a Partner"
+    url: "/scf/join/"
+  - title: "Our History"
+    url: "/scf/history/"
+
+- title: "Workshops"
+  url: "/workshops/"
+  side: left
+  dropdown:
+  - title: "Our Workshops"
+    url: "/workshops/"
+  - title: "Code of Conduct"
+    url: "/conduct/"
+  - title: "Request a Workshop"
+    url: "/workshops/request/"
+  - title: "Workshop Operations"
+    url: "/workshops/operations/"
+  - title: "Past Workshops"
+    url: "/workshops/past/"
+
+- title: Lessons
+  url: "/lessons/"
+  side: left
+  dropdown:
+  - title: "Our Lessons"
+    url: "/lessons/"
+  - title: "License"
+    url: "/license/"
+  - title: "Development Dashboard"
+    url: "/lessons/dashboard/"
+  - title: "Previous Material"
+    url: "/lessons/previous/"
+
+- title: "Get Involved"
+  url: "/join/"
+  side: left
+  dropdown:
+  - title: "Join Us"
+    url: "/join/"
+  - title: "Donate"
+    url: "/join/donate/"
+  - title: "Related Projects"
+    url: "/join/projects/"
+  - title: "Help Wanted"
+    url: "/join/help/"
+  - title: "Reading Material"
+    url: "/reading/"
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Recent Posts"
+    url: "/blog/"
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+  - title: "Commenting Policy"
+    url: "/commenting/"
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
+
+- title: "Search"
+  url: "/search/"
+  side: right

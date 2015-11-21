@@ -1,0 +1,78 @@
+---
+layout: page-fullwidth
+permalink: /workshops/
+title: Our Workshops
+---
+<p>
+  A Software Carpentry workshop is hands-on two-day event
+  that covers the core skills needed to be productive in a small research team.
+  Short tutorials alternate with practical exercises,
+  and all instruction is done via live coding.
+  <em>
+    All workshop participants are required to abide by our
+    <a href="{{site.baseurl}}/conduct/">code of conduct</a>
+    to ensure that all attendees to have an enjoyable and fulfilling experience.
+  </em>
+</p>
+
+<p>
+  To help us improve our instruction,
+  we have prepared
+  a pre-assessment questionnaire for learners
+  that can be used to ensure instruction is at the right level,
+  a post-assessment questionnaire for learners
+  to help us determine how well the workshop went,
+  and
+  a second post-assessment questionnaire for instructors
+  for calibration.
+  Please contact us if you are organizing a workshop
+  for help delivering and evaluating
+  these questionnaires.
+</p>
+
+<div class="row">
+  <div class="small-4 columns">
+    <h4>Want to Know More?</h4>
+    <p>
+      See our <a href="{{site.baseurl}}/faq/">FAQ</a>.
+    </p>
+  </div>
+  <div class="small-4 columns">
+    <h4>Want to Run a Workshop?</h4>
+    <p>
+      See our <a href="{{site.baseurl}}/workshops/operations/">operations guide</a>.
+    </p>
+  </div>
+  <div class="small-4 columns">
+    <h4>Want Us to Teach Where You Are?</h4>
+    <p>
+      Please <a href="{{site.baseurl}}/workshops/request/">fill in this form</a>.
+    </p>
+  </div>
+</div>
+
+<script src="https://embed.github.com/view/geojson/gvwilson/feeling-responsive/gh-pages/workshops.geojson"></script>
+
+<div id="future">
+  <h2>Future Workshops</h2>
+  <table class="table table-striped workshops">
+    {% for w in site.data.amy.workshops_current reversed %}
+    <tr>
+      <td><img src="{{site.filesurl}}/flags/{{site.flag_size}}/{{w.country}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' '}}" /></td>
+      <td class="link"><a href="{{w.url}}">{{w.venue}}</a></td>
+      <td class="date">{{w.humandate}}</td>
+    </tr>
+    {% endfor %}
+  </table>
+
+  <div id="calendar" align="center">
+    <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showDate=0&amp;showCalendars=0&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=h7t394o5uodii4a18vr8vh6mv0ga4cdq%40import.calendar.google.com&amp;color=%235229A3&amp;ctz=America%2FNew_York" style=" border-width:0 " width="800" height="400" frameborder="0" scrolling="no"></iframe>
+    <p style="text-align: right; margin-top: 5px;margin-bottom: 5px;">
+      <a class="label swc-blue-bg" style="margin-right: 10px" href="http://software-carpentry.org/workshops.ics">Calendar Feed</a>
+    </p>
+  </div>
+</div>
+
+<div align="center">
+  <h4><a href="{{site.baseurl}}/workshops/past/">See where we've been!</a></h4>
+</div>

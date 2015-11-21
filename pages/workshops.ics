@@ -1,0 +1,20 @@
+---
+layout: null
+permalink: /workshops.ics
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Software Carpentry/Workshops//NONSGML v1.0//EN
+METHOD:PUBLISH
+{% for series in site.data.amy.workshops %}{% for w in series %}BEGIN:VEVENT
+UID:{{ w.slug }}@software-carpentry.org
+LOCATION:{{ w.venue }}
+DESCRIPTION;ALTREP="{{ w.url }}":{{ w.url }}
+URL:{{ w.url }}
+GEO:{{ w.latitude }};{{ w.longitude }}
+SUMMARY:{{ w.venue }}
+DTSTART;VALUE=DATE:{{ w.start }}
+DTEND;VALUE=DATE:{{ w.end }}
+DTSTAMP:{{ site.data.amy.timestamp }}
+END:VEVENT
+{% endfor %}{% endfor %}END:VCALENDAR

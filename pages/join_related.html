@@ -1,0 +1,30 @@
+---
+layout: page-fullwidth
+permalink: /join/projects/
+title: Related Projects
+---
+<div class="row">
+  <div class="small-4 columns">
+    <img src="{{site.filesurl}}/orgs/data-carpentry-large.png" alt="Data Carpentry" />
+  </div>
+  <div class="small-8 columns">
+    <p>
+      Our sibling project Data Carpentry develops and teaches workshops on the fundamental data skills needed to conduct research.
+      Its mission is to provide researchers high-quality, domain-specific training covering the full lifecycle of data-driven research.
+      Where Software Carpentry teaches best practices in software development,
+      its focus is on the introductory computational skills needed for data management and analysis in all domains of research.
+      Its lessons are domain specific,
+      from life and physical sciences to social science
+      and build on the existing knowledge of learners to enable them to quickly apply skills learned to their own research.
+      Their target audience is learners who have little to no prior computational experience.
+    </p>
+  </div>
+</div>
+
+<div class="row">
+  {% for project in site.data.includes.projects %}
+    <div class="small-6 columns">{% include {{project}} %}</div>
+    {% cycle '', '</div>' %}
+    {% cycle '', '<div class="row">' %}
+  {% endfor %}
+</div>

@@ -1,0 +1,46 @@
+- name: GitHub
+  url: http://github.com/swcarpentry
+  class: icon-github
+  title: Source
+
+- name: Twitter
+  url: http://twitter.com/swcarpentry
+  class: icon-twitter
+  title: "Software Carpentry on Twitter"
+
+- name: YouTube
+  url: https://www.youtube.com/user/softwarecarpentry
+  class: icon-youtube
+  title: "Software Carpentry Videos"
+
+#------------------------------------------------------------
+
+# - name: Facebook
+#   url: http://www.facebook.com/phlow.media
+#   class: icon-facebook
+#   title: "Lass uns Freunde sein!"
+
+# - name: Soundcloud
+#   url: http://soundcloud.com/phlow
+#   class: icon-soundcloud
+#   title: "Sounds und Downloads und mehr"
+
+# - name: Instagram
+#   url: http://instagram.com/phlowmedia
+#   class: icon-instagram
+#   title: "Bilder und Impressionen mit und ohne Filter..."
+
+# - name: Pinterest
+#   url: http://www.pinterest.com/phlowmedia/
+#   class: icon-pinterest
+#   title: "Bilder, Fotos, Illustrationen, Grafiken sammeln..."
+
+# - name: Mixcloud
+#   url: http://www.mixcloud.com/phlow/
+#   class: icon-cloud
+#   title: "Mixe, was sonst?"
+
+# - name: Xing
+#   url: https://www.xing.com/profile/Moritzmo_Sauer
+#   class: icon-xing
+#   title: Xing Profil
