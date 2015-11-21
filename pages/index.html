@@ -1,42 +1,30 @@
 ---
-layout: default
-format: blog-index
+layout: page-fullwidth
+permalink: /index.html
 ---
-<div id="header-home">
-    <div class="row">
-        <div class="small-12 columns">
-        </div><!-- /.medium-4.columns -->
-    </div><!-- /.row -->
-</div><!-- /#header-home -->
-
-
-{% comment %}
-*
-* First check, if widget is empty or not by checking if there is a title
-*
-{% endcomment %}
-<div class="row t60">
-	{% if page.widget1.title %}
-		{% include frontpage-widget widget=page.widget1 %}
-	{% endif %}
-
-
-	{% if page.widget2.title %}
-		{% include frontpage-widget widget=page.widget2 %}
-	{% endif %}
-
-
-	{% if page.widget3.title %}
-		{% include frontpage-widget widget=page.widget3 %}
-	{% endif %}
-</div><!-- /.row -->
-
-
-{% comment %}
-*
-* First check, if there are any posts at all
-*
-{% endcomment %}
+<div class="row">
+  <div class="small-4 columns">
+    <a href="{{site.baseurl}}/workshops/"><img src="{{site.filesurl}}/workshops/2012-12-uta.png" alt="University of Texas 2012" /></a>
+    <a href="{{site.baseurl}}/workshops/"><h4>Our Workshops ›</h4></a>
+    <p>
+      Host a workshop or find one to attend.
+    </p>
+  </div>
+  <div class="small-4 columns">
+    <a href="{{site.baseurl}}/lessons/"><img src="{{site.filesurl}}/workshops/dc-2014.jpg" alt="Data Carpentry 2014" /></a>
+    <a href="{{site.baseurl}}/lessons/"><h4>Our Lessons ›</h4></a>
+    <p>
+      Have a look at what we teach.
+    </p>
+  </div>
+  <div class="small-4 columns">
+    <a href="{{site.baseurl}}/join/"><img src="{{site.filesurl}}/workshops/scripps-2012-11.png" alt="Scripps 2012" /></a>
+    <a href="{{site.baseurl}}/join/"><h4>Get Involved ›</h4></a>
+    <p>
+      Have a look at what we teach.
+    </p>
+  </div>
+</div>
 
 {% unless site.posts == empty %}
     <div class="row t30 b20 homepage">
@@ -79,14 +67,3 @@ format: blog-index
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}
-
-
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
-
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->
