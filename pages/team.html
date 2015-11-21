@@ -1,0 +1,26 @@
+---
+layout: page-fullwidth
+permalink: /team/
+title: Our Team
+---
+<script src="https://embed.github.com/view/geojson/gvwilson/feeling-responsive/gh-pages/instructors.geojson"></script>
+
+<div align="center">
+  {% for flag in site.data.amy.flags.airports %}
+    <img src="{{site.filesurl}}/flags/32/{{flag}}.png" alt="{{flag|replace:'-',' '}}" />
+    {% unless forloop.last %}
+      {% assign loopindex = forloop.index0 | modulo: 16 %}
+      {% if loopindex == 15 %}
+      <br/>
+      {% endif %}
+    {% endunless %}
+  {% endfor %}
+</div>
+
+<div class="row">
+  {% for person in site.data.includes.people %}
+    <div class="small-6 columns">{% include {{person}} %}</div>
+    {% cycle '', '</div>' %}
+    {% cycle '', '<div class="row">' %}
+  {% endfor %}
+</div>
