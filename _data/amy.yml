@@ -1757,6 +1757,14 @@ flags:
     kr, lb, nl, 'no', nz, pl, sa, se, th, us, ve, za]
 workshops:
 - &id002
+  - {address: Mission Bay Campus, contact: Megan.Laurance@ucsf.edu, country: us, end: 2015-11-21,
+    humandate: 'Nov 20-21, 2015', latitude: 37.7689175, longitude: -122.3957338, slug: 2015-11-20-ucsf-Python,
+    start: 2015-11-20, url: 'https://zonca.github.io/2015-11-20-ucsf-Python/', venue: University
+      of California San Francisco}
+  - {address: Mission Bay Campus, contact: Megan.Laurance@ucsf.edu, country: us, end: 2015-11-21,
+    humandate: 'Nov 20-21, 2015', latitude: 37.7689175, longitude: -122.3957338, slug: 2015-11-20-ucsf-R,
+    start: 2015-11-20, url: 'https://emilydolson.github.io/2015-11-20-ucsf-R/', venue: University
+      of California San Francisco}
   - {address: '', contact: '', country: ca, end: 2015-11-20, humandate: 'Nov 19-20,
       2015', latitude: null, longitude: null, slug: 2015-11-19-utoronto, start: 2015-11-19,
     url: ' http://blog.tomwright.ca/2015-11-19-utoronto/', venue: University of Toronto}
@@ -3951,13 +3959,5 @@ workshops:
     end: 2015-11-23, humandate: 'Nov 22-23, 2015', latitude: -33.917763, longitude: 151.23426,
     slug: 2015-11-23-ccrc, start: 2015-11-22, url: 'https://nicjhan.github.io/2015-11-23-ccrc/',
     venue: 'Climate Change Research Centre, UNSW Australia'}
-  - {address: Mission Bay Campus, contact: Megan.Laurance@ucsf.edu, country: US, end: 2015-11-21,
-    humandate: 'Nov 20-21, 2015', latitude: 37.7689175, longitude: -122.3957338, slug: 2015-11-20-ucsf-Python,
-    start: 2015-11-20, url: 'https://zonca.github.io/2015-11-20-ucsf-Python/', venue: University
-      of California San Francisco}
-  - {address: Mission Bay Campus, contact: Megan.Laurance@ucsf.edu, country: US, end: 2015-11-21,
-    humandate: 'Nov 20-21, 2015', latitude: 37.7689175, longitude: -122.3957338, slug: 2015-11-20-ucsf-R,
-    start: 2015-11-20, url: 'https://emilydolson.github.io/2015-11-20-ucsf-R/', venue: University
-      of California San Francisco}
 workshops_current: *id001
 workshops_past: *id002

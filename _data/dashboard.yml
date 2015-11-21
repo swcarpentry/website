@@ -1,14 +1,11 @@
-num_issues: 232
+num_issues: 235
 num_repos: 14
 records:
 - description: Unix Shell
   ident: swcarpentry/shell-novice
   issues:
-  - {number: 199, title: 'change title of 02-create.md?', updated: '2015-06-14', url: 'https://github.com/swcarpentry/shell-novice/issues/199'}
   - {number: 197, title: add text about reproducible research in intro, updated: '2015-06-14',
     url: 'https://github.com/swcarpentry/shell-novice/issues/197'}
-  - {number: 183, title: 'Should we teach find and grep before rm, mv, and cp?', updated: '2015-06-14',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/183'}
   - {number: 181, title: fig/find-file-tree.svg is out of date, updated: '2015-06-14',
     url: 'https://github.com/swcarpentry/shell-novice/issues/181'}
   - {number: 180, title: Drop flags "-mindepth" and "-maxdepth" of "find", updated: '2015-06-14',
@@ -24,8 +21,6 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/171'}
   - {number: 170, title: Explain why users should avoid white spaces in file name,
     updated: '2015-06-14', url: 'https://github.com/swcarpentry/shell-novice/issues/170'}
-  - {number: 168, title: highlight diagram for exercises in 01-filedir, updated: '2015-06-14',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/168'}
   - {number: 55, title: Recommendation to Instructors about man because it doesn't
       work in Windows, updated: '2015-06-14', url: 'https://github.com/swcarpentry/shell-novice/issues/55'}
   - {number: 174, title: Add example of expression with more than one word for grep,
@@ -59,6 +54,13 @@ records:
   - {number: 247, title: added comment on shell improving productivity and reproducibility,
     updated: '2015-11-15', url: 'https://github.com/swcarpentry/shell-novice/pull/247'}
   - {number: 234, title: lesson rearrangement, updated: '2015-11-15', url: 'https://github.com/swcarpentry/shell-novice/issues/234'}
+  - {number: 250, title: added a reference to the relevant figure, updated: '2015-11-21',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/250'}
+  - {number: 199, title: 'change title of 02-create.md?', updated: '2015-11-21', url: 'https://github.com/swcarpentry/shell-novice/issues/199'}
+  - {number: 183, title: 'Should we teach find and grep before rm, mv, and cp?', updated: '2015-11-21',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/183'}
+  - {number: 168, title: highlight diagram for exercises in 01-filedir, updated: '2015-11-21',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/168'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -234,6 +236,8 @@ records:
   - {number: 173, title: 'Lesson 01 and 04: matplotlib.pyplot.show ignore any arguments',
     updated: '2015-10-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/173'}
   - {number: 175, title: Update 01-numpy.md, updated: '2015-11-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/175'}
+  - {number: 177, title: Instructor guide formatting is off, updated: '2015-11-20',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/177'}
   - {number: 176, title: Better explanation for base-0 indexing, updated: '2015-11-20',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/176'}
   url: https://github.com/swcarpentry/python-novice-inflammation
@@ -363,8 +367,6 @@ records:
   - {number: 446, title: Set correct administrators for historical events, updated: '2015-11-13',
     url: 'https://github.com/swcarpentry/amy/issues/446'}
   - {number: 443, title: Events calendar, updated: '2015-11-13', url: 'https://github.com/swcarpentry/amy/issues/443'}
-  - {number: 419, title: Import requests for instructor training, updated: '2015-11-13',
-    url: 'https://github.com/swcarpentry/amy/issues/419'}
   - {number: 406, title: Flag if organizer has access to Eventbrite, updated: '2015-11-13',
     url: 'https://github.com/swcarpentry/amy/issues/406'}
   - {number: 393, title: Filter for instructors that taught remotely, updated: '2015-11-13',
@@ -389,10 +391,15 @@ records:
   - {number: 578, title: Integration with SurveyMonkey, updated: '2015-11-17', url: 'https://github.com/swcarpentry/amy/issues/578'}
   - {number: 580, title: 'Change event tag finding, parsing and validating', updated: '2015-11-19',
     url: 'https://github.com/swcarpentry/amy/pull/580'}
-  - {number: 577, title: Starting to work on a report of SCF members, updated: '2015-11-19',
-    url: 'https://github.com/swcarpentry/amy/pull/577'}
+  - {number: 581, title: Add 'stalled' tag, updated: '2015-11-20', url: 'https://github.com/swcarpentry/amy/pull/581'}
   - {number: 567, title: Rework logic in EventQuerySet's unpublished and published
       filters, updated: '2015-11-20', url: 'https://github.com/swcarpentry/amy/pull/567'}
+  - {number: 582, title: 'Do we register teaching languages for instructors?', updated: '2015-11-21',
+    url: 'https://github.com/swcarpentry/amy/issues/582'}
+  - {number: 577, title: Starting to work on a report of SCF members, updated: '2015-11-21',
+    url: 'https://github.com/swcarpentry/amy/pull/577'}
+  - {number: 419, title: Import requests for instructor training, updated: '2015-11-21',
+    url: 'https://github.com/swcarpentry/amy/issues/419'}
   url: https://github.com/swcarpentry/amy
 - description: Software Carpentry website
   ident: swcarpentry/site
@@ -442,11 +449,9 @@ records:
     url: 'https://github.com/swcarpentry/site/pull/1161'}
   - {number: 1010, title: Header foundation link in same area as logo at reduced width,
     updated: '2015-11-11', url: 'https://github.com/swcarpentry/site/issues/1010'}
-  - {number: 1173, title: Post on the SWDCRetreat round table on SWC as a university
-      course, updated: '2015-11-16', url: 'https://github.com/swcarpentry/site/pull/1173'}
-  - {number: 1174, title: Closing instructor training registration, updated: '2015-11-20',
-    url: 'https://github.com/swcarpentry/site/pull/1174'}
   - {number: 1130, title: workshops not showing up on map/calendar, updated: '2015-11-20',
     url: 'https://github.com/swcarpentry/site/issues/1130'}
+  - {number: 1173, title: Post on the SWDCRetreat round table on SWC as a university
+      course, updated: '2015-11-21', url: 'https://github.com/swcarpentry/site/pull/1173'}
   url: https://github.com/swcarpentry/site
-timestamp: '2015-11-20T12:55:37Z'
+timestamp: '2015-11-21T13:54:22Z'
