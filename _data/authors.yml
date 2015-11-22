@@ -5,10 +5,10 @@
 # 3. Change default post/page authors in config.yml
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
-gvwilson: # replace this with your info
-  name: "Greg Wilson"
+admin: # replace this with your info
+  name: "Software Carpentry Administrator"
   siterole: "webmaster"
-  uri: http://third-bit.com
-  email: gvwilson@third-bit.com
-  twitter: "@gvwilson"
+  uri: http://software-carpentry.org
+  email: admin@software-carpentry.org
+  twitter: "@swcarpentry"
 # you can add more authors here
