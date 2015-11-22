@@ -28,15 +28,27 @@ permalink: /index.html
 
 <div class="row">
   <div class="small-8 columns">
-    <h2>Recent Blog Posts</h2>
+    <h3>Recent Blog Posts</h3>
     {% include list-posts entries='10' %}
   </div>
   <div class="small-4 columns">
-    <h2>Comments</h2>
-    <div id="recentcomments" class="dsq-widget">
-      <script type="text/javascript" src="http://software-carpentry.disqus.com/recent_comments_widget.js?num_items=5&hide_avatars=1&excerpt_length=200"></script>
-    </div>
-    <a class="twitter-timeline" href="https://twitter.com/swcarpentry" data-widget-id="410241789077909504">Tweets by @swcarpentry</a>
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    <h3>Upcoming Workshops</h3>
+    <table class="table table-striped workshops">
+      {% for w in site.data.amy.workshops_current reversed %}
+      <tr>
+	<td>
+	  <img src="{{site.filesurl}}/flags/{{site.flag_size}}/{{w.country}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' '}}" />
+	  <a href="{{w.url}}">{{w.venue}}</a>
+	  <br/>
+	  {{w.humandate}}
+	</td>
+      </tr>
+      {% endfor %}
+      <tr>
+	<td>
+	  <em><a href="{{site.baseurl}}/workshops/">See more...</a></em>
+	</td>
+      </tr>
+    </table>
   </div>
 </div>
