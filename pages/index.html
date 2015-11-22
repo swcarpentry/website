@@ -37,7 +37,7 @@ permalink: /index.html
       {% for w in site.data.amy.workshops_current reversed %}
       <tr>
 	<td>
-	  <img src="{{site.filesurl}}/flags/{{site.flag_size}}/{{w.country}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' '}}" />
+	  <img src="{{site.filesurl}}/flags/{{site.flag_size}}/{{w.country | downcase}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' ' | downcase}}" />
 	  <a href="{{w.url}}">{{w.venue}}</a>
 	  <br/>
 	  {{w.humandate}}
