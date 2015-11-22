@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 permalink: /search/
 title: Search
 ---
