@@ -59,8 +59,8 @@ flag_size       : 16
 #
 urlimg: 'http://dev.software-carpentry.org/files/'
 
-# Logo size is 600x80 pixels
-logo: "logo.svg"
+# Logo size should be 600x80 pixels but is 445x90
+logo: "logo.png"
 
 # Paginates all X entries
 paginate: 10
