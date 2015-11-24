@@ -15,12 +15,13 @@ CONTROLS = (
     ('swcarpentry/r-novice-inflammation', 'R'),
     ('swcarpentry/matlab-novice-inflammation', 'MATLAB'),
     ('swcarpentry/make-novice', 'Make'),
-    ('swcarpentry/capstone-novice-spreadsheet-biblio', 'From Excel to a database via Python'),
+    ('swcarpentry/capstone-novice-spreadsheet-biblio', 'From Excel to a Database via Python'),
+    ('katyhuff/python-testing', 'Testing and Continuous Integration with Python'),
     ('DamienIrving/capstone-oceanography', 'Data Management in the Ocean, Weather and Climate Sciences'),
     ('swcarpentry/matlab-novice-capstone-biomed', 'Controlling a Quadcoptor With Your Mind'),
     ('swcarpentry/web-data-python', 'Working With Data on the Web'),
     ('swcarpentry/amy', 'Workshop administration tool'),
-    ('swcarpentry/site', 'Software Carpentry website'),
+    ('swcarpentry/website', 'Software Carpentry website'),
 )
 
 def get_connection(token_file):
