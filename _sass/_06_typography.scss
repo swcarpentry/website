@@ -210,17 +210,27 @@ li {
 dl {
 
 }
+/*
 dt:first-child {
     padding-top: 0px;
 }
+*/
 dt {
     font-weight: bold;
-    padding-top: 30px;
+    /* padding-top: 30px; */
 }
 dd {
 }
-article dl dt   { line-height: 1.3; }
-article dl dd   { line-height: 1.6; margin-bottom: rem-calc(12); margin-left: rem-calc(24); }
+/*
+article dl dt {
+    line-height: 1.3;
+}
+*/
+article dl dd {
+    /* line-height: 1.6; */
+    /* margin-bottom: rem-calc(12); */
+    margin-left: rem-calc(24);
+}
 
 
 
