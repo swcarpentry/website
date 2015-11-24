@@ -1,0 +1,7 @@
+id: chase.john
+name: John Chase
+biography: <span class="person">John Chase</span> is a research software engineer
+  at Northern Arizona University. John's research is focused on microbial ecology
+  and the human microbiome. He is also a contributor to [scikit-bio](http://scikit-bio.org/),
+  an open source bioinformatics software package, and to [An Introduction to Bioinformatics](http://readiab.org/),
+  an open source bioinformatics textbook.

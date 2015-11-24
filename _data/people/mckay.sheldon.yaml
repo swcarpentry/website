@@ -1,0 +1,7 @@
+id: mckay.sheldon
+name: Sheldon McKay
+biography: '<span class="person">Sheldon McKay</span> is a computational biologist
+  with a background and interests in genetics, phylogenetics and comparative genomics.
+  He has participated in a number of biological database projects, including [WormBase](http://wormbase.org),
+  [GMOD](http://gmod.org), [modENCODE](http://modencode.org), [iPlant](http://www.iplantcollaborative.org),
+  and [Reactome](http://reactome.org).\  **Maintainer: [Using Databases and SQL](%7B%7Bsite.github_url%7D%7D/sql-novice-survey)**'
