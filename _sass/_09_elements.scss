@@ -161,3 +161,14 @@ p.imgpar img {
     margin-right: 10px;
     margin-bottom: 10px;
 }
+
+
+
+/* People
+Use as <p class="person">...</p> or <a href="..." class="person">...</a>
+------------------------------------------------------------------- */
+
+.person {
+    font-weight: bold;
+    font-style: italic;
+}
