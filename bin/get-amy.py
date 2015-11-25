@@ -63,7 +63,8 @@ def split_workshops(workshops, today):
     past = []
     current = []
     for w in workshops:
-        if w['start'] < today:
+        sort_date = w['end'] if w['end'] else w['start']
+        if sort_date < today:
             past.append(w)
         else:
             current.append(w)
