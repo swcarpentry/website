@@ -657,6 +657,8 @@ airports:
   - {name: Hugues Fontenelle, user: fontenelle.hugues}
   - {name: Karin Lagesen, user: lagesen.k}
   - {name: Lex Nederbragt, user: nederbragt.l}
+  - {name: Anne Claire Fouilloux, user: fouilloux.anne-claire}
+  - {name: Marius Bjørnstad, user: bjornstad.marius}
   latitude: 60.193889
   longitude: 11.100278
   name: Oslo Gardermoen
@@ -1167,6 +1169,12 @@ airports:
   latitude: 44.226524
   longitude: -76.595936
   name: Kingston Airport
+- country: ca
+  instructors:
+  - {name: James Desjardins, user: desjardins.james}
+  latitude: 43.165464
+  longitude: -79.935375
+  name: Hamilton International Airport
 badges:
 - name: creator
   persons:
@@ -1654,6 +1662,7 @@ badges:
   - {name: John Moreau, user: moreau.john}
   - {name: Raissa Philibert, user: philibert.raissa}
   - {name: Chris Tomlinson, user: tomlinson.christopher}
+  - {name: Jessica Mizzi, user: mizzi.jessica}
 - name: member
   persons:
   - {name: Joshua Adelman, user: adelman.joshua}
@@ -1757,6 +1766,10 @@ flags:
     kr, lb, nl, 'no', nz, pl, sa, se, th, us, ve, za]
 workshops:
 - &id002
+  - {address: 'Level 4 Mathews Building, UNSW', contact: nchlshnnh@gmail.com, country: au,
+    end: 2015-11-23, humandate: 'Nov 22-23, 2015', latitude: -33.917763, longitude: 151.23426,
+    slug: 2015-11-23-ccrc, start: 2015-11-22, url: 'https://nicjhan.github.io/2015-11-23-ccrc/',
+    venue: 'Climate Change Research Centre, UNSW Australia'}
   - {address: Mission Bay Campus, contact: Megan.Laurance@ucsf.edu, country: us, end: 2015-11-21,
     humandate: 'Nov 20-21, 2015', latitude: 37.7689175, longitude: -122.3957338, slug: 2015-11-20-ucsf-Python,
     start: 2015-11-20, url: 'https://zonca.github.io/2015-11-20-ucsf-Python/', venue: University
@@ -1765,9 +1778,14 @@ workshops:
     humandate: 'Nov 20-21, 2015', latitude: 37.7689175, longitude: -122.3957338, slug: 2015-11-20-ucsf-R,
     start: 2015-11-20, url: 'https://emilydolson.github.io/2015-11-20-ucsf-R/', venue: University
       of California San Francisco}
-  - {address: '', contact: '', country: ca, end: 2015-11-20, humandate: 'Nov 19-20,
-      2015', latitude: null, longitude: null, slug: 2015-11-19-utoronto, start: 2015-11-19,
-    url: ' http://blog.tomwright.ca/2015-11-19-utoronto/', venue: University of Toronto}
+  - {address: 'Ullevålsveien 68, 0454 Oslo, Norway', contact: karin.lagesen@vetinst.no,
+    country: 'no', end: 2015-12-11, humandate: 'Nov 20-Dec 11, 2015', latitude: 59.930065,
+    longitude: 10.736389, slug: 2015-11-20-NVI, start: 2015-11-20, url: 'https://karinlag.github.io/2015-11-20-NVI/',
+    venue: Norwegian Veterinary Institute}
+  - {address: 'King''s College Circle, Toronto, M5S 1A5', contact: '', country: ca,
+    end: 2015-11-20, humandate: 'Nov 19-20, 2015', latitude: 43.661824, longitude: -79.394539,
+    slug: 2015-11-19-utoronto, start: 2015-11-19, url: ' http://blog.tomwright.ca/2015-11-19-utoronto/',
+    venue: University of Toronto}
   - {address: 'Rosenstiel School of Marine and Atmospheric Science (RSMAS) campus,
       Library Map and Chart Room, 4600 Rickenbacker Causeway, Miami, FL 33149', contact: SKhuri@med.miami.edu,
     country: us, end: 2015-11-20, humandate: 'Nov 19-20, 2015', latitude: 25.732467,
@@ -3928,6 +3946,14 @@ workshops:
     humandate: 'Dec 14-15, 2015', latitude: 50.797656, longitude: -1.098289, slug: 2015-12-14-Portsmouth,
     start: 2015-12-14, url: 'https://hpcarcher.github.io/2015-12-14-Portsmouth/',
     venue: University of Portsmouth}
+  - {address: 190 Doe Library, contact: jkitzes@berkeley.edu, country: US, end: 2015-12-15,
+    humandate: 'Dec 14-15, 2015', latitude: 37.871593, longitude: -122.272747, slug: 2015-12-14-berkeley,
+    start: 2015-12-14, url: 'https://bids.github.io/2015-12-14-berkeley/', venue: University
+      of California Berkeley}
+  - {address: 'Bldg 10, 10 Center Dr, Bethesda, MD, 20892', contact: adamt@nih.gov,
+    country: US, end: 2015-12-18, humandate: 'Dec 14-18, 2015', latitude: 39.001305,
+    longitude: -77.104909, slug: 2015-12-14-NIH, start: 2015-12-14, url: 'https://agt24.github.io/2015-12-14-NIH/',
+    venue: NIH Library}
   - {address: 'Room 2011, 37 Kent St, Woolloongabba, Queensland, Australia, 4102',
     contact: b.weaver@uq.edu.au, country: AU, end: 2015-12-10, humandate: 'Dec 09-10,
       2015', latitude: -27.498869, longitude: 153.031914, slug: 2015-12-09-TRI, start: 2015-12-09,
@@ -3938,6 +3964,13 @@ workshops:
     humandate: 'Dec 07-08, 2015', latitude: -37.797915, longitude: 144.959933, slug: 2015-12-07-Python-for-Science,
     start: 2015-12-07, url: 'https://resbaz.github.io/2015-12-07-Python-for-Science/',
     venue: University of Melbourne}
+  - {address: '', contact: '', country: NL, end: 2015-12-08, humandate: 'Dec 07-08,
+      2015', latitude: null, longitude: null, slug: 2015-12-07-rijkzwaan, start: 2015-12-07,
+    url: 'http://www.datacarpentry.org/2015-12-07-Rijkzwaan/', venue: Rijk Zwaan}
+  - {address: 'The Science Library, Moltke Moes Road 35, 0851 Oslo', contact: hugues.fontenelle@medisin.uio.no,
+    country: 'NO', end: 2015-12-03, humandate: 'Dec 02-03, 2015', latitude: 59.94012,
+    longitude: 10.723464, slug: 2015-12-02-Oslo, start: 2015-12-02, url: 'https://huguesfontenelle.github.io/2015-12-02-Oslo/',
+    venue: University of Oslo}
   - {address: '43-G01, Science Teaching Facility, UOW, Wollongong, NSW', contact: bmarwick@uow.edu.au,
     country: AU, end: 2015-12-02, humandate: 'Dec 01-02, 2015', latitude: -34.405678,
     longitude: 150.881178, slug: 2015-12-01-uow, start: 2015-12-01, url: 'https://benmarwick.github.io/2015-12-01-uow/',
@@ -3955,9 +3988,5 @@ workshops:
     end: 2015-11-27, humandate: 'Nov 25-27, 2015', latitude: 60.203843, longitude: 24.9617237,
     slug: 2015-11-25-helsinki, start: 2015-11-25, url: 'https://cbig.github.io/2015-11-25-helsinki/',
     venue: University of Helsinki}
-  - {address: 'Level 4 Mathews Building, UNSW', contact: nchlshnnh@gmail.com, country: AU,
-    end: 2015-11-23, humandate: 'Nov 22-23, 2015', latitude: -33.917763, longitude: 151.23426,
-    slug: 2015-11-23-ccrc, start: 2015-11-22, url: 'https://nicjhan.github.io/2015-11-23-ccrc/',
-    venue: 'Climate Change Research Centre, UNSW Australia'}
 workshops_current: *id001
 workshops_past: *id002

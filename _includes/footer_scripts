@@ -1,5 +1,19 @@
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/javascript.min.js"></script>
 
+<!-- Only include mapping stuff if we're going to draw a map -->
+{% if page.map_url && page.map_element %}
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+<script type="text/javascript" src="http://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerclustererplus/src/markerclusterer.js"></script>
+<script type="text/javascript" src="http://jawj.github.io/OverlappingMarkerSpiderfier/bin/oms.min.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/maps.js"></script>
+<script>
+  SWC.maps.draw("{{ site.baseurl }}/{{ page.map_url }}", "{{ page.map_element }}");
+</script>
+{% else %}
+<!-- page.map_url is "{{page.map_url}}" -->
+<!-- page.map_element is "{{page.map_element}}" -->
+{% endif %}
+
 <script>
   $('p[data-toggle="tooltip"]').tooltip({html: true, placement: "bottom"});
 </script>

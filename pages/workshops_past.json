@@ -1,11 +1,12 @@
 ---
 layout: null
-permalink: /workshops.geojson
+permalink: /workshops_past.json
 ---
 {
   "type": "FeatureCollection",
   "features": [
-  {% for workshop in site.data.amy.workshops_current %}
+  {% for workshop in site.data.amy.workshops_past %}
+    {% unless workshop.longitude == NULL or workshop.latitude == NULL %}
     {
       "type": "Feature",
       "geometry": {
@@ -16,6 +17,6 @@ permalink: /workshops.geojson
         "marker-color": "#2b3990",
         "details": "<a href='{{workshop.url}}'>{{workshop.venue}}: {{workshop.humandate}}</a>"
       }
-    }{% unless forloop.last %},{% endunless %}{% endfor %}
+    }{% unless forloop.last %},{% endunless %}{% endunless %}{% endfor %}
   ]
 }

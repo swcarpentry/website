@@ -2,8 +2,10 @@
 layout: page-fullwidth
 permalink: /team/
 title: Our Team
+map_url: instructors.json
+map_element: map_canvas
 ---
-<script src="https://embed.github.com/view/geojson/gvwilson/feeling-responsive/gh-pages/instructors.geojson"></script>
+<div id="map_canvas" style="width: 98%; height: 500px; margin-left:auto; margin-right: auto; margin-bottom: 15px"></div>
 
 <div align="center">
   {% for flag in site.data.amy.flags.airports %}
