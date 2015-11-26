@@ -13,7 +13,6 @@ def main():
     output_file = sys.argv[1]
 
     config = {
-        'people' : get_relative('_includes/people/*.html', '_includes'),
         'projects' : get_relative('_includes/projects/*.html', '_includes')
     }
 

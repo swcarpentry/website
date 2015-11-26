@@ -20,8 +20,13 @@ map_element: map_canvas
 </div>
 
 <div class="row">
-  {% for person in site.data.includes.people %}
-    <div class="small-6 columns">{% include {{person}} %}</div>
+  {% for person_hash in site.data.people %}
+  {% assign person = person_hash[1] %}
+  <div class="small-6 columns">
+    <p id="{{person.id}}" data-toggle="tooltip" title="<img src='{{site.filesurl}}/people/{{person.id}}.jpg' alt='{{person.name}}'>">
+      {{ person.biography | markdownify }}
+    </p>
+  </div>
     {% cycle '', '</div>' %}
     {% cycle '', '<div class="row">' %}
   {% endfor %}
