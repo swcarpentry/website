@@ -1,0 +1,29 @@
+---
+layout: page-fullwidth
+title: "Blog Post by Category"
+permalink: "/blog/categories/"
+---
+<h1>{{ page.title }}</h1>
+
+{% assign catnames = (site.categories | sort:0) %}
+
+<ul>
+{% for category in catnames %}
+  <li><a href="#{{ category | first | slugify}}">{{ category | first}}</a></li>
+{% endfor %}
+</ul>
+
+<hr/>
+
+{% for category in catnames %}
+<h2><a name="{{ category | first | slugify}}">{{ category | first}}</a></h2>
+<ul>
+  {% for posts in category %}
+    {% for post in posts %}
+      {% if post.title and post.author and post.date %}
+        <li>{{ post.author }} / {{ post.date | date: '%Y-%m-%d' }}: <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+</ul>
+{% endfor %}

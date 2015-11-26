@@ -83,6 +83,8 @@
     url: "/blog/"
   - title: "Blog Archive"
     url: "/blog/archive/"
+  - title: "Blog Posts by Category"
+    url: "/blog/categories/"
   - title: "Commenting Policy"
     url: "/commenting/"
 
