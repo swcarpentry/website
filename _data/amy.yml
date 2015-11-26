@@ -1778,10 +1778,6 @@ workshops:
     humandate: 'Nov 20-21, 2015', latitude: 37.7689175, longitude: -122.3957338, slug: 2015-11-20-ucsf-R,
     start: 2015-11-20, url: 'https://emilydolson.github.io/2015-11-20-ucsf-R/', venue: University
       of California San Francisco}
-  - {address: 'Ullevålsveien 68, 0454 Oslo, Norway', contact: karin.lagesen@vetinst.no,
-    country: 'no', end: 2015-12-11, humandate: 'Nov 20-Dec 11, 2015', latitude: 59.930065,
-    longitude: 10.736389, slug: 2015-11-20-NVI, start: 2015-11-20, url: 'https://karinlag.github.io/2015-11-20-NVI/',
-    venue: Norwegian Veterinary Institute}
   - {address: 'King''s College Circle, Toronto, M5S 1A5', contact: '', country: ca,
     end: 2015-11-20, humandate: 'Nov 19-20, 2015', latitude: 43.661824, longitude: -79.394539,
     slug: 2015-11-19-utoronto, start: 2015-11-19, url: ' http://blog.tomwright.ca/2015-11-19-utoronto/',
@@ -3967,6 +3963,10 @@ workshops:
   - {address: '', contact: '', country: NL, end: 2015-12-08, humandate: 'Dec 07-08,
       2015', latitude: null, longitude: null, slug: 2015-12-07-rijkzwaan, start: 2015-12-07,
     url: 'http://www.datacarpentry.org/2015-12-07-Rijkzwaan/', venue: Rijk Zwaan}
+  - {address: Online, contact: gvwilson@software-carpentry.org, country: W3, end: 2015-12-08,
+    humandate: 'Dec 07-08, 2015', latitude: -48.876667, longitude: -123.393333, slug: 2015-12-07-ttt-toronto,
+    start: 2015-12-07, url: 'https://gvwilson.github.io/2015-12-07-ttt-toronto/',
+    venue: Online}
   - {address: 'The Science Library, Moltke Moes Road 35, 0851 Oslo', contact: hugues.fontenelle@medisin.uio.no,
     country: 'NO', end: 2015-12-03, humandate: 'Dec 02-03, 2015', latitude: 59.94012,
     longitude: 10.723464, slug: 2015-12-02-Oslo, start: 2015-12-02, url: 'https://huguesfontenelle.github.io/2015-12-02-Oslo/',
@@ -3988,5 +3988,9 @@ workshops:
     end: 2015-11-27, humandate: 'Nov 25-27, 2015', latitude: 60.203843, longitude: 24.9617237,
     slug: 2015-11-25-helsinki, start: 2015-11-25, url: 'https://cbig.github.io/2015-11-25-helsinki/',
     venue: University of Helsinki}
+  - {address: 'Ullevålsveien 68, 0454 Oslo, Norway', contact: karin.lagesen@vetinst.no,
+    country: 'NO', end: 2015-12-11, humandate: 'Nov 20-Dec 11, 2015', latitude: 59.930065,
+    longitude: 10.736389, slug: 2015-11-20-NVI, start: 2015-11-20, url: 'https://karinlag.github.io/2015-11-20-NVI/',
+    venue: Norwegian Veterinary Institute}
 workshops_current: *id001
 workshops_past: *id002

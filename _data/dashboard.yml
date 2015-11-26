@@ -1,4 +1,4 @@
-num_issues: 225
+num_issues: 219
 num_repos: 15
 records:
 - description: Unix Shell
@@ -400,16 +400,12 @@ records:
     url: 'https://github.com/swcarpentry/website/issues/26'}
   - {number: 23, title: Improve layout of workshops request page, updated: '2015-11-21',
     url: 'https://github.com/swcarpentry/website/issues/23'}
-  - {number: 22, title: Improve layout of upcoming workshops page, updated: '2015-11-21',
-    url: 'https://github.com/swcarpentry/website/issues/22'}
   - {number: 18, title: Need better layout for lessons page, updated: '2015-11-21',
     url: 'https://github.com/swcarpentry/website/issues/18'}
   - {number: 10, title: Blog posts not indexed/displayed by category or author, updated: '2015-11-21',
     url: 'https://github.com/swcarpentry/website/issues/10'}
   - {number: 35, title: Add a generic pitch for potential hosts, updated: '2015-11-22',
     url: 'https://github.com/swcarpentry/website/issues/35'}
-  - {number: 34, title: Workshops should show up as "past" only once we're past their
-      end date, updated: '2015-11-22', url: 'https://github.com/swcarpentry/website/issues/34'}
   - {number: 39, title: Use _data files for persons and projects to remove need for
       preprocessor, updated: '2015-11-23', url: 'https://github.com/swcarpentry/website/issues/39'}
   - {number: 43, title: Calendar points at old web site, updated: '2015-11-24', url: 'https://github.com/swcarpentry/website/issues/43'}
@@ -420,25 +416,18 @@ records:
     url: 'https://github.com/swcarpentry/website/issues/14'}
   - {number: 8, title: Archived blog posts not separated by year/month dividers, updated: '2015-11-24',
     url: 'https://github.com/swcarpentry/website/issues/8'}
-  - {number: 4, title: GeoJSON-based maps not displaying correctly, updated: '2015-11-24',
-    url: 'https://github.com/swcarpentry/website/issues/4'}
   - {number: 3, title: GeoJSON files may contain unwanted trailing commas, updated: '2015-11-24',
     url: 'https://github.com/swcarpentry/website/issues/3'}
-  - {number: 51, title: 'Fixes #34: Show workshops by end date.', updated: '2015-11-25',
-    url: 'https://github.com/swcarpentry/website/pull/51'}
-  - {number: 50, title: Two closing 'head' tags, updated: '2015-11-25', url: 'https://github.com/swcarpentry/website/issues/50'}
   - {number: 49, title: Add link to instructor training course materials to lessons
       page, updated: '2015-11-25', url: 'https://github.com/swcarpentry/website/issues/49'}
   - {number: 48, title: Add names of Advisory Council members to website, updated: '2015-11-25',
     url: 'https://github.com/swcarpentry/website/issues/48'}
   - {number: 47, title: Add a page explaining how to create a new lesson, updated: '2015-11-25',
     url: 'https://github.com/swcarpentry/website/issues/47'}
-  - {number: 46, title: Enabling comments., updated: '2015-11-25', url: 'https://github.com/swcarpentry/website/pull/46'}
   - {number: 40, title: Comments not showing up on blog posts, updated: '2015-11-25',
     url: 'https://github.com/swcarpentry/website/issues/40'}
   - {number: 27, title: Need better layout for the "join" page, updated: '2015-11-25',
     url: 'https://github.com/swcarpentry/website/issues/27'}
-  - {number: 2, title: Faces do not show up when mousing over biographies, updated: '2015-11-25',
-    url: 'https://github.com/swcarpentry/website/issues/2'}
+  - {number: 46, title: Enabling comments., updated: '2015-11-26', url: 'https://github.com/swcarpentry/website/pull/46'}
   url: https://github.com/swcarpentry/website
-timestamp: '2015-11-25T18:39:53Z'
+timestamp: '2015-11-26T06:48:00Z'
