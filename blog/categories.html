@@ -1,0 +1,34 @@
+---
+layout: page-fullwidth
+title: "Blog Post by Category"
+permalink: "/blog/categories/"
+---
+{% assign catnames = (site.categories | sort:0) %}
+
+<table class="table table-striped">
+{% for category in catnames %}
+  {% cycle '<tr>', '', '', '' %}
+    <td><a href="#{{ category | first | slugify}}">{{ category | first}}</a></td>
+  {% cycle '', '', '', '</tr>' %}
+{% endfor %}
+{% assign width = catnames.size|modulo: 4 %}
+{% unless width == 4 %}
+  {% for i in (width..3) %}
+    <td>&nbsp;</td>
+  {% endfor %}
+  </tr>
+{% endunless %}
+</table>
+
+{% for category in catnames %}
+<h3><a name="{{ category | first | slugify}}">{{ category | first}}</a></h3>
+<ul>
+  {% for posts in category %}
+    {% for post in posts %}
+      {% if post.title and post.author and post.date %}
+        <li>{{ post.author }} / {{ post.date | date: '%Y-%m-%d' }}: <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+</ul>
+{% endfor %}
