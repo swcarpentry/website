@@ -40,6 +40,8 @@
     url: "/workshops/"
   - title: "Code of Conduct"
     url: "/conduct/"
+  - title: "Pitching a Workshop"
+    url: "/workshops/pitch/"
   - title: "Request a Workshop"
     url: "/workshops/request/"
   - title: "Workshop Operations"
