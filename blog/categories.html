@@ -12,7 +12,7 @@ permalink: "/blog/categories/"
   {% cycle '', '', '', '</tr>' %}
 {% endfor %}
 {% assign width = catnames.size|modulo: 4 %}
-{% unless width == 4 %}
+{% unless width == 0 %}
   {% for i in (width..3) %}
     <td>&nbsp;</td>
   {% endfor %}
