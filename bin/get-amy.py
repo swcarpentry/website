@@ -3,6 +3,7 @@
 '''Fetch info about workshops, airports, etc. from AMY.'''
 
 import sys
+import time
 import datetime
 import ssl
 import urllib.request
@@ -19,14 +20,15 @@ def main():
 
     # Get stock information from AMY.
     config = {
+        'timestamp' : time.strftime('%Y%m%dT%H%M%SZ', time.gmtime()),
         'badges' : fetch_info(amy_url, 'export/badges.yaml'),
         'airports' : fetch_info(amy_url, 'export/instructors.yaml')
     }
 
     # Adjust.
     config['workshops_past'], config['workshops_current'] = \
-        split_workshops(fetch_info(amy_url, 'events/published.yaml'),
-                        datetime.date.today())
+        split_workshops(fetch_info(amy_url, 'events/published.yaml'), \
+                                   datetime.date.today())
     config['workshops'] = [config['workshops_past'], config['workshops_current']]
 
     # Coalesce flag information.

@@ -1764,8 +1764,22 @@ flags:
     sg, th, us, ve, za]
   workshops: [au, br, ca, ch, cn, cy, de, dk, es, fi, fr, gb, gh, id, in, it, jo,
     kr, lb, nl, 'no', nz, pl, sa, se, th, us, ve, za]
+timestamp: 20151128T080555Z
 workshops:
 - &id002
+  - {address: Lincoln University, contact: events@nesi.org.nz, country: nz, end: 2015-11-27,
+    humandate: 'Nov 26-27, 2015', latitude: -43.646626, longitude: 172.467178, slug: 2015-11-26-lincoln,
+    start: 2015-11-26, url: 'https://nesi.github.io/2015-11-26-lincoln/', venue: NeSI
+      - Lincoln Region Workshop}
+  - {address: 'Room 4325D, James Clerk Maxwell Building, Peter Guthrie Tait Road,
+      Edinburgh, EH9 3FD.', contact: wborek@staffmail.ed.ac.uk, country: gb, end: 2015-11-26,
+    humandate: 'Nov 25-26, 2015', latitude: 55.921862, longitude: -3.173654, slug: 2015-11-25-edinburgh,
+    start: 2015-11-25, url: 'https://marioa.github.io/2015-11-25-edinburgh/', venue: The
+      University of Edinburgh}
+  - {address: Erik Palménin aukio 1, contact: joona.lehtomaki@helsinki.fi, country: fi,
+    end: 2015-11-27, humandate: 'Nov 25-27, 2015', latitude: 60.203843, longitude: 24.9617237,
+    slug: 2015-11-25-helsinki, start: 2015-11-25, url: 'https://cbig.github.io/2015-11-25-helsinki/',
+    venue: University of Helsinki}
   - {address: 'Level 4 Mathews Building, UNSW', contact: nchlshnnh@gmail.com, country: au,
     end: 2015-11-23, humandate: 'Nov 22-23, 2015', latitude: -33.917763, longitude: 151.23426,
     slug: 2015-11-23-ccrc, start: 2015-11-22, url: 'https://nicjhan.github.io/2015-11-23-ccrc/',
@@ -3950,6 +3964,11 @@ workshops:
     country: US, end: 2015-12-18, humandate: 'Dec 14-18, 2015', latitude: 39.001305,
     longitude: -77.104909, slug: 2015-12-14-NIH, start: 2015-12-14, url: 'https://agt24.github.io/2015-12-14-NIH/',
     venue: NIH Library}
+  - {address: 'Atlas and Collab1 rooms, Kilburn Building, Oxford Road,  M13 9PL Manchester',
+    contact: admin-uk@software-carpentry, country: GB, end: 2015-12-15, humandate: 'Dec
+      14-15, 2015', latitude: 53.467293, longitude: -2.233876, slug: 2015-12-wise-uk,
+    start: 2015-12-14, url: 'https://apawlik.github.io/2015-12-wise-uk/', venue: ARCHER
+      and SSI workshop for Women in Science and Engineering}
   - {address: 'Room 2011, 37 Kent St, Woolloongabba, Queensland, Australia, 4102',
     contact: b.weaver@uq.edu.au, country: AU, end: 2015-12-10, humandate: 'Dec 09-10,
       2015', latitude: -27.498869, longitude: 153.031914, slug: 2015-12-09-TRI, start: 2015-12-09,
@@ -3966,7 +3985,7 @@ workshops:
   - {address: Online, contact: gvwilson@software-carpentry.org, country: W3, end: 2015-12-08,
     humandate: 'Dec 07-08, 2015', latitude: -48.876667, longitude: -123.393333, slug: 2015-12-07-ttt-toronto,
     start: 2015-12-07, url: 'https://gvwilson.github.io/2015-12-07-ttt-toronto/',
-    venue: Online}
+    venue: Online (Toronto)}
   - {address: 'The Science Library, Moltke Moes Road 35, 0851 Oslo', contact: hugues.fontenelle@medisin.uio.no,
     country: 'NO', end: 2015-12-03, humandate: 'Dec 02-03, 2015', latitude: 59.94012,
     longitude: 10.723464, slug: 2015-12-02-Oslo, start: 2015-12-02, url: 'https://huguesfontenelle.github.io/2015-12-02-Oslo/',
@@ -3975,19 +3994,6 @@ workshops:
     country: AU, end: 2015-12-02, humandate: 'Dec 01-02, 2015', latitude: -34.405678,
     longitude: 150.881178, slug: 2015-12-01-uow, start: 2015-12-01, url: 'https://benmarwick.github.io/2015-12-01-uow/',
     venue: University of Wollongong}
-  - {address: Lincoln University, contact: events@nesi.org.nz, country: NZ, end: 2015-11-27,
-    humandate: 'Nov 26-27, 2015', latitude: -43.646626, longitude: 172.467178, slug: 2015-11-26-lincoln,
-    start: 2015-11-26, url: 'https://nesi.github.io/2015-11-26-lincoln/', venue: NeSI
-      - Lincoln Region Workshop}
-  - {address: 'Room 4325D, James Clerk Maxwell Building, Peter Guthrie Tait Road,
-      Edinburgh, EH9 3FD.', contact: wborek@staffmail.ed.ac.uk, country: GB, end: 2015-11-26,
-    humandate: 'Nov 25-26, 2015', latitude: 55.921862, longitude: -3.173654, slug: 2015-11-25-edinburgh,
-    start: 2015-11-25, url: 'https://marioa.github.io/2015-11-25-edinburgh/', venue: The
-      University of Edinburgh}
-  - {address: Erik Palménin aukio 1, contact: joona.lehtomaki@helsinki.fi, country: FI,
-    end: 2015-11-27, humandate: 'Nov 25-27, 2015', latitude: 60.203843, longitude: 24.9617237,
-    slug: 2015-11-25-helsinki, start: 2015-11-25, url: 'https://cbig.github.io/2015-11-25-helsinki/',
-    venue: University of Helsinki}
   - {address: 'Ullevålsveien 68, 0454 Oslo, Norway', contact: karin.lagesen@vetinst.no,
     country: 'NO', end: 2015-12-11, humandate: 'Nov 20-Dec 11, 2015', latitude: 59.930065,
     longitude: 10.736389, slug: 2015-11-20-NVI, start: 2015-11-20, url: 'https://karinlag.github.io/2015-11-20-NVI/',
