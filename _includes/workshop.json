@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {% assign workshops = "" | split: "/" %}
+    {% for workshop in include.datas %}
+      {% if workshop.longitude <> NULL and workshop.latitude <> NULL %}{% capture w %}
+
+      {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[{{workshop.longitude}},{{workshop.latitude}}]
+      },
+      "properties": {
+        "marker-color": "#2b3990",
+        "details": "<a href='{{workshop.url}}'>{{workshop.venue}}: {{workshop.humandate}}</a>"
+      }
+}
+      {% endcapture %}
+      {% assign workshops = workshops | push: w %}
+      {% endif %}
+      {% endfor %}
+      {{ workshops | join: ", "}}
+  ]
+}
