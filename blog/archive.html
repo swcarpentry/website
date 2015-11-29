@@ -8,7 +8,7 @@ permalink: "/blog/archive/"
     <h1>{{ page.title }}</h1>
     {% if page.teaser %}<p class="teaser">{{ page.teaser }}</p>{% endif %}
     <dl class="accordion" data-accordion>
-      {% for post in site.posts limit %}
+      {% for post in site.posts %}
       <dd class="accordion-navigation">
       <a href="#panel{{ forloop.index }}"><span class="iconfont"></span> {% if post.subheadline %}{{ post.subheadline }} › {% endif %}<strong>{{ post.title }}</strong></a>
         <div id="panel{{ forloop.index }}" class="content">
