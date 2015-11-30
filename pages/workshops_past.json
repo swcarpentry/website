@@ -2,21 +2,27 @@
 layout: null
 permalink: /workshops_past.json
 ---
+{% assign first = true %}
 {
   "type": "FeatureCollection",
   "features": [
   {% for workshop in site.data.amy.workshops_past %}
     {% unless workshop.longitude == NULL or workshop.latitude == NULL %}
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates":[{{workshop.longitude}},{{workshop.latitude}}]
-      },
-      "properties": {
-        "marker-color": "#2b3990",
-        "details": "<a href='{{workshop.url}}'>{{workshop.venue}}: {{workshop.humandate}}</a>"
+      {% if first == true %}
+        {% assign first = false %}
+      {% else %},{% endif %}
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates":[{{workshop.longitude}},{{workshop.latitude}}]
+        },
+        "properties": {
+          "marker-color": "#2b3990",
+          "details": "<a href='{{workshop.url}}'>{{workshop.venue}}: {{workshop.humandate}}</a>"
+        }
       }
-    }{% unless forloop.last %},{% endunless %}{% endunless %}{% endfor %}
+    {% endunless %}
+  {% endfor %}
   ]
 }
