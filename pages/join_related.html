@@ -4,10 +4,10 @@ permalink: /join/projects/
 title: Related Projects
 ---
 <div class="row">
-  <div class="small-4 columns">
+  <div class="medium-4 columns">
     <img src="{{site.filesurl}}/orgs/data-carpentry-large.png" alt="Data Carpentry" />
   </div>
-  <div class="small-8 columns">
+  <div class="medium-8 columns">
     <p>
       Our sibling project Data Carpentry develops and teaches workshops on the fundamental data skills needed to conduct research.
       Its mission is to provide researchers high-quality, domain-specific training covering the full lifecycle of data-driven research.
@@ -23,7 +23,7 @@ title: Related Projects
 
 <div class="row">
   {% for project in site.data.includes.projects %}
-    <div class="small-6 columns">{% include {{project}} %}</div>
+    <div class="medium-6 columns">{% include {{project}} %}</div>
     {% cycle '', '</div>' %}
     {% cycle '', '<div class="row">' %}
   {% endfor %}
