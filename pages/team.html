@@ -21,7 +21,7 @@ map_element: map_canvas
 
 <div class="row">
   {% for person in site.data.includes.people %}
-    <div class="small-6 columns">{% include {{person}} %}</div>
+    <div class="medium-6 columns">{% include {{person}} %}</div>
     {% cycle '', '</div>' %}
     {% cycle '', '<div class="row">' %}
   {% endfor %}
