@@ -2,12 +2,15 @@
 layout: null
 permalink: /workshops.json
 ---
+{% assign first = true %}
 {
   "type": "FeatureCollection",
   "features": [
   {% for workshop in site.data.amy.workshops_current %}
     {% unless workshop.longitude == NULL or workshop.latitude == NULL %}
-      {% unless forloop.first %},{% endunless %}
+      {% if first == true %}
+        {% assign first = false %}
+      {% else %},{% endif %}
       {
         "type": "Feature",
         "geometry": {
