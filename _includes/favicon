@@ -7,7 +7,7 @@
 
 {% if site.favicon-32x32 %}
 	{% comment %} Regular Old-Skool Favicon: {% endcomment %}
-	<link rel="icon" sizes="32x32" href="{{ site.url }}/assets/img/{{ site.favicon-32x32 }}" />
+	<link rel="icon" sizes="32x32" href="{{ site.url }}/{{ site.favicon-32x32 }}" />
 {% endif %}
 
 
