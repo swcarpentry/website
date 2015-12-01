@@ -270,7 +270,6 @@ h3.masthead {
 #footer-content li {
     font-size: rem-calc(13);
     font-weight: 300;
-    padding-bottom: 10px;
 }
 
 #footer {
@@ -278,18 +277,17 @@ h3.masthead {
     padding-bottom: 0px;
     background: $footer-bg;
     color: $footer-color;
-}
+    }
 
-#footer a {
-    color: $footer-link-color;
-}
-
-#footer h4,
-#footer h5 {
-    letter-spacing: 1px;
-    color: #fff;
-    text-transform: uppercase;
-}
+    #footer a {
+        color: $footer-link-color;
+    }
+    #footer h4,
+    #footer h5 {
+        letter-spacing: 1px;
+        color: #fff;
+        text-transform: uppercase;
+    }
 
 
 
@@ -297,28 +295,17 @@ h3.masthead {
 ------------------------------------------------------------------- */
 
 
-#footer-left p {
-    position: absolute;
-    bottom: 0px;
-}
-
-#footer-left ul.inline-list {
-    float: left;
-}
-
-#footer-right ul.inline-list {
-    position: absolute;
-    bottom: 0px;
-}
-
-#footer .credits a {
-    color: $footer-link-color;
-    border: 0;
-    text-transform: uppercase;
-    &:hover {
-        color: #fff;
+    #footer-left ul.inline-list {
+        float: left;
     }
-}
+    #footer .credits a {
+        color: $footer-link-color;
+        border: 0;
+        text-transform: uppercase;
+        &:hover {
+            color: #fff;
+        }
+    }
 
     #footer .social-icons li a {
         font-size: rem-calc(23);
@@ -351,7 +338,7 @@ h3.masthead {
 
 .b15 { margin-bottom: 15px !important; }
 .b20 { margin-bottom: 20px !important; }
-.b30 { margin-bottom: 0px !important; }
+.b30 { margin-bottom: 30px !important; }
 .b60 { margin-bottom: 60px !important; }
 
 .l15 { margin-left: 15px !important; }

@@ -18,13 +18,13 @@
           </div><!-- /.large-6.columns -->
 
 
-          <div class="small-6 medium-3 large-3 large-offset-1 columns">
+          <div class="medium-3 large-3 large-offset-1 columns">
             {% for service_item in site.data.services %}
               {% if forloop.first == true %}
                 <h5 class="shadow-black">{{ service_item.menu_name }}</h5>
               {% endif %}
             {% endfor %}
-              
+
               <ul class="no-bullet shadow-black">
               {% for service_item in site.data.services %}
                 {% if service_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% assign domain = site.baseurl %}{% endif %}
@@ -37,14 +37,20 @@
 
         </div><!-- /.row -->
 
+      </div><!-- /#footer -->
+
+
+      <div id="footer">
         <nav class="row">
-          <section id="footer-left" class="b30 small-12 medium-6 columns credits">
-            <p>
-              Site design: <a href="http://phlow.github.io/feeling-responsive/">Feeling&nbsp;Responsive</a>.
-            </p>
+          <section id="footer-left" class="b30 small-6 medium-6 columns credits">
+            <ul class="inline-list">
+            <li>
+                Site design: <a style="display: inline;" href="http://phlow.github.io/feeling-responsive/">Feeling&nbsp;Responsive</a>.
+            </li>
+            </ul>
           </section>
 
-          <section id="footer-right" class="small-12 medium-6 columns social-icons">
+          <section id="footer-right" class="small-6 medium-3 columns social-icons">
             <ul class="inline-list">
             {% for social_item in site.data.socialmedia %}
               <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
