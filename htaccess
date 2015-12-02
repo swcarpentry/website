@@ -1,0 +1,186 @@
+---
+layout: null
+permalink: .htaccess
+---
+<IfModule mod_rewrite.c>
+
+RewriteEngine On
+RewriteBase /
+AddDefaultCharset UTF-8
+
+##---- Bibliography ----
+
+# /bib/bib.html => /reading/
+RewriteCond %{REQUEST_URI} ^/bib/bib.html$
+RewriteRule ^/bib/bib.html$ /reading/ [R,L]
+
+# /bib/reading.html => /reading/
+RewriteCond %{REQUEST_URI} ^/bib/reading.html$
+RewriteRule ^/bib/reading.html$ /reading/ [R,L]
+
+##---- Blog ----
+
+# /blog/archives.html => /blog/archive/
+RewriteCond %{REQUEST_URI} ^/blog/archives.html$
+RewriteRule ^/blog/archives.html$ /blog/archives/ [R,L]
+
+##---- Lessons ----
+
+# /lessons.html => /lessons/
+RewriteCond %{REQUEST_URI} ^/lessons.html$
+RewriteRule ^/lessons.html$ /lessons/ [R,L]
+
+# /pages/dashboard.html => /lessons/dashboard/
+RewriteCond %{REQUEST_URI} ^/pages/dashboard.html$
+RewriteRule ^/pages/dashboard.html$ /lessons/dashboard/ [R,L]
+
+##---- Miscellaneous Root Directory Pages ----
+
+# /conduct.html => /conduct/
+RewriteCond %{REQUEST_URI} ^/conduct.html$
+RewriteRule ^/conduct.html$ /conduct/ [R,L]
+
+# /faq.html => /faq/
+RewriteCond %{REQUEST_URI} ^/faq.html$
+RewriteRule ^/faq.html$ /faq/ [R,L]
+
+# /license.html => /license/
+RewriteCond %{REQUEST_URI} ^/license.html$
+RewriteRule ^/license.html$ /license/ [R,L]
+
+# /pages/index.html => / (no separate listing of miscellaneous pages)
+RewriteCond %{REQUEST_URI} ^/pages/index.html$
+RewriteRule ^/pages/index.html$ / [R,L]
+
+# /pages/audience.html => /audience/
+RewriteCond %{REQUEST_URI} ^/pages/audience.html$
+RewriteRule ^/pages/audience.html$ /audience/ [R,L]
+
+# /pages/commenting.html => /commenting/
+RewriteCond %{REQUEST_URI} ^/pages/commenting.html$
+RewriteRule ^/pages/commenting.html$ /commenting/ [R,L]
+
+# /pages/join.html => /join/
+RewriteCond %{REQUEST_URI} ^/pages/join.html$
+RewriteRule ^/pages/join.html$ /join/ [R,L]
+
+# /pages/projects.html => /join/help/
+RewriteCond %{REQUEST_URI} ^/pages/projects.html$
+RewriteRule ^/pages/projects.html$ /join/help/ [R,L]
+
+# /pages/team.html => /team/
+RewriteCond %{REQUEST_URI} ^/pages/team.html$
+RewriteRule ^/pages/team.html$ /team/ [R,L]
+
+# /pages/testimonials.html => /testimonials/
+RewriteCond %{REQUEST_URI} ^/pages/testimonials.html$
+RewriteRule ^/pages/testimonials.html$ /testimonials/ [R,L]
+
+# /pages/training.html => /join/
+RewriteCond %{REQUEST_URI} ^/pages/training.html$
+RewriteRule ^/pages/training.html$ /join/ [R,L]
+
+##---- Software Carpentry Foundation ----
+
+# /scf/history.html => /scf/history/
+RewriteCond %{REQUEST_URI} ^/pages/history.html$
+RewriteRule ^/pages/history.html$ /scf/history/ [R,L]
+
+# /scf/members.html => /scf/members/
+RewriteCond %{REQUEST_URI} ^/pages/members.html$
+RewriteRule ^/pages/members.html$ /scf/members/ [R,L]
+
+# /scf/supporters.html => /scf/partners/
+RewriteCond %{REQUEST_URI} ^/pages/supporters.html$
+RewriteRule ^/pages/supporters.html$ /scf/partners/ [R,L]
+
+## These items are no longer duplicated in the site.
+## scf/index.html points people at the public 'board' repository.
+
+RewriteCond %{REQUEST_URI} ^/scf/advisory-council.html$
+RewriteRule ^/scf/advisory-council.html$ /scf/ [R,L]
+
+RewriteCond %{REQUEST_URI} ^/scf/committee-roles.html$
+RewriteRule ^/scf/committee-roles.html$ /scf/ [R,L]
+
+RewriteCond %{REQUEST_URI} ^/scf/executive-director.html$
+RewriteRule ^/scf/executive-director.html$ /scf/ [R,L]
+
+RewriteCond %{REQUEST_URI} ^/scf/governance.html$
+RewriteRule ^/scf/governance.html$ /scf/ [R,L]
+
+RewriteCond %{REQUEST_URI} ^/scf/issue-escalation.html$
+RewriteRule ^/scf/issue-escalation.html$ /scf/ [R,L]
+
+RewriteCond %{REQUEST_URI} ^/scf/membership.html$
+RewriteRule ^/scf/membership.html$ /scf/ [R,L]
+
+RewriteCond %{REQUEST_URI} ^/scf/minutes.html$
+RewriteRule ^/scf/minutes.html$ /scf/ [R,L]
+
+RewriteCond %{REQUEST_URI} ^/scf/steering-committee.html$
+RewriteRule ^/scf/steering-committee.html$ /scf/ [R,L]
+
+RewriteCond %{REQUEST_URI} ^/scf/workshops.html$
+RewriteRule ^/scf/workshops.html$ /scf/ [R,L]
+
+##---- Workshops ----
+
+# /workshops/assess/* => /workshops/ (no longer cache assessment here)
+RewriteCond %{REQUEST_URI} ^/workshops/assess
+RewriteRule ^/workshops/assess/*$ /workshops/ [R,L]
+
+# /workshops/operations.html => /workshops/operations/
+RewriteCond %{REQUEST_URI} ^/workshops/operations.html
+RewriteRule ^/workshops/operations.html$ /workshops/operations/ [R,L]
+
+# /workshops/pitch.html => /workshops/pitch/
+RewriteCond %{REQUEST_URI} ^/workshops/pitch.html
+RewriteRule ^/workshops/pitch.html$ /workshops/pitch/ [R,L]
+
+# /workshops/previous.html => /workshops/past/
+RewriteCond %{REQUEST_URI} ^/workshops/previous.html
+RewriteRule ^/workshops/previous.html$ /workshops/past/ [R,L]
+
+# /workshops/request.html => /workshops/request/
+RewriteCond %{REQUEST_URI} ^/workshops/request.html
+RewriteRule ^/workshops/request.html$ /workshops/request/ [R,L]
+
+# /workshops/setup.html => /workshops/
+RewriteCond %{REQUEST_URI} ^/workshops/setup.html
+RewriteRule ^/workshops/setup.html$ /workshops/ [R,L]
+
+## Checklists
+
+RewriteCond %{REQUEST_URI} ^/workshops/checklists/index.html
+RewriteRule ^/workshops/checklists/index.html$ /workshops/ [R,L]
+
+RewriteCond %{REQUEST_URI} ^/workshops/checklists/accessibility.html
+RewriteRule ^/workshops/checklists/accessibility.html$ /checklists/accessibility/ [R,L]
+
+RewriteCond %{REQUEST_URI} ^/workshops/checklists/admin.html
+RewriteRule ^/workshops/checklists/admin.html$ /checklists/admin/ [R,L]
+
+RewriteCond %{REQUEST_URI} ^/workshops/checklists/helpers.html
+RewriteRule ^/workshops/checklists/helpers.html$ /checklists/helpers/ [R,L]
+
+RewriteCond %{REQUEST_URI} ^/workshops/checklists/host.html
+RewriteRule ^/workshops/checklists/host.html$ /checklists/host/ [R,L]
+
+RewriteCond %{REQUEST_URI} ^/workshops/checklists/instructors.html
+RewriteRule ^/workshops/checklists/instructors.html$ /checklists/instructor/ [R,L]
+
+RewriteCond %{REQUEST_URI} ^/workshops/checklists/lead_instructor.html
+RewriteRule ^/workshops/checklists/lead_instructor.html$ /checklists/lead_instructor/ [R,L]
+
+RewriteCond %{REQUEST_URI} ^/workshops/checklists/learners.html
+RewriteRule ^/workshops/checklists/learners.html$ /checklists/learner/ [R,L]
+
+RewriteCond %{REQUEST_URI} ^/workshops/checklists/travel.html
+RewriteRule ^/workshops/checklists/travel.html$ /checklists/instructor/ [R,L]
+
+</IfModule>
+
+<Files "feed.xml">
+ForceType application/rss+xml
+</Files>
