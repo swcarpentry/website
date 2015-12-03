@@ -1,4 +1,17 @@
 # ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
+
+#
+# Build settings
+# - https://github.com/jekyll/jekyll-redirect-from
+#
+
+gems:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
+
+
 #
 #      _____ _ __          _____      __  __  _                 
 #     / ___/(_) /____     / ___/___  / /_/ /_(_)___  ____ ______
