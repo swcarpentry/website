@@ -20,11 +20,15 @@ includes :
 
 ## serve      : run a local server.
 serve : 
-	jekyll serve --config _config.yml,_config_dev.yml --verbose
+	bundle exec jekyll serve --config _config.yml,_config_dev.yml --verbose
 
 ## build      : build files but do not run a server.
 build : 
-	jekyll build
+	bundle exec jekyll build
+
+## install    : install missing Ruby gems using bundle.
+install :
+	bundle install
 
 #-------------------------------------------------------------------------------
 
