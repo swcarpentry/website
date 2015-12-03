@@ -84,6 +84,7 @@ body.video cite { color: #fff; }
 }
 #masthead-no-image-header #logo img {
     margin-top: 10px;
+    max-width: 445px;
 }
 
 h3.masthead {
@@ -123,6 +124,7 @@ h3.masthead {
 @media #{$medium-only} {
     #logo img {
         margin-top: 60px;
+        max-width: 445px;
     }
     #masthead {
         height: 280px;
@@ -146,6 +148,7 @@ h3.masthead {
 @media #{$large-only} {
     #logo img {
         margin-top: 40px;
+        max-width: 445px;
     }
     #masthead {
         height: 3px;
@@ -169,6 +172,7 @@ h3.masthead {
 @media #{$xlarge-up} {
     #logo img {
         margin-top: 110px;
+        max-width: 445px;
     }
     #masthead {
         height: 380px;

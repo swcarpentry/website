@@ -60,8 +60,7 @@ flag_size       : 16
 urlimg: 'http://dev.software-carpentry.org/files/'
 
 # Logo image (white with transparent background to stand out on blue background)
-logo: "logo-white.png"
-# logo: "logo-blue.png"
+logo: "logo-white.svg"
 
 # Paginates all X entries
 paginate: 10
