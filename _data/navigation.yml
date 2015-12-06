@@ -29,6 +29,8 @@
     url: "/scf/partners/"
   - title: "Become a Partner"
     url: "/scf/join/"
+  - title: "Our Members"
+    url: "/scf/members/"
   - title: "Our History"
     url: "/scf/history/"
 
