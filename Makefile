@@ -19,11 +19,15 @@ includes :
 	${PY} bin/get-includes.py _data/includes.yml
 
 ## serve      : run a local server.
-serve : 
+serve :
 	bundle exec jekyll serve --config _config.yml,_config_dev.yml --verbose
 
+## offline    : run a local server FOR OFFLINE USE with fallback assets
+offline :
+	bundle exec jekyll serve --config _config.yml,_config_dev.yml,_config_offline.yml
+
 ## build      : build files but do not run a server.
-build : 
+build :
 	bundle exec jekyll build
 
 ## install    : install missing Ruby gems using bundle.
