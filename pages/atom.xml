@@ -3,7 +3,7 @@ layout: null
 permalink: /atom.xml
 title: Atom Feed
 ---
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>{% include setup/define-assets-urls %}
 <?xml-stylesheet type="text/xsl" href="{{ site.baseurl }}/assets/xslt/atom.xslt" ?>
 <?xml-stylesheet type="text/css" href="{{ site.baseurl }}/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
