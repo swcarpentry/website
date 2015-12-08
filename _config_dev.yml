@@ -5,9 +5,9 @@
 #
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
 
-url: 'http://localhost:4000'
-filesurl: 'http://localhost:4000/files'
-urlimg: 'http://localhost:4000/files/'
+url: 'http://0.0.0.0:4000'
+filesurl: 'http://0.0.0.0:4000/files'
+urlimg: 'http://0.0.0.0:4000/files/'
 
 sass:
   # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
@@ -20,3 +20,41 @@ sass:
 
 # Disable when not in production
 google_analytics_tracking_id:
+
+#############################################
+# Assets configuration
+#############################################
+
+# extensionless url allows to automatically switch
+# to current page protocol (http or https)
+# to avoid mixed content problems
+# distant-assets-url: "//swcarpentry.github.io/styles/"
+
+# repository url
+# NO TRAILING SLASH
+distantAssetsUrl: "http://0.0.0.0:8000"
+
+# path : "/styles"
+# NO TRAILING SLASH
+# Leave empty if assets are at the root of the domain
+distantAssetsPath: "/assets"
+
+exclude:
+    - .sass-cache
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - INSTALL.md
+    - Makefile
+    - _posts/2015 # ignoring some posts to speed build in dev
+    - _posts/2014
+    - _posts/2013
+    - _posts/2012
+    - _posts/2011
+    - _posts/2010
+    - _posts/2009
+    - _posts/2008
+    - _posts/2007
+    - _posts/2006
+
