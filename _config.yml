@@ -29,6 +29,49 @@ distantAssetsUrl: "http://swctasks.github.io"
 # Leave empty if assets are at the root of the domain
 distantAssetsPath: "/styles/assets"
 
+#############################################
+# Social medias - used in footer
+#############################################
+socialmedia:
+  - name: GitHub
+    url: http://github.com/swcarpentry
+    class: icon-github
+    title: Source
+
+  - name: Twitter
+    url: http://twitter.com/swcarpentry
+    class: icon-twitter
+    title: "Software Carpentry on Twitter"
+
+  - name: YouTube
+    url: https://www.youtube.com/user/softwarecarpentry
+    class: icon-youtube
+    title: "Software Carpentry Videos"
+
+
+#############################################
+# Services - used in footer
+#############################################
+services:
+  - name: "Contact"
+    url: "/contact/"
+    title: "Contact"
+
+  - name: "RSS"
+    url: "/feed.xml"
+    title: "Subscribe to RSS Feed"
+
+  - name: "sitemap.xml"
+    url: "/sitemap.xml"
+    title: "Sitemap for Google Webmaster Tools"
+
+  - name: "License"
+    url: "/license/"
+    title: "License"
+
+
+
+
 #
 #      _____ _ __          _____      __  __  _
 #     / ___/(_) /____     / ___/___  / /_/ /_(_)___  ____ ______
