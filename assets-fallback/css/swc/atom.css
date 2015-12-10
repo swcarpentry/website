@@ -1,1 +1,189 @@
-.font-size-h1{font-size:2.441em}.font-size-h2{font-size:1.953em}.font-size-h3{font-size:1.563em}.font-size-h4{font-size:1.25em}.font-size-h5{font-size:1.152em}meta.foundation-version{font-family:"/5.5.0/"}meta.foundation-mq-small{font-family:"/only screen/";width:0em}meta.foundation-mq-small-only{font-family:"/only screen and (max-width: 40em)/";width:0em}meta.foundation-mq-medium{font-family:"/only screen and (min-width:40.063em)/";width:40.063em}meta.foundation-mq-medium-only{font-family:"/only screen and (min-width:40.063em) and (max-width:64em)/";width:40.063em}meta.foundation-mq-large{font-family:"/only screen and (min-width:64.063em)/";width:64.063em}meta.foundation-mq-large-only{font-family:"/only screen and (min-width:64.063em) and (max-width:90em)/";width:64.063em}meta.foundation-mq-xlarge{font-family:"/only screen and (min-width:90.063em)/";width:90.063em}meta.foundation-mq-xlarge-only{font-family:"/only screen and (min-width:90.063em) and (max-width:120em)/";width:90.063em}meta.foundation-mq-xxlarge{font-family:"/only screen and (min-width:120.063em)/";width:120.063em}meta.foundation-data-attribute-namespace{font-family:false}*{display:block}:root{margin:3em;background:#fdfdfd;color:#111;font-family:"Lato","Helvetica Neue",Helvetica,Arial,sans-serif}feed>title{text-align:center;color:#6877d2;font-family:"Volkhov",Georgia,Times,serif;font-size:3.6615em;font-weight:bolder}feed>title::before{content:'Atom Feed for ';font-weight:initial}feed>title::after{content:"This Atom feed is meant to be used by RSS reader applications and websites.";display:block;padding:1em;background-color:#DF4949;color:#fff;font-family:initial;font-size:initial;letter-spacing:initial}feed>id,feed>updated,feed>subtitle,feed>author,feed>link,feed>generator{display:none}entry{padding:1em 0;border-bottom:1px solid #020202}entry:last-child{border-bottom:none}entry>title{color:#4C65FF;font-family:"Volkhov",Georgia,Times,serif;font-size:2.441em;margin-bottom:0.5em}entry>link::after{content:attr(href);color:#2B3990}entry>updated{color:#A4A4A4;font-size:small}entry>summary{margin-top:1em}entry>id,entry>author,entry>category,entry>published,entry>content{display:none}
+@charset "UTF-8";
+/* TOC – Color Variables
+
+- Basics
+- Corporate Identity Colorpalette
+- Foundation Color Variables
+- Grey Scale
+- Topbar-Navigation
+- Footer
+- Code
+
+*/
+/* Basics
+------------------------------------------------------------------- */
+/* Corporate Identity Colorpalette
+   https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
+------------------------------------------------------------------- */
+/* Software Carpentry colors
+---------------------------------------- */
+/* Foundation Color Variables
+------------------------------------------------------------------- */
+/* Grey Scale
+------------------------------------------------------------------- */
+/* Topbar-Navigation
+------------------------------------------------------------------- */
+/* Footer
+------------------------------------------------------------------- */
+/* Code
+------------------------------------------------------------------- */
+/* TOC – Typography variables
+
+Modular Scale › http://modularscale.com/scale/?px1=16&px2=36&ra1=1.25&ra2=0
+
+- Fonts
+- Font Weight
+- Font Size Variables
+
+*/
+/* Fonts
+------------------------------------------------------------------- */
+/* Font Weight
+------------------------------------------------------------------- */
+/* Font Size Variables
+------------------------------------------------------------------- */
+/* line 51, /home/djacquel/www/swc/assets/_sass/swc/_02_settings_typography.scss */
+.font-size-h1 {
+  font-size: 2.441em; }
+
+/* line 52, /home/djacquel/www/swc/assets/_sass/swc/_02_settings_typography.scss */
+.font-size-h2 {
+  font-size: 1.953em; }
+
+/* line 53, /home/djacquel/www/swc/assets/_sass/swc/_02_settings_typography.scss */
+.font-size-h3 {
+  font-size: 1.563em; }
+
+/* line 54, /home/djacquel/www/swc/assets/_sass/swc/_02_settings_typography.scss */
+.font-size-h4 {
+  font-size: 1.25em; }
+
+/* line 55, /home/djacquel/www/swc/assets/_sass/swc/_02_settings_typography.scss */
+.font-size-h5 {
+  font-size: 1.152em; }
+
+/* line 299, /home/djacquel/www/swc/assets/_sass/swc/_03_settings_mixins_media_queries.scss */
+meta.foundation-version {
+  font-family: "/5.5.0/"; }
+
+/* line 303, /home/djacquel/www/swc/assets/_sass/swc/_03_settings_mixins_media_queries.scss */
+meta.foundation-mq-small {
+  font-family: "/only screen/";
+  width: 0em; }
+
+/* line 308, /home/djacquel/www/swc/assets/_sass/swc/_03_settings_mixins_media_queries.scss */
+meta.foundation-mq-small-only {
+  font-family: "/only screen and (max-width: 40em)/";
+  width: 0em; }
+
+/* line 313, /home/djacquel/www/swc/assets/_sass/swc/_03_settings_mixins_media_queries.scss */
+meta.foundation-mq-medium {
+  font-family: "/only screen and (min-width:40.063em)/";
+  width: 40.063em; }
+
+/* line 318, /home/djacquel/www/swc/assets/_sass/swc/_03_settings_mixins_media_queries.scss */
+meta.foundation-mq-medium-only {
+  font-family: "/only screen and (min-width:40.063em) and (max-width:64em)/";
+  width: 40.063em; }
+
+/* line 323, /home/djacquel/www/swc/assets/_sass/swc/_03_settings_mixins_media_queries.scss */
+meta.foundation-mq-large {
+  font-family: "/only screen and (min-width:64.063em)/";
+  width: 64.063em; }
+
+/* line 328, /home/djacquel/www/swc/assets/_sass/swc/_03_settings_mixins_media_queries.scss */
+meta.foundation-mq-large-only {
+  font-family: "/only screen and (min-width:64.063em) and (max-width:90em)/";
+  width: 64.063em; }
+
+/* line 333, /home/djacquel/www/swc/assets/_sass/swc/_03_settings_mixins_media_queries.scss */
+meta.foundation-mq-xlarge {
+  font-family: "/only screen and (min-width:90.063em)/";
+  width: 90.063em; }
+
+/* line 338, /home/djacquel/www/swc/assets/_sass/swc/_03_settings_mixins_media_queries.scss */
+meta.foundation-mq-xlarge-only {
+  font-family: "/only screen and (min-width:90.063em) and (max-width:120em)/";
+  width: 90.063em; }
+
+/* line 343, /home/djacquel/www/swc/assets/_sass/swc/_03_settings_mixins_media_queries.scss */
+meta.foundation-mq-xxlarge {
+  font-family: "/only screen and (min-width:120.063em)/";
+  width: 120.063em; }
+
+/* line 348, /home/djacquel/www/swc/assets/_sass/swc/_03_settings_mixins_media_queries.scss */
+meta.foundation-data-attribute-namespace {
+  font-family: false; }
+
+/* line 11 */
+* {
+  display: block; }
+
+/* line 15 */
+:root {
+  margin: 3em;
+  background: #fdfdfd;
+  color: #111;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+/* line 23 */
+feed > title {
+  text-align: center;
+  color: #6877d2;
+  font-family: "Volkhov", Georgia, Times, serif;
+  font-size: 3.6615em;
+  font-weight: bolder; }
+  /* line 29 */
+  feed > title::before {
+    content: 'Atom Feed for ';
+    font-weight: initial; }
+  /* line 33 */
+  feed > title::after {
+    content: "This Atom feed is meant to be used by RSS reader applications and websites.";
+    display: block;
+    padding: 1em;
+    background-color: #DF4949;
+    color: #fff;
+    font-family: initial;
+    font-size: initial;
+    letter-spacing: initial; }
+/* line 45 */
+feed > id,
+feed > updated,
+feed > subtitle,
+feed > author,
+feed > link,
+feed > generator {
+  display: none; }
+
+/* line 55 */
+entry {
+  padding: 1em 0;
+  border-bottom: 1px solid #020202; }
+  /* line 58 */
+  entry:last-child {
+    border-bottom: none; }
+  /* line 62 */
+  entry > title {
+    color: #4C65FF;
+    font-family: "Volkhov", Georgia, Times, serif;
+    font-size: 2.441em;
+    margin-bottom: 0.5em; }
+  /* line 69 */
+  entry > link::after {
+    content: attr(href);
+    color: #2B3990; }
+  /* line 74 */
+  entry > updated {
+    color: #A4A4A4;
+    font-size: small; }
+  /* line 79 */
+  entry > summary {
+    margin-top: 1em; }
+  /* line 83 */
+  entry > id,
+  entry > author,
+  entry > category,
+  entry > published,
+  entry > content {
+    display: none; }

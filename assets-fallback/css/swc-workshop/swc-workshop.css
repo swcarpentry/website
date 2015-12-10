@@ -3134,43 +3134,6 @@ meta.foundation-mq-topbar {
     overflow: visible;
     clip: auto;
     position: absolute !important; } }
-/* line 129, /home/djacquel/www/swc/assets/_sass/foundation-components/_accordion.scss */
-.accordion {
-  margin-bottom: 0; }
-  /* line 171, /home/djacquel/www/swc/assets/_sass/foundation-components/_global.scss */
-  .accordion:before, .accordion:after {
-    content: " ";
-    display: table; }
-  /* line 172, /home/djacquel/www/swc/assets/_sass/foundation-components/_global.scss */
-  .accordion:after {
-    clear: both; }
-  /* line 132, /home/djacquel/www/swc/assets/_sass/foundation-components/_accordion.scss */
-  .accordion .accordion-navigation, .accordion dd {
-    display: block;
-    margin-bottom: 0 !important; }
-    /* line 135, /home/djacquel/www/swc/assets/_sass/foundation-components/_accordion.scss */
-    .accordion .accordion-navigation.active > a, .accordion dd.active > a {
-      background: #e8e8e8; }
-    /* line 136, /home/djacquel/www/swc/assets/_sass/foundation-components/_accordion.scss */
-    .accordion .accordion-navigation > a, .accordion dd > a {
-      background: #EFEFEF;
-      color: #222222;
-      padding: 0.75rem;
-      display: block;
-      font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-      font-size: 1rem; }
-      /* line 143, /home/djacquel/www/swc/assets/_sass/foundation-components/_accordion.scss */
-      .accordion .accordion-navigation > a:hover, .accordion dd > a:hover {
-        background: #e3e3e3; }
-    /* line 146, /home/djacquel/www/swc/assets/_sass/foundation-components/_accordion.scss */
-    .accordion .accordion-navigation > .content, .accordion dd > .content {
-      display: none;
-      padding: 0.9375rem; }
-      /* line 149, /home/djacquel/www/swc/assets/_sass/foundation-components/_accordion.scss */
-      .accordion .accordion-navigation > .content.active, .accordion dd > .content.active {
-        display: block;
-        background: #fdfdfd; }
-
 /* line 112, /home/djacquel/www/swc/assets/_sass/foundation-components/_alert-boxes.scss */
 .alert-box {
   border-style: solid;
@@ -3234,72 +3197,6 @@ meta.foundation-mq-topbar {
   /* line 125, /home/djacquel/www/swc/assets/_sass/foundation-components/_alert-boxes.scss */
   .alert-box.alert-close {
     opacity: 0; }
-
-/* line 118, /home/djacquel/www/swc/assets/_sass/foundation-components/_breadcrumbs.scss */
-.breadcrumbs {
-  display: block;
-  padding: 0.5625rem 0.875rem 0.5625rem;
-  overflow: hidden;
-  margin-left: 0;
-  list-style: none;
-  border-style: solid;
-  border-width: 0;
-  background-color: #E4E4E4;
-  border-color: #E4E4E4;
-  border-radius: 0; }
-  /* line 122, /home/djacquel/www/swc/assets/_sass/foundation-components/_breadcrumbs.scss */
-  .breadcrumbs > * {
-    margin: 0;
-    float: left;
-    font-size: 0.6875rem;
-    line-height: 0.6875rem;
-    text-transform: uppercase;
-    color: #2B3990; }
-    /* line 68, /home/djacquel/www/swc/assets/_sass/foundation-components/_breadcrumbs.scss */
-    .breadcrumbs > *:hover a, .breadcrumbs > *:focus a {
-      text-decoration: underline; }
-    /* line 70, /home/djacquel/www/swc/assets/_sass/foundation-components/_breadcrumbs.scss */
-    .breadcrumbs > * a {
-      color: #2B3990; }
-    /* line 75, /home/djacquel/www/swc/assets/_sass/foundation-components/_breadcrumbs.scss */
-    .breadcrumbs > *.current {
-      cursor: default;
-      color: #333333; }
-      /* line 78, /home/djacquel/www/swc/assets/_sass/foundation-components/_breadcrumbs.scss */
-      .breadcrumbs > *.current a {
-        cursor: default;
-        color: #333333; }
-      /* line 83, /home/djacquel/www/swc/assets/_sass/foundation-components/_breadcrumbs.scss */
-      .breadcrumbs > *.current:hover, .breadcrumbs > *.current:hover a, .breadcrumbs > *.current:focus, .breadcrumbs > *.current:focus a {
-        text-decoration: none; }
-    /* line 88, /home/djacquel/www/swc/assets/_sass/foundation-components/_breadcrumbs.scss */
-    .breadcrumbs > *.unavailable {
-      color: #999999; }
-      /* line 90, /home/djacquel/www/swc/assets/_sass/foundation-components/_breadcrumbs.scss */
-      .breadcrumbs > *.unavailable a {
-        color: #999999; }
-      /* line 92, /home/djacquel/www/swc/assets/_sass/foundation-components/_breadcrumbs.scss */
-      .breadcrumbs > *.unavailable:hover, .breadcrumbs > *.unavailable:hover a, .breadcrumbs > *.unavailable:focus,
-      .breadcrumbs > *.unavailable a:focus {
-        text-decoration: none;
-        color: #999999;
-        cursor: default; }
-    /* line 102, /home/djacquel/www/swc/assets/_sass/foundation-components/_breadcrumbs.scss */
-    .breadcrumbs > *:before {
-      content: "/";
-      color: #AAAAAA;
-      margin: 0 0.75rem;
-      position: relative;
-      top: 1px; }
-    /* line 110, /home/djacquel/www/swc/assets/_sass/foundation-components/_breadcrumbs.scss */
-    .breadcrumbs > *:first-child:before {
-      content: " ";
-      margin: 0; }
-
-/* Accessibility - hides the forward slash */
-/* line 130, /home/djacquel/www/swc/assets/_sass/foundation-components/_breadcrumbs.scss */
-[aria-label="breadcrumbs"] [aria-hidden="true"]:after {
-  content: "/"; }
 
 /* line 106, /home/djacquel/www/swc/assets/_sass/foundation-components/_block-grid.scss */
 [class*="block-grid-"] {
@@ -3716,469 +3613,6 @@ meta.foundation-mq-topbar {
     /* line 69, /home/djacquel/www/swc/assets/_sass/foundation-components/_block-grid.scss */
     .large-block-grid-12 > li:nth-of-type(12n+1) {
       clear: both; } }
-/* line 148, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-.button-group {
-  list-style: none;
-  margin: 0;
-  left: 0; }
-  /* line 171, /home/djacquel/www/swc/assets/_sass/foundation-components/_global.scss */
-  .button-group:before, .button-group:after {
-    content: " ";
-    display: table; }
-  /* line 172, /home/djacquel/www/swc/assets/_sass/foundation-components/_global.scss */
-  .button-group:after {
-    clear: both; }
-  /* line 150, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-  .button-group > li {
-    margin: 0 -2px;
-    display: inline-block; }
-    /* line 39, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group > li > button, .button-group > li .button {
-      border-left: 1px solid;
-      border-color: rgba(255, 255, 255, 0.5); }
-    /* line 45, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group > li:first-child button, .button-group > li:first-child .button {
-      border-left: 0; }
-  /* line 153, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-  .button-group.stack > li {
-    margin: 0 -2px;
-    display: inline-block;
-    display: block;
-    margin: 0;
-    float: none; }
-    /* line 39, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.stack > li > button, .button-group.stack > li .button {
-      border-left: 1px solid;
-      border-color: rgba(255, 255, 255, 0.5); }
-    /* line 45, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.stack > li:first-child button, .button-group.stack > li:first-child .button {
-      border-left: 0; }
-    /* line 66, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.stack > li > button, .button-group.stack > li .button {
-      border-top: 1px solid;
-      border-color: rgba(255, 255, 255, 0.5);
-      border-left-width: 0;
-      margin: 0;
-      display: block; }
-    /* line 75, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.stack > li:first-child button, .button-group.stack > li:first-child .button {
-      border-top: 0; }
-  /* line 157, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-  .button-group.stack-for-small > li {
-    margin: 0 -2px;
-    display: inline-block; }
-    /* line 39, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.stack-for-small > li > button, .button-group.stack-for-small > li .button {
-      border-left: 1px solid;
-      border-color: rgba(255, 255, 255, 0.5); }
-    /* line 45, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.stack-for-small > li:first-child button, .button-group.stack-for-small > li:first-child .button {
-      border-left: 0; }
-    @media only screen and (max-width: 40em) {
-      /* line 157, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-      .button-group.stack-for-small > li {
-        margin: 0 -2px;
-        display: inline-block;
-        display: block;
-        margin: 0; }
-        /* line 39, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-        .button-group.stack-for-small > li > button, .button-group.stack-for-small > li .button {
-          border-left: 1px solid;
-          border-color: rgba(255, 255, 255, 0.5); }
-        /* line 45, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-        .button-group.stack-for-small > li:first-child button, .button-group.stack-for-small > li:first-child .button {
-          border-left: 0; }
-        /* line 66, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-        .button-group.stack-for-small > li > button, .button-group.stack-for-small > li .button {
-          border-top: 1px solid;
-          border-color: rgba(255, 255, 255, 0.5);
-          border-left-width: 0;
-          margin: 0;
-          display: block; }
-        /* line 75, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-        .button-group.stack-for-small > li:first-child button, .button-group.stack-for-small > li:first-child .button {
-          border-top: 0; } }
-  /* line 165, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-  .button-group.radius > * {
-    margin: 0 -2px;
-    display: inline-block; }
-    /* line 39, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.radius > * > button, .button-group.radius > * .button {
-      border-left: 1px solid;
-      border-color: rgba(255, 255, 255, 0.5); }
-    /* line 45, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.radius > *:first-child button, .button-group.radius > *:first-child .button {
-      border-left: 0; }
-    /* line 111, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.radius > *, .button-group.radius > * > a, .button-group.radius > * > button, .button-group.radius > * > .button {
-      border-radius: 0; }
-    /* line 115, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.radius > *:first-child, .button-group.radius > *:first-child > a, .button-group.radius > *:first-child > button, .button-group.radius > *:first-child > .button {
-      -webkit-border-bottom-left-radius: 3px;
-      -webkit-border-top-left-radius: 3px;
-      border-bottom-left-radius: 3px;
-      border-top-left-radius: 3px; }
-    /* line 126, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.radius > *:last-child, .button-group.radius > *:last-child > a, .button-group.radius > *:last-child > button, .button-group.radius > *:last-child > .button {
-      -webkit-border-bottom-right-radius: 3px;
-      -webkit-border-top-right-radius: 3px;
-      border-bottom-right-radius: 3px;
-      border-top-right-radius: 3px; }
-  /* line 166, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-  .button-group.radius.stack > * {
-    margin: 0 -2px;
-    display: inline-block;
-    display: block;
-    margin: 0; }
-    /* line 39, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.radius.stack > * > button, .button-group.radius.stack > * .button {
-      border-left: 1px solid;
-      border-color: rgba(255, 255, 255, 0.5); }
-    /* line 45, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.radius.stack > *:first-child button, .button-group.radius.stack > *:first-child .button {
-      border-left: 0; }
-    /* line 66, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.radius.stack > * > button, .button-group.radius.stack > * .button {
-      border-top: 1px solid;
-      border-color: rgba(255, 255, 255, 0.5);
-      border-left-width: 0;
-      margin: 0;
-      display: block; }
-    /* line 75, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.radius.stack > *:first-child button, .button-group.radius.stack > *:first-child .button {
-      border-top: 0; }
-    /* line 111, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.radius.stack > *, .button-group.radius.stack > * > a, .button-group.radius.stack > * > button, .button-group.radius.stack > * > .button {
-      border-radius: 0; }
-    /* line 115, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.radius.stack > *:first-child, .button-group.radius.stack > *:first-child > a, .button-group.radius.stack > *:first-child > button, .button-group.radius.stack > *:first-child > .button {
-      -webkit-top-left-radius: 3px;
-      -webkit-top-right-radius: 3px;
-      border-top-left-radius: 3px;
-      border-top-right-radius: 3px; }
-    /* line 126, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.radius.stack > *:last-child, .button-group.radius.stack > *:last-child > a, .button-group.radius.stack > *:last-child > button, .button-group.radius.stack > *:last-child > .button {
-      -webkit-bottom-left-radius: 3px;
-      -webkit-bottom-right-radius: 3px;
-      border-bottom-left-radius: 3px;
-      border-bottom-right-radius: 3px; }
-  @media only screen and (min-width: 40.063em) {
-    /* line 167, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.radius.stack-for-small > * {
-      margin: 0 -2px;
-      display: inline-block; }
-      /* line 39, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-      .button-group.radius.stack-for-small > * > button, .button-group.radius.stack-for-small > * .button {
-        border-left: 1px solid;
-        border-color: rgba(255, 255, 255, 0.5); }
-      /* line 45, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-      .button-group.radius.stack-for-small > *:first-child button, .button-group.radius.stack-for-small > *:first-child .button {
-        border-left: 0; }
-      /* line 111, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-      .button-group.radius.stack-for-small > *, .button-group.radius.stack-for-small > * > a, .button-group.radius.stack-for-small > * > button, .button-group.radius.stack-for-small > * > .button {
-        border-radius: 0; }
-      /* line 115, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-      .button-group.radius.stack-for-small > *:first-child, .button-group.radius.stack-for-small > *:first-child > a, .button-group.radius.stack-for-small > *:first-child > button, .button-group.radius.stack-for-small > *:first-child > .button {
-        -webkit-border-bottom-left-radius: 3px;
-        -webkit-border-top-left-radius: 3px;
-        border-bottom-left-radius: 3px;
-        border-top-left-radius: 3px; }
-      /* line 126, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-      .button-group.radius.stack-for-small > *:last-child, .button-group.radius.stack-for-small > *:last-child > a, .button-group.radius.stack-for-small > *:last-child > button, .button-group.radius.stack-for-small > *:last-child > .button {
-        -webkit-border-bottom-right-radius: 3px;
-        -webkit-border-top-right-radius: 3px;
-        border-bottom-right-radius: 3px;
-        border-top-right-radius: 3px; } }
-  @media only screen and (max-width: 40em) {
-    /* line 167, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.radius.stack-for-small > * {
-      margin: 0 -2px;
-      display: inline-block;
-      display: block;
-      margin: 0; }
-      /* line 39, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-      .button-group.radius.stack-for-small > * > button, .button-group.radius.stack-for-small > * .button {
-        border-left: 1px solid;
-        border-color: rgba(255, 255, 255, 0.5); }
-      /* line 45, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-      .button-group.radius.stack-for-small > *:first-child button, .button-group.radius.stack-for-small > *:first-child .button {
-        border-left: 0; }
-      /* line 66, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-      .button-group.radius.stack-for-small > * > button, .button-group.radius.stack-for-small > * .button {
-        border-top: 1px solid;
-        border-color: rgba(255, 255, 255, 0.5);
-        border-left-width: 0;
-        margin: 0;
-        display: block; }
-      /* line 75, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-      .button-group.radius.stack-for-small > *:first-child button, .button-group.radius.stack-for-small > *:first-child .button {
-        border-top: 0; }
-      /* line 111, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-      .button-group.radius.stack-for-small > *, .button-group.radius.stack-for-small > * > a, .button-group.radius.stack-for-small > * > button, .button-group.radius.stack-for-small > * > .button {
-        border-radius: 0; }
-      /* line 115, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-      .button-group.radius.stack-for-small > *:first-child, .button-group.radius.stack-for-small > *:first-child > a, .button-group.radius.stack-for-small > *:first-child > button, .button-group.radius.stack-for-small > *:first-child > .button {
-        -webkit-top-left-radius: 3px;
-        -webkit-top-right-radius: 3px;
-        border-top-left-radius: 3px;
-        border-top-right-radius: 3px; }
-      /* line 126, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-      .button-group.radius.stack-for-small > *:last-child, .button-group.radius.stack-for-small > *:last-child > a, .button-group.radius.stack-for-small > *:last-child > button, .button-group.radius.stack-for-small > *:last-child > .button {
-        -webkit-bottom-left-radius: 3px;
-        -webkit-bottom-right-radius: 3px;
-        border-bottom-left-radius: 3px;
-        border-bottom-right-radius: 3px; } }
-  /* line 176, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-  .button-group.round > * {
-    margin: 0 -2px;
-    display: inline-block; }
-    /* line 39, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.round > * > button, .button-group.round > * .button {
-      border-left: 1px solid;
-      border-color: rgba(255, 255, 255, 0.5); }
-    /* line 45, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.round > *:first-child button, .button-group.round > *:first-child .button {
-      border-left: 0; }
-    /* line 111, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.round > *, .button-group.round > * > a, .button-group.round > * > button, .button-group.round > * > .button {
-      border-radius: 0; }
-    /* line 115, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.round > *:first-child, .button-group.round > *:first-child > a, .button-group.round > *:first-child > button, .button-group.round > *:first-child > .button {
-      -webkit-border-bottom-left-radius: 1000px;
-      -webkit-border-top-left-radius: 1000px;
-      border-bottom-left-radius: 1000px;
-      border-top-left-radius: 1000px; }
-    /* line 126, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.round > *:last-child, .button-group.round > *:last-child > a, .button-group.round > *:last-child > button, .button-group.round > *:last-child > .button {
-      -webkit-border-bottom-right-radius: 1000px;
-      -webkit-border-top-right-radius: 1000px;
-      border-bottom-right-radius: 1000px;
-      border-top-right-radius: 1000px; }
-  /* line 177, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-  .button-group.round.stack > * {
-    margin: 0 -2px;
-    display: inline-block;
-    display: block;
-    margin: 0; }
-    /* line 39, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.round.stack > * > button, .button-group.round.stack > * .button {
-      border-left: 1px solid;
-      border-color: rgba(255, 255, 255, 0.5); }
-    /* line 45, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.round.stack > *:first-child button, .button-group.round.stack > *:first-child .button {
-      border-left: 0; }
-    /* line 66, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.round.stack > * > button, .button-group.round.stack > * .button {
-      border-top: 1px solid;
-      border-color: rgba(255, 255, 255, 0.5);
-      border-left-width: 0;
-      margin: 0;
-      display: block; }
-    /* line 75, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.round.stack > *:first-child button, .button-group.round.stack > *:first-child .button {
-      border-top: 0; }
-    /* line 111, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.round.stack > *, .button-group.round.stack > * > a, .button-group.round.stack > * > button, .button-group.round.stack > * > .button {
-      border-radius: 0; }
-    /* line 115, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.round.stack > *:first-child, .button-group.round.stack > *:first-child > a, .button-group.round.stack > *:first-child > button, .button-group.round.stack > *:first-child > .button {
-      -webkit-top-left-radius: 1rem;
-      -webkit-top-right-radius: 1rem;
-      border-top-left-radius: 1rem;
-      border-top-right-radius: 1rem; }
-    /* line 126, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.round.stack > *:last-child, .button-group.round.stack > *:last-child > a, .button-group.round.stack > *:last-child > button, .button-group.round.stack > *:last-child > .button {
-      -webkit-bottom-left-radius: 1rem;
-      -webkit-bottom-right-radius: 1rem;
-      border-bottom-left-radius: 1rem;
-      border-bottom-right-radius: 1rem; }
-  @media only screen and (min-width: 40.063em) {
-    /* line 178, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.round.stack-for-small > * {
-      margin: 0 -2px;
-      display: inline-block; }
-      /* line 39, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-      .button-group.round.stack-for-small > * > button, .button-group.round.stack-for-small > * .button {
-        border-left: 1px solid;
-        border-color: rgba(255, 255, 255, 0.5); }
-      /* line 45, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-      .button-group.round.stack-for-small > *:first-child button, .button-group.round.stack-for-small > *:first-child .button {
-        border-left: 0; }
-      /* line 111, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-      .button-group.round.stack-for-small > *, .button-group.round.stack-for-small > * > a, .button-group.round.stack-for-small > * > button, .button-group.round.stack-for-small > * > .button {
-        border-radius: 0; }
-      /* line 115, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-      .button-group.round.stack-for-small > *:first-child, .button-group.round.stack-for-small > *:first-child > a, .button-group.round.stack-for-small > *:first-child > button, .button-group.round.stack-for-small > *:first-child > .button {
-        -webkit-border-bottom-left-radius: 1000px;
-        -webkit-border-top-left-radius: 1000px;
-        border-bottom-left-radius: 1000px;
-        border-top-left-radius: 1000px; }
-      /* line 126, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-      .button-group.round.stack-for-small > *:last-child, .button-group.round.stack-for-small > *:last-child > a, .button-group.round.stack-for-small > *:last-child > button, .button-group.round.stack-for-small > *:last-child > .button {
-        -webkit-border-bottom-right-radius: 1000px;
-        -webkit-border-top-right-radius: 1000px;
-        border-bottom-right-radius: 1000px;
-        border-top-right-radius: 1000px; } }
-  @media only screen and (max-width: 40em) {
-    /* line 178, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.round.stack-for-small > * {
-      margin: 0 -2px;
-      display: inline-block;
-      display: block;
-      margin: 0; }
-      /* line 39, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-      .button-group.round.stack-for-small > * > button, .button-group.round.stack-for-small > * .button {
-        border-left: 1px solid;
-        border-color: rgba(255, 255, 255, 0.5); }
-      /* line 45, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-      .button-group.round.stack-for-small > *:first-child button, .button-group.round.stack-for-small > *:first-child .button {
-        border-left: 0; }
-      /* line 66, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-      .button-group.round.stack-for-small > * > button, .button-group.round.stack-for-small > * .button {
-        border-top: 1px solid;
-        border-color: rgba(255, 255, 255, 0.5);
-        border-left-width: 0;
-        margin: 0;
-        display: block; }
-      /* line 75, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-      .button-group.round.stack-for-small > *:first-child button, .button-group.round.stack-for-small > *:first-child .button {
-        border-top: 0; }
-      /* line 111, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-      .button-group.round.stack-for-small > *, .button-group.round.stack-for-small > * > a, .button-group.round.stack-for-small > * > button, .button-group.round.stack-for-small > * > .button {
-        border-radius: 0; }
-      /* line 115, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-      .button-group.round.stack-for-small > *:first-child, .button-group.round.stack-for-small > *:first-child > a, .button-group.round.stack-for-small > *:first-child > button, .button-group.round.stack-for-small > *:first-child > .button {
-        -webkit-top-left-radius: 1rem;
-        -webkit-top-right-radius: 1rem;
-        border-top-left-radius: 1rem;
-        border-top-right-radius: 1rem; }
-      /* line 126, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-      .button-group.round.stack-for-small > *:last-child, .button-group.round.stack-for-small > *:last-child > a, .button-group.round.stack-for-small > *:last-child > button, .button-group.round.stack-for-small > *:last-child > .button {
-        -webkit-bottom-left-radius: 1rem;
-        -webkit-bottom-right-radius: 1rem;
-        border-bottom-left-radius: 1rem;
-        border-bottom-right-radius: 1rem; } }
-  /* line 188, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-  .button-group.even-2 li {
-    margin: 0 -2px;
-    display: inline-block;
-    width: 50%; }
-    /* line 39, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.even-2 li > button, .button-group.even-2 li .button {
-      border-left: 1px solid;
-      border-color: rgba(255, 255, 255, 0.5); }
-    /* line 45, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.even-2 li:first-child button, .button-group.even-2 li:first-child .button {
-      border-left: 0; }
-    /* line 142, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.even-2 li button, .button-group.even-2 li .button {
-      width: 100%; }
-  /* line 188, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-  .button-group.even-3 li {
-    margin: 0 -2px;
-    display: inline-block;
-    width: 33.33333%; }
-    /* line 39, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.even-3 li > button, .button-group.even-3 li .button {
-      border-left: 1px solid;
-      border-color: rgba(255, 255, 255, 0.5); }
-    /* line 45, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.even-3 li:first-child button, .button-group.even-3 li:first-child .button {
-      border-left: 0; }
-    /* line 142, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.even-3 li button, .button-group.even-3 li .button {
-      width: 100%; }
-  /* line 188, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-  .button-group.even-4 li {
-    margin: 0 -2px;
-    display: inline-block;
-    width: 25%; }
-    /* line 39, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.even-4 li > button, .button-group.even-4 li .button {
-      border-left: 1px solid;
-      border-color: rgba(255, 255, 255, 0.5); }
-    /* line 45, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.even-4 li:first-child button, .button-group.even-4 li:first-child .button {
-      border-left: 0; }
-    /* line 142, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.even-4 li button, .button-group.even-4 li .button {
-      width: 100%; }
-  /* line 188, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-  .button-group.even-5 li {
-    margin: 0 -2px;
-    display: inline-block;
-    width: 20%; }
-    /* line 39, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.even-5 li > button, .button-group.even-5 li .button {
-      border-left: 1px solid;
-      border-color: rgba(255, 255, 255, 0.5); }
-    /* line 45, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.even-5 li:first-child button, .button-group.even-5 li:first-child .button {
-      border-left: 0; }
-    /* line 142, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.even-5 li button, .button-group.even-5 li .button {
-      width: 100%; }
-  /* line 188, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-  .button-group.even-6 li {
-    margin: 0 -2px;
-    display: inline-block;
-    width: 16.66667%; }
-    /* line 39, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.even-6 li > button, .button-group.even-6 li .button {
-      border-left: 1px solid;
-      border-color: rgba(255, 255, 255, 0.5); }
-    /* line 45, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.even-6 li:first-child button, .button-group.even-6 li:first-child .button {
-      border-left: 0; }
-    /* line 142, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.even-6 li button, .button-group.even-6 li .button {
-      width: 100%; }
-  /* line 188, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-  .button-group.even-7 li {
-    margin: 0 -2px;
-    display: inline-block;
-    width: 14.28571%; }
-    /* line 39, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.even-7 li > button, .button-group.even-7 li .button {
-      border-left: 1px solid;
-      border-color: rgba(255, 255, 255, 0.5); }
-    /* line 45, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.even-7 li:first-child button, .button-group.even-7 li:first-child .button {
-      border-left: 0; }
-    /* line 142, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.even-7 li button, .button-group.even-7 li .button {
-      width: 100%; }
-  /* line 188, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-  .button-group.even-8 li {
-    margin: 0 -2px;
-    display: inline-block;
-    width: 12.5%; }
-    /* line 39, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.even-8 li > button, .button-group.even-8 li .button {
-      border-left: 1px solid;
-      border-color: rgba(255, 255, 255, 0.5); }
-    /* line 45, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.even-8 li:first-child button, .button-group.even-8 li:first-child .button {
-      border-left: 0; }
-    /* line 142, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-    .button-group.even-8 li button, .button-group.even-8 li .button {
-      width: 100%; }
-
-/* line 171, /home/djacquel/www/swc/assets/_sass/foundation-components/_global.scss */
-.button-bar:before, .button-bar:after {
-  content: " ";
-  display: table; }
-/* line 172, /home/djacquel/www/swc/assets/_sass/foundation-components/_global.scss */
-.button-bar:after {
-  clear: both; }
-/* line 194, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-.button-bar .button-group {
-  float: left;
-  margin-right: 0.625rem; }
-  /* line 32, /home/djacquel/www/swc/assets/_sass/foundation-components/_button-groups.scss */
-  .button-bar .button-group div {
-    overflow: hidden; }
-
 /* Clearing Styles */
 /* line 44, /home/djacquel/www/swc/assets/_sass/foundation-components/_clearing.scss */
 .clearing-thumbs, [data-clearing] {
@@ -4385,335 +3819,6 @@ meta.foundation-mq-topbar {
     right: 20px;
     padding-left: 0;
     padding-top: 0; } }
-/* Foundation Dropdowns */
-/* line 225, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-.f-dropdown {
-  position: absolute;
-  left: -9999px;
-  list-style: none;
-  margin-left: 0;
-  outline: none;
-  width: 100%;
-  max-height: none;
-  height: auto;
-  background: #FFFFFF;
-  border: solid 1px #cccccc;
-  font-size: 0.875rem;
-  z-index: 89;
-  margin-top: 2px;
-  max-width: 200px; }
-  /* line 73, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-  .f-dropdown > *:first-child {
-    margin-top: 0; }
-  /* line 74, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-  .f-dropdown > *:last-child {
-    margin-bottom: 0; }
-  /* line 99, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-  .f-dropdown:before {
-    content: "";
-    display: block;
-    width: 0;
-    height: 0;
-    border: inset 6px;
-    border-color: transparent transparent #FFFFFF transparent;
-    border-bottom-style: solid;
-    position: absolute;
-    top: -12px;
-    left: 10px;
-    z-index: 89; }
-  /* line 106, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-  .f-dropdown:after {
-    content: "";
-    display: block;
-    width: 0;
-    height: 0;
-    border: inset 7px;
-    border-color: transparent transparent #cccccc transparent;
-    border-bottom-style: solid;
-    position: absolute;
-    top: -14px;
-    left: 9px;
-    z-index: 88; }
-  /* line 114, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-  .f-dropdown.right:before {
-    left: auto;
-    right: 10px; }
-  /* line 118, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-  .f-dropdown.right:after {
-    left: auto;
-    right: 9px; }
-  /* line 228, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-  .f-dropdown.drop-right {
-    position: absolute;
-    left: -9999px;
-    list-style: none;
-    margin-left: 0;
-    outline: none;
-    width: 100%;
-    max-height: none;
-    height: auto;
-    background: #FFFFFF;
-    border: solid 1px #cccccc;
-    font-size: 0.875rem;
-    z-index: 89;
-    margin-top: 0;
-    margin-left: 2px;
-    max-width: 200px; }
-    /* line 73, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-    .f-dropdown.drop-right > *:first-child {
-      margin-top: 0; }
-    /* line 74, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-    .f-dropdown.drop-right > *:last-child {
-      margin-bottom: 0; }
-    /* line 128, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-    .f-dropdown.drop-right:before {
-      content: "";
-      display: block;
-      width: 0;
-      height: 0;
-      border: inset 6px;
-      border-color: transparent #FFFFFF transparent transparent;
-      border-right-style: solid;
-      position: absolute;
-      top: 10px;
-      left: -12px;
-      z-index: 89; }
-    /* line 135, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-    .f-dropdown.drop-right:after {
-      content: "";
-      display: block;
-      width: 0;
-      height: 0;
-      border: inset 7px;
-      border-color: transparent #cccccc transparent transparent;
-      border-right-style: solid;
-      position: absolute;
-      top: 9px;
-      left: -14px;
-      z-index: 88; }
-  /* line 232, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-  .f-dropdown.drop-left {
-    position: absolute;
-    left: -9999px;
-    list-style: none;
-    margin-left: 0;
-    outline: none;
-    width: 100%;
-    max-height: none;
-    height: auto;
-    background: #FFFFFF;
-    border: solid 1px #cccccc;
-    font-size: 0.875rem;
-    z-index: 89;
-    margin-top: 0;
-    margin-left: -2px;
-    max-width: 200px; }
-    /* line 73, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-    .f-dropdown.drop-left > *:first-child {
-      margin-top: 0; }
-    /* line 74, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-    .f-dropdown.drop-left > *:last-child {
-      margin-bottom: 0; }
-    /* line 149, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-    .f-dropdown.drop-left:before {
-      content: "";
-      display: block;
-      width: 0;
-      height: 0;
-      border: inset 6px;
-      border-color: transparent transparent transparent #FFFFFF;
-      border-left-style: solid;
-      position: absolute;
-      top: 10px;
-      right: -12px;
-      left: auto;
-      z-index: 89; }
-    /* line 157, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-    .f-dropdown.drop-left:after {
-      content: "";
-      display: block;
-      width: 0;
-      height: 0;
-      border: inset 7px;
-      border-color: transparent transparent transparent #cccccc;
-      border-left-style: solid;
-      position: absolute;
-      top: 9px;
-      right: -14px;
-      left: auto;
-      z-index: 88; }
-  /* line 236, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-  .f-dropdown.drop-top {
-    position: absolute;
-    left: -9999px;
-    list-style: none;
-    margin-left: 0;
-    outline: none;
-    width: 100%;
-    max-height: none;
-    height: auto;
-    background: #FFFFFF;
-    border: solid 1px #cccccc;
-    font-size: 0.875rem;
-    z-index: 89;
-    margin-top: -2px;
-    margin-left: 0;
-    max-width: 200px; }
-    /* line 73, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-    .f-dropdown.drop-top > *:first-child {
-      margin-top: 0; }
-    /* line 74, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-    .f-dropdown.drop-top > *:last-child {
-      margin-bottom: 0; }
-    /* line 172, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-    .f-dropdown.drop-top:before {
-      content: "";
-      display: block;
-      width: 0;
-      height: 0;
-      border: inset 6px;
-      border-color: #FFFFFF transparent transparent transparent;
-      border-top-style: solid;
-      position: absolute;
-      top: auto;
-      bottom: -12px;
-      left: 10px;
-      right: auto;
-      z-index: 89; }
-    /* line 181, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-    .f-dropdown.drop-top:after {
-      content: "";
-      display: block;
-      width: 0;
-      height: 0;
-      border: inset 7px;
-      border-color: #cccccc transparent transparent transparent;
-      border-top-style: solid;
-      position: absolute;
-      top: auto;
-      bottom: -14px;
-      left: 9px;
-      right: auto;
-      z-index: 88; }
-  /* line 241, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-  .f-dropdown li {
-    font-size: 0.875rem;
-    cursor: pointer;
-    line-height: 1.125rem;
-    margin: 0; }
-    /* line 209, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-    .f-dropdown li:hover, .f-dropdown li:focus {
-      background: #EEEEEE; }
-    /* line 212, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-    .f-dropdown li.radius {
-      border-radius: 3px; }
-    /* line 214, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-    .f-dropdown li a {
-      display: block;
-      padding: 0.5rem;
-      color: #555555; }
-  /* line 244, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-  .f-dropdown.content {
-    position: absolute;
-    left: -9999px;
-    list-style: none;
-    margin-left: 0;
-    outline: none;
-    padding: 1.25rem;
-    width: 100%;
-    height: auto;
-    max-height: none;
-    background: #FFFFFF;
-    border: solid 1px #cccccc;
-    font-size: 0.875rem;
-    z-index: 89;
-    max-width: 200px; }
-    /* line 73, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-    .f-dropdown.content > *:first-child {
-      margin-top: 0; }
-    /* line 74, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-    .f-dropdown.content > *:last-child {
-      margin-bottom: 0; }
-  /* line 247, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-  .f-dropdown.tiny {
-    max-width: 200px; }
-  /* line 248, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-  .f-dropdown.small {
-    max-width: 300px; }
-  /* line 249, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-  .f-dropdown.medium {
-    max-width: 500px; }
-  /* line 250, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-  .f-dropdown.large {
-    max-width: 800px; }
-  /* line 251, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-  .f-dropdown.mega {
-    width: 100% !important;
-    max-width: 100% !important; }
-    /* line 255, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown.scss */
-    .f-dropdown.mega.open {
-      left: 0 !important; }
-
-/* line 123, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown-buttons.scss */
-.dropdown.button, button.dropdown {
-  position: relative;
-  outline: none;
-  padding-right: 3.5625rem; }
-  /* line 63, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown-buttons.scss */
-  .dropdown.button::after, button.dropdown::after {
-    position: absolute;
-    content: "";
-    width: 0;
-    height: 0;
-    display: block;
-    border-style: solid;
-    border-color: #FFFFFF transparent transparent transparent;
-    top: 50%; }
-  /* line 98, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown-buttons.scss */
-  .dropdown.button::after, button.dropdown::after {
-    border-width: 0.375rem;
-    right: 1.40625rem;
-    margin-top: -0.15625rem; }
-  /* line 117, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown-buttons.scss */
-  .dropdown.button::after, button.dropdown::after {
-    border-color: #FFFFFF transparent transparent transparent; }
-  /* line 124, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown-buttons.scss */
-  .dropdown.button.tiny, button.dropdown.tiny {
-    padding-right: 2.625rem; }
-    /* line 78, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown-buttons.scss */
-    .dropdown.button.tiny:after, button.dropdown.tiny:after {
-      border-width: 0.375rem;
-      right: 1.125rem;
-      margin-top: -0.125rem; }
-    /* line 117, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown-buttons.scss */
-    .dropdown.button.tiny::after, button.dropdown.tiny::after {
-      border-color: #FFFFFF transparent transparent transparent; }
-  /* line 125, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown-buttons.scss */
-  .dropdown.button.small, button.dropdown.small {
-    padding-right: 3.0625rem; }
-    /* line 88, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown-buttons.scss */
-    .dropdown.button.small::after, button.dropdown.small::after {
-      border-width: 0.4375rem;
-      right: 1.3125rem;
-      margin-top: -0.15625rem; }
-    /* line 117, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown-buttons.scss */
-    .dropdown.button.small::after, button.dropdown.small::after {
-      border-color: #FFFFFF transparent transparent transparent; }
-  /* line 126, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown-buttons.scss */
-  .dropdown.button.large, button.dropdown.large {
-    padding-right: 3.625rem; }
-    /* line 108, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown-buttons.scss */
-    .dropdown.button.large::after, button.dropdown.large::after {
-      border-width: 0.3125rem;
-      right: 1.71875rem;
-      margin-top: -0.15625rem; }
-    /* line 117, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown-buttons.scss */
-    .dropdown.button.large::after, button.dropdown.large::after {
-      border-color: #FFFFFF transparent transparent transparent; }
-  /* line 127, /home/djacquel/www/swc/assets/_sass/foundation-components/_dropdown-buttons.scss */
-  .dropdown.button.secondary:after, button.dropdown.secondary:after {
-    border-color: #333333 transparent transparent transparent; }
-
 /* line 49, /home/djacquel/www/swc/assets/_sass/foundation-components/_flex-video.scss */
 .flex-video {
   position: relative;
@@ -4771,312 +3876,47 @@ kbd {
   padding: 0.125rem 0.25rem 0;
   border-radius: 3px; }
 
-/* Panels */
-/* line 80, /home/djacquel/www/swc/assets/_sass/foundation-components/_panels.scss */
-.panel {
-  border-style: solid;
-  border-width: 1px;
-  border-color: #cbcbcb;
-  margin-bottom: 1.25rem;
-  padding: 1.25rem;
-  background: #E4E4E4;
-  color: #333333; }
-  /* line 55, /home/djacquel/www/swc/assets/_sass/foundation-components/_panels.scss */
-  .panel > :first-child {
-    margin-top: 0; }
-  /* line 56, /home/djacquel/www/swc/assets/_sass/foundation-components/_panels.scss */
-  .panel > :last-child {
-    margin-bottom: 0; }
-  /* line 61, /home/djacquel/www/swc/assets/_sass/foundation-components/_panels.scss */
-  .panel h1, .panel h2, .panel h3, .panel h4, .panel h5, .panel h6, .panel p, .panel li, .panel dl {
-    color: #333333; }
-  /* line 68, /home/djacquel/www/swc/assets/_sass/foundation-components/_panels.scss */
-  .panel h1, .panel h2, .panel h3, .panel h4, .panel h5, .panel h6 {
-    line-height: 1;
-    margin-bottom: 0.625rem; }
-    /* line 70, /home/djacquel/www/swc/assets/_sass/foundation-components/_panels.scss */
-    .panel h1.subheader, .panel h2.subheader, .panel h3.subheader, .panel h4.subheader, .panel h5.subheader, .panel h6.subheader {
-      line-height: 1.4; }
-  /* line 82, /home/djacquel/www/swc/assets/_sass/foundation-components/_panels.scss */
-  .panel.callout {
-    border-style: solid;
-    border-width: 1px;
-    border-color: #c7ccee;
-    margin-bottom: 1.25rem;
-    padding: 1.25rem;
-    background: #f0f2fb;
-    color: #333333; }
-    /* line 55, /home/djacquel/www/swc/assets/_sass/foundation-components/_panels.scss */
-    .panel.callout > :first-child {
-      margin-top: 0; }
-    /* line 56, /home/djacquel/www/swc/assets/_sass/foundation-components/_panels.scss */
-    .panel.callout > :last-child {
-      margin-bottom: 0; }
-    /* line 61, /home/djacquel/www/swc/assets/_sass/foundation-components/_panels.scss */
-    .panel.callout h1, .panel.callout h2, .panel.callout h3, .panel.callout h4, .panel.callout h5, .panel.callout h6, .panel.callout p, .panel.callout li, .panel.callout dl {
-      color: #333333; }
-    /* line 68, /home/djacquel/www/swc/assets/_sass/foundation-components/_panels.scss */
-    .panel.callout h1, .panel.callout h2, .panel.callout h3, .panel.callout h4, .panel.callout h5, .panel.callout h6 {
-      line-height: 1;
-      margin-bottom: 0.625rem; }
-      /* line 70, /home/djacquel/www/swc/assets/_sass/foundation-components/_panels.scss */
-      .panel.callout h1.subheader, .panel.callout h2.subheader, .panel.callout h3.subheader, .panel.callout h4.subheader, .panel.callout h5.subheader, .panel.callout h6.subheader {
-        line-height: 1.4; }
-    /* line 84, /home/djacquel/www/swc/assets/_sass/foundation-components/_panels.scss */
-    .panel.callout a:not(.button) {
-      color: #2B3990; }
-      /* line 87, /home/djacquel/www/swc/assets/_sass/foundation-components/_panels.scss */
-      .panel.callout a:not(.button):hover, .panel.callout a:not(.button):focus {
-        color: #25317c; }
-  /* line 94, /home/djacquel/www/swc/assets/_sass/foundation-components/_panels.scss */
-  .panel.radius {
+/* line 91, /home/djacquel/www/swc/assets/_sass/foundation-components/_labels.scss */
+.label {
+  font-weight: normal;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: center;
+  text-decoration: none;
+  line-height: 1;
+  white-space: nowrap;
+  display: inline-block;
+  position: relative;
+  margin-bottom: auto;
+  padding: 0.25rem 0.5rem 0.25rem;
+  font-size: 0.6875rem;
+  background-color: #2B3990;
+  color: #FFFFFF; }
+  /* line 96, /home/djacquel/www/swc/assets/_sass/foundation-components/_labels.scss */
+  .label.radius {
     border-radius: 3px; }
-
-/* line 166, /home/djacquel/www/swc/assets/_sass/foundation-components/_reveal.scss */
-.reveal-modal-bg {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background: #000000;
-  background: rgba(0, 0, 0, 0.45);
-  z-index: 1004;
-  display: none;
-  left: 0; }
-
-/* line 168, /home/djacquel/www/swc/assets/_sass/foundation-components/_reveal.scss */
-.reveal-modal, dialog {
-  visibility: hidden;
-  display: none;
-  position: absolute;
-  z-index: 1005;
-  width: 100vw;
-  top: 0;
-  border-radius: 3px;
-  left: 0;
-  background-color: #FFFFFF;
-  padding: 1.25rem;
-  border: solid 1px #666666;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
-  padding: 1.875rem; }
-  @media only screen and (max-width: 40em) {
-    /* line 168, /home/djacquel/www/swc/assets/_sass/foundation-components/_reveal.scss */
-    .reveal-modal, dialog {
-      min-height: 100vh; } }
-  /* line 86, /home/djacquel/www/swc/assets/_sass/foundation-components/_reveal.scss */
-  .reveal-modal .column, dialog .column, .reveal-modal .columns, dialog .columns {
-    min-width: 0; }
-  /* line 89, /home/djacquel/www/swc/assets/_sass/foundation-components/_reveal.scss */
-  .reveal-modal > :first-child, dialog > :first-child {
-    margin-top: 0; }
-  /* line 91, /home/djacquel/www/swc/assets/_sass/foundation-components/_reveal.scss */
-  .reveal-modal > :last-child, dialog > :last-child {
-    margin-bottom: 0; }
-  @media only screen and (min-width: 40.063em) {
-    /* line 168, /home/djacquel/www/swc/assets/_sass/foundation-components/_reveal.scss */
-    .reveal-modal, dialog {
-      width: 80%;
-      max-width: 62.5rem;
-      left: 0;
-      right: 0;
-      margin: 0 auto; } }
-  @media only screen and (min-width: 40.063em) {
-    /* line 168, /home/djacquel/www/swc/assets/_sass/foundation-components/_reveal.scss */
-    .reveal-modal, dialog {
-      top: 6.25rem; } }
-  /* line 180, /home/djacquel/www/swc/assets/_sass/foundation-components/_reveal.scss */
-  .reveal-modal.radius, dialog.radius {
-    border-radius: 3px; }
-  /* line 181, /home/djacquel/www/swc/assets/_sass/foundation-components/_reveal.scss */
-  .reveal-modal.round, dialog.round {
+  /* line 97, /home/djacquel/www/swc/assets/_sass/foundation-components/_labels.scss */
+  .label.round {
     border-radius: 1000px; }
-  /* line 182, /home/djacquel/www/swc/assets/_sass/foundation-components/_reveal.scss */
-  .reveal-modal.collapse, dialog.collapse {
-    padding: 0; }
-  @media only screen and (min-width: 40.063em) {
-    /* line 183, /home/djacquel/www/swc/assets/_sass/foundation-components/_reveal.scss */
-    .reveal-modal.tiny, dialog.tiny {
-      width: 30%;
-      max-width: 62.5rem;
-      left: 0;
-      right: 0;
-      margin: 0 auto; } }
-  @media only screen and (min-width: 40.063em) {
-    /* line 184, /home/djacquel/www/swc/assets/_sass/foundation-components/_reveal.scss */
-    .reveal-modal.small, dialog.small {
-      width: 40%;
-      max-width: 62.5rem;
-      left: 0;
-      right: 0;
-      margin: 0 auto; } }
-  @media only screen and (min-width: 40.063em) {
-    /* line 185, /home/djacquel/www/swc/assets/_sass/foundation-components/_reveal.scss */
-    .reveal-modal.medium, dialog.medium {
-      width: 60%;
-      max-width: 62.5rem;
-      left: 0;
-      right: 0;
-      margin: 0 auto; } }
-  @media only screen and (min-width: 40.063em) {
-    /* line 186, /home/djacquel/www/swc/assets/_sass/foundation-components/_reveal.scss */
-    .reveal-modal.large, dialog.large {
-      width: 70%;
-      max-width: 62.5rem;
-      left: 0;
-      right: 0;
-      margin: 0 auto; } }
-  @media only screen and (min-width: 40.063em) {
-    /* line 187, /home/djacquel/www/swc/assets/_sass/foundation-components/_reveal.scss */
-    .reveal-modal.xlarge, dialog.xlarge {
-      width: 95%;
-      max-width: 62.5rem;
-      left: 0;
-      right: 0;
-      margin: 0 auto; } }
-  /* line 188, /home/djacquel/www/swc/assets/_sass/foundation-components/_reveal.scss */
-  .reveal-modal.full, dialog.full {
-    top: 0;
-    left: 0;
-    height: 100%;
-    height: 100vh;
-    min-height: 100vh;
-    max-width: none !important;
-    margin-left: 0 !important; }
-    @media only screen and (min-width: 40.063em) {
-      /* line 188, /home/djacquel/www/swc/assets/_sass/foundation-components/_reveal.scss */
-      .reveal-modal.full, dialog.full {
-        width: 100vw;
-        max-width: 62.5rem;
-        left: 0;
-        right: 0;
-        margin: 0 auto; } }
-  /* line 199, /home/djacquel/www/swc/assets/_sass/foundation-components/_reveal.scss */
-  .reveal-modal .close-reveal-modal, dialog .close-reveal-modal {
-    font-size: 2.5rem;
-    line-height: 1;
-    position: absolute;
-    top: 0.625rem;
-    right: 1.375rem;
-    color: #AAAAAA;
-    font-weight: bold;
-    cursor: pointer; }
-
-/* line 202, /home/djacquel/www/swc/assets/_sass/foundation-components/_reveal.scss */
-dialog {
-  display: none; }
-  /* line 206, /home/djacquel/www/swc/assets/_sass/foundation-components/_reveal.scss */
-  dialog::backdrop, dialog + .backdrop {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background: #000000;
-    background: rgba(0, 0, 0, 0.45);
-    z-index: auto;
-    display: none;
-    left: 0; }
-  /* line 210, /home/djacquel/www/swc/assets/_sass/foundation-components/_reveal.scss */
-  dialog[open] {
-    display: block; }
-
-@media print {
-  /* line 217, /home/djacquel/www/swc/assets/_sass/foundation-components/_reveal.scss */
-  dialog, .reveal-modal, dialog {
-    display: none;
-    background: #FFFFFF !important; } }
-/* line 114, /home/djacquel/www/swc/assets/_sass/foundation-components/_side-nav.scss */
-.side-nav {
-  display: block;
-  margin: 0;
-  padding: 0 0 0 0;
-  list-style-type: none;
-  list-style-position: outside;
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif; }
-  /* line 70, /home/djacquel/www/swc/assets/_sass/foundation-components/_side-nav.scss */
-  .side-nav li {
-    margin: 0 0 0 0;
-    font-size: 1rem;
-    font-weight: normal; }
-    /* line 75, /home/djacquel/www/swc/assets/_sass/foundation-components/_side-nav.scss */
-    .side-nav li a:not(.button) {
-      display: block;
-      color: #2B3990;
-      margin: 0;
-      padding: 0.4375rem 0.875rem; }
-      /* line 80, /home/djacquel/www/swc/assets/_sass/foundation-components/_side-nav.scss */
-      .side-nav li a:not(.button):hover, .side-nav li a:not(.button):focus {
-        background: rgba(0, 0, 0, 0.025);
-        color: #1a2256; }
-    /* line 87, /home/djacquel/www/swc/assets/_sass/foundation-components/_side-nav.scss */
-    .side-nav li.active > a:first-child:not(.button) {
-      color: #1a2256;
-      font-weight: normal;
-      font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif; }
-    /* line 93, /home/djacquel/www/swc/assets/_sass/foundation-components/_side-nav.scss */
-    .side-nav li.divider {
-      border-top: 1px solid;
-      height: 0;
-      padding: 0;
-      list-style: none;
-      border-top-color: #E4E4E4; }
-    /* line 101, /home/djacquel/www/swc/assets/_sass/foundation-components/_side-nav.scss */
-    .side-nav li.heading {
-      color: #2B3990;
-      font-size: 1rem;
-      font-weight: bold;
-      text-transform: uppercase; }
-
-/* line 121, /home/djacquel/www/swc/assets/_sass/foundation-components/_sub-nav.scss */
-.sub-nav {
-  display: block;
-  width: auto;
-  overflow: hidden;
-  margin: -0.25rem 0 1.125rem;
-  padding-top: 0.25rem; }
-  /* line 67, /home/djacquel/www/swc/assets/_sass/foundation-components/_sub-nav.scss */
-  .sub-nav dt {
-    text-transform: uppercase; }
-  /* line 71, /home/djacquel/www/swc/assets/_sass/foundation-components/_sub-nav.scss */
-  .sub-nav dt,
-  .sub-nav dd,
-  .sub-nav li {
-    float: left;
-    display: inline;
-    margin-left: 1rem;
-    margin-bottom: 0;
-    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight: normal;
-    font-size: 0.875rem;
-    color: #999999; }
-    /* line 83, /home/djacquel/www/swc/assets/_sass/foundation-components/_sub-nav.scss */
-    .sub-nav dt a,
-    .sub-nav dd a,
-    .sub-nav li a {
-      text-decoration: none;
-      color: #999999;
-      padding: 0.1875rem 1rem; }
-      /* line 87, /home/djacquel/www/swc/assets/_sass/foundation-components/_sub-nav.scss */
-      .sub-nav dt a:hover,
-      .sub-nav dd a:hover,
-      .sub-nav li a:hover {
-        color: #737373; }
-    /* line 92, /home/djacquel/www/swc/assets/_sass/foundation-components/_sub-nav.scss */
-    .sub-nav dt.active a,
-    .sub-nav dd.active a,
-    .sub-nav li.active a {
-      border-radius: 3px;
-      font-weight: normal;
-      background: #2B3990;
-      padding: 0.1875rem 1rem;
-      cursor: default;
-      color: #FFFFFF; }
-      /* line 99, /home/djacquel/www/swc/assets/_sass/foundation-components/_sub-nav.scss */
-      .sub-nav dt.active a:hover,
-      .sub-nav dd.active a:hover,
-      .sub-nav li.active a:hover {
-        background: #25317c; }
+  /* line 99, /home/djacquel/www/swc/assets/_sass/foundation-components/_labels.scss */
+  .label.alert {
+    background-color: #DF4949;
+    color: #FFFFFF; }
+  /* line 100, /home/djacquel/www/swc/assets/_sass/foundation-components/_labels.scss */
+  .label.warning {
+    background-color: #E27A3F;
+    color: #FFFFFF; }
+  /* line 101, /home/djacquel/www/swc/assets/_sass/foundation-components/_labels.scss */
+  .label.success {
+    background-color: #A1D044;
+    color: #FFFFFF; }
+  /* line 102, /home/djacquel/www/swc/assets/_sass/foundation-components/_labels.scss */
+  .label.secondary {
+    background-color: #4C65FF;
+    color: #FFFFFF; }
+  /* line 103, /home/djacquel/www/swc/assets/_sass/foundation-components/_labels.scss */
+  .label.info {
+    background-color: #334D5C;
+    color: #FFFFFF; }
 
 /* line 131, /home/djacquel/www/swc/assets/_sass/foundation-components/_tables.scss */
 table {
@@ -5129,22 +3969,6 @@ table {
   table tr td {
     display: table-cell;
     line-height: 1.125rem; }
-
-/* Image Thumbnails */
-/* line 59, /home/djacquel/www/swc/assets/_sass/foundation-components/_thumbs.scss */
-.th {
-  line-height: 0;
-  display: inline-block;
-  border: solid 4px #FFFFFF;
-  max-width: 100%;
-  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.2);
-  transition: all 200ms ease-out; }
-  /* line 48, /home/djacquel/www/swc/assets/_sass/foundation-components/_thumbs.scss */
-  .th:hover, .th:focus {
-    box-shadow: 0 0 6px 1px rgba(43, 57, 144, 0.5); }
-  /* line 63, /home/djacquel/www/swc/assets/_sass/foundation-components/_thumbs.scss */
-  .th.radius {
-    border-radius: 3px; }
 
 /* line 155, /home/djacquel/www/swc/assets/_sass/foundation-components/_type.scss */
 .text-left {
@@ -7611,3 +6435,95 @@ Use as <p class="person">...</p> or <a href="..." class="person">...</a>
   /* line 65, /home/djacquel/www/swc/assets/_sass/swc/_11_syntax-highlighting.scss */
   .highlight .il {
     color: #099; }
+
+/* line 44 */
+code {
+  padding: 2px 4px;
+  font-size: 90%;
+  background-color: #F9F2F4;
+  border-radius: 4px;
+  border: none;
+  font-family: "Courier New",monospace; }
+
+/* line 53 */
+.table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 20px; }
+
+/* line 59 */
+.venueDatas {
+  border: 1px solid #4C65FF;
+  border-radius: 3px;
+  background: #FEFAEE;
+  padding: 20px;
+  margin-top: 40px; }
+  /* line 66 */
+  .venueDatas h2 {
+    margin: 0 0 20px 0; }
+
+/* GitHub Ribbon */
+/* line 73 */
+#github-ribbon a {
+  background: #000;
+  color: #fff;
+  text-decoration: none;
+  font-family: arial, sans-serif;
+  text-align: center;
+  font-weight: bold;
+  padding: 5px 45%;
+  line-height: 2rem;
+  position: relative;
+  transition: 0.5s;
+  width: 100%;
+  margin: 0 auto;
+  white-space: nowrap;
+  z-index: 99999; }
+
+/* line 90 */
+#github-ribbon a:hover {
+  background: #600;
+  color: #fff; }
+
+/* line 94 */
+#github-ribbon a::before, #github-ribbon a::after {
+  content: "";
+  width: 100%;
+  display: block;
+  position: absolute;
+  top: 1px;
+  left: 0;
+  height: 1px;
+  background: #fff; }
+
+/* line 104 */
+#github-ribbon a::after {
+  bottom: 1px;
+  top: auto; }
+
+/* GitHub ribbon breaking point */
+@media only screen and (min-width: 64.063em) {
+  /* line 112 */
+  #github-ribbon {
+    position: absolute;
+    display: block;
+    top: 0;
+    right: 0;
+    width: 150px;
+    overflow: hidden;
+    height: 150px; }
+
+  /* line 121 */
+  #github-ribbon a {
+    width: 200px;
+    position: absolute;
+    padding: 5px 40px;
+    top: 40px;
+    right: -40px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.8); } }
+@media only screen and (max-width: 40em) {
+  /* line 133 */
+  #github-ribbon {
+    display: none; } }
