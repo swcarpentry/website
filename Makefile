@@ -10,9 +10,9 @@ commands :
 amy :
 	${PY} bin/get-amy.py https://amy.software-carpentry.org/api/v1/ _data/amy.yml
 
-## dashboard  : update data about status of projects.
+## dashboard  : update data about status of projects - requires ~/.git-token.
 dashboard :
-	${PY} bin/get-dashboard.py ~/git-token.txt _data/dashboard.yml
+	${PY} bin/get-dashboard.py ${HOME}/.git-token _data/dashboard.yml
 
 ## includes   : update include file listing from disk.
 includes :
