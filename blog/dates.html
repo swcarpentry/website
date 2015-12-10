@@ -129,7 +129,7 @@ permalink: "/blog/dates/"
       {% assign monthId = year | append: "-" | append: month %}
 
       <h4 id="{{ monthId }}">{{ monthName }} {{ year }}</h4>
-      <table class="table table-striped" width="100%">
+      <table class="table table-striped">
       {% for p in postsArray %}
         <tr>
           <td width="15%">{{ p.date | date: "%Y-%m-%d" }}</td>
