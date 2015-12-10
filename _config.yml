@@ -48,11 +48,6 @@ socialmedia:
     class: icon-youtube
     title: "Software Carpentry Videos"
 
-  - name: Facebook
-    url: https://www.facebook.com/SoftwareCarpentry
-    class: icon-facebook
-    title: "Software Carpentry on Facebook"
-
 #############################################
 # Services - used in footer
 #############################################
@@ -72,9 +67,6 @@ services:
   - name: "License"
     url: "/license/"
     title: "License"
-
-
-
 
 #
 #      _____ _ __          _____      __  __  _
