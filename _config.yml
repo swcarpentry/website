@@ -48,6 +48,10 @@ socialmedia:
     class: icon-youtube
     title: "Software Carpentry Videos"
 
+  - name: Facebook
+    url: https://www.facebook.com/SoftwareCarpentry
+    class: icon-facebook
+    title: "Software Carpentry on Facebook"
 
 #############################################
 # Services - used in footer
@@ -93,13 +97,41 @@ description: "Software Carpentry is volunteer non-profit organization dedicated 
 # See > authors.yml
 author: gvwilson
 
-# This URL is the main address for absolute links. Don't include a slash at the end.
-#
-url: 'http://dev.software-carpentry.org'
-baseurl: ''
+# Your web site url. eg: http://mysite.com
+# Used to generate absolute links in feeds
+# do not use for internal links (see baseurl comments)
+# NO trailing slash
+url: "http://swctasks.github.io"
 
+# Your web site relative path from domain. eg: /folder
+# Used to generate links. eg: <a href="{{ site.baseurl }}/blog/">Blog</a>
+# or for resources <script src="{{ site.baseurl }}/js/js.js"></script>
+# NO trailing slash
+baseurl: "/website"
+
+# Your files relative path from domain. eg: /files
+# used to generate links to images, pdf, ...
+# <img src="{{ site.filesPath }}/img.jpg" alt="alt-text">
+# <img src="{{ site.filesPath }}/{{ post.image.title }}" alt="alt-text">
+# NO trailing slash
+filesPath: "/website/files"
+
+# TO BE DEPRECATED in favor of "filesPath"
+# DO NOT USE
 # This URL is the base for referenced files.
-filesurl: 'http://dev.software-carpentry.org/files'
+filesurl: '/website/files'
+
+# TO BE DEPRECATED in favor of "filesPath"
+# DO NOT USE
+# This URL points directly to the images directory making
+# things easier to link to images in posts and templates. It needs a slash at the end.
+#
+# Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
+# Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
+# TO BE DEPRECATED in favor of "filesPath"
+# DO NOT USE
+urlimg: '/website/files/'
+
 
 # Software Carpentry-specific configuration values.
 # FIXME: eliminate some of these (duplicate social media information)
@@ -123,14 +155,6 @@ flag_size       : 16
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
 # improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
-
-# This URL points directly to the images directory making
-# things easier to link to images in posts and templates. It needs a slash at the end.
-#
-# Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
-# Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
-#
-urlimg: 'http://dev.software-carpentry.org/files/'
 
 # Logo image (white with transparent background to stand out on blue background)
 logo: "swc-logo-white.svg"
