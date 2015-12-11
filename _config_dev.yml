@@ -3,7 +3,7 @@
 # everytime you work locally on the project, you start both config-files, overwriting
 # the first one with the development variables needed.
 #
-# Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
+# Start development with › $ bundle exec jekyll serve --config _config.yml,_config_dev.yml
 
 # Your web site url. eg: http://mysite.com
 # Used to generate absolute links in feeds
@@ -40,12 +40,12 @@ google_analytics_tracking_id:
 
 # repository url
 # NO TRAILING SLASH
-#distantAssetsUrl: "http://0.0.0.0:8000"
+distantAssetsUrl: "http://swctasks.github.io"
 
 # path : "/styles"
 # NO TRAILING SLASH
 # Leave empty if assets are at the root of the domain
-#distantAssetsPath: "/assets"
+distantAssetsPath: "/styles/assets"
 
 exclude:
     - .sass-cache
