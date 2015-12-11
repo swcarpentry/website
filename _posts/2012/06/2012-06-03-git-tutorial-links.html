@@ -12,6 +12,6 @@ category: ["Tutorial"]
 {% assign video_title="Tech Talk: Linus Torvals on git" %}
 {% assign video_slug="4XpnKHJAok8" %}
 {% assign video_time="1:10:15" %}
-{% include youtube %}
+{% include youtube.html %}
 
 <p>Finally, someone asked how to set up your own repository on a remote server so you can push and pull from your local computer. This is explained in the Git online book (<a href="http://git-scm.com/book/en/Git-on-the-Server-Getting-Git-on-a-Server">section 4.2</a>). Briefly, have your project in a directory on the server, then go into that directory and run "git init" (if you haven't already). Go up one directory (your project directory's parent), and run "git clone &mdash;bare project project.git" (where "project" is the name of your project directory). This will create a directory called project.git, in which a copy of your repository will be in, minus the "working" files (everything will be hidden, so that running the "ls" command won't show anything). Now from your local computer, you can clone this project by running "git clone user@server.univ.edu:projects/project.git", where "user@server.univ.edu" is your username and server address and "projects/project.git" is the location (relative to your home directory on the server) of your project.</p>
