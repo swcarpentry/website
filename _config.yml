@@ -75,7 +75,7 @@ author: gvwilson
 # Used to generate absolute links in feeds
 # do not use for internal links (see baseurl comments)
 # NO trailing slash
-url: "http://swctasks.github.io"
+url: "http://gvwilson.github.io"
 
 # Your web site relative path from domain. eg: /folder
 # Used to generate links. eg: <a href="{{ site.baseurl }}/blog/">Blog</a>
