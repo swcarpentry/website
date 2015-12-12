@@ -12,24 +12,6 @@ whitelist:
   - jekyll-redirect-from
 
 #############################################
-# Assets configuration
-#############################################
-
-# extensionless url allows to automatically switch
-# to current page protocol (http or https)
-# to avoid mixed content problems
-# distant-assets-url: "//swcarpentry.github.io/styles/"
-
-# repository url
-# NO TRAILING SLASH
-distantAssetsUrl: "http://swctasks.github.io"
-
-# path : "/styles"
-# NO TRAILING SLASH
-# Leave empty if assets are at the root of the domain
-distantAssetsPath: "/styles/assets"
-
-#############################################
 # Social medias - used in footer
 #############################################
 socialmedia:
@@ -93,25 +75,25 @@ author: gvwilson
 # Used to generate absolute links in feeds
 # do not use for internal links (see baseurl comments)
 # NO trailing slash
-url: "http://swctasks.github.io"
+url: "http://software-carpentry.org"
 
 # Your web site relative path from domain. eg: /folder
 # Used to generate links. eg: <a href="{{ site.baseurl }}/blog/">Blog</a>
 # or for resources <script src="{{ site.baseurl }}/js/js.js"></script>
 # NO trailing slash
-baseurl: "/website"
+baseurl: ""
 
 # Your files relative path from domain. eg: /files
 # used to generate links to images, pdf, ...
 # <img src="{{ site.filesPath }}/img.jpg" alt="alt-text">
 # <img src="{{ site.filesPath }}/{{ post.image.title }}" alt="alt-text">
 # NO trailing slash
-filesPath: "/website/files"
+filesPath: "/files"
 
 # TO BE DEPRECATED in favor of "filesPath"
 # DO NOT USE
 # This URL is the base for referenced files.
-filesurl: '/website/files'
+filesurl: '/files'
 
 # TO BE DEPRECATED in favor of "filesPath"
 # DO NOT USE
@@ -122,7 +104,7 @@ filesurl: '/website/files'
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 # TO BE DEPRECATED in favor of "filesPath"
 # DO NOT USE
-urlimg: '/website/files/'
+urlimg: '/files/'
 
 
 # Software Carpentry-specific configuration values.

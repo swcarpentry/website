@@ -1,4 +1,3 @@
-#
 # This config-file is only needed for development. Instead of changing the url
 # everytime you work locally on the project, you start both config-files, overwriting
 # the first one with the development variables needed.
@@ -15,7 +14,7 @@ url: "http://0.0.0.0:4000"
 # Used to generate links. eg: <a href="{{ site.baseurl }}/blog/">Blog</a>
 # or for resources <script src="{{ site.baseurl }}/js/js.js"></script>
 # NO trailing slash
-baseurl: "/website"
+baseurl: ""
 
 sass:
   # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
@@ -33,20 +32,6 @@ google_analytics_tracking_id:
 # Assets configuration
 #############################################
 
-# extensionless url allows to automatically switch
-# to current page protocol (http or https)
-# to avoid mixed content problems
-# distant-assets-url: "//swcarpentry.github.io/styles/"
-
-# repository url
-# NO TRAILING SLASH
-distantAssetsUrl: "http://swctasks.github.io"
-
-# path : "/styles"
-# NO TRAILING SLASH
-# Leave empty if assets are at the root of the domain
-distantAssetsPath: "/styles/assets"
-
 exclude:
     - .sass-cache
     - Gemfile
@@ -55,7 +40,6 @@ exclude:
     - README.md
     - INSTALL.md
     - Makefile
-    - _posts/2015 # ignoring some posts to speed build in dev
     - _posts/2014
     - _posts/2013
     - _posts/2012
@@ -65,4 +49,3 @@ exclude:
     - _posts/2008
     - _posts/2007
     - _posts/2006
-
