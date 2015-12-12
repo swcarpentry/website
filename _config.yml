@@ -81,7 +81,7 @@ url: "http://gvwilson.github.io"
 # Used to generate links. eg: <a href="{{ site.baseurl }}/blog/">Blog</a>
 # or for resources <script src="{{ site.baseurl }}/js/js.js"></script>
 # NO trailing slash
-baseurl: "website"
+baseurl: "swctasks-website"
 
 # Your files relative path from domain. eg: /files
 # used to generate links to images, pdf, ...
