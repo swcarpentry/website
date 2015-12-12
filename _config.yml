@@ -83,30 +83,6 @@ url: "http://gvwilson.github.io"
 # NO trailing slash
 baseurl: "/swctasks-website"
 
-# Your files relative path from domain. eg: /files
-# used to generate links to images, pdf, ...
-# <img src="{{ site.filesPath }}/img.jpg" alt="alt-text">
-# <img src="{{ site.filesPath }}/{{ post.image.title }}" alt="alt-text">
-# NO trailing slash
-filesPath: "/files"
-
-# TO BE DEPRECATED in favor of "filesPath"
-# DO NOT USE
-# This URL is the base for referenced files.
-filesurl: '/files'
-
-# TO BE DEPRECATED in favor of "filesPath"
-# DO NOT USE
-# This URL points directly to the images directory making
-# things easier to link to images in posts and templates. It needs a slash at the end.
-#
-# Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
-# Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
-# TO BE DEPRECATED in favor of "filesPath"
-# DO NOT USE
-urlimg: '/files/'
-
-
 # Software Carpentry-specific configuration values.
 # FIXME: eliminate some of these (duplicate social media information)
 amy_url         : "https://amy.software-carpentry.org/workshops"

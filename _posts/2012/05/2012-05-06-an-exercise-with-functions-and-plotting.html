@@ -108,7 +108,7 @@ for row in csv_reader:
 <p><strong>2. The Call Stack</strong></p>
 <p>Python tracks which functions are currently being executed with a data structure named the call stack. When Python encounters a function call, like <tt>lines = filter_lines(reader)</tt>, it "pushes" information about where to come back to and then jumps to the function's code. When a <tt>return</tt> statement is found (or when the function ends), Python "pops" information off call stack to remember where it was.</p>
 <p>This can be difficult to visualize. Below is a diagram of our program before and after the call to <tt>filter_lines</tt>.</p>
-<p><img alt="Python Call Stack" src="{{site.filesurl}}/2012/05/call_stack-5-1024x561.png" /></p>
+<p><img alt="Python Call Stack" src="{{site.baseurl}}/files/2012/05/call_stack-5-1024x561.png" /></p>
 <p>Python starts out in the "global" function whose code is just the main body of your program. When we call <tt>filter_lines</tt> with <tt>reader</tt> as a parameter, Python copies a <strong>reference</strong> to <tt>workout.csv</tt> into a new variable <tt>reader</tt>, makes a note that it should return to the global function, and jumps to the code for <tt>filter_lines</tt>. Each time we call <tt>keep_line</tt> inside <tt>filter_lines</tt>, Python saves its place on the call stack, copies a reference to <tt>line</tt>, jumps to <tt>keep_line</tt>, and jumps back to <tt>filter_lines</tt> when it's done.</p>
 <p>It's important to remember that the <tt>reader</tt> in the global function and the <tt>reader</tt> in <tt>filter_lines</tt> are two different variables. However, they point to the same file in memory, so reading from the file inside of <tt>filter_lines</tt> changes the file position of <tt>reader</tt> in the global function.</p>
 <p>Python copies things by reference instead of by value, which is very fast (it only needs to point the new variable at the right thing in memory). It can lead to confusion, however, if you don't expect a function to make changes to a parameter (e.g., trying to read data from <tt>reader</tt> after calling <tt>filter_lines</tt> produces nothing since we're at the end of the file). If you really need to, making copies is easy. A list named <tt>my_list</tt>, for example, can be copied simply by slicing the whole thing <tt>my_list[:]</tt>.</p>
@@ -333,7 +333,7 @@ times = extract_times(workouts)
 
 plot(days, times, "workout_times.png")</pre>
 <p>Running this code will create a new file named <tt>workout_times.png</tt> that looks like this:</p>
-<p><img alt="Workout Times" src="{{site.filesurl}}/2012/05/workout_times-bad.png" /></p>
+<p><img alt="Workout Times" src="{{site.baseurl}}/files/2012/05/workout_times-bad.png" /></p>
 <p>As you can see, <tt>matplotlib</tt> takes a "no frills" approach by default. We can spruce up our figure by adding a title, axes labels, a grid, and a "tick" on the x-axis for each day (instead of every other day).</p>
 <pre>def plot(days, times, filename):
     fig = pyplot.figure()
@@ -347,7 +347,7 @@ plot(days, times, "workout_times.png")</pre>
     pyplot.savefig(filename)</pre>
 <p>A complete description of these <tt>pyplot</tt> functions is beyond the scope of this tutorial. A future tutorial will explore them in detail. For now, we suggest using the <a href="http://matplotlib.sourceforge.net/gallery.html">matplotlib gallery</a> to get an idea of what each function does.</p>
 <p>With the changes above, <tt>workout_times.png</tt> is looking a lot nicer:</p>
-<p><img alt="Workout Times" src="{{site.filesurl}}/2012/05/workout_times.png" /></p>
+<p><img alt="Workout Times" src="{{site.baseurl}}/files/2012/05/workout_times.png" /></p>
 <p>That's all, folks! The complete code looks like this:</p>
 <pre>import csv
 from datetime import datetime

@@ -11,7 +11,7 @@ redirect_from:
 
 <div align="center">
   {% for flag in site.data.amy.flags.airports %}
-    <img src="{{site.filesurl}}/flags/32/{{flag}}.png" alt="{{flag|replace:'-',' '}}" />
+    <img src="{{site.baseurl}}/files/flags/32/{{flag}}.png" alt="{{flag|replace:'-',' '}}" />
     {% unless forloop.last %}
       {% assign loopindex = forloop.index0 | modulo: 16 %}
       {% if loopindex == 15 %}

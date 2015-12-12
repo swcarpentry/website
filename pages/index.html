@@ -4,21 +4,21 @@ permalink: /index.html
 ---
 <div class="row">
   <div class="medium-4 columns">
-    <a href="{{site.baseurl}}/workshops/"><img src="{{site.filesurl}}/workshops/2012-12-uta.png" alt="University of Texas 2012" /></a>
+    <a href="{{site.baseurl}}/workshops/"><img src="{{site.baseurl}}/files/workshops/2012-12-uta.png" alt="University of Texas 2012" /></a>
     <a href="{{site.baseurl}}/workshops/"><h4>Our Workshops ›</h4></a>
     <p>
       Find or host a workshop.
     </p>
   </div>
   <div class="medium-4 columns">
-    <a href="{{site.baseurl}}/lessons/"><img src="{{site.filesurl}}/workshops/dc-2014.jpg" alt="Data Carpentry 2014" /></a>
+    <a href="{{site.baseurl}}/lessons/"><img src="{{site.baseurl}}/files/workshops/dc-2014.jpg" alt="Data Carpentry 2014" /></a>
     <a href="{{site.baseurl}}/lessons/"><h4>Our Lessons ›</h4></a>
     <p>
       Have a look at what we teach.
     </p>
   </div>
   <div class="medium-4 columns">
-    <a href="{{site.baseurl}}/join/"><img src="{{site.filesurl}}/workshops/scripps-2012-11.png" alt="Scripps 2012" /></a>
+    <a href="{{site.baseurl}}/join/"><img src="{{site.baseurl}}/files/workshops/scripps-2012-11.png" alt="Scripps 2012" /></a>
     <a href="{{site.baseurl}}/join/"><h4>Get Involved ›</h4></a>
     <p>
       Help us help researchers.
@@ -37,7 +37,7 @@ permalink: /index.html
       {% for w in site.data.amy.workshops_current reversed %}
       <tr>
 	<td>
-	  <img src="{{site.filesurl}}/flags/{{site.flag_size}}/{{w.country | downcase}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' ' | downcase}}" />
+	  <img src="{{site.baseurl}}/files/flags/{{site.flag_size}}/{{w.country | downcase}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' ' | downcase}}" />
 	  <a href="{{w.url}}">{{w.venue}}</a>
 	  <br/>
 	  {{w.humandate}}

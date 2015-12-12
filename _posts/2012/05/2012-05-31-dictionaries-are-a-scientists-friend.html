@@ -36,7 +36,7 @@ print my_dict['b']
 # 4</pre>
 <p>The concept of dictionaries is not restricted to the Python programming language, and more generally dictionaries are referred to as <a href="http://en.wikipedia.org/wiki/Hash_table">hash tables</a>. For example in the R programming language there is a package called <a href="http://cran.r-project.org/web/packages/hash/index.html">hash</a> that implements a dictionary type of data structure.</p>
 <p>For my own research purposes I have been struggling with how to efficiently compute very computationally intensive recursion equations. Specifically I have been attempting to code John Harte et al.'s <a href="http://www.esajournals.org/doi/abs/10.1890/04-1388">Hypothesis of Equal Allocation Probabilities</a> (HEAP) model. This is a model for how probable it would be to observe <em>n</em> individuals of a species in a sample of area <em>A</em> located within a larger area <em>A</em><sub>0</sub> that contains a total of <em>n</em><sub>0</sub> individuals. Harte et al.'s solution to this problem is encapsulated in the following equations:</p>
-<p><img src="{{site.filesurl}}/2012/05/equ.png" /></p>
+<p><img src="{{site.baseurl}}/files/2012/05/equ.png" /></p>
 <p>which can be encoded in Python by a very simple function:</p>
 <pre>def heap_prob(n, A, n0, A0):
     """
