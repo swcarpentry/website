@@ -40,6 +40,15 @@ exclude:
     - README.md
     - INSTALL.md
     - Makefile
+    - _posts/2015/09
+    - _posts/2015/08
+    - _posts/2015/07
+    - _posts/2015/06
+    - _posts/2015/05
+    - _posts/2015/04
+    - _posts/2015/03
+    - _posts/2015/02
+    - _posts/2015/01
     - _posts/2014
     - _posts/2013
     - _posts/2012
@@ -49,3 +58,5 @@ exclude:
     - _posts/2008
     - _posts/2007
     - _posts/2006
+    - _posts/2005
+    - _posts/2004
