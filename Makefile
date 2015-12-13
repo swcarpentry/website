@@ -1,8 +1,11 @@
+# Settings
+MAKEFILES=Makefile $(wildcard *.mk)
+
 all : commands
 
 ## commands   : show all commands.
 commands :
-	@grep -h -E '^##' Makefile *.mk | sed -e 's/## //g'
+	@grep -h -E '^##' ${MAKEFILES} | sed -e 's/## //g'
 
 ## serve      : run a local server.
 serve :
@@ -20,7 +23,9 @@ install :
 clean :
 	rm -rf _site
 	rm -rf .sass-cache
-	find . -name '*~' -exec rm {} \;
 	find . -name .DS_Store -exec rm {} \;
+	find . -name '*~' -exec rm {} \;
+	find . -name '*.pyc' -exec rm {} \;
 
-include commands.mk
+# Include extra commands if available.
+-include commands.mk
