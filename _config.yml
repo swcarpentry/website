@@ -107,7 +107,7 @@ flag_size       : 16
 # improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 
 # Logo image (white with transparent background to stand out on blue background)
-logo: "swc-logo-white.svg"
+logo: "swc-logo-white-2.svg"
 
 # Paginates all X entries
 paginate: 10
