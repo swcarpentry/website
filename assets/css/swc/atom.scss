@@ -4,13 +4,12 @@ sitemap:
 ---
 @charset "utf-8";
 
-@import "swc/functions.scss";
+@import "foundation-components/functions";
 
 $include-html-classes: false;
-@import "swc/01_settings_colors.scss";
-@import "swc/02_settings_typography.scss";
-@import "swc/03_settings_mixins_media_queries.scss";
-@import "swc/04_settings_global.scss";
+@import "swc/settings_colors";
+@import "swc/settings_global";
+@import "swc/_01_custom_typography";
 
 * {
 	display: block;

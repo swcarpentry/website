@@ -1,46 +1,58 @@
 ---
-# Only the main Sass file needs front matter, rest is included from site.sass.sass_dir
+# Only the main Sass file needs front matter,
+# rest is included from site.sass.sass_dir
 sitemap:
   exclude: true
 ---
 @charset "utf-8";
 
-@import "swc/functions.scss";
-@import "swc/01_settings_colors.scss";
-@import "swc/02_settings_typography.scss";
-@import "swc/03_settings_mixins_media_queries.scss";
-@import "swc/04_settings_global.scss";
+@import "foundation-components/normalize"; // always first
+@import "foundation-components/functions";
 
-@import "swc/05_normalize.scss"; // normalize.css v3.0.2
+@import "swc/settings_colors";
+@import "swc/settings_global";
 
-@import "foundation-components/top-bar";
+@import "foundation-components/global";
 @import "foundation-components/accordion";
 @import "foundation-components/alert-boxes";
-@import "foundation-components/breadcrumbs";
 @import "foundation-components/block-grid";
+@import "foundation-components/breadcrumbs";
 @import "foundation-components/button-groups";
 @import "foundation-components/buttons";
 @import "foundation-components/clearing";
-@import "foundation-components/dropdown";
 @import "foundation-components/dropdown-buttons";
+@import "foundation-components/dropdown";
 @import "foundation-components/flex-video";
 @import "foundation-components/forms";
 @import "foundation-components/grid";
+@import "foundation-components/icon-bar";
 @import "foundation-components/inline-lists";
+//@import "foundation-components/joyride";
 @import "foundation-components/keystrokes";
+//@import "foundation-components/labels";
+//@import "foundation-components/magellan";
+//@import "foundation-components/offcanvas";
+//@import "foundation-components/orbit";
+@import "foundation-components/pagination";
 @import "foundation-components/panels";
+//@import "foundation-components/pricing-tables";
+//@import "foundation-components/progress-bars";
+//@import "foundation-components/range-slider";
 @import "foundation-components/reveal";
 @import "foundation-components/side-nav";
+//@import "foundation-components/split-buttons";
 @import "foundation-components/sub-nav";
+//@import "foundation-components/switches";
 @import "foundation-components/tables";
+//@import "foundation-components/tabs";
 @import "foundation-components/thumbs";
+//@import "foundation-components/toolbar";
+@import "foundation-components/tooltips";
 @import "foundation-components/top-bar";
 @import "foundation-components/type";
 @import "foundation-components/visibility";
+@import "foundation-components/syntax-highlighting";
 
-@import "swc/06_typography.scss";
-@import "swc/07_layout.scss";
-@import "foundation-components/grid";
-@import "swc/09_elements.scss";
-
-@import "swc/11_syntax-highlighting.scss";
+@import "swc/01_custom_typography";
+@import "swc/02_custom_layout";
+@import "swc/03_custom_elements";
