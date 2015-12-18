@@ -9,7 +9,7 @@ sitemap:
 $include-html-classes: false;
 @import "swc/settings_colors";
 @import "swc/settings_global";
-@import "swc/_01_custom_typography";
+@import "common/_01_typography";
 
 * {
 	display: block;

@@ -5,7 +5,7 @@ title: Atom Feed
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="{{ site.baseurl }}/assets/xslt/atom.xslt" ?>
-<?xml-stylesheet type="text/css" href="{{ site.baseurl }}/assets/css/atom.css" ?>
+<?xml-stylesheet type="text/css" href="{{ site.baseurl }}/assets/css/swc_atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>{{ site.url }}{{ site.baseurl }}/</id>
 	<title>{{ site.title | xml_escape }}</title>
