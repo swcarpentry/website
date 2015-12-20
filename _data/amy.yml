@@ -28,7 +28,6 @@ airports:
   name: Stockholm
 - country: us
   instructors:
-  - {name: Rosario Robinson, user: robinson.rosario}
   - {name: Daniel Smith, user: smith.daniel}
   latitude: 33.640278
   longitude: -84.426944
@@ -71,7 +70,6 @@ airports:
 - country: th
   instructors:
   - {name: Likit Preeyanon, user: preeyanon.likit}
-  - {name: Christopher Woods, user: woods.c}
   latitude: 13.6925
   longitude: 100.75
   name: Bangkok
@@ -124,6 +122,7 @@ airports:
 - country: gb
   instructors:
   - {name: Jeremy Metz, user: metz.jeremy}
+  - {name: Christopher Woods, user: woods.c}
   latitude: 51.3825
   longitude: -2.718889
   name: Bristol
@@ -202,6 +201,7 @@ airports:
   - {name: Jonathan Guyer, user: guyer.jonathan}
   - {name: Brian Miles, user: miles.brian}
   - {name: Ian Munoz, user: munoz.ian}
+  - {name: Rosario Robinson, user: robinson.rosario}
   - {name: Joshua Smith, user: smith.j}
   - {name: Mike Smorul, user: smorul.mike}
   - {name: Ryan Dale, user: dale.ryan}
@@ -333,7 +333,6 @@ airports:
 - country: us
   instructors:
   - {name: Zbigniew Jędrzejewski-Szmek, user: jedrzejewski-szmek.zbigniew}
-  - {name: William Rowell, user: rowell.bill}
   - {name: Adam Thomas, user: thomas.adam}
   latitude: 38.944444
   longitude: -77.455556
@@ -365,7 +364,10 @@ airports:
 - country: us
   instructors:
   - {name: Matthew Aiello-Lammens, user: aiello-lammens.matthew}
+  - {name: Joshua Ainsley, user: ainsley.joshua}
   - {name: Jonathan Borrelli, user: borrelli.jonathan}
+  - {name: Laura Jane Graham, user: graham.laura}
+  - {name: Noam Ross, user: ross.noam}
   - {name: Matthew Ruttley, user: ruttley.m}
   - {name: Jennifer Shelton, user: shelton.jennifer}
   - {name: Yu-Ching Shih, user: shih.yu-ching}
@@ -406,7 +408,6 @@ airports:
   name: Los Angeles, CA
 - country: gb
   instructors:
-  - {name: Martin Callaghan, user: callaghan.martin}
   - {name: Aaron O'Leary, user: oleary.aaron}
   - {name: Andrew Walker, user: walker.andrew}
   - {name: Jon E Mound, user: mound.je}
@@ -424,11 +425,11 @@ airports:
   name: London City
 - country: us
   instructors:
-  - {name: Joshua Ainsley, user: ainsley.joshua}
   - {name: Camille Avestruz, user: avestruz.camille}
   - {name: Mike Bayer, user: bayer.m}
   - {name: Jared Camins-Esakov, user: camins-esakov.jared}
   - {name: Timothy Cerino, user: cerino.t}
+  - {name: Kwasi Kwakwa, user: kwakwa.k}
   - {name: Ian Langmore, user: langmore.i}
   - {name: Matthew Lightman, user: lightman.matthew}
   - {name: Jason Pell, user: pell.j}
@@ -437,7 +438,6 @@ airports:
   name: New York La Guardia, NY
 - country: gb
   instructors:
-  - {name: Kwasi Kwakwa, user: kwakwa.k}
   - {name: Mark Plumbley, user: plumbley.m}
   - {name: Will Scott-Jackson, user: scott-jackson.will}
   - {name: Patrik Huber, user: huber.patrik}
@@ -454,13 +454,12 @@ airports:
   - {name: Rob Beagrie, user: beagrie.robert}
   - {name: Miguel Bernabeu, user: bernabeu.miguel}
   - {name: Chris Cannam, user: cannam.c}
+  - {name: Rich FitzJohn, user: fitzjohn.rich}
   - {name: Philip Fowler, user: fowler.philip}
   - {name: Laurent Gatto, user: gatto.laurent}
-  - {name: Laura Jane Graham, user: graham.laura}
   - {name: Donna Henderson, user: henderson.donna}
   - {name: James Hetherington, user: hetherington.james}
   - {name: Devasena Inupakutika, user: inupakutika.devasena}
-  - {name: Christian Jacobs, user: jacobs.christian}
   - {name: Jan Kim, user: kim.jan}
   - {name: Jinwoo Leem, user: leem.jinwoo}
   - {name: Gary Macindoe, user: macindoe.gary}
@@ -469,6 +468,7 @@ airports:
   - {name: David Perez-Suarez, user: perez-suarez.david}
   - {name: Stefan Pfenninger, user: pfenninger.s}
   - {name: Florian Rathgeber, user: rathgeber.florian}
+  - {name: Mark Stillwell, user: stillwell.mark}
   - {name: Bogdan Vera, user: vera.b}
   - {name: Ben Waugh, user: waugh.b}
   - {name: Alys Brett, user: brett.alys}
@@ -476,12 +476,6 @@ airports:
   latitude: 51.4775
   longitude: -0.461389
   name: London Heathrow
-- country: gb
-  instructors:
-  - {name: Mark Stillwell, user: stillwell.mark}
-  latitude: 51.874444
-  longitude: -0.368333
-  name: Luton
 - country: fr
   instructors:
   - {name: Rémi Emonet, user: emonet.remi}
@@ -497,6 +491,7 @@ airports:
   name: Madrid
 - country: gb
   instructors:
+  - {name: Martin Callaghan, user: callaghan.martin}
   - {name: Michael Croucher, user: croucher.mike}
   - {name: Anthony Harrison, user: harrison.anthony}
   - {name: Dave Jones, user: jones.dave}
@@ -571,7 +566,6 @@ airports:
   - {name: Karl Broman, user: broman.karl}
   - {name: Christina Koch, user: koch.christina}
   - {name: Lauren Michael, user: michael.lauren}
-  - {name: Anthony Scopatz, user: scopatz.a}
   - {name: Sarah Stevens, user: stevens.sarah}
   - {name: Sarah Supp, user: supp.s}
   - {name: Paul Wilson, user: wilson.p}
@@ -712,6 +706,7 @@ airports:
   - {name: Karen Cranston, user: cranston.k}
   - {name: John Pearson, user: pearson.john}
   - {name: John Pormann, user: pormann.john}
+  - {name: William Rowell, user: rowell.bill}
   - {name: Alexander Whitlock, user: whitlock.a}
   latitude: 35.8775
   longitude: -78.787222
@@ -821,8 +816,9 @@ airports:
   instructors:
   - {name: Carl Boettiger, user: boettiger.carl}
   - {name: C. Titus Brown, user: brown.ct}
+  - {name: Michael Levy, user: levy.michael}
   - {name: Jason Moore, user: moore.jason}
-  - {name: Noam Ross, user: ross.noam}
+  - {name: Camille Scott, user: scott.camille}
   - {name: Tracy Teal, user: teal.t}
   - {name: Easton White, user: white.easton}
   latitude: 38.695278
@@ -838,6 +834,7 @@ airports:
   instructors:
   - {name: Stephen Crouch, user: crouch.s}
   - {name: Ian Hawke, user: hawke.ian}
+  - {name: Christian Jacobs, user: jacobs.christian}
   - {name: Richard Tomsett, user: tomsett.richard}
   - {name: Robin Wilson, user: wilson.r}
   - {name: Olivier Philippe, user: philippe.olivier}
@@ -873,7 +870,6 @@ airports:
   instructors:
   - {name: Will Cornwell, user: cornwell.will}
   - {name: Daniel Falster, user: falster.daniel}
-  - {name: Rich FitzJohn, user: fitzjohn.rich}
   - {name: Fabian Held, user: held.fabian}
   - {name: Joshua Madin, user: madin.j}
   - {name: Dan Warren, user: warren.dan}
@@ -965,6 +961,7 @@ airports:
   name: Montreal
 - country: ca
   instructors:
+  - {name: Dhavide Aruliah, user: aruliah.d}
   - {name: Jennifer Bryan, user: bryan.j}
   - {name: Kathy Chung, user: chung.kathy}
   - {name: Julia Gustavsen, user: gustavsen.j}
@@ -999,7 +996,6 @@ airports:
   name: Victoria
 - country: ca
   instructors:
-  - {name: Dhavide Aruliah, user: aruliah.d}
   - {name: Trevor Bekolay, user: bekolay.trevor}
   - {name: Amy Brown, user: brown.amy}
   - {name: Arliss Collins, user: collins.arliss}
@@ -1065,7 +1061,7 @@ airports:
 - country: us
   instructors:
   - {name: Emelie Harstad, user: harstad.emelie}
-  - {name: Josh Herr, user: herr.joshua}
+  - {name: Joshua Herr, user: herr.joshua}
   latitude: 40.850833
   longitude: -96.759167
   name: Lincoln, NE
@@ -1189,6 +1185,12 @@ airports:
   latitude: 46.783742
   longitude: 23.691562
   name: Cluj International Airport
+- country: us
+  instructors:
+  - {name: Anthony Scopatz, user: scopatz.a}
+  latitude: 35.213754
+  longitude: -80.948194
+  name: Charlotte Douglas International Airport
 badges:
 - name: creator
   persons:
@@ -1342,7 +1344,7 @@ badges:
   - {name: Ian Hawke, user: hawke.ian}
   - {name: Fabian Held, user: held.fabian}
   - {name: Ian Henry, user: henry.ian}
-  - {name: Josh Herr, user: herr.joshua}
+  - {name: Joshua Herr, user: herr.joshua}
   - {name: Kate Hertweck, user: hertweck.kate}
   - {name: James Hetherington, user: hetherington.james}
   - {name: James Hiebert, user: hiebert.james}
@@ -1781,11 +1783,64 @@ badges:
 flags:
   airports: [au, br, ca, cn, de, dk, es, fr, gb, ie, il, in, it, 'no', nz, pl, ro,
     se, sg, th, us, ve, za]
-  workshops: [au, br, ca, ch, cn, cy, de, dk, es, fi, fr, gb, gh, id, in, it, jo,
-    ke, kr, lb, nl, 'no', nz, pl, sa, se, th, us, ve, w3, za]
-timestamp: 20151209T132506Z
+  workshops: [au, be, br, ca, ch, cn, cy, de, dk, es, fi, fr, gb, gh, id, in, it,
+    jo, ke, kr, lb, nl, 'no', nz, pl, sa, se, th, us, ve, w3, za]
+timestamp: 20151220T140941Z
 workshops:
 - &id002
+  - {address: 'Piscataway, New Jersey', contact: janet.alder@rutgers.edu, country: us,
+    end: 2015-12-16, eventbrite_id: '', humandate: 'Dec 15-16, 2015', latitude: 40.519011,
+    longitude: -74.443728, slug: 2015-12-15-rutgers, start: 2015-12-15, url: 'https://cfriedline.github.io/2015-12-15-rutgers/',
+    venue: Rutgers University}
+  - {address: 'Room 2207 & Room 2209, Building 85', contact: s.hettrick@software.ac.uk,
+    country: gb, end: 2015-12-15, eventbrite_id: '19595928951', humandate: 'Dec 15-15,
+      2015', latitude: 50.934345, longitude: -1.396227, slug: 2015-12-15-Southampton,
+    start: 2015-12-15, url: 'https://southampton-rsg.github.io/2015-12-15-Southampton/',
+    venue: University of Southampton}
+  - {address: 'Old Arts Building Room 263 (Collaborative Learning Space 1), University
+      of Melbourne', contact: alistair.walsh@unimelb.edu.au, country: au, end: 2015-12-15,
+    eventbrite_id: '18879524165', humandate: 'Dec 14-15, 2015', latitude: -37.79291,
+    longitude: 144.961174, slug: 2015-12-14-Python-for-Researchers, start: 2015-12-14,
+    url: 'https://resbaz.github.io/2015-12-14-Python-for-Researchers/', venue: University
+      of Melbourne}
+  - {address: 'University of Portsmouth, Room DS1.09, Dennis Sciama Bldg, Burnaby
+      Road, Portsmouth, P01 3FX', contact: support@archer.ac.uk, country: gb, end: 2015-12-15,
+    eventbrite_id: '', humandate: 'Dec 14-15, 2015', latitude: 50.797656, longitude: -1.098289,
+    slug: 2015-12-14-Portsmouth, start: 2015-12-14, url: 'https://hpcarcher.github.io/2015-12-14-Portsmouth/',
+    venue: University of Portsmouth}
+  - {address: 190 Doe Library, contact: jkitzes@berkeley.edu, country: us, end: 2015-12-15,
+    eventbrite_id: '', humandate: 'Dec 14-15, 2015', latitude: 37.871593, longitude: -122.272747,
+    slug: 2015-12-14-berkeley, start: 2015-12-14, url: 'https://bids.github.io/2015-12-14-berkeley/',
+    venue: University of California Berkeley}
+  - {address: 'Bldg 10, 10 Center Dr, Bethesda, MD, 20892', contact: adamt@nih.gov,
+    country: us, end: 2015-12-18, eventbrite_id: '', humandate: 'Dec 14-18, 2015',
+    latitude: 39.001305, longitude: -77.104909, slug: 2015-12-14-NIH, start: 2015-12-14,
+    url: 'https://agt24.github.io/2015-12-14-NIH/', venue: NIH Library}
+  - {address: 'Atlas and Collab1 rooms, Kilburn Building, Oxford Road,  M13 9PL Manchester',
+    contact: admin-uk@software-carpentry, country: gb, end: 2015-12-15, eventbrite_id: '',
+    humandate: 'Dec 14-15, 2015', latitude: 53.467293, longitude: -2.233876, slug: 2015-12-wise-uk,
+    start: 2015-12-14, url: 'https://apawlik.github.io/2015-12-wise-uk/', venue: ARCHER
+      and SSI workshop for Women in Science and Engineering}
+  - {address: 'Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences,
+      Telegrafenberg, 14473 Potsdam', contact: '', country: de, end: 2015-12-16, eventbrite_id: '',
+    humandate: 'Dec 14-16, 2015', latitude: 522257.2, longitude: 130350.0, slug: 2015-12-14-gfz-potsdam,
+    start: 2015-12-14, url: 'http://www.gfz-potsdam.de/?id=5097', venue: Helmholtz
+      Centre Potsdam - GFZ German Research Centre for Geosciences}
+  - {address: 'Edmon Low Library, Stillwater, OK', contact: laufers@ou.edu, country: us,
+    end: 2015-12-11, eventbrite_id: '19827719242', humandate: 'Dec 10-11, 2015', latitude: 36.1230264,
+    longitude: -97.0696432, slug: 2015-12-10-OklahomaStateLibraries, start: 2015-12-10,
+    url: 'https://oulibraries.github.io/2015-12-10-OklahomaStateLibraries/', venue: Oklahoma
+      State University}
+  - {address: 'Room 2011, 37 Kent St, Woolloongabba, Queensland, Australia, 4102',
+    contact: b.weaver@uq.edu.au, country: au, end: 2015-12-10, eventbrite_id: '19327251329',
+    humandate: 'Dec 09-10, 2015', latitude: -27.498869, longitude: 153.031914, slug: 2015-12-09-TRI,
+    start: 2015-12-09, url: 'https://bio-swc-bne.github.io/2015-12-09-TRI/', venue: Translational
+      Research Institute - Hosted by the Diamantina Institute}
+  - {address: 'Charles Perkins Centre Seminar Room 2.01, Building D17, Johns Hopkins
+      Drive (off Missenden Road)', contact: training@intersect.org.au, country: au,
+    end: 2015-12-09, eventbrite_id: '19467490789', humandate: 'Dec 08-09, 2015', latitude: -33.887037,
+    longitude: 151.180855, slug: 2015-12-08-USYD, start: 2015-12-08, url: 'https://intersectaustralia.github.io/2015-12-08-USYD/',
+    venue: University of Sydney}
   - {address: 'Old Arts Building, Room 263 (Collaborative Learning Space 1), University
       of Melbourne', contact: dsand@student.unimelb.edu.au, country: au, end: 2015-12-08,
     eventbrite_id: '19523012857', humandate: 'Dec 07-08, 2015', latitude: -37.797915,
@@ -1861,6 +1916,11 @@ workshops:
     eventbrite_id: '', humandate: 'Nov 20-21, 2015', latitude: 37.7689175, longitude: -122.3957338,
     slug: 2015-11-20-ucsf-R, start: 2015-11-20, url: 'https://emilydolson.github.io/2015-11-20-ucsf-R/',
     venue: University of California San Francisco}
+  - {address: 'Ullevålsveien 68, 0454 Oslo, Norway', contact: karin.lagesen@vetinst.no,
+    country: 'no', end: 2015-12-11, eventbrite_id: '', humandate: 'Nov 20-Dec 11,
+      2015', latitude: 59.930065, longitude: 10.736389, slug: 2015-11-20-NVI, start: 2015-11-20,
+    url: 'https://karinlag.github.io/2015-11-20-NVI/', venue: Norwegian Veterinary
+      Institute}
   - {address: 'King''s College Circle, Toronto, M5S 1A5', contact: '', country: ca,
     end: 2015-11-20, eventbrite_id: '', humandate: 'Nov 19-20, 2015', latitude: 43.661824,
     longitude: -79.394539, slug: 2015-11-19-utoronto, start: 2015-11-19, url: ' http://blog.tomwright.ca/2015-11-19-utoronto/',
@@ -1961,6 +2021,11 @@ workshops:
     humandate: 'Nov 02-03, 2015', latitude: 46.345416, longitude: -119.279143, slug: 2015-11-02-pnnl,
     start: 2015-11-02, url: 'https://bw4sz.github.io/2015-11-03-PNNL/', venue: Pacific
       Northwest National Laboratory}
+  - {address: 'Avenue Louise/Louizalaan 231, 1050 Brussels', contact: leszek.tarkowski@gmail.com,
+    country: be, end: 2015-11-02, eventbrite_id: '18312852234', humandate: 'Nov 02-02,
+      2015', latitude: 50.825349, longitude: 4.365441, slug: 2015-11-02-DC-Brussels,
+    start: 2015-11-02, url: 'https://leszektarkowski.github.io/2015-11-02-DC-Brussels/',
+    venue: BELSPO}
   - {address: TBC, contact: support@archer.ac.uk, country: gb, end: 2015-10-30, eventbrite_id: '',
     humandate: 'Oct 29-30, 2015', latitude: 53.806485, longitude: -1.555022, slug: 2015-10-29-Leeds-DC,
     start: 2015-10-29, url: 'https://hpcarcher.github.io/2015-10-29-Leeds-DC/', venue: University
@@ -2272,6 +2337,10 @@ workshops:
     eventbrite_id: '17950925702', humandate: 'Aug 20-21, 2015', latitude: 36.368229,
     longitude: 127.366771, slug: 2015-08-20-daejeon, start: 2015-08-20, url: 'https://statkclee.github.io/2015-08-20-daejeon/',
     venue: 나노종합기술원 대전창조경제혁신센터}
+  - {address: Bizzell Library HCLC Classroom, contact: lmc@ou.edu, country: us, end: 2015-08-20,
+    eventbrite_id: '17619758171', humandate: 'Aug 19-20, 2015', latitude: 35.208275,
+    longitude: -97.445848, slug: 2015-08-19-ou, start: 2015-08-19, url: 'https://oulibraries.github.io/2015-08-19-ou/',
+    venue: University of Oklahoma Libraries}
   - {address: 1043 & 2030 Gladys Valley Hall, contact: sherine.awad@gmail.com, country: us,
     end: 2015-08-18, eventbrite_id: '17736809274', humandate: 'Aug 17-18, 2015', latitude: 38.532815,
     longitude: -121.763681, slug: 2015-08-17-ucdavis-wise, start: 2015-08-17, url: 'https://camillescott.github.io/2015-08-16-ucdavis-wise/',
@@ -2579,6 +2648,10 @@ workshops:
     humandate: 'May 27-28, 2015', latitude: 38.896947, longitude: -77.040454, slug: 2015-05-27-FRB,
     start: 2015-05-27, url: 'https://ianamunoz.github.io/2015-05-27-FRB/', venue: Federal
       Reserve Board}
+  - {address: 'Central Park W & 79th St, New York, NY 10024', contact: '', country: us,
+    end: 2015-05-29, eventbrite_id: '', humandate: 'May 26-29, 2015', latitude: 40.781218,
+    longitude: -73.973892, slug: 2015-05-26-amnh, start: 2015-05-26, url: 'https://cavestruz.github.io/2015-05-26-amnh/',
+    venue: American Museum of Natural History}
   - {address: 'Computer Lab (Room 313/314), McCoy Building, University of Melbourne',
     contact: irving.damien@gmail.com, country: au, end: 2015-05-26, eventbrite_id: '15679681349',
     humandate: 'May 25-26, 2015', latitude: -37.79291, longitude: 144.961174, slug: 2015-05-25-unimelb,
@@ -3211,7 +3284,7 @@ workshops:
     url: 'https://vu-bc.github.io/2014-08-12-vu/', venue: Vanderbilt University}
   - {address: 'Farrell Teaching and Learning Center, Holden Auditorium and FLTC 214,
       Saint Louis, MO', contact: molly.gibson@wustl.edu, country: us, end: 2014-08-11,
-    eventbrite_id: null, humandate: 'Aug 11-11, 2014', latitude: 38.6350207, longitude: -90.2630784,
+    eventbrite_id: '', humandate: 'Aug 11-11, 2014', latitude: 38.6350207, longitude: -90.2630784,
     slug: 2014-08-11-wustl, start: 2014-08-11, url: 'https://mollygibson.github.io/2014-08-11-wustl/',
     venue: Washington University School of Medicine}
   - {address: New York City, contact: gvwilson@software-carpentry.org, country: us,
@@ -4198,10 +4271,20 @@ workshops:
     country: US, end: 2016-02-26, eventbrite_id: '19803149754', humandate: 'Feb 25-26,
       2016', latitude: 40.114821, longitude: -88.225001, slug: 2016-02-25-NCSA, start: 2016-02-25,
     url: 'https://uiuc-cse.github.io/2016-02-25-NCSA/', venue: University of Illinois}
+  - {address: 'Room EME 1153, 3333 University Way, Kelowna', contact: alex.razoumov@westgrid.ca,
+    country: CA, end: 2016-02-23, eventbrite_id: '20002024594', humandate: 'Feb 22-23,
+      2016', latitude: 49.93912, longitude: -119.394442, slug: 2016-02-22-ubco, start: 2016-02-22,
+    url: 'https://computecanada.github.io/2016-02-22-ubco/', venue: University of
+      British Columbia Okanagan}
   - {address: '1205 West Clark St, Urbana, Illinois', contact: training@cse.illinois.edu,
     country: US, end: 2016-02-11, eventbrite_id: '19803576029', humandate: 'Feb 08-11,
       2016', latitude: 40.114821, longitude: -88.225001, slug: 2016-02-08-NCSA, start: 2016-02-08,
     url: 'https://uiuc-cse.github.io/2016-02-08-NCSA/', venue: University of Illinois}
+  - {address: '2255 N. Gemini Dr., Flagstaff, Arizona', contact: dbuscombe@usgs.gov,
+    country: US, end: 2016-02-05, eventbrite_id: '', humandate: 'Feb 04-05, 2016',
+    latitude: 35.214407, longitude: -111.634113, slug: 2016-02-04-us_geo_survey, start: 2016-02-04,
+    url: 'https://mperignon.github.io/2016-02-04-flagstaff/', venue: USGS Flagstaff
+      Science Campus}
   - {address: 'Conference Centre Building, 22 Symonds Street, Auckland', contact: j.rugis@auckland.ac.nz,
     country: NZ, end: 2016-01-29, eventbrite_id: N/A, humandate: 'Jan 28-29, 2016',
     latitude: -36.853647, longitude: 174.769403, slug: 2016-01-28-auckland-instructor-training,
@@ -4215,6 +4298,15 @@ workshops:
     eventbrite_id: '', humandate: 'Jan 19-20, 2016', latitude: 33.7993178, longitude: -84.3301967,
     slug: 2016-01-19-cdc, start: 2016-01-19, url: 'https://emilydolson.github.io/2016-01-19-CDC/',
     venue: Centers for Disease Control}
+  - {address: 'Charles W. Capps, Jr. Center classroom, Jamie Whitten Delta States
+      Research Center, 141 Experiment Station Road, Stoneville, MS', contact: op.perera@ars.usda.gov,
+    country: US, end: 2016-01-20, eventbrite_id: '', humandate: 'Jan 19-20, 2016',
+    latitude: 33.420899, longitude: -90.909457, slug: 2016-01-19-usda, start: 2016-01-19,
+    url: 'https://zhuoaprilfu.github.io/2016-01-19-USDA-ARS/', venue: USDA-ARS}
+  - {address: '100 Nicolls Road, Stony Brook, NY 11790', contact: '', country: US,
+    end: 2016-01-20, eventbrite_id: '', humandate: 'Jan 19-20, 2016', latitude: 40.916011,
+    longitude: -73.1220717, slug: 2016-01-19-sbu, start: 2016-01-19, url: 'http://www.datacarpentry.org/2016-01-19-sbu/',
+    venue: Wang Center - Lecture Hall 2}
   - {address: 'School of Earth and Environment, University of Leeds, Leeds, LS2 9J',
     contact: J.E.Mound@leeds.ac.uk, country: GB, end: 2016-01-20, eventbrite_id: '18902556054',
     humandate: 'Jan 18-20, 2016', latitude: 53.8057, longitude: -1.5557, slug: 2016-01-18-leeds,
@@ -4226,11 +4318,21 @@ workshops:
     latitude: -27.493579, longitude: 153.016776, slug: 2016-01-18-brisbane-instructor-training,
     start: 2016-01-18, url: 'https://swcarpentry.github.io/2016-01-18-brisbane-instructor-training/',
     venue: The University of Queensland}
+  - {address: 'room LSC3, 2350 Health Sciences Mall, UBC', contact: alex.razoumov@westgrid.ca,
+    country: CA, end: 2016-01-17, eventbrite_id: '19988004660', humandate: 'Jan 16-17,
+      2016', latitude: 49.262465, longitude: -123.24509, slug: 2016-01-16-ubc, start: 2016-01-16,
+    url: 'https://computecanada.github.io/2016-01-16-ubc/', venue: University of British
+      Columbia}
   - {address: '190 Doe Library, University of California, Berkeley', contact: bids@berkeley.edu,
     country: US, end: 2016-01-15, eventbrite_id: '', humandate: 'Jan 14-15, 2016',
     latitude: 37.872208, longitude: -122.259493, slug: 2016-01-14-berkeley, start: 2016-01-14,
     url: 'https://bids.github.io/2016-01-14-berkeley/', venue: Berkeley Institute
       for Data Science}
+  - {address: '3rd Floor Teaching Lab, Discovery Building, 330 North Orchard St. Madison,
+      WI', contact: ContactACI@lists.wisc.edu, country: US, end: 2016-01-15, eventbrite_id: '',
+    humandate: 'Jan 14-15, 2016', latitude: 43.0729124, longitude: -89.4080793, slug: 2016-01-14-uwmadison,
+    start: 2016-01-14, url: 'https://uw-madison-aci.github.io/2016-01-14-uwmadison/',
+    venue: UW-Madison}
   - {address: 'The Center for Teaching Excellence (The Innovation Lab, Room 246A),
       O''Neill Library, Chestnut Hill, MA 02467-3810', contact: iglpdc+bc@gmail.com,
     country: US, end: 2016-01-14, eventbrite_id: '19689859901', humandate: 'Jan 13-14,
@@ -4242,6 +4344,16 @@ workshops:
       2016', latitude: 46.5213679, longitude: 6.5720468, slug: 2016-01-13-instructor-training-lausanne,
     start: 2016-01-13, url: 'https://swcarpentry.github.io/2016-01-13-instructor-training-lausanne/',
     venue: The University of Lausanne}
+  - {address: 'Room 1G04, Dalhousie Building, University of Dundee, Dundee, Scotland,
+      UK, DD1 4HN', contact: C.Cole@dundee.ac.uk, country: GB, end: 2016-01-12, eventbrite_id: '19931324127',
+    humandate: 'Jan 11-12, 2016', latitude: 56.459249, longitude: -2.981933, slug: 2016-01-11-dundee,
+    start: 2016-01-11, url: 'https://widdowquinn.github.io/2016-01-11-dundee/', venue: University
+      of Dundee}
+  - {address: 'School of Applied Sciences, Huddersfield, HD1 3DH', contact: j.bryk@hud.ac.uk,
+    country: GB, end: 2016-01-12, eventbrite_id: '', humandate: 'Jan 11-12, 2016',
+    latitude: 53.642603, longitude: -1.778514, slug: 2016-01-11-huddersfield, start: 2016-01-11,
+    url: 'https://callaghanmt.github.io/2016-01-11-huddersfield/', venue: The University
+      of Huddersfield}
   - {address: '117 - Physics and Astronomy Building, 1151 Richmond Street, London
       ON  N6A 3K7, Canada', contact: tyson@sharcnet.ca, country: CA, end: 2016-01-10,
     eventbrite_id: '', humandate: 'Jan 09-10, 2016', latitude: 43.00979, longitude: -81.272822,
@@ -4263,58 +4375,14 @@ workshops:
       2016', latitude: 51.456, longitude: -2.604, slug: 2016-01-06-bristol, start: 2016-01-06,
     url: 'https://andreww.github.io/2016-01-06-bristol/', venue: NERC / University
       of Bristol}
+  - {address: 'University of Nebraska, Lincoln, NE', contact: eharstad@unl.edu, country: US,
+    end: 2016-01-08, eventbrite_id: '', humandate: 'Jan 06-08, 2016', latitude: 40.821798,
+    longitude: -96.688613, slug: 2016-01-06-UNL, start: 2016-01-06, url: 'https://swc-osg-workshop.github.io/2016-01-06-UNL/',
+    venue: University of Nebraska - Lincoln}
   - {address: 'St. George 106, 6000 West Osceola Parkway, Kissimmee, Florida', contact: kabostroem@ucdavis.edu,
     country: US, end: 2016-01-04, eventbrite_id: '', humandate: 'Jan 03-04, 2016',
     latitude: 28.342395, longitude: -81.526977, slug: 2016-01-03-aas, start: 2016-01-03,
     url: 'https://abostroem.github.io/2016-01-03-aas/', venue: American Astronomical
       Society 227th Meeting}
-  - {address: 'Piscataway, New Jersey', contact: janet.alder@rutgers.edu, country: US,
-    end: 2015-12-16, eventbrite_id: '', humandate: 'Dec 15-16, 2015', latitude: 40.519011,
-    longitude: -74.443728, slug: 2015-12-15-rutgers, start: 2015-12-15, url: 'https://cfriedline.github.io/2015-12-15-rutgers/',
-    venue: Rutgers University}
-  - {address: 'Room 2207 & Room 2209, Building 85', contact: s.hettrick@software.ac.uk,
-    country: GB, end: 2015-12-15, eventbrite_id: '19595928951', humandate: 'Dec 15-15,
-      2015', latitude: 50.934345, longitude: -1.396227, slug: 2015-12-15-Southampton,
-    start: 2015-12-15, url: 'https://southampton-rsg.github.io/2015-12-15-Southampton/',
-    venue: University of Southampton}
-  - {address: 'Old Arts Building Room 263 (Collaborative Learning Space 1), University
-      of Melbourne', contact: alistair.walsh@unimelb.edu.au, country: AU, end: 2015-12-15,
-    eventbrite_id: '18879524165', humandate: 'Dec 14-15, 2015', latitude: -37.79291,
-    longitude: 144.961174, slug: 2015-12-14-Python-for-Researchers, start: 2015-12-14,
-    url: 'https://resbaz.github.io/2015-12-14-Python-for-Researchers/', venue: University
-      of Melbourne}
-  - {address: 'University of Portsmouth, Room DS1.09, Dennis Sciama Bldg, Burnaby
-      Road, Portsmouth, P01 3FX', contact: support@archer.ac.uk, country: GB, end: 2015-12-15,
-    eventbrite_id: '', humandate: 'Dec 14-15, 2015', latitude: 50.797656, longitude: -1.098289,
-    slug: 2015-12-14-Portsmouth, start: 2015-12-14, url: 'https://hpcarcher.github.io/2015-12-14-Portsmouth/',
-    venue: University of Portsmouth}
-  - {address: 190 Doe Library, contact: jkitzes@berkeley.edu, country: US, end: 2015-12-15,
-    eventbrite_id: '', humandate: 'Dec 14-15, 2015', latitude: 37.871593, longitude: -122.272747,
-    slug: 2015-12-14-berkeley, start: 2015-12-14, url: 'https://bids.github.io/2015-12-14-berkeley/',
-    venue: University of California Berkeley}
-  - {address: 'Bldg 10, 10 Center Dr, Bethesda, MD, 20892', contact: adamt@nih.gov,
-    country: US, end: 2015-12-18, eventbrite_id: '', humandate: 'Dec 14-18, 2015',
-    latitude: 39.001305, longitude: -77.104909, slug: 2015-12-14-NIH, start: 2015-12-14,
-    url: 'https://agt24.github.io/2015-12-14-NIH/', venue: NIH Library}
-  - {address: 'Atlas and Collab1 rooms, Kilburn Building, Oxford Road,  M13 9PL Manchester',
-    contact: admin-uk@software-carpentry, country: GB, end: 2015-12-15, eventbrite_id: '',
-    humandate: 'Dec 14-15, 2015', latitude: 53.467293, longitude: -2.233876, slug: 2015-12-wise-uk,
-    start: 2015-12-14, url: 'https://apawlik.github.io/2015-12-wise-uk/', venue: ARCHER
-      and SSI workshop for Women in Science and Engineering}
-  - {address: 'Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences,
-      Telegrafenberg, 14473 Potsdam', contact: '', country: DE, end: 2015-12-16, eventbrite_id: '',
-    humandate: 'Dec 14-16, 2015', latitude: 522257.2, longitude: 130350.0, slug: 2015-12-14-gfz-potsdam,
-    start: 2015-12-14, url: 'http://www.gfz-potsdam.de/?id=5097', venue: Helmholtz
-      Centre Potsdam - GFZ German Research Centre for Geosciences}
-  - {address: 'Room 2011, 37 Kent St, Woolloongabba, Queensland, Australia, 4102',
-    contact: b.weaver@uq.edu.au, country: AU, end: 2015-12-10, eventbrite_id: '19327251329',
-    humandate: 'Dec 09-10, 2015', latitude: -27.498869, longitude: 153.031914, slug: 2015-12-09-TRI,
-    start: 2015-12-09, url: 'https://bio-swc-bne.github.io/2015-12-09-TRI/', venue: Translational
-      Research Institute - Hosted by the Diamantina Institute}
-  - {address: 'Ullevålsveien 68, 0454 Oslo, Norway', contact: karin.lagesen@vetinst.no,
-    country: 'NO', end: 2015-12-11, eventbrite_id: '', humandate: 'Nov 20-Dec 11,
-      2015', latitude: 59.930065, longitude: 10.736389, slug: 2015-11-20-NVI, start: 2015-11-20,
-    url: 'https://karinlag.github.io/2015-11-20-NVI/', venue: Norwegian Veterinary
-      Institute}
 workshops_current: *id001
 workshops_past: *id002
