@@ -6,8 +6,7 @@
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
 
 url: 'http://localhost:4000'
-filesurl: 'http://localhost:4000/files'
-urlimg: 'http://localhost:4000/files/'
+filesurl: '/files'
 
 sass:
   # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
