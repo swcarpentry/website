@@ -1,4 +1,4 @@
-num_issues: 220
+num_issues: 227
 num_repos: 15
 records:
 - description: Unix Shell
@@ -106,7 +106,6 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/189'}
   - {number: 190, title: We should talk more about good commit messages, updated: '2015-11-16',
     url: 'https://github.com/swcarpentry/git-novice/issues/190'}
-  - {number: 191, title: Refactor to forking, updated: '2015-11-17', url: 'https://github.com/swcarpentry/git-novice/pull/191'}
   - {number: 188, title: 'Add this (or something like it) to the lesson?', updated: '2015-11-17',
     url: 'https://github.com/swcarpentry/git-novice/issues/188'}
   - {number: 187, title: 'Should we teach interactive mode?', updated: '2015-11-17',
@@ -119,6 +118,7 @@ records:
       tools bug, updated: '2015-11-23', url: 'https://github.com/swcarpentry/git-novice/issues/193'}
   - {number: 196, title: Suggest adding two more cartoons in the reference section,
     updated: '2015-12-16', url: 'https://github.com/swcarpentry/git-novice/issues/196'}
+  - {number: 191, title: Refactor to forking, updated: '2015-12-22', url: 'https://github.com/swcarpentry/git-novice/pull/191'}
   url: https://github.com/swcarpentry/git-novice
 - description: Mercurial
   ident: swcarpentry/hg-novice
@@ -270,7 +270,7 @@ records:
     url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/45'}
   - {number: 49, title: 'Get back to simpler code?', updated: '2015-07-24', url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/49'}
   - {number: 56, title: Missing code in "defensive programming" lesson ("test_range_overlap"
-      script), updated: '2015-12-03', url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/56'}
+      script), updated: '2015-12-24', url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/56'}
   url: https://github.com/swcarpentry/matlab-novice-inflammation
 - description: Make
   ident: swcarpentry/make-novice
@@ -387,17 +387,24 @@ records:
     url: 'https://github.com/swcarpentry/amy/issues/617'}
   - {number: 624, title: Searching for duplication in the database, updated: '2015-12-15',
     url: 'https://github.com/swcarpentry/amy/issues/624'}
-  - {number: 623, title: Bulk upload must display/allow editing of user ID, updated: '2015-12-15',
-    url: 'https://github.com/swcarpentry/amy/issues/623'}
   - {number: 578, title: Integration with SurveyMonkey, updated: '2015-12-15', url: 'https://github.com/swcarpentry/amy/issues/578'}
   - {number: 626, title: 'Database: clear migrations, move data migrations → fixtures',
     updated: '2015-12-16', url: 'https://github.com/swcarpentry/amy/issues/626'}
   - {number: 628, title: 'Feeding back contact address from AMY to Eventbrite?', updated: '2015-12-17',
     url: 'https://github.com/swcarpentry/amy/issues/628'}
-  - {number: 629, title: Cut scripts and commands, updated: '2015-12-20', url: 'https://github.com/swcarpentry/amy/pull/629'}
   - {number: 627, title: Fake database instead of anonymized production database,
     updated: '2015-12-20', url: 'https://github.com/swcarpentry/amy/pull/627'}
+  - {number: 623, title: Bulk upload must display/allow editing of user ID, updated: '2015-12-20',
+    url: 'https://github.com/swcarpentry/amy/issues/623'}
   - {number: 605, title: Review scripts and commands, updated: '2015-12-20', url: 'https://github.com/swcarpentry/amy/issues/605'}
+  - {number: 632, title: Repair slow tests, updated: '2015-12-21', url: 'https://github.com/swcarpentry/amy/issues/632'}
+  - {number: 631, title: 'New report: All activity over time', updated: '2015-12-21',
+    url: 'https://github.com/swcarpentry/amy/issues/631'}
+  - {number: 633, title: Integrating Invoice Request form into AMY, updated: '2015-12-22',
+    url: 'https://github.com/swcarpentry/amy/issues/633'}
+  - {number: 630, title: 'Bulk upload: suggest names, generate usernames', updated: '2015-12-22',
+    url: 'https://github.com/swcarpentry/amy/pull/630'}
+  - {number: 629, title: Cut scripts and commands, updated: '2015-12-22', url: 'https://github.com/swcarpentry/amy/pull/629'}
   url: https://github.com/swcarpentry/amy
 - description: Software Carpentry website
   ident: swcarpentry/website
@@ -433,5 +440,10 @@ records:
     url: 'https://github.com/swcarpentry/website/issues/18'}
   - {number: 90, title: Use underscores in person IDs instead of periods, updated: '2015-12-06',
     url: 'https://github.com/swcarpentry/website/issues/90'}
+  - {number: 93, title: Mobile layout is broken (on some pages), updated: '2015-12-21',
+    url: 'https://github.com/swcarpentry/website/issues/93'}
+  - {number: 92, title: Width of previous lessons, updated: '2015-12-21', url: 'https://github.com/swcarpentry/website/issues/92'}
+  - {number: 91, title: Navigation bar and open in a new tab, updated: '2015-12-21',
+    url: 'https://github.com/swcarpentry/website/issues/91'}
   url: https://github.com/swcarpentry/website
-timestamp: '2015-12-20T14:09:50Z'
+timestamp: '2015-12-24T10:25:05Z'

@@ -28,12 +28,16 @@ def get_connection(token_file):
     '''Get a connection to GitHub if the library and token file are available.'''
     try:
         from github import Github
+    except:
+        print('Unable to import github library', file=sys.stderr)
+        sys.exit(1)
+    try:
         with open(token_file, 'r') as reader:
             token = reader.read().strip()
-        cnx = Github(token)
     except:
-        cnx = None
-    return cnx
+        print('Unable to open token file "{0}"'.format(token_file), file=sys.stderr)
+        sys.exit(1)
+    return Github(token)
 
 def process(cnx):
     '''Gather information.'''

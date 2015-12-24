@@ -1785,7 +1785,7 @@ flags:
     se, sg, th, us, ve, za]
   workshops: [au, be, br, ca, ch, cn, cy, de, dk, es, fi, fr, gb, gh, id, in, it,
     jo, ke, kr, lb, nl, 'no', nz, pl, sa, se, th, us, ve, w3, za]
-timestamp: 20151220T140941Z
+timestamp: 20151224T101845Z
 workshops:
 - &id002
   - {address: 'Piscataway, New Jersey', contact: janet.alder@rutgers.edu, country: us,
@@ -4314,7 +4314,7 @@ workshops:
       / University of Leeds}
   - {address: 'Room 420, <a href="http://www.uq.edu.au/maps/">General Purpose South</a>
       (Bldg 78), The University of Queensland', contact: training-help@software-carpentry.org,
-    country: AU, end: 2016-10-19, eventbrite_id: NA, humandate: 'Jan 18-Oct 19, 2016',
+    country: AU, end: 2016-01-19, eventbrite_id: '', humandate: 'Jan 18-19, 2016',
     latitude: -27.493579, longitude: 153.016776, slug: 2016-01-18-brisbane-instructor-training,
     start: 2016-01-18, url: 'https://swcarpentry.github.io/2016-01-18-brisbane-instructor-training/',
     venue: The University of Queensland}
@@ -4354,6 +4354,11 @@ workshops:
     latitude: 53.642603, longitude: -1.778514, slug: 2016-01-11-huddersfield, start: 2016-01-11,
     url: 'https://callaghanmt.github.io/2016-01-11-huddersfield/', venue: The University
       of Huddersfield}
+  - {address: '1050 Massachusetts Ave., Cambridge, MA (2nd floor Conference Room)',
+    contact: jroth@nber.org, country: US, end: 2016-01-12, eventbrite_id: '', humandate: 'Jan
+      11-12, 2016', latitude: 42.36997, longitude: -71.113038, slug: 2016-01-11-nber,
+    start: 2016-01-11, url: 'https://iglpdc.github.io/2016-01-11-nber/', venue: National
+      Bureau of Economic Research}
   - {address: '117 - Physics and Astronomy Building, 1151 Richmond Street, London
       ON  N6A 3K7, Canada', contact: tyson@sharcnet.ca, country: CA, end: 2016-01-10,
     eventbrite_id: '', humandate: 'Jan 09-10, 2016', latitude: 43.00979, longitude: -81.272822,
