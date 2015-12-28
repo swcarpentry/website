@@ -1,0 +1,14 @@
+---
+layout: null
+permalink: /.htaccess
+---
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+AddDefaultCharset UTF-8
+
+# Route old http://software-carpentryorg/img/software-carpentry-banner.png to new banner image location
+RewriteCond %{REQUEST_URI} ^/img/software-carpentry-banner.png
+RewriteRule ^/img/software-carpentry-banner.png$ /assets/img/software-carpentry-banner.png [R,L]
+
+</IfModule>
