@@ -10,7 +10,7 @@
 		{% endif %}
 		{% if include.widget.video %}{{ include.widget.video }}{% endif %}
 	</a>
-	<h2 class="font-size-h3 t10">{{ include.widget.title }}</h2>
+	<h2 class="t10">{{ include.widget.title }}</h2>
 	<p>{{ include.widget.text }}</p>
 	<p><a class="button tiny radius" href="{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}">{{ site.data.language.more }}</a></p>
 </div>
