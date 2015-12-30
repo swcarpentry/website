@@ -9,10 +9,11 @@ Please submit additions and fixes as pull requests to [our GitHub repository](ht
     *   [Write a Blog Post](#blog)
     *   [Create a New Page](#page)
     *   [Add a Workshop](#workshop)
+*   [The Details](#details)
 
 ## Setup <a name="setup"></a>
 
-The website uses Jekyll, a static website generator written in Ruby.
+The website uses [Jekyll](http://jekyllrb.com/), a static website generator written in Ruby.
 You need to have Version 2.0.0 or higher of Ruby and the package manager Bundler.
 (The package manager is used to make sure you use exactly the same versions of software as GitHub Pages.)
 After checking out the repository, please run:
@@ -24,7 +25,7 @@ $ bundle install
 to install Jekyll and the software it depends on.
 You may consult [Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages/) for further instructions.
 
-You will also need Python 3.0 or higher in order to re-generate the [data files](#datafiles) the site depends on.
+You will also need [Python 3](http://python.org/) in order to re-generate the [data files](#details) the site depends on.
 
 ## Previewing <a name="previewing"></a>
 
@@ -35,17 +36,9 @@ Instead, you should use the following commands:
 *   `make serve`: build files locally and run a server at [http://0.0.0.0:4000/](http://0.0.0.0:4000/) for viewing.
     This is the best way to preview the site.
 *   `make site`: build files locally, but do not serve them dynamically.
-*   `make amy` and `make dashboard` to rebuild the data files `_data/amy.yml` and `_data/dashboard.yml`,
-    which contain information about upcoming workshops and the state of our GitHub repositories respectively.
-    You need special permission to run these:
-    we cache the output of these commands in the `_data` directory so that you can rebuild the site without running either.
-*   `make includes` to rebuild the data file `_data/includes.yml`.
-    This does not require special permissions,
-    but is only necessary if you have added more people to `_includes/people` or more projects to `_includes/projects`.
-    (We plan to move the content of these two directories to `_data` so that `make includes` will no longer be needed.)
-*   `make install` installs or updates Ruby gems (packages) to match those used by GitHub Pages.
 *   `make clean` removes the `_site` directory and any Emacs editor backup files littering the source directories.
 
+The [details](#details) describes a few more advanced commands as well.
 Please note that rebuilding this site can take 3-4 minutes on a moderately powerful laptop,
 and occasionally times out on GitHub.
 We're working on it...
@@ -98,3 +91,50 @@ You should fill in this form even for self-organized workshops in order to get y
 
 Do *not* edit the YAML in `_data/amy.yml`:
 this is overwritten every time the website is rebuilt on the server.
+
+## The Details <a name="details"></a>
+
+### Data Files
+
+This website depends on three data files,
+each of which is rebuilt by `make`:
+
+*   `make amy` regenerates `_data/amy.yml`,
+    which contains information about upcoming workshops, instructors' locations, and so on
+    that is fetched from [our online workshop management tool](https://github.com/swcarpentry/amy/).
+    You must be logged in to [AMY](http://amy.software-carpentry.org) in order to run this.
+
+*   `make dashboard` generates `_data/dashboard.yml`,
+    which contains information about the state of our GitHub repositories.
+    In order to run this,
+    you mu get a [GitHub API token](https://github.com/blog/1509-personal-api-tokens)
+    and store it in `$HOME/.git-token`.
+
+*   `make includes` to rebuild the data file `_data/includes.yml`.
+    This does not require special permissions,
+    but is only necessary if you have added more people to `_includes/people` or more projects to `_includes/projects`.
+    (We plan to move the content of these two directories to `_data` so that `make includes` will no longer be needed.)
+
+We cache the output of these commands in the `_data` directory
+so that people can rebuild the site without needing special permissions.
+
+### Styles
+
+The files in the `_sass` and `assets` directories control the appearance of this site.
+Their contents are pulled in manually from a stand-alone [https://github.com/swcarpentry/styles](styles) repository,
+which also controls the appearance of
+the [workshop template](https://github.com/swcarpentry/workshop-template)
+and [lesson template](https://github.com/swcarpentry/lesson-template).
+Please [contact us](mailto:admin@software-carpentry.org) before modifying any of these files
+so that we can figure out the best way to incorporate your improvements.
+
+### Rebuilding the Main Web Site
+
+A copy of the shell script `bin/rebuild-site.sh` is installed in the website's home directory on our server
+and re-run hourly by cron.
+If you are able to ssh to the server,
+it can be re-run manually as:
+
+~~~
+$ ssh software-carpentry.org ./rebuild-site.sh
+~~~
