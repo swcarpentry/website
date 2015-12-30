@@ -118,7 +118,7 @@ each of which is rebuilt by `make`:
 *   `make dashboard` generates `_data/dashboard.yml`,
     which contains information about the state of our GitHub repositories.
     In order to run this,
-    you mu get a [GitHub API token](https://github.com/blog/1509-personal-api-tokens)
+    you must get a [GitHub API token](https://github.com/blog/1509-personal-api-tokens)
     and store it in `$HOME/.git-token`.
 
 *   `make includes` to rebuild the data file `_data/includes.yml`.
