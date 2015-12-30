@@ -33,8 +33,8 @@ description: "Software Carpentry is volunteer non-profit organization dedicated 
 # See > authors.yml
 author: gvwilson
 
-# This URL identifies the domain.
-url: 'http://software-carpentry.org'
+# This URL identifies the domain.  It uses a protocol-independent path so that things will load with both HTTP and HTTPS.
+url: '//software-carpentry.org'
 
 # This URL is the root of the site below the domain.
 baseurl: ''
