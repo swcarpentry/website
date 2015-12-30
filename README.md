@@ -11,6 +11,17 @@ Please submit additions and fixes as pull requests to [our GitHub repository](ht
     *   [Add a Workshop](#workshop)
 *   [The Details](#details)
 
+Lessons are not stored in this repository:
+please see [the lessons page](http://software-carpentry.org/lessons/)
+for links to their repositories.
+
+> Software Carpentry is an open project,
+> and we welcome contributions of all kinds.
+> By contributing,
+> you are agreeing that Software Carpentry may redistribute your work
+> under [these licenses](http://software-carpentry.org/license/),
+> and to abide by [our code of conduct](http://software-carpentry.org/conduct/).
+
 ## Setup <a name="setup"></a>
 
 The website uses [Jekyll](http://jekyllrb.com/), a static website generator written in Ruby.
