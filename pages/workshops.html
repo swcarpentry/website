@@ -40,21 +40,21 @@ redirect_from:
 
 <div class="row">
   <div class="medium-4 columns">
-    <a href="{{site.baseurl}}/workshops/"><img src="{{site.filesurl}}/workshops/2012-12-uta.png" alt="University of Texas 2012" /></a>
+    <a href="{{site.baseurl}}/workshops/"><img src="{{site.baseurl}}/files/workshops/2012-12-uta.png" alt="University of Texas 2012" /></a>
     <a href="{{site.baseurl}}/faq/"><h4>Want to Know More?</h4></a>
     <p>
       See our <a href="{{site.baseurl}}/faq/">FAQ</a>.
     </p>
   </div>
   <div class="medium-4 columns">
-    <a href="{{site.baseurl}}/lessons/"><img src="{{site.filesurl}}/workshops/dc-2014.jpg" alt="Data Carpentry 2014" /></a>
+    <a href="{{site.baseurl}}/lessons/"><img src="{{site.baseurl}}/files/workshops/dc-2014.jpg" alt="Data Carpentry 2014" /></a>
     <a href="{{site.baseurl}}/workshops/operations/"><h4>Want to Run a Workshop?</h4></a>
     <p>
       See our <a href="{{site.baseurl}}/workshops/operations/">operations guide</a>.
     </p>
   </div>
   <div class="medium-4 columns">
-    <a href="{{site.baseurl}}/join/"><img src="{{site.filesurl}}/workshops/scripps-2012-11.png" alt="Scripps 2012" /></a>
+    <a href="{{site.baseurl}}/join/"><img src="{{site.baseurl}}/files/workshops/scripps-2012-11.png" alt="Scripps 2012" /></a>
     <a href="{{site.baseurl}}/workshops/request/"><h4>Want to Host a Workshop?</h4></a>
     <p>
       Please <a href="{{site.baseurl}}/workshops/request/">fill in this form</a>.
@@ -69,7 +69,7 @@ redirect_from:
   <table class="table table-striped workshops">
     {% for w in site.data.amy.workshops_current reversed %}
     <tr>
-      <td><img src="{{site.filesurl}}/flags/{{site.flag_size}}/{{w.country | downcase}}.png" title="{{w.country | replace: '-', ' ' | downcase}}" alt="{{w.country | replace: '-', ' ' | downcase}}" /></td>
+      <td><img src="{{site.baseurl}}/files/flags/{{site.flag_size}}/{{w.country | downcase}}.png" title="{{w.country | replace: '-', ' ' | downcase}}" alt="{{w.country | replace: '-', ' ' | downcase}}" /></td>
       <td class="link"><a href="{{w.url}}">{{w.venue}}</a></td>
       <td class="date">{{w.humandate}}</td>
     </tr>

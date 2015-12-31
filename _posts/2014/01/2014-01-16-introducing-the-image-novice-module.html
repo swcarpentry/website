@@ -18,7 +18,7 @@ picture = novice.open("sample.png")
 picture
 </pre>
 <p>
-  <img src="{{site.filesurl}}/2014/01/novice-sample.png" />
+  <img src="{{site.baseurl}}/files/2014/01/novice-sample.png" />
 </p>
 
 <p>A picture knows its image format, where it came from, and its size.</p>
@@ -39,7 +39,7 @@ Width: 665</em>
 picture
 </pre>
 <p>
-  <img src="{{site.filesurl}}/2014/01/novice-sample-small.png" />
+  <img src="{{site.baseurl}}/files/2014/01/novice-sample-small.png" />
 </p>
 
 <p>A <code>Picture</code> is a collection of <code>Pixel</code> instances. We can iterate over the pixels and modify their color components individually. Below, we halve the red value of all pixels that are more than 50% red.</p>
@@ -50,7 +50,7 @@ picture
 picture
 </pre>
 <p>
-  <img src="{{site.filesurl}}/2014/01/novice-sample-small-bluegreen.png" />
+  <img src="{{site.baseurl}}/files/2014/01/novice-sample-small-bluegreen.png" />
 </p>
 
 <p>A picture knows that it's been modified, which also resets its path to <code>None</code>.</p>
@@ -65,7 +65,7 @@ Path: None</em>
 picture
 </pre>
 <p>
-  <img src="{{site.filesurl}}/2014/01/novice-sample-small-bluegreen-black.png" />
+  <img src="{{site.baseurl}}/files/2014/01/novice-sample-small-bluegreen-black.png" />
 </p>
 
 <p>A <code>Picture</code> can be saved with a different format, and its corresponding properties are updated accordingly.</p>
@@ -87,7 +87,7 @@ blocks
 </pre>
 
 <p>
-<img src="{{site.filesurl}}/2014/01/novice-blocks.png" />
+<img src="{{site.baseurl}}/files/2014/01/novice-blocks.png" />
 </p>
 
 <p>We can change how an image is <em>displayed</em> by increasing its <code>inflation</code> factor. An inflation factor of 10 means that a 10x10 square will be displayed for every real pixel in the image.</p>
@@ -95,7 +95,7 @@ blocks
 blocks
 </pre>
 <p>
-  <img src="{{site.filesurl}}/2014/01/novice-blocks-big.png" />
+  <img src="{{site.baseurl}}/files/2014/01/novice-blocks-big.png" />
 </p>
 
 <p>Note that this does not modify the underlying image. The block is still the same size underneath (10x10 pixels).</p>
@@ -108,7 +108,7 @@ blocks
 blocks
 </pre>
 <p>
-  <img src="{{site.filesurl}}/2014/01/novice-blocks-yellow.png" />
+  <img src="{{site.baseurl}}/files/2014/01/novice-blocks-yellow.png" />
 </p>
 
 <p>We can change the inflation factor at any time:</p>
@@ -116,7 +116,7 @@ blocks
 blocks
 </pre>
 <p>
-  <img src="{{site.filesurl}}/2014/01/novice-blocks-yellow-big.png" />
+  <img src="{{site.baseurl}}/files/2014/01/novice-blocks-yellow-big.png" />
 </p>
 
 <p>By using slices and the image's size, we can change the border to violet:</p>
@@ -127,7 +127,7 @@ blocks[blocks.width - 1, :]  = "violet"  # Right
 blocks
 </pre>
 <p>
-  <img src="{{site.filesurl}}/2014/01/novice-blocks-violet.png" />
+  <img src="{{site.baseurl}}/files/2014/01/novice-blocks-violet.png" />
 </p>
 
 <p>Finally, let's swap the left and right halves of the image.  First, we copy the left half. Next, we overwrite the left half with the right half. Without the <code>copy()</code>, this would cause the <code>temp</code> variable to change as well. Finally, we overwrite the right half with the copied left half.</p>
@@ -138,5 +138,5 @@ blocks[w:, :] = temp
 blocks
 </pre>
 <p>
-  <img src="{{site.filesurl}}/2014/01/novice-blocks-flipped.png" />
+  <img src="{{site.baseurl}}/files/2014/01/novice-blocks-flipped.png" />
 </p>

@@ -9,7 +9,6 @@ format: post
 				{% if page.image.title %}
 				<figure>
 					<img src="{{ site.filesurl }}{{ page.image.title }}" width="970" alt="{{ page.title escape_once }}" itemprop="image">
-
 					{% if page.image.caption_url && page.image.caption %}
 					<figcaption class="text-right">
 						<a href="{{ page.image.caption_url }}">{{ page.image.caption }}</a>
@@ -43,11 +42,11 @@ format: post
 			</span>
 
 			{% if page.show_meta == true %}
-			{% include meta_information %}
+			{% include meta_information.html %}
 			{% endif %}
 
 			{% if page.comments == true %}
-			{% include comments %}
+			{% include comments.html %}
 			{% endif %}
 		</article>
 	</div><!-- /.medium-8.columns -->
@@ -55,14 +54,14 @@ format: post
 
 	{% if page.sidebar == "left" %}
 	<div class="medium-4 columns medium-pull-8">
-		{% include sidebar %}
+		{% include sidebar.html %}
 	</div><!-- /.medium-4.columns -->
 	{% endif %}
 
 
 	{% if page.sidebar == "right" %}
 	<div class="medium-4 columns">
-		{% include sidebar %}
+		{% include sidebar.html %}
 	</div><!-- /.medium-4.columns -->
 	{% endif %}
 </div><!-- /.row -->

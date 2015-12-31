@@ -1,26 +1,15 @@
-PY=python3
+# Settings
+MAKEFILES=Makefile $(wildcard *.mk)
 
 all : commands
 
 ## commands   : show all commands.
 commands :
-	@grep -E '^##' Makefile | sed -e 's/## //g'
-
-## amy        : update workshop and other data from AMY.
-amy :
-	${PY} bin/get-amy.py https://amy.software-carpentry.org/api/v1/ _data/amy.yml
-
-## dashboard  : update data about status of projects - requires ~/.git-token.
-dashboard :
-	${PY} bin/get-dashboard.py ${HOME}/.git-token _data/dashboard.yml
-
-## includes   : update include file listing from disk.
-includes :
-	${PY} bin/get-includes.py _data/includes.yml
+	@grep -h -E '^##' ${MAKEFILES} | sed -e 's/## //g'
 
 ## serve      : run a local server.
-serve : 
-	bundle exec jekyll serve --config _config.yml,_config_dev.yml --verbose
+serve :
+	bundle exec jekyll serve --config _config.yml,_config_dev.yml
 
 ## site       : build files but do not run a server.
 site : 
@@ -30,11 +19,13 @@ site :
 install :
 	bundle install
 
-#-------------------------------------------------------------------------------
-
 ## clean      : clean up junk files.
 clean :
 	rm -rf _site
 	rm -rf .sass-cache
-	find . -name '*~' -exec rm {} \;
 	find . -name .DS_Store -exec rm {} \;
+	find . -name '*~' -exec rm {} \;
+	find . -name '*.pyc' -exec rm {} \;
+
+# Include extra commands if available.
+-include commands.mk

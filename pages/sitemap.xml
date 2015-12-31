@@ -7,7 +7,7 @@ layout: null
 {% comment %}
 	See http://www.sitemaps.org/protocol.html for argument meanings and values.
 	Gem jekyll-sitemap only lists urls with no control over priority and changefreq, hence using a custom one.
-	
+
 	Add your custom collections like this:
 		{% include sitemap_collection.xml links=site.projects name="Projects" priority=0.7 changefreq='monthly' %}
 {% endcomment %}

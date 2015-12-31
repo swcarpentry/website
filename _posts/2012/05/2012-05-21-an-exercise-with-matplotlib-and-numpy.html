@@ -163,7 +163,7 @@ if not os.path.exists('plots'):
 fig = temp_plot(dates, mean_temps)
 fig.savefig('plots/day_vs_temp.png')</pre>
 <p>Running <tt>$ python plot_data.py</tt> should create a "plots" folder and put a file inside called "day_vs_temp.png" that looks like this:</p>
-<p><img src="{{site.filesurl}}/2012/05/day_vs_temp-5.png" title="day_vs_temp" width="600" /></p>
+<p><img src="{{site.baseurl}}/files/2012/05/day_vs_temp-5.png" title="day_vs_temp" width="600" /></p>
 <p>Not bad! Let's add a trend line to the plot based on a simple linear model of the data.</p>
 <p><strong>3.1 Adding a trend line</strong></p>
 <p>By using <a href="http://docs.scipy.org/doc/numpy/reference/generated/numpy.polyfit.html">numpy's polyfit function</a>, adding a trend line is a snap. This function takes our x and y values (<tt>days</tt> and <tt>mean_temps</tt>), and gives us back a slope and intercept (the final parameter is the degree of the fitted polynomial &mdash; we pass 1 for a linear fit).</p>
@@ -194,7 +194,7 @@ fig.savefig('plots/day_vs_temp.png')</pre>
 <p>To make the plot a little more useful, I've annotated the plot with the R-squared value of the fit. <a href="http://matplotlib.sourceforge.net/api/pyplot_api.html#matplotlib.pyplot.annotate">pyplot.annotate</a> lets you put text on the figure in a variety of ways. Here, I've set the <tt>xycoords</tt> parameter to "axes fraction" so that <tt>annotate</tt> interprets my coordinates (0.05, 0.9) as fractions between 0 and 1 relative to the figure axes. The (0.05, 0.9) means to place the text horizontally 5% from the y-axis (left) and 90% from the x-axis (bottom).</p>
 <p>The final call to <a href="http://matplotlib.sourceforge.net/api/pyplot_api.html#matplotlib.pyplot.legend">pyplot.legend</a> places a legend on the figure. You <em>must</em> include a <tt>label</tt> parameter on at least one plot object for this to work (I've included it on the trend line <tt>plot</tt> call). By default, the legend will show up in the upper-right corner of the figure. This will get in the way on our current plot, so I moved the figure to the lower-right with the <tt>loc</tt> parameter.</p>
 <p>With the changes above, here's the new plot:</p>
-<p><img src="{{site.filesurl}}/2012/05/day_vs_temp-6.png" /></p>
+<p><img src="{{site.baseurl}}/files/2012/05/day_vs_temp-6.png" /></p>
 <p>Notice that the string formatting (<tt>{0:.3f}</tt>) has rounded the R-squared value and slope label for us to three decimal places.</p>
 <p><strong>3.2 Adding "error" bars</strong></p>
 <p>Since we also have the min and max temperatures in our data, let's add "error" bars to our plot to show the temperature range on each day. We'll modify <tt>temp_plot</tt> to take in two additional parameters (<tt>min_temps</tt> and <tt>max_temps</tt>), and plot the temperature range if they both have values (i.e., are not <tt>None</tt>).</p>
@@ -252,12 +252,12 @@ fig.savefig('plots/day_vs_temp.png')
 fig = temp_plot(dates, mean_temps, min_temps, max_temps)
 fig.savefig('plots/day_vs_temp-all.png')</pre>
 <p>The new plot is saved to a file named <tt>day_vs_temp-all.png</tt> and looks like this:</p>
-<p><img src="{{site.filesurl}}/2012/05/day_vs_temp-all.png" /></p>
+<p><img src="{{site.baseurl}}/files/2012/05/day_vs_temp-all.png" /></p>
 <p>If you need to compute standard error for your <tt>errorbar</tt> plot, you can use <a href="http://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.sem.html#scipy.stats.sem">scipy.stats.sem</a> from the <a href="http://www.scipy.org/">scipy module</a>.</p>
 <p>For our next plot, we'll do a multi-part histogram of the weather events for each month.</p>
 <p><strong>4. Event Histogram</strong></p>
 <p>Histograms in <tt>matplotlib</tt> are generated using the <a href="http://matplotlib.sourceforge.net/api/pyplot_api.html#matplotlib.pyplot.hist">pyplot.hist</a> function. This function takes an array of data, which can itself contain arrays (for a multi-part histogram). We want to count events per month, so we'll need to create an array for each type of event. Inside these arrays will be observations like <tt>[1, 1, 2, 3, 3]</tt> for "January", "January", "February", "March", "March". Here's a diagram to help out:</p>
-<p><img src="{{site.filesurl}}/2012/05/events.png" /></p>
+<p><img src="{{site.baseurl}}/files/2012/05/events.png" /></p>
 <p>When <tt>pyplot.hist</tt> receives our data, it will attempt to "bin" the month observations automatically. By default, it will break observations into 10 bins. We want a bin for each month instead, and we want the bins aligned properly to the month numbers (1 = January, 2 = February, etc.). The <tt>bins</tt> parameter to <tt>pyplot.hist</tt> takes either a number (representing the desired number of bins) or a sequence (representing the desired bin <em>edges</em>). In the code below, we pass <tt>range(1, 5 + 2)</tt> to ensure that our bins start at 1 (for January) and go <em>through</em> 5 (for May).</p>
 <pre>def hist_events(dates, events):
     event_months = []
@@ -310,7 +310,7 @@ fig.savefig('plots/day_vs_temp-all.png')
 fig = hist_events(dates, events)
 fig.savefig(os.path.join('plots', 'event_histogram.png'))</pre>
 <p>When we run <tt>$ python plot_data.py</tt>, the new plot looks like this:</p>
-<p><img src="{{site.filesurl}}/2012/05/event_histogram-8.png" /></p>
+<p><img src="{{site.baseurl}}/files/2012/05/event_histogram-8.png" /></p>
 <p>Each collection of bars represents a month, and the individual bars represent the number of Rain, Thunderstorm, etc. events observed for that month. The figure's legend was populated by passing <tt>event_types</tt> in for the <tt>label</tt> parameter of <tt>pyplot.hist</tt>.</p>
 <p>The plot looks good, but it would be nice to properly label the months. We could do this manually with <a href="http://matplotlib.sourceforge.net/api/pyplot_api.html#matplotlib.pyplot.xticks">pyplot.xticks</a> as follows:</p>
 <pre>pyplot.xticks( (1.5, 2.5, 3.5, 4.5, 5.5), ('January', 'February', 'March', 'April', 'May') )</pre>
@@ -364,5 +364,5 @@ fig.savefig(os.path.join('plots', 'event_histogram.png'))</pre>
 <p>Note that the <tt>bins</tt> variables was created using <a href="http://docs.scipy.org/doc/numpy/reference/generated/numpy.arange.html">numpy.arange</a>, which is a shortcut for <tt>bins = numpy.array(range(1, num_months + 2))</tt>. Making <tt>bins</tt> a <tt>numpy</tt> array lets us call <tt>pyplot.xticks</tt> with <tt>bins + 0.5</tt>, centering <tt>month_names</tt> on each bin.</p>
 <p>As a bonus, I've also added a horizontal grid using the <a href="http://matplotlib.sourceforge.net/api/axis_api.html#matplotlib.axis.Axis.grid">axis.grid</a> function. You can add both a horizontal and vertical grid at the same time by calling <a href="http://matplotlib.sourceforge.net/api/pyplot_api.html#matplotlib.pyplot.grid">pyplot.grid</a>.</p>
 <p>Here's the updated plot:</p>
-<p><img src="{{site.filesurl}}/2012/05/event_histogram.png" /></p>
+<p><img src="{{site.baseurl}}/files/2012/05/event_histogram.png" /></p>
 <p>Looks ready for publication!</p>

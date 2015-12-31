@@ -1,11 +1,20 @@
-#
 # This config-file is only needed for development. Instead of changing the url
 # everytime you work locally on the project, you start both config-files, overwriting
 # the first one with the development variables needed.
 #
-# Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
+# Start development with › $ bundle exec jekyll serve --config _config.yml,_config_dev.yml
 
-url: 'http://localhost:4000'
+# Your web site url. eg: http://mysite.com
+# Used to generate absolute links in feeds
+# do not use for internal links (see baseurl comments)
+# NO trailing slash
+url: "http://0.0.0.0:4000"
+
+# Your web site relative path from domain. eg: /folder
+# Used to generate links. eg: <a href="{{ site.baseurl }}/blog/">Blog</a>
+# or for resources <script src="{{ site.baseurl }}/js/js.js"></script>
+# NO trailing slash
+baseurl: ""
 
 sass:
   # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
@@ -18,3 +27,36 @@ sass:
 
 # Disable when not in production
 google_analytics_tracking_id:
+
+#############################################
+# Assets configuration
+#############################################
+
+exclude:
+    - .sass-cache
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - INSTALL.md
+    - Makefile
+    - _posts/2015/09
+    - _posts/2015/08
+    - _posts/2015/07
+    - _posts/2015/06
+    - _posts/2015/05
+    - _posts/2015/04
+    - _posts/2015/03
+    - _posts/2015/02
+    - _posts/2015/01
+    - _posts/2014
+    - _posts/2013
+    - _posts/2012
+    - _posts/2011
+    - _posts/2010
+    - _posts/2009
+    - _posts/2008
+    - _posts/2007
+    - _posts/2006
+    - _posts/2005
+    - _posts/2004
