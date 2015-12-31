@@ -4344,6 +4344,10 @@ workshops:
       2016', latitude: 46.5213679, longitude: 6.5720468, slug: 2016-01-13-instructor-training-lausanne,
     start: 2016-01-13, url: 'https://swcarpentry.github.io/2016-01-13-instructor-training-lausanne/',
     venue: The University of Lausanne}
+  - {address: 'Lecture Theatre 10, Hicks Building, Housfield Rd, S3 7RH, Yorkshire', contact: s.m.bennett@sheffield.ac.uk,
+    country: GB, end: 2016-01-15, eventbrite_id: '', humandate: 'Jan 11-15, 2016',
+    latitude: 53.3811934, longitude: -1.4877938, slug: 2016-01-11-Sheffield, start: 2016-01-11,
+    url: 'https://openastronomy.org/2016-01-11-Sheffield/', venue: University of Sheffield}
   - {address: 'Room 1G04, Dalhousie Building, University of Dundee, Dundee, Scotland,
       UK, DD1 4HN', contact: C.Cole@dundee.ac.uk, country: GB, end: 2016-01-12, eventbrite_id: '19931324127',
     humandate: 'Jan 11-12, 2016', latitude: 56.459249, longitude: -2.981933, slug: 2016-01-11-dundee,
