@@ -65,8 +65,8 @@ def fetch_info(base_url, url, tags=None):
 
     # Consider filtering by tags.
     if tags:
-        query_params = [urllib.parse.urlencode({'tag': tag}) for tag in tags]
-        query = '&'.join(query_params)
+        query_params = [('tag', tag) for tag in tags]
+        query = urllib.parse.urlencode(query_params)
         address = '{address}?{query}'.format(address=address, query=query)
 
     which_python = sys.version_info[:3]
