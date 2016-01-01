@@ -50,11 +50,11 @@ def main(amy_url, output_file, tags):
     }
 
     # Save.
-    try:
+    if isinstance(output_file, str):
         with open(output_file, 'w') as writer:
             yaml.dump(config, writer, encoding='utf-8', allow_unicode=True)
-    except TypeError:
-        # Output_file isn't a string, so it's a file.
+    else:
+        # We assume `output_file` is a file-like object.
         yaml.dump(config, output_file, encoding='utf-8', allow_unicode=True)
 
 
