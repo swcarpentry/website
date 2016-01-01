@@ -11,6 +11,21 @@ import urllib.request
 import urllib.parse
 import yaml
 
+
+def handle_args():
+    parser = argparse.ArgumentParser(description=sys.modules[__name__].__doc__)
+    parser.add_argument('-u', '--api-url', type=str, required=True,
+                        help='Base URL of AMY API used for gathering information.')
+    parser.add_argument('-o', '--output', default=sys.stdout,
+                        help='Output file.  By default: stdout.')
+    parser.add_argument('-t', '--tag', action='append', choices=['SWC', 'DC'],
+                        help='Filter events by this tag.  '
+                             'You can use it multiple times.')
+
+    args = vars(parser.parse_args())
+    return args
+
+
 def main(amy_url, output_file, tags):
     '''
     Fetch information and store in one YAML file.
@@ -89,17 +104,6 @@ def sort_flags(data):
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description=sys.modules[__name__].__doc__)
-    parser.add_argument('-u', '--api-url', type=str, required=True,
-                        help='Base URL of AMY API used for gathering information.')
-    parser.add_argument('-o', '--output', default=sys.stdout,
-                        help='Output file.  By default: stdout.')
-    parser.add_argument('-t', '--tag', action='append', choices=['SWC', 'DC'],
-                        help='Filter events by this tag.  '
-                             'You can use it multiple times.')
+    args = handle_args()
+    main(amy_url=args['api_url'], output_file=args['output'], tags=args['tag'])
 
-    args = vars(parser.parse_args())
-    amy_url = args['api_url']
-    output_file = args['output']
-    tags = args['tag']
-    main(amy_url, output_file, tags)
