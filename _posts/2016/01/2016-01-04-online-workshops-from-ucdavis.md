@@ -14,22 +14,18 @@ with about half of them broadcast this way.
 The tentative schedule is below;
 all workshops will run 9:15am-12:15pm, Pacific Time.
 If you would like to present something yourself in one of the open slots,
-please [get in touch](http://ivory.idyll.org/) ---
+please [file an issue](https://github.com/dib-lab/dib-training/issues)
+or leave a comment on [this post](http://ivory.idyll.org/blog/2015-training-for-q12-2016.html) ---
 we think this could be a really good way to field-test new material
 that Data Carpentry and Software Carpentry instructors could use for more advanced audiences.
 
-*   2016-01-13: Titus Brown, Advanced Beginner Shell - local only
 *   2016-01-20: Camille Scott, pydoit - local+remote
 *   2016-01-27: Raniere Silva, advanced git - local+remote
-*   2016-02-05: Titus Brown, Introductory git - local only
 *   2016-02-17: Tiffany Timbers, regular expressions and Python - local+remote
 *   2016-02-19: Ariel Rokem, scipy.optimize - local+remote
 *   2016-02-29: Adelaide Rhodes, sphinx + webhooks + bitbucket - local+remote
 *   2016-03-07: Titus Brown, Amazon Web Services - local+remote
-*   2016-03-09: Titus Brown, Jupyter Notebook - local only
 *   2016-03-28: Titus Brown, Short-read trimming and quality eval - local+remote
-*   2016-03-30: Titus Brown, De novo mRNAseq assembly - local only
-*   2016-04-04: Titus Brown, Advanced Beginner Python - local only
 *   2016-04-06: Daniel Chen, intro git (SWC lesson on git) - local+remote
 *   2016-04-08: Daniel Chen, advanced git (branching and merging, etc.) - local+remote
 *   2016-04-11: open
