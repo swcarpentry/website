@@ -12,6 +12,7 @@ import getpass
 from datetime import datetime
 
 import git
+import commits
 
 TODAY = datetime.today()
 
@@ -34,7 +35,7 @@ category: ["Community"]
         "{:%H:%M:%S}".format(TODAY)
         )
 
-def main():
+def main(token_file):
     """
     Create the blog post.
     """
@@ -43,9 +44,8 @@ def main():
         os.makedirs(FILEPATH)
     with open(FULLFILENAME, "w") as post:
         post.write(HEADER)
-        post.write(git.generate_text())
+        post.write(commits.generate_text(token_file))
     print("Skeleton created at {}.".format(FULLFILENAME))
 
 if __name__ == "__main__":
-    git.set_connection(sys.argv[1])
-    main()
+    main(sys.argv[1])
