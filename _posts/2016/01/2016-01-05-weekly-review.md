@@ -50,10 +50,10 @@ category: ["Community"]
     [UW-Madison](https://uw-madison-aci.github.io/2016-01-14-uwmadison/),
     [Berkeley Institute for Data Science](https://bids.github.io/2016-01-14-berkeley/),
     [University of British Columbia](https://computecanada.github.io/2016-01-16-ubc/)
-    [The University of Queensland](ttps://swcarpentry.github.io/2016-01-18-brisbane-instructor-training/)
+    [The University of Queensland](https://swcarpentry.github.io/2016-01-18-brisbane-instructor-training/)
     [NERC / University of Leeds](https://andreww.github.io/2016-01-18-leeds/)
     [Wang Center - Lecture Hall 2](http://www.datacarpentry.org/2016-01-19-sbu/)
-    [USDA-ARS](ttps://zhuoaprilfu.github.io/2016-01-19-USDA-ARS/)
+    [USDA-ARS](https://zhuoaprilfu.github.io/2016-01-19-USDA-ARS/)
     [Centers for Disease Control](https://emilydolson.github.io/2016-01-19-CDC/)
     [University of Illinois](https://uiuc-cse.github.io/2016-01-28-NCSA/)
     [University of Auckland](https://swcarpentry.github.io/2016-01-28-auckland-instructor-training/)
