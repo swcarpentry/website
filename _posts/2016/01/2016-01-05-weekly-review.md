@@ -32,7 +32,7 @@ category: ["Community"]
 * The University of Washington have been running an [undergraduate programming course]({{site.baseurl}}/blog/2016/01/uw-data-programming-course.html)
   focussed on real-world data analysis since 2012. 
   There's a lot to learn from their experience.
-* Can (comparing our lessons with peer-reviewed lab protocols)[{{site.baseurl}}/blog/2016/01/lessons-as-lab-protocols.html] help to improve usability?
+* Can [comparing our lessons with peer-reviewed lab protocols]({{site.baseurl}}/blog/2016/01/lessons-as-lab-protocols.html) help to improve usability?
 * Do you want to help find a good word to describe the "[practice of hardening software]({{site.baseurl}}/blog/2015/12/new-words-needed.html)"? 
   See some suggestions or give your own as comment to the blog post. 
 * Upcoming Workhshops
