@@ -15,7 +15,7 @@ category: ["Community"]
   Updated procedures for blog contribution and creation of workshop sites are available at <https://github.com/swcarpentry/website>. 
 
 ####Upcoming events
-* The mentoring subcommittee is already hard at work with their [first meeting and debriefing sessions]({{site.baseu$
+* The mentoring subcommittee is already hard at work with their [first meeting and debriefing sessions]({{site.baseurl}}/blog/2016/01/welcome.html). Please join them if you've recently taught or would like to learn more about their plans for the year.
 * 12 January: First lab meeting for 2016
 
 ####Instructor Training
