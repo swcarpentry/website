@@ -37,28 +37,28 @@ category: ["Community"]
   See some suggestions or give your own as comment to the blog post. 
 * Upcoming Workhshops
   * January:
-    (University of Nebraska - Lincoln)[https://swc-osg-workshop.github.io/2016-01-06-UNL/],
-    (NERC / University of Bristol)[https://andreww.github.io/2016-01-06-bristol/],
-    (University of Washington - Seattle)[https://uwescience.github.io/2016-01-07-uw/],
-    (Department of Physics, Arizona State University)[https://dotsdl.github.io/2016-01-07_asu_physics/],
-    (Western University)[https://computecanada.github.io/2016-01-09-uwo/],
-    (National Bureau of Economic Research)[https://iglpdc.github.io/2016-01-11-nber/],
-    (The University of Huddersfield)[https://callaghanmt.github.io/2016-01-11-huddersfield/],
-    (University of Dundee)[https://widdowquinn.github.io/2016-01-11-dundee/],
-    (The University of Lausanne)[https://swcarpentry.github.io/2016-01-13-instructor-training-lausanne/],
-    (Boston College Libraries, National Networks of Libraries of Medicine, New England Region)[https://iglpdc.github.io/2016-01-13-bc/],
-    (UW-Madison)[https://uw-madison-aci.github.io/2016-01-14-uwmadison/],
-    (Berkeley Institute for Data Science)[https://bids.github.io/2016-01-14-berkeley/],
-    (University of British Columbia)[https://computecanada.github.io/2016-01-16-ubc/],
-    (The University of Queensland)[https://swcarpentry.github.io/2016-01-18-brisbane-instructor-training/],
-    (NERC / University of Leeds)[https://andreww.github.io/2016-01-18-leeds/],
-    (Wang Center - Lecture Hall 2)[http://www.datacarpentry.org/2016-01-19-sbu/],
-    (USDA-ARS)[https://zhuoaprilfu.github.io/2016-01-19-USDA-ARS/],
-    (Centers for Disease Control)[https://emilydolson.github.io/2016-01-19-CDC/],
-    (University of Illinois)[https://uiuc-cse.github.io/2016-01-28-NCSA/],
-    (University of Auckland)[https://swcarpentry.github.io/2016-01-28-auckland-instructor-training/]
+    [University of Nebraska - Lincoln](https://swc-osg-workshop.github.io/2016-01-06-UNL/),
+    [NERC / University of Bristol](https://andreww.github.io/2016-01-06-bristol/),
+    [University of Washington - Seattle](https://uwescience.github.io/2016-01-07-uw/),
+    [Department of Physics, Arizona State University](https://dotsdl.github.io/2016-01-07_asu_physics/),
+    [Western University](https://computecanada.github.io/2016-01-09-uwo/),
+    [National Bureau of Economic Research](https://iglpdc.github.io/2016-01-11-nber/),
+    [The University of Huddersfield](https://callaghanmt.github.io/2016-01-11-huddersfield/),
+    [University of Dundee](https://widdowquinn.github.io/2016-01-11-dundee/),
+    [The University of Lausanne](https://swcarpentry.github.io/2016-01-13-instructor-training-lausanne/),
+    [Boston College Libraries, National Networks of Libraries of Medicine, New England Region](https://iglpdc.github.io/2016-01-13-bc/),
+    [UW-Madison](https://uw-madison-aci.github.io/2016-01-14-uwmadison/),
+    [Berkeley Institute for Data Science](https://bids.github.io/2016-01-14-berkeley/),
+    [University of British Columbia](https://computecanada.github.io/2016-01-16-ubc/)
+    [The University of Queensland](ttps://swcarpentry.github.io/2016-01-18-brisbane-instructor-training/)
+    [NERC / University of Leeds](https://andreww.github.io/2016-01-18-leeds/)
+    [Wang Center - Lecture Hall 2](http://www.datacarpentry.org/2016-01-19-sbu/)
+    [USDA-ARS](ttps://zhuoaprilfu.github.io/2016-01-19-USDA-ARS/)
+    [Centers for Disease Control](https://emilydolson.github.io/2016-01-19-CDC/)
+    [University of Illinois](https://uiuc-cse.github.io/2016-01-28-NCSA/)
+    [University of Auckland](https://swcarpentry.github.io/2016-01-28-auckland-instructor-training/)
   * February:
-    (USGS Flagstaff Science Campus)[https://mperignon.github.io/2016-02-04-flagstaff/],
-    (University of Illinois)[https://uiuc-cse.github.io/2016-02-08-NCSA/],
-    (University of British Columbia Okanagan)[https://computecanada.github.io/2016-02-22-ubco/],
-    (University of Illinois)[https://uiuc-cse.github.io/2016-02-25-NCSA/]
+    [USGS Flagstaff Science Campus](https://mperignon.github.io/2016-02-04-flagstaff/)
+    [University of Illinois](https://uiuc-cse.github.io/2016-02-08-NCSA/)
+    [University of British Columbia Okanagan](https://computecanada.github.io/2016-02-22-ubco/),
+    [University of Illinois](https://uiuc-cse.github.io/2016-02-25-NCSA/)
