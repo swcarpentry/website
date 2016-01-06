@@ -14,7 +14,7 @@ In all, six new instructors were trained, approximately 28 helpers recruited, an
 
 Our participants represented undergraduates, postgraduates, postdoctoral research fellows, early career researchers, established researchers and even National Research Foundation rated researchers. Participants also included professional staff in the academic IT departments and libraries and even folks from industry.  
 
-![South African organisations represented by SWC participants in 2014/2015]({{site.filesurl}}/south-africa-participants.png "South African organisations represented by SWC participants in 2014/2015")
+![South African organisations represented by SWC participants in 2014/2015]({{site.filesurl}}/2016/01/south-africa-participants.png "South African organisations represented by SWC participants in 2014/2015")
 
 #### What have we learnt?
 
@@ -59,7 +59,7 @@ The workshops would not have been possible without the enthusiastic participatio
 
 Lastly, thanks to our instructors who have time and again volunteered to teach another workshop and who’ve contributed to the growth in so many ways!  
 
-![Highlights from SWC workshops in South Africa]({{site.filesurl}}/south-africa-swc-highlights.png "Highlights from SWC workshops in South Africa")
+![Highlights from SWC workshops in South Africa]({{site.filesurl}}/2016/01/south-africa-swc-highlights.png "Highlights from SWC workshops in South Africa")
 
 ###### South African Organisations Abbreviations:
 UCT: [University of Cape Town](http://www.uct.ac.za); SU: [Stellenbosch University](http://www.sun.ac.za); NWU: [North-West University](http://www.nwu.ac.za); SAEON: [South African Environmental Observation Network](http://www.saeon.ac.za/); UWC: [University of the Western Cape](http://www.uwc.ac.za); UFS: [University of the Free State](http://www.ufs.ac.za); CSIR: [Council for Scientific and Industrial Research](http://www.csir.co.za/); IL: [Ithemba Labs](http://tlabs.ac.za/); SKA: [Square Kilometre Array](http://www.ska.ac.za/); AIMS: [African Institute for Mathematical Sciences](https://www.aims.ac.za/); GSH: Grootte Schuur Hospital; SAWS: [South African Weather Services](https://www.environment.gov.za/statutorybodies/saws); UP: [University of Pretoria](http://www.up.ac.za); WCDA: [Western Cape Department of Agriculture](https://www.westerncape.gov.za/dept/agriculture); WITS: [University of the Witwatersrand](http://www.wits.ac.za).
