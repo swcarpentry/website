@@ -8,7 +8,7 @@ category: ["Community"]
 ---
 The [Data Science Journal](http://datascience.codata.org/) is,
 as its title suggests,
-a journal ddedicated to the advancement of data science.
+a journal dedicated to the advancement of data science.
 The first thing that's good about it is that you won't get random emails about it with poor grammar
 and wild claims about its impact factor
 that begin with DEAR ESTEEMED RESEARCHER....
