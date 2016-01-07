@@ -8,15 +8,19 @@ commands :
 
 ## amy        : update workshop and other data from AMY.
 amy :
-	${PY} bin/get-amy.py https://amy.software-carpentry.org/api/v1/ _data/amy.yml
+	${PY} bin/amy.py https://amy.software-carpentry.org/api/v1/ _data/amy.yml
 
 ## dashboard  : update data about status of projects - requires ~/.git-token.
 dashboard :
-	${PY} bin/get-dashboard.py ${HOME}/.git-token _data/dashboard.yml
+	${PY} bin/dashboard.py ${HOME}/.git-token _data/dashboard.yml
+
+## week  : create skeleton for post with week update - requires ~/.git-token.
+week :
+	${PY} bin/week.py ${HOME}/.git-token
 
 ## includes   : update include file listing from disk.
 includes :
-	${PY} bin/get-includes.py _data/includes.yml
+	${PY} bin/includes.py _data/includes.yml
 
 ## serve      : run a local server.
 serve : 
