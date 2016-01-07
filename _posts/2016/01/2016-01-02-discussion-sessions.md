@@ -22,4 +22,4 @@ The sessions will be one hour long, and we would prefer to run them in pairs
 in order to accommodate participants' time zones.
 
 If you want to help us with the sessions please fill
-[this form](https://docs.google.com/forms/d/1F2POnxM6HG-cvCnf2jmXS4w3dv2_fczMPUeaTwNuEeI/edit#).
+[this form](https://docs.google.com/forms/d/1F2POnxM6HG-cvCnf2jmXS4w3dv2_fczMPUeaTwNuEeI/viewform).
