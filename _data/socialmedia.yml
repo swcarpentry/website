@@ -1,7 +1,7 @@
 - name: GitHub
   url: http://github.com/swcarpentry
   class: icon-github
-  title: Source
+  title: "Source on GitHub"
 
 - name: Twitter
   url: http://twitter.com/swcarpentry
@@ -12,6 +12,11 @@
   url: https://www.youtube.com/user/softwarecarpentry
   class: icon-youtube
   title: "Software Carpentry Videos"
+
+- name: LinkedIn
+  url: https://www.linkedin.com/groups/8279689
+  class: icon-linkedin
+  title: "LinkedIn Instructors Group"
 
 #------------------------------------------------------------
 
