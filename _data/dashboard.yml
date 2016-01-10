@@ -1,4 +1,4 @@
-num_issues: 227
+num_issues: 258
 num_repos: 15
 records:
 - description: Unix Shell
@@ -8,8 +8,6 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/197'}
   - {number: 181, title: fig/find-file-tree.svg is out of date, updated: '2015-06-14',
     url: 'https://github.com/swcarpentry/shell-novice/issues/181'}
-  - {number: 180, title: Drop flags "-mindepth" and "-maxdepth" of "find", updated: '2015-06-14',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/180'}
   - {number: 179, title: Mention flag "-exec" of "find", updated: '2015-06-14', url: 'https://github.com/swcarpentry/shell-novice/issues/179'}
   - {number: 177, title: Add example of "grep -r", updated: '2015-06-14', url: 'https://github.com/swcarpentry/shell-novice/issues/177'}
   - {number: 176, title: Move man page for 01-filedir.md, updated: '2015-06-14', url: 'https://github.com/swcarpentry/shell-novice/issues/176'}
@@ -26,7 +24,6 @@ records:
   - {number: 174, title: Add example of expression with more than one word for grep,
     updated: '2015-06-21', url: 'https://github.com/swcarpentry/shell-novice/issues/174'}
   - {number: 203, title: teaching tool, updated: '2015-06-24', url: 'https://github.com/swcarpentry/shell-novice/issues/203'}
-  - {number: 200, title: changes to loops, updated: '2015-06-24', url: 'https://github.com/swcarpentry/shell-novice/issues/200'}
   - {number: 178, title: Start with "find ." instead of "find . -type d", updated: '2015-06-24',
     url: 'https://github.com/swcarpentry/shell-novice/issues/178'}
   - {number: 169, title: Improve paragraph about control keys, updated: '2015-06-24',
@@ -45,19 +42,35 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/216'}
   - {number: 236, title: '"Terminal-ogy"', updated: '2015-09-28', url: 'https://github.com/swcarpentry/shell-novice/pull/236'}
   - {number: 239, title: Add shell check to references, updated: '2015-10-04', url: 'https://github.com/swcarpentry/shell-novice/issues/239'}
-  - {number: 247, title: added comment on shell improving productivity and reproducibility,
-    updated: '2015-11-15', url: 'https://github.com/swcarpentry/shell-novice/pull/247'}
   - {number: 234, title: lesson rearrangement, updated: '2015-11-15', url: 'https://github.com/swcarpentry/shell-novice/issues/234'}
   - {number: 183, title: 'Should we teach find and grep before rm, mv, and cp?', updated: '2015-11-21',
     url: 'https://github.com/swcarpentry/shell-novice/issues/183'}
   - {number: 225, title: Reword "Pipes and Filters", updated: '2015-11-23', url: 'https://github.com/swcarpentry/shell-novice/pull/225'}
-  - {number: 252, title: Loop file "don't do this" examples, updated: '2015-11-26',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/252'}
-  - {number: 241, title: Filedir rewrite, updated: '2015-11-27', url: 'https://github.com/swcarpentry/shell-novice/pull/241'}
-  - {number: 240, title: Added information on cd -, updated: '2015-12-02', url: 'https://github.com/swcarpentry/shell-novice/pull/240'}
-  - {number: 199, title: 'change title of 02-create.md?', updated: '2015-12-03', url: 'https://github.com/swcarpentry/shell-novice/issues/199'}
   - {number: 253, title: added navigation "getready" box to index.html, updated: '2015-12-10',
     url: 'https://github.com/swcarpentry/shell-novice/pull/253'}
+  - {number: 257, title: Exercise about grep and cut, updated: '2016-01-04', url: 'https://github.com/swcarpentry/shell-novice/pull/257'}
+  - {number: 256, title: exercice about grep, updated: '2016-01-04', url: 'https://github.com/swcarpentry/shell-novice/pull/256'}
+  - {number: 255, title: added RNA-seq reads exercise, updated: '2016-01-04', url: 'https://github.com/swcarpentry/shell-novice/pull/255'}
+  - {number: 260, title: Added two exercises to 06-find/, updated: '2016-01-05', url: 'https://github.com/swcarpentry/shell-novice/pull/260'}
+  - {number: 259, title: Add an example of a random calling pipeline, updated: '2016-01-05',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/259'}
+  - {number: 266, title: minor change in index, updated: '2016-01-06', url: 'https://github.com/swcarpentry/shell-novice/pull/266'}
+  - {number: 265, title: 'Scaffolded Example for Section 4: Loops', updated: '2016-01-06',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/265'}
+  - {number: 262, title: remove mindepth and maxdepth, updated: '2016-01-06', url: 'https://github.com/swcarpentry/shell-novice/pull/262'}
+  - {number: 261, title: AW added an exercise to 05-script.md, updated: '2016-01-06',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/261'}
+  - {number: 252, title: Loop file "don't do this" examples, updated: '2016-01-06',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/252'}
+  - {number: 247, title: added comment on shell improving productivity and reproducibility,
+    updated: '2016-01-06', url: 'https://github.com/swcarpentry/shell-novice/pull/247'}
+  - {number: 200, title: changes to loops, updated: '2016-01-06', url: 'https://github.com/swcarpentry/shell-novice/issues/200'}
+  - {number: 199, title: 'change title of 02-create.md?', updated: '2016-01-06', url: 'https://github.com/swcarpentry/shell-novice/issues/199'}
+  - {number: 180, title: Drop flags "-mindepth" and "-maxdepth" of "find", updated: '2016-01-06',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/180'}
+  - {number: 264, title: 'exercise about the commands head, tail and ''>>''', updated: '2016-01-07',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/264'}
+  - {number: 263, title: Add exercise to `06-find.md`, updated: '2016-01-07', url: 'https://github.com/swcarpentry/shell-novice/pull/263'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -118,7 +131,11 @@ records:
       tools bug, updated: '2015-11-23', url: 'https://github.com/swcarpentry/git-novice/issues/193'}
   - {number: 196, title: Suggest adding two more cartoons in the reference section,
     updated: '2015-12-16', url: 'https://github.com/swcarpentry/git-novice/issues/196'}
-  - {number: 191, title: Refactor to forking, updated: '2015-12-22', url: 'https://github.com/swcarpentry/git-novice/pull/191'}
+  - {number: 191, title: Refactor to forking, updated: '2016-01-04', url: 'https://github.com/swcarpentry/git-novice/pull/191'}
+  - {number: 200, title: Add challenge for collaborating section, updated: '2016-01-08',
+    url: 'https://github.com/swcarpentry/git-novice/pull/200'}
+  - {number: 201, title: added exercise for instructor training, updated: '2016-01-09',
+    url: 'https://github.com/swcarpentry/git-novice/pull/201'}
   url: https://github.com/swcarpentry/git-novice
 - description: Mercurial
   ident: swcarpentry/hg-novice
@@ -234,19 +251,36 @@ records:
       function?', updated: '2015-10-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/170'}
   - {number: 173, title: 'Lesson 01 and 04: matplotlib.pyplot.show ignore any arguments',
     updated: '2015-10-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/173'}
-  - {number: 175, title: Update 01-numpy.md, updated: '2015-11-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/175'}
   - {number: 177, title: Instructor guide formatting is off, updated: '2015-11-20',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/177'}
-  - {number: 176, title: Better explanation for base-0 indexing, updated: '2015-11-20',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/176'}
-  - {number: 178, title: Adding call stack section, updated: '2015-11-30', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/178'}
   - {number: 179, title: 'What is the inflammation data?', updated: '2015-12-01',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/179'}
   - {number: 180, title: Added callout for way to find methods in IPython, updated: '2015-12-04',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/180'}
   - {number: 10, title: no instructions for starting Python, updated: '2015-12-09',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/10'}
-  - {number: 181, title: Totally need to add this image, updated: '2015-12-11', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/181'}
+  - {number: 181, title: Totally need to add this image, updated: '2015-12-25', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/181'}
+  - {number: 185, title: Fix formatting for python division example, updated: '2016-01-04',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/185'}
+  - {number: 184, title: Slicing Exercise (for instructor training checkout), updated: '2016-01-04',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/184'}
+  - {number: 178, title: Adding call stack section, updated: '2016-01-04', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/178'}
+  - {number: 176, title: Better explanation for base-0 indexing, updated: '2016-01-04',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/176'}
+  - {number: 188, title: Add exercise for the instructor training, updated: '2016-01-05',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/188'}
+  - {number: 186, title: Add if/elif/else exercise. (instructor training), updated: '2016-01-05',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/186'}
+  - {number: 189, title: Adding instructions to starting ipython., updated: '2016-01-06',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/189'}
+  - {number: 192, title: Add visual example of list indexing., updated: '2016-01-07',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/192'}
+  - {number: 193, title: Added 'Ranking Olympians' exercise for lesson on loops.,
+    updated: '2016-01-08', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/193'}
+  - {number: 194, title: Add a comparison logic error to the "Errors and Exceptions"
+      topic, updated: '2016-01-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/194'}
+  - {number: 190, title: Add exercise to "3. Storing Multiple Values in Lists", updated: '2016-01-09',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/190'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R
   ident: swcarpentry/r-novice-inflammation
@@ -255,6 +289,18 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/129'}
   - {number: 136, title: 'Functional programming example in "Creating functions"?',
     updated: '2015-07-14', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/136'}
+  - {number: 158, title: Remove call stack section, updated: '2016-01-04', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/158'}
+  - {number: 157, title: Lina's Exercise Addition for Conditionals in R, updated: '2016-01-04',
+    url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/157'}
+  - {number: 156, title: added Sarah Meister's challenge, updated: '2016-01-04', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/156'}
+  - {number: 159, title: Exercise for instructor training, updated: '2016-01-06',
+    url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/159'}
+  - {number: 162, title: 'car-speeds.csv?', updated: '2016-01-07', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/162'}
+  - {number: 161, title: Exercise added to the lesson Making Choices (Conditionals),
+    updated: '2016-01-08', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/161'}
+  - {number: 160, title: Exercise added in creating a function lesson, updated: '2016-01-08',
+    url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/160'}
+  - {number: 163, title: Column headers, updated: '2016-01-09', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/163'}
   url: https://github.com/swcarpentry/r-novice-inflammation
 - description: MATLAB
   ident: swcarpentry/matlab-novice-inflammation
@@ -269,8 +315,7 @@ records:
   - {number: 45, title: 'What changes should we make for our 5.4 release?', updated: '2015-07-07',
     url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/45'}
   - {number: 49, title: 'Get back to simpler code?', updated: '2015-07-24', url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/49'}
-  - {number: 56, title: Missing code in "defensive programming" lesson ("test_range_overlap"
-      script), updated: '2015-12-24', url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/56'}
+  - {number: 57, title: Update test_range_overlap.m, updated: '2016-01-05', url: 'https://github.com/swcarpentry/matlab-novice-inflammation/pull/57'}
   url: https://github.com/swcarpentry/matlab-novice-inflammation
 - description: Make
   ident: swcarpentry/make-novice
@@ -315,48 +360,21 @@ records:
   issues:
   - {number: 19, title: Event details page should allow validation of Eventbrite link,
     updated: '2015-03-03', url: 'https://github.com/swcarpentry/amy/issues/19'}
-  - {number: 20, title: Event details page should include links to assessment forms,
-    updated: '2015-03-22', url: 'https://github.com/swcarpentry/amy/issues/20'}
   - {number: 74, title: 'Event_sponsor table ', updated: '2015-05-13', url: 'https://github.com/swcarpentry/amy/issues/74'}
   - {number: 42, title: Email list co-management with hosts, updated: '2015-05-13',
     url: 'https://github.com/swcarpentry/amy/issues/42'}
-  - {number: 21, title: Create checklist for event, updated: '2015-06-17', url: 'https://github.com/swcarpentry/amy/issues/21'}
   - {number: 202, title: Recording people who are interested in our activities, updated: '2015-07-08',
     url: 'https://github.com/swcarpentry/amy/issues/202'}
-  - {number: 188, title: Documentation, updated: '2015-07-28', url: 'https://github.com/swcarpentry/amy/issues/188'}
   - {number: 458, title: Save search for instructors options, updated: '2015-08-06',
     url: 'https://github.com/swcarpentry/amy/issues/458'}
   - {number: 500, title: Add nickname/alternate name or notes field to Person records,
     updated: '2015-09-16', url: 'https://github.com/swcarpentry/amy/issues/500'}
-  - {number: 519, title: Unable to merge two people, updated: '2015-10-06', url: 'https://github.com/swcarpentry/amy/issues/519'}
   - {number: 525, title: Add "Create EventBrite page" buttom, updated: '2015-10-09',
     url: 'https://github.com/swcarpentry/amy/issues/525'}
   - {number: 524, title: Notify previous learners of nearby workshop when registrations
       are open, updated: '2015-10-09', url: 'https://github.com/swcarpentry/amy/issues/524'}
-  - {number: 522, title: Include links to external documents, updated: '2015-10-09',
-    url: 'https://github.com/swcarpentry/amy/issues/522'}
   - {number: 514, title: Attendance count needs to be more than just one number, updated: '2015-10-09',
     url: 'https://github.com/swcarpentry/amy/issues/514'}
-  - {number: 558, title: Extend Person to store ORCID ID and occupation, updated: '2015-10-24',
-    url: 'https://github.com/swcarpentry/amy/issues/558'}
-  - {number: 562, title: Alert for recently changed github pages, updated: '2015-11-08',
-    url: 'https://github.com/swcarpentry/amy/issues/562'}
-  - {number: 534, title: 'Improve development database (use [auto generated] fixtures
-      of some sort)', updated: '2015-11-13', url: 'https://github.com/swcarpentry/amy/issues/534'}
-  - {number: 526, title: Need better name merging, updated: '2015-11-13', url: 'https://github.com/swcarpentry/amy/issues/526'}
-  - {number: 443, title: Events calendar, updated: '2015-11-13', url: 'https://github.com/swcarpentry/amy/issues/443'}
-  - {number: 419, title: Import requests for instructor training, updated: '2015-11-21',
-    url: 'https://github.com/swcarpentry/amy/issues/419'}
-  - {number: 588, title: Show user what will be displayed on website after adding/changing
-      Events, updated: '2015-11-24', url: 'https://github.com/swcarpentry/amy/issues/588'}
-  - {number: 582, title: Let's register teaching languages for instructors, updated: '2015-11-25',
-    url: 'https://github.com/swcarpentry/amy/issues/582'}
-  - {number: 598, title: Upgrade && test development stack, updated: '2015-12-02',
-    url: 'https://github.com/swcarpentry/amy/issues/598'}
-  - {number: 559, title: Remove slider widget from attendance count & invoice amount,
-    updated: '2015-12-02', url: 'https://github.com/swcarpentry/amy/issues/559'}
-  - {number: 554, title: Post-workshop form on AMY for instructors, updated: '2015-12-02',
-    url: 'https://github.com/swcarpentry/amy/issues/554'}
   - {number: 446, title: Set correct administrators for historical events, updated: '2015-12-05',
     url: 'https://github.com/swcarpentry/amy/issues/446'}
   - {number: 406, title: Flag if organizer has access to Eventbrite, updated: '2015-12-05',
@@ -371,14 +389,8 @@ records:
   - {number: 287, title: 'Allow admins to Cc: email to Amy site records', updated: '2015-12-05',
     url: 'https://github.com/swcarpentry/amy/issues/287'}
   - {number: 606, title: Merge 2 events, updated: '2015-12-06', url: 'https://github.com/swcarpentry/amy/issues/606'}
-  - {number: 604, title: Modify members API call so that JSON includes user ID, updated: '2015-12-06',
-    url: 'https://github.com/swcarpentry/amy/issues/604'}
-  - {number: 603, title: Using underscores instead of periods in user IDs, updated: '2015-12-06',
-    url: 'https://github.com/swcarpentry/amy/issues/603'}
   - {number: 609, title: Workshop issues - filter list by admin assigned, updated: '2015-12-09',
     url: 'https://github.com/swcarpentry/amy/issues/609'}
-  - {number: 599, title: Ability to enter Train the trainer events in to Amy through
-      a T3 request form, updated: '2015-12-09', url: 'https://github.com/swcarpentry/amy/issues/599'}
   - {number: 516, title: 'Possible to send out reminder emails to instructors that
       will be teaching?', updated: '2015-12-09', url: 'https://github.com/swcarpentry/amy/issues/516'}
   - {number: 616, title: '{workshops,instructors,learners}_over_time to API', updated: '2015-12-10',
@@ -387,24 +399,45 @@ records:
     url: 'https://github.com/swcarpentry/amy/issues/617'}
   - {number: 624, title: Searching for duplication in the database, updated: '2015-12-15',
     url: 'https://github.com/swcarpentry/amy/issues/624'}
-  - {number: 578, title: Integration with SurveyMonkey, updated: '2015-12-15', url: 'https://github.com/swcarpentry/amy/issues/578'}
   - {number: 626, title: 'Database: clear migrations, move data migrations → fixtures',
     updated: '2015-12-16', url: 'https://github.com/swcarpentry/amy/issues/626'}
-  - {number: 628, title: 'Feeding back contact address from AMY to Eventbrite?', updated: '2015-12-17',
-    url: 'https://github.com/swcarpentry/amy/issues/628'}
-  - {number: 627, title: Fake database instead of anonymized production database,
-    updated: '2015-12-20', url: 'https://github.com/swcarpentry/amy/pull/627'}
-  - {number: 623, title: Bulk upload must display/allow editing of user ID, updated: '2015-12-20',
-    url: 'https://github.com/swcarpentry/amy/issues/623'}
-  - {number: 605, title: Review scripts and commands, updated: '2015-12-20', url: 'https://github.com/swcarpentry/amy/issues/605'}
   - {number: 632, title: Repair slow tests, updated: '2015-12-21', url: 'https://github.com/swcarpentry/amy/issues/632'}
   - {number: 631, title: 'New report: All activity over time', updated: '2015-12-21',
     url: 'https://github.com/swcarpentry/amy/issues/631'}
-  - {number: 633, title: Integrating Invoice Request form into AMY, updated: '2015-12-22',
+  - {number: 598, title: Upgrade && test development stack, updated: '2015-12-28',
+    url: 'https://github.com/swcarpentry/amy/issues/598'}
+  - {number: 562, title: Alert for recently changed github pages, updated: '2015-12-28',
+    url: 'https://github.com/swcarpentry/amy/issues/562'}
+  - {number: 419, title: Import requests for instructor training, updated: '2015-12-28',
+    url: 'https://github.com/swcarpentry/amy/issues/419'}
+  - {number: 638, title: Check if we need to generate initial revisions for fake database,
+    updated: '2015-12-31', url: 'https://github.com/swcarpentry/amy/issues/638'}
+  - {number: 582, title: Let's register teaching languages for instructors, updated: '2015-12-31',
+    url: 'https://github.com/swcarpentry/amy/issues/582'}
+  - {number: 639, title: API call to get people associated with event, updated: '2016-01-03',
+    url: 'https://github.com/swcarpentry/amy/issues/639'}
+  - {number: 640, title: 'WIP: workshops/models.py: Add LanguageTag and LanguageQualification
+      models', updated: '2016-01-04', url: 'https://github.com/swcarpentry/amy/pull/640'}
+  - {number: 628, title: 'Feeding back contact address from AMY to Eventbrite?', updated: '2016-01-04',
+    url: 'https://github.com/swcarpentry/amy/issues/628'}
+  - {number: 643, title: Remove instructor training from debriefing list, updated: '2016-01-05',
+    url: 'https://github.com/swcarpentry/amy/issues/643'}
+  - {number: 603, title: Using underscores instead of periods in user IDs, updated: '2016-01-05',
+    url: 'https://github.com/swcarpentry/amy/issues/603'}
+  - {number: 645, title: Underscored usernames, updated: '2016-01-07', url: 'https://github.com/swcarpentry/amy/pull/645'}
+  - {number: 634, title: Enhance workshop request forms for self-organized workshops,
+    updated: '2016-01-07', url: 'https://github.com/swcarpentry/amy/issues/634'}
+  - {number: 633, title: Integrating Invoice Request form into AMY, updated: '2016-01-07',
     url: 'https://github.com/swcarpentry/amy/issues/633'}
-  - {number: 630, title: 'Bulk upload: suggest names, generate usernames', updated: '2015-12-22',
-    url: 'https://github.com/swcarpentry/amy/pull/630'}
-  - {number: 629, title: Cut scripts and commands, updated: '2015-12-22', url: 'https://github.com/swcarpentry/amy/pull/629'}
+  - {number: 599, title: Ability to enter Train the trainer events in to Amy through
+      a T3 request form, updated: '2016-01-07', url: 'https://github.com/swcarpentry/amy/issues/599'}
+  - {number: 578, title: Integration with SurveyMonkey, updated: '2016-01-07', url: 'https://github.com/swcarpentry/amy/issues/578'}
+  - {number: 558, title: Extend Person to store ORCID ID and occupation, updated: '2016-01-07',
+    url: 'https://github.com/swcarpentry/amy/issues/558'}
+  - {number: 554, title: Post-workshop form on AMY for instructors, updated: '2016-01-07',
+    url: 'https://github.com/swcarpentry/amy/issues/554'}
+  - {number: 522, title: Include links to external documents, updated: '2016-01-07',
+    url: 'https://github.com/swcarpentry/amy/issues/522'}
   url: https://github.com/swcarpentry/amy
 - description: Software Carpentry website
   ident: swcarpentry/website
@@ -413,21 +446,15 @@ records:
     url: 'https://github.com/swcarpentry/website/issues/48'}
   - {number: 47, title: Add a page explaining how to create a new lesson, updated: '2015-11-25',
     url: 'https://github.com/swcarpentry/website/issues/47'}
-  - {number: 62, title: Store values in GeoJSON and have the Jekyll template format
-      them, updated: '2015-11-28', url: 'https://github.com/swcarpentry/website/issues/62'}
-  - {number: 41, title: WIP Move people bios and info to _data, updated: '2015-11-30',
-    url: 'https://github.com/swcarpentry/website/pull/41'}
   - {number: 10, title: Blog posts not indexed/displayed by author, updated: '2015-11-30',
     url: 'https://github.com/swcarpentry/website/issues/10'}
   - {number: 72, title: Mobile site-menu has poor link color, updated: '2015-12-01',
     url: 'https://github.com/swcarpentry/website/issues/72'}
-  - {number: 43, title: Calendar points at old web site, updated: '2015-12-01', url: 'https://github.com/swcarpentry/website/issues/43'}
   - {number: 61, title: Add/check setup instructions, updated: '2015-12-02', url: 'https://github.com/swcarpentry/website/issues/61'}
   - {number: 85, title: Icons in table with links to lessons not centered, updated: '2015-12-03',
     url: 'https://github.com/swcarpentry/website/issues/85'}
   - {number: 39, title: Use _data files for persons and projects to remove need for
       preprocessor, updated: '2015-12-03', url: 'https://github.com/swcarpentry/website/issues/39'}
-  - {number: 88, title: Test comment display, updated: '2015-12-04', url: 'https://github.com/swcarpentry/website/issues/88'}
   - {number: 63, title: Oddness in layout just before mobile "navigation" menu takes
       effect, updated: '2015-12-04', url: 'https://github.com/swcarpentry/website/issues/63'}
   - {number: 27, title: Need better layout for the "join" page, updated: '2015-12-04',
@@ -445,5 +472,33 @@ records:
   - {number: 92, title: Width of previous lessons, updated: '2015-12-21', url: 'https://github.com/swcarpentry/website/issues/92'}
   - {number: 91, title: Navigation bar and open in a new tab, updated: '2015-12-21',
     url: 'https://github.com/swcarpentry/website/issues/91'}
+  - {number: 100, title: Add links to surveys, updated: '2015-12-26', url: 'https://github.com/swcarpentry/website/issues/100'}
+  - {number: 99, title: Add instructions for making Etherpads to instructor checklist,
+    updated: '2015-12-26', url: 'https://github.com/swcarpentry/website/issues/99'}
+  - {number: 97, title: Add/display icon to show kind of workshop, updated: '2015-12-26',
+    url: 'https://github.com/swcarpentry/website/issues/97'}
+  - {number: 62, title: Store values in GeoJSON and have the Jekyll template format
+      them, updated: '2015-12-26', url: 'https://github.com/swcarpentry/website/issues/62'}
+  - {number: 108, title: 'Document process for adding a workshop, write a blog post,
+      etc.', updated: '2015-12-28', url: 'https://github.com/swcarpentry/website/issues/108'}
+  - {number: 110, title: Instructor counts are incorrect on team page map, updated: '2015-12-29',
+    url: 'https://github.com/swcarpentry/website/issues/110'}
+  - {number: 116, title: Unifying styles, updated: '2015-12-31', url: 'https://github.com/swcarpentry/website/pull/116'}
+  - {number: 115, title: Workshop links mistakenly concatenated in pop-up on /workshops/past,
+    updated: '2015-12-31', url: 'https://github.com/swcarpentry/website/issues/115'}
+  - {number: 112, title: CSS does not  load on https, updated: '2015-12-31', url: 'https://github.com/swcarpentry/website/issues/112'}
+  - {number: 124, title: Build site take too much time, updated: '2016-01-03', url: 'https://github.com/swcarpentry/website/issues/124'}
+  - {number: 119, title: Autobuilder for weekly update, updated: '2016-01-04', url: 'https://github.com/swcarpentry/website/pull/119'}
+  - {number: 117, title: Blog post about UC Davis workshops, updated: '2016-01-05',
+    url: 'https://github.com/swcarpentry/website/pull/117'}
+  - {number: 41, title: WIP Move people bios and info to _data, updated: '2016-01-05',
+    url: 'https://github.com/swcarpentry/website/pull/41'}
+  - {number: 131, title: Missing information about dependencies, updated: '2016-01-06',
+    url: 'https://github.com/swcarpentry/website/issues/131'}
+  - {number: 136, title: 'What will it take to get this site to render properly on
+      GitHub?', updated: '2016-01-07', url: 'https://github.com/swcarpentry/website/issues/136'}
+  - {number: 101, title: Add N8 consortium as partner, updated: '2016-01-07', url: 'https://github.com/swcarpentry/website/issues/101'}
+  - {number: 141, title: Blog post about Brown et al paper, updated: '2016-01-09',
+    url: 'https://github.com/swcarpentry/website/pull/141'}
   url: https://github.com/swcarpentry/website
-timestamp: '2015-12-24T10:25:05Z'
+timestamp: '2016-01-10T02:29:18Z'
