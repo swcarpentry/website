@@ -41,7 +41,7 @@ I own a lightsaber.
 
 ## Finally.....
 
-If you are not sufficiently convinced of my enthusiasm and nerd level - [see here](http://www.software.ac.uk/blog/2014-10-10-relearning-fortran-through-medium-star-wars) and don’t vote for me, I hope that any members that have taken the time to read this and who find value in these ideas will take them forward.
+If you are not sufficiently convinced of my enthusiasm and nerd level - [see here](http://www.software.ac.uk/blog/2014-10-10-relearning-fortran-through-medium-star-wars) and don’t vote for me - I hope that any members that have taken the time to read this and who find value in these ideas will take them forward.
 
 Thanks,
 
