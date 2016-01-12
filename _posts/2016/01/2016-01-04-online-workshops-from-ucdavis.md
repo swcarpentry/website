@@ -2,7 +2,7 @@
 layout: post
 author: "C. Titus Brown"
 title: "Online Workshops from UC Davis"
-date: 2016-01-04
+date: 2016-01-12
 time: "01:00:00"
 category: ["UC Davis", "Teaching", "Online"]
 ---
