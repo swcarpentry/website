@@ -19,12 +19,12 @@ def handle_args():
     parser.add_argument('-o', '--output', default=sys.stdout,
                         help='Output file.  By default: stdout.')
     group = parser.add_mutually_exclusive_group(required=True)
-    group.add_argument('--tags-all', action='store', default=None,
+    group.add_argument('--tags-any', action='store', default=None,
                        help='Events should have any number of these tags, but '
                             'at least one. Mutually exclusive with --tags-all.'
                             'Separate tags with a comma, like this: '
                             '--tags-any=SWC,DC')
-    group.add_argument('--tags-any', action='store', default=None,
+    group.add_argument('--tags-all', action='store', default=None,
                        help='Events should have all of these tags. Mutually '
                             'exclusive with --tags-any. Separate tags with '
                             'a comma, like this: --tags-all=SWC,DC')
