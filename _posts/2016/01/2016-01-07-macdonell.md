@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "Cam Macdonell"
+authors: ["Cam Macdonell"]
 title: "2016 Election: Cam Macdonell"
 date: 2016-01-08
 time: "08:00:00"
