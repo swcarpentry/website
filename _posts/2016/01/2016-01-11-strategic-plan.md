@@ -51,4 +51,5 @@ you'll get in touch through comments on this post.
 
 Even better, if you’d like to be instrumental in the annual revision of this
 strategic plan, please consider [running for the 2016 Steering
-Committee.](http://software-carpentry.org/blog/2015/12/call-for-candidates-elections-2016.html)
+Committee.](http://software-carpentry.org/blog/2015/12/call-for-candidates-elections-2016.html) 
+The deadline is this Friday.
