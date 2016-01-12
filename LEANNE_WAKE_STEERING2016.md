@@ -27,13 +27,13 @@ Metrics and Quality Assurance (QA) are a part of everyday life but also huge bug
 
 **Parallelisation:** Making your code more efficient. You have built a car - how do you turn it into a Ferrari?  How many folks do you know have a fancy multi-core machine, yet only use a single core? SWC is contributing towards reproducible science, how about efficient science?
 
-* *Organisational/Miscellaneous:*
+* *Organisational Duties/Miscellaneous:*
 
 I am willing to accept any admin duties to ensure fluidity and expansion of the organisation, e.g.:
 
 -**Maintaining a live instructor database** indicating temporal availability of instructors. 
 
--**Increasing recruitment.** Workshop numbers and participants are increasing linearly; instructor numbers are [tailing off.] (http://software-carpentry.org/about/)
+-**Recruitment:** Workshop and participants number are increasing; Instructor numbers are [tailing off.] (http://software-carpentry.org/about/)
 
 ## Anything else we should know?
 
