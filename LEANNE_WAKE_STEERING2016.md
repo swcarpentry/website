@@ -11,7 +11,7 @@ Having been exposed to a wide variety of code instruction techniques (from “yo
 
 ## How I will contribute to the growth of Software Carpentry
 
-* *Global expansion*:
+* *Global Expansion*:
 
 Involvement with the Software Sustainability Institute and SWC has convinced me that SWC should be made available to as wide a user-base as possible.  As a geographer, I was drawn to this section of the SWC website, and saw that SWC’s [global coverage](http://software-carpentry.org/workshops/past/) could be improved. Imagine the scenario: 
 
@@ -41,7 +41,7 @@ I own a lightsaber.
 
 ## Finally.....
 
-If you are not sufficiently convinced of my enthusiasm and nerd level - [see here](http://www.software.ac.uk/blog/2014-10-10-relearning-fortran-through-medium-star-wars) and don’t vote for me - I hope that any members that have taken the time to read this and who find value in these ideas will take them forward.
+If you are not sufficiently convinced of my enthusiasm and [nerdiness] (http://www.software.ac.uk/blog/2014-10-10-relearning-fortran-through-medium-star-wars) and don’t vote for me, I hope that any members that have taken the time to read this and who find value in these ideas will take them forward.
 
 Thanks,
 
