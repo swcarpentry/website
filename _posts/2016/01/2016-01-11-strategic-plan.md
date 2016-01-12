@@ -39,7 +39,7 @@ website design, which contributes to reporting and transparency).
 - Coordination with Data Carpentry
 
 More information about the detailed meaning of these issues can be found [in
-the docpument
+the document
 itself](https://github.com/swcarpentry/board/blob/master/strategy/strategic_plan.md).
 
 Rather than a top-down declaration of our goals as a foundation, we intended
