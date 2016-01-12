@@ -10,7 +10,7 @@ category: ["Software Carpentry Foundation"]
 The Software Carpentry Foundation Steering Committee held a strategic planning
 meeting in August. In that two-day, intensive meeting, we focused on developing
 a long term strategic plan for the Software Carpentry Foundation.  The process
-focused on identification of our stakeholders and mission. It also used the
+emphasized identification of our stakeholders and mission. It also used the
 results of [our community
 survey](http://software-carpentry.org/blog/2015/07/scf-swot-survey.html) to
 identify our strengths and weaknesses as well as the opportunities and threats
