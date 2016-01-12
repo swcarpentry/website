@@ -18,7 +18,7 @@ def handle_args():
                         help='Base URL of AMY API used for gathering information.')
     parser.add_argument('-o', '--output', default=sys.stdout,
                         help='Output file.  By default: stdout.')
-    group = parser.add_mutually_exclusive_group(required=True)
+    group = parser.add_mutually_exclusive_group(required=False)
     group.add_argument('--tags-any', action='store', default=None,
                        help='Events should have any number of these tags, but '
                             'at least one. Mutually exclusive with --tags-all.'
@@ -141,8 +141,8 @@ def sort_flags(data):
 if __name__ == '__main__':
     args = handle_args()
     tags = args['tags_all'] or args['tags_any']
-    tags = tags.split(',')
-    all_ = bool(args['tags_all'])
+    tags = tags.split(',') if tags else tags
+    all_ = not bool(args['tags_any'])
 
     main(amy_url=args['api_url'], output_file=args['output'], tags=tags,
          all_=all_)
