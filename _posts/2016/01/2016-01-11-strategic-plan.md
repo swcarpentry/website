@@ -43,7 +43,7 @@ the document
 itself](https://github.com/swcarpentry/board/blob/master/strategy/strategic_plan.md).
 
 Rather than a top-down declaration of our goals as a foundation, we intended
-this document to capture what we understood to be the ideas and mission of you,
+this document to capture what we understood to be the ideas and mission of _you_,
 our community. As you look over this document, we hope you won’t hesitate to
 provide feedback that will help SCF clarify its mission, nurture its strengths,
 and reach its aspirations. If you have any questions or suggestions, we hope
