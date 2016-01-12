@@ -47,8 +47,8 @@ this document to capture what we understood to be the ideas and missions of _you
 our community. As you look over this document, we hope you won’t hesitate to
 provide feedback that will help SCF clarify its mission, nurture its strengths,
 and reach its aspirations. If you have any questions or suggestions, we hope
-you'll get in touch.
+you'll get in touch through comments on this post. 
 
 Even better, if you’d like to be instrumental in the annual revision of this
-strategic plan, we hope you might consider [running for the 2016 Steering
+strategic plan, please consider [running for the 2016 Steering
 Committee.](http://software-carpentry.org/blog/2015/12/call-for-candidates-elections-2016.html)
