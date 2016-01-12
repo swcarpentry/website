@@ -49,9 +49,9 @@ def main(amy_url, output_file, tags, all_=True):
         unique_workshops = fetch_info(amy_url, 'events/published.yaml',
                                       tags=tags)
     else:
-        # Fetch workshops for each tag. This is required because by AMY treats
-        # with AND operation, while we want to have OR: "get me workshops that
-        # have either SWC tag or DC tag (or both)".
+        # Fetch workshops for each tag. This is required because AMY treats
+        # tags with AND operation, while we want to have OR: "get me workshops
+        # that have either SWC tag or DC tag (or both)".
         workshops = []
         for tag in tags:
             workshops.extend(fetch_info(amy_url, 'events/published.yaml',
