@@ -2,7 +2,7 @@
 layout: post
 author: "Kate Hertweck"
 title: "Pre-workshop help sessions for 2016"
-date: 2016-01-12
+date: 2016-01-13
 time: "15:00:00"
 category: ["Community"]
 ---
