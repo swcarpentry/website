@@ -6,9 +6,6 @@ date: 2016-01-12
 time: "15:00:00"
 category: ["Software Carpentry Foundation"]
 ---
-
-# 2016 Election: Leanne Wake
-
 ## Academic background
 
 You can find me in the Department of Geography in the [University of Northumbria at Newcastle, UK](https://www.northumbria.ac.uk/about-us/our-staff/w/dr-leanne-mary-wake/).  In 2010 I obtained my PhD in Geophysics from Durham University, UK.  I would describe myself, broadly, as an Earth system modeller. I try to understand the workings of a complex world through the 0s and 1s of code but I have been known get my hands dirty with fieldwork!  
