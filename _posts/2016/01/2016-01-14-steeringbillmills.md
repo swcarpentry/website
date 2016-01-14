@@ -4,7 +4,7 @@ author: "Bill Mills"
 title: "2016 Election: Bill Mills"
 date: 2016-01-14
 time: "15:00:00"
-category: ["Software Carpentry Foundation"]
+category: ["Software Carpentry Foundation", "Election 2016"]
 ---
 
 ## Meet Bill
