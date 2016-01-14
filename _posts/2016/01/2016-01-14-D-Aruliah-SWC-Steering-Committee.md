@@ -6,11 +6,6 @@ date: 2016-01-14
 time: "09:30:00"
 category: ["Steering Committee"]
 ---
-
-
-
-# 2016 Election: Dhavide Aruliah
-
 My name is Dhavide Aruliah. I am standing for election to the Steering Committee of Software Carpentry for 2016.
 
 ## Who am I?
