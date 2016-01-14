@@ -11,7 +11,7 @@ category: ["Steering Committee", "Software Carpentry Foundation", "Election 2016
 
 I am pursuing a PhD in Cell and Molecular Biology at The University of Texas in Austin. My thesis research in [Hans Hofmann](http://cichlid.biosci.utexas.edu/)’s lab focuses on understanding transcriptional responses to spatial learning with single neuron resolution. 
 
-Since 2012, I have been deeply involved with **enhancing graduate student education** through 1) the [Neural Systems and Behavior (NS&B)](http://www.mbl.edu/nsb/) course at the Marine Biological Laboratories and 2) the [Center for Computational Biology and Bioinformatics (CCBB)](http://ccbb.biosci.utexas.edu/) at UT Austin. At NS&B, I teach molecular approaches to neuroscience and supervise student research projects. With the CCBB, I organize workshops and symposia to promote sharing of ideas and expertise across departmental boundaries. 
+Since 2012, I've been deeply involved with **enhancing graduate student education** through 1) the [Neural Systems and Behavior (NS&B)](http://www.mbl.edu/nsb/) course at the Marine Biological Laboratories and 2) the [Center for Computational Biology and Bioinformatics (CCBB)](http://ccbb.biosci.utexas.edu/) at UT Austin. At NS&B, I teach molecular approaches to neuroscience and supervise student research projects. With the CCBB, I organize workshops and symposia to promote sharing of ideas and expertise across departmental boundaries. It's been awesome to see theses, manuscripts, tweets, and blogs acknowledge these programs for advancing student's professional development.   
 
 Before that, I got a B.S. in Biochemistry, taught undergraduate Organic Chemistry labs, and scuba dove for [INBio](http://www.inbio.ac.cr/en/) in Costa Rica. 
 
@@ -30,7 +30,7 @@ I am on the **Mentoring Subcommittee** and **Assessment Subcommittee**. I’ve c
 
 The phrase “**integration across levels**” is the most used phrase among my colleagues from then [Hofmann Lab](http://cichlid.biosci.utexas.edu/) and [NS&B](http://www.mbl.edu/nsb/). This refers to examining the evolutionary, physiological, genomic, genetic, neural, and environmental mechanisms that contribute to variation in animal behavior. 
 
-As a member of the steering committee, my vision would be to **promote integration** across organization levels. Our community is growing rapidly in terms of membership, numbers of workshops hosted, and depth of resources, so **my overarching goal** is to ensure that each level or organization is aware of and acting on the progress of the others. 
+As a member of the steering committee, my vision would be to **promote integration** across organization levels. Our community is growing rapidly, so **my overarching goal** is to ensure that each level or organization is aware of and acting on the progress of the others. 
 
 **Specifically**, in 2016 I would focus on:
 
