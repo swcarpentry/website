@@ -4,7 +4,7 @@ author: "Raniere Silva"
 title: "2016 Election: Raniere Silva"
 date: 2016-01-14
 time: "15:00:00"
-category: ["Software Carpentry Foundation"]
+category: ["Software Carpentry Foundation", "Election 2016"]
 ---
 My name is Raniere Gaia Costa da Silva
 and I'm standing for re-election to Software Carpentry Steering Committee
