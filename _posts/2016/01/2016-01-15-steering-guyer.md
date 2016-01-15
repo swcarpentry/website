@@ -61,3 +61,6 @@ hands-on workshops where we help SWC graduates put what they've learned to
 practice on their own research. I'm already starting to develop this
 concept where I work, but I see a much broader potential to ensure that
 Software Carpentry isn't just a one-time thing, but an ongoing resource.
+
+You can email me at guyer@nist.gov or jab a fork at me on
+[GitHub](https://github.com/guyer).
