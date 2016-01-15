@@ -19,6 +19,7 @@ category: ["SWC Foundation", "Election 2016"]
 - Science Editor and Writer for the Daily Cardinal, 2011-2012
 
 **Currently**
+
 Research Computing Facilitator at UW-Madison's large-scale computing center, 
 the Center for High Throughput Computing, where I lead user interaction efforts
  and spend much of my time working directly with researchers to:
