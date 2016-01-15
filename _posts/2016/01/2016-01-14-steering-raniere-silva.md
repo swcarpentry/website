@@ -45,7 +45,7 @@ check [this blog post](http://blog.rgaiacs.com/2015/12/11/swc.html).
 ## Plans for 2016
 
 In 2016,
-independent of the result of the Steering Committee election result,
+independent of the result of the Steering Committee election,
 I want to focus on the assessment of achievements that our students had after
 attend our workshops because this is a important piece to Software Carpentry
 sustainability and expansion.
@@ -66,7 +66,7 @@ A few extra things that I want to do but don't plan to spend many hours are:
 
 ## More
 
-Sometimes I write in [my blog](http://blog.rgaiacs.com/) that has posts about
+Sometimes I write in [my blog](http://blog.rgaiacs.com/) about
 book that I read, cities that I visited, things that I tried to hack
 and Software Carpentry workshops that I taught.
 
