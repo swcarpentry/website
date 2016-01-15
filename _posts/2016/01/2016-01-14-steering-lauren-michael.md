@@ -16,8 +16,8 @@ category: ["SWC Foundation", "Election 2016"]
 -   1 DC workshop organized/helped
 
 **Relevant Volunteer Work**
-Social Media Manager for Midwest Ultimate, 2013-2014
-Science Editor and Writer for the Daily Cardinal, 2011-2012
+- Social Media Manager for Midwest Ultimate, 2013-2014
+- Science Editor and Writer for the Daily Cardinal, 2011-2012
 
 In my current position as a Research Computing Facilitator for
  UW-Madison's large-scale computing center, the Center for High
