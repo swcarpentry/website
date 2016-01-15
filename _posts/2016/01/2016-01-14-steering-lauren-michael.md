@@ -8,8 +8,8 @@ category: ["SWC Foundation", "Election 2016"]
 ---
 ## About Me
 
--   B.Sc Biology, Chemistry - Truman State University
--   M.Sc Biophysics - University of Wisconsin-Madison
+-   B.Sc. Biology, Chemistry - Truman State University
+-   M.Sc. Biophysics - University of Wisconsin-Madison
 
 -   3 years instructing with SWC; certified Fall 2014
 -   9 SWC workshops organized/helped; 8 as an instructor
