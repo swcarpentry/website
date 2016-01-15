@@ -3,7 +3,7 @@ layout: post
 author: "Lauren Michael"
 title: "2016 Election: Lauren Michael"
 date: 2016-01-14
-time: "16:00:00"
+time: "18:00:00"
 category: ["SWC Foundation", "Election 2016"]
 ---
 ## About Me
