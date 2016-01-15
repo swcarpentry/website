@@ -7,21 +7,20 @@ time: "16:00:00"
 category: ["SWC Foundation", "Election 2016"]
 ---
 ## About Me
+- B.Sc. Biology, Chemistry - Truman State University
+- M.Sc. Biophysics - University of Wisconsin-Madison
 
--   B.Sc. Biology, Chemistry - Truman State University
--   M.Sc. Biophysics - University of Wisconsin-Madison
-
--   3 years instructing with SWC; certified Fall 2014
--   9 SWC workshops organized/helped; 8 as an instructor
--   1 DC workshop organized/helped
+- 3 years instructing with SWC; certified Fall 2014
+- 9 SWC workshops organized/helped; 8 as an instructor
+- 1 DC workshop organized/helped
 
 **Relevant Volunteer Work**
 - Social Media Manager for Midwest Ultimate, 2013-2014
 - Science Editor and Writer for the Daily Cardinal, 2011-2012
 
-In my current position as a Research Computing Facilitator for
- UW-Madison's large-scale computing center, the Center for High
- Throughput Computing, I lead user interaction efforts
+**Currently**
+Research Computing Facilitator at UW-Madison's large-scale computing center, 
+the Center for High Throughput Computing, where I lead user interaction efforts
  and spend much of my time working directly with researchers to:
 -   consult on computational research design
 -   provide issue support
@@ -74,7 +73,7 @@ As SWC embarks on what I believe will be a period of significant
  in research. These strategies will be essential to
  securing the organization's financial sustainability, enabling SWC
  to scale for the increasing demand for workshops and materials.
- Furthermore, I look forward to more formally represent SWC, in part,
+ Furthermore, I look forward to more formally representing SWC, in part,
  to manage perceptions of the brand by emerging stakeholders.
 
 Because an organization like SWC is only as strong as its community,
