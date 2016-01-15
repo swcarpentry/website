@@ -23,15 +23,15 @@ category: ["SWC Foundation", "Election 2016"]
 Research Computing Facilitator at UW-Madison's large-scale computing center, 
 the Center for High Throughput Computing, where I lead user interaction efforts
  and spend much of my time working directly with researchers to:
--   consult on computational research design
--   provide issue support
--   develop and deliver learning materials
--   match researchers to eachother and to additional resources 
+- consult on computational research design
+- provide issue support
+- develop and deliver learning materials
+- match researchers to eachother and to additional resources 
 
 Beyond my direct work with researchers, I:
--   partake in design decisions for computational infrastructure
--   contribute to strategic initiatives to improve IT-related services for researchers 
--   advocate for researchers and their IT-related needs to campus administrators and other stakeholders
+- partake in design decisions for computational infrastructure
+- contribute to strategic initiatives to improve IT-related services for researchers 
+- advocate for researchers and their IT-related needs to campus administrators and other stakeholders
 
 ## Previous Contributions
 
