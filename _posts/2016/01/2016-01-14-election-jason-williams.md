@@ -29,4 +29,4 @@ I was honored to host the Steering Committee for an in-person meeting at Cold Sp
 
 **I pledge that astral combat as a tool for decision making will be replaced with fully corporeal dance-offs.**    
 
-Finally, I just want to remind those who voted for me last year just how fun it was. As I ask for your vote, feel free to tweet a selfie (@JasonWilliamsNY) so that everyone can be a part of the joy of ceding decision making authority over to a benevolent mother-father figure – it just may be the most liberating experience of the year. 
+Finally, I just want to remind those who voted for me last year just how fun it was. As I ask for your vote, feel free to tweet a selfie (@JasonWilliamsNY) as you select my name so that everyone can be a part of the joy of ceding decision making authority over to a benevolent mother-father figure – it just may be the most liberating experience of the year. 
