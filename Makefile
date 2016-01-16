@@ -30,6 +30,13 @@ site :
 install :
 	bundle install
 
+## everything : rebuild all data files and then serve the site
+everything:
+	@make amy
+	@make dashboard
+	@make includes
+	@make serve
+
 #-------------------------------------------------------------------------------
 
 ## clean      : clean up junk files.
