@@ -38,7 +38,7 @@ data".  A write up of the workshop can be found [here][blog post]
 
 Since then, we've typed up our notes from the workshop into the Software
 Carpentry lesson format, and can now present you with [intermediate materials
-for regular useRs][materias].
+for regular useRs][materials].
 
 [materials]: (http://resbaz.github.io/r-intermediate-gapminder/)
 
