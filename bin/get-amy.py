@@ -18,15 +18,22 @@ def handle_args():
                         help='Base URL of AMY API used for gathering information.')
     parser.add_argument('-o', '--output', default=sys.stdout,
                         help='Output file.  By default: stdout.')
-    parser.add_argument('-t', '--tag', action='append', choices=['SWC', 'DC'],
-                        help='Filter events by this tag.  '
-                             'You can use it multiple times.')
+    group = parser.add_mutually_exclusive_group(required=False)
+    group.add_argument('--tags-any', action='store', default=None,
+                       help='Events should have any number of these tags, but '
+                            'at least one. Mutually exclusive with --tags-all.'
+                            'Separate tags with a comma, like this: '
+                            '--tags-any=SWC,DC')
+    group.add_argument('--tags-all', action='store', default=None,
+                       help='Events should have all of these tags. Mutually '
+                            'exclusive with --tags-any. Separate tags with '
+                            'a comma, like this: --tags-all=SWC,DC')
 
     args = vars(parser.parse_args())
     return args
 
 
-def main(amy_url, output_file, tags):
+def main(amy_url, output_file, tags, all_=True):
     '''
     Fetch information and store in one YAML file.
     '''
@@ -37,11 +44,43 @@ def main(amy_url, output_file, tags):
         'airports' : fetch_info(amy_url, 'export/instructors.yaml')
     }
 
+    if all_:
+        # Fetch workshops that have all of the specified tags.
+        unique_workshops = fetch_info(amy_url, 'events/published.yaml',
+                                      tags=tags)
+    else:
+        # Fetch workshops for each tag. This is required because AMY treats
+        # tags with AND operation, while we want to have OR: "get me workshops
+        # that have either SWC tag or DC tag (or both)".
+        workshops = []
+        for tag in tags:
+            workshops.extend(fetch_info(amy_url, 'events/published.yaml',
+                                        tags=[tag]))
+
+        # Remove duplicates. We can't use set() because yaml.load returns lists
+        # which are unhashable :(
+        unique_workshops = []
+        slugs = []
+        for workshop in workshops:
+            if workshop['slug'] in slugs:
+                continue
+            else:
+                slugs.append(workshop['slug'])
+                unique_workshops.append(workshop)
+        del slugs
+        del workshops
+
+    # Always sort workshops by the ascending start date.
+    unique_workshops = sorted(unique_workshops,
+                              key=lambda w: (w['start'], w['slug']))
+
     # Adjust.
     config['workshops_past'], config['workshops_current'] = \
-        split_workshops(fetch_info(amy_url, 'events/published.yaml', tags=tags),
-                        datetime.date.today())
-    config['workshops'] = [config['workshops_past'], config['workshops_current']]
+        split_workshops(unique_workshops, datetime.date.today())
+    config['workshops'] = [
+        config['workshops_past'],
+        config['workshops_current'],
+    ]
 
     # Coalesce flag information.
     config['flags'] = {
@@ -105,5 +144,9 @@ def sort_flags(data):
 
 if __name__ == '__main__':
     args = handle_args()
-    main(amy_url=args['api_url'], output_file=args['output'], tags=args['tag'])
+    tags = args['tags_all'] or args['tags_any']
+    tags = tags.split(',') if tags else tags
+    all_ = not bool(args['tags_any'])
 
+    main(amy_url=args['api_url'], output_file=args['output'], tags=tags,
+         all_=all_)

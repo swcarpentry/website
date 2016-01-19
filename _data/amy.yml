@@ -21,7 +21,6 @@ airports:
   name: Auckland
 - country: se
   instructors:
-  - {name: Olav Vahtras, user: vahtras.olav}
   - {name: Roman Valls Guimera, user: valls-guimera.roman}
   latitude: 59.651944
   longitude: 17.918611
@@ -90,7 +89,7 @@ airports:
   instructors:
   - {name: Areej Alsheikh-Hussain, user: alsheikh-hussain.areej}
   - {name: Sam Hames, user: hames.sam}
-  - {name: Paula Andrea Martinez, user: martinez.paula}
+  - {name: Paula Andrea Andrea Martinez, user: martinez.paula}
   - {name: Amanda Miotto, user: miotto.amanda}
   - {name: Mitchell Stanton-Cook, user: stanton-cook.mitchell}
   - {name: Darya Vanichkina, user: vanichkina.darya}
@@ -101,6 +100,7 @@ airports:
 - country: us
   instructors:
   - {name: Harriet Alexander, user: alexander.harriet}
+  - {name: Trevor Bekolay, user: bekolay.trevor}
   - {name: Bob Freeman, user: freeman.robert}
   - {name: Ivan Gonzalez, user: gonzalez.ivan}
   - {name: Radhika Khetani, user: khetani.radhika}
@@ -411,6 +411,7 @@ airports:
   - {name: Aaron O'Leary, user: oleary.aaron}
   - {name: Andrew Walker, user: walker.andrew}
   - {name: Jon E Mound, user: mound.je}
+  - {name: Mike Wallis, user: wallis.mike}
   - {name: Andy Evans, user: evans.andy}
   - {name: Krzysztof Poterlowicz, user: poterlowicz.krzysztof}
   - {name: Will Furnass, user: furnass.will}
@@ -420,12 +421,12 @@ airports:
 - country: gb
   instructors:
   - {name: Luis Figueira, user: figueira.l}
+  - {name: James Derrick, user: derrick.james}
   latitude: 51.505
   longitude: 0.054167
   name: London City
 - country: us
   instructors:
-  - {name: Camille Avestruz, user: avestruz.camille}
   - {name: Mike Bayer, user: bayer.m}
   - {name: Jared Camins-Esakov, user: camins-esakov.jared}
   - {name: Timothy Cerino, user: cerino.t}
@@ -456,7 +457,6 @@ airports:
   - {name: Chris Cannam, user: cannam.c}
   - {name: Rich FitzJohn, user: fitzjohn.rich}
   - {name: Philip Fowler, user: fowler.philip}
-  - {name: Laurent Gatto, user: gatto.laurent}
   - {name: Donna Henderson, user: henderson.donna}
   - {name: James Hetherington, user: hetherington.james}
   - {name: Devasena Inupakutika, user: inupakutika.devasena}
@@ -466,11 +466,12 @@ airports:
   - {name: Dan MacLean, user: maclean.dan}
   - {name: Jens Hedegaard Nielsen, user: nielsen.jens}
   - {name: David Perez-Suarez, user: perez-suarez.david}
-  - {name: Stefan Pfenninger, user: pfenninger.s}
   - {name: Florian Rathgeber, user: rathgeber.florian}
   - {name: Mark Stillwell, user: stillwell.mark}
+  - {name: Richard Tomsett, user: tomsett.richard}
   - {name: Bogdan Vera, user: vera.b}
   - {name: Ben Waugh, user: waugh.b}
+  - {name: Arfan Ahmed, user: ahmed.arfan}
   - {name: Alys Brett, user: brett.alys}
   - {name: Bethan Davies, user: davies.bethan}
   latitude: 51.4775
@@ -539,6 +540,7 @@ airports:
   - {name: Damien Irving, user: irving.d}
   - {name: Isabell Kiral-Kornek, user: kiral-kornek.isabell}
   - {name: Scott Kolbe, user: kolbe.scott}
+  - {name: Andrew Lonsdale, user: lonsdale.andrew}
   - {name: Daniel McDonald, user: mcdonald.daniel}
   - {name: Simon Michnowicz, user: michnowicz.s}
   - {name: Juan Nunez-Iglesias, user: nunez-iglesias.juan}
@@ -577,6 +579,7 @@ airports:
   - {name: Tamer Mansour, user: mansour.tamer}
   - {name: Hamid Mokhtarzadeh, user: mokhtarzadeh.hamid}
   - {name: Ryan Williams, user: williams.ryan}
+  - {name: Jon Badalamenti, user: badalamenti.jon}
   latitude: 44.880278
   longitude: -93.216667
   name: Minneapolis St Paul, MN
@@ -632,8 +635,10 @@ airports:
   - {name: Logan Cox, user: cox.logan}
   - {name: Jonah Duckles, user: duckles.jonah}
   - {name: Mark Laufersweiler, user: laufersweiler.mark}
+  - {name: Braden Owsley, user: owsley.braden}
   - {name: Brent Shambaugh, user: shambaugh.brent}
   - {name: Mark Stacy, user: stacy.mark}
+  - {name: Blake Stamps, user: stamps.blake}
   - {name: James Adams, user: adams.james}
   - {name: Jason Sherman, user: sherman.jason}
   latitude: 35.393056
@@ -641,6 +646,7 @@ airports:
   name: Oklahoma City
 - country: us
   instructors:
+  - {name: Camille Avestruz, user: avestruz.camille}
   - {name: Dirk Eddelbuettel, user: eddelbuettel.dirk}
   latitude: 41.979444
   longitude: -87.904444
@@ -754,7 +760,6 @@ airports:
   - {name: Cody Hinchliff, user: hinchliff.cody}
   - {name: W. Trevor King, user: king.wt}
   - {name: Johnny Lin, user: lin.johnny}
-  - {name: Ben Marwick, user: marwick.ben}
   - {name: Maria McKinley, user: mckinley.maria}
   - {name: Adam Richie-Halford, user: richie-halford.adam}
   - {name: Ariel Rokem, user: rokem.a}
@@ -835,7 +840,6 @@ airports:
   - {name: Stephen Crouch, user: crouch.s}
   - {name: Ian Hawke, user: hawke.ian}
   - {name: Christian Jacobs, user: jacobs.christian}
-  - {name: Richard Tomsett, user: tomsett.richard}
   - {name: Robin Wilson, user: wilson.r}
   - {name: Olivier Philippe, user: philippe.olivier}
   - {name: Don Cruickshank, user: cruickshank.don}
@@ -857,21 +861,17 @@ airports:
   - {name: Robert Davey, user: davey.rob}
   - {name: Dureid El-Moghraby, user: el-moghraby.dureid}
   - {name: Simon Fraser, user: fraser.simon}
+  - {name: Laurent Gatto, user: gatto.laurent}
   latitude: 51.885
   longitude: 0.235
   name: Stansted
-- country: de
-  instructors:
-  - {name: Radovan Bast, user: bast.radovan}
-  latitude: 48.689722
-  longitude: 9.221944
-  name: Stuttgart
 - country: au
   instructors:
   - {name: Will Cornwell, user: cornwell.will}
   - {name: Daniel Falster, user: falster.daniel}
   - {name: Fabian Held, user: held.fabian}
   - {name: Joshua Madin, user: madin.j}
+  - {name: Ben Marwick, user: marwick.ben}
   - {name: Dan Warren, user: warren.dan}
   latitude: -33.946111
   longitude: 151.177222
@@ -996,7 +996,6 @@ airports:
   name: Victoria
 - country: ca
   instructors:
-  - {name: Trevor Bekolay, user: bekolay.trevor}
   - {name: Amy Brown, user: brown.amy}
   - {name: Arliss Collins, user: collins.arliss}
   - {name: Remi Daigle, user: daigle.remi}
@@ -1013,6 +1012,9 @@ airports:
   - {name: Greg Wilson, user: wilson.g}
   - {name: Tom Wright, user: wright.thomas}
   - {name: Brendan Smithyman, user: smithyman}
+  - {name: Sarah Meister, user: meister.sarah}
+  - {name: Ricardo Harripaul, user: harripaul.ricardo}
+  - {name: Jasmine Ren, user: jasmine.ren}
   latitude: 43.677222
   longitude: -79.630556
   name: Toronto
@@ -1030,6 +1032,7 @@ airports:
   name: Masset, BC
 - country: us
   instructors:
+  - {name: Reed Cartwright, user: cartwright.reed}
   - {name: David Dotson, user: dotson.david}
   - {name: Rachel Schwartz, user: schwartz.rachel}
   - {name: Arron Shiffer, user: shiffer.arron}
@@ -1170,6 +1173,7 @@ airports:
 - country: ca
   instructors:
   - {name: Hartmut Schmider, user: schmider.hartmut}
+  - {name: Gang Liu, user: liu.gang}
   latitude: 44.226524
   longitude: -76.595936
   name: Kingston Airport
@@ -1191,6 +1195,42 @@ airports:
   latitude: 35.213754
   longitude: -80.948194
   name: Charlotte Douglas International Airport
+- country: nl
+  instructors:
+  - {name: Carlos Martinez-Ortiz, user: martinez-ortiz.carlos}
+  latitude: 52.309686
+  longitude: 4.767438
+  name: 'Amsterdam Airport Schiphol '
+- country: 'no'
+  instructors:
+  - {name: Radovan Bast, user: bast.radovan}
+  latitude: 69.681079
+  longitude: 18.916328
+  name: Tromsø Airport
+- country: za
+  instructors:
+  - {name: Albertus Seyffert, user: seyffert.albertus}
+  latitude: -26.138773
+  longitude: 28.241339
+  name: O. R. Tambo International Airport
+- country: ch
+  instructors:
+  - {name: Stefan Pfenninger, user: pfenninger.s}
+  latitude: 47.457767
+  longitude: 8.560132
+  name: Zurich Airport
+- country: se
+  instructors:
+  - {name: Olav Vahtras, user: vahtras.olav}
+  latitude: 58.406971
+  longitude: 15.667521
+  name: Linköping City Airport
+- country: fi
+  instructors:
+  - {name: Joona Lehtomäki, user: lehtomaki.joona}
+  latitude: 60.320659
+  longitude: 24.943162
+  name: Helsinki Airport
 badges:
 - name: creator
   persons:
@@ -1407,7 +1447,7 @@ badges:
   - {name: Dan MacLean, user: maclean.dan}
   - {name: Joshua Madin, user: madin.j}
   - {name: Tamer Mansour, user: mansour.tamer}
-  - {name: Paula Andrea Martinez, user: martinez.paula}
+  - {name: Paula Andrea Andrea Martinez, user: martinez.paula}
   - {name: Sina Masoud-Ansari, user: masoud-ansari.sina}
   - {name: Daniel McDonald, user: mcdonald.daniel}
   - {name: Steve McGough, user: mcgough.s}
@@ -1783,13 +1823,159 @@ badges:
 - name: dc-instructor
   persons: []
 flags:
-  airports: [au, br, ca, cn, de, dk, es, fr, gb, ie, il, in, it, 'no', nz, pl, ro,
-    se, sg, th, us, ve, za]
+  airports: [au, br, ca, ch, cn, de, dk, es, fi, fr, gb, ie, il, in, it, nl, 'no',
+    nz, pl, ro, se, sg, th, us, ve, za]
   workshops: [au, be, br, ca, ch, cn, cy, de, dk, es, fi, fr, gb, gh, id, in, it,
     jo, ke, kr, lb, nl, 'no', nz, pl, sa, se, th, us, ve, w3, za]
-timestamp: 20160110T062904Z
+timestamp: 20160119T142122Z
 workshops:
 - &id002
+  - address: room LSC3, 2350 Health Sciences Mall, UBC
+    contact: alex.razoumov@westgrid.ca
+    country: ca
+    end: 2016-01-17
+    eventbrite_id: '19988004660'
+    humandate: Jan 16-17, 2016
+    latitude: 49.262465
+    longitude: -123.24509
+    slug: 2016-01-16-ubc
+    start: 2016-01-16
+    tags:
+    - {name: SWC}
+    url: https://computecanada.github.io/2016-01-16-ubc/
+    venue: University of British Columbia
+  - address: Engineering 6 building room 4022, 200 University Avenue West, Waterloo,
+      ON, N2L 3G1
+    contact: i2kajic@uwaterloo.ca
+    country: ca
+    end: 2016-01-17
+    eventbrite_id: '20233446784'
+    humandate: Jan 16-17, 2016
+    latitude: 43.473226
+    longitude: -80.538639
+    slug: 2016-01-16-waterloo
+    start: 2016-01-16
+    tags:
+    - {name: SWC}
+    url: https://ikajic.github.io/2016-01-16-waterloo/
+    venue: University of Waterloo
+  - address: 190 Doe Library, University of California, Berkeley
+    contact: bids@berkeley.edu
+    country: us
+    end: 2016-01-15
+    eventbrite_id: ''
+    humandate: Jan 14-15, 2016
+    latitude: 37.872208
+    longitude: -122.259493
+    slug: 2016-01-14-berkeley
+    start: 2016-01-14
+    tags:
+    - {name: SWC}
+    url: https://bids.github.io/2016-01-14-berkeley/
+    venue: Berkeley Institute for Data Science
+  - address: 3rd Floor Teaching Lab, Discovery Building, 330 North Orchard St. Madison,
+      WI
+    contact: ContactACI@lists.wisc.edu
+    country: us
+    end: 2016-01-15
+    eventbrite_id: ''
+    humandate: Jan 14-15, 2016
+    latitude: 43.0729124
+    longitude: -89.4080793
+    slug: 2016-01-14-uwmadison
+    start: 2016-01-14
+    tags:
+    - {name: SWC}
+    url: https://uw-madison-aci.github.io/2016-01-14-uwmadison/
+    venue: UW-Madison
+  - address: The Center for Teaching Excellence (The Innovation Lab, Room 246A), O'Neill
+      Library, Chestnut Hill, MA 02467-3810
+    contact: iglpdc+bc@gmail.com
+    country: us
+    end: 2016-01-14
+    eventbrite_id: '19689859901'
+    humandate: Jan 13-14, 2016
+    latitude: 42.336529
+    longitude: -71.169151
+    slug: 2016-01-13-boston
+    start: 2016-01-13
+    tags:
+    - {name: SWC}
+    url: https://iglpdc.github.io/2016-01-13-bc/
+    venue: Boston College Libraries, National Networks of Libraries of Medicine, New
+      England Region
+  - address: Bizzell Library HCLC Classroom
+    contact: laufers@ou.edu
+    country: us
+    end: 2016-01-13
+    eventbrite_id: '20427171219'
+    humandate: Jan 12-13, 2016
+    latitude: 35.208275
+    longitude: -97.445848
+    slug: 2016-01-12-ou
+    start: 2016-01-12
+    tags:
+    - {name: SWC}
+    url: https://oulib-swc.github.io/2016-01-12-ou/
+    venue: University of Oklahoma
+  - address: Room 1G04, Dalhousie Building, University of Dundee, Dundee, Scotland,
+      UK, DD1 4HN
+    contact: C.Cole@dundee.ac.uk
+    country: gb
+    end: 2016-01-12
+    eventbrite_id: '19931324127'
+    humandate: Jan 11-12, 2016
+    latitude: 56.459249
+    longitude: -2.981933
+    slug: 2016-01-11-dundee
+    start: 2016-01-11
+    tags:
+    - {name: SWC}
+    url: https://widdowquinn.github.io/2016-01-11-dundee/
+    venue: University of Dundee
+  - address: School of Applied Sciences, Huddersfield, HD1 3DH
+    contact: j.bryk@hud.ac.uk
+    country: gb
+    end: 2016-01-12
+    eventbrite_id: ''
+    humandate: Jan 11-12, 2016
+    latitude: 53.642603
+    longitude: -1.778514
+    slug: 2016-01-11-huddersfield
+    start: 2016-01-11
+    tags:
+    - {name: SWC}
+    url: https://callaghanmt.github.io/2016-01-11-huddersfield/
+    venue: The University of Huddersfield
+  - address: 1050 Massachusetts Ave., Cambridge, MA (2nd floor Conference Room)
+    contact: jroth@nber.org
+    country: us
+    end: 2016-01-12
+    eventbrite_id: ''
+    humandate: Jan 11-12, 2016
+    latitude: 42.36997
+    longitude: -71.113038
+    slug: 2016-01-11-nber
+    start: 2016-01-11
+    tags:
+    - {name: SWC}
+    url: https://iglpdc.github.io/2016-01-11-nber/
+    venue: National Bureau of Economic Research
+  - address: 117 - Physics and Astronomy Building, 1151 Richmond Street, London ON  N6A
+      3K7, Canada
+    contact: tyson@sharcnet.ca
+    country: ca
+    end: 2016-01-10
+    eventbrite_id: ''
+    humandate: Jan 09-10, 2016
+    latitude: 43.00979
+    longitude: -81.272822
+    slug: 2016-01-09-uwo
+    start: 2016-01-09
+    tags:
+    - {name: SWC}
+    url: https://computecanada.github.io/2016-01-09-uwo/
+    venue: Western University
   - address: Bateman Physical Sciences H-Wing, PSH 356
     contact: vfaghirh@asu.edu
     country: us
@@ -1862,20 +2048,6 @@ workshops:
     - {name: SWC}
     url: https://abostroem.github.io/2016-01-03-aas/
     venue: American Astronomical Society 227th Meeting
-  - address: Piscataway, New Jersey
-    contact: janet.alder@rutgers.edu
-    country: us
-    end: 2015-12-16
-    eventbrite_id: ''
-    humandate: Dec 15-16, 2015
-    latitude: 40.519011
-    longitude: -74.443728
-    slug: 2015-12-15-rutgers
-    start: 2015-12-15
-    tags:
-    - {name: DC}
-    url: https://cfriedline.github.io/2015-12-15-rutgers/
-    venue: Rutgers University
   - address: Room 2207 & Room 2209, Building 85
     contact: s.hettrick@software.ac.uk
     country: gb
@@ -2036,80 +2208,6 @@ workshops:
     - {name: SWC}
     url: https://resbaz.github.io/2015-12-07-Python-for-Science/
     venue: University of Melbourne
-  - address: Rijk Zwaan
-    contact: ''
-    country: nl
-    end: 2015-12-08
-    eventbrite_id: ''
-    humandate: Dec 07-08, 2015
-    latitude: 51.96621
-    longitude: 4.251641
-    slug: 2015-12-07-rijkzwaan
-    start: 2015-12-07
-    tags:
-    - {name: DC}
-    url: http://www.datacarpentry.org/2015-12-07-Rijkzwaan/
-    venue: Rijk Zwaan
-  - address: Internet
-    contact: gvwilson@software-carpentry.org
-    country: w3
-    end: 2015-12-08
-    eventbrite_id: ''
-    humandate: Dec 07-08, 2015
-    latitude: -48.876667
-    longitude: -123.393333
-    slug: 2015-12-07-ttt-toronto
-    start: 2015-12-07
-    tags:
-    - {name: TTT}
-    - {name: online}
-    url: https://gvwilson.github.io/2015-12-07-ttt-toronto/
-    venue: Internet
-  - address: Internet
-    contact: Fiona.C.Tweedie@gmail.com
-    country: w3
-    end: 2015-12-08
-    eventbrite_id: ''
-    humandate: Dec 07-08, 2015
-    latitude: -48.876667
-    longitude: -123.393333
-    slug: 2015-12-07-ttt-Au
-    start: 2015-12-07
-    tags:
-    - {name: TTT}
-    - {name: online}
-    url: https://digital-fabulism.github.io/2015-12-07-ttt-Au/
-    venue: Internet
-  - address: Internet
-    contact: s.crouch@software.ac.uk
-    country: w3
-    end: 2015-12-08
-    eventbrite_id: ''
-    humandate: Dec 07-08, 2015
-    latitude: -48.876667
-    longitude: -123.393333
-    slug: 2015-12-07-eu-instructor-training
-    start: 2015-12-07
-    tags:
-    - {name: TTT}
-    - {name: online}
-    url: https://steve-crouch.github.io/2015-12-07-eu-instructor-training/
-    venue: Internet
-  - address: Internet
-    contact: ckoch5@wisc.edu
-    country: w3
-    end: 2015-12-08
-    eventbrite_id: ''
-    humandate: Dec 07-08, 2015
-    latitude: -48.876667
-    longitude: -123.393333
-    slug: 2015-12-07-na-instructor-training
-    start: 2015-12-07
-    tags:
-    - {name: TTT}
-    - {name: online}
-    url: https://christinalk.github.io/2015-12-07-na-instructor-training/
-    venue: Internet
   - address: The Science Library, Moltke Moes Road 35, 0851 Oslo
     contact: hugues.fontenelle@medisin.uio.no
     country: 'no'
@@ -2195,49 +2293,6 @@ workshops:
     - {name: SWC}
     url: https://cbig.github.io/2015-11-25-helsinki/
     venue: University of Helsinki
-  - address: 1200 E. California Blvd, Pasadena, CA
-    contact: Gail Clement
-    country: us
-    end: 2015-11-24
-    eventbrite_id: ''
-    humandate: Nov 23-24, 2015
-    latitude: 34.139011
-    longitude: -118.124514
-    slug: 2015-11-23-caltech
-    start: 2015-11-23
-    tags:
-    - {name: DC}
-    url: http://www.datacarpentry.org/2015-11-23-caltech/
-    venue: California Institute of Technology
-  - address: Atlas Rooms 1 and 2, Kilburn Building, School of Computer Science, University
-      of Manchester, Oxford Road, Manchester M13 9PL
-    contact: a.nenadic@manchester.ac.uk
-    country: gb
-    end: 2015-11-24
-    eventbrite_id: ''
-    humandate: Nov 23-24, 2015
-    latitude: 53.467674
-    longitude: -2.233924
-    slug: 2015-11-23-instructor-training-manchester
-    start: 2015-11-23
-    tags:
-    - {name: TTT}
-    url: https://apawlik.github.io/2015-11-23-instructor-training-manchester/
-    venue: University of Manchester
-  - address: LAB-14, 700 Swanston Street, Carlton VICTORIA 3053
-    contact: crhall@unimelb.edu.au
-    country: au
-    end: 2015-11-24
-    eventbrite_id: '18773705659'
-    humandate: Nov 23-24, 2015
-    latitude: -37.800189
-    longitude: 144.964362
-    slug: datacarpentry_2015-11-23_VLSCI
-    start: 2015-11-23
-    tags:
-    - {name: DC}
-    url: https://vlsci.github.io/datacarpentry_2015-11-23_VLSCI/
-    venue: VLSCI, University of Melbourne
   - address: Level 4 Mathews Building, UNSW
     contact: nchlshnnh@gmail.com
     country: au
@@ -2551,20 +2606,6 @@ workshops:
     - {name: SWC}
     url: https://luispedro.github.io/2015-11-04-embl/
     venue: European Molecular Biology Laboratory (EMBL)
-  - address: Earth Sciences Building, Room 908, University of Calgary
-    contact: ''
-    country: us
-    end: 2015-11-05
-    eventbrite_id: ''
-    humandate: Nov 04-05, 2015
-    latitude: 51.076359
-    longitude: -114.12871
-    slug: 2015-11-04-ACUNS
-    start: 2015-11-04
-    tags:
-    - {name: DC}
-    url: http://www.datacarpentry.org/2015-11-04-ACUNS/
-    venue: Arctic Institute of North America (ACUNS) Student Conference
   - address: Massey University, Albany
     contact: events@nesi.org.nz
     country: nz
@@ -2593,34 +2634,6 @@ workshops:
     - {name: SWC}
     url: https://bw4sz.github.io/2015-11-03-PNNL/
     venue: Pacific Northwest National Laboratory
-  - address: Avenue Louise/Louizalaan 231, 1050 Brussels
-    contact: leszek.tarkowski@gmail.com
-    country: be
-    end: 2015-11-02
-    eventbrite_id: '18312852234'
-    humandate: Nov 02-02, 2015
-    latitude: 50.825349
-    longitude: 4.365441
-    slug: 2015-11-02-DC-Brussels
-    start: 2015-11-02
-    tags:
-    - {name: DC}
-    url: https://leszektarkowski.github.io/2015-11-02-DC-Brussels/
-    venue: BELSPO
-  - address: TBC
-    contact: support@archer.ac.uk
-    country: gb
-    end: 2015-10-30
-    eventbrite_id: ''
-    humandate: Oct 29-30, 2015
-    latitude: 53.806485
-    longitude: -1.555022
-    slug: 2015-10-29-Leeds-DC
-    start: 2015-10-29
-    tags:
-    - {name: DC}
-    url: https://hpcarcher.github.io/2015-10-29-Leeds-DC/
-    venue: University of Leeds
   - address: Local PLT-3928, 1065, avenue de la Médecine, Québec, Qc
     contact: support@calculquebec.ca
     country: ca
@@ -2850,20 +2863,6 @@ workshops:
     - {name: SWC}
     url: https://philipwfowler.github.io/2015-10-12-cecam-julich/
     venue: Forschungszentrum Jülich
-  - address: New Law School Seminar 102, University of Sydney
-    contact: combine@combine.org.au
-    country: au
-    end: 2015-10-08
-    eventbrite_id: ''
-    humandate: Oct 07-08, 2015
-    latitude: -33.887674
-    longitude: 151.19028
-    slug: 2015-10-07-R-Data-Sydney
-    start: 2015-10-07
-    tags:
-    - {name: DC}
-    url: https://combine-australia.github.io/2015-10-07-R-Data-Sydney/
-    venue: COMBINE - University of Sydney
   - address: 109 Carrigan Drive Burlington, Vermont 05405.
     contact: edmund.m.hart@gmail.com
     country: us
@@ -3075,20 +3074,6 @@ workshops:
     - {name: SWC}
     url: http://bioconnector.org/2015-03-05-uvasom/
     venue: National Institute of Standards and Technology
-  - address: Magadi Road, Nairobi, Kenya
-    contact: ''
-    country: ke
-    end: 2015-09-24
-    eventbrite_id: ''
-    humandate: Sep 23-24, 2015
-    latitude: -1.4072994
-    longitude: 36.7218768
-    slug: 2015-09-23-TDWG
-    start: 2015-09-23
-    tags:
-    - {name: DC}
-    url: http://www.datacarpentry.org/2015-09-23-TDWG/
-    venue: Multimedia University of Kenya
   - address: Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences,
       Telegrafenberg, 14473 Potsdam
     contact: ''
@@ -3118,20 +3103,6 @@ workshops:
     - {name: SWC}
     url: https://douglatornell.github.io/2015-09-22-ubc/
     venue: University of British Columbia
-  - address: 1 Shields Ave, Davis, CA 95616
-    contact: ''
-    country: us
-    end: 2015-09-23
-    eventbrite_id: ''
-    humandate: Sep 22-23, 2015
-    latitude: 38.54
-    longitude: 121.75
-    slug: 2015-09-22-ucdavis
-    start: 2015-09-22
-    tags:
-    - {name: DC}
-    url: http://www.datacarpentry.org/2015-09-22-UCDavis/
-    venue: UC Davis
   - address: Engineering 6 room 4022, 200 University Ave, Waterloo
     contact: nmabukhdeir@uwaterloo.ca
     country: ca
@@ -3203,20 +3174,6 @@ workshops:
     - {name: SWC}
     url: https://emilydolson.github.io/2015-09-15-msu/
     venue: Michigan State University
-  - address: Stuart 101, 5835 South Greenwood Avenue Chicago, IL 60637
-    contact: jdblischak@uchicago.edu
-    country: us
-    end: 2015-09-16
-    eventbrite_id: ''
-    humandate: Sep 15-16, 2015
-    latitude: 41.788401
-    longitude: -87.599099
-    slug: 2015-09-15-chicago
-    start: 2015-09-15
-    tags:
-    - {name: online}
-    url: https://jdblischak.github.io/2015-09-15-chicago/
-    venue: University of Chicago
   - address: Liberty Building G33, University of Leeds Business School, LS6 1AN
     contact: m.callaghan@leeds.ac.uk
     country: gb
@@ -3245,20 +3202,6 @@ workshops:
     - {name: SWC}
     url: https://rgaiacs.github.io/2015-09-10-usp/
     venue: Universidade de São Paulo
-  - address: Bioinformatics Training Room, Craik-Marshall Building, Downing Site
-    contact: Gabriella Rustici <gr231@cam.ac.uk>
-    country: gb
-    end: 2015-09-11
-    eventbrite_id: ''
-    humandate: Sep 10-11, 2015
-    latitude: 52.201951
-    longitude: 0.122514
-    slug: 2015-09-10-CAM
-    start: 2015-09-10
-    tags:
-    - {name: DC}
-    url: https://lgatto.github.io/2015-09-10-CAM/
-    venue: University of Cambridge
   - address: Level 3, Science Teaching Building, Bld 136, The Australian National
       University, Canberra.
     contact: canberra@combine.org.au
@@ -3445,21 +3388,6 @@ workshops:
     - {name: SWC}
     url: https://sungeunbae.github.io/2015-08-24-vuw/
     venue: NeSI - Wellington Region
-  - address: Zuckerman Research Center Room 105, Memorial Sloan Kettering Hospital<br>417
-      East 68th St. New York, NY 10065<br>
-    contact: tkteal@datacarpentry.org
-    country: us
-    end: 2015-08-25
-    eventbrite_id: ''
-    humandate: Aug 24-25, 2015
-    latitude: 40.764908
-    longitude: -73.9565137
-    slug: 2015-08-24-Sloan-Kettering
-    start: 2015-08-24
-    tags:
-    - {name: DC}
-    url: https://datacarpentry.github.io/2015-08-24-Sloan-Kettering/
-    venue: Sloan-Kettering
   - address: Av. Ademar de Barros , 500 , Ondina , 40170-110 , Salvador
     contact: ocefpaf@gmail.com
     country: br
@@ -3474,20 +3402,6 @@ workshops:
     - {name: SWC}
     url: https://ocefpaf.github.io/2015-08-31-UFBA/
     venue: Universidade Federal da Bahia, Salvador
-  - address: Elings Hall
-    contact: ''
-    country: us
-    end: 2015-08-25
-    eventbrite_id: ''
-    humandate: Aug 24-25, 2015
-    latitude: 42.027372
-    longitude: -93.652714
-    slug: 2015-08-24-isu
-    start: 2015-08-24
-    tags:
-    - {name: DC}
-    url: http://www.datacarpentry.org/2015-08-24-ISU/
-    venue: Iowa State University
   - address: Technological Institute, M152, McCormick, Evanston Campus
     contact: milhans@northwestern.edu
     country: us
@@ -3673,20 +3587,6 @@ workshops:
     - {name: SWC}
     url: https://dipnet.github.io/2015-08-03-IBRC-Indonesia/
     venue: Indonesia Biodiversity Research Center, Bali
-  - address: Minneapolis, Minnesota
-    contact: ''
-    country: us
-    end: 2015-07-31
-    eventbrite_id: ''
-    humandate: Jul 30-31, 2015
-    latitude: 44.9778
-    longitude: 93.265
-    slug: 2015-07-30-ASPB
-    start: 2015-07-30
-    tags:
-    - {name: DC}
-    url: http://www.datacarpentry.org/2015-07-30-ASPB/
-    venue: Minneapolis, Minnesota
   - address: Route de Meyrin 385, 1217 Meyrin, Switzerland
     contact: remi.emonet@reverse--com.heeere
     country: ch
@@ -3757,20 +3657,6 @@ workshops:
     - {name: SWC}
     url: https://fasrc.github.io/2015-07-22_SWC-R/
     venue: Harvard University FAS Research Computing
-  - address: Bioscience Building,  951 Carrier Drive
-    contact: ''
-    country: us
-    end: 2015-07-23
-    eventbrite_id: ''
-    humandate: Jul 22-23, 2015
-    latitude: 38.434971
-    longitude: -78.869273
-    slug: 2015-07-22-JamesMadison
-    start: 2015-07-22
-    tags:
-    - {name: DC}
-    url: http://www.datacarpentry.org/2015-07-22-JamesMadison/
-    venue: James Madison University
   - address: Pod B (next door to ARRC Building), 26 Dick Perry Avenue, Kensington
       WA 6151
     contact: a.rohl@curtin.edu.au
@@ -3886,20 +3772,6 @@ workshops:
     - {name: SWC}
     url: https://resbaz.github.io/2015-07-13-unimelb/
     venue: University of Melbourne
-  - address: 1950 Marine Drive, West Vancouver, B.C., V7V 1J8
-    contact: lbrockington@westvanlibrary.ca
-    country: ca
-    end: 2015-07-10
-    eventbrite_id: ''
-    humandate: Jul 09-10, 2015
-    latitude: 49.328984
-    longitude: -123.165847
-    slug: 2015-07-09-vpl
-    start: 2015-07-09
-    tags:
-    - {name: LC}
-    url: https://cmacdonell.github.io/2015-07-09-vpl/
-    venue: West Vancouver Memorial Library, Welsh Hall
   - address: 251 LeConte Hall, University of California, Berkeley
     contact: marwahaha@berkeley.edu
     country: us
@@ -4098,20 +3970,6 @@ workshops:
     - {name: SWC}
     url: https://ashwinsrnth.github.io/2015-06-24-gatech/
     venue: Georgia Institute of Technology
-  - address: Utrecht, Netherlands
-    contact: data-carpentry@software-carpentry.org
-    country: nl
-    end: 2015-06-25
-    eventbrite_id: ''
-    humandate: Jun 24-25, 2015
-    latitude: 52.090737
-    longitude: 5.12142
-    slug: 2015-06-24-dc-utrecht
-    start: 2015-06-24
-    tags:
-    - {name: DC}
-    url: https://apawlik.github.io/2015-06-24-dc-utrecht/
-    venue: Utrecht University
   - address: Breezeway Bioinformatics Training Room Bldg 1 Unit 5 Room 1500 600 Main
       Street Bar Harbor, Maine
     contact: susan.mcclatchy@jax.org
@@ -4268,20 +4126,6 @@ workshops:
     - {name: SWC}
     url: https://mckays630.github.io/2015-06-17-ucstorrs/
     venue: University of Connecticut Storrs
-  - address: Cambridge, Massachusetts
-    contact: admin@software-carpentry.org
-    country: us
-    end: 2015-06-17
-    eventbrite_id: ''
-    humandate: Jun 16-17, 2015
-    latitude: 42.37771
-    longitude: -71.11501
-    slug: 2015-06-16-ttt-aciref
-    start: 2015-06-16
-    tags:
-    - {name: TTT}
-    url: https://swcarpentry.github.io/2015-06-16-ttt-aciref/
-    venue: Harvard University
   - address: ' Craik-Marshall Building, Downing Site, Cambridge'
     contact: ''
     country: gb
@@ -4325,20 +4169,6 @@ workshops:
     - {name: SWC}
     url: https://iglpdc.github.io/2015-06-15-uconn/
     venue: University of Connecticut<br>Department of Marine Sciences
-  - address: University of Arizona
-    contact: gvwilson@software-carpentry.org
-    country: us
-    end: 2015-06-13
-    eventbrite_id: ''
-    humandate: Jun 12-13, 2015
-    latitude: 32.248707
-    longitude: -110.987023
-    slug: 2015-06-12-ttt-iplant
-    start: 2015-06-12
-    tags:
-    - {name: TTT}
-    url: https://swcarpentry.github.io/2015-06-12-ttt-iplant/
-    venue: iPlant
   - address: NCI Shady Grove, 9609 Medical Center Dr, Rockville, MD 20850 Training
       Room 2W908
     contact: Lisa Federer <lisa.federer@nih.gov>
@@ -4468,20 +4298,6 @@ workshops:
     - {name: SWC}
     url: https://swcarpentry.github.io/2015-05-30-hastac-swc/
     venue: HASTAC Conference (Software Carpentry)
-  - address: 255 Old Horticulture, Michigan State University
-    contact: gvwilson@software-carpentry.org
-    country: us
-    end: 2015-05-31
-    eventbrite_id: ''
-    humandate: May 30-31, 2015
-    latitude: 42.73226
-    longitude: -84.478175
-    slug: 2015-05-30-HASTAC
-    start: 2015-05-30
-    tags:
-    - {name: DC}
-    url: https://datacarpentry.github.io/2015-05-30-HASTAC/
-    venue: HASTAC Conference (Data Carpentry)
   - address: Stillwater, OK
     contact: dana.brunson@okstate.edu
     country: us
@@ -4723,21 +4539,6 @@ workshops:
     - {name: SWC}
     url: https://karawoo.github.io/2015-04-27-wsu/
     venue: Washington State University
-  - address: Branner Earth Sciences Library, Teaching Corner, Mitchell Earth Sciences
-      Building 2nd Floor
-    contact: amyhodge@stanford.edu
-    country: us
-    end: 2015-04-24
-    eventbrite_id: ''
-    humandate: Apr 23-24, 2015
-    latitude: 37.426423
-    longitude: -122.172659
-    slug: 2015-04-23-stanford
-    start: 2015-04-23
-    tags:
-    - {name: DC}
-    url: https://datacarpentry.github.io/2015-04-23-stanford/
-    venue: Stanford
   - address: Peter Kiewit Institute (PKI) Room 158 / 1110 S. 67th St., Omaha, NE 68182
     contact: eharstad@unl.edu
     country: us
@@ -5051,20 +4852,6 @@ workshops:
     - {name: SWC}
     url: https://jlant.github.io/2015-03-19-arkansas/
     venue: University of Arkansas
-  - address: Espoo, Finland
-    contact: data-carpentry@software-carpentry.org
-    country: fi
-    end: 2015-03-18
-    eventbrite_id: ''
-    humandate: Mar 18-18, 2015
-    latitude: 60.205491
-    longitude: 24.6559
-    slug: 2015-03-18-csc-espoo
-    start: 2015-03-18
-    tags:
-    - {name: DC}
-    url: https://apawlik.github.io/2015-03-18-csc-espoo/
-    venue: CSC - IT Center for Science
   - address: Merrill-Cazier Library - Room 101, 3000 Old Main Hill, Logan, Utah, 84322
     contact: ethan.white@usu.edu
     country: us
@@ -5079,20 +4866,6 @@ workshops:
     - {name: SWC}
     url: https://weecology.github.io/2015-03-16-utahstate/
     venue: Utah State University
-  - address: Indian Statistical Institute
-    contact: admin@datacarpentry.org
-    country: in
-    end: 2015-03-13
-    eventbrite_id: ''
-    humandate: Mar 10-13, 2015
-    latitude: 37.426423
-    longitude: -122.172659
-    slug: 2015-03-09-ISI-CODATA
-    start: 2015-03-10
-    tags:
-    - {name: DC}
-    url: https://datacarpentry.github.io/2015-03-09-ISI-CODATA/
-    venue: ISI CODATA International Training Workshop on Big Data
   - address: 7 World Trade Center, 250 Greenwich Street, 40th floor, New York, NY
       10007-2157
     contact: yfortis@nyas.org
@@ -5320,20 +5093,6 @@ workshops:
     - {name: SWC}
     url: https://qjcg.github.io/2015-02-14-ucla/
     venue: University of California, Los Angeles (UCLA)
-  - address: Shields Library Instruction Room (2nd floor)
-    contact: tkteal@datacarpentry.org
-    country: us
-    end: 2015-02-10
-    eventbrite_id: ''
-    humandate: Feb 09-10, 2015
-    latitude: 38.544907
-    longitude: -121.740517
-    slug: 2015-02-09-ucdavis
-    start: 2015-02-09
-    tags:
-    - {name: DC}
-    url: https://datacarpentry.github.io/2015-02-09-ucdavis/
-    venue: UC Davis
   - address: iSchool Faculty of Information, Robarts Library, St. George Campus, University
       of Toronto
     contact: ais.ischool@utoronto.ca
@@ -5422,6 +5181,20 @@ workshops:
     - {name: SWC}
     url: https://uiuc-cse.github.io/2015-01-29-uiuc/
     venue: University of Illinois
+  - address: FNH 50, 2205 East Mall, Vancouver
+    contact: guzman@zoology.ubc.ca
+    country: ca
+    end: 2015-01-30
+    eventbrite_id: '20443260342'
+    humandate: Jan 29-30, 2015
+    latitude: 49.264142
+    longitude: -123.249592
+    slug: 2016-01-29-UBC
+    start: 2015-01-29
+    tags:
+    - {name: SWC}
+    url: https://lmguzman.github.io/2016-01-29-UBC/
+    venue: University of British Columbia
   - address: Biomedical and Physical Sciences Building, East Lansing, Michigan, 48824
     contact: joshua.r.herr@gmail.com
     country: us
@@ -5465,34 +5238,6 @@ workshops:
     - {name: SWC}
     url: https://naupaka.github.io/2015-01-26-tulane/
     venue: Tulane University
-  - address: Mann Library, Room B30A, 237 Mann Drive, Ithaca, NY
-    contact: mudrak@cornell.edu
-    country: us
-    end: 2015-01-16
-    eventbrite_id: '14893607180'
-    humandate: Jan 15-16, 2015
-    latitude: 42.448938
-    longitude: -76.476148
-    slug: 2015-01-15-cornell
-    start: 2015-01-15
-    tags:
-    - {name: DC}
-    url: https://emudrak.github.io/2015-01-15-cornell/
-    venue: Cornell University Research Community
-  - address: 2119 Hornbake South, College Park, MD
-    contact: msmorul@sesync.org
-    country: us
-    end: 2015-01-16
-    eventbrite_id: '14847664765'
-    humandate: Jan 15-16, 2015
-    latitude: 38.988202
-    longitude: -76.941699
-    slug: 2015-01-15-umd
-    start: 2015-01-15
-    tags:
-    - {name: DC}
-    url: https://sesync-ci.github.io/2015-01-15-umd/
-    venue: University of Maryland
   - address: WRF Data Science Studio, Physics/Astronomy Tower (6th Floor), University
       of Washington, Seattle, WA
     contact: bmarwick@uw.edu
@@ -5679,35 +5424,6 @@ workshops:
     - {name: SWC}
     url: https://geocarpentry.github.io/2015-01-07-instaar/
     venue: Institute of Arctic and Alpine Research (INSTAAR), Room 620
-  - address: Mathematics Building, Room 135, UC Boulder
-    contact: admin@software-carpentry.org
-    country: us
-    end: 2015-01-06
-    eventbrite_id: '14752447969'
-    humandate: Jan 05-06, 2015
-    latitude: 40.00796
-    longitude: -105.264317
-    slug: 2015-01-05-wise-cuboulder
-    start: 2015-01-05
-    tags:
-    - {name: WiSE}
-    url: https://christinalk.github.io/2015-01-05-wise-cuboulder/
-    venue: Women in Science and Engineering, University of Colorado
-  - address: North Campus Research Complex, Building 10 Room G064 and the South Atrium,
-      2800 Plymouth Road, Ann Arbor, MI
-    contact: admin@software-carpentry.org
-    country: us
-    end: 2015-01-06
-    eventbrite_id: ''
-    humandate: Jan 05-06, 2015
-    latitude: 42.29932560385452
-    longitude: -83.70677590370178
-    slug: 2015-01-05-wise-umich
-    start: 2015-01-05
-    tags:
-    - {name: WiSE}
-    url: https://danabauer.github.io/2015-01-05-wise-umich/
-    venue: Women in Science and Engineering, University of Michigan
   - address: Room 609, Seattle Convention Center, Seattle WA
     contact: kabostroem@ucdavis.edu
     country: us
@@ -5764,20 +5480,6 @@ workshops:
     - {name: SWC}
     url: https://SWC-OSG-Workshop.github.io/2014-12-15-UChicago/
     venue: University of Chicago
-  - address: 3rd floor Training Room, 7 Sir Winston Churchill Square
-    contact: vvarga@epl.ca
-    country: ca
-    end: 2014-12-15
-    eventbrite_id: null
-    humandate: Dec 14-15, 2014
-    latitude: 53.5430628
-    longitude: -113.4897479
-    slug: 2014-12-14-epl
-    start: 2014-12-14
-    tags:
-    - {name: LC}
-    url: https://vixvarga.github.io/12-14-epl/
-    venue: Edmonton Public Library
   - address: Auditório do BEG, CCB. Entrada para o campus fica na esquina entre a
       Rua Professor Lauro Caldeira de Andrara e a Rua João Pio Duarte Silva - entrada
       do bairro Córrego Grande). Nos prédios do CCB (MIP), procure o segundo bloco,
@@ -6150,20 +5852,6 @@ workshops:
     - {name: SWC}
     url: https://joryschossau.github.io/2014-09-30-msu/
     venue: Michigan State University
-  - address: iDigBio at University of Florida, Gainesville, FL
-    contact: data-carpentry@software-carpentry.org
-    country: us
-    end: 2014-09-30
-    eventbrite_id: null
-    humandate: Sep 29-30, 2014
-    latitude: 42.723303
-    longitude: -84.47978
-    slug: 2014-09-29-iDigBio
-    start: 2014-09-29
-    tags:
-    - {name: DC}
-    url: https://datacarpentry.github.io/2014-09-29-iDigBio/
-    venue: University of Florida
   - address: Life Sciences C-Wing, Room 180/182
     contact: eric.d.johnson@asu.edu
     country: us
@@ -6481,20 +6169,6 @@ workshops:
     - {name: SWC}
     url: https://mollygibson.github.io/2014-08-11-wustl/
     venue: Washington University School of Medicine
-  - address: New York City
-    contact: gvwilson@software-carpentry.org
-    country: us
-    end: 2014-08-07
-    eventbrite_id: null
-    humandate: Aug 06-07, 2014
-    latitude: 40.751901
-    longitude: -73.981692
-    slug: 2014-08-06-nypl
-    start: 2014-08-06
-    tags:
-    - {name: LC}
-    url: https://swcarpentry.github.io/2014-08-06-nypl/
-    venue: New York Public Library
   - address: 1261 Duck Road Kitty Hawk, NC 27949-4472
     contact: aron@ahmadia.net
     country: us
@@ -6537,20 +6211,6 @@ workshops:
     - {name: SWC}
     url: https://jensv.github.io/2014-07-28-stanford/
     venue: Stanford University
-  - address: ' '
-    contact: tkteal@msu.edu
-    country: us
-    end: 2014-07-25
-    eventbrite_id: null
-    humandate: Jul 24-25, 2014
-    latitude: 42.723303
-    longitude: -84.47978
-    slug: 2014-07-24-beacon
-    start: 2014-07-24
-    tags:
-    - {name: DC}
-    url: https://datacarpentry.github.io/2014-07-24-beacon/
-    venue: MSU BEACON
   - address: 19700 Helix Drive, Ashburn, VA 20147
     contact: sheldon.mckay@gmail.com
     country: us
@@ -6610,20 +6270,6 @@ workshops:
     - {name: SWC}
     url: https://swcarpentry.github.io/2014-07-17-aspb/
     venue: American Society of Plant Biologists
-  - address: Mozilla Toronto, 366 Adelaide Street West, Toronto, Ontario
-    contact: admin@software-carpentry.org
-    country: ca
-    end: 2014-07-16
-    eventbrite_id: '11727066973'
-    humandate: Jul 15-16, 2014
-    latitude: 43.64711
-    longitude: -79.39423
-    slug: 2014-07-15-toronto
-    start: 2014-07-15
-    tags:
-    - {name: LC}
-    url: https://swcarpentry.github.io/2014-07-15-toronto/
-    venue: Librarians in Toronto
   - address: Kenneth C. Rowe Management Building, Room 1014
     contact: diego.barneche@mq.edu.au
     country: ca
@@ -6652,20 +6298,6 @@ workshops:
     - {name: SWC}
     url: https://DevasenaInupakutika.github.io/2014-07-10-Nottingham/
     venue: The University of Nottingham
-  - address: Stanley Milner Library, 7 Sir Winston Churchill Square, Edmonton, AB
-    contact: macdonellc4@macewan.ca
-    country: ca
-    end: 2014-07-11
-    eventbrite_id: '11668602103'
-    humandate: Jul 10-11, 2014
-    latitude: 53.542948
-    longitude: -113.489552
-    slug: 2014-07-10-epl
-    start: 2014-07-10
-    tags:
-    - {name: LC}
-    url: https://cmacdonell.github.io/2014-07-10-epl/
-    venue: Software Skills for Librarians at EPL
   - address: Frisco, CO, USA
     contact: joshua.r.herr@gmail.com
     country: us
@@ -6694,20 +6326,6 @@ workshops:
     - {name: SWC}
     url: https://guyrt.github.io/2014-07-08-stonybrook/
     venue: Stony Brook University
-  - address: Rm 3200, 40 St. George Street, University of Toronto
-    contact: admin@software-carpentry.org
-    country: ca
-    end: 2014-07-09
-    eventbrite_id: '11725123159'
-    humandate: Jul 08-09, 2014
-    latitude: 43.659641
-    longitude: -79.396792
-    slug: 2014-07-08-wise-toronto
-    start: 2014-07-08
-    tags:
-    - {name: WiSE}
-    url: https://erdavenport.github.io/2014-07-08-wise-toronto/
-    venue: Women in Science and Engineering (Toronto)
   - address: Sobey School of Business, 4th floor, 923 Robie Street, Halifax, NS
     contact: admin@software-carpentry.org
     country: ca
@@ -6780,21 +6398,6 @@ workshops:
     - {name: SWC}
     url: https://cavestruz.github.io/2014-06-24-ru/
     venue: Rockefeller University
-  - address: Room 08-146AB, Smilow Center for Translational Research, 3400 Civic Center
-      Blvd., Philadelphia
-    contact: admin@software-carpentry.org
-    country: us
-    end: 2014-06-25
-    eventbrite_id: '11725747025'
-    humandate: Jun 24-25, 2014
-    latitude: 39.94733
-    longitude: -75.193134
-    slug: 2014-06-24-wise-penn
-    start: 2014-06-24
-    tags:
-    - {name: WiSE}
-    url: https://swcarpentry.github.io/2014-06-24-wise-penn/
-    venue: Women in Science and Engineering (Philadelphia)
   - address: Delta Bessborough Hotel, 601 Spadina Crescent East, Saskatoon, SK
     contact: admin@software-carpentry.org
     country: ca
@@ -7220,20 +6823,6 @@ workshops:
     - {name: SWC}
     url: https://swcarpentry.github.io/2014-04-14-pycon-r/
     venue: R for Python Programmers
-  - address: Lawrence Berkeley National Laboratory, Berkeley, California
-    contact: admin@software-carpentry.org
-    country: us
-    end: 2014-04-15
-    eventbrite_id: '10121606999'
-    humandate: Apr 14-15, 2014
-    latitude: 37.8734481
-    longitude: -122.2563972
-    slug: 2014-04-14-wise
-    start: 2014-04-14
-    tags:
-    - {name: WiSE}
-    url: https://swcarpentry.github.io/2014-04-14-wise/
-    venue: Women in Science and Engineering
   - address: School of Life Sciences on Gibbet Hill Campus, Coventry
     contact: admin-uk@software-carpentry.org
     country: gb
@@ -7678,20 +7267,6 @@ workshops:
     - {name: SWC}
     url: https://apawlik.github.io/2014-01-14-manchester/
     venue: University of Manchester
-  - address: 366 Adelaide Street West, Toronto
-    contact: gvwilson@software-carpentry.org
-    country: ca
-    end: 2014-01-14
-    eventbrite_id: null
-    humandate: Jan 13-14, 2014
-    latitude: 43.64711
-    longitude: -79.39423
-    slug: 2014-01-13-toronto
-    start: 2014-01-13
-    tags:
-    - {name: LC}
-    url: https://swcarpentry.github.io/2014-01-13-toronto/
-    venue: Mozilla Toronto
   - address: Hazard Conference Room, 215 South Ferry Road, Narragansett, RI 02882
     contact: igonzalez@mailaps.org
     country: us
@@ -8369,20 +7944,6 @@ workshops:
     - {name: SWC}
     url: https://swcarpentry.github.io/2013-06-25-scipy/
     venue: SciPy 2013
-  - address: One Cambridge Center, Cambridge, MA 02142
-    contact: ''
-    country: us
-    end: 2013-06-25
-    eventbrite_id: '6181177067'
-    humandate: Jun 24-25, 2013
-    latitude: 42.3625
-    longitude: -71.085
-    slug: 2013-06-24-wise
-    start: 2013-06-24
-    tags:
-    - {name: WiSE}
-    url: https://swcarpentry.github.io/2013-06-24-wise/
-    venue: Women in Science and Engineering (Boston)
   - address: ' '
     contact: ''
     country: us
@@ -9639,6 +9200,503 @@ workshops:
     - {name: SWC}
     url: https://swcarpentry.github.io/2011-11-07-toronto/
     venue: University of Toronto
+  - address: Biomedical and Physical Sciences Building, 567 Wilson Road, Room 1441
+    contact: lsmead@msu.edu
+    country: us
+    end: 2016-01-18
+    eventbrite_id: ''
+    humandate: Jan 18-18, 2016
+    latitude: 42.701848
+    longitude: -84.4843606
+    slug: 2016-01-18-msu
+    start: 2016-01-18
+    tags:
+    - {name: DC}
+    url: https://acharbonneau.github.io/2016-01-18-MSU/
+    venue: BEACON @ MSU
+  - address: Piscataway, New Jersey
+    contact: janet.alder@rutgers.edu
+    country: us
+    end: 2015-12-16
+    eventbrite_id: ''
+    humandate: Dec 15-16, 2015
+    latitude: 40.519011
+    longitude: -74.443728
+    slug: 2015-12-15-rutgers
+    start: 2015-12-15
+    tags:
+    - {name: DC}
+    url: https://cfriedline.github.io/2015-12-15-rutgers/
+    venue: Rutgers University
+  - address: Rijk Zwaan
+    contact: ''
+    country: nl
+    end: 2015-12-08
+    eventbrite_id: ''
+    humandate: Dec 07-08, 2015
+    latitude: 51.96621
+    longitude: 4.251641
+    slug: 2015-12-07-rijkzwaan
+    start: 2015-12-07
+    tags:
+    - {name: DC}
+    url: http://www.datacarpentry.org/2015-12-07-Rijkzwaan/
+    venue: Rijk Zwaan
+  - address: 1200 E. California Blvd, Pasadena, CA
+    contact: Gail Clement
+    country: us
+    end: 2015-11-24
+    eventbrite_id: ''
+    humandate: Nov 23-24, 2015
+    latitude: 34.139011
+    longitude: -118.124514
+    slug: 2015-11-23-caltech
+    start: 2015-11-23
+    tags:
+    - {name: DC}
+    url: http://www.datacarpentry.org/2015-11-23-caltech/
+    venue: California Institute of Technology
+  - address: LAB-14, 700 Swanston Street, Carlton VICTORIA 3053
+    contact: crhall@unimelb.edu.au
+    country: au
+    end: 2015-11-24
+    eventbrite_id: '18773705659'
+    humandate: Nov 23-24, 2015
+    latitude: -37.800189
+    longitude: 144.964362
+    slug: datacarpentry_2015-11-23_VLSCI
+    start: 2015-11-23
+    tags:
+    - {name: DC}
+    url: https://vlsci.github.io/datacarpentry_2015-11-23_VLSCI/
+    venue: VLSCI, University of Melbourne
+  - address: Earth Sciences Building, Room 908, University of Calgary
+    contact: ''
+    country: us
+    end: 2015-11-05
+    eventbrite_id: ''
+    humandate: Nov 04-05, 2015
+    latitude: 51.076359
+    longitude: -114.12871
+    slug: 2015-11-04-ACUNS
+    start: 2015-11-04
+    tags:
+    - {name: DC}
+    url: http://www.datacarpentry.org/2015-11-04-ACUNS/
+    venue: Arctic Institute of North America (ACUNS) Student Conference
+  - address: Avenue Louise/Louizalaan 231, 1050 Brussels
+    contact: leszek.tarkowski@gmail.com
+    country: be
+    end: 2015-11-02
+    eventbrite_id: '18312852234'
+    humandate: Nov 02-02, 2015
+    latitude: 50.825349
+    longitude: 4.365441
+    slug: 2015-11-02-DC-Brussels
+    start: 2015-11-02
+    tags:
+    - {name: DC}
+    url: https://leszektarkowski.github.io/2015-11-02-DC-Brussels/
+    venue: BELSPO
+  - address: TBC
+    contact: support@archer.ac.uk
+    country: gb
+    end: 2015-10-30
+    eventbrite_id: ''
+    humandate: Oct 29-30, 2015
+    latitude: 53.806485
+    longitude: -1.555022
+    slug: 2015-10-29-Leeds-DC
+    start: 2015-10-29
+    tags:
+    - {name: DC}
+    url: https://hpcarcher.github.io/2015-10-29-Leeds-DC/
+    venue: University of Leeds
+  - address: New Law School Seminar 102, University of Sydney
+    contact: combine@combine.org.au
+    country: au
+    end: 2015-10-08
+    eventbrite_id: ''
+    humandate: Oct 07-08, 2015
+    latitude: -33.887674
+    longitude: 151.19028
+    slug: 2015-10-07-R-Data-Sydney
+    start: 2015-10-07
+    tags:
+    - {name: DC}
+    url: https://combine-australia.github.io/2015-10-07-R-Data-Sydney/
+    venue: COMBINE - University of Sydney
+  - address: Magadi Road, Nairobi, Kenya
+    contact: ''
+    country: ke
+    end: 2015-09-24
+    eventbrite_id: ''
+    humandate: Sep 23-24, 2015
+    latitude: -1.4072994
+    longitude: 36.7218768
+    slug: 2015-09-23-TDWG
+    start: 2015-09-23
+    tags:
+    - {name: DC}
+    url: http://www.datacarpentry.org/2015-09-23-TDWG/
+    venue: Multimedia University of Kenya
+  - address: 1 Shields Ave, Davis, CA 95616
+    contact: ''
+    country: us
+    end: 2015-09-23
+    eventbrite_id: ''
+    humandate: Sep 22-23, 2015
+    latitude: 38.54
+    longitude: 121.75
+    slug: 2015-09-22-ucdavis
+    start: 2015-09-22
+    tags:
+    - {name: DC}
+    url: http://www.datacarpentry.org/2015-09-22-UCDavis/
+    venue: UC Davis
+  - address: Bioinformatics Training Room, Craik-Marshall Building, Downing Site
+    contact: Gabriella Rustici <gr231@cam.ac.uk>
+    country: gb
+    end: 2015-09-11
+    eventbrite_id: ''
+    humandate: Sep 10-11, 2015
+    latitude: 52.201951
+    longitude: 0.122514
+    slug: 2015-09-10-CAM
+    start: 2015-09-10
+    tags:
+    - {name: DC}
+    url: https://lgatto.github.io/2015-09-10-CAM/
+    venue: University of Cambridge
+  - address: Zuckerman Research Center Room 105, Memorial Sloan Kettering Hospital<br>417
+      East 68th St. New York, NY 10065<br>
+    contact: tkteal@datacarpentry.org
+    country: us
+    end: 2015-08-25
+    eventbrite_id: ''
+    humandate: Aug 24-25, 2015
+    latitude: 40.764908
+    longitude: -73.9565137
+    slug: 2015-08-24-Sloan-Kettering
+    start: 2015-08-24
+    tags:
+    - {name: DC}
+    url: https://datacarpentry.github.io/2015-08-24-Sloan-Kettering/
+    venue: Sloan-Kettering
+  - address: Elings Hall
+    contact: ''
+    country: us
+    end: 2015-08-25
+    eventbrite_id: ''
+    humandate: Aug 24-25, 2015
+    latitude: 42.027372
+    longitude: -93.652714
+    slug: 2015-08-24-isu
+    start: 2015-08-24
+    tags:
+    - {name: DC}
+    url: http://www.datacarpentry.org/2015-08-24-ISU/
+    venue: Iowa State University
+  - address: Minneapolis, Minnesota
+    contact: ''
+    country: us
+    end: 2015-07-31
+    eventbrite_id: ''
+    humandate: Jul 30-31, 2015
+    latitude: 44.9778
+    longitude: 93.265
+    slug: 2015-07-30-ASPB
+    start: 2015-07-30
+    tags:
+    - {name: DC}
+    url: http://www.datacarpentry.org/2015-07-30-ASPB/
+    venue: Minneapolis, Minnesota
+  - address: Bioscience Building,  951 Carrier Drive
+    contact: ''
+    country: us
+    end: 2015-07-23
+    eventbrite_id: ''
+    humandate: Jul 22-23, 2015
+    latitude: 38.434971
+    longitude: -78.869273
+    slug: 2015-07-22-JamesMadison
+    start: 2015-07-22
+    tags:
+    - {name: DC}
+    url: http://www.datacarpentry.org/2015-07-22-JamesMadison/
+    venue: James Madison University
+  - address: Utrecht, Netherlands
+    contact: data-carpentry@software-carpentry.org
+    country: nl
+    end: 2015-06-25
+    eventbrite_id: ''
+    humandate: Jun 24-25, 2015
+    latitude: 52.090737
+    longitude: 5.12142
+    slug: 2015-06-24-dc-utrecht
+    start: 2015-06-24
+    tags:
+    - {name: DC}
+    url: https://apawlik.github.io/2015-06-24-dc-utrecht/
+    venue: Utrecht University
+  - address: 255 Old Horticulture, Michigan State University
+    contact: gvwilson@software-carpentry.org
+    country: us
+    end: 2015-05-31
+    eventbrite_id: ''
+    humandate: May 30-31, 2015
+    latitude: 42.73226
+    longitude: -84.478175
+    slug: 2015-05-30-HASTAC
+    start: 2015-05-30
+    tags:
+    - {name: DC}
+    url: https://datacarpentry.github.io/2015-05-30-HASTAC/
+    venue: HASTAC Conference (Data Carpentry)
+  - address: Branner Earth Sciences Library, Teaching Corner, Mitchell Earth Sciences
+      Building 2nd Floor
+    contact: amyhodge@stanford.edu
+    country: us
+    end: 2015-04-24
+    eventbrite_id: ''
+    humandate: Apr 23-24, 2015
+    latitude: 37.426423
+    longitude: -122.172659
+    slug: 2015-04-23-stanford
+    start: 2015-04-23
+    tags:
+    - {name: DC}
+    url: https://datacarpentry.github.io/2015-04-23-stanford/
+    venue: Stanford
+  - address: Espoo, Finland
+    contact: data-carpentry@software-carpentry.org
+    country: fi
+    end: 2015-03-18
+    eventbrite_id: ''
+    humandate: Mar 18-18, 2015
+    latitude: 60.205491
+    longitude: 24.6559
+    slug: 2015-03-18-csc-espoo
+    start: 2015-03-18
+    tags:
+    - {name: DC}
+    url: https://apawlik.github.io/2015-03-18-csc-espoo/
+    venue: CSC - IT Center for Science
+  - address: Indian Statistical Institute
+    contact: admin@datacarpentry.org
+    country: in
+    end: 2015-03-13
+    eventbrite_id: ''
+    humandate: Mar 10-13, 2015
+    latitude: 37.426423
+    longitude: -122.172659
+    slug: 2015-03-09-ISI-CODATA
+    start: 2015-03-10
+    tags:
+    - {name: DC}
+    url: https://datacarpentry.github.io/2015-03-09-ISI-CODATA/
+    venue: ISI CODATA International Training Workshop on Big Data
+  - address: Shields Library Instruction Room (2nd floor)
+    contact: tkteal@datacarpentry.org
+    country: us
+    end: 2015-02-10
+    eventbrite_id: ''
+    humandate: Feb 09-10, 2015
+    latitude: 38.544907
+    longitude: -121.740517
+    slug: 2015-02-09-ucdavis
+    start: 2015-02-09
+    tags:
+    - {name: DC}
+    url: https://datacarpentry.github.io/2015-02-09-ucdavis/
+    venue: UC Davis
+  - address: Mann Library, Room B30A, 237 Mann Drive, Ithaca, NY
+    contact: mudrak@cornell.edu
+    country: us
+    end: 2015-01-16
+    eventbrite_id: '14893607180'
+    humandate: Jan 15-16, 2015
+    latitude: 42.448938
+    longitude: -76.476148
+    slug: 2015-01-15-cornell
+    start: 2015-01-15
+    tags:
+    - {name: DC}
+    url: https://emudrak.github.io/2015-01-15-cornell/
+    venue: Cornell University Research Community
+  - address: 2119 Hornbake South, College Park, MD
+    contact: msmorul@sesync.org
+    country: us
+    end: 2015-01-16
+    eventbrite_id: '14847664765'
+    humandate: Jan 15-16, 2015
+    latitude: 38.988202
+    longitude: -76.941699
+    slug: 2015-01-15-umd
+    start: 2015-01-15
+    tags:
+    - {name: DC}
+    url: https://sesync-ci.github.io/2015-01-15-umd/
+    venue: University of Maryland
+  - address: iDigBio at University of Florida, Gainesville, FL
+    contact: data-carpentry@software-carpentry.org
+    country: us
+    end: 2014-09-30
+    eventbrite_id: null
+    humandate: Sep 29-30, 2014
+    latitude: 42.723303
+    longitude: -84.47978
+    slug: 2014-09-29-iDigBio
+    start: 2014-09-29
+    tags:
+    - {name: DC}
+    url: https://datacarpentry.github.io/2014-09-29-iDigBio/
+    venue: University of Florida
+  - address: ' '
+    contact: tkteal@msu.edu
+    country: us
+    end: 2014-07-25
+    eventbrite_id: null
+    humandate: Jul 24-25, 2014
+    latitude: 42.723303
+    longitude: -84.47978
+    slug: 2014-07-24-beacon
+    start: 2014-07-24
+    tags:
+    - {name: DC}
+    url: https://datacarpentry.github.io/2014-07-24-beacon/
+    venue: MSU BEACON
+  - address: Amphimax Building; Rooms 414, 413, 412; University of Lausanne
+    contact: training-help@software-carpentry.org
+    country: ch
+    end: 2016-01-14
+    eventbrite_id: '18432677635'
+    humandate: Jan 13-14, 2016
+    latitude: 46.5213679
+    longitude: 6.5720468
+    slug: 2016-01-13-instructor-training-lausanne
+    start: 2016-01-13
+    tags:
+    - {name: TTT}
+    url: https://swcarpentry.github.io/2016-01-13-instructor-training-lausanne/
+    venue: The University of Lausanne
+  - address: 216 Edmon Low Library, Stillwater, OK 74078
+    contact: ckoch5@wisc.edu
+    country: us
+    end: 2016-01-06
+    eventbrite_id: ''
+    humandate: Jan 05-06, 2016
+    latitude: 36.1232858
+    longitude: -97.0728309
+    slug: 2016-01-05-ok-instructor-training
+    start: 2016-01-05
+    tags:
+    - {name: TTT}
+    url: https://christinalk.github.io/2016-01-05-ok-instructor-training/
+    venue: Oklahoma State University
+  - address: Internet
+    contact: gvwilson@software-carpentry.org
+    country: w3
+    end: 2015-12-08
+    eventbrite_id: ''
+    humandate: Dec 07-08, 2015
+    latitude: -48.876667
+    longitude: -123.393333
+    slug: 2015-12-07-ttt-toronto
+    start: 2015-12-07
+    tags:
+    - {name: TTT}
+    - {name: online}
+    url: https://gvwilson.github.io/2015-12-07-ttt-toronto/
+    venue: Internet
+  - address: Internet
+    contact: Fiona.C.Tweedie@gmail.com
+    country: w3
+    end: 2015-12-08
+    eventbrite_id: ''
+    humandate: Dec 07-08, 2015
+    latitude: -48.876667
+    longitude: -123.393333
+    slug: 2015-12-07-ttt-Au
+    start: 2015-12-07
+    tags:
+    - {name: TTT}
+    - {name: online}
+    url: https://digital-fabulism.github.io/2015-12-07-ttt-Au/
+    venue: Internet
+  - address: Internet
+    contact: s.crouch@software.ac.uk
+    country: w3
+    end: 2015-12-08
+    eventbrite_id: ''
+    humandate: Dec 07-08, 2015
+    latitude: -48.876667
+    longitude: -123.393333
+    slug: 2015-12-07-eu-instructor-training
+    start: 2015-12-07
+    tags:
+    - {name: TTT}
+    - {name: online}
+    url: https://steve-crouch.github.io/2015-12-07-eu-instructor-training/
+    venue: Internet
+  - address: Internet
+    contact: ckoch5@wisc.edu
+    country: w3
+    end: 2015-12-08
+    eventbrite_id: ''
+    humandate: Dec 07-08, 2015
+    latitude: -48.876667
+    longitude: -123.393333
+    slug: 2015-12-07-na-instructor-training
+    start: 2015-12-07
+    tags:
+    - {name: TTT}
+    - {name: online}
+    url: https://christinalk.github.io/2015-12-07-na-instructor-training/
+    venue: Internet
+  - address: Atlas Rooms 1 and 2, Kilburn Building, School of Computer Science, University
+      of Manchester, Oxford Road, Manchester M13 9PL
+    contact: a.nenadic@manchester.ac.uk
+    country: gb
+    end: 2015-11-24
+    eventbrite_id: ''
+    humandate: Nov 23-24, 2015
+    latitude: 53.467674
+    longitude: -2.233924
+    slug: 2015-11-23-instructor-training-manchester
+    start: 2015-11-23
+    tags:
+    - {name: TTT}
+    url: https://apawlik.github.io/2015-11-23-instructor-training-manchester/
+    venue: University of Manchester
+  - address: Cambridge, Massachusetts
+    contact: admin@software-carpentry.org
+    country: us
+    end: 2015-06-17
+    eventbrite_id: ''
+    humandate: Jun 16-17, 2015
+    latitude: 42.37771
+    longitude: -71.11501
+    slug: 2015-06-16-ttt-aciref
+    start: 2015-06-16
+    tags:
+    - {name: TTT}
+    url: https://swcarpentry.github.io/2015-06-16-ttt-aciref/
+    venue: Harvard University
+  - address: University of Arizona
+    contact: gvwilson@software-carpentry.org
+    country: us
+    end: 2015-06-13
+    eventbrite_id: ''
+    humandate: Jun 12-13, 2015
+    latitude: 32.248707
+    longitude: -110.987023
+    slug: 2015-06-12-ttt-iplant
+    start: 2015-06-12
+    tags:
+    - {name: TTT}
+    url: https://swcarpentry.github.io/2015-06-12-ttt-iplant/
+    venue: iPlant
 - &id001
   - address: 1205 West Clark St, Urbana, Illinois
     contact: training@cse.illinois.edu
@@ -9654,6 +9712,20 @@ workshops:
     - {name: SWC}
     url: https://uiuc-cse.github.io/2016-02-25-NCSA/
     venue: University of Illinois
+  - address: Exact location coming soon
+    contact: maneesha@software-carpentry.org
+    country: US
+    end: 2016-02-23
+    eventbrite_id: ''
+    humandate: Feb 22-23, 2016
+    latitude: 39.950664
+    longitude: -75.192281
+    slug: 2016-02-22-upenn
+    start: 2016-02-22
+    tags:
+    - {name: SWC}
+    url: https://maneesha.github.io/2016-02-22-upenn/
+    venue: University of Pennsylvania
   - address: Louisiana Cancer Research Center, 1700 Tulane Avenue, First Floor Auditorium,
       New Orleans, LA 70112
     contact: hnakhoul@tulane.edu
@@ -9683,6 +9755,34 @@ workshops:
     - {name: SWC}
     url: https://computecanada.github.io/2016-02-22-ubco/
     venue: University of British Columbia Okanagan
+  - address: Taylor Family Digital Library 440B & 440C
+    contact: john.simpson@computecanada.ca
+    country: CA
+    end: 2016-02-19
+    eventbrite_id: '20820399375'
+    humandate: Feb 18-19, 2016
+    latitude: 51.077752
+    longitude: -114.130029
+    slug: 2016-02-18-ucalgary
+    start: 2016-02-18
+    tags:
+    - {name: SWC}
+    url: https://computecanada.github.io/2016-02-18-ucalgary/
+    venue: University of Calgary
+  - address: ECHA L1-250
+    contact: john.simpson@computecanada.ca
+    country: CA
+    end: 2016-02-17
+    eventbrite_id: '20714714268'
+    humandate: Feb 16-17, 2016
+    latitude: 53.522084
+    longitude: -113.526331
+    slug: 2016-02-16-ualberta
+    start: 2016-02-16
+    tags:
+    - {name: SWC}
+    url: https://computecanada.github.io/2016-02-16-ualberta/
+    venue: University of Alberta
   - address: 1205 West Clark St, Urbana, Illinois
     contact: training@cse.illinois.edu
     country: US
@@ -9739,6 +9839,20 @@ workshops:
     - {name: SWC}
     url: https://nesi.github.io/2016-02-02-auckland/
     venue: NESI - ResBaz Auckland
+  - address: 8888 University Dr, Burnaby, BC V5A 1S6
+    contact: bgrande@sfu.ca
+    country: CA
+    end: 2016-02-03
+    eventbrite_id: ''
+    humandate: Feb 02-03, 2016
+    latitude: 49.27966
+    longitude: -122.918856
+    slug: 2016-02-02-SFU
+    start: 2016-02-02
+    tags:
+    - {name: SWC}
+    url: http://bgran.de/2016-02-02-SFU/
+    venue: Simon Fraser University
   - address: Law School Annex Seminar Room 444, Camperdown Campus
     contact: aoholcombe@gmail.com
     country: AU
@@ -9753,6 +9867,49 @@ workshops:
     - {name: SWC}
     url: https://fpheld.github.io/2016-02-01-ResBaz-Sydney-RBeginner/
     venue: ResBaz 2016 R Course at the University of Sydney
+  - address: Queensland University of Technology, Gardens Point Campus
+    contact: s.hames@uq.edu.au
+    country: AU
+    end: 2016-02-02
+    eventbrite_id: ''
+    humandate: Feb 01-02, 2016
+    latitude: -27.476664
+    longitude: 153.027965
+    slug: 2016-02-01-BrisbaneResBaz-R
+    start: 2016-02-01
+    tags:
+    - {name: SWC}
+    url: https://bio-swc-bne.github.io/2016-02-01-BrisbaneResBaz-R/
+    venue: QUT - Research Bazaar (R)
+  - address: Queensland University of Technology, Gardens Point Campus
+    contact: s.hames@uq.edu.au
+    country: AU
+    end: 2016-02-02
+    eventbrite_id: ''
+    humandate: Feb 01-02, 2016
+    latitude: -27.476664
+    longitude: 153.027965
+    slug: 2016-02-01-BrisbaneResBaz-Python
+    start: 2016-02-01
+    tags:
+    - {name: SWC}
+    url: https://bio-swc-bne.github.io/2016-02-01-BrisbaneResBaz-Python/
+    venue: QUT - Research Bazaar (Python)
+  - address: University of Sydney, New Law School Annexe (Teaching Annexure F10A),
+      Seminar Room 346 (Level 3)
+    contact: d.vanichkina@gmail.com
+    country: AU
+    end: 2016-02-02
+    eventbrite_id: '20500059229'
+    humandate: Feb 01-02, 2016
+    latitude: -33.887348
+    longitude: 151.19009
+    slug: 2016-02-01-rezbazsydneypython
+    start: 2016-02-01
+    tags:
+    - {name: SWC}
+    url: http://daryavanichkina.com/2016-02-01-rezbazsydneypython/
+    venue: University of Sydney
   - address: To be announced
     contact: awillifo@uta.edu
     country: US
@@ -9767,20 +9924,6 @@ workshops:
     - {name: SWC}
     url: https://annawilliford.github.io/2016-01-30-UTA/
     venue: University of Texas at Arlington
-  - address: Conference Centre Building, 22 Symonds Street, Auckland
-    contact: j.rugis@auckland.ac.nz
-    country: NZ
-    end: 2016-01-29
-    eventbrite_id: N/A
-    humandate: Jan 28-29, 2016
-    latitude: -36.853647
-    longitude: 174.769403
-    slug: 2016-01-28-auckland-instructor-training
-    start: 2016-01-28
-    tags:
-    - {name: TTT}
-    url: https://swcarpentry.github.io/2016-01-28-auckland-instructor-training/
-    venue: University of Auckland
   - address: 1205 West Clark St, Urbana, Illinois
     contact: training@cse.illinois.edu
     country: US
@@ -9795,20 +9938,6 @@ workshops:
     - {name: SWC}
     url: https://uiuc-cse.github.io/2016-01-28-NCSA/
     venue: University of Illinois
-  - address: Natural History Museum, Cromwell Road, London, SW7 5BD
-    contact: f.ahmed@nhm.ac.uk
-    country: ''
-    end: 2016-01-27
-    eventbrite_id: ''
-    humandate: Jan 26-27, 2016
-    latitude: 51.495933
-    longitude: -0.176367
-    slug: 2016-01-26-london-nhm
-    start: 2016-01-26
-    tags:
-    - {name: DC}
-    url: https://callaghanmt.github.io/2016-01-26-london-nhm/
-    venue: Natural History Museum
   - address: Atlanta, GA
     contact: zno6@cdc.gov
     country: US
@@ -9823,6 +9952,62 @@ workshops:
     - {name: SWC}
     url: https://emilydolson.github.io/2016-01-19-CDC/
     venue: Centers for Disease Control
+  - address: 365 5th Ave, New York, NY 10016
+    contact: Matthew K. Gold <mattgold@gmail.com>
+    country: US
+    end: 2016-01-20
+    eventbrite_id: ''
+    humandate: Jan 19-20, 2016
+    latitude: 40.748621
+    longitude: -73.9839102
+    slug: 2016-01-19-cuny
+    start: 2016-01-19
+    tags:
+    - {name: SWC}
+    url: https://jennifershelton.github.io/2016-01-19-CUNY-SWC-workshop/
+    venue: CUNY Digital Research Bootcamp
+  - address: School of Earth and Environment, University of Leeds, Leeds, LS2 9J
+    contact: J.E.Mound@leeds.ac.uk
+    country: GB
+    end: 2016-01-20
+    eventbrite_id: '18902556054'
+    humandate: Jan 18-20, 2016
+    latitude: 53.8057
+    longitude: -1.5557
+    slug: 2016-01-18-leeds
+    start: 2016-01-18
+    tags:
+    - {name: SWC}
+    url: https://andreww.github.io/2016-01-18-leeds/
+    venue: NERC / University of Leeds
+  - address: LaFortune Student Center
+    contact: francois.michonneau@gmail.com
+    country: US
+    end: 2016-03-08
+    eventbrite_id: ''
+    humandate: Mar 07-08, 2016
+    latitude: 41.7019183
+    longitude: -86.2376697
+    slug: 2016-03-07-notredame
+    start: 2016-03-07
+    tags:
+    - {name: DC}
+    url: https://fmichonneau.github.io/2016-03-07-notre-dame/
+    venue: Notre Dame
+  - address: Natural History Museum, Cromwell Road, London, SW7 5BD
+    contact: f.ahmed@nhm.ac.uk
+    country: GB
+    end: 2016-01-27
+    eventbrite_id: ''
+    humandate: Jan 26-27, 2016
+    latitude: 51.495933
+    longitude: -0.176367
+    slug: 2016-01-26-london-nhm
+    start: 2016-01-26
+    tags:
+    - {name: DC}
+    url: https://callaghanmt.github.io/2016-01-26-london-nhm/
+    venue: Natural History Museum
   - address: Charles W. Capps, Jr. Center classroom, Jamie Whitten Delta States Research
       Center, 141 Experiment Station Road, Stoneville, MS
     contact: op.perera@ars.usda.gov
@@ -9854,7 +10039,7 @@ workshops:
     venue: Wang Center - Lecture Hall 2
   - address: Natural History Museum, Cromwell Road, London, SW7 5BD
     contact: f.ahmed@nhm.ac.uk
-    country: ''
+    country: GB
     end: 2016-01-20
     eventbrite_id: ''
     humandate: Jan 19-20, 2016
@@ -9866,20 +10051,79 @@ workshops:
     - {name: DC}
     url: https://callaghanmt.github.io/2016-01-19-london-nhm/
     venue: Natural History Museum
-  - address: School of Earth and Environment, University of Leeds, Leeds, LS2 9J
-    contact: J.E.Mound@leeds.ac.uk
-    country: GB
-    end: 2016-01-20
-    eventbrite_id: '18902556054'
-    humandate: Jan 18-20, 2016
-    latitude: 53.8057
-    longitude: -1.5557
-    slug: 2016-01-18-leeds
-    start: 2016-01-18
+  - address: Internet
+    contact: ''
+    country: W3
+    end: 2016-04-14
+    eventbrite_id: ''
+    humandate: Apr 13-14, 2016
+    latitude: -48.876667
+    longitude: -123.393333
+    slug: 2016-04-13-training-online
+    start: 2016-04-13
     tags:
-    - {name: SWC}
-    url: https://andreww.github.io/2016-01-18-leeds/
-    venue: NERC / University of Leeds
+    - {name: TTT}
+    - {name: online}
+    url: https://swcarpentry.github.io/2016-04-13-training-online/
+    venue: Internet
+  - address: Shields Library
+    contact: gvwilson@software-carpentry.org
+    country: US
+    end: 2016-02-23
+    eventbrite_id: ''
+    humandate: Feb 22-23, 2016
+    latitude: 38.539657
+    longitude: -121.749518
+    slug: 2016-02-22-training-ucdavis
+    start: 2016-02-22
+    tags:
+    - {name: TTT}
+    url: https://swcarpentry.github.io/2016-02-22-training-ucdavis/
+    venue: UC Davis
+  - address: Internet
+    contact: gvwilson@software-carpentry.org
+    country: W3
+    end: 2016-02-17
+    eventbrite_id: ''
+    humandate: Feb 16-17, 2016
+    latitude: -48.876667
+    longitude: -123.393333
+    slug: 2016-02-16-training-online
+    start: 2016-02-16
+    tags:
+    - {name: TTT}
+    - {name: online}
+    url: https://swcarpentry.github.io/2016-02-16-training-online/
+    venue: Internet
+  - address: Conference Centre Building, 22 Symonds Street, Auckland
+    contact: j.rugis@auckland.ac.nz
+    country: NZ
+    end: 2016-01-29
+    eventbrite_id: N/A
+    humandate: Jan 28-29, 2016
+    latitude: -36.853647
+    longitude: 174.769403
+    slug: 2016-01-28-auckland-instructor-training
+    start: 2016-01-28
+    tags:
+    - {name: TTT}
+    url: https://swcarpentry.github.io/2016-01-28-auckland-instructor-training/
+    venue: University of Auckland
+  - address: UF Informatics Institute, Griffon-Floyd Hall, 230 Newell Dr, Gainesville,
+      Florida
+    contact: gvwilson@software-carpentry.org
+    country: US
+    end: 2016-01-22
+    eventbrite_id: ''
+    humandate: Jan 21-22, 2016
+    latitude: 29.648324
+    longitude: -82.3465077
+    slug: 2016-01-21-training-florida
+    start: 2016-01-21
+    tags:
+    - {name: TTT}
+    url: https://swcarpentry.github.io/training-florida-2016-01-21/
+    venue: University of Florida
   - address: Room 420, <a href="http://www.uq.edu.au/maps/">General Purpose South</a>
       (Bldg 78), The University of Queensland
     contact: training-help@software-carpentry.org
@@ -9895,151 +10139,5 @@ workshops:
     - {name: TTT}
     url: https://swcarpentry.github.io/2016-01-18-brisbane-instructor-training/
     venue: The University of Queensland
-  - address: room LSC3, 2350 Health Sciences Mall, UBC
-    contact: alex.razoumov@westgrid.ca
-    country: CA
-    end: 2016-01-17
-    eventbrite_id: '19988004660'
-    humandate: Jan 16-17, 2016
-    latitude: 49.262465
-    longitude: -123.24509
-    slug: 2016-01-16-ubc
-    start: 2016-01-16
-    tags:
-    - {name: SWC}
-    url: https://computecanada.github.io/2016-01-16-ubc/
-    venue: University of British Columbia
-  - address: Engineering 6 building room 4022, 200 University Avenue West, Waterloo,
-      ON, N2L 3G1
-    contact: i2kajic@uwaterloo.ca
-    country: CA
-    end: 2016-01-17
-    eventbrite_id: '20233446784'
-    humandate: Jan 16-17, 2016
-    latitude: 43.473226
-    longitude: -80.538639
-    slug: 2016-01-16-waterloo
-    start: 2016-01-16
-    tags:
-    - {name: SWC}
-    url: https://ikajic.github.io/2016-01-16-waterloo/
-    venue: University of Waterloo
-  - address: 190 Doe Library, University of California, Berkeley
-    contact: bids@berkeley.edu
-    country: US
-    end: 2016-01-15
-    eventbrite_id: ''
-    humandate: Jan 14-15, 2016
-    latitude: 37.872208
-    longitude: -122.259493
-    slug: 2016-01-14-berkeley
-    start: 2016-01-14
-    tags:
-    - {name: SWC}
-    url: https://bids.github.io/2016-01-14-berkeley/
-    venue: Berkeley Institute for Data Science
-  - address: 3rd Floor Teaching Lab, Discovery Building, 330 North Orchard St. Madison,
-      WI
-    contact: ContactACI@lists.wisc.edu
-    country: US
-    end: 2016-01-15
-    eventbrite_id: ''
-    humandate: Jan 14-15, 2016
-    latitude: 43.0729124
-    longitude: -89.4080793
-    slug: 2016-01-14-uwmadison
-    start: 2016-01-14
-    tags:
-    - {name: SWC}
-    url: https://uw-madison-aci.github.io/2016-01-14-uwmadison/
-    venue: UW-Madison
-  - address: The Center for Teaching Excellence (The Innovation Lab, Room 246A), O'Neill
-      Library, Chestnut Hill, MA 02467-3810
-    contact: iglpdc+bc@gmail.com
-    country: US
-    end: 2016-01-14
-    eventbrite_id: '19689859901'
-    humandate: Jan 13-14, 2016
-    latitude: 42.336529
-    longitude: -71.169151
-    slug: 2016-01-13-boston
-    start: 2016-01-13
-    tags:
-    - {name: SWC}
-    url: https://iglpdc.github.io/2016-01-13-bc/
-    venue: Boston College Libraries, National Networks of Libraries of Medicine, New
-      England Region
-  - address: Amphimax Building; Rooms 414, 413, 412; University of Lausanne
-    contact: training-help@software-carpentry.org
-    country: CH
-    end: 2016-01-14
-    eventbrite_id: '18432677635'
-    humandate: Jan 13-14, 2016
-    latitude: 46.5213679
-    longitude: 6.5720468
-    slug: 2016-01-13-instructor-training-lausanne
-    start: 2016-01-13
-    tags:
-    - {name: TTT}
-    url: https://swcarpentry.github.io/2016-01-13-instructor-training-lausanne/
-    venue: The University of Lausanne
-  - address: Room 1G04, Dalhousie Building, University of Dundee, Dundee, Scotland,
-      UK, DD1 4HN
-    contact: C.Cole@dundee.ac.uk
-    country: GB
-    end: 2016-01-12
-    eventbrite_id: '19931324127'
-    humandate: Jan 11-12, 2016
-    latitude: 56.459249
-    longitude: -2.981933
-    slug: 2016-01-11-dundee
-    start: 2016-01-11
-    tags:
-    - {name: SWC}
-    url: https://widdowquinn.github.io/2016-01-11-dundee/
-    venue: University of Dundee
-  - address: School of Applied Sciences, Huddersfield, HD1 3DH
-    contact: j.bryk@hud.ac.uk
-    country: GB
-    end: 2016-01-12
-    eventbrite_id: ''
-    humandate: Jan 11-12, 2016
-    latitude: 53.642603
-    longitude: -1.778514
-    slug: 2016-01-11-huddersfield
-    start: 2016-01-11
-    tags:
-    - {name: SWC}
-    url: https://callaghanmt.github.io/2016-01-11-huddersfield/
-    venue: The University of Huddersfield
-  - address: 1050 Massachusetts Ave., Cambridge, MA (2nd floor Conference Room)
-    contact: jroth@nber.org
-    country: US
-    end: 2016-01-12
-    eventbrite_id: ''
-    humandate: Jan 11-12, 2016
-    latitude: 42.36997
-    longitude: -71.113038
-    slug: 2016-01-11-nber
-    start: 2016-01-11
-    tags:
-    - {name: SWC}
-    url: https://iglpdc.github.io/2016-01-11-nber/
-    venue: National Bureau of Economic Research
-  - address: 117 - Physics and Astronomy Building, 1151 Richmond Street, London ON  N6A
-      3K7, Canada
-    contact: tyson@sharcnet.ca
-    country: CA
-    end: 2016-01-10
-    eventbrite_id: ''
-    humandate: Jan 09-10, 2016
-    latitude: 43.00979
-    longitude: -81.272822
-    slug: 2016-01-09-uwo
-    start: 2016-01-09
-    tags:
-    - {name: SWC}
-    url: https://computecanada.github.io/2016-01-09-uwo/
-    venue: Western University
 workshops_current: *id001
 workshops_past: *id002

@@ -8,7 +8,7 @@ commands :
 
 ## amy        : update workshop and other data from AMY.
 amy :
-	${PY} bin/get-amy.py -u https://amy.software-carpentry.org/api/v1/ -o _data/amy.yml # -t SWC -t DC
+	${PY} bin/get-amy.py -u https://amy.software-carpentry.org/api/v1/ -o _data/amy.yml --tags-any=SWC,DC,TTT
 
 ## dashboard  : update data about status of projects - requires ~/.git-token.
 dashboard :
@@ -29,6 +29,13 @@ site :
 ## install    : install missing Ruby gems using bundle.
 install :
 	bundle install
+
+## everything : rebuild all data files and then serve the site
+everything:
+	@make amy
+	@make dashboard
+	@make includes
+	@make serve
 
 #-------------------------------------------------------------------------------
 
