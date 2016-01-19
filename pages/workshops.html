@@ -67,7 +67,7 @@ redirect_from:
 <div id="future">
   <h2>Future Workshops</h2>
   <table class="table table-striped workshops">
-    {% for w in site.data.amy.workshops_current reversed %}
+    {% for w in site.data.amy.workshops_current %}
     <tr>
       <td><img src="{{site.filesurl}}/flags/{{site.flag_size}}/{{w.country | downcase}}.png" title="{{w.country | replace: '-', ' ' | downcase}}" alt="{{w.country | replace: '-', ' ' | downcase}}" /></td>
       <td class="link"><a href="{{w.url}}">{{w.venue}}</a></td>

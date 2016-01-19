@@ -70,6 +70,9 @@ def main(amy_url, output_file, tags, all_=True):
         del slugs
         del workshops
 
+    # Always sort workshops by the ascending start date.
+    unique_workshops = sorted(unique_workshops, key=lambda w: w['start'])
+
     # Adjust.
     config['workshops_past'], config['workshops_current'] = \
         split_workshops(unique_workshops, datetime.date.today())
