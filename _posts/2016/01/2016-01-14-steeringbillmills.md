@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "Bill Mills"
+authors: ["Bill Mills"]
 title: "2016 Election: Bill Mills"
 date: 2016-01-14
 time: "15:00:00"

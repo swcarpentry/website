@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "Greg Wilson"
+authors: ["Greg Wilson"]
 title: "What Are Your Favorite Cartoons?"
 date: 2016-01-18
 time: "02:00:00"

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "Anelda van der Walt"
+authors: ["Anelda van der Walt"]
 title: "2016 Election: Anelda van der Walt"
 date: 2016-01-15
 time: "15:00:00"

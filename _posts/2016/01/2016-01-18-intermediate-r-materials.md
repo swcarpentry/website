@@ -1,10 +1,10 @@
 ---
 layout: post
-author: "Scott Ritchie"
-title: "Presenting materials for Intermediate UseRs"
+authors: ["Scott Ritchie"]
+title: "Presenting Materials for Intermediate UseRs"
 date: 2016-02-18
 time: "23:00:00"
-category: ["lessons", "r"]
+category: ["Lessons", "R"]
 ---
 
 We've been teaching R workshops for over a year now at the University of

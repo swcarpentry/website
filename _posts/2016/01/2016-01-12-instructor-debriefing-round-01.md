@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "Rayna Harris and Kate Hertweck"
+authors: ["Rayna Harris", "Kate Hertweck"]
 title: "2016 Post-Workshop Instructor Debriefing, Round 01"
 date: 2016-01-12
 time: "10:00:00"

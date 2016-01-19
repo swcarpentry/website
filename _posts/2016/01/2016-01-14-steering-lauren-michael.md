@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "Lauren Michael"
+authors: ["Lauren Michael"]
 title: "2016 Election: Lauren Michael"
 date: 2016-01-14
 time: "18:00:00"

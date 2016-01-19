@@ -27,10 +27,10 @@ permalink: "/blog/categories/"
   <table class="table table-striped" width="100%">
   {% for posts in category %}
     {% for p in posts %}
-      {% if p.author and p.date and p.title %}
+      {% if p.authors and p.date and p.title %}
       <tr>
         <td width="15%">{{ p.date | date: "%Y-%m-%d" }}</td>
-        <td width="15%">{{ p.author }}</td>
+        <td width="15%">{{ p.authors | join: ', ' }}</td>
         <td width="70%"><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></td>
       </tr>
       {% endif %}
