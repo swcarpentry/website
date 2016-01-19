@@ -1827,7 +1827,7 @@ flags:
     nz, pl, ro, se, sg, th, us, ve, za]
   workshops: [au, be, br, ca, ch, cn, cy, de, dk, es, fi, fr, gb, gh, id, in, it,
     jo, ke, kr, lb, nl, 'no', nz, pl, sa, se, th, us, ve, w3, za]
-timestamp: 20160118T112640Z
+timestamp: 20160119T142122Z
 workshops:
 - &id002
   - address: room LSC3, 2350 Health Sciences Mall, UBC
@@ -9200,6 +9200,20 @@ workshops:
     - {name: SWC}
     url: https://swcarpentry.github.io/2011-11-07-toronto/
     venue: University of Toronto
+  - address: Biomedical and Physical Sciences Building, 567 Wilson Road, Room 1441
+    contact: lsmead@msu.edu
+    country: us
+    end: 2016-01-18
+    eventbrite_id: ''
+    humandate: Jan 18-18, 2016
+    latitude: 42.701848
+    longitude: -84.4843606
+    slug: 2016-01-18-msu
+    start: 2016-01-18
+    tags:
+    - {name: DC}
+    url: https://acharbonneau.github.io/2016-01-18-MSU/
+    venue: BEACON @ MSU
   - address: Piscataway, New Jersey
     contact: janet.alder@rutgers.edu
     country: us
@@ -9552,6 +9566,137 @@ workshops:
     - {name: DC}
     url: https://datacarpentry.github.io/2014-07-24-beacon/
     venue: MSU BEACON
+  - address: Amphimax Building; Rooms 414, 413, 412; University of Lausanne
+    contact: training-help@software-carpentry.org
+    country: ch
+    end: 2016-01-14
+    eventbrite_id: '18432677635'
+    humandate: Jan 13-14, 2016
+    latitude: 46.5213679
+    longitude: 6.5720468
+    slug: 2016-01-13-instructor-training-lausanne
+    start: 2016-01-13
+    tags:
+    - {name: TTT}
+    url: https://swcarpentry.github.io/2016-01-13-instructor-training-lausanne/
+    venue: The University of Lausanne
+  - address: 216 Edmon Low Library, Stillwater, OK 74078
+    contact: ckoch5@wisc.edu
+    country: us
+    end: 2016-01-06
+    eventbrite_id: ''
+    humandate: Jan 05-06, 2016
+    latitude: 36.1232858
+    longitude: -97.0728309
+    slug: 2016-01-05-ok-instructor-training
+    start: 2016-01-05
+    tags:
+    - {name: TTT}
+    url: https://christinalk.github.io/2016-01-05-ok-instructor-training/
+    venue: Oklahoma State University
+  - address: Internet
+    contact: gvwilson@software-carpentry.org
+    country: w3
+    end: 2015-12-08
+    eventbrite_id: ''
+    humandate: Dec 07-08, 2015
+    latitude: -48.876667
+    longitude: -123.393333
+    slug: 2015-12-07-ttt-toronto
+    start: 2015-12-07
+    tags:
+    - {name: TTT}
+    - {name: online}
+    url: https://gvwilson.github.io/2015-12-07-ttt-toronto/
+    venue: Internet
+  - address: Internet
+    contact: Fiona.C.Tweedie@gmail.com
+    country: w3
+    end: 2015-12-08
+    eventbrite_id: ''
+    humandate: Dec 07-08, 2015
+    latitude: -48.876667
+    longitude: -123.393333
+    slug: 2015-12-07-ttt-Au
+    start: 2015-12-07
+    tags:
+    - {name: TTT}
+    - {name: online}
+    url: https://digital-fabulism.github.io/2015-12-07-ttt-Au/
+    venue: Internet
+  - address: Internet
+    contact: s.crouch@software.ac.uk
+    country: w3
+    end: 2015-12-08
+    eventbrite_id: ''
+    humandate: Dec 07-08, 2015
+    latitude: -48.876667
+    longitude: -123.393333
+    slug: 2015-12-07-eu-instructor-training
+    start: 2015-12-07
+    tags:
+    - {name: TTT}
+    - {name: online}
+    url: https://steve-crouch.github.io/2015-12-07-eu-instructor-training/
+    venue: Internet
+  - address: Internet
+    contact: ckoch5@wisc.edu
+    country: w3
+    end: 2015-12-08
+    eventbrite_id: ''
+    humandate: Dec 07-08, 2015
+    latitude: -48.876667
+    longitude: -123.393333
+    slug: 2015-12-07-na-instructor-training
+    start: 2015-12-07
+    tags:
+    - {name: TTT}
+    - {name: online}
+    url: https://christinalk.github.io/2015-12-07-na-instructor-training/
+    venue: Internet
+  - address: Atlas Rooms 1 and 2, Kilburn Building, School of Computer Science, University
+      of Manchester, Oxford Road, Manchester M13 9PL
+    contact: a.nenadic@manchester.ac.uk
+    country: gb
+    end: 2015-11-24
+    eventbrite_id: ''
+    humandate: Nov 23-24, 2015
+    latitude: 53.467674
+    longitude: -2.233924
+    slug: 2015-11-23-instructor-training-manchester
+    start: 2015-11-23
+    tags:
+    - {name: TTT}
+    url: https://apawlik.github.io/2015-11-23-instructor-training-manchester/
+    venue: University of Manchester
+  - address: Cambridge, Massachusetts
+    contact: admin@software-carpentry.org
+    country: us
+    end: 2015-06-17
+    eventbrite_id: ''
+    humandate: Jun 16-17, 2015
+    latitude: 42.37771
+    longitude: -71.11501
+    slug: 2015-06-16-ttt-aciref
+    start: 2015-06-16
+    tags:
+    - {name: TTT}
+    url: https://swcarpentry.github.io/2015-06-16-ttt-aciref/
+    venue: Harvard University
+  - address: University of Arizona
+    contact: gvwilson@software-carpentry.org
+    country: us
+    end: 2015-06-13
+    eventbrite_id: ''
+    humandate: Jun 12-13, 2015
+    latitude: 32.248707
+    longitude: -110.987023
+    slug: 2015-06-12-ttt-iplant
+    start: 2015-06-12
+    tags:
+    - {name: TTT}
+    url: https://swcarpentry.github.io/2015-06-12-ttt-iplant/
+    venue: iPlant
 - &id001
   - address: 1205 West Clark St, Urbana, Illinois
     contact: training@cse.illinois.edu
@@ -9906,19 +10051,93 @@ workshops:
     - {name: DC}
     url: https://callaghanmt.github.io/2016-01-19-london-nhm/
     venue: Natural History Museum
-  - address: Biomedical and Physical Sciences Building, 567 Wilson Road, Room 1441
-    contact: lsmead@msu.edu
-    country: US
-    end: 2016-01-18
+  - address: Internet
+    contact: ''
+    country: W3
+    end: 2016-04-14
     eventbrite_id: ''
-    humandate: Jan 18-18, 2016
-    latitude: 42.701848
-    longitude: -84.4843606
-    slug: 2016-01-18-msu
+    humandate: Apr 13-14, 2016
+    latitude: -48.876667
+    longitude: -123.393333
+    slug: 2016-04-13-training-online
+    start: 2016-04-13
+    tags:
+    - {name: TTT}
+    - {name: online}
+    url: https://swcarpentry.github.io/2016-04-13-training-online/
+    venue: Internet
+  - address: Shields Library
+    contact: gvwilson@software-carpentry.org
+    country: US
+    end: 2016-02-23
+    eventbrite_id: ''
+    humandate: Feb 22-23, 2016
+    latitude: 38.539657
+    longitude: -121.749518
+    slug: 2016-02-22-training-ucdavis
+    start: 2016-02-22
+    tags:
+    - {name: TTT}
+    url: https://swcarpentry.github.io/2016-02-22-training-ucdavis/
+    venue: UC Davis
+  - address: Internet
+    contact: gvwilson@software-carpentry.org
+    country: W3
+    end: 2016-02-17
+    eventbrite_id: ''
+    humandate: Feb 16-17, 2016
+    latitude: -48.876667
+    longitude: -123.393333
+    slug: 2016-02-16-training-online
+    start: 2016-02-16
+    tags:
+    - {name: TTT}
+    - {name: online}
+    url: https://swcarpentry.github.io/2016-02-16-training-online/
+    venue: Internet
+  - address: Conference Centre Building, 22 Symonds Street, Auckland
+    contact: j.rugis@auckland.ac.nz
+    country: NZ
+    end: 2016-01-29
+    eventbrite_id: N/A
+    humandate: Jan 28-29, 2016
+    latitude: -36.853647
+    longitude: 174.769403
+    slug: 2016-01-28-auckland-instructor-training
+    start: 2016-01-28
+    tags:
+    - {name: TTT}
+    url: https://swcarpentry.github.io/2016-01-28-auckland-instructor-training/
+    venue: University of Auckland
+  - address: UF Informatics Institute, Griffon-Floyd Hall, 230 Newell Dr, Gainesville,
+      Florida
+    contact: gvwilson@software-carpentry.org
+    country: US
+    end: 2016-01-22
+    eventbrite_id: ''
+    humandate: Jan 21-22, 2016
+    latitude: 29.648324
+    longitude: -82.3465077
+    slug: 2016-01-21-training-florida
+    start: 2016-01-21
+    tags:
+    - {name: TTT}
+    url: https://swcarpentry.github.io/training-florida-2016-01-21/
+    venue: University of Florida
+  - address: Room 420, <a href="http://www.uq.edu.au/maps/">General Purpose South</a>
+      (Bldg 78), The University of Queensland
+    contact: training-help@software-carpentry.org
+    country: AU
+    end: 2016-01-19
+    eventbrite_id: ''
+    humandate: Jan 18-19, 2016
+    latitude: -27.493579
+    longitude: 153.016776
+    slug: 2016-01-18-brisbane-instructor-training
     start: 2016-01-18
     tags:
-    - {name: DC}
-    url: https://acharbonneau.github.io/2016-01-18-MSU/
-    venue: BEACON @ MSU
+    - {name: TTT}
+    url: https://swcarpentry.github.io/2016-01-18-brisbane-instructor-training/
+    venue: The University of Queensland
 workshops_current: *id001
 workshops_past: *id002

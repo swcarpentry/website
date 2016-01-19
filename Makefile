@@ -8,7 +8,7 @@ commands :
 
 ## amy        : update workshop and other data from AMY.
 amy :
-	${PY} bin/get-amy.py -u https://amy.software-carpentry.org/api/v1/ -o _data/amy.yml --tags-any=SWC,DC  # SWC, or DC, or SWC and DC
+	${PY} bin/get-amy.py -u https://amy.software-carpentry.org/api/v1/ -o _data/amy.yml --tags-any=SWC,DC,TTT
 
 ## dashboard  : update data about status of projects - requires ~/.git-token.
 dashboard :
