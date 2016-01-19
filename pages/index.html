@@ -71,7 +71,7 @@ permalink: /index.html
   <div class="medium-4 columns">
     <h3>Upcoming Workshops</h3>
     <table class="table table-striped workshops">
-      {% for w in site.data.amy.workshops_current reversed %}
+      {% for w in site.data.amy.workshops_current %}
       <tr>
 	<td>
 	  <img src="{{site.filesurl}}/flags/{{site.flag_size}}/{{w.country | downcase}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' ' | downcase}}" />
