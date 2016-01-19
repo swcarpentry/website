@@ -71,7 +71,8 @@ def main(amy_url, output_file, tags, all_=True):
         del workshops
 
     # Always sort workshops by the ascending start date.
-    unique_workshops = sorted(unique_workshops, key=lambda w: w['start'])
+    unique_workshops = sorted(unique_workshops,
+                              key=lambda w: (w['start'], w['slug']))
 
     # Adjust.
     config['workshops_past'], config['workshops_current'] = \
