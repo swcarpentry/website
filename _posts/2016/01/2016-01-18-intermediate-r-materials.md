@@ -2,7 +2,11 @@
 layout: post
 author: "Scott Ritchie"
 title: "Presenting materials for Intermediate UseRs"
+<<<<<<< Updated upstream
 date: 2016-02-18
+=======
+date: 2016-01-18
+>>>>>>> Stashed changes
 time: "23:00:00"
 category: ["lessons", "r"]
 ---
@@ -16,7 +20,11 @@ workshop attendees. Researchers generally fall into one of two catergories:
 
 2. Regular users: those who are using R in their research, possibly on a
    regular basis. They can modify scripts, and have a general understanding of
+<<<<<<< Updated upstream
    the language basics, but want to extend their knowledge. 
+=======
+   the language basics, but want to extend their knowledge.
+>>>>>>> Stashed changes
 
 Those who fall into the first category fit the Software Carpentry attendee
 archetype. The novice materials work well for them. The latter group typically
@@ -26,15 +34,23 @@ concepts, and have never written their own function, nor understand for loops.
 
 Early last year we recieved a request to run a workshop for a group of
 [quantitative ecologists](http://qaeco.com/) at the University of Melbourne.
+<<<<<<< Updated upstream
 The organiser, [Saras Windecker][saras] had attended a novice workshop
+=======
+The organiser, [Saras Windecker](https://twitter.com/smwindecker) had attended a novice workshop
+>>>>>>> Stashed changes
 previously, found the material too basic, but had appreciated the best
 practices and programming concepts. Together we sat down, and came up with a
 rough outline for some of the extension material she thought her group would
 find useful, and taught a two day workshop themed "effectively working with
+<<<<<<< Updated upstream
 data".  A write up of the workshop can be found [here][blog post]
 
 [saras]: (https://twitter.com/smwindecker)
 [blog post]: (http://melbourne.resbaz.edu.au/post/125756026789/unleashing-the-power-of-r)
+=======
+data".  A write up of the workshop can be found [here](http://melbourne.resbaz.edu.au/post/125756026789/unleashing-the-power-of-r)
+>>>>>>> Stashed changes
 
 Since then, we've typed up our notes from the workshop into the Software
 Carpentry lesson format, and can now present you with [intermediate materials
@@ -62,6 +78,9 @@ specific material that gets missed out in novice lessons:
 
 We hope that the community finds these materials useful and look forward to
 hearing about intermediate and advanced R workshops in the future!
+<<<<<<< Updated upstream
 
 
 
+=======
+>>>>>>> Stashed changes
