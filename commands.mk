@@ -13,3 +13,10 @@ dashboard :
 ## includes   : update include file listing from disk.
 includes :
 	${PY} bin/get-includes.py _data/includes.yml
+
+## everything : rebuild all data files and then serve the site
+everything:
+	@make amy
+	@make dashboard
+	@make includes
+	@make serve

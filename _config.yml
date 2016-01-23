@@ -14,6 +14,7 @@ whitelist:
 #############################################
 # Social medias - used in footer
 #############################################
+
 socialmedia:
   - name: GitHub
     url: http://github.com/swcarpentry
@@ -30,9 +31,15 @@ socialmedia:
     class: icon-youtube
     title: "Software Carpentry Videos"
 
+  - name: LinkedIn
+    url: https://www.linkedin.com/groups/8279689
+    class: icon-linkedin
+    title: "LinkedIn Instructors Group"
+
 #############################################
 # Services - used in footer
 #############################################
+
 services:
   - name: "Contact"
     url: "/contact/"
@@ -102,6 +109,7 @@ linkedin_url    : "https://www.linkedin.com/grp/home?gid=8279689"
 rss_url         : "http://software-carpentry.org/feed.xml"
 twitter_name    : "@swcarpentry"
 twitter_url     : "https://twitter.com/swcarpentry"
+slack_signup_url: "https://swc-slack-invite.herokuapp.com/"
 msl_url         : "http://mozillascience.org"
 store_url       : "http://www.cafepress.com/swcarpentry"
 mailing_lists   : "http://lists.software-carpentry.org"

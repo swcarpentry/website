@@ -12,7 +12,8 @@ CONTROLS = (
     ('swcarpentry/hg-novice', 'Mercurial'),
     ('swcarpentry/sql-novice-survey', 'SQL'),
     ('swcarpentry/python-novice-inflammation', 'Python'),
-    ('swcarpentry/r-novice-inflammation', 'R'),
+    ('swcarpentry/r-novice-inflammation', 'R (Inflammation Data)'),
+    ('swcarpentry/r-novice-gapminder', 'R (Gapminder Data)'),
     ('swcarpentry/matlab-novice-inflammation', 'MATLAB'),
     ('swcarpentry/make-novice', 'Make'),
     ('swcarpentry/capstone-novice-spreadsheet-biblio', 'From Excel to a Database via Python'),
@@ -20,8 +21,8 @@ CONTROLS = (
     ('DamienIrving/capstone-oceanography', 'Data Management in the Ocean, Weather and Climate Sciences'),
     ('swcarpentry/matlab-novice-capstone-biomed', 'Controlling a Quadcoptor With Your Mind'),
     ('swcarpentry/web-data-python', 'Working With Data on the Web'),
-    ('swcarpentry/amy', 'Workshop administration tool'),
-    ('swcarpentry/website', 'Software Carpentry website'),
+    ('swcarpentry/amy', 'Workshop Administration Tool'),
+    ('swcarpentry/website', 'Software Carpentry Website'),
 )
 
 def get_connection(token_file):
