@@ -3,4 +3,4 @@ layout: page-fullwidth
 permalink: /search/
 title: Search
 ---
-{% include google_search %}
+{% include google_search.html %}

@@ -11,7 +11,7 @@ redirect_from:
 
 <div style="text-align: center; margin-bottom: 15px">
   {% for flag in site.data.amy.flags.workshops %}
-    <img src="{{site.filesurl}}/flags/32/{{flag}}.png" title="{{flag | replace: '-',' '}}" alt="{{flag | replace: '-',' '}}" />
+    <img src="{{site.baseurl}}/files/flags/32/{{flag}}.png" title="{{flag | replace: '-',' '}}" alt="{{flag | replace: '-',' '}}" />
     {% unless forloop.last %}
       {% assign loopindex = forloop.index0 | modulo: 16 %}
       {% if loopindex == 15 %}
@@ -24,7 +24,7 @@ redirect_from:
 <table class="table table-striped workshops">
   {% for w in site.data.amy.workshops_past reversed %}
   <tr>
-    <td><img src="{{site.filesurl}}/flags/{{site.flag_size}}/{{w.country}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' '}}" /></td>
+    <td><img src="{{site.baseurl}}/files/flags/{{site.flag_size}}/{{w.country}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' '}}" /></td>
     <td class="link"><a href="{{w.url}}">{{w.venue}}</a></td>
     <td class="date">{{w.humandate}}</td>
   </tr>
