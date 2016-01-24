@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "Anelda van der Walt, Maia Lesosky, Adrianna Pińska"
+authors: ["Anelda van der Walt", "Maia Lesosky", "Adrianna Pińska"]
 title: "A Year Of Software Carpentry in South Africa"
 date: 2016-01-06
 time: "10:00:00"

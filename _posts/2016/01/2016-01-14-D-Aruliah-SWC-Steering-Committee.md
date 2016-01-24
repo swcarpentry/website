@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "Dhavide Aruliah"
+authors: ["Dhavide Aruliah"]
 title: "2016 Election: Dhavide Aruliah"
 date: 2016-01-14
 time: "09:30:00"

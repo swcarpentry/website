@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "Greg Wilson"
+authors: ["Greg Wilson"]
 title: "18 Months of Progress"
 date: 2016-01-15
 time: "04:00:00"

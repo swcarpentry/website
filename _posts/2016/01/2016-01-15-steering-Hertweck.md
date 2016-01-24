@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "Kate Hertweck"
+authors: ["Kate Hertweck"]
 title: "2016 Election: Kate Hertweck"
 date: 2016-01-13
 time: "08:00:00"

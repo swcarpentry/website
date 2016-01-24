@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "Hugh Shanahan"
+authors: ["Hugh Shanahan"]
 title: "Announcing the Data Science Journal"
 date: 2016-01-06
 time: "02:00:00"

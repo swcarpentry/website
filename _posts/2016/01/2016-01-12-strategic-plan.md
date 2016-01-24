@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "Katy Huff"
+authors: ["Katy Huff"]
 title: "A Strategic Plan for the Software Carpentry Foundation"
 date: 2016-01-12
 time: "17:00:00"

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "Greg Wilson"
+authors: ["Greg Wilson"]
 title: "Archiving Videos"
 date: 2016-01-13
 time: "11:00:00"
