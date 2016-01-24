@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "Giacomo Peru"
+authors: ["Giacomo Peru"]
 title: "2016 Election: Giacomo Peru"
 date: 2016-01-15
 time: "12:45:00"

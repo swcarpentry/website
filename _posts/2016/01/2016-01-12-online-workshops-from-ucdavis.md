@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "C. Titus Brown"
+authors: ["C. Titus Brown"]
 title: "Online Workshops from UC Davis"
 date: 2016-01-12
 time: "01:00:00"

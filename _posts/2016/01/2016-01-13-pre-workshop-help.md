@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "Kate Hertweck"
+authors: ["Kate Hertweck"]
 title: "Pre-workshop help sessions for 2016"
 date: 2016-01-13
 time: "15:00:00"

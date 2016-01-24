@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "Raniere Silva"
+authors: ["Raniere Silva"]
 title: "Discussion Sessions"
 date: 2016-01-02
 time: "10:00:00"
