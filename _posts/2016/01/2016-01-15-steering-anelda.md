@@ -44,23 +44,10 @@ undergraduate and honours in Genetics.
 
 ## Software Carpentry and me
 
-Software Carpentry has been on my radar for several years, but in
-November 2014 I was involved in running a [local
-workshop]({{page.baseurl}}/blog/2014/12/cape-town-swc.html) for the
-first time. I've subsequently organised or co-organised 5 more
-workshops and one remote instructor training (thanks to Greg's support
-and the enthusiastic help of our great local instructors and
-hosts). For more info about [South African Software Carpentry
-Activities]({{page.baseurl}}blog/2016/01/a-year-of-swc-in-south-africa.html)
-please read our recent [blog
-post]({{page.baseurl}}blog/2016/01/a-year-of-swc-in-south-africa.html).
 
-I've also been summarising Software Carpentry activities in blog
-format since January 2015 and briefly helped out with the Twitter
-account. I've submitted (small) pull requests to the Shell lesson,
-participated in the 2015 Instructor Retreat in London, and have been a
-massive local advocate for Software and Data Carpentry in South Africa
-across all organisations I engage with.
+Software Carpentry has been on my radar for several years, but in November 2014 I was involved in running a [local workshop]({{page.baseurl}}/blog/2014/12/cape-town-swc.html) for the first time. I've subsequently organised or co-organised 5 more workshops and one remote instructor training (thanks to Greg's support and the enthusiastic help of our great local instructors and hosts). For more info about [South African Software Carpentry Activities]({{page.baseurl}}/blog/2016/01/a-year-of-swc-in-south-africa.html) please read our recent [blog post]({{page.baseurl}}/blog/2016/01/a-year-of-swc-in-south-africa.html).
+
+I've also been summarising Software Carpentry activities in blog format since January 2015 and briefly helped out with the Twitter account. I've submitted (small) pull requests to the Shell lesson, participated in the 2015 Instructor Retreat in London, and have been a massive local advocate for Software and Data Carpentry in South Africa across all organisations I engage with.
 
 ## What can I offer?
 
