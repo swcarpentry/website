@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "Greg Wilson"
+authors: ["Greg Wilson"]
 title: "A New Book from Mark Guzdial"
 date: 2016-01-13
 time: "06:00:00"

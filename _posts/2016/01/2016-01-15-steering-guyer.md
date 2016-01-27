@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "Jonathan Guyer"
+authors: ["Jonathan Guyer"]
 title: "2016 Election: Jonathan Guyer"
 date: 2016-01-15
 time: "16:00:00"

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "Greg Wilson"
+authors: ["Greg Wilson"]
 title: "Lessons as Lab Protocols"
 date: 2016-01-03
 time: "03:00:00"
