@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Jonah Duckles
+authors: ["Jonah Duckles"]
 title: "Meet the 2016 Election Candidates"
 date: 2016-01-21
 time: "10:35:00"
