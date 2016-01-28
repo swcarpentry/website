@@ -2,7 +2,7 @@
 layout: post
 authors: ["Scott Ritchie"]
 title: "Presenting Materials for Intermediate UseRs"
-date: 2016-02-18
+date: 2016-01-18
 time: "23:00:00"
 category: ["Lessons", "R"]
 ---
