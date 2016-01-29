@@ -9,16 +9,21 @@ category: ["Community"]
 Our instructors teach a lot more than just Software Carpentry.
 For example,
 [Christie Bahlai]({{site.baseurl}}/team/#bahlai_christie) has started teaching a course on
-[Open Science and Reproducible Research](https://osrrcourse.wordpress.com/).
-The course blog already includes lots of interesting ideas,
-and there's lots more to come.
+"Open Science and Reproducible Research".
+You can [follow the course blog](https://osrrcourse.wordpress.com/)
+or check out the materials in [the course repository](https://github.com/cbahlai/OSRR_course)---contributions
+from the community are very welcome.
+The course already includes lots of interesting ideas,
+and there's more to come.
 
 Elsewhere,
 [Tiffany Timbers]({{site.basurl}}/team/#timbers_tiffany) is organizing several half-day workshops at Simon Fraser University
 as part of Titus Brown's
-[Data Intensive Biology training program]({{site.baseurl}}/blog/2016/01/online-workshops-from-ucdavis.html).
+[Data Intensive Biology training program](http://dib-training.readthedocs.org/en/pub/).
 These workshops will be hands on and supported by several TA's in addition to the instructor.
 All are welcome to participate, regardless of discipline or training level---please feel free to distribute these events widely.
+And if you cannot attend locally because of geography,
+please note that several of them are being streamed on YouTube:
 
 1.  [Regular Expressions and Python](https://github.com/ttimbers/dib-training/blob/pub/2016-02-17-regular_expressions_Python.md)
     taught by Tiffany Timbers on Feb 17, 2016.
