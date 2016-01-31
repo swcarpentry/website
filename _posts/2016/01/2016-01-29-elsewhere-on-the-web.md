@@ -35,5 +35,5 @@ please note that several of them are being streamed on YouTube:
     taught by Bruno Grande (SFU) on June 13, 2016
 
 If you are teaching something out in the open that our audience might be interested in,
-please [send us a link](mailto:{{site.contact}}---we'd enjoy hearing more about it,
+please [send us a link](mailto:{{site.contact}})---we'd enjoy hearing more about it,
 and we're sure our readers would too.
