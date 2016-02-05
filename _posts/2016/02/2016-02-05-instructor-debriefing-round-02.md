@@ -12,6 +12,7 @@ On January 26, we ran the 2nd round of Post-Workshop Instructor Debriefing Sessi
 
 ## Thoughts on the "check installation" scripts
 There is in an ongoing discussion about whether or not the **"check installation" scripts** for workshop pages should be updated. So, we asked the attendees how often these were being using and how useful they were. Some comments we received were:
+
 1. only a handful of students use them before coming to the workshop
 2. instructors/helpers use them when diagnosing install problems on site
 3. some cleaning of the script would be useful to remove checks for outdated and/or irrelevant tools
@@ -40,7 +41,8 @@ So, what do you do when this happens? One idea is to have a handful of USB stick
 ## Thanks!
 We are grateful to the instructors who attended the debriefing sessions this round. By taking the time to share their experience and listen to the experiences of others, they are truly making the Software and Data Carpentry community even more awesome!
 
-Morning attendees
+Morning attendees:
+
 - Ariel Rokem
 - Arthur Endsley
 - Christina Koch
@@ -51,7 +53,8 @@ Morning attendees
 - Sarah Clayton
 - Sarah Stevens
 
-Evening attendees
+Evening attendees:
+
 - Ivana Kajic
 - Jennifer Shelton
 - Pawel Pomorski
