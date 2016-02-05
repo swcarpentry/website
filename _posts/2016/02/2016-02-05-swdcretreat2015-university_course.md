@@ -1,6 +1,5 @@
 ---
 layout: post
-root: ../../..
 authors: ["Daniel Chen"]
 title: "SWDCRetreat2015 - Round-table discussion: Software Carpentry as a University Course Recap"
 date: 2016-02-05
