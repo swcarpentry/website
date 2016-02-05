@@ -30,13 +30,14 @@ So, what do you do when this happens? One idea is to have a handful of USB stick
 1. The Oklahoma group is developing a Git that they are very happy with. Check it out [here](http://github.com/oulib-swc).
 2. The Boston group gave a 10 minute session on implicit bias and stereotype threat that went over really well. Multiple said they were glad it was included. See [this link for details of the session](http://pad.software-carpentry.org/swc-debriefing-morning/timeslider#19007) or check out these [two](http://womeninastronomy.blogspot.com/2014/05/why-we-resist-unconscious-bias.html) [blogs](https://dynamicecology.wordpress.com/2014/04/28/stereotype-threat-a-summary-of-the-problem/). 
 3. Learners really love the [Data Carpentry Spreadsheets Lesson](http://www.datacarpentry.org/spreadsheet-ecology-lesson/). The lesson is still under development and has room for improvement, but it is helping people make the transition from using Excel to using the command line in their research
+4. The City University of New York group found learners were much more motivated after taking time to explore a narrative explanation of realistic tool usage.
+5. Waterloo found that reaching out to students on a number of new mailing lists dramatically helped attendance.
 
 ## What could have gone better
 1. The University of Boston group need to cap the number of University of Boston students admitted to allow seats for non-University of Boston attendees, but this was tricky to do within Eventbrite. 
 2. The University of Washington group taught two concurrent workshops, with a R-centric group in one room and a Python-centric group in the other. Managing a single waitlist for both on Eventbrite was not smooth. Maneesha is looking into solutions for this.
 3. The University of Washington instructors taught Bash and Git in the mornings, think its best to teach this in the morning. But, the learning didn't like having their 6 hour R or 6 hour Python lesson split up in two. **What do y'all think? What's the best order for teaching?**
-4. The City University of New York group found learners were much more motivated after taking time to explore a narrative explanation of realistic tool usage.
-5. Waterloo found that reaching out to students on a number of new mailing lists dramatically helped attendance.
+
 
 ## Thanks!
 We are grateful to the instructors who attended the debriefing sessions this round. By taking the time to share their experience and listen to the experiences of others, they are truly making the Software and Data Carpentry community even more awesome!
