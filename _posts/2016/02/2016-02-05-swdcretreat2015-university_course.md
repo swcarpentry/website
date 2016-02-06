@@ -1,7 +1,6 @@
 ---
-layout: blog
-root: ../../..
-author: Daniel Chen
+layout: post
+authors: ["Daniel Chen"]
 title: "SWDCRetreat2015 - Round-table discussion: Software Carpentry as a University Course Recap"
 date: 2016-02-05
 time: "17:00:00"
