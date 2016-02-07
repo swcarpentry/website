@@ -20,7 +20,7 @@ includes :
 
 ## serve      : run a local server.
 serve : 
-	bundle exec jekyll serve --config _config.yml,_config_dev.yml --verbose
+	bundle exec jekyll serve --config _config.yml,_config_dev.yml
 
 ## site       : build files but do not run a server.
 site : 
