@@ -62,7 +62,7 @@ msl_url         : "http://mozillascience.org"
 store_url       : "http://www.cafepress.com/swcarpentry"
 mailing_lists   : "http://lists.software-carpentry.org"
 flag_size       : 16
-v4_url          : "http://v4.software-carpentry.org"
+v4_url          : "https://v4.software-carpentry.org"
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
