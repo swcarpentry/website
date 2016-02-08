@@ -23,6 +23,7 @@ The plot below then shows completion rates and follow-through teaching rates (as
 tagged by whether the training event was online or in person,
 for all events that took place at least one year ago.
 (I've used that cutoff to give participants a fair chance to teach after completing their training.)
+It also shows the absolute number of participants and the follow-through teaching percentage by date.
 
 ![Correlations in Instructor Training]({{site.filesurl}}/2016/02/instructor-training-correlations.png "Correlations in instructor training")
 
