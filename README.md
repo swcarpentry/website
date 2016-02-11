@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/swcarpentry/website.svg?branch=gh-pages)](https://travis-ci.org/swcarpentry/website)
+
 # Software Carpentry Website
 
 This is the repository for the new [Software Carpentry website](http://software-carpentry.org).
