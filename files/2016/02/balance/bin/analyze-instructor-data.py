@@ -10,7 +10,7 @@ def main():
         num = int(num)
         seen[gender] += 1
         total_seen += 1
-        count[gender] += 1
+        count[gender] += num
         total_count += num
 
     print('gender,# people,% people,# taught,% taught')

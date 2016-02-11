@@ -19,7 +19,7 @@ all : cooked/repo-results.csv cooked/instructor-results.csv
 cooked/repo-results.csv : raw/repo-data.csv raw/names-genders.csv bin/analyze-repo-data.py
 	python bin/analyze-repo-data.py raw/names-genders.csv < raw/repo-data.csv > cooked/repo-results.csv
 
-cooked/instructor-results.csv : raw/instructor-data.csv
+cooked/instructor-results.csv : raw/instructor-data.csv bin/analyze-instructor-data.py
 	python bin/analyze-instructor-data.py < raw/instructor-data.csv > cooked/instructor-results.csv
 
 raw/repo-data.csv :
