@@ -7,7 +7,7 @@ time: "06:30:00"
 category: ["Noticed"]
 ---
 Andreas Stefik and his colleagues have written
-[a two-page summary](http://quorumlanguage.com/evidence/Evidence.pdf)
+[a two-page summary](http://quorumlanguage.com/evidence/evidence.pdf)
 of what we actually know about usability and programming language design.
 There aren't nearly as many results yet as we want or need,
 but what the people working in the field have shown is that
