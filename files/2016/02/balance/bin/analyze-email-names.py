@@ -1,4 +1,5 @@
 import sys
+import re
 
 def main():
 
@@ -7,21 +8,23 @@ def main():
     seen, total_seen = {}, 0
     count, total_count = {}, 0
 
-    for line in sys.stdin:
-        repo, name, date, kind = line.strip().split(',')
+    pat = re.compile(r'<i>([^<]+)\n</i>', re.DOTALL)
+    for filename in sys.argv[2:]:
+        with open(filename, encoding='latin-1') as reader:
+            data = reader.read()
+        for name in pat.findall(data):
+            if name in genders:
+                g = genders[name]
+            else:
+                print(name, file=sys.stderr)
+                g = 'U'
 
-        if name in genders:
-            g = genders[name]
-        else:
-            print(name, file=sys.stderr)
-            g = 'U'
-
-        count[g] = count.get(g, 0) + 1
-        total_count += 1
-        if name not in known_people:
-            known_people.add(name)
-            seen[g] = seen.get(g, 0) + 1
-            total_seen += 1
+            count[g] = count.get(g, 0) + 1
+            total_count += 1
+            if name not in known_people:
+                known_people.add(name)
+                seen[g] = seen.get(g, 0) + 1
+                total_seen += 1
 
     all_genders = seen.keys()
     print('gender,# people,% people,# contrib, % contrib')
