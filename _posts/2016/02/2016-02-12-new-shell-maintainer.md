@@ -8,7 +8,7 @@ category: ["Community", "Lessons"]
 ---
 
 After an application and selection process, Ashwin Srinath has been selected 
-as a new co-maintainer of the [Unix Shell](swcarpentry.github.io/shell-novice) lesson, 
+as a new co-maintainer of the [Unix Shell]({{site.github_io_url}}/shell-novice) lesson, 
 joining Gabriel Devenyi and replacing outgoing maintainer Christina Koch.  
 
 ## Introducing Ashwin
