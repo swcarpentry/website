@@ -1,0 +1,223 @@
+---
+layout: post
+authors: ["Greg Wilson"]
+title: "Checking the Balance"
+date: 2016-02-11
+time: "07:00:00"
+category: ["Community"]
+---
+<p>
+  It's been a depressing couple of weeks.
+  On top of yet more reports of universities turning a blind eye to sexual harassment for years,
+  a <a href="https://peerj.com/preprints/1733/">new paper</a> of gender bias in open source
+  shows that,
+  "...women's contributions tend to be accepted more often than men's.
+  However, when a woman's gender is identifiable, they are rejected more often."
+  This comes on top of earlier studies
+  (like <a href="http://www.win.tue.nl/~bvasiles/papers/socinfo12.pdf">this one</a>)
+  showing that women are substantially less well represented in open online forums like Stack Overflow
+  than in computing as a whole.
+</p>
+<p>
+  This prompted me to take another look at how Software Carpentry is doing---in particular,
+  at how online participation compares to in-person participation.
+  The two tables below compare the number and percentage of people teaching workshops
+  in the whole of 2015
+  with the number and percentage contributing to our repositories in January 2016.
+  (I'd really like to compare like against like by getting GitHub data for the whole of 2015,
+  but <a href="{{site.filesurl}}/2016/02/balance/bin/get-repo.py">my script</a>
+  won't fetch stuff from that far back.)
+  Each table shows both the number of distinct people and the number of distinct "events":
+  if someone taught three workshops,
+  for example,
+  they show up as one person but as three events,
+  and similarly for contributions to repositories.
+</p>
+<table>
+  <tr>
+    <td></td>
+    <td colspan="2">
+      <p>Repository Contributions</p>
+    </td>
+    <td colspan="2">
+      <p>Workshop Instruction</p>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      <p># people</p>
+    </td>
+    <td>
+      <p># events</p>
+    </td>
+    <td>
+      <p># people</p>
+    </td>
+    <td>
+      <p># events</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Female</p>
+    </td>
+    <td>
+      <p>19</p>
+    </td>
+    <td>
+      <p>69</p>
+    </td>
+    <td>
+      <p>89</p>
+    </td>
+    <td>
+      <p>182</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Male</p>
+    </td>
+    <td>
+      <p>79</p>
+    </td>
+    <td>
+      <p>532</p>
+    </td>
+    <td>
+      <p>193</p>
+    </td>
+    <td>
+      <p>406</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Unknown</p>
+    </td>
+    <td>
+      <p>14</p>
+    </td>
+    <td>
+      <p>28</p>
+    </td>
+    <td>
+      <p>121</p>
+    </td>
+    <td>
+      <p>163</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Other</p>
+    </td>
+    <td></td>
+    <td></td>
+    <td>
+      <p>3</p>
+    </td>
+    <td>
+      <p>4</p>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      <p>% people</p>
+    </td>
+    <td>
+      <p>% events</p>
+    </td>
+    <td>
+      <p>% people</p>
+    </td>
+    <td>
+      <p>% events</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Female</p>
+    </td>
+    <td>
+      <p>17.0</p>
+    </td>
+    <td>
+      <p>11.0</p>
+    </td>
+    <td>
+      <p>21.9</p>
+    </td>
+    <td>
+      <p>24.1</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Male</p>
+    </td>
+    <td>
+      <p>70.5</p>
+    </td>
+    <td>
+      <p>84.6</p>
+    </td>
+    <td>
+      <p>47.5</p>
+    </td>
+    <td>
+      <p>53.8</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Unknown</p>
+    </td>
+    <td>
+      <p>12.5</p>
+    </td>
+    <td>
+      <p>4.5</p>
+    </td>
+    <td>
+      <p>29.8</p>
+    </td>
+    <td>
+      <p>21.6</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Other</p>
+    </td>
+    <td></td>
+    <td></td>
+    <td>
+      <p>0.7</p>
+    </td>
+    <td>
+      <p>0.5</p>
+    </td>
+  </tr>
+</table>
+<p>
+  This data tells me that:
+</p>
+<ol>
+  <li>
+    Women are somewhat over-represented among teachers,
+    while men are over-represented among repository contributors,
+    but the differences are fairly small.
+  </li>
+  <li>
+    Ignoring instructors whose gender is unknown,
+    30% of in-class instructors are women.
+  </li>
+</ol>
+<p>
+  I'd like to add columns showing the gender breakdown of messages to our lists---if
+  anyone knows enough about <a href="https://www.gnu.org/software/mailman/">Mailman</a> to do that,
+  please give me a shout.
+</p>
