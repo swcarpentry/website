@@ -46,7 +46,7 @@ but there were still lots of comments:
     it's a great tool,
     and we'll definitely explore it.
 
-*   **Potential problems* are another place where having a community makes a big difference.
+*   **Potential problems** are another place where having a community makes a big difference.
     [This discussion]({{page.issues}}/20) reminded me that loading data is hard
     if you don't know how to navigate the filesystem;
     we've addressed that by allocating 10 minutes for learners to read their first CSV data set,
@@ -62,7 +62,7 @@ but there were still lots of comments:
     and it's less effort (no separate functions).
     See [this thread]({{page.issues}}/6) for the discussion.
 
-*   **Debugging* is also important.
+*   **Debugging** is also important.
     I'm a big fan of interactive symbolic debuggers,
     but all the Notebook provides right now is `pdb`,
     which we are *not* showing to novices.
