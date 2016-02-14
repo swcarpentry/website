@@ -1,0 +1,71 @@
+---
+layout: post
+authors: ["Greg Wilson"]
+title: "Correlations"
+date: 2016-02-08
+time: "01:00:00"
+category: ["Research", "Teaching"]
+---
+<p>
+  We've run instructor training both online and in person for several years,
+  so it's time to look at how they compare.
+  The <a href="{{site.filesurl}}/2016/02/instructor-training-stats.csv">raw data</a> shows:
+</p>
+<ul>
+  <li>the event's start date</li>
+  <li>its unique identifier (which we call a "slug")</li>
+  <li>whether it was online</li>
+  <li>how many people took part</li>
+  <li>how many completed training after this course (both as an absolute number and as a percentage)</li>
+  <li>how many completed after taking a later course (in both forms)</li>
+  <li>how many have never completed</li>
+  <li>how many have taught at least once since taking the course</li>
+</ul>
+<p>
+  The plot below then shows completion rates and follow-through teaching rates (as percentages) versus cohort size,
+  tagged by whether the training event was online or in person,
+  for all events that took place at least one year ago.
+  (I've used that cutoff to give participants a fair chance to teach after completing their training.)
+  It also shows the absolute number of participants and the follow-through teaching percentage by date.
+</p>
+<p>
+  <img src="{{site.filesurl}}/2016/02/instructor-training-correlations.png" alt="Correlations in Instructor Training" />
+</p>
+<p>
+  There are lots of other ways to analyze this data---if you can find any interesting correlations,
+  please post as comments below.
+</p>
+<hr/>
+<h2>Rayna Harris <a href="https://github.com/raynamharris/swc_data">added this</a>:</h2>
+<p>
+  Greg Wilson wrote two blog posts about <a href="{{site.baseurl}}/blog/2016/02/active-workshops.html">active SWC workshops</a>
+  and instructor training.
+  He made some pretty graphs and asked for other plots.
+  So, here is my  attempt to make some pretty correlation plots using the instructor training data.
+</p>
+<p>
+  <img src="{{site.filesurl}}/2016/02/instructor-training-stats-1.png" alt="More Correlations" />
+</p>
+<h3>Plot Description and Interpretation</h3>
+<h4>A1 &amp; A2. Not all learners but most badged instructors will teach</h4>
+<p>Just because we train a lot of new instructors doesn't mean that they
+ all go on to teach a workshop. The number of learners is not a great 
+predictor of how many will actually go on to teach a workshop (R^2 = 
+0.7021), but once they get their badge, they are very likely to teach 
+(R^2 = 0.915)</p>
+<h4>B1 &amp; B2. With time, more people will teach a workshop</h4>
+<p>We just started the new year, so many newly badged instructors 
+haven't had the chance to teach a workshop. When we account for year, 
+there is a very strong correlation between number of badged instructors 
+and those who have taught a course.  It looks like over time, more and 
+more are teaching.</p>
+<h4>C1 &amp; C2. Slightly more badged instructors from in-person training are teaching than those from online training</h4>
+<p>For 2014 and 2015, it looks like a few more badged instructors from 
+the in-person training have gone on to teach a workshop compared to 
+those who completed online training.  Given that the attrition rate for 
+online workshops appears to be greater (not shown), one could conclude 
+that the in-person training is more effective at producing SWC 
+instructors.</p>
+<h4>How I made these.</h4>
+<p>Check out my <a href="https://github.com/raynamharris/swc_data/blob/master/instructors.R">R script</a>
+to see the linear model that I ran to get the R^2 and the commands used to make the plots.</p>
