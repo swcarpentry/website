@@ -19,7 +19,7 @@ On Tuesday, February 9th, we ran the 3rd round of Post-Workshop Instructor Debri
 
 - **A 5-day Hybrid Data / Software Carpentry Workshop.** The  [2016-01-25-Utrecht](https://mkuzak.github.io/2016-01-25-Utrecht/) group covered a lot of material in this 5 day workshop (Spredsheets, OpenRefine, Python 3, Unix, SQL, Git, Make, and HPC)! While most of the materials were used as is, updates to the Data Carpentry Python lesson have already been pushed and merged.  
 
-- **Integrating SQL and Python.** The [2016-01-25-Utrecht](https://mkuzak.github.io/2016-01-25-Utrecht/) group used a [very large Ecology dataset](https://figshare.com/articles/Portal_Project_Teaching_Database/1314459) to demo the loading of files in SQL and queerying the database from Python. Examples like this are very useful for groups who are interested in showing how to integrate tools from different programs.
+- **Integrating SQL and Python.** The [2016-01-25-Utrecht](https://mkuzak.github.io/2016-01-25-Utrecht/) group used a [very large dataset](https://data.cityofnewyork.us/Social-Services/311-Service-Requests/fvrb-kbbt) to demo the loading of files in SQL and queerying the database from Python. Examples like this are very useful for groups who are interested in showing how to integrate tools from different programs.
 
 - **Domain Specific Python Lessons.** The [2016-02-06-uguelph](https://computecanada.github.io/2016-02-06-uguelph/) workshop substituted the Numpy and Matplotlib sections with material taught by [John Simpson](https://github.com/symulation?tab=repositories). Mateusz referred us to [Library Carpentry](https://github.com/librarycarpentry) for lessons tailored for librarians and similiar domain scientists.
 
