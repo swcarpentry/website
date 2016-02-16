@@ -98,7 +98,14 @@ And it really is "we":
 [Aleksandra Pawlik]({{site.baseurl}}/team/#pawlik_a),
 and [Tracy Teal]({{site.baseurl}}/team/#teal_t)
 are now certified instructor trainers,
-and several other people will be soon.
+[Ariel Rokem]({{site.baseurl}}/team/#rokem_a) is in training to become one,
+and we are about add six more:
+[Neal Davis]({{site.baseurl}}/team/#davis_neal),
+[Rayna Harris]({{site.baseurl}}/team/#harris_rayna),
+[Lex Nederbragt]({{site.baseurl}}/team/#nederbragt_l),
+[Anelda van der Walt]({{site.baseurl}}/team/#van-der-walt_anelda),
+[Belinda Weaver]({{site.baseurl}}/team/#weaver_belinda),
+and [Jason Williams]({{site.baseurl}}/team/#williams_jason).
 By August,
 we may finally have the capacity
 to help all the people who come to us
