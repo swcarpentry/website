@@ -72,5 +72,12 @@ and we're hoping that it will allow parallelization,
 i.e.,
 that many people will be able to fill in different parts of the outline simultaneously
 once the overall structure has been agreed.
-Building lessons this way is a new process for us---I'm eager to see
-how well it actually works.
+
+One of the biggest challenges in doing this will be
+to make the lesson *not* depend on command-line skills,
+so that it's accessible to people who are attending Data Carpentry workshops.
+That's going to be hard,
+as both LaTeX and Pandoc are command-line tools.
+Whatever results,
+building lessons this way is a big step for us,
+and I'm eager to see how well it actually works.
