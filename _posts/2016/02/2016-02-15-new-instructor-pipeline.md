@@ -31,10 +31,13 @@ In brief:
     chosen by the person running the session.
     Since she does not know in advance which five-minute segment she will be asked to teach,
     she must be ready to teach any part of the lesson.
-    If all goes well,
-    she gets her badge.
     If the examiner feels that she needs to do more work,
-    she will be given feedback and asked to try again.
+    she will be given feedback and asked to try again,
+    but if all goes well,
+    she will get her badge.
+    (Note that people don't have to qualify separately for different topics:
+    if you show that you've mastered one,
+    we'll trust that you'll master others as needed.)
 
 A dozen experienced instructors have run discussion sessions so far,
 and feedback has been very positive---everyone (both leaders and trainees)
@@ -45,7 +48,7 @@ and deciding whether people are ready to teach for us.
 By mid-year,
 our rule will be that trainees are always examined by someone other than
 the person who ran their training course,
-for the same reason that PhD committees always include external examiners.
+for the same reason that PhD committees usually include external examiners.
 
 It's starting to look like a sustainable, scalable process,
 but there's still lots of work to do:
@@ -70,13 +73,21 @@ but there's still lots of work to do:
     the discussion leader should know to hand them back to a trainer
     for a full and frank discussion of our reputation and their reliability.
 
-4.  We need to set a time limit on completion,
+4.  Equally,
+    we need to cut infrequently taught material from our lessons
+    so that trainees know what to focus on.
+    For example,
+    the material on building R packages is too advanced for most novice workshops;
+    we should either move that material to a separate advanced lesson
+    or mark it somehow.
+
+5.  We need to set a time limit on completion,
     let everyone know what it is,
     and enforce it.
     Our current thought is to give trainees 90 days to wrap up,
     while being generous with waivers for extenuating circumstances.
 
-5.  We need to follow up with the teams who took part in December 2015's training
+6.  We need to follow up with the teams who took part in December 2015's training
     and make sure they run the workshops that they promised to.
 
 I'm sure lots of other things will come up,
