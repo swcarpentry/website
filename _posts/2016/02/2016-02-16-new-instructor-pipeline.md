@@ -2,7 +2,7 @@
 layout: post
 authors: ["Greg Wilson"]
 title: "Our New Instructor Pipeline"
-date: 2016-02-15
+date: 2016-02-16
 time: "06:00:00"
 category: ["Instructor Training"]
 ---
