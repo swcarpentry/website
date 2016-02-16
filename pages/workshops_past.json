@@ -19,7 +19,9 @@ permalink: /workshops_past.json
         },
         "properties": {
           "marker-color": "#2b3990",
-          "details": "<a href='{{workshop.url}}'>{{workshop.venue}}: {{workshop.humandate}}</a>"
+          "details": [
+            "<a href='{{workshop.url}}'>{{workshop.venue}}: {{workshop.humandate}}</a>"
+          ]
         }
       }
     {% endunless %}
