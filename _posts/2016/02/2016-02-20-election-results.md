@@ -21,4 +21,4 @@ Thank you to all of the candidates for standing for election. We look
 forward to an exciting year of the new committee's contribution and leadership.
 
 For those interested, the raw results are available
- [here](https://github.com/swcarpentry/board/elections/2016/results.md).
+ [here](https://github.com/swcarpentry/board/blob/master/elections/2016/results.md).
