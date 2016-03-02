@@ -43,7 +43,7 @@ learners. This is why we work so hard to make sure that a workshop called
 instructor is "badged") and with instructors who have studied the
 community-developed lessons.
 
-Locally when we deliver a workshop we're working to bring together lessons
+Locally when we deliver a workshop we're working to bring together lessons,
 learners, and instructors that can deliver impactful workshops. To be prepared
 for this we strive to convince learners that spending two days with
 these lessons and our instructors will be impactful and helpful to how they
