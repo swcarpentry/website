@@ -1,27 +1,28 @@
 ---
 layout: post
 authors: ["Jonah Duckles"]
-title: "The Foundation of an Impactful Workshop, Communities"
+title: "Communities: The Foundation of Impactful Workshops"
 date: 2016-03-01
 time: "17:12:00"
 category: ["Community"]
 ---
 
 I spend a good deal of my time trying to communicate with member
-organizations about what it is that The Software Carpentry Foundation can do
+organizations about what it is that the Software Carpentry Foundation can do
 to help them meet their own goals. It is part of my job to showcase to them
 the return on investment that they'll see in various areas. The three areas in
 which this is most apparent are impacts on skills transfer to learners who
 attend workshops, the lesson material that is publicly available and built by
-the community and the capacity building that comes from mentoring instructors
+the community, and the capacity building that comes from mentoring instructors
 who are thinking about impactful instruction in short workshops.  
 
 In order to better arrange my ideas I decided to draw a Venn Diagram  with
 circles for Lessons, Learners and Instructors. I've tried to use this diagram to
 build my own mental model for how what we do in terms of core activities can
 scale and grow. Through this process I've come to think of the structure in this
-diagram as  podular, or a fractal element that repeats at various community
-scales such as university, research network, nation or worldwide.
+diagram as  podular (made of semi-autonomous pods), or a fractal element that
+repeats at various community scales such as university, research network,
+nation, or worldwide.
 
 ![The Components of Software Carpentry](/files/2016/03/venn_diagram.png)
 
@@ -32,7 +33,7 @@ working toward spreading consensus lessons and ethos of using open source tools
 for open and collaborative science to scientific communities via our workshops
 while using evidence based teaching methods.
 
-These workshops sit at the nexus of the diagram and in many ways showcase, in a
+These workshops sit at the nexus of the diagram and showcase, in a
 focused event, what it is that we stand for. They reflect the impacts we would
 like to have on changing how science is thought about in the context of
 computation. The brands "Software Carpentry" and "Data Carpentry" reflect a
@@ -49,18 +50,18 @@ these lessons and our instructors will be impactful and helpful to how they
 work. When you put this all together, we're not just developing training and
 delivering workshops, we as a community collectively own the lessons and are
 advancing, testing and refining the evidence based teaching best practices that
-we share with the uninitiated and reinforce through our instructor training.
+we share with others and reinforce through our instructor training.
 
 Outside of our core lessons and flagship workshops, you are strongly
 encouraged to duplicate this structure and apply it at smaller scales toward
 the specific needs of your own communities. This **is** how we grow and test
 new  ideas and lessons. As you do this we want to know what you've learned, we
 want to hear your success stories, we want to hear about your spectacular
-failures. Overall, we want The Carpentries together to be a community where the
+failures. Overall, we want the Carpentries together to be a community where the
 most broadly applicable lessons pertaining to the tools and best practices
 needed to do modern research can come to be curated and improved together. At
 the same time, we have [thriving global
-conversations](http://lists.software-carpentry.org/pipermail/discuss_lists.software-carpentry.org/)
+conversations]({{site.mailing_lists}}/pipermail/discuss_lists.software-carpentry.org/)
 about what gaps there are in our lessons, in our teaching methods, and how can
 we address those gaps and have more impact on the practice of research supported
 by computational tools.
