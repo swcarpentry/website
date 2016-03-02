@@ -23,7 +23,7 @@ scale and grow. Through this process I've come to think of the structure in this
 diagram as  podular, or a fractal element that repeats at various community
 scales such as university, research network, nation or worldwide.
 
-![The Components of Software Carpentry](/files/2016/03/venn_diagram.jpg)
+![The Components of Software Carpentry](/files/2016/03/venn_diagram.png)
 
 At each of our partner organizations we may have lessons, instructors and
 learners with their own unique and local perspectives, working toward impactful
