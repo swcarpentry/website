@@ -20,7 +20,7 @@ category: ["Community"]
 * We're currently in the lesson building phase for [Modern Scientific Authoring]({{page.baseurl}}/blog/2016/02/collaboration-counterpoint.html). Comments and contributions are very welcome.
 
 ##Vacancies
-* The Bioinformatics Training Facility of the School of Biological Sciences, University of Cambridge is looking for $
+* The Bioinformatics Training Facility of the School of Biological Sciences, University of Cambridge is looking for a [Training Impact Co-ordinator]({{page.baseurl}}/blog/2016/02/bioinformatics-training-impact-job.html).
 
 ##Other
 * Did you realise that collaborative tools such as the etherpad could be tremendously useful for [learners with (even slight) disabilities]({{page.baseurl}}/blog/2016/02/more-of-a-difference-than-you-realize.html)?
