@@ -47,7 +47,12 @@ and corner cases in control flow.
 I suspect this is because subtlety is inherently domain-specific,
 which means many fewer people know enough to write about any particular bit.
 
+In response to an early draft of this post,
+Jonathan added,
+"This distinction is especially important in the early experimental stage of developing a tool:
+if something is successful enough and widely applicable enough that it becomes 'hardened' or 'productized' or the like,
+then the complexity naturally grows to be robust and to handle a wider range of cases."
 This is why I enjoy Software Carpentry so much:
-someone always has a new insight.
+someone always has new insights.
 As always,
 we'd be grateful for yours.
