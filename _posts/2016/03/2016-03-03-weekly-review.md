@@ -52,6 +52,6 @@ category: ["Community"]
   * May:
     [CSDMS Annual Meeting](https://mperignon.github.io/2016-05-16-csdms/),
     [Colorado Special Libraries Association @ CU Boulder](https://mperignon.github.io/2016-05-25-culibraries/),
-    [National Institutes of Health](http://software-carpentry.org/workshops/datacarpentry.github.io/2016-05-26-NIH/)
+    [National Institutes of Health](http://www.datacarpentry.org/2016-05-26-NIH/)
   * July:
     [R workshop - The University of Queensland](https://bio-swc-bne.github.io/2016-07-11-bne-R/)
