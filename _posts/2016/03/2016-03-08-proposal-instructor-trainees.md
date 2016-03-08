@@ -4,9 +4,8 @@ authors: ["Belinda Weaver"]
 title: "A Proposal for Helping Instructor Trainees Finish"
 date: 2016-03-08
 time: "09:50:00"
----
 category: ["Instructor Training", "Mentoring"]
-
+---
 Instructor training is one way we grow our community worldwide. Yet many people who
 go through instructor training never go on to teach at a Software Carpentry workshop. Can that be fixed? I suggest that
 shepherding people though the final stages might help with completion rates.
