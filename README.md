@@ -71,12 +71,14 @@ your blog post will appear as `http://software-carpentry.org/blog/YYYY/MM/some-t
 The YAML header of a blog post must look like this:
 
 ~~~
+---
 layout: post
 authors: ["Your Name"]
 title: "A Title-Cased Title for the Post"
 date: YYYY-MM-DD
 time: "hh:mm:ss"
 category: ["Some Category", "Some Other Category"]
+---
 ~~~
 
 where `YYYY-MM-DD` is replaced by the post's date and `hh:mm:ss` by the post's time.
