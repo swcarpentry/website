@@ -4,7 +4,7 @@ authors: ["Rayna Harris"]
 title: "3rd Annual Big Data in Biology Summer School"
 date: 2016-03-08
 time: "13:30:00"
-category: ["Noticed"]
+category: ["UTexas"]
 ---
 
 # 3rd Annual Big Data in Biology Summer School
