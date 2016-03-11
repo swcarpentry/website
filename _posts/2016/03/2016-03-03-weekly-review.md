@@ -15,7 +15,7 @@ category: ["Community"]
 * DataONE is hosting Greg Wilson for a webinar titled [Research Computing Skills for Scientists: Lessons, Challenges, and Opportunities from Software Carpentry](https://www.dataone.org/upcoming-webinar) on 8 March 2016 at 9am Pacific Time. 
 
 ##New
-* Over the past three years the rOpenSci community have learnt some interesting lessons about community building and open software.  Their [paper describing these lessons learnt]({{page.baseurl}}//blog/2016/02/ropensci-paper.html) are now published and may provide some valuable insights to others on similar journeys.
+* Over the past three years the rOpenSci community have learnt some interesting lessons about community building and open software.  Their [paper describing these lessons learnt]({{page.baseurl}}/blog/2016/02/ropensci-paper.html) are now published and may provide some valuable insights to others on similar journeys.
 * The new instructor training pipeline is starting to ramp up. Five people are now qualified to train instructors while the next round of [instructor trainer training]({{page.baseurl}}/blog/2016/02/new-instructor-pipeline.html) is already underway. 
 * We're currently in the lesson building phase for [Modern Scientific Authoring]({{page.baseurl}}/blog/2016/02/collaboration-counterpoint.html). Comments and contributions are very welcome.
 
