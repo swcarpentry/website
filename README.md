@@ -38,7 +38,9 @@ $ bundle install
 to install Jekyll and the software it depends on.
 You may consult [Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages/) for further instructions.
 
-You will also need [Python 3](http://python.org/) in order to re-generate the [data files](#details) the site depends on.
+You will also need [Python 3](http://python.org/) with
+[PyYAML](https://pypi.python.org/pypi/PyYAML/) available in order to
+re-generate the [data files](#details) the site depends on.
 
 ## Previewing <a name="previewing"></a>
 
