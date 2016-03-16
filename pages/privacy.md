@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: page-fullwidth
 permalink: /privacy/
 title: Software Carpentry Foundation Privacy Policy
+comments: false
 ---
-
-# Software Carpentry Foundation Privacy Policy
 
 The Software Carpentry Foundation (the “SCF”) is is dedicated to the security
 and privacy of your data. We want you to know what data we collect, how we
@@ -48,40 +47,42 @@ outside of the Foundation, neither on this website nor anywhere else public.
 ## 2. What do we use this information for?
 
 **Basic usage information.** We use basic usage information to protect against
-**unauthorized intrusion into SCF-controlled servers, as well as monitor and
-**improve the availability and performance of SCF-controlled websites. We may
-**also use information collected from you to personalize your interactions with
-**SCF-controlled websites.
+unauthorized intrusion into SCF-controlled servers, as well as monitor and
+improve the availability and performance of SCF-controlled websites. We may
+also use information collected from you to personalize your interactions with
+SCF-controlled websites.
 
 **Personally identifiable information.** We use contact information to
-**communicate with members or with others that have accounts with the SCF, to
-**provide access to secure areas of our websites, and to provide the services
-**identified on our sites. We also use the information we collect to improve the
-**content of our websites We also use this information to prevent or detect
-**fraud or abuses of our websites and to enable third parties to carry out
-**technical, logistical or other functions on our behalf.   Financial
-**information and payment card details. We may ask those who want to donate to
-**the SCF, become a sponsor member, or become a supporting member to enter
-**credit card or account information in order to process payments to the SCF.
-**Financial information provided via our websites is transferred over a secure
-**connection. We collect this information on a transaction-by-transaction basis
-**and will not authorize the release of the information with anyone not directly
-**involved in processing the transaction. This information may be encrypted and
-**stored for logging purposes in accordance with applicable regulatory
-**requirements. Credit card numbers are used only for processing payments and
-**are not used for any other purposes. When we use third party service providers
-**for credit card processing services we will enter into a written agreement
-**with such third party ensuring appropriate security and confidentiality
-**measures are in place in safeguarding your personal data.
+communicate with members or with others that have accounts with the SCF, to
+provide access to secure areas of our websites, and to provide the services
+identified on our sites. We also use the information we collect to improve the
+content of our websites We also use this information to prevent or detect
+fraud or abuses of our websites and to enable third parties to carry out
+technical, logistical or other functions on our behalf.   Financial
+information and payment card details. We may ask those who want to donate to
+the SCF, become a sponsor member, or become a supporting member to enter
+credit card or account information in order to process payments to the SCF.
+Financial information provided via our websites is transferred over a secure
+connection. We collect this information on a transaction-by-transaction basis
+and will not authorize the release of the information with anyone not directly
+involved in processing the transaction. This information may be encrypted and
+stored for logging purposes in accordance with applicable regulatory
+requirements. Credit card numbers are used only for processing payments and
+are not used for any other purposes. When we use third party service providers
+for credit card processing services we will enter into a written agreement
+with such third party ensuring appropriate security and confidentiality
+measures are in place in safeguarding your personal data.
 
 ## 3. Disclosure of personal information
 
 We will not disclose any information we collect to any third party unless it is:
 
-1. Specifically authorized by you; or 2. Necessary to perform the functions
+1. Specifically authorized by you; or
+2. Necessary to perform the functions
 requested by you (and only to the extent absolutely necessary to perform the
-function); or 3. Required to check for fraud or other misuse of SCF resources;
-or 5. Required by law.
+function); or
+3. Required to check for fraud or other misuse of SCF resources; or
+4. Required by law.
 
 In particular, we may release the information we collect to third parties when
 we believe it is appropriate to comply with the law, to enforce our legal
@@ -122,4 +123,4 @@ collected in the past without your prior consent. This Privacy Policy was last
 updated on March 16, 2016.
 
 Adapted from the [privacy policy](https://www.python.org/privacy/) of the Python
-Foundation
+Foundation.
