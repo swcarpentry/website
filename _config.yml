@@ -92,6 +92,7 @@ exclude:
     - README.md
     - INSTALL.md
     - Makefile
+    - vendor
 
 # The language setting is used in /includes/header.html for html-settings
 language: "en"
