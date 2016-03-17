@@ -10,7 +10,7 @@ On February 23, Rayna Harris, Sheldon McKay, and Tiffany Timbers ran the 4th rou
 
 ## New lesson materials
 
-- **Data Carpentry Genomics Lesson.** Greg Wilson recently sent out an email about updating the lesson maintainer roles for Software Carpentry to jump-start finalizing the Ecology and Genomic lessons. These aren't final yet, but the [Iowa State University instructors](http://qingpeng.github.io/2016-02-22-isu/) spend about 12 hours putting together a genomic lesson. You can view the Git repository with their lessons [here](https://github.com/qingpeng/2016-02-22-isu/tree/gh-pages/lessons).
+- **Data Carpentry Genomics Lesson.** Greg Wilson recently sent out an email about updating the lesson maintainer roles for Software Carpentry to jump-start finalizing the Ecology and Genomic lessons. These aren't final yet, but the [Iowa State University instructors](http://qingpeng.github.io/2016-02-22-isu/) spent about considerable time putting together a genomic lesson. You can view the Git repository with their lessons [here](https://github.com/qingpeng/2016-02-22-isu/tree/gh-pages/lessons).
 
 - **Defensive Programming with Python.** On Day 2 of the [University of Pennsylvania workshop](http://maneesha.github.io/2016-02-22-upenn/), Byron adapted the Python materials to teach defensive programing, testing, and other tools that were applicable to the audience and could be incorporated immediately into the learner's research programs. Rayna encouraged Byron to contribute with the new [Python Novice Gapminder](https://github.com/swcarpentry/python-novice-gapminder/blob/gh-pages/index.md) lesson.
 
@@ -26,7 +26,8 @@ On February 23, Rayna Harris, Sheldon McKay, and Tiffany Timbers ran the 4th rou
 
 ## Installation problems
 
-Some students had problems installing Python and accessing Jupyter notebooks from Opera and Internet Explorer.
+- Some students had problems installing Python and accessing Jupyter notebooks from Opera and Internet Explorer.
+- Git is not on the default Data Carpentry Instances. This is not an issue, per se, but the insturctors did have to stop and retool during the Git lesson because of it.
 
 ## ICUYMI: Thoughts On Combining Debriefing Sessions with Instructor Checkout
 Belinda Weaver wrote a [nice post](http://software-carpentry.org/blog/2016/03/proposal-instructor-trainees.html) on helping instructor trainees finish their training. Then Greg Wilson [suggested](http://software-carpentry.org/blog/2016/03/should-we-combine-debriefing-and-lesson-discussion.html) combining the lesson discussion with the debriefings. Kate Hertweck [agreed and suggested](http://disq.us/9bowz6) merging the lesson discussion with the pre-workshop help session. 
