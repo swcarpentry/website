@@ -18,16 +18,20 @@ On February 23, Rayna Harris, Sheldon McKay, and Tiffany Timbers ran the 4th rou
 
 - **Amazon Web Service EC2.** Data Carpentry workshops used Amazon's instance for cloud computing. For instructions on using EC2 in your workshop, see [this lesson](https://jasonjwilliamsny.github.io/cloud-genomics/).
 
+- **Split screen Git**. At our Brisbane workshop, Selene Fernandez Valverde used a split screen to simulate two different collaborators when pushing and pulling with Git and it worked really well. It helped people see what was going on.
+
 ## What could have gone better
 
 - **Picking and choosing parts of the lesson.** A common thing instructors struggle with  is deciding exactly what pieces of a lesson to teach given the time constraints and the skill level of the learners. For instance, Byron reflected that he might could have spent less time on relative/fixed paths in favor of more time spent on scripting. As a newbie, Leah found working off the script made it difficult to flow through the material as she was unsure how much she could divert from the lesson.
 
   We all struggle with this and have different solutions. April Wright gets a lot of useful comments, feedback, and suggestions when she tweets or blogs about her lesson. So, good communication is key. Also, a repository of lesson flow charts would be nice, but I don't think that resource exists yet. 
+  
+- **Windows and gitbash.** In the Brisbane Python lesson, we had problems with copy and paste on gitbash on the Windows laptops. This made it hard using `wget` and `curl` as people had to manually type in the download link for data, and were unable to copy and paste other material.
 
 ## Installation problems
 
 - Some students had problems installing Python and accessing Jupyter notebooks from Opera and Internet Explorer.
-- Git is not on the default Data Carpentry Instances. This is not an issue, per se, but the insturctors did have to stop and retool during the Git lesson because of it.
+- Git is not on the default Data Carpentry Instances. This is not an issue, per se, but the instructors did have to stop and retool during the Git lesson because of it.
 
 ## ICUYMI: Thoughts On Combining Debriefing Sessions with Instructor Checkout
 Belinda Weaver wrote a [nice post](http://software-carpentry.org/blog/2016/03/proposal-instructor-trainees.html) on helping instructor trainees finish their training. Then Greg Wilson [suggested](http://software-carpentry.org/blog/2016/03/should-we-combine-debriefing-and-lesson-discussion.html) combining the lesson discussion with the debriefings. Kate Hertweck [agreed and suggested](http://disq.us/9bowz6) merging the lesson discussion with the pre-workshop help session. 
