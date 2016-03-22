@@ -33,7 +33,7 @@ On February 23, Rayna Harris, Sheldon McKay, and Tiffany Timbers ran the 4th rou
 - Some students had problems installing Python and accessing Jupyter notebooks from Opera and Internet Explorer.
 - Git is not on the default Data Carpentry Instances. This is not an issue, per se, but the instructors did have to stop and retool during the Git lesson because of it.
 
-## ICUYMI: Thoughts On Combining Debriefing Sessions with Instructor Checkout
+## ICYMI: Thoughts On Combining Debriefing Sessions with Instructor Checkout
 Belinda Weaver wrote a [nice post](http://software-carpentry.org/blog/2016/03/proposal-instructor-trainees.html) on helping instructor trainees finish their training. Then Greg Wilson [suggested](http://software-carpentry.org/blog/2016/03/should-we-combine-debriefing-and-lesson-discussion.html) combining the lesson discussion with the debriefings. Kate Hertweck [agreed and suggested](http://disq.us/9bowz6) merging the lesson discussion with the pre-workshop help session. 
  
 Instructor training is a valuable and critical part of our community, and we value your opinion on these matters. If you haven't already, take a look at these posts and share your thoughts.   
@@ -46,4 +46,4 @@ We are very grateful to the instructors who attended these debriefing sessions. 
 - Pat Schloss, [2016-02-29-UMichigan](http://microbialinformatics.github.io/2016-02-29-UMichigan/)
 - April Wright, [2016-02-22-ISU](http://qingpeng.github.io/2016-02-22-isu/)
 - Byron Smith, [2016-02-22-upenn](http://maneesha.github.io/2016-02-22-upenn/)
-- Leah Roberts, [2016-02-01-BrisbaneResBaz](https://bio-swc-bne.github.io/2016-02-01-BrisbaneResBaz-Python/
+- Leah Roberts, [2016-02-01-BrisbaneResBaz](https://bio-swc-bne.github.io/2016-02-01-BrisbaneResBaz-Python/)
