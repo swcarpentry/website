@@ -7,7 +7,7 @@ time: "15:30:00"
 category: ["annual","report"]
 ---
 
-I'm pleased to announce the publication of the first SCF annual report summarizing what we have done this year to to further our goals of promoting reproducibility and reliability in all branches of science, and helping researchers be more productive. 
+We're pleased to announce the publication of the first SCF annual report summarizing what we have done this year to to further our goals of promoting reproducibility and reliability in all branches of science, and helping researchers be more productive. 
 
-You can download the annual report [here](https://github.com/adina/website/blob/gh-pages/files/2016/03/2015_annual_report.pdf).
+You can download the annual report [here](https://github.com/adina/website/raw/gh-pages/files/2016/03/2015_annual_report.pdf).
 
