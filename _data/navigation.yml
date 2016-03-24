@@ -22,6 +22,8 @@
     url: "/scf/members/"
   - title: "Our History"
     url: "/scf/history/"
+  - title: "Privacy Policy"
+    url: "/privacy/"
 
 - title: "Workshops"
   url: "/workshops/"
