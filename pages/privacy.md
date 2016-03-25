@@ -5,14 +5,14 @@ title: Software Carpentry Foundation Privacy Policy
 comments: false
 ---
 
-The Software Carpentry Foundation (the “SCF”) is is dedicated to the security
+The Software Carpentry Foundation (the "SCF") is is dedicated to the security
 and privacy of your data. We want you to know what data we collect, how we
 collect it, and what we do with it so that you may decide whether or not to
 provide information to us.
 
 By visiting SCF websites or are otherwise providing your personal information to
 us via any other means, you are accepting and consenting to the practices
-described in this Policy. Unless specified otherwise, the term “visitor”
+described in this Policy. Unless specified otherwise, the term "visitor"
 includes both SCF members and nonmembers, whether you upload information to our
 websites, download information, or are merely visiting.  Becoming a member of
 the SCF will require us to ask for and store additional information.
