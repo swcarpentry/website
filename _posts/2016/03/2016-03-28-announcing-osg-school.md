@@ -4,7 +4,7 @@ authors: ["Christina Koch"]
 title: "Announcing the Open Science Grid User School 2016"
 date: 2016-03-28
 time: "11:30:00"
-category: ["noticed", "open science grid"]
+category: ["Noticed", "Open Science Grid"]
 ---
 
 If you could access hundreds or thousands of computers for your scholarly work, what could you do? 
