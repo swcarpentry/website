@@ -15,19 +15,21 @@ airports:
   - {name: Tim McNamara, user: mcnamara_tim}
   - {name: John Rugis, user: rugis_john}
   - {name: Andre Geldenhuis, user: geldenhuis_andre}
-  - {name: Wolfgang Hayek, user: hayek_wolfgang}
+  - {name: Sebastian Schmeier, user: schmeier_sebastian}
   latitude: -37.008056
   longitude: 174.791667
   name: Auckland
 - country: se
   instructors:
   - {name: Roman Valls Guimera, user: valls-guimera_roman}
+  - {name: Matthias Nilsson, user: nilsson_matthias}
   latitude: 59.651944
   longitude: 17.918611
   name: Stockholm
 - country: us
   instructors:
   - {name: Daniel Smith, user: smith_daniel}
+  - {name: Casey Bergman, user: bergman_casey}
   latitude: 33.640278
   longitude: -84.426944
   name: Atlanta, GA
@@ -74,7 +76,7 @@ airports:
   name: Bangkok
 - country: in
   instructors:
-  - {name: SVAKSHA -, user: svaksha}
+  - {name: Svaksha -, user: svaksha}
   latitude: 12.949722
   longitude: 77.668056
   name: Bangalore
@@ -89,11 +91,16 @@ airports:
   instructors:
   - {name: Areej Alsheikh-Hussain, user: alsheikh-hussain_areej}
   - {name: Sam Hames, user: hames_sam}
-  - {name: Paula Andrea Andrea Martinez, user: martinez_paula}
+  - {name: Paula Andrea Martinez, user: martinez_paula}
   - {name: Amanda Miotto, user: miotto_amanda}
+  - {name: Leah Roberts, user: roberts_leah}
   - {name: Mitchell Stanton-Cook, user: stanton-cook_mitchell}
   - {name: Darya Vanichkina, user: vanichkina_darya}
   - {name: Belinda Weaver, user: weaver_belinda}
+  - {name: Heidi Perrett, user: perrett_heidi}
+  - {name: Nouri Ben Zakour, user: ben-zakour_nouri}
+  - {name: Kim Keogh, user: keogh_kim}
+  - {name: Anup Shah, user: shah_anup}
   latitude: -27.384167
   longitude: 153.1175
   name: Brisbane
@@ -110,12 +117,14 @@ airports:
   - {name: Mary Piper, user: piper_mary}
   - {name: Tom Pollard, user: pollard_tom}
   - {name: Janet Riley, user: riley_janet}
+  - {name: Philip Rosenfield, user: rosenfield_phil}
   - {name: Michael Selik, user: selik_m}
   - {name: Genevieve Shattow, user: shattow_genevieve}
   - {name: Adam Freedman, user: freedman_adam}
   - {name: Amir Karger, user: karger_amir}
   - {name: Andrew Marder, user: marder_andrew}
   - {name: Ista Zahn, user: zahn_ista}
+  - {name: Eric Ma, user: ma_eric}
   latitude: 42.364167
   longitude: -71.005
   name: Boston, MA
@@ -130,6 +139,7 @@ airports:
   instructors:
   - {name: Erik Bray, user: bray_e}
   - {name: Justin Ely, user: ely_j}
+  - {name: R. Burke Burke Squires, user: squires_r_burke}
   - {name: Alex Viana, user: viana_a}
   latitude: 39.175278
   longitude: -76.668333
@@ -137,6 +147,9 @@ airports:
 - country: fr
   instructors:
   - {name: Nelle Varoquaux, user: varoquaux_n}
+  - {name: Bartosz Telenczuk, user: telenczuk_bartosz}
+  - {name: Marcel Stimberg, user: stimberg_marcel}
+  - {name: Camille Marini, user: marini_camille}
   latitude: 49.012778
   longitude: 2.55
   name: Paris Charles de Gaulle
@@ -183,6 +196,8 @@ airports:
   instructors:
   - {name: Chelsea Chisholm, user: chisholm_chelsea}
   - {name: Johan Hjelm, user: hjelm_johan}
+  - {name: Kai Blin, user: blin_kai}
+  - {name: Sigrid Klerke, user: klerke_sigrid}
   latitude: 55.617778
   longitude: 12.655833
   name: Copenhagen Kastrup
@@ -190,7 +205,7 @@ airports:
   instructors:
   - {name: Adrianna Pińska, user: pinska_adrianna}
   - {name: Anelda van der Walt, user: van-der-walt_anelda}
-  - {name: Stefan van der Walt, user: vanderwalt_s}
+  - {name: Peter van Heusden, user: van-heusden_peter}
   - {name: Raissa Philibert, user: philibert_raissa}
   latitude: -33.964722
   longitude: 18.601667
@@ -204,7 +219,10 @@ airports:
   - {name: Rosario Robinson, user: robinson_rosario}
   - {name: Joshua Smith, user: smith_j}
   - {name: Mike Smorul, user: smorul_mike}
+  - {name: Josh Waterfall, user: waterfall_josh}
   - {name: Ryan Dale, user: dale_ryan}
+  - {name: Denise Liberton, user: liberton_denise}
+  - {name: Joanna Jędrzejewska-Szmek, user: jedrzejewska-szmek_joanna}
   latitude: 38.851944
   longitude: -77.0375
   name: Ronald Reagan Washington, DC
@@ -221,8 +239,13 @@ airports:
   name: Denver, CO
 - country: us
   instructors:
+  - {name: Daren Card, user: card_daren}
   - {name: John Corless, user: corless_john}
   - {name: Kate Hertweck, user: hertweck_kate}
+  - {name: Amit Kumar, user: kumar_amit}
+  - {name: Kevin Vilbig, user: vilbig_kevin}
+  - {name: Rohit Rawat, user: rawat_rohit}
+  - {name: Anna Williford, user: williford_anna}
   latitude: 32.896389
   longitude: -97.0375
   name: Dallas-Fort Worth, TX
@@ -244,6 +267,7 @@ airports:
   instructors:
   - {name: Adina Howe, user: chuang-howe_a}
   - {name: Fan Yang, user: yang_fan}
+  - {name: Jinlyung(Jin) Choi, user: choi_jin}
   latitude: 41.533889
   longitude: -93.6625
   name: Des Moines, IA
@@ -258,6 +282,7 @@ airports:
   - {name: Jiarong Guo, user: guo_jiarong}
   - {name: Luiz Irber, user: irber_luiz}
   - {name: Ben Johnson, user: johnson_ben}
+  - {name: Will Pitchers, user: pitchers_w}
   - {name: Marian Schmidt, user: schmidt_marian}
   - {name: Leigh Sheneman, user: sheneman_leigh}
   - {name: Byron Smith, user: smith_byron}
@@ -289,6 +314,15 @@ airports:
   - {name: Leighton Pritchard, user: pritchard_leighton}
   - {name: Sam Thomson, user: thomson_samuel}
   - {name: Michael Torpey, user: torpey_michael}
+  - {name: Toni Collis, user: collis_toni}
+  - {name: Shaun Webb, user: webb_shaun}
+  - {name: Alastair Kerr, user: kerr_alastair}
+  - {name: Daniel Robertson, user: robertson_daniel}
+  - {name: Kevin Stratford, user: stratford_kevin}
+  - {name: Ioanna Lampaki, user: lampaki_ioanna}
+  - {name: Fiona Reid, user: reid_fiona}
+  - {name: Juan Rodriguez Herrera, user: rodriguez-herrera_juan}
+  - {name: Rupert Nash, user: nash_rupert}
   latitude: 55.95
   longitude: -3.3725
   name: Edinburgh
@@ -327,6 +361,7 @@ airports:
   - {name: Philipp Lies, user: lies_philipp}
   - {name: Malvika Sharan, user: sharan_malvika}
   - {name: Horacio Vargas Guzman, user: vargas-guzman_horacio}
+  - {name: Toby Hodges, user: hodges_toby}
   latitude: 50.026389
   longitude: 8.543056
   name: Frankfurt
@@ -334,6 +369,8 @@ airports:
   instructors:
   - {name: Zbigniew Jędrzejewski-Szmek, user: jedrzejewski-szmek_zbigniew}
   - {name: Adam Thomas, user: thomas_adam}
+  - {name: Daniel Wheeler, user: wheeler_daniel}
+  - {name: Lynn Young, user: young_lynn}
   latitude: 38.944444
   longitude: -77.455556
   name: Washington Dulles, DC
@@ -367,6 +404,7 @@ airports:
   - {name: Joshua Ainsley, user: ainsley_joshua}
   - {name: Jonathan Borrelli, user: borrelli_jonathan}
   - {name: Laura Jane Graham, user: graham_laura}
+  - {name: Catherine Olsson, user: olsson_catherine}
   - {name: Noam Ross, user: ross_noam}
   - {name: Matthew Ruttley, user: ruttley_m}
   - {name: Jennifer Shelton, user: shelton_jennifer}
@@ -384,6 +422,8 @@ airports:
   - {name: Klemens Noga, user: noga_klemens}
   - {name: Leszek Tarkowski, user: tarkowski_leszek}
   - {name: Katarzyna Zaczek, user: zaczek_katarzyna}
+  - {name: Natalia Osiecka, user: osiecka_natalia}
+  - {name: Christopher Mędrela, user: medrela_krzysztof}
   latitude: 50.0775
   longitude: 19.784722
   name: Krakow
@@ -408,11 +448,14 @@ airports:
   name: Los Angeles, CA
 - country: gb
   instructors:
+  - {name: Grace Cox, user: cox_grace}
   - {name: Aaron O'Leary, user: oleary_aaron}
   - {name: Andrew Walker, user: walker_andrew}
   - {name: Jon E Mound, user: mound_je}
   - {name: Mike Wallis, user: wallis_mike}
+  - {name: Alastair Droop, user: droop_alastair}
   - {name: Chris Norton, user: norton_chris}
+  - {name: Andrew Mellor, user: mellor_andrew}
   - {name: Andy Evans, user: evans_andy}
   - {name: Krzysztof Poterlowicz, user: poterlowicz_krzysztof}
   - {name: Will Furnass, user: furnass_will}
@@ -423,6 +466,8 @@ airports:
   instructors:
   - {name: Luis Figueira, user: figueira_l}
   - {name: James Derrick, user: derrick_james}
+  - {name: Mladen Georgiev, user: georgiev_mladen}
+  - {name: Thomas Dowrick, user: dowrick_tom}
   latitude: 51.505
   longitude: 0.054167
   name: London City
@@ -448,6 +493,7 @@ airports:
   - {name: William Christmas, user: christmas_bill}
   - {name: Helen Cooper, user: cooper_helen}
   - {name: Chris Tomlinson, user: tomlinson_christopher}
+  - {name: Benjamin Laken, user: laken_benjamin}
   latitude: 51.148056
   longitude: -0.190278
   name: London Gatwick
@@ -475,6 +521,14 @@ airports:
   - {name: Arfan Ahmed, user: ahmed_arfan}
   - {name: Alys Brett, user: brett_alys}
   - {name: Bethan Davies, user: davies_bethan}
+  - {name: Consuelo Sendino, user: sendino_consuelo}
+  - {name: Malcom Penn, user: penn_malcom}
+  - {name: Sreekumar Balan, user: balan_sreekumar}
+  - {name: Dave Wright, user: wright_dave}
+  - {name: Daniel Buchan, user: buchan_daniel}
+  - {name: Jarek Bryk, user: bryk_jarek}
+  - {name: Martin Carr, user: carr_martin}
+  - {name: Christopher Cooper, user: cooper_christopher}
   latitude: 51.4775
   longitude: -0.461389
   name: London Heathrow
@@ -488,6 +542,7 @@ airports:
   instructors:
   - {name: Javier García-Algarra, user: garcia-algarra_javier}
   - {name: JC Leyder, user: leyder_jean-christophe}
+  - {name: Andrés Díaz-Gil, user: diaz-gil_andres}
   latitude: 40.472222
   longitude: -3.560833
   name: Madrid
@@ -501,7 +556,13 @@ airports:
   - {name: Aleksandra Nenadic, user: nenadic_aleksandra}
   - {name: Aleksandra Pawlik, user: pawlik_a}
   - {name: Shoaib Sufi, user: sufi_s}
+  - {name: Stuart Mumford, user: mumford_stuart}
   - {name: Seb James, user: james_sebastian}
+  - {name: Gerard Capes, user: capes_gerard}
+  - {name: Ahmad Alam, user: alam_ahmad}
+  - {name: Simone Di Cola, user: dicola_simone}
+  - {name: Suzanne Embury, user: embury_suzanne}
+  - {name: Jenefer Cockitt, user: cockitt_jenefer}
   latitude: 53.353611
   longitude: -2.274722
   name: Manchester
@@ -509,6 +570,7 @@ airports:
   instructors:
   - {name: Christopher Hamm, user: hamm_christopher}
   - {name: Emily Jane McTavish, user: mctavish_ej}
+  - {name: John Moreau, user: moreau_john}
   latitude: 39.2975
   longitude: -94.713889
   name: Kansas City, KS
@@ -538,7 +600,6 @@ airports:
   - {name: Kim Doyle, user: doyle_kimberly}
   - {name: Julian Garcia, user: garcia_julian}
   - {name: Philippa Griffin, user: griffin_pip}
-  - {name: Damien Irving, user: irving_d}
   - {name: Isabell Kiral-Kornek, user: kiral-kornek_isabell}
   - {name: Scott Kolbe, user: kolbe_scott}
   - {name: Andrew Lonsdale, user: lonsdale_andrew}
@@ -555,6 +616,8 @@ airports:
   - {name: Alistair Walsh, user: walsh_alistair}
   - {name: Jared Winton, user: winton_jared}
   - {name: Steve Androulakis, user: androulakis_steve}
+  - {name: Ghulam Murtaza, user: murtaza_ghulam}
+  - {name: Marek Cmero, user: cmero_marek}
   latitude: -37.673333
   longitude: 144.843333
   name: Melbourne
@@ -572,6 +635,9 @@ airports:
   - {name: Sarah Stevens, user: stevens_sarah}
   - {name: Sarah Supp, user: supp_s}
   - {name: Paul Wilson, user: wilson_p}
+  - {name: Laura DeCicco, user: decicco_laura}
+  - {name: Lindsay Carr, user: carr_lindsay}
+  - {name: Michelle Craft, user: craft_michelle}
   latitude: 43.139722
   longitude: -89.3375
   name: Madison, WI
@@ -587,6 +653,7 @@ airports:
 - country: us
   instructors:
   - {name: Hani Nakhoul, user: nakhoul_hani}
+  - {name: Tina O'Grady, user: ogrady_tina}
   - {name: Joon Ro, user: ro_j}
   latitude: 29.993333
   longitude: -90.257778
@@ -624,7 +691,9 @@ airports:
   - {name: Kunal Marwaha, user: marwaha_kunal}
   - {name: Geoff Oxberry, user: oxberry_g}
   - {name: Fernando Perez, user: perez_f}
+  - {name: Rochelle Terman, user: terman_rochelle}
   - {name: Matt Terry, user: terry_m}
+  - {name: Stéfan van der Walt, user: vanderwalt_s}
   - {name: Donny Winston, user: winston_donald}
   - {name: Max Gerlock, user: gerlock_max}
   - {name: Harry Bachrach, user: bachrach_harry}
@@ -633,6 +702,7 @@ airports:
   name: Oakland, CA
 - country: us
   instructors:
+  - {name: Dana Brunson, user: brunson_dana}
   - {name: Patrick Calhoun, user: calhoun_patrick}
   - {name: Logan Cox, user: cox_logan}
   - {name: Jonah Duckles, user: duckles_jonah}
@@ -640,10 +710,14 @@ airports:
   - {name: Braden Owsley, user: owsley_braden}
   - {name: Brent Shambaugh, user: shambaugh_brent}
   - {name: Mark Stacy, user: stacy_mark}
+  - {name: Cody Taylor, user: taylor_cody}
   - {name: Blake Stamps, user: stamps_blake}
   - {name: James Adams, user: adams_james}
   - {name: Jason Sherman, user: sherman_jason}
   - {name: Sarah Clayton, user: clayton_sarah}
+  - {name: Peter Hoyt, user: hoyt_peter}
+  - {name: Phillip Doehle, user: doehle_phillip}
+  - {name: Patrick Boyle, user: boyle_patrick}
   latitude: 35.393056
   longitude: -97.600556
   name: Oklahoma City
@@ -651,6 +725,7 @@ airports:
   instructors:
   - {name: Camille Avestruz, user: avestruz_camille}
   - {name: Dirk Eddelbuettel, user: eddelbuettel_dirk}
+  - {name: Jackie Milhans, user: milhans_jackie}
   latitude: 41.979444
   longitude: -87.904444
   name: Chicago O'Hare, IL
@@ -658,6 +733,7 @@ airports:
   instructors:
   - {name: Alexandre Gramfort, user: gramfort_a}
   - {name: Konrad Hinsen, user: hinsen_k}
+  - {name: Maria Teleńczuk, user: telenczuk_maria}
   latitude: 48.725278
   longitude: 2.359444
   name: Paris Orly
@@ -666,7 +742,9 @@ airports:
   - {name: Hugues Fontenelle, user: fontenelle_hugues}
   - {name: Karin Lagesen, user: lagesen_k}
   - {name: Lex Nederbragt, user: nederbragt_l}
-  - {name: Anne Claire Fouilloux, user: fouilloux_anne-claire}
+  - {name: Arvind Sundaram, user: sundaram_arvind}
+  - {name: Halfdan Rydbeck, user: rydbeck_halfdan}
+  - {name: Anne Fouilloux, user: fouilloux_anne}
   - {name: Marius Bjørnstad, user: bjornstad_marius}
   latitude: 60.193889
   longitude: 11.100278
@@ -779,6 +857,7 @@ airports:
 - country: us
   instructors:
   - {name: Lukas Blakk, user: blakk_lukas}
+  - {name: Matthew Brett, user: brett_matthew}
   - {name: Brandon Curtis, user: curtis_b}
   - {name: Ted Hart, user: hart_t}
   - {name: Katy Huff, user: huff_k}
@@ -817,6 +896,7 @@ airports:
   - {name: Gus Hart, user: hart_gus}
   - {name: Andrew Nguyen, user: nguyen_andrew}
   - {name: Conrad Rosenbrock, user: rosenbrock_conrad}
+  - {name: Anita Orendt, user: orendt_anita}
   latitude: 40.788333
   longitude: -111.9775
   name: Salt Lake City, UT
@@ -829,6 +909,7 @@ airports:
   - {name: Camille Scott, user: scott_camille}
   - {name: Tracy Teal, user: teal_t}
   - {name: Easton White, user: white_easton}
+  - {name: Jessica Mizzi, user: mizzi_jessica}
   latitude: 38.695278
   longitude: -121.590556
   name: Sacramento, CA
@@ -871,11 +952,17 @@ airports:
 - country: au
   instructors:
   - {name: Will Cornwell, user: cornwell_will}
+  - {name: Westa Domanova, user: domanova_westa}
   - {name: Daniel Falster, user: falster_daniel}
   - {name: Fabian Held, user: held_fabian}
   - {name: Joshua Madin, user: madin_j}
   - {name: Ben Marwick, user: marwick_ben}
   - {name: Dan Warren, user: warren_dan}
+  - {name: Martin Héroux, user: heroux_martin}
+  - {name: Beth Signal, user: signal_beth}
+  - {name: Jared Berghold, user: berghold_jared}
+  - {name: Louis Ranjard, user: ranjard_louis}
+  - {name: Claire Hardgrove, user: hardgrove_claire}
   latitude: -33.946111
   longitude: 151.177222
   name: Sydney
@@ -906,6 +993,7 @@ airports:
   - {name: Philipp Von Bieberstein, user: von-bieberstein_philipp}
   - {name: Naupaka Zimmerman, user: zimmerman_naupaka}
   - {name: Victor Cordero, user: cordero_victor}
+  - {name: Alison Appling, user: appling_alison}
   latitude: 32.116111
   longitude: -110.941389
   name: Tucson, AZ
@@ -920,8 +1008,9 @@ airports:
   - {name: Cam Macdonell, user: macdonell_cam}
   - {name: Vicky Varga, user: varga_vicky}
   - {name: John Simpson, user: simpson_john}
-  - {name: Todd Suomela, user: suomela}
-  - {name: Patrick Lloyd-Smith, user: lloydsmith}
+  - {name: Todd Suomela, user: suomela_todd}
+  - {name: Patrick Lloyd-Smith, user: lloyd-smith_patrick}
+  - {name: Vineet Khandpur, user: khandpur}
   latitude: 53.309722
   longitude: -113.579722
   name: Edmonton
@@ -960,7 +1049,7 @@ airports:
   - {name: Timothee Poisot, user: poisot_t}
   - {name: Francoise Provencher, user: provencher_francoise}
   - {name: Pier-Luc St-Onge, user: st-onge_pier-luc}
-  - {name: Jean-François St-Pierre, user: Jean-François St-Pierre}
+  - {name: Jean-François St-Pierre, user: st-pierre_jean-francois}
   latitude: 45.468056
   longitude: -73.741389
   name: Montreal
@@ -969,24 +1058,33 @@ airports:
   - {name: Dhavide Aruliah, user: aruliah_d}
   - {name: Jennifer Bryan, user: bryan_j}
   - {name: Kathy Chung, user: chung_kathy}
+  - {name: Bruno Grande, user: grande_bruno}
   - {name: Julia Gustavsen, user: gustavsen_j}
   - {name: Daisie Huang, user: huang_daisie}
   - {name: Ted Kirkpatrick, user: kirkpatrick_ted}
   - {name: Bernhard Konrad, user: konrad_b}
   - {name: Doug Latornell, user: latornell_d}
+  - {name: Catrina Loucks, user: loucks_catrina}
   - {name: Bill Mills, user: mills_b}
   - {name: Ian Mitchell, user: mitchell_i}
   - {name: Karina Ramos Musalem, user: ramos-musalem_ana-karina}
   - {name: Nancy Soontiens, user: soontiens_nancy}
   - {name: Tiffany Timbers, user: timbers_tiffany}
+  - {name: Thea Van Rossum, user: van-rossum_thea}
   - {name: Lynne Williams, user: williams_l}
   - {name: Alex Razoumov, user: razoumov_alex}
+  - {name: Melissa Guzman, user: guzman_melissa}
+  - {name: Steven Wu, user: swu}
+  - {name: Jessica Walsh, user: jwalsh}
+  - {name: Michelle Jones, user: mjones}
+  - {name: Kedar Page, user: kpage}
   latitude: 49.195
   longitude: -123.181944
   name: Vancouver
 - country: ca
   instructors:
   - {name: Pauline Barmby, user: barmby_pauline}
+  - {name: Patrick Chapman, user: chapman_patrick}
   - {name: Tyson Whitehead, user: whitehead_tyson}
   latitude: 43.035556
   longitude: -81.153889
@@ -1001,6 +1099,7 @@ airports:
   name: Victoria
 - country: ca
   instructors:
+  - {name: Sean Aubin, user: aubin_sean}
   - {name: Amy Brown, user: brown_amy}
   - {name: Arliss Collins, user: collins_arliss}
   - {name: Martin Durant, user: durant_martin}
@@ -1010,15 +1109,23 @@ airports:
   - {name: Jeremy Gray, user: gray_jeremy}
   - {name: Thomas Guignard, user: guignard_thomas}
   - {name: Luke Johnston, user: johnston_luke}
+  - {name: Ryan Neufeld, user: neufeld_ryan}
   - {name: Brenna O'Brien, user: obrien_brenna}
+  - {name: Jon Pipitone, user: pipitone_j}
   - {name: Pawel Pomorski, user: pomorski_pawel}
   - {name: Morgan Taschuk, user: taschuk_morgan}
+  - {name: Lina Tran, user: tran_lina}
   - {name: Greg Wilson, user: wilson_g}
   - {name: Tom Wright, user: wright_thomas}
-  - {name: Brendan Smithyman, user: smithyman}
+  - {name: Brendan Smithyman, user: smithyman_brendan}
+  - {name: Madeleine Bonsma, user: bonsma_madeleine}
   - {name: Sarah Meister, user: meister_sarah}
+  - {name: Elliott Sales de Andrade, user: sales_elliott}
   - {name: Ricardo Harripaul, user: harripaul_ricardo}
+  - {name: Ivana Kajić, user: kajic_ivana}
   - {name: Jasmine Ren, user: jasmine_ren}
+  - {name: Allan Campopiano, user: acampopiano}
+  - {name: Robert Colautti, user: colautti}
   latitude: 43.677222
   longitude: -79.630556
   name: Toronto
@@ -1038,7 +1145,11 @@ airports:
   instructors:
   - {name: Reed Cartwright, user: cartwright_reed}
   - {name: David Dotson, user: dotson_david}
+  - {name: Avishek Kumar, user: kumar_avishek}
+  - {name: Ryan Middleton, user: middleton_ryan}
+  - {name: Mahdi Sadjadi, user: sadjadi_seyed-mahdi}
   - {name: Rachel Schwartz, user: schwartz_rachel}
+  - {name: Stevan Earl, user: earl_stevan}
   - {name: Arron Shiffer, user: shiffer_arron}
   - {name: John Chase, user: chase_john}
   latitude: 33.434167
@@ -1049,6 +1160,7 @@ airports:
   - {name: Mik Black, user: black_mik}
   - {name: James Boocock, user: boocock_james}
   - {name: Tom Kelly, user: kelly_tom}
+  - {name: David Eyers, user: eyers_david}
   latitude: -45.928056
   longitude: 170.198333
   name: Dunedin
@@ -1069,6 +1181,7 @@ airports:
   instructors:
   - {name: Emelie Harstad, user: harstad_emelie}
   - {name: Joshua Herr, user: herr_joshua}
+  - {name: Bill McClung, user: mcclung_bill}
   latitude: 40.850833
   longitude: -96.759167
   name: Lincoln, NE
@@ -1121,6 +1234,8 @@ airports:
   - {name: Matthew Collins, user: collins_matthew}
   - {name: François Michonneau, user: michonneau_francois}
   - {name: Ethan White, user: white_e}
+  - {name: Brian Stucky, user: stucky_brian}
+  - {name: Allison Jai O'Dell, user: odell_allison-jai}
   latitude: 29.69
   longitude: -82.271667
   name: Gainesville, FL
@@ -1202,7 +1317,10 @@ airports:
 - country: nl
   instructors:
   - {name: Mateusz Kuzak, user: kuzak_mateusz}
+  - {name: Philip Lijnzaad, user: lijnzaad_philip}
+  - {name: Joona Lehtomäki, user: lehtomaki_joona}
   - {name: Carlos Martinez-Ortiz, user: martinez-ortiz_carlos}
+  - {name: Edwin van der Helm, user: van-der-helm_edwin}
   latitude: 52.309686
   longitude: 4.767438
   name: 'Amsterdam Airport Schiphol '
@@ -1220,7 +1338,12 @@ airports:
   name: O. R. Tambo International Airport
 - country: ch
   instructors:
+  - {name: Frank Pennekamp, user: pennekamp_frank}
   - {name: Stefan Pfenninger, user: pfenninger_s}
+  - {name: Mark Robinson, user: robinson_mark}
+  - {name: Florian Thöle, user: thoele_florian}
+  - {name: Lukas Weber, user: weber_lukas}
+  - {name: Matthias Haeni, user: haeni_matthias}
   latitude: 47.457767
   longitude: 8.560132
   name: Zurich Airport
@@ -1230,629 +1353,1114 @@ airports:
   latitude: 58.406971
   longitude: 15.667521
   name: Linköping City Airport
-- country: fi
-  instructors:
-  - {name: Joona Lehtomäki, user: lehtomaki_joona}
-  latitude: 60.320659
-  longitude: 24.943162
-  name: Helsinki Airport
 - country: ca
   instructors:
   - {name: Sergey Mashchenko, user: mashchenko_sergey}
   latitude: 43.166685
   longitude: -79.933572
   name: John C. Munro Hamilton International Airport
+- country: br
+  instructors:
+  - {name: Fernando Mayer, user: mayer_fernando}
+  - {name: Abel Siqueira, user: soares-siqueira_abel}
+  - {name: Kally Chung, user: chung_kally}
+  latitude: -25.532589
+  longitude: -49.17487
+  name: Afonso Pena International Airport
+- country: us
+  instructors:
+  - {name: Deborah Paul, user: paul_deborah}
+  latitude: 30.39537
+  longitude: -84.34527
+  name: Tallahassee International Airport
+- country: au
+  instructors:
+  - {name: Damien Irving, user: irving_d}
+  - {name: Tom Remenyi, user: remenyi_tom}
+  latitude: -42.834715
+  longitude: 147.499117
+  name: Hobart International Airport
+- country: gr
+  instructors:
+  - {name: Fotis Psomopoulos, user: psomopoulos_fotis}
+  - {name: Kyriakos Chatzidimitriou, user: chatzidimitriou_kyriakos}
+  - {name: Athanassios Kintsakis, user: kintsakis_athanassios}
+  - {name: Antonia Gogoglou, user: gogoglou_antonia}
+  latitude: 40.518775
+  longitude: 22.971483
+  name: Thessaloniki Airport
+- country: mx
+  instructors:
+  - {name: Selene L. Fernandez-Valverde, user: fernandez-valverde_selene}
+  latitude: 20.990772
+  longitude: -101.479347
+  name: Del Bajío International Airport
+- country: cl
+  instructors:
+  - {name: Juan Ugalde, user: ugalde_juan}
+  latitude: -33.393484
+  longitude: -70.790926
+  name: Comodoro Arturo Merino Benítez International Airport
+- country: us
+  instructors:
+  - {name: Jingchao Zhang, user: zhang_jingchao}
+  latitude: 41.300139
+  longitude: -95.897406
+  name: Eppley Airfield
+- country: ee
+  instructors:
+  - {name: Dmytro Fishman, user: fishman_dmytro}
+  - {name: Elena Sügis, user: sugis_elena}
+  latitude: 59.416582
+  longitude: 24.80074
+  name: Tallinn Airport
+- country: it
+  instructors:
+  - {name: Vincenza Colonna, user: colonna_vincenza}
+  latitude: 40.882264
+  longitude: 14.285442
+  name: Naples International Airport
+- country: fr
+  instructors:
+  - {name: Bérénice Batut, user: batut_berenice}
+  latitude: 45.789918
+  longitude: 3.158258
+  name: Clermont-Ferrand Auvergne Airport
+- country: ch
+  instructors:
+  - {name: Diana Marek, user: marek_diana}
+  latitude: 46.236757
+  longitude: 6.109113
+  name: Genève Aéroport
+- country: sa
+  instructors:
+  - {name: David Ketcheson, user: ketcheson_david}
+  latitude: 21.665527
+  longitude: 39.158732
+  name: King Abdulaziz International Airport
+- country: nz
+  instructors:
+  - {name: Hannes Calitz, user: calitz_hannes}
+  latitude: -40.323854
+  longitude: 175.621829
+  name: Palmerston North Airport
+- country: us
+  instructors:
+  - {name: Joseph Stachelek, user: stachelek_joseph}
+  latitude: 26.683696
+  longitude: -80.092323
+  name: Palm Beach International Airport
+- country: nz
+  instructors:
+  - {name: Wolfgang Hayek, user: hayek_wolfgang}
+  latitude: -41.328932
+  longitude: 174.808049
+  name: Wellington International Airport
+- country: au
+  instructors:
+  - {name: David Beitey, user: beitey_david}
+  - {name: Steve Vandervalk, user: vandervalk_steven}
+  - {name: Jay van Schyndel, user: van-schyndel_jay}
+  latitude: -19.248454
+  longitude: 146.766907
+  name: Townsville Airport
+- country: it
+  instructors:
+  - {name: Giuseppe Profiti, user: profiti_giuseppe}
+  latitude: 44.536189
+  longitude: 11.289168
+  name: Bologna Guglielmo Marconi Airport
+- country: be
+  instructors:
+  - {name: Christof De Bo, user: debo_christof}
+  latitude: 50.902447
+  longitude: 4.487055
+  name: Brussels Airport
+- country: es
+  instructors:
+  - {name: Inigo Aldazabal Mensa, user: aldazabal_inigo}
+  latitude: 43.300854
+  longitude: -2.907575
+  name: Bilbao Airport
+- country: us
+  instructors:
+  - {name: Alejandro Mantero, user: mantero_alejandro}
+  latitude: 25.793914
+  longitude: -80.283806
+  name: Miami International Airport
+- country: au
+  instructors:
+  - {name: Jason Bell, user: bell_jason}
+  latitude: -23.392273
+  longitude: 150.468179
+  name: Rockhampton Airport
+- country: hk
+  instructors:
+  - {name: Peter Li, user: li_peter}
+  latitude: 22.306975
+  longitude: 113.913803
+  name: Hong Kong International Airport
+- country: de
+  instructors:
+  - {name: Moritz Neeb, user: neeb_moritz}
+  latitude: 52.3800011
+  longitude: 13.5225
+  name: Berlin-Schönefeld
+- country: nz
+  instructors:
+  - {name: Georgina Rae, user: rae_georgina}
+  latitude: -37.007305
+  longitude: 174.783727
+  name: Aukland Airport
 badges:
 - name: creator
   persons:
-  - {name: John Blischak, user: blischak_j}
-  - {name: Jennifer Bryan, user: bryan_j}
-  - {name: Stephen Crouch, user: crouch_s}
-  - {name: Matt Davis, user: davis_m}
-  - {name: Tommy Guy, user: guy_t}
-  - {name: Michael Hansen, user: hansen_m}
-  - {name: Katy Huff, user: huff_k}
-  - {name: Mike Jackson, user: jackson_m}
-  - {name: Jason Montojo, user: montojo_j}
-  - {name: Jon Pipitone, user: pipitone_j}
-  - {name: Anthony Scopatz, user: scopatz_a}
-  - {name: Will Trimble, user: trimble_will}
-  - {name: Ethan White, user: white_e}
-  - {name: Greg Wilson, user: wilson_g}
+  - {awarded: '2013-08-14', name: John Blischak, user: blischak_j}
+  - {awarded: '2013-08-14', name: Jennifer Bryan, user: bryan_j}
+  - {awarded: '2013-07-24', name: Stephen Crouch, user: crouch_s}
+  - {awarded: '2013-09-15', name: Matt Davis, user: davis_m}
+  - {awarded: '2012-12-20', name: Tommy Guy, user: guy_t}
+  - {awarded: '2013-09-15', name: Michael Hansen, user: hansen_m}
+  - {awarded: '2013-08-14', name: Katy Huff, user: huff_k}
+  - {awarded: '2012-12-20', name: Mike Jackson, user: jackson_m}
+  - {awarded: '2012-12-20', name: Jason Montojo, user: montojo_j}
+  - {awarded: '2012-12-20', name: Jon Pipitone, user: pipitone_j}
+  - {awarded: '2013-09-15', name: Anthony Scopatz, user: scopatz_a}
+  - {awarded: '2013-08-14', name: Will Trimble, user: trimble_will}
+  - {awarded: '2012-12-20', name: Ethan White, user: white_e}
+  - {awarded: '2012-12-20', name: Greg Wilson, user: wilson_g}
 - name: swc-instructor
   persons:
-  - {name: Joshua Adelman, user: adelman_joshua}
-  - {name: Aron Ahmadia, user: ahmadia_a}
-  - {name: Matthew Aiello-Lammens, user: aiello-lammens_matthew}
-  - {name: Joshua Ainsley, user: ainsley_joshua}
-  - {name: Harriet Alexander, user: alexander_harriet}
-  - {name: Russell Alleen Willems, user: alleen-willems_russell}
-  - {name: James Allen, user: allen_james}
-  - {name: Pete Alonzi, user: alonzi_pete}
-  - {name: Areej Alsheikh-Hussain, user: alsheikh-hussain_areej}
-  - {name: Carlos Anderson, user: anderson_c}
-  - {name: Catalina Anghel, user: anghel_catalina}
-  - {name: Mario Antonioletti, user: antonioletti_mario}
-  - {name: Dhavide Aruliah, user: aruliah_d}
-  - {name: Camille Avestruz, user: avestruz_camille}
-  - {name: Sung Eun Bae, user: bae_sung}
-  - {name: Christie Bahlai, user: bahlai_christie}
-  - {name: Piotr Banaszkiewicz, user: banaszkiewicz_piotr}
-  - {name: Pauline Barmby, user: barmby_pauline}
-  - {name: Diego Barneche Rosado, user: barneche_diego}
-  - {name: Ewan Barr, user: barr_ewan}
-  - {name: Kathryn Barrett, user: barrett_kathryn}
-  - {name: Radovan Bast, user: bast_radovan}
-  - {name: Dana Bauer, user: bauer_dana}
-  - {name: Philipp Bayer, user: bayer_p}
-  - {name: Rob Beagrie, user: beagrie_robert}
-  - {name: Trevor Bekolay, user: bekolay_trevor}
-  - {name: Nichole Bennett, user: bennett_n}
-  - {name: Miguel Bernabeu, user: bernabeu_miguel}
-  - {name: Mik Black, user: black_mik}
-  - {name: Lukas Blakk, user: blakk_lukas}
-  - {name: John Blischak, user: blischak_j}
-  - {name: Carl Boettiger, user: boettiger_carl}
-  - {name: Jessica Bonnie, user: bonnie_jessica}
-  - {name: James Boocock, user: boocock_james}
-  - {name: Darren Boss, user: boss_darren}
-  - {name: Azalee Bostroem, user: bostroem_a}
-  - {name: Erik Bray, user: bray_e}
-  - {name: C. Titus Brown, user: brown_ct}
-  - {name: Jennifer Bryan, user: bryan_j}
-  - {name: Scott Burns, user: burns_scott}
-  - {name: Abigail Cabunoc Mayes, user: cabunoc_abigail}
-  - {name: Jared Camins-Esakov, user: camins-esakov_jared}
-  - {name: Rosangela Canino-Koning, user: canino-koning_r}
-  - {name: Chris Cannam, user: cannam_c}
-  - {name: Greg Caporaso, user: caporaso_greg}
-  - {name: Timothy Cerino, user: cerino_t}
-  - {name: Scott Chamberlain, user: chamberlain_s}
-  - {name: Cliburn Chan, user: chan_cliburn}
-  - {name: Amanda Charbonneau, user: charbonneau_amanda}
-  - {name: Daniel Chen, user: chen_daniel}
-  - {name: Chelsea Chisholm, user: chisholm_chelsea}
-  - {name: Shreyas Cholia, user: cholia_s}
-  - {name: Adina Howe, user: chuang-howe_a}
-  - {name: Neil Chue Hong, user: chue-hong_n}
-  - {name: Sophie Clayton, user: clayton_sophie}
-  - {name: Luis Pedro Coelho, user: coelho_luis}
-  - {name: Ruth Collings, user: collings_ruth}
-  - {name: John Corless, user: corless_john}
-  - {name: Marianne Corvellec, user: corvellec_marianne}
-  - {name: Thomas Coudrat, user: coudrat_thomas}
-  - {name: Logan Cox, user: cox_logan}
-  - {name: Stefano Cozzini, user: cozzini_s}
-  - {name: Karen Cranston, user: cranston_k}
-  - {name: Nicholas Crouch, user: crouch_nicholas}
-  - {name: Stephen Crouch, user: crouch_s}
-  - {name: Michael Crusoe, user: crusoe_michael}
-  - {name: Maciej Czuchry, user: czuchry_maciej}
-  - {name: Harriet Dashnow, user: dashnow_harriet}
-  - {name: Emily Davenport, user: davenport_e}
-  - {name: Robert Davey, user: davey_rob}
-  - {name: Matt Davis, user: davis_m}
-  - {name: Neal Davis, user: davis_neal}
-  - {name: Raffaella Demichelis, user: demichelis_raffaella}
-  - {name: Balamurugan Desinghu, user: desinghu_balamurugan}
-  - {name: Gabriel A. Devenyi, user: devenyi_gabriel}
-  - {name: Ross Dickson, user: dickson_r}
-  - {name: Matthew Dimmock, user: dimmock_matt}
-  - {name: Kim Doyle, user: doyle_kimberly}
-  - {name: Jonah Duckles, user: duckles_jonah}
-  - {name: Martin Durant, user: durant_martin}
-  - {name: Jonathan Dursi, user: dursi_j}
-  - {name: Dureid El-Moghraby, user: el-moghraby_dureid}
-  - {name: Justin Ely, user: ely_j}
-  - {name: Rémi Emonet, user: emonet_remi}
-  - {name: Richard Enbody, user: enbody_r}
-  - {name: Aaron Erlich, user: erlich_aaron}
-  - {name: Daniel Falster, user: falster_daniel}
-  - {name: Emmanouil Farsarakis, user: farsarakis_emmanouil}
-  - {name: Xu Fei, user: fei_xu}
-  - {name: Angus Ferguson, user: ferguson_angus}
-  - {name: Luis Figueira, user: figueira_l}
-  - {name: Jordan Fish, user: fish_jordan}
-  - {name: Rich FitzJohn, user: fitzjohn_rich}
-  - {name: Robert Flight, user: flight_r}
-  - {name: John Fonner, user: fonner_john}
-  - {name: Philip Fowler, user: fowler_philip}
-  - {name: Jonathan Frederic, user: frederic_jonathan}
-  - {name: Bob Freeman, user: freeman_robert}
-  - {name: Chris Friedline, user: friedline_chris}
-  - {name: Zhuo Fu, user: fu_zhuo}
-  - {name: Emilia Gan, user: gan_emilia}
-  - {name: Leonor Garcia-Gutierrez, user: garcia-gutierrez_leonor}
-  - {name: Julian Garcia, user: garcia_julian}
-  - {name: Aaron Garoutte, user: garoutte_aaron}
-  - {name: Chris Gates, user: gates_chris}
-  - {name: Laurent Gatto, user: gatto_laurent}
-  - {name: Noushin Ghaffari, user: ghaffari_noushin}
-  - {name: Molly Gibson, user: gibson_molly}
-  - {name: Ivan Gonzalez, user: gonzalez_ivan}
-  - {name: Gerard Gorman, user: gorman_gerard}
-  - {name: John Gosset, user: gosset_john}
-  - {name: Alistair Grant, user: grant_alistair}
-  - {name: Philippa Griffin, user: griffin_pip}
-  - {name: Jonathan Gross, user: gross_jonathan}
-  - {name: Thomas Guignard, user: guignard_thomas}
-  - {name: Jiarong Guo, user: guo_jiarong}
-  - {name: Prashant Gupta, user: gupta_prashant}
-  - {name: Julia Gustavsen, user: gustavsen_j}
-  - {name: Tommy Guy, user: guy_t}
-  - {name: Jonathan Guyer, user: guyer_jonathan}
-  - {name: Steve Haddock, user: haddock_s}
-  - {name: Denis Haine, user: haine_denis}
-  - {name: Sam Hames, user: hames_sam}
-  - {name: Christopher Hamm, user: hamm_christopher}
-  - {name: Jessica Hamrick, user: hamrick_jessica}
-  - {name: Nic Hannah, user: hannah_nicholas}
-  - {name: Michael Hansen, user: hansen_m}
-  - {name: Rayna Harris, user: harris_rayna}
-  - {name: Anthony Harrison, user: harrison_anthony}
-  - {name: Emelie Harstad, user: harstad_emelie}
-  - {name: Ted Hart, user: hart_t}
-  - {name: Ian Hawke, user: hawke_ian}
-  - {name: Fabian Held, user: held_fabian}
-  - {name: Ian Henry, user: henry_ian}
-  - {name: Joshua Herr, user: herr_joshua}
-  - {name: Kate Hertweck, user: hertweck_kate}
-  - {name: James Hetherington, user: hetherington_james}
-  - {name: James Hiebert, user: hiebert_james}
-  - {name: Cody Hinchliff, user: hinchliff_cody}
-  - {name: Konrad Hinsen, user: hinsen_k}
-  - {name: Daniel Hocking, user: hocking_daniel}
-  - {name: Amy Hodge, user: hodge_amy}
-  - {name: Chris Holdgraf, user: holdgraf_c}
-  - {name: Jeff Hollister, user: hollister_jeff}
-  - {name: Richard Hosking, user: hosking_richard}
-  - {name: Daisie Huang, user: huang_daisie}
-  - {name: Katy Huff, user: huff_k}
-  - {name: Fatma Imamoglu, user: imamoglu_fatma}
-  - {name: Devasena Inupakutika, user: inupakutika_devasena}
-  - {name: Luiz Irber, user: irber_luiz}
-  - {name: Damien Irving, user: irving_d}
-  - {name: Paul Ivanov, user: ivanov_p}
-  - {name: Mike Jackson, user: jackson_m}
-  - {name: Christian Jacobs, user: jacobs_christian}
-  - {name: Zbigniew Jędrzejewski-Szmek, user: jedrzejewski-szmek_zbigniew}
-  - {name: Ben Johnson, user: johnson_ben}
-  - {name: David Jones, user: jones_d}
-  - {name: David Jones, user: jones_dm}
-  - {name: Martin Jones, user: jones_martin}
-  - {name: Nick Jones, user: jones_nick}
-  - {name: Tom Kelly, user: kelly_tom}
-  - {name: Jessica Kerr, user: kerr_j}
-  - {name: Jan Kim, user: kim_jan}
-  - {name: W. Trevor King, user: king_wt}
-  - {name: Isabell Kiral-Kornek, user: kiral-kornek_isabell}
-  - {name: Ted Kirkpatrick, user: kirkpatrick_ted}
-  - {name: Justin Kitzes, user: kitzes_j}
-  - {name: Christina Koch, user: koch_christina}
-  - {name: Steven Koenig, user: koenig_steven}
-  - {name: Alex Koeppel, user: koeppel_alexander}
-  - {name: Scott Kolbe, user: kolbe_scott}
-  - {name: Bernhard Konrad, user: konrad_b}
-  - {name: Igor Kozlov, user: kozlov_igor}
-  - {name: Paulina Lach, user: lach_paulina}
-  - {name: Olivier Lafleur, user: lafleur_olivier}
-  - {name: Isabelle Laforest-Lapointe, user: laforest-lapointe_isabelle}
-  - {name: Karin Lagesen, user: lagesen_k}
-  - {name: Sherry Lake, user: lake_sherry}
-  - {name: Ian Langmore, user: langmore_i}
-  - {name: Jeremiah Lant, user: lant_jeremiah}
-  - {name: Chris Lasher, user: lasher_c}
-  - {name: Doug Latornell, user: latornell_d}
-  - {name: David LeBauer, user: lebauer_david}
-  - {name: Kate Lee, user: lee_kate}
-  - {name: Luke Lee, user: lee_luke}
-  - {name: Jacob Levernier, user: levernier_jacob}
-  - {name: JC Leyder, user: leyder_jean-christophe}
-  - {name: Matthew Lightman, user: lightman_matthew}
-  - {name: Johnny Lin, user: lin_johnny}
-  - {name: Andrew Lonsdale, user: lonsdale_andrew}
-  - {name: Elijah Lowe, user: lowe_elijah}
-  - {name: Yuxi Luo, user: luo_yuxi}
-  - {name: Cam Macdonell, user: macdonell_cam}
-  - {name: Gary Macindoe, user: macindoe_gary}
-  - {name: Dan MacLean, user: maclean_dan}
-  - {name: Joshua Madin, user: madin_j}
-  - {name: Tamer Mansour, user: mansour_tamer}
-  - {name: Paula Andrea Andrea Martinez, user: martinez_paula}
-  - {name: Sina Masoud-Ansari, user: masoud-ansari_sina}
-  - {name: Daniel McDonald, user: mcdonald_daniel}
-  - {name: Steve McGough, user: mcgough_s}
-  - {name: Catherine McGoveran, user: mcgoveran_catherine}
-  - {name: Sheldon McKay, user: mckay_sheldon}
-  - {name: Jessica McKellar, user: mckellar_j}
-  - {name: Maria McKinley, user: mckinley_maria}
-  - {name: Cameron McLean, user: mclean_cameron}
-  - {name: Emily Jane McTavish, user: mctavish_ej}
-  - {name: Jeremy Metz, user: metz_jeremy}
-  - {name: Lauren Michael, user: michael_lauren}
-  - {name: Simon Michnowicz, user: michnowicz_s}
-  - {name: François Michonneau, user: michonneau_francois}
-  - {name: Brian Miles, user: miles_brian}
-  - {name: Bill Mills, user: mills_b}
-  - {name: Amanda Miotto, user: miotto_amanda}
-  - {name: Meeta Mistry, user: mistry_meeta}
-  - {name: Ian Mitchell, user: mitchell_i}
-  - {name: Jason Moore, user: moore_jason}
-  - {name: Ben Morris, user: morris_b}
-  - {name: Erika Mudrak, user: mudrak_erika}
-  - {name: Ian Munoz, user: munoz_ian}
-  - {name: R. David Murray, user: murray_david}
-  - {name: Hani Nakhoul, user: nakhoul_hani}
-  - {name: Lex Nederbragt, user: nederbragt_l}
-  - {name: Aleksandra Nenadic, user: nenadic_aleksandra}
-  - {name: Jens Hedegaard Nielsen, user: nielsen_jens}
-  - {name: Klemens Noga, user: noga_klemens}
-  - {name: Brenna O'Brien, user: obrien_brenna}
-  - {name: Alan O'Cais, user: ocais_alan}
-  - {name: Aaron O'Leary, user: oleary_aaron}
-  - {name: Randy Olson, user: olson_r}
-  - {name: Jeramia Ory, user: ory_j}
-  - {name: Geoff Oxberry, user: oxberry_g}
-  - {name: Kirill Palamartchouk, user: palamartchouk_kirill}
-  - {name: Martin Paulo, user: paulo_martin}
-  - {name: Aleksandra Pawlik, user: pawlik_a}
-  - {name: John Pearson, user: pearson_john}
-  - {name: Jason Pell, user: pell_j}
-  - {name: David Perez-Suarez, user: perez-suarez_david}
-  - {name: Fernando Perez, user: perez_f}
-  - {name: Mariela Perignon, user: perignon_mariela}
-  - {name: Stefan Pfenninger, user: pfenninger_s}
-  - {name: Timothee Poisot, user: poisot_t}
-  - {name: Tom Pollard, user: pollard_tom}
-  - {name: Likit Preeyanon, user: preeyanon_likit}
-  - {name: Leighton Pritchard, user: pritchard_leighton}
-  - {name: Francoise Provencher, user: provencher_francoise}
-  - {name: Sean Pue, user: pue_s}
-  - {name: Karthik Ram, user: ram_k}
-  - {name: Saravanan Ramalingam, user: ramalingam_saravanan}
-  - {name: Karina Ramos Musalem, user: ramos-musalem_ana-karina}
-  - {name: Tom Remenyi, user: remenyi_tom}
-  - {name: Adelaide Rhodes, user: rhodes_adelaide}
-  - {name: Timothy Rice, user: rice_timothy}
-  - {name: Janet Riley, user: riley_janet}
-  - {name: David Rio, user: rio_david}
-  - {name: Scott Ritchie, user: ritchie_scott}
-  - {name: James Robinson, user: robinson_james}
-  - {name: Natalie Robinson, user: robinson_natalie}
-  - {name: Rosario Robinson, user: robinson_rosario}
-  - {name: Andrew Rohl, user: rohl_andrew}
-  - {name: Ariel Rokem, user: rokem_a}
-  - {name: Noam Ross, user: ross_noam}
-  - {name: William Rowell, user: rowell_bill}
-  - {name: John Rugis, user: rugis_john}
-  - {name: Dale Russell, user: russell_dale}
-  - {name: Ramesh Sampath, user: sampath_ramesh}
-  - {name: Maneesha Sane, user: sane_maneesha}
-  - {name: Martin Schilling, user: schilling_martin}
-  - {name: Jorden Schossau, user: schossau_j}
-  - {name: Rachel Schwartz, user: schwartz_rachel}
-  - {name: Anthony Scopatz, user: scopatz_a}
-  - {name: Michael Selik, user: selik_m}
-  - {name: Neem Serra, user: serra_neem}
-  - {name: Brent Shambaugh, user: shambaugh_brent}
-  - {name: Genevieve Shattow, user: shattow_genevieve}
-  - {name: Jeffrey Shelton, user: shelton_j}
-  - {name: Jennifer Shelton, user: shelton_jennifer}
-  - {name: Leigh Sheneman, user: sheneman_leigh}
-  - {name: Yu-Ching Shih, user: shih_yu-ching}
-  - {name: Raniere Silva, user: silva_raniere}
-  - {name: Sarah Simpkin, user: simpkin_sarah}
-  - {name: Jack Simpson, user: simpson_jack}
-  - {name: Rachel Slaybaugh, user: slaybaugh_rachel}
-  - {name: Clare Sloggett, user: sloggett_clare}
-  - {name: Luc Small, user: small_luc}
-  - {name: Daniel Smith, user: smith_daniel}
-  - {name: Joshua Smith, user: smith_j}
-  - {name: Mike Smorul, user: smorul_mike}
-  - {name: Nancy Soontiens, user: soontiens_nancy}
-  - {name: Ashwin Trikuta Srinath, user: srinath_ashwin}
-  - {name: Daniel Standage, user: standage_daniel}
-  - {name: Mitchell Stanton-Cook, user: stanton-cook_mitchell}
-  - {name: Meg Staton, user: staton_margaret}
-  - {name: Peter Steinbach, user: steinbach_peter}
-  - {name: Mark Stillwell, user: stillwell_mark}
-  - {name: Jonathan Strootman, user: strootman_jonathan}
-  - {name: Shoaib Sufi, user: sufi_s}
-  - {name: Michael Sumner, user: sumner_mike}
-  - {name: Sarah Supp, user: supp_s}
-  - {name: SVAKSHA -, user: svaksha}
-  - {name: Gayathri Swaminathan, user: swaminathan_gayathri}
-  - {name: Bradley Taber-Thomas, user: taber-thomas_bradley}
-  - {name: Scott Talafuse, user: talafuse_scott}
-  - {name: Leszek Tarkowski, user: tarkowski_leszek}
-  - {name: Rebecca Tarvin, user: tarvin_becca}
-  - {name: Rachael Tatman, user: tatman_rachael}
-  - {name: Tracy Teal, user: teal_t}
-  - {name: Matt Terry, user: terry_m}
-  - {name: Andy Teucher, user: teucher_andrew}
-  - {name: Ian Thomas, user: thomas_ian}
-  - {name: Robert Till, user: till_robert}
-  - {name: Tiffany Timbers, user: timbers_tiffany}
-  - {name: Will Trimble, user: trimble_will}
-  - {name: Daniel Turek, user: turek_daniel}
-  - {name: Stephen Turner, user: turner_s}
-  - {name: Fiona Tweedie, user: tweedie_fiona}
-  - {name: Daniela Ushizima, user: ushizima_daniela}
-  - {name: Olav Vahtras, user: vahtras_olav}
-  - {name: Roman Valls Guimera, user: valls-guimera_roman}
-  - {name: Vicky Varga, user: varga_vicky}
-  - {name: Nelle Varoquaux, user: varoquaux_n}
-  - {name: Bogdan Vera, user: vera_b}
-  - {name: Alex Viana, user: viana_a}
-  - {name: Jens von der Linden, user: vonderlinden_jens}
-  - {name: Leanne Wake, user: wake_leanne}
-  - {name: Andrew Walker, user: walker_andrew}
-  - {name: Alistair Walsh, user: walsh_alistair}
-  - {name: Dan Warren, user: warren_dan}
-  - {name: Leah Wasser, user: wasser_leah}
-  - {name: Ben Waugh, user: waugh_b}
-  - {name: Ethan White, user: white_e}
-  - {name: Easton White, user: white_easton}
-  - {name: Samuel White, user: white_samuel}
-  - {name: Alexander Whitlock, user: whitlock_a}
-  - {name: Asela Wijeratne, user: wijeratne_asela}
-  - {name: Mark Wilber, user: wilber_mark}
-  - {name: Chandler Wilkerson, user: wilkerson_chandler}
-  - {name: Jason Williams, user: williams_jason}
-  - {name: Lynne Williams, user: williams_l}
-  - {name: Ryan Williams, user: williams_ryan}
-  - {name: Greg Wilson, user: wilson_g}
-  - {name: Donny Winston, user: winston_donald}
-  - {name: Jared Winton, user: winton_jared}
-  - {name: Kara Woo, user: woo_kara}
-  - {name: Christopher Woods, user: woods_c}
-  - {name: April Wright, user: wright_april}
-  - {name: Tom Wright, user: wright_thomas}
-  - {name: Fan Yang, user: yang_fan}
-  - {name: Constantine Zakkaroff, user: zakkaroff_constantine}
-  - {name: Qingpeng Zhang, user: zhang_qp}
-  - {name: Naupaka Zimmerman, user: zimmerman_naupaka}
-  - {name: Tiziano Zito, user: zito_t}
-  - {name: Andrea Zonca, user: zonca_andrea}
-  - {name: Mahdi Belcaid, user: belcaid_mahdi}
-  - {name: Rebecca Blakewood, user: blakewood_becca}
-  - {name: Jonathan Borrelli, user: borrelli_jonathan}
-  - {name: Amy Boyle, user: boyle_amy}
-  - {name: Karl Broman, user: broman_karl}
-  - {name: Will Cornwell, user: cornwell_will}
-  - {name: Remi Daigle, user: daigle_remi}
-  - {name: Susan Duncan, user: duncan_susan}
-  - {name: Dirk Eddelbuettel, user: eddelbuettel_dirk}
-  - {name: Filipe Fernandes, user: fernandes_filipe}
-  - {name: Konrad Förstner, user: forstner_konrad}
-  - {name: Auriel Fournier, user: fournier_auriel}
-  - {name: Javier García-Algarra, user: garcia-algarra_javier}
-  - {name: Laura Jane Graham, user: graham_laura}
-  - {name: Johan Hjelm, user: hjelm_johan}
-  - {name: Sue McClatchy, user: mcclatchy_susan}
-  - {name: Sarah Mount, user: mount_sarah}
-  - {name: Daiva Nielsen, user: nielsen_daiva}
-  - {name: Michael Sarahan, user: sarahan_michael}
-  - {name: Sarah Stevens, user: stevens_sarah}
-  - {name: Morgan Taschuk, user: taschuk_morgan}
-  - {name: Belinda Weaver, user: weaver_belinda}
-  - {name: Ben Weinstein, user: weinstein_ben}
-  - {name: Kyler Brown, user: brown_kyler}
-  - {name: Kathy Chung, user: chung_kathy}
-  - {name: Matthew Collins, user: collins_matthew}
-  - {name: Catherine Devlin, user: devlin_catherine}
-  - {name: Matt Dickenson, user: dickenson_matt}
-  - {name: Heather Gibling, user: gibling_heather}
-  - {name: Luke Johnston, user: johnston_luke}
-  - {name: Narayanan Raghupathy, user: raghupathy_narayanan}
-  - {name: Adam Richie-Halford, user: richie-halford_adam}
-  - {name: Richard Tomsett, user: tomsett_richard}
-  - {name: Hsi-Kai Yang, user: yang_hsi-kai}
-  - {name: Evgenij Belikov, user: belikov_evgenij}
-  - {name: Francisco J. J. Navarro-Brull, user: navarro_francisco}
-  - {name: Hugues Fontenelle, user: fontenelle_hugues}
-  - {name: Dorota Jarecka, user: jarecka_dorota}
-  - {name: Donna Henderson, user: henderson_donna}
-  - {name: Malvika Sharan, user: sharan_malvika}
-  - {name: Kim Moir, user: moir_kim}
-  - {name: John Constable, user: constable_john}
-  - {name: Jeremy Gray, user: gray_jeremy}
-  - {name: John Pormann, user: pormann_john}
-  - {name: Juan Nunez-Iglesias, user: nunez-iglesias_juan}
-  - {name: Byron Smith, user: smith_byron}
-  - {name: Michelle Berry, user: berry_michelle}
-  - {name: Emily Dolson, user: dolson_emily}
-  - {name: Joshua Nahum, user: nahum_josh}
-  - {name: Hossein Pourreza, user: pourreza_hossein}
-  - {name: Tyson Whitehead, user: whitehead_tyson}
-  - {name: Christopher Fonnesbeck, user: fonnesbeck_chris}
-  - {name: Courtney Soderberg, user: soderberg_courtney}
-  - {name: Adam Thomas, user: thomas_adam}
-  - {name: Meghan Duffy, user: duffy_meghan}
-  - {name: Sam Thomson, user: thomson_samuel}
-  - {name: Pat Schloss, user: schloss_pat}
-  - {name: Ben Marwick, user: marwick_ben}
-  - {name: Matthew Ruttley, user: ruttley_m}
-  - {name: Marian Schmidt, user: schmidt_marian}
-  - {name: John Chase, user: chase_john}
-  - {name: Karthik Srinivasan, user: srinivasan_karthik}
-  - {name: Philipp Von Bieberstein, user: von-bieberstein_philipp}
-  - {name: Adam Perry, user: perry_adam}
-  - {name: Kunal Marwaha, user: marwaha_kunal}
-  - {name: Mary Piper, user: piper_mary}
-  - {name: Arron Shiffer, user: shiffer_arron}
-  - {name: Anelda van der Walt, user: van-der-walt_anelda}
-  - {name: Kwasi Kwakwa, user: kwakwa_k}
-  - {name: Ryan Dale, user: dale_ryan}
-  - {name: Chris Lonnen, user: lonnen_chris}
-  - {name: Darya Vanichkina, user: vanichkina_darya}
-  - {name: Radhika Khetani, user: khetani_radhika}
-  - {name: Sean Cleveland, user: cleveland_sean}
-  - {name: Andrew Marder, user: marder_andrew}
-  - {name: Patricia Carbajales-Dale, user: carbajales_patricia}
-  - {name: Amir Karger, user: karger_amir}
-  - {name: Ista Zahn, user: zahn_ista}
-  - {name: Ryan Middleton, user: middleton_ryan}
-  - {name: Donald Speer, user: speer_donald}
-  - {name: Arthur Endsley, user: endsley_arthur}
-  - {name: Laurent Duchesne, user: duchesne_laurent}
-  - {name: Maxime Boissonneault, user: boissonneault_maxime}
-  - {name: Pawel Pomorski, user: pomorski_pawel}
-  - {name: Shawn Whitefield, user: whitefield_shawn}
-  - {name: Seb James, user: james_sebastian}
-  - {name: Arvind Sundaram, user: sundaram_arvind}
-  - {name: Camille Scott, user: scott_camille}
-  - {name: Adrianna Pińska, user: pinska_adrianna}
-  - {name: Simon Fraser, user: fraser_simon}
-  - {name: Hamid Mokhtarzadeh, user: mokhtarzadeh_hamid}
-  - {name: VP Peter Nagraj, user: nagraj_vp}
-  - {name: Martin Callaghan, user: callaghan_martin}
-  - {name: Blake Joyce, user: joyce_blake}
-  - {name: Michael Croucher, user: croucher_mike}
-  - {name: John Simpson, user: simpson_john}
-  - {name: Albertus Seyffert, user: seyffert_albertus}
-  - {name: James Desjardins, user: desjardins_james}
-  - {name: Andy Evans, user: evans_andy}
-  - {name: Mark Laufersweiler, user: laufersweiler_mark}
-  - {name: Alex Razoumov, user: razoumov_alex}
-  - {name: Hartmut Schmider, user: schmider_hartmut}
-  - {name: Erik Spence, user: spence_erik}
-  - {name: Pier-Luc St-Onge, user: st-onge_pier-luc}
-  - {name: Mark Stacy, user: stacy_mark}
-  - {name: Horacio Vargas Guzman, user: vargas-guzman_horacio}
-  - {name: Victor Cordero, user: cordero_victor}
-  - {name: Jon Pipitone, user: pipitone_j}
-  - {name: Francisco Palm, user: palm_francisco}
-  - {name: James Adams, user: adams_james}
-  - {name: Jason Sherman, user: sherman_jason}
-  - {name: Patrick Calhoun, user: calhoun_patrick}
-  - {name: John Moreau, user: moreau_john}
-  - {name: Raissa Philibert, user: philibert_raissa}
-  - {name: Chris Tomlinson, user: tomlinson_christopher}
-  - {name: Jessica Mizzi, user: mizzi_jessica}
-  - {name: Mike Wallis, user: wallis_mike}
-  - {name: Gang Liu, user: liu_gang}
-  - {name: James Derrick, user: derrick_james}
-  - {name: Joona Lehtomäki, user: lehtomaki_joona}
-  - {name: Michael Levy, user: levy_michael}
-  - {name: Arfan Ahmed, user: ahmed_arfan}
-  - {name: Casey Bergman, user: bergman_casey}
-  - {name: Gerard Capes, user: capes_gerard}
-  - {name: Reed Cartwright, user: cartwright_reed}
-  - {name: Sarah Clayton, user: clayton_sarah}
-  - {name: Anne Claire Fouilloux, user: fouilloux_anne-claire}
-  - {name: Carlos Martinez-Ortiz, user: martinez-ortiz_carlos}
-  - {name: Andrew Mellor, user: mellor_andrew}
-  - {name: Chris Norton, user: norton_chris}
-  - {name: Braden Owsley, user: owsley_braden}
-  - {name: Blake Stamps, user: stamps_blake}
-  - {name: Mateusz Kuzak, user: kuzak_mateusz}
-  - {name: Alexandre Manhães Savio, user: manhaes-savio_alexandre}
-  - {name: Sergey Mashchenko, user: mashchenko_sergey}
+  - {awarded: '2014-05-04', name: Joshua Adelman, user: adelman_joshua}
+  - {awarded: '2013-07-20', name: Aron Ahmadia, user: ahmadia_a}
+  - {awarded: '2014-12-23', name: Matthew Aiello-Lammens, user: aiello-lammens_matthew}
+  - {awarded: '2013-11-25', name: Joshua Ainsley, user: ainsley_joshua}
+  - {awarded: '2015-02-03', name: Harriet Alexander, user: alexander_harriet}
+  - {awarded: '2014-09-18', name: Russell Alleen Willems, user: alleen-willems_russell}
+  - {awarded: '2014-11-27', name: James Allen, user: allen_james}
+  - {awarded: '2014-10-16', name: Pete Alonzi, user: alonzi_pete}
+  - {awarded: '2015-02-27', name: Areej Alsheikh-Hussain, user: alsheikh-hussain_areej}
+  - {awarded: '2012-12-20', name: Carlos Anderson, user: anderson_c}
+  - {awarded: '2014-10-03', name: Catalina Anghel, user: anghel_catalina}
+  - {awarded: '2014-12-23', name: Mario Antonioletti, user: antonioletti_mario}
+  - {awarded: '2012-12-20', name: Dhavide Aruliah, user: aruliah_d}
+  - {awarded: '2013-11-25', name: Camille Avestruz, user: avestruz_camille}
+  - {awarded: '2015-02-27', name: Sung Eun Bae, user: bae_sung}
+  - {awarded: '2014-08-12', name: Christie Bahlai, user: bahlai_christie}
+  - {awarded: '2014-09-18', name: Piotr Banaszkiewicz, user: banaszkiewicz_piotr}
+  - {awarded: '2014-05-04', name: Pauline Barmby, user: barmby_pauline}
+  - {awarded: '2013-07-20', name: Diego Barneche Rosado, user: barneche_diego}
+  - {awarded: '2015-02-28', name: Ewan Barr, user: barr_ewan}
+  - {awarded: '2014-11-22', name: Kathryn Barrett, user: barrett_kathryn}
+  - {awarded: '2014-11-27', name: Radovan Bast, user: bast_radovan}
+  - {awarded: '2014-11-05', name: Dana Bauer, user: bauer_dana}
+  - {awarded: '2013-11-17', name: Philipp Bayer, user: bayer_p}
+  - {awarded: '2014-05-09', name: Rob Beagrie, user: beagrie_robert}
+  - {awarded: '2014-05-04', name: Trevor Bekolay, user: bekolay_trevor}
+  - {awarded: '2013-11-17', name: Nichole Bennett, user: bennett_n}
+  - {awarded: '2014-07-22', name: Miguel Bernabeu, user: bernabeu_miguel}
+  - {awarded: '2015-03-25', name: Mik Black, user: black_mik}
+  - {awarded: '2014-12-23', name: Lukas Blakk, user: blakk_lukas}
+  - {awarded: '2013-07-20', name: John Blischak, user: blischak_j}
+  - {awarded: '2014-11-27', name: Carl Boettiger, user: boettiger_carl}
+  - {awarded: '2014-11-11', name: Jessica Bonnie, user: bonnie_jessica}
+  - {awarded: '2015-03-25', name: James Boocock, user: boocock_james}
+  - {awarded: '2014-11-27', name: Darren Boss, user: boss_darren}
+  - {awarded: '2012-12-20', name: Azalee Bostroem, user: bostroem_a}
+  - {awarded: '2012-12-20', name: Erik Bray, user: bray_e}
+  - {awarded: '2012-12-20', name: C. Titus Brown, user: brown_ct}
+  - {awarded: '2013-07-24', name: Jennifer Bryan, user: bryan_j}
+  - {awarded: '2014-11-05', name: Scott Burns, user: burns_scott}
+  - {awarded: '2014-05-09', name: Abigail Cabunoc Mayes, user: cabunoc_abigail}
+  - {awarded: '2014-11-27', name: Jared Camins-Esakov, user: camins-esakov_jared}
+  - {awarded: '2013-07-24', name: Rosangela Canino-Koning, user: canino-koning_r}
+  - {awarded: '2012-12-20', name: Chris Cannam, user: cannam_c}
+  - {awarded: '2014-12-11', name: Greg Caporaso, user: caporaso_greg}
+  - {awarded: '2014-08-12', name: Timothy Cerino, user: cerino_t}
+  - {awarded: '2014-05-04', name: Scott Chamberlain, user: chamberlain_s}
+  - {awarded: '2013-12-05', name: Cliburn Chan, user: chan_cliburn}
+  - {awarded: '2015-03-25', name: Amanda Charbonneau, user: charbonneau_amanda}
+  - {awarded: '2014-05-09', name: Daniel Chen, user: chen_daniel}
+  - {awarded: '2014-09-18', name: Chelsea Chisholm, user: chisholm_chelsea}
+  - {awarded: '2014-07-22', name: Shreyas Cholia, user: cholia_s}
+  - {awarded: '2012-12-20', name: Adina Howe, user: chuang-howe_a}
+  - {awarded: '2012-12-20', name: Neil Chue Hong, user: chue-hong_n}
+  - {awarded: '2015-01-07', name: Sophie Clayton, user: clayton_sophie}
+  - {awarded: '2014-05-04', name: Luis Pedro Coelho, user: coelho_luis}
+  - {awarded: '2014-12-11', name: Ruth Collings, user: collings_ruth}
+  - {awarded: '2014-05-04', name: John Corless, user: corless_john}
+  - {awarded: '2014-11-22', name: Marianne Corvellec, user: corvellec_marianne}
+  - {awarded: '2015-02-28', name: Thomas Coudrat, user: coudrat_thomas}
+  - {awarded: '2014-12-08', name: Logan Cox, user: cox_logan}
+  - {awarded: '2013-07-24', name: Stefano Cozzini, user: cozzini_s}
+  - {awarded: '2014-11-17', name: Karen Cranston, user: cranston_k}
+  - {awarded: '2015-02-27', name: Nicholas Crouch, user: crouch_nicholas}
+  - {awarded: '2012-12-20', name: Stephen Crouch, user: crouch_s}
+  - {awarded: '2014-07-22', name: Michael Crusoe, user: crusoe_michael}
+  - {awarded: '2014-12-23', name: Maciej Czuchry, user: czuchry_maciej}
+  - {awarded: '2015-02-27', name: Harriet Dashnow, user: dashnow_harriet}
+  - {awarded: '2013-11-25', name: Emily Davenport, user: davenport_e}
+  - {awarded: '2014-11-22', name: Robert Davey, user: davey_rob}
+  - {awarded: '2012-12-20', name: Matt Davis, user: davis_m}
+  - {awarded: '2013-11-17', name: Neal Davis, user: davis_neal}
+  - {awarded: '2015-02-27', name: Raffaella Demichelis, user: demichelis_raffaella}
+  - {awarded: '2014-10-16', name: Balamurugan Desinghu, user: desinghu_balamurugan}
+  - {awarded: '2013-11-17', name: Gabriel A. Devenyi, user: devenyi_gabriel}
+  - {awarded: '2012-12-20', name: Ross Dickson, user: dickson_r}
+  - {awarded: '2014-11-05', name: Matthew Dimmock, user: dimmock_matt}
+  - {awarded: '2015-03-25', name: Kim Doyle, user: doyle_kimberly}
+  - {awarded: '2013-11-17', name: Jonah Duckles, user: duckles_jonah}
+  - {awarded: '2014-12-08', name: Martin Durant, user: durant_martin}
+  - {awarded: '2012-12-20', name: Jonathan Dursi, user: dursi_j}
+  - {awarded: '2014-12-23', name: Dureid El-Moghraby, user: el-moghraby_dureid}
+  - {awarded: '2012-12-20', name: Justin Ely, user: ely_j}
+  - {awarded: '2014-05-04', name: Rémi Emonet, user: emonet_remi}
+  - {awarded: '2013-07-24', name: Richard Enbody, user: enbody_r}
+  - {awarded: '2014-09-18', name: Aaron Erlich, user: erlich_aaron}
+  - {awarded: '2013-07-20', name: Daniel Falster, user: falster_daniel}
+  - {awarded: '2015-02-03', name: Emmanouil Farsarakis, user: farsarakis_emmanouil}
+  - {awarded: '2014-10-03', name: Xu Fei, user: fei_xu}
+  - {awarded: '2015-04-20', name: Angus Ferguson, user: ferguson_angus}
+  - {awarded: '2013-07-20', name: Luis Figueira, user: figueira_l}
+  - {awarded: '2013-11-17', name: Jordan Fish, user: fish_jordan}
+  - {awarded: '2013-07-20', name: Rich FitzJohn, user: fitzjohn_rich}
+  - {awarded: '2014-05-04', name: Robert Flight, user: flight_r}
+  - {awarded: '2014-12-11', name: John Fonner, user: fonner_john}
+  - {awarded: '2014-10-03', name: Philip Fowler, user: fowler_philip}
+  - {awarded: '2014-11-05', name: Jonathan Frederic, user: frederic_jonathan}
+  - {awarded: '2015-03-12', name: Bob Freeman, user: freeman_robert}
+  - {awarded: '2014-05-09', name: Chris Friedline, user: friedline_chris}
+  - {awarded: '2014-12-08', name: Zhuo Fu, user: fu_zhuo}
+  - {awarded: '2014-12-23', name: Emilia Gan, user: gan_emilia}
+  - {awarded: '2014-10-16', name: Leonor Garcia-Gutierrez, user: garcia-gutierrez_leonor}
+  - {awarded: '2013-11-17', name: Julian Garcia, user: garcia_julian}
+  - {awarded: '2014-05-04', name: Aaron Garoutte, user: garoutte_aaron}
+  - {awarded: '2014-12-08', name: Chris Gates, user: gates_chris}
+  - {awarded: '2014-11-13', name: Laurent Gatto, user: gatto_laurent}
+  - {awarded: '2015-04-20', name: Noushin Ghaffari, user: ghaffari_noushin}
+  - {awarded: '2013-11-17', name: Molly Gibson, user: gibson_molly}
+  - {awarded: '2013-11-17', name: Ivan Gonzalez, user: gonzalez_ivan}
+  - {awarded: '2014-11-27', name: Gerard Gorman, user: gorman_gerard}
+  - {awarded: '2014-12-08', name: John Gosset, user: gosset_john}
+  - {awarded: '2014-11-20', name: Alistair Grant, user: grant_alistair}
+  - {awarded: '2015-02-27', name: Philippa Griffin, user: griffin_pip}
+  - {awarded: '2014-12-11', name: Jonathan Gross, user: gross_jonathan}
+  - {awarded: '2014-11-27', name: Thomas Guignard, user: guignard_thomas}
+  - {awarded: '2014-12-08', name: Jiarong Guo, user: guo_jiarong}
+  - {awarded: '2015-03-25', name: Prashant Gupta, user: gupta_prashant}
+  - {awarded: '2013-07-20', name: Julia Gustavsen, user: gustavsen_j}
+  - {awarded: '2012-12-20', name: Tommy Guy, user: guy_t}
+  - {awarded: '2014-12-23', name: Jonathan Guyer, user: guyer_jonathan}
+  - {awarded: '2012-12-20', name: Steve Haddock, user: haddock_s}
+  - {awarded: '2014-05-04', name: Denis Haine, user: haine_denis}
+  - {awarded: '2015-03-12', name: Sam Hames, user: hames_sam}
+  - {awarded: '2015-01-21', name: Christopher Hamm, user: hamm_christopher}
+  - {awarded: '2014-05-09', name: Jessica Hamrick, user: hamrick_jessica}
+  - {awarded: '2015-04-20', name: Nic Hannah, user: hannah_nicholas}
+  - {awarded: '2012-12-20', name: Michael Hansen, user: hansen_m}
+  - {awarded: '2015-01-21', name: Rayna Harris, user: harris_rayna}
+  - {awarded: '2014-12-23', name: Anthony Harrison, user: harrison_anthony}
+  - {awarded: '2015-04-20', name: Emelie Harstad, user: harstad_emelie}
+  - {awarded: '2012-12-20', name: Ted Hart, user: hart_t}
+  - {awarded: '2014-12-23', name: Ian Hawke, user: hawke_ian}
+  - {awarded: '2015-03-12', name: Fabian Held, user: held_fabian}
+  - {awarded: '2014-12-11', name: Ian Henry, user: henry_ian}
+  - {awarded: '2013-11-17', name: Joshua Herr, user: herr_joshua}
+  - {awarded: '2014-11-27', name: Kate Hertweck, user: hertweck_kate}
+  - {awarded: '2013-11-17', name: James Hetherington, user: hetherington_james}
+  - {awarded: '2014-11-27', name: James Hiebert, user: hiebert_james}
+  - {awarded: '2014-12-23', name: Cody Hinchliff, user: hinchliff_cody}
+  - {awarded: '2012-12-20', name: Konrad Hinsen, user: hinsen_k}
+  - {awarded: '2014-05-04', name: Daniel Hocking, user: hocking_daniel}
+  - {awarded: '2015-03-12', name: Amy Hodge, user: hodge_amy}
+  - {awarded: '2013-11-17', name: Chris Holdgraf, user: holdgraf_c}
+  - {awarded: '2014-10-16', name: Jeff Hollister, user: hollister_jeff}
+  - {awarded: '2015-03-05', name: Richard Hosking, user: hosking_richard}
+  - {awarded: '2014-11-25', name: Daisie Huang, user: huang_daisie}
+  - {awarded: '2012-12-20', name: Katy Huff, user: huff_k}
+  - {awarded: '2015-04-20', name: Fatma Imamoglu, user: imamoglu_fatma}
+  - {awarded: '2014-11-05', name: Devasena Inupakutika, user: inupakutika_devasena}
+  - {awarded: '2014-09-18', name: Luiz Irber, user: irber_luiz}
+  - {awarded: '2013-11-17', name: Damien Irving, user: irving_d}
+  - {awarded: '2013-07-24', name: Paul Ivanov, user: ivanov_p}
+  - {awarded: '2012-12-20', name: Mike Jackson, user: jackson_m}
+  - {awarded: '2014-10-03', name: Christian Jacobs, user: jacobs_christian}
+  - {awarded: '2014-12-08', name: Zbigniew Jędrzejewski-Szmek, user: jedrzejewski-szmek_zbigniew}
+  - {awarded: '2015-04-20', name: Ben Johnson, user: johnson_ben}
+  - {awarded: '2013-07-20', name: David Jones, user: jones_d}
+  - {awarded: '2014-07-07', name: David Jones, user: jones_dm}
+  - {awarded: '2015-02-06', name: Martin Jones, user: jones_martin}
+  - {awarded: '2015-02-27', name: Nick Jones, user: jones_nick}
+  - {awarded: '2015-03-25', name: Tom Kelly, user: kelly_tom}
+  - {awarded: '2013-07-24', name: Jessica Kerr, user: kerr_j}
+  - {awarded: '2014-12-23', name: Jan Kim, user: kim_jan}
+  - {awarded: '2014-07-22', name: W. Trevor King, user: king_wt}
+  - {awarded: '2015-02-28', name: Isabell Kiral-Kornek, user: kiral-kornek_isabell}
+  - {awarded: '2013-09-15', name: Ted Kirkpatrick, user: kirkpatrick_ted}
+  - {awarded: '2013-07-20', name: Justin Kitzes, user: kitzes_j}
+  - {awarded: '2013-11-17', name: Christina Koch, user: koch_christina}
+  - {awarded: '2013-07-20', name: Steven Koenig, user: koenig_steven}
+  - {awarded: '2014-12-11', name: Alex Koeppel, user: koeppel_alexander}
+  - {awarded: '2015-02-28', name: Scott Kolbe, user: kolbe_scott}
+  - {awarded: '2013-07-24', name: Bernhard Konrad, user: konrad_b}
+  - {awarded: '2013-11-17', name: Igor Kozlov, user: kozlov_igor}
+  - {awarded: '2014-10-16', name: Paulina Lach, user: lach_paulina}
+  - {awarded: '2014-11-27', name: Olivier Lafleur, user: lafleur_olivier}
+  - {awarded: '2014-11-27', name: Isabelle Laforest-Lapointe, user: laforest-lapointe_isabelle}
+  - {awarded: '2013-07-20', name: Karin Lagesen, user: lagesen_k}
+  - {awarded: '2014-11-27', name: Sherry Lake, user: lake_sherry}
+  - {awarded: '2013-07-20', name: Ian Langmore, user: langmore_i}
+  - {awarded: '2014-09-18', name: Jeremiah Lant, user: lant_jeremiah}
+  - {awarded: '2013-07-24', name: Chris Lasher, user: lasher_c}
+  - {awarded: '2013-07-24', name: Doug Latornell, user: latornell_d}
+  - {awarded: '2014-12-23', name: David LeBauer, user: lebauer_david}
+  - {awarded: '2014-12-11', name: Kate Lee, user: lee_kate}
+  - {awarded: '2013-11-17', name: Luke Lee, user: lee_luke}
+  - {awarded: '2014-10-16', name: Jacob Levernier, user: levernier_jacob}
+  - {awarded: '2014-05-09', name: JC Leyder, user: leyder_jean-christophe}
+  - {awarded: '2013-11-17', name: Matthew Lightman, user: lightman_matthew}
+  - {awarded: '2014-10-03', name: Johnny Lin, user: lin_johnny}
+  - {awarded: '2015-02-28', name: Andrew Lonsdale, user: lonsdale_andrew}
+  - {awarded: '2014-08-07', name: Elijah Lowe, user: lowe_elijah}
+  - {awarded: '2013-11-25', name: Yuxi Luo, user: luo_yuxi}
+  - {awarded: '2013-11-25', name: Cam Macdonell, user: macdonell_cam}
+  - {awarded: '2014-11-11', name: Gary Macindoe, user: macindoe_gary}
+  - {awarded: '2014-11-09', name: Dan MacLean, user: maclean_dan}
+  - {awarded: '2015-02-27', name: Joshua Madin, user: madin_j}
+  - {awarded: '2015-03-15', name: Tamer Mansour, user: mansour_tamer}
+  - {awarded: '2015-02-28', name: Paula Andrea Martinez, user: martinez_paula}
+  - {awarded: '2015-03-05', name: Sina Masoud-Ansari, user: masoud-ansari_sina}
+  - {awarded: '2015-03-25', name: Daniel McDonald, user: mcdonald_daniel}
+  - {awarded: '2013-07-20', name: Steve McGough, user: mcgough_s}
+  - {awarded: '2014-12-23', name: Catherine McGoveran, user: mcgoveran_catherine}
+  - {awarded: '2014-05-09', name: Sheldon McKay, user: mckay_sheldon}
+  - {awarded: '2012-12-20', name: Jessica McKellar, user: mckellar_j}
+  - {awarded: '2014-12-29', name: Maria McKinley, user: mckinley_maria}
+  - {awarded: '2015-03-05', name: Cameron McLean, user: mclean_cameron}
+  - {awarded: '2013-07-20', name: Emily Jane McTavish, user: mctavish_ej}
+  - {awarded: '2015-01-21', name: Jeremy Metz, user: metz_jeremy}
+  - {awarded: '2014-07-22', name: Lauren Michael, user: michael_lauren}
+  - {awarded: '2014-10-03', name: Simon Michnowicz, user: michnowicz_s}
+  - {awarded: '2014-11-27', name: François Michonneau, user: michonneau_francois}
+  - {awarded: '2014-05-09', name: Brian Miles, user: miles_brian}
+  - {awarded: '2014-05-04', name: Bill Mills, user: mills_b}
+  - {awarded: '2015-02-27', name: Amanda Miotto, user: miotto_amanda}
+  - {awarded: '2015-02-03', name: Meeta Mistry, user: mistry_meeta}
+  - {awarded: '2012-12-20', name: Ian Mitchell, user: mitchell_i}
+  - {awarded: '2015-02-03', name: Jason Moore, user: moore_jason}
+  - {awarded: '2013-07-20', name: Ben Morris, user: morris_b}
+  - {awarded: '2014-08-12', name: Erika Mudrak, user: mudrak_erika}
+  - {awarded: '2014-08-12', name: Ian Munoz, user: munoz_ian}
+  - {awarded: '2014-07-22', name: R. David Murray, user: murray_david}
+  - {awarded: '2015-02-03', name: Hani Nakhoul, user: nakhoul_hani}
+  - {awarded: '2013-07-24', name: Lex Nederbragt, user: nederbragt_l}
+  - {awarded: '2014-11-27', name: Aleksandra Nenadic, user: nenadic_aleksandra}
+  - {awarded: '2014-11-27', name: Jens Hedegaard Nielsen, user: nielsen_jens}
+  - {awarded: '2014-12-23', name: Klemens Noga, user: noga_klemens}
+  - {awarded: '2014-05-09', name: Brenna O'Brien, user: obrien_brenna}
+  - {awarded: '2014-11-22', name: Alan O'Cais, user: ocais_alan}
+  - {awarded: '2014-12-13', name: Aaron O'Leary, user: oleary_aaron}
+  - {awarded: '2013-07-20', name: Randy Olson, user: olson_r}
+  - {awarded: '2014-07-22', name: Jeramia Ory, user: ory_j}
+  - {awarded: '2014-07-22', name: Geoff Oxberry, user: oxberry_g}
+  - {awarded: '2014-12-11', name: Kirill Palamartchouk, user: palamartchouk_kirill}
+  - {awarded: '2015-03-12', name: Martin Paulo, user: paulo_martin}
+  - {awarded: '2013-07-20', name: Aleksandra Pawlik, user: pawlik_a}
+  - {awarded: '2014-10-03', name: John Pearson, user: pearson_john}
+  - {awarded: '2012-12-20', name: Jason Pell, user: pell_j}
+  - {awarded: '2013-11-17', name: David Perez-Suarez, user: perez-suarez_david}
+  - {awarded: '2012-12-20', name: Fernando Perez, user: perez_f}
+  - {awarded: '2014-12-23', name: Mariela Perignon, user: perignon_mariela}
+  - {awarded: '2014-09-18', name: Stefan Pfenninger, user: pfenninger_s}
+  - {awarded: '2014-12-23', name: Timothee Poisot, user: poisot_t}
+  - {awarded: '2014-11-20', name: Tom Pollard, user: pollard_tom}
+  - {awarded: '2014-05-09', name: Likit Preeyanon, user: preeyanon_likit}
+  - {awarded: '2015-01-07', name: Leighton Pritchard, user: pritchard_leighton}
+  - {awarded: '2014-09-18', name: Francoise Provencher, user: provencher_francoise}
+  - {awarded: '2015-01-21', name: Sean Pue, user: pue_s}
+  - {awarded: '2013-07-20', name: Karthik Ram, user: ram_k}
+  - {awarded: '2014-12-08', name: Saravanan Ramalingam, user: ramalingam_saravanan}
+  - {awarded: '2015-03-11', name: Karina Ramos Musalem, user: ramos-musalem_ana-karina}
+  - {awarded: '2015-02-28', name: Tom Remenyi, user: remenyi_tom}
+  - {awarded: '2015-03-12', name: Adelaide Rhodes, user: rhodes_adelaide}
+  - {awarded: '2015-03-05', name: Timothy Rice, user: rice_timothy}
+  - {awarded: '2014-12-23', name: Janet Riley, user: riley_janet}
+  - {awarded: '2014-05-04', name: David Rio, user: rio_david}
+  - {awarded: '2014-10-03', name: Scott Ritchie, user: ritchie_scott}
+  - {awarded: '2014-09-18', name: James Robinson, user: robinson_james}
+  - {awarded: '2014-11-27', name: Natalie Robinson, user: robinson_natalie}
+  - {awarded: '2014-09-18', name: Rosario Robinson, user: robinson_rosario}
+  - {awarded: '2015-03-12', name: Andrew Rohl, user: rohl_andrew}
+  - {awarded: '2013-07-20', name: Ariel Rokem, user: rokem_a}
+  - {awarded: '2015-02-27', name: Noam Ross, user: ross_noam}
+  - {awarded: '2013-11-17', name: William Rowell, user: rowell_bill}
+  - {awarded: '2015-02-27', name: John Rugis, user: rugis_john}
+  - {awarded: '2014-12-08', name: Dale Russell, user: russell_dale}
+  - {awarded: '2015-04-20', name: Ramesh Sampath, user: sampath_ramesh}
+  - {awarded: '2014-12-11', name: Maneesha Sane, user: sane_maneesha}
+  - {awarded: '2013-11-17', name: Martin Schilling, user: schilling_martin}
+  - {awarded: '2013-07-20', name: Jorden Schossau, user: schossau_j}
+  - {awarded: '2015-03-15', name: Rachel Schwartz, user: schwartz_rachel}
+  - {awarded: '2012-12-20', name: Anthony Scopatz, user: scopatz_a}
+  - {awarded: '2014-07-22', name: Michael Selik, user: selik_m}
+  - {awarded: '2014-11-22', name: Neem Serra, user: serra_neem}
+  - {awarded: '2014-12-23', name: Brent Shambaugh, user: shambaugh_brent}
+  - {awarded: '2015-03-05', name: Genevieve Shattow, user: shattow_genevieve}
+  - {awarded: '2012-12-20', name: Jeffrey Shelton, user: shelton_j}
+  - {awarded: '2014-12-23', name: Jennifer Shelton, user: shelton_jennifer}
+  - {awarded: '2014-09-18', name: Leigh Sheneman, user: sheneman_leigh}
+  - {awarded: '2014-11-05', name: Yu-Ching Shih, user: shih_yu-ching}
+  - {awarded: '2013-11-17', name: Raniere Silva, user: silva_raniere}
+  - {awarded: '2014-12-23', name: Sarah Simpkin, user: simpkin_sarah}
+  - {awarded: '2015-02-28', name: Jack Simpson, user: simpson_jack}
+  - {awarded: '2013-11-25', name: Rachel Slaybaugh, user: slaybaugh_rachel}
+  - {awarded: '2014-10-03', name: Clare Sloggett, user: sloggett_clare}
+  - {awarded: '2015-04-20', name: Luc Small, user: small_luc}
+  - {awarded: '2014-12-08', name: Daniel Smith, user: smith_daniel}
+  - {awarded: '2012-12-20', name: Joshua Smith, user: smith_j}
+  - {awarded: '2014-08-01', name: Mike Smorul, user: smorul_mike}
+  - {awarded: '2015-01-07', name: Nancy Soontiens, user: soontiens_nancy}
+  - {awarded: '2014-12-11', name: Ashwin Trikuta Srinath, user: srinath_ashwin}
+  - {awarded: '2015-02-03', name: Daniel Standage, user: standage_daniel}
+  - {awarded: '2015-03-01', name: Mitchell Stanton-Cook, user: stanton-cook_mitchell}
+  - {awarded: '2014-09-18', name: Meg Staton, user: staton_margaret}
+  - {awarded: '2014-12-23', name: Peter Steinbach, user: steinbach_peter}
+  - {awarded: '2014-11-05', name: Mark Stillwell, user: stillwell_mark}
+  - {awarded: '2014-11-22', name: Jonathan Strootman, user: strootman_jonathan}
+  - {awarded: '2013-11-17', name: Shoaib Sufi, user: sufi_s}
+  - {awarded: '2015-02-28', name: Michael Sumner, user: sumner_mike}
+  - {awarded: '2013-07-20', name: Sarah Supp, user: supp_s}
+  - {awarded: '2014-09-18', name: Svaksha -, user: svaksha}
+  - {awarded: '2013-12-05', name: Gayathri Swaminathan, user: swaminathan_gayathri}
+  - {awarded: '2014-05-09', name: Bradley Taber-Thomas, user: taber-thomas_bradley}
+  - {awarded: '2014-10-03', name: Scott Talafuse, user: talafuse_scott}
+  - {awarded: '2014-05-04', name: Leszek Tarkowski, user: tarkowski_leszek}
+  - {awarded: '2015-03-12', name: Rebecca Tarvin, user: tarvin_becca}
+  - {awarded: '2015-01-07', name: Rachael Tatman, user: tatman_rachael}
+  - {awarded: '2012-12-20', name: Tracy Teal, user: teal_t}
+  - {awarded: '2014-07-22', name: Matt Terry, user: terry_m}
+  - {awarded: '2014-12-08', name: Andy Teucher, user: teucher_andrew}
+  - {awarded: '2015-02-28', name: Ian Thomas, user: thomas_ian}
+  - {awarded: '2014-12-23', name: Robert Till, user: till_robert}
+  - {awarded: '2015-01-07', name: Tiffany Timbers, user: timbers_tiffany}
+  - {awarded: '2013-07-20', name: Will Trimble, user: trimble_will}
+  - {awarded: '2015-01-21', name: Daniel Turek, user: turek_daniel}
+  - {awarded: '2014-04-19', name: Stephen Turner, user: turner_s}
+  - {awarded: '2015-03-25', name: Fiona Tweedie, user: tweedie_fiona}
+  - {awarded: '2015-02-03', name: Daniela Ushizima, user: ushizima_daniela}
+  - {awarded: '2014-11-27', name: Olav Vahtras, user: vahtras_olav}
+  - {awarded: '2014-12-29', name: Roman Valls Guimera, user: valls-guimera_roman}
+  - {awarded: '2014-07-22', name: Vicky Varga, user: varga_vicky}
+  - {awarded: '2012-12-20', name: Nelle Varoquaux, user: varoquaux_n}
+  - {awarded: '2013-07-20', name: Bogdan Vera, user: vera_b}
+  - {awarded: '2013-07-20', name: Alex Viana, user: viana_a}
+  - {awarded: '2013-07-20', name: Jens von der Linden, user: vonderlinden_jens}
+  - {awarded: '2015-02-03', name: Leanne Wake, user: wake_leanne}
+  - {awarded: '2014-11-20', name: Andrew Walker, user: walker_andrew}
+  - {awarded: '2015-02-28', name: Alistair Walsh, user: walsh_alistair}
+  - {awarded: '2014-11-04', name: Dan Warren, user: warren_dan}
+  - {awarded: '2014-11-27', name: Leah Wasser, user: wasser_leah}
+  - {awarded: '2012-12-20', name: Ben Waugh, user: waugh_b}
+  - {awarded: '2012-12-20', name: Ethan White, user: white_e}
+  - {awarded: '2014-10-03', name: Easton White, user: white_easton}
+  - {awarded: '2015-01-07', name: Samuel White, user: white_samuel}
+  - {awarded: '2013-11-17', name: Alexander Whitlock, user: whitlock_a}
+  - {awarded: '2014-12-08', name: Asela Wijeratne, user: wijeratne_asela}
+  - {awarded: '2014-10-16', name: Mark Wilber, user: wilber_mark}
+  - {awarded: '2014-10-16', name: Chandler Wilkerson, user: wilkerson_chandler}
+  - {awarded: '2014-08-12', name: Jason Williams, user: williams_jason}
+  - {awarded: '2012-12-20', name: Lynne Williams, user: williams_l}
+  - {awarded: '2014-05-04', name: Ryan Williams, user: williams_ryan}
+  - {awarded: '2012-12-20', name: Greg Wilson, user: wilson_g}
+  - {awarded: '2015-04-20', name: Donny Winston, user: winston_donald}
+  - {awarded: '2015-04-20', name: Jared Winton, user: winton_jared}
+  - {awarded: '2014-10-03', name: Kara Woo, user: woo_kara}
+  - {awarded: '2013-07-17', name: Christopher Woods, user: woods_c}
+  - {awarded: '2013-11-17', name: April Wright, user: wright_april}
+  - {awarded: '2014-09-18', name: Tom Wright, user: wright_thomas}
+  - {awarded: '2014-05-04', name: Fan Yang, user: yang_fan}
+  - {awarded: '2015-04-20', name: Constantine Zakkaroff, user: zakkaroff_constantine}
+  - {awarded: '2014-12-11', name: Qingpeng Zhang, user: zhang_qp}
+  - {awarded: '2014-05-04', name: Naupaka Zimmerman, user: zimmerman_naupaka}
+  - {awarded: '2014-11-11', name: Tiziano Zito, user: zito_t}
+  - {awarded: '2014-05-09', name: Andrea Zonca, user: zonca_andrea}
+  - {awarded: '2015-05-05', name: Mahdi Belcaid, user: belcaid_mahdi}
+  - {awarded: '2015-05-05', name: Rebecca Blakewood, user: blakewood_becca}
+  - {awarded: '2015-05-14', name: Jonathan Borrelli, user: borrelli_jonathan}
+  - {awarded: '2015-05-05', name: Amy Boyle, user: boyle_amy}
+  - {awarded: '2015-05-05', name: Karl Broman, user: broman_karl}
+  - {awarded: '2015-05-14', name: Will Cornwell, user: cornwell_will}
+  - {awarded: '2015-05-05', name: Remi Daigle, user: daigle_remi}
+  - {awarded: '2015-05-05', name: Susan Duncan, user: duncan_susan}
+  - {awarded: '2015-05-05', name: Dirk Eddelbuettel, user: eddelbuettel_dirk}
+  - {awarded: '2015-05-05', name: Filipe Fernandes, user: fernandes_filipe}
+  - {awarded: '2015-05-05', name: Konrad Förstner, user: forstner_konrad}
+  - {awarded: '2015-05-05', name: Auriel Fournier, user: fournier_auriel}
+  - {awarded: '2015-05-14', name: Javier García-Algarra, user: garcia-algarra_javier}
+  - {awarded: '2015-05-14', name: Laura Jane Graham, user: graham_laura}
+  - {awarded: '2015-05-05', name: Johan Hjelm, user: hjelm_johan}
+  - {awarded: '2015-05-14', name: Sue McClatchy, user: mcclatchy_susan}
+  - {awarded: '2015-05-14', name: Sarah Mount, user: mount_sarah}
+  - {awarded: '2015-05-14', name: Daiva Nielsen, user: nielsen_daiva}
+  - {awarded: '2015-05-05', name: Michael Sarahan, user: sarahan_michael}
+  - {awarded: '2015-05-05', name: Sarah Stevens, user: stevens_sarah}
+  - {awarded: '2015-05-14', name: Morgan Taschuk, user: taschuk_morgan}
+  - {awarded: '2015-05-05', name: Belinda Weaver, user: weaver_belinda}
+  - {awarded: '2015-05-14', name: Ben Weinstein, user: weinstein_ben}
+  - {awarded: '2015-05-26', name: Kyler Brown, user: brown_kyler}
+  - {awarded: '2015-05-26', name: Kathy Chung, user: chung_kathy}
+  - {awarded: '2015-05-26', name: Matthew Collins, user: collins_matthew}
+  - {awarded: '2015-05-26', name: Catherine Devlin, user: devlin_catherine}
+  - {awarded: '2015-05-26', name: Matt Dickenson, user: dickenson_matt}
+  - {awarded: '2015-05-26', name: Heather Gibling, user: gibling_heather}
+  - {awarded: '2015-05-26', name: Luke Johnston, user: johnston_luke}
+  - {awarded: '2015-05-26', name: Narayanan Raghupathy, user: raghupathy_narayanan}
+  - {awarded: '2015-05-26', name: Adam Richie-Halford, user: richie-halford_adam}
+  - {awarded: '2015-05-26', name: Richard Tomsett, user: tomsett_richard}
+  - {awarded: '2015-05-26', name: Hsi-Kai Yang, user: yang_hsi-kai}
+  - {awarded: '2015-05-26', name: Evgenij Belikov, user: belikov_evgenij}
+  - {awarded: '2015-05-26', name: Francisco J. J. Navarro-Brull, user: navarro_francisco}
+  - {awarded: '2015-06-04', name: Hugues Fontenelle, user: fontenelle_hugues}
+  - {awarded: '2015-06-12', name: Dorota Jarecka, user: jarecka_dorota}
+  - {awarded: '2015-06-12', name: Donna Henderson, user: henderson_donna}
+  - {awarded: '2015-06-12', name: Malvika Sharan, user: sharan_malvika}
+  - {awarded: '2015-06-12', name: Kim Moir, user: moir_kim}
+  - {awarded: '2015-06-12', name: John Constable, user: constable_john}
+  - {awarded: '2015-06-12', name: Jeremy Gray, user: gray_jeremy}
+  - {awarded: '2015-06-12', name: John Pormann, user: pormann_john}
+  - {awarded: '2015-06-12', name: Juan Nunez-Iglesias, user: nunez-iglesias_juan}
+  - {awarded: '2015-06-12', name: Byron Smith, user: smith_byron}
+  - {awarded: '2015-06-12', name: Michelle Berry, user: berry_michelle}
+  - {awarded: '2015-06-12', name: Emily Dolson, user: dolson_emily}
+  - {awarded: '2015-06-12', name: Joshua Nahum, user: nahum_josh}
+  - {awarded: '2015-06-12', name: Hossein Pourreza, user: pourreza_hossein}
+  - {awarded: '2015-06-12', name: Tyson Whitehead, user: whitehead_tyson}
+  - {awarded: '2015-06-12', name: Christopher Fonnesbeck, user: fonnesbeck_chris}
+  - {awarded: '2015-05-26', name: Courtney Soderberg, user: soderberg_courtney}
+  - {awarded: '2015-05-27', name: Adam Thomas, user: thomas_adam}
+  - {awarded: '2015-06-14', name: Meghan Duffy, user: duffy_meghan}
+  - {awarded: '2015-06-23', name: Sam Thomson, user: thomson_samuel}
+  - {awarded: '2015-06-23', name: Pat Schloss, user: schloss_pat}
+  - {awarded: '2014-11-14', name: Ben Marwick, user: marwick_ben}
+  - {awarded: '2015-06-23', name: Matthew Ruttley, user: ruttley_m}
+  - {awarded: '2015-06-23', name: Marian Schmidt, user: schmidt_marian}
+  - {awarded: '2015-06-23', name: John Chase, user: chase_john}
+  - {awarded: '2015-06-23', name: Karthik Srinivasan, user: srinivasan_karthik}
+  - {awarded: '2015-06-23', name: Philipp Von Bieberstein, user: von-bieberstein_philipp}
+  - {awarded: '2015-06-23', name: Adam Perry, user: perry_adam}
+  - {awarded: '2015-06-26', name: Kunal Marwaha, user: marwaha_kunal}
+  - {awarded: '2015-06-27', name: Mary Piper, user: piper_mary}
+  - {awarded: '2015-07-03', name: Arron Shiffer, user: shiffer_arron}
+  - {awarded: '2015-07-03', name: Anelda van der Walt, user: van-der-walt_anelda}
+  - {awarded: '2015-07-05', name: Kwasi Kwakwa, user: kwakwa_k}
+  - {awarded: '2015-07-05', name: Ryan Dale, user: dale_ryan}
+  - {awarded: '2015-07-05', name: Chris Lonnen, user: lonnen_chris}
+  - {awarded: '2015-07-05', name: Darya Vanichkina, user: vanichkina_darya}
+  - {awarded: '2015-07-07', name: Radhika Khetani, user: khetani_radhika}
+  - {awarded: '2015-07-07', name: Sean Cleveland, user: cleveland_sean}
+  - {awarded: '2015-07-07', name: Andrew Marder, user: marder_andrew}
+  - {awarded: '2015-07-07', name: Patricia Carbajales-Dale, user: carbajales_patricia}
+  - {awarded: '2015-07-07', name: Amir Karger, user: karger_amir}
+  - {awarded: '2015-07-07', name: Ista Zahn, user: zahn_ista}
+  - {awarded: '2015-07-08', name: Ryan Middleton, user: middleton_ryan}
+  - {awarded: '2015-07-08', name: Donald Speer, user: speer_donald}
+  - {awarded: '2015-07-08', name: Arthur Endsley, user: endsley_arthur}
+  - {awarded: '2015-07-10', name: Laurent Duchesne, user: duchesne_laurent}
+  - {awarded: '2015-07-10', name: Maxime Boissonneault, user: boissonneault_maxime}
+  - {awarded: '2015-07-10', name: Pawel Pomorski, user: pomorski_pawel}
+  - {awarded: '2015-07-11', name: Shawn Whitefield, user: whitefield_shawn}
+  - {awarded: '2015-07-11', name: Seb James, user: james_sebastian}
+  - {awarded: '2015-07-11', name: Arvind Sundaram, user: sundaram_arvind}
+  - {awarded: '2015-07-13', name: Camille Scott, user: scott_camille}
+  - {awarded: '2015-07-15', name: Simon Fraser, user: fraser_simon}
+  - {awarded: '2015-07-22', name: Hamid Mokhtarzadeh, user: mokhtarzadeh_hamid}
+  - {awarded: '2015-07-28', name: VP Peter Nagraj, user: nagraj_vp}
+  - {awarded: '2015-08-03', name: Martin Callaghan, user: callaghan_martin}
+  - {awarded: '2015-08-09', name: Blake Joyce, user: joyce_blake}
+  - {awarded: '2015-09-02', name: Michael Croucher, user: croucher_mike}
+  - {awarded: '2015-09-09', name: John Simpson, user: simpson_john}
+  - {awarded: '2015-09-15', name: Albertus Seyffert, user: seyffert_albertus}
+  - {awarded: '2015-09-25', name: James Desjardins, user: desjardins_james}
+  - {awarded: '2015-09-25', name: Andy Evans, user: evans_andy}
+  - {awarded: '2015-09-25', name: Mark Laufersweiler, user: laufersweiler_mark}
+  - {awarded: '2015-09-25', name: Alex Razoumov, user: razoumov_alex}
+  - {awarded: '2015-09-25', name: Hartmut Schmider, user: schmider_hartmut}
+  - {awarded: '2015-09-25', name: Erik Spence, user: spence_erik}
+  - {awarded: '2015-09-25', name: Pier-Luc St-Onge, user: st-onge_pier-luc}
+  - {awarded: '2015-09-25', name: Mark Stacy, user: stacy_mark}
+  - {awarded: '2015-09-25', name: Horacio Vargas Guzman, user: vargas-guzman_horacio}
+  - {awarded: '2015-09-25', name: Victor Cordero, user: cordero_victor}
+  - {awarded: '2012-05-27', name: Jon Pipitone, user: pipitone_j}
+  - {awarded: '2015-10-06', name: Francisco Palm, user: palm_francisco}
+  - {awarded: '2015-10-07', name: James Adams, user: adams_james}
+  - {awarded: '2015-10-13', name: Jason Sherman, user: sherman_jason}
+  - {awarded: '2015-10-13', name: Patrick Calhoun, user: calhoun_patrick}
+  - {awarded: '2015-10-22', name: John Moreau, user: moreau_john}
+  - {awarded: '2015-10-22', name: Raissa Philibert, user: philibert_raissa}
+  - {awarded: '2015-10-22', name: Chris Tomlinson, user: tomlinson_christopher}
+  - {awarded: '2015-11-25', name: Jessica Mizzi, user: mizzi_jessica}
+  - {awarded: '2015-12-08', name: Mike Wallis, user: wallis_mike}
+  - {awarded: '2015-12-08', name: Gang Liu, user: liu_gang}
+  - {awarded: '2015-12-08', name: James Derrick, user: derrick_james}
+  - {awarded: '2015-11-18', name: Joona Lehtomäki, user: lehtomaki_joona}
+  - {awarded: '2015-12-08', name: Michael Levy, user: levy_michael}
+  - {awarded: '2016-01-19', name: Arfan Ahmed, user: ahmed_arfan}
+  - {awarded: '2016-01-19', name: Casey Bergman, user: bergman_casey}
+  - {awarded: '2016-01-19', name: Gerard Capes, user: capes_gerard}
+  - {awarded: '2016-01-19', name: Reed Cartwright, user: cartwright_reed}
+  - {awarded: '2016-01-19', name: Sarah Clayton, user: clayton_sarah}
+  - {awarded: '2016-01-19', name: Anne Fouilloux, user: fouilloux_anne}
+  - {awarded: '2016-01-19', name: Carlos Martinez-Ortiz, user: martinez-ortiz_carlos}
+  - {awarded: '2016-01-19', name: Andrew Mellor, user: mellor_andrew}
+  - {awarded: '2016-01-19', name: Chris Norton, user: norton_chris}
+  - {awarded: '2016-01-19', name: Braden Owsley, user: owsley_braden}
+  - {awarded: '2016-01-19', name: Blake Stamps, user: stamps_blake}
+  - {awarded: '2016-01-18', name: Mateusz Kuzak, user: kuzak_mateusz}
+  - {awarded: '2016-01-18', name: Alexandre Manhães Savio, user: manhaes-savio_alexandre}
+  - {awarded: '2016-01-18', name: Sergey Mashchenko, user: mashchenko_sergey}
+  - {awarded: '2016-02-02', name: Anita Orendt, user: orendt_anita}
+  - {awarded: '2016-02-02', name: Martin Cuma, user: cuma_martin}
+  - {awarded: '2016-02-02', name: Denise Liberton, user: liberton_denise}
+  - {awarded: '2016-02-02', name: Grace Cox, user: cox_grace}
+  - {awarded: '2016-02-02', name: Lynn Young, user: young_lynn}
+  - {awarded: '2016-02-02', name: Toby Hodges, user: hodges_toby}
+  - {awarded: '2016-02-02', name: Marcel Stimberg, user: stimberg_marcel}
+  - {awarded: '2016-02-02', name: Edwin van der Helm, user: van-der-helm_edwin}
+  - {awarded: '2016-02-02', name: Catrina Loucks, user: loucks_catrina}
+  - {awarded: '2016-02-02', name: Peter van Heusden, user: van-heusden_peter}
+  - {awarded: '2016-02-02', name: Phillip Doehle, user: doehle_phillip}
+  - {awarded: '2016-02-02', name: Fernando Mayer, user: mayer_fernando}
+  - {awarded: '2015-07-14', name: Adrianna Pińska, user: pinska_adrianna}
+  - {awarded: '2016-02-03', name: Deborah Paul, user: paul_deborah}
+  - {awarded: '2016-02-04', name: Jinlyung(Jin) Choi, user: choi_jin}
+  - {awarded: '2016-02-04', name: Fotis Psomopoulos, user: psomopoulos_fotis}
+  - {awarded: '2016-02-04', name: Maria Teleńczuk, user: telenczuk_maria}
+  - {awarded: '2016-02-04', name: Matthias Nilsson, user: nilsson_matthias}
+  - {awarded: '2016-02-04', name: Bruno Grande, user: grande_bruno}
+  - {awarded: '2016-02-04', name: Bill McClung, user: mcclung_bill}
+  - {awarded: '2016-02-04', name: Patrick Chapman, user: chapman_patrick}
+  - {awarded: '2016-02-04', name: Eric Ma, user: ma_eric}
+  - {awarded: '2016-02-04', name: Tina O'Grady, user: ogrady_tina}
+  - {awarded: '2016-02-08', name: Anna Williford, user: williford_anna}
+  - {awarded: '2016-02-08', name: Bartosz Telenczuk, user: telenczuk_bartosz}
+  - {awarded: '2016-02-08', name: Kai Blin, user: blin_kai}
+  - {awarded: '2016-02-08', name: Kevin Vilbig, user: vilbig_kevin}
+  - {awarded: '2016-02-08', name: Brendan Smithyman, user: smithyman_brendan}
+  - {awarded: '2016-02-08', name: Ivana Kajić, user: kajic_ivana}
+  - {awarded: '2016-02-08', name: Jan Gosmann, user: gosmann_jan}
+  - {awarded: '2016-02-08', name: Rohit Rawat, user: rawat_rohit}
+  - {awarded: '2016-02-09', name: Josh Waterfall, user: waterfall_josh}
+  - {awarded: '2016-02-09', name: R. Burke Burke Squires, user: squires_r_burke}
+  - {awarded: '2016-02-11', name: Madeleine Bonsma, user: bonsma_madeleine}
+  - {awarded: '2016-02-11', name: Kyriakos Chatzidimitriou, user: chatzidimitriou_kyriakos}
+  - {awarded: '2016-02-11', name: Athanassios Kintsakis, user: kintsakis_athanassios}
+  - {awarded: '2016-02-11', name: Antonia Gogoglou, user: gogoglou_antonia}
+  - {awarded: '2016-02-11', name: Adam Obeng, user: obeng_a}
+  - {awarded: '2016-02-11', name: Camille Marini, user: marini_camille}
+  - {awarded: '2016-02-11', name: Nina Therkildsen, user: therkildsen_nina}
+  - {awarded: '2016-02-11', name: Derek Howard, user: howard_derek}
+  - {awarded: '2016-02-11', name: Ryan Neufeld, user: neufeld_ryan}
+  - {awarded: '2016-02-11', name: Kally Chung, user: chung_kally}
+  - {awarded: '2016-02-11', name: Abel Siqueira, user: soares-siqueira_abel}
+  - {awarded: '2016-02-11', name: Juan Ugalde, user: ugalde_juan}
+  - {awarded: '2016-02-11', name: Natasha Pavlovikj, user: pavlovikj_natasha}
+  - {awarded: '2016-02-11', name: Florian Thöle, user: thoele_florian}
+  - {awarded: '2016-02-11', name: Lukas Weber, user: weber_lukas}
+  - {awarded: '2016-02-11', name: Tim Tröndle, user: troendle_tim}
+  - {awarded: '2016-02-11', name: Alison Appling, user: appling_alison}
+  - {awarded: '2016-02-11', name: Jingchao Zhang, user: zhang_jingchao}
+  - {awarded: '2016-02-12', name: Lina Tran, user: tran_lina}
+  - {awarded: '2016-02-12', name: Thea Van Rossum, user: van-rossum_thea}
+  - {awarded: '2016-02-12', name: Sean Aubin, user: aubin_sean}
+  - {awarded: '2016-02-12', name: Tomomi Sunayama, user: sunayama_tomomi}
+  - {awarded: '2016-02-17', name: Nouri Ben Zakour, user: ben-zakour_nouri}
+  - {awarded: '2016-02-17', name: Leah Roberts, user: roberts_leah}
+  - {awarded: '2016-02-17', name: Selene L. Fernandez-Valverde, user: fernandez-valverde_selene}
+  - {awarded: '2016-02-17', name: Anup Shah, user: shah_anup}
+  - {awarded: '2016-02-17', name: Heidi Perrett, user: perrett_heidi}
+  - {awarded: '2016-02-17', name: Kim Keogh, user: keogh_kim}
+  - {awarded: '2016-02-17', name: Andrew MacDonald, user: macdonald_andrew}
+  - {awarded: '2016-02-19', name: Jane Charlesworth, user: charlesworth_jane}
+  - {awarded: '2016-02-19', name: Cody Taylor, user: taylor_cody}
+  - {awarded: '2016-02-19', name: Catherine Olsson, user: olsson_catherine}
+  - {awarded: '2016-02-25', name: Dmytro Fishman, user: fishman_dmytro}
+  - {awarded: '2016-02-25', name: Elena Sügis, user: sugis_elena}
+  - {awarded: '2016-02-25', name: Allegra Via, user: via_allegra}
+  - {awarded: '2016-02-25', name: Matthias Haeni, user: haeni_matthias}
+  - {awarded: '2016-02-25', name: Frank Pennekamp, user: pennekamp_frank}
+  - {awarded: '2016-02-25', name: Vincenza Colonna, user: colonna_vincenza}
+  - {awarded: '2016-02-25', name: David Dotson, user: dotson_david}
+  - {awarded: '2016-02-29', name: Dana Brunson, user: brunson_dana}
+  - {awarded: '2016-02-29', name: Joseph Stachelek, user: stachelek_joseph}
+  - {awarded: '2016-02-29', name: Philip Rosenfield, user: rosenfield_phil}
+  - {awarded: '2016-02-29', name: David Ketcheson, user: ketcheson_david}
+  - {awarded: '2016-02-29', name: Daren Card, user: card_daren}
+  - {awarded: '2016-02-29', name: Avishek Kumar, user: kumar_avishek}
+  - {awarded: '2016-02-29', name: Jan Antolik, user: antolik_jan}
+  - {awarded: '2016-02-29', name: Stevan Earl, user: earl_stevan}
+  - {awarded: '2016-02-29', name: Benjamin Laken, user: laken_benjamin}
+  - {awarded: '2016-02-29', name: Hannes Calitz, user: calitz_hannes}
+  - {awarded: '2016-02-29', name: Louis Ranjard, user: ranjard_louis}
+  - {awarded: '2016-03-01', name: Andrew Davison, user: davison_andrew}
+  - {awarded: '2016-03-01', name: Alastair Droop, user: droop_alastair}
+  - {awarded: '2016-03-01', name: Bérénice Batut, user: batut_berenice}
+  - {awarded: '2016-03-01', name: Melissa Guzman, user: guzman_melissa}
+  - {awarded: '2016-03-01', name: Diana Marek, user: marek_diana}
+  - {awarded: '2016-03-01', name: Peter Hoyt, user: hoyt_peter}
+  - {awarded: '2016-03-01', name: Andrés Díaz-Gil, user: diaz-gil_andres}
+  - {awarded: '2016-03-01', name: Stuart Mumford, user: mumford_stuart}
+  - {awarded: '2016-03-01', name: Sigrid Klerke, user: klerke_sigrid}
+  - {awarded: '2016-03-01', name: Loïc Estève, user: esteve_loic}
+  - {awarded: '2016-03-01', name: Mark Robinson, user: robinson_mark}
+  - {awarded: '2016-03-01', name: Tobias Borsdorff, user: borsdorff_tobias}
+  - {awarded: '2016-03-01', name: David Eyers, user: eyers_david}
+  - {awarded: '2016-03-01', name: Sebastian Schmeier, user: schmeier_sebastian}
+  - {awarded: '2016-03-01', name: Wolfgang Hayek, user: hayek_wolfgang}
+  - {awarded: '2016-03-01', name: Beth Signal, user: signal_beth}
+  - {awarded: '2016-03-04', name: Mark Dixon, user: dixon_mark}
+  - {awarded: '2016-03-04', name: Will Pitchers, user: pitchers_w}
+  - {awarded: '2016-03-04', name: Halfdan Rydbeck, user: rydbeck_halfdan}
+  - {awarded: '2016-03-04', name: Sarah Meister, user: meister_sarah}
+  - {awarded: '2016-03-08', name: Christopher Mędrela, user: medrela_krzysztof}
+  - {awarded: '2016-03-08', name: Brian Stucky, user: stucky_brian}
+  - {awarded: '2016-03-08', name: Moritz Neeb, user: neeb_moritz}
+  - {awarded: '2016-03-08', name: Mahdi Sadjadi, user: sadjadi_seyed-mahdi}
+  - {awarded: '2016-03-08', name: Eric Bruger, user: bruger_e}
+  - {awarded: '2016-03-08', name: Elliott Sales de Andrade, user: sales_elliott}
+  - {awarded: '2016-03-15', name: Daniel Baird, user: baird_daniel}
+  - {awarded: '2016-03-15', name: Steve Vandervalk, user: vandervalk_steven}
+  - {awarded: '2016-03-15', name: Jay van Schyndel, user: van-schyndel_jay}
+  - {awarded: '2016-03-15', name: David Beitey, user: beitey_david}
+  - {awarded: '2016-03-15', name: Matthias Liffers, user: liffers_matthias}
+  - {awarded: '2016-03-15', name: Jackie Milhans, user: milhans_jackie}
+  - {awarded: '2016-03-15', name: Lindsay Coome, user: coome_lindsay}
+  - {awarded: '2016-03-15', name: Alejandro Mantero, user: mantero_alejandro}
+  - {awarded: '2016-03-15', name: Inigo Aldazabal Mensa, user: aldazabal_inigo}
+  - {awarded: '2016-03-15', name: Daniel Wheeler, user: wheeler_daniel}
+  - {awarded: '2016-03-15', name: Stéfan van der Walt, user: vanderwalt_s}
+  - {awarded: '2016-03-15', name: Giuseppe Profiti, user: profiti_giuseppe}
+  - {awarded: '2016-03-15', name: Christof De Bo, user: debo_christof}
+  - {awarded: '2016-03-15', name: Philip Lijnzaad, user: lijnzaad_philip}
+  - {awarded: '2016-03-16', name: Martin Héroux, user: heroux_martin}
+  - {awarded: '2016-03-16', name: Peter Li, user: li_peter}
+  - {awarded: '2016-03-16', name: Jared Berghold, user: berghold_jared}
+  - {awarded: '2016-03-16', name: Ghulam Murtaza, user: murtaza_ghulam}
+  - {awarded: '2016-03-21', name: Jason Bell, user: bell_jason}
+  - {awarded: '2016-03-22', name: Matthew Brett, user: brett_matthew}
+  - {awarded: '2016-03-22', name: Jon Badalamenti, user: badalamenti_jon}
+  - {awarded: '2016-03-22', name: Keith Ma, user: ma_keith}
+  - {awarded: '2016-03-22', name: Henry Senyondo, user: senyondo_henry}
+  - {awarded: '2016-03-23', name: Rochelle Terman, user: terman_rochelle}
+  - {awarded: '2016-03-27', name: Natalia Osiecka, user: osiecka_natalia}
+  - {awarded: '2016-03-27', name: Dave Williams, user: williams_dave}
+  - {awarded: '2016-03-28', name: Grzegorz Harańczyk, user: haranczyk_grzegorz}
+  - {awarded: '2016-03-29', name: Patrick Boyle, user: boyle_patrick}
+  - {awarded: '2016-03-29', name: Jamie Hadwin, user: hadwin_jamie}
+  - {awarded: '2016-03-29', name: Peter Michalák, user: michalak_peter}
+  - {awarded: '2016-03-29', name: Joanna Diong, user: diong_joanna}
+  - {awarded: '2016-03-29', name: Marek Cmero, user: cmero_marek}
+  - {awarded: '2016-03-29', name: Westa Domanova, user: domanova_westa}
+  - {awarded: '2016-03-30', name: Claire Hardgrove, user: hardgrove_claire}
+  - {awarded: '2016-03-30', name: Joanna Jędrzejewska-Szmek, user: jedrzejewska-szmek_joanna}
+  - {awarded: '2016-04-01', name: Živa Ramšak, user: ramsak_ziva}
+  - {awarded: '2016-04-01', name: Peter Juvan, user: juvan_peter}
+  - {awarded: '2016-04-01', name: Marcin Adamski, user: adamski_marcin}
 - name: member
   persons:
-  - {name: Joshua Adelman, user: adelman_joshua}
-  - {name: Jorge Aranda, user: aranda_j}
-  - {name: Piotr Banaszkiewicz, user: banaszkiewicz_piotr}
-  - {name: Andrew Boughton, user: boughton_andrew}
-  - {name: Amy Brown, user: brown_amy}
-  - {name: Cliburn Chan, user: chan_cliburn}
-  - {name: Neil Chue Hong, user: chue-hong_n}
-  - {name: Warren Code, user: code_w}
-  - {name: Arliss Collins, user: collins_arliss}
-  - {name: Dirk Eddelbuettel, user: eddelbuettel_dirk}
-  - {name: Rémi Emonet, user: emonet_remi}
-  - {name: Carole Goble, user: goble_c}
-  - {name: Luiz Irber, user: irber_luiz}
-  - {name: W. Trevor King, user: king_wt}
-  - {name: Isabell Kiral-Kornek, user: kiral-kornek_isabell}
-  - {name: Kwangchun Lee, user: lee_kwangchun}
-  - {name: Cindee Madison, user: madison_cindee}
-  - {name: Giacomo Peru, user: peru_giacomo}
-  - {name: Marian Petre, user: petre_m}
-  - {name: Jon Pipitone, user: pipitone_j}
-  - {name: Mark Plumbley, user: plumbley_m}
-  - {name: David Rio, user: rio_david}
-  - {name: Ashwin Trikuta Srinath, user: srinath_ashwin}
-  - {name: Adam Stone, user: stone_a}
-  - {name: Kaitlin Thaney, user: thaney_kaitlin}
-  - {name: Ramnath Vaidyanathan, user: vaidyanathan_ramnath}
-  - {name: Jason Williams, user: williams_jason}
-  - {name: Carol Willing, user: willing_carol}
-  - {name: Paul Wilson, user: wilson_p}
+  - {awarded: '2015-01-23', name: Joshua Adelman, user: adelman_joshua}
+  - {awarded: '2015-02-07', name: Jorge Aranda, user: aranda_j}
+  - {awarded: '2015-02-10', name: Piotr Banaszkiewicz, user: banaszkiewicz_piotr}
+  - {awarded: '2015-01-07', name: Andrew Boughton, user: boughton_andrew}
+  - {awarded: '2014-12-18', name: Amy Brown, user: brown_amy}
+  - {awarded: '2015-01-23', name: Cliburn Chan, user: chan_cliburn}
+  - {awarded: '2015-01-23', name: Neil Chue Hong, user: chue-hong_n}
+  - {awarded: '2015-01-06', name: Warren Code, user: code_w}
+  - {awarded: '2014-12-18', name: Arliss Collins, user: collins_arliss}
+  - {awarded: '2015-01-23', name: Dirk Eddelbuettel, user: eddelbuettel_dirk}
+  - {awarded: '2015-01-23', name: Rémi Emonet, user: emonet_remi}
+  - {awarded: '2014-12-18', name: Carole Goble, user: goble_c}
+  - {awarded: '2015-01-23', name: Luiz Irber, user: irber_luiz}
+  - {awarded: '2014-12-18', name: W. Trevor King, user: king_wt}
+  - {awarded: '2015-02-07', name: Isabell Kiral-Kornek, user: kiral-kornek_isabell}
+  - {awarded: '2015-01-06', name: Kwangchun Lee, user: lee_kwangchun}
+  - {awarded: '2015-02-07', name: Cindee Madison, user: madison_cindee}
+  - {awarded: '2014-12-18', name: Giacomo Peru, user: peru_giacomo}
+  - {awarded: '2014-12-18', name: Marian Petre, user: petre_m}
+  - {awarded: '2014-12-18', name: Jon Pipitone, user: pipitone_j}
+  - {awarded: '2014-12-18', name: Mark Plumbley, user: plumbley_m}
+  - {awarded: '2015-01-06', name: David Rio, user: rio_david}
+  - {awarded: '2015-01-23', name: Ashwin Trikuta Srinath, user: srinath_ashwin}
+  - {awarded: '2014-12-18', name: Adam Stone, user: stone_a}
+  - {awarded: '2014-12-18', name: Kaitlin Thaney, user: thaney_kaitlin}
+  - {awarded: '2015-02-07', name: Ramnath Vaidyanathan, user: vaidyanathan_ramnath}
+  - {awarded: '2015-01-06', name: Jason Williams, user: williams_jason}
+  - {awarded: '2015-01-06', name: Carol Willing, user: willing_carol}
+  - {awarded: '2015-02-07', name: Paul Wilson, user: wilson_p}
 - name: organizer
   persons:
-  - {name: Jorge Aranda, user: aranda_j}
-  - {name: Clair Barrass, user: barrass_clair}
-  - {name: Casey Bergman, user: bergman_casey}
-  - {name: Bruce Berriman, user: berriman_b}
-  - {name: Azalee Bostroem, user: bostroem_a}
-  - {name: Onno Broekmans, user: broekmans_o}
-  - {name: Amy Brown, user: brown_amy}
-  - {name: C. Titus Brown, user: brown_ct}
-  - {name: Simon Burbidge, user: burbidge_simon}
-  - {name: Alex Chartier, user: chartier_a}
-  - {name: Shreyas Cholia, user: cholia_s}
-  - {name: Stefano Cozzini, user: cozzini_s}
-  - {name: Matt Davis, user: davis_m}
-  - {name: Ross Dickson, user: dickson_r}
-  - {name: Jonah Duckles, user: duckles_jonah}
-  - {name: Dan Ellis, user: ellis_dan}
-  - {name: Valerie Evans, user: evans_valerie}
-  - {name: Philip Fowler, user: fowler_philip}
-  - {name: Elise Glen, user: glen_e}
-  - {name: Carole Goble, user: goble_c}
-  - {name: Chris Gray, user: gray_c}
-  - {name: Norman Gray, user: gray_n}
-  - {name: David Henty, user: henty_d}
-  - {name: James Hetherington, user: hetherington_james}
-  - {name: Bill Howe, user: howe_b}
-  - {name: Katy Huff, user: huff_k}
-  - {name: Catherine Inglis, user: inglis_catherine}
-  - {name: Mike Jackson, user: jackson_m}
-  - {name: Bernhard Konrad, user: konrad_b}
-  - {name: Nic Kooyers, user: kooyers_n}
-  - {name: Ian Langmore, user: langmore_i}
-  - {name: Paul Lu, user: lu_p}
-  - {name: Andrew Lumsdaine, user: lumsdaine_a}
-  - {name: Joshua Madin, user: madin_j}
-  - {name: Avril Manners, user: manners_avril}
-  - {name: Damian Marchewka, user: marchewka_damian}
-  - {name: Ian Mitchell, user: mitchell_i}
-  - {name: Jason Montojo, user: montojo_j}
-  - {name: Lex Nederbragt, user: nederbragt_l}
-  - {name: Miguel Oliveira, user: oliveira_miguel}
-  - {name: Randy Olson, user: olson_r}
-  - {name: Chris Paciorek, user: paciorek_c}
-  - {name: Konrad Paszkiewicz, user: paszkiewicz_konrad}
-  - {name: Marian Petre, user: petre_m}
-  - {name: Jon Pipitone, user: pipitone_j}
-  - {name: Mark Plumbley, user: plumbley_m}
-  - {name: Michael Rezny, user: rezny_m}
-  - {name: Ariel Rokem, user: rokem_a}
-  - {name: Jorden Schossau, user: schossau_j}
-  - {name: Rachel Schutt, user: schutt_r}
-  - {name: Anthony Scopatz, user: scopatz_a}
-  - {name: Jeffrey Shelton, user: shelton_j}
-  - {name: Andrew Su, user: su_a}
-  - {name: Tracy Teal, user: teal_t}
-  - {name: Luke Tweddle, user: tweddle_l}
-  - {name: Todd Vision, user: vision_t}
-  - {name: Andrew Walker, user: walker_a}
-  - {name: Ben Waugh, user: waugh_b}
-  - {name: Ethan White, user: white_e}
-  - {name: Greg Wilson, user: wilson_g}
-  - {name: Paul Wilson, user: wilson_p}
-  - {name: Robin Wilson, user: wilson_r}
-  - {name: David Wolever, user: wolever_d}
+  - {awarded: '2013-07-24', name: Jorge Aranda, user: aranda_j}
+  - {awarded: '2014-12-11', name: Clair Barrass, user: barrass_clair}
+  - {awarded: '2013-07-24', name: Casey Bergman, user: bergman_casey}
+  - {awarded: '2012-12-20', name: Bruce Berriman, user: berriman_b}
+  - {awarded: '2013-11-17', name: Azalee Bostroem, user: bostroem_a}
+  - {awarded: '2013-07-24', name: Onno Broekmans, user: broekmans_o}
+  - {awarded: '2013-07-24', name: Amy Brown, user: brown_amy}
+  - {awarded: '2013-09-15', name: C. Titus Brown, user: brown_ct}
+  - {awarded: '2014-12-11', name: Simon Burbidge, user: burbidge_simon}
+  - {awarded: '2013-07-17', name: Alex Chartier, user: chartier_a}
+  - {awarded: '2012-12-20', name: Shreyas Cholia, user: cholia_s}
+  - {awarded: '2012-12-20', name: Stefano Cozzini, user: cozzini_s}
+  - {awarded: '2013-09-15', name: Matt Davis, user: davis_m}
+  - {awarded: '2012-12-20', name: Ross Dickson, user: dickson_r}
+  - {awarded: '2014-07-22', name: Jonah Duckles, user: duckles_jonah}
+  - {awarded: '2013-07-24', name: Dan Ellis, user: ellis_dan}
+  - {awarded: '2014-07-22', name: Valerie Evans, user: evans_valerie}
+  - {awarded: '2012-12-20', name: Philip Fowler, user: fowler_philip}
+  - {awarded: '2013-11-28', name: Elise Glen, user: glen_e}
+  - {awarded: '2013-07-24', name: Carole Goble, user: goble_c}
+  - {awarded: '2012-12-20', name: Chris Gray, user: gray_c}
+  - {awarded: '2014-07-22', name: Norman Gray, user: gray_n}
+  - {awarded: '2013-09-02', name: David Henty, user: henty_d}
+  - {awarded: '2013-07-24', name: James Hetherington, user: hetherington_james}
+  - {awarded: '2013-07-24', name: Bill Howe, user: howe_b}
+  - {awarded: '2013-09-15', name: Katy Huff, user: huff_k}
+  - {awarded: '2013-09-02', name: Catherine Inglis, user: inglis_catherine}
+  - {awarded: '2013-09-02', name: Mike Jackson, user: jackson_m}
+  - {awarded: '2014-07-22', name: Bernhard Konrad, user: konrad_b}
+  - {awarded: '2012-12-20', name: Nic Kooyers, user: kooyers_n}
+  - {awarded: '2013-07-24', name: Ian Langmore, user: langmore_i}
+  - {awarded: '2012-12-20', name: Paul Lu, user: lu_p}
+  - {awarded: '2012-12-20', name: Andrew Lumsdaine, user: lumsdaine_a}
+  - {awarded: '2013-07-24', name: Joshua Madin, user: madin_j}
+  - {awarded: '2014-07-22', name: Avril Manners, user: manners_avril}
+  - {awarded: '2013-05-27', name: Damian Marchewka, user: marchewka_damian}
+  - {awarded: '2012-12-20', name: Ian Mitchell, user: mitchell_i}
+  - {awarded: '2013-07-24', name: Jason Montojo, user: montojo_j}
+  - {awarded: '2012-12-20', name: Lex Nederbragt, user: nederbragt_l}
+  - {awarded: '2014-12-11', name: Miguel Oliveira, user: oliveira_miguel}
+  - {awarded: '2014-07-22', name: Randy Olson, user: olson_r}
+  - {awarded: '2012-12-20', name: Chris Paciorek, user: paciorek_c}
+  - {awarded: '2013-11-28', name: Konrad Paszkiewicz, user: paszkiewicz_konrad}
+  - {awarded: '2013-07-24', name: Marian Petre, user: petre_m}
+  - {awarded: '2012-12-20', name: Jon Pipitone, user: pipitone_j}
+  - {awarded: '2012-12-20', name: Mark Plumbley, user: plumbley_m}
+  - {awarded: '2013-07-24', name: Michael Rezny, user: rezny_m}
+  - {awarded: '2013-09-19', name: Ariel Rokem, user: rokem_a}
+  - {awarded: '2014-07-22', name: Jorden Schossau, user: schossau_j}
+  - {awarded: '2012-12-20', name: Rachel Schutt, user: schutt_r}
+  - {awarded: '2013-09-15', name: Anthony Scopatz, user: scopatz_a}
+  - {awarded: '2012-12-20', name: Jeffrey Shelton, user: shelton_j}
+  - {awarded: '2012-12-20', name: Andrew Su, user: su_a}
+  - {awarded: '2013-09-15', name: Tracy Teal, user: teal_t}
+  - {awarded: '2013-12-05', name: Luke Tweddle, user: tweddle_l}
+  - {awarded: '2013-07-24', name: Todd Vision, user: vision_t}
+  - {awarded: '2013-09-19', name: Andrew Walker, user: walker_andrew}
+  - {awarded: '2012-12-20', name: Ben Waugh, user: waugh_b}
+  - {awarded: '2012-12-20', name: Ethan White, user: white_e}
+  - {awarded: '2012-12-20', name: Greg Wilson, user: wilson_g}
+  - {awarded: '2013-07-24', name: Paul Wilson, user: wilson_p}
+  - {awarded: '2013-06-05', name: Robin Wilson, user: wilson_r}
+  - {awarded: '2013-07-24', name: David Wolever, user: wolever_d}
 - name: dc-instructor
-  persons: []
+  persons:
+  - {awarded: '2016-01-27', name: Rachel Schwartz, user: schwartz_rachel}
+  - {awarded: '2016-01-27', name: Abigail Cabunoc Mayes, user: cabunoc_abigail}
+  - {awarded: '2016-01-27', name: Adam Thomas, user: thomas_adam}
+  - {awarded: '2016-01-27', name: Andrew Lonsdale, user: lonsdale_andrew}
+  - {awarded: '2016-01-27', name: Auriel Fournier, user: fournier_auriel}
+  - {awarded: '2016-01-27', name: Belinda Weaver, user: weaver_belinda}
+  - {awarded: '2016-01-27', name: Ben Marwick, user: marwick_ben}
+  - {awarded: '2016-01-27', name: Bernhard Konrad, user: konrad_b}
+  - {awarded: '2016-01-27', name: Roman Valls Guimera, user: valls-guimera_roman}
+  - {awarded: '2016-01-27', name: Byron Smith, user: smith_byron}
+  - {awarded: '2016-01-27', name: C. Titus Brown, user: brown_ct}
+  - {awarded: '2016-01-27', name: Devasena Inupakutika, user: inupakutika_devasena}
+  - {awarded: '2016-01-27', name: Darya Vanichkina, user: vanichkina_darya}
+  - {awarded: '2016-01-27', name: Daniel Chen, user: chen_daniel}
+  - {awarded: '2016-01-27', name: Denis Haine, user: haine_denis}
+  - {awarded: '2016-01-27', name: Meghan Duffy, user: duffy_meghan}
+  - {awarded: '2016-01-27', name: Evgenij Belikov, user: belikov_evgenij}
+  - {awarded: '2016-01-27', name: Dirk Eddelbuettel, user: eddelbuettel_dirk}
+  - {awarded: '2016-01-27', name: Ted Hart, user: hart_t}
+  - {awarded: '2016-01-27', name: Elizabeth Wickes, user: wickes_elizabeth}
+  - {awarded: '2016-01-27', name: Fabian Held, user: held_fabian}
+  - {awarded: '2016-01-27', name: Harriet Dashnow, user: dashnow_harriet}
+  - {awarded: '2016-01-27', name: Jeff Hollister, user: hollister_jeff}
+  - {awarded: '2016-01-27', name: Ivan Gonzalez, user: gonzalez_ivan}
+  - {awarded: '2016-01-27', name: Joshua Ainsley, user: ainsley_joshua}
+  - {awarded: '2016-01-27', name: James Boocock, user: boocock_james}
+  - {awarded: '2016-01-27', name: John Corless, user: corless_john}
+  - {awarded: '2016-01-27', name: Jeremy Gray, user: gray_jeremy}
+  - {awarded: '2016-01-27', name: Matt Davis, user: davis_m}
+  - {awarded: '2016-01-27', name: Jonah Duckles, user: duckles_jonah}
+  - {awarded: '2016-01-27', name: Kate Hertweck, user: hertweck_kate}
+  - {awarded: '2016-01-27', name: Karl Broman, user: broman_karl}
+  - {awarded: '2016-01-27', name: Christina Koch, user: koch_christina}
+  - {awarded: '2016-01-27', name: Kyler Brown, user: brown_kyler}
+  - {awarded: '2016-01-27', name: Mark Laufersweiler, user: laufersweiler_mark}
+  - {awarded: '2016-01-27', name: Leighton Pritchard, user: pritchard_leighton}
+  - {awarded: '2016-01-27', name: Lex Nederbragt, user: nederbragt_l}
+  - {awarded: '2016-01-27', name: Luiz Irber, user: irber_luiz}
+  - {awarded: '2016-01-27', name: Mitchell Stanton-Cook, user: stanton-cook_mitchell}
+  - {awarded: '2016-01-27', name: Matthew Aiello-Lammens, user: aiello-lammens_matthew}
+  - {awarded: '2016-01-27', name: Maxime Boissonneault, user: boissonneault_maxime}
+  - {awarded: '2016-01-27', name: Matt Dickenson, user: dickenson_matt}
+  - {awarded: '2016-01-27', name: Melissa Whitaker, user: whitaker_melissa}
+  - {awarded: '2016-01-27', name: Mik Black, user: black_mik}
+  - {awarded: '2016-01-27', name: Narayanan Raghupathy, user: raghupathy_narayanan}
+  - {awarded: '2016-01-27', name: Neem Serra, user: serra_neem}
+  - {awarded: '2016-01-27', name: Nichole Bennett, user: bennett_n}
+  - {awarded: '2016-01-27', name: Filipe Fernandes, user: fernandes_filipe}
+  - {awarded: '2016-01-27', name: Paula Andrea Martinez, user: martinez_paula}
+  - {awarded: '2016-01-27', name: Pat Schloss, user: schloss_pat}
+  - {awarded: '2016-01-27', name: Raniere Silva, user: silva_raniere}
+  - {awarded: '2016-01-27', name: Ross Mounce, user: mounce_ross}
+  - {awarded: '2016-01-27', name: Rochelle Terman, user: terman_rochelle}
+  - {awarded: '2016-01-27', name: Sam Hames, user: hames_sam}
+  - {awarded: '2016-01-27', name: Sarah Supp, user: supp_s}
+  - {awarded: '2016-01-27', name: Sherry Lake, user: lake_sherry}
+  - {awarded: '2016-01-27', name: Sarah Stevens, user: stevens_sarah}
+  - {awarded: '2016-01-27', name: Sue McClatchy, user: mcclatchy_susan}
+  - {awarded: '2016-01-27', name: Timothee Poisot, user: poisot_t}
+  - {awarded: '2016-01-27', name: Trevor Bekolay, user: bekolay_trevor}
+  - {awarded: '2016-01-27', name: Tom Kelly, user: kelly_tom}
+  - {awarded: '2016-01-27', name: Olav Vahtras, user: vahtras_olav}
+  - {awarded: '2016-01-27', name: Asela Wijeratne, user: wijeratne_asela}
+  - {awarded: '2016-01-27', name: Paul Wilson, user: wilson_p}
+  - {awarded: '2016-01-27', name: April Wright, user: wright_april}
+  - {awarded: '2016-01-27', name: Andrea Zonca, user: zonca_andrea}
+  - {awarded: '2016-01-30', name: Krzysztof Poterlowicz, user: poterlowicz_krzysztof}
+  - {awarded: '2016-01-30', name: Adina Howe, user: chuang-howe_a}
+  - {awarded: '2016-01-30', name: Aleksandra Pawlik, user: pawlik_a}
+  - {awarded: '2016-01-30', name: Amy Hodge, user: hodge_amy}
+  - {awarded: '2016-01-30', name: Carlos Martinez-Ortiz, user: martinez-ortiz_carlos}
+  - {awarded: '2016-01-30', name: Christie Bahlai, user: bahlai_christie}
+  - {awarded: '2016-01-30', name: Chris Friedline, user: friedline_chris}
+  - {awarded: '2016-01-30', name: Amanda Charbonneau, user: charbonneau_amanda}
+  - {awarded: '2016-01-30', name: Westa Domanova, user: domanova_westa}
+  - {awarded: '2016-01-30', name: Deborah Paul, user: paul_deborah}
+  - {awarded: '2016-01-30', name: Easton White, user: white_easton}
+  - {awarded: '2016-01-30', name: Erika Mudrak, user: mudrak_erika}
+  - {awarded: '2016-01-30', name: Emily Davenport, user: davenport_e}
+  - {awarded: '2016-01-30', name: Fan Yang, user: yang_fan}
+  - {awarded: '2016-01-30', name: François Michonneau, user: michonneau_francois}
+  - {awarded: '2016-01-30', name: Ian Munoz, user: munoz_ian}
+  - {awarded: '2016-01-30', name: Jason Pell, user: pell_j}
+  - {awarded: '2016-01-30', name: Jared Camins-Esakov, user: camins-esakov_jared}
+  - {awarded: '2016-01-30', name: Jeramia Ory, user: ory_j}
+  - {awarded: '2016-01-30', name: John Fonner, user: fonner_john}
+  - {awarded: '2016-01-30', name: John Moreau, user: moreau_john}
+  - {awarded: '2016-01-30', name: Joshua Herr, user: herr_joshua}
+  - {awarded: '2016-01-30', name: Jennifer Shelton, user: shelton_jennifer}
+  - {awarded: '2016-01-30', name: Karthik Ram, user: ram_k}
+  - {awarded: '2016-01-30', name: Krzysztof Strug, user: strug_krzysztof}
+  - {awarded: '2016-01-30', name: Katja Seltmann, user: seltmann_katja}
+  - {awarded: '2016-01-30', name: Leigh Sheneman, user: sheneman_leigh}
+  - {awarded: '2016-01-30', name: Leszek Tarkowski, user: tarkowski_leszek}
+  - {awarded: '2016-01-30', name: Laurent Gatto, user: gatto_laurent}
+  - {awarded: '2016-01-30', name: Elijah Lowe, user: lowe_elijah}
+  - {awarded: '2016-01-30', name: Martin Callaghan, user: callaghan_martin}
+  - {awarded: '2016-01-30', name: Cam Macdonell, user: macdonell_cam}
+  - {awarded: '2016-01-30', name: Michael Levy, user: levy_michael}
+  - {awarded: '2016-01-30', name: Mateusz Kuzak, user: kuzak_mateusz}
+  - {awarded: '2016-01-30', name: Matthew Collins, user: collins_matthew}
+  - {awarded: '2016-01-30', name: Mike Smorul, user: smorul_mike}
+  - {awarded: '2016-01-30', name: Noam Ross, user: ross_noam}
+  - {awarded: '2016-01-30', name: Will Pitchers, user: pitchers_w}
+  - {awarded: '2016-01-30', name: Sean Pue, user: pue_s}
+  - {awarded: '2016-01-30', name: Stephen Turner, user: turner_s}
+  - {awarded: '2016-01-30', name: Sheldon McKay, user: mckay_sheldon}
+  - {awarded: '2016-01-30', name: Clare Sloggett, user: sloggett_clare}
+  - {awarded: '2016-01-30', name: Tracy Teal, user: teal_t}
+  - {awarded: '2016-01-30', name: Jason Williams, user: williams_jason}
+  - {awarded: '2016-01-30', name: Zhuo Fu, user: fu_zhuo}
+  - {awarded: '2016-01-30', name: Frederik Coppens, user: coppens_frederik}
+  - {awarded: '2016-01-30', name: Ira Cooke, user: cooke_ira}
+  - {awarded: '2016-01-30', name: Matthew Wakefield, user: wakefield_matthew}
+  - {awarded: '2016-02-02', name: Fernando Mayer, user: mayer_fernando}
+  - {awarded: '2016-02-04', name: Jinlyung(Jin) Choi, user: choi_jin}
+  - {awarded: '2016-02-04', name: Fotis Psomopoulos, user: psomopoulos_fotis}
+  - {awarded: '2016-02-04', name: Eric Ma, user: ma_eric}
+  - {awarded: '2016-02-09', name: Rohit Rawat, user: rawat_rohit}
+  - {awarded: '2016-02-11', name: Kyriakos Chatzidimitriou, user: chatzidimitriou_kyriakos}
+  - {awarded: '2016-02-11', name: Athanassios Kintsakis, user: kintsakis_athanassios}
+  - {awarded: '2016-02-11', name: Antonia Gogoglou, user: gogoglou_antonia}
+  - {awarded: '2016-02-11', name: Adam Obeng, user: obeng_a}
+  - {awarded: '2016-02-11', name: Juan Ugalde, user: ugalde_juan}
+  - {awarded: '2016-02-11', name: Lukas Weber, user: weber_lukas}
+  - {awarded: '2016-02-11', name: Alison Appling, user: appling_alison}
+  - {awarded: '2016-02-12', name: Lindsay Carr, user: carr_lindsay}
+  - {awarded: '2016-02-19', name: Andrew Yan, user: yan_andrew}
+  - {awarded: '2016-02-25', name: Elena Sügis, user: sugis_elena}
+  - {awarded: '2016-02-25', name: Allegra Via, user: via_allegra}
+  - {awarded: '2016-02-25', name: Dmytro Fishman, user: fishman_dmytro}
+  - {awarded: '2016-02-25', name: Vincenza Colonna, user: colonna_vincenza}
+  - {awarded: '2016-02-25', name: Matthias Haeni, user: haeni_matthias}
+  - {awarded: '2016-02-25', name: Frank Pennekamp, user: pennekamp_frank}
+  - {awarded: '2016-03-01', name: Diana Marek, user: marek_diana}
+  - {awarded: '2016-03-01', name: Mark Robinson, user: robinson_mark}
+  - {awarded: '2016-03-01', name: Tobias Borsdorff, user: borsdorff_tobias}
+  - {awarded: '2016-03-01', name: Christopher Hamm, user: hamm_christopher}
+  - {awarded: '2016-03-04', name: Michelle Craft, user: craft_michelle}
+  - {awarded: '2016-03-09', name: Moritz Neeb, user: neeb_moritz}
+  - {awarded: '2016-03-09', name: Nicky Nicolson, user: nicolson_nicky}
+  - {awarded: '2016-03-15', name: Laura DeCicco, user: decicco_laura}
+  - {awarded: '2016-03-16', name: Inigo Aldazabal Mensa, user: aldazabal_inigo}
+  - {awarded: '2016-03-15', name: Philip Lijnzaad, user: lijnzaad_philip}
+  - {awarded: '2016-03-15', name: Christof De Bo, user: debo_christof}
+  - {awarded: '2016-03-16', name: Sebastian Schmeier, user: schmeier_sebastian}
+  - {awarded: '2016-03-22', name: Allison Jai O'Dell, user: odell_allison-jai}
+  - {awarded: '2016-03-08', name: Emily Read, user: read_emily}
+  - {awarded: '2016-03-28', name: Grzegorz Harańczyk, user: haranczyk_grzegorz}
+  - {awarded: '2016-03-30', name: Claire Hardgrove, user: hardgrove_claire}
+  - {awarded: '2016-04-01', name: Živa Ramšak, user: ramsak_ziva}
+  - {awarded: '2016-04-01', name: Peter Juvan, user: juvan_peter}
+- name: maintainer
+  persons:
+  - {awarded: '2016-02-03', name: Trevor Bekolay, user: bekolay_trevor}
+  - {awarded: '2016-02-03', name: John Blischak, user: blischak_j}
+  - {awarded: '2016-02-03', name: Azalee Bostroem, user: bostroem_a}
+  - {awarded: '2016-02-03', name: Abigail Cabunoc Mayes, user: cabunoc_abigail}
+  - {awarded: '2016-02-03', name: Gabriel A. Devenyi, user: devenyi_gabriel}
+  - {awarded: '2016-02-03', name: Ivan Gonzalez, user: gonzalez_ivan}
+  - {awarded: '2016-02-03', name: Denis Haine, user: haine_denis}
+  - {awarded: '2016-02-03', name: Jessica Hamrick, user: hamrick_jessica}
+  - {awarded: '2016-02-03', name: Daisie Huang, user: huang_daisie}
+  - {awarded: '2016-02-03', name: Katy Huff, user: huff_k}
+  - {awarded: '2016-02-03', name: Mike Jackson, user: jackson_m}
+  - {awarded: '2016-02-03', name: Isabell Kiral-Kornek, user: kiral-kornek_isabell}
+  - {awarded: '2016-02-03', name: Christina Koch, user: koch_christina}
+  - {awarded: '2016-02-03', name: Doug Latornell, user: latornell_d}
+  - {awarded: '2016-02-03', name: Sheldon McKay, user: mckay_sheldon}
+  - {awarded: '2016-02-03', name: Ashwin Trikuta Srinath, user: srinath_ashwin}
+  - {awarded: '2016-02-03', name: Tom Wright, user: wright_thomas}
+  - {awarded: '2016-02-03', name: Naupaka Zimmerman, user: zimmerman_naupaka}
+  - {awarded: '2016-03-17', name: Erik Bray, user: bray_e}
+  - {awarded: '2016-03-17', name: Harriet Dashnow, user: dashnow_harriet}
+  - {awarded: '2016-03-17', name: Daniel Chen, user: chen_daniel}
+  - {awarded: '2016-03-03', name: Christie Bahlai, user: bahlai_christie}
+  - {awarded: '2016-03-03', name: Deborah Paul, user: paul_deborah}
+  - {awarded: '2016-03-03', name: Cam Macdonell, user: macdonell_cam}
+  - {awarded: '2016-03-03', name: Paula Andrea Martinez, user: martinez_paula}
+  - {awarded: '2016-03-03', name: Timothee Poisot, user: poisot_t}
+  - {awarded: '2016-03-03', name: François Michonneau, user: michonneau_francois}
+  - {awarded: '2016-03-03', name: Auriel Fournier, user: fournier_auriel}
+  - {awarded: '2016-03-03', name: John Gosset, user: gosset_john}
+  - {awarded: '2016-03-03', name: April Wright, user: wright_april}
+  - {awarded: '2016-03-03', name: Mateusz Kuzak, user: kuzak_mateusz}
+- name: trainer
+  persons:
+  - {awarded: '2016-02-03', name: Christina Koch, user: koch_christina}
+  - {awarded: '2016-02-03', name: Aleksandra Pawlik, user: pawlik_a}
+  - {awarded: '2016-02-03', name: Tracy Teal, user: teal_t}
+  - {awarded: '2016-02-04', name: Stephen Crouch, user: crouch_s}
+  - {awarded: '2016-03-16', name: Fiona Tweedie, user: tweedie_fiona}
 flags:
-  airports: [au, br, ca, ch, cn, de, dk, es, fi, fr, gb, ie, il, in, it, nl, 'no',
-    nz, pl, ro, se, sg, th, us, ve, za]
+  airports: [au, be, br, ca, ch, cl, cn, de, dk, ee, es, fr, gb, gr, hk, ie, il, in,
+    it, mx, nl, 'no', nz, pl, ro, sa, se, sg, th, us, ve, za]
   workshops: [au, be, br, ca, ch, cn, cy, de, dk, es, fi, fr, gb, gh, id, in, it,
     jo, ke, kr, lb, nl, 'no', nz, pl, sa, se, th, us, ve, w3, za]
-timestamp: 20160125T232820Z
+timestamp: 20160404T125726Z
 workshops:
 - &id002
   - address: ' '
@@ -2267,20 +2875,6 @@ workshops:
     - {name: SWC}
     url: https://swcarpentry.github.io/2012-10-20-ucb/
     venue: University of California Berkeley
-  - address: ' '
-    contact: ''
-    country: gb
-    end: 2012-10-23
-    eventbrite_id: null
-    humandate: Oct 22-23, 2012
-    latitude: 54.980095
-    longitude: -1.6146142
-    slug: 2012-10-22-newcastle
-    start: 2012-10-22
-    tags:
-    - {name: SWC}
-    url: https://swcarpentry.github.io/2012-10-22-newcastle/
-    venue: University of Newcastle
   - address: 383 Hill Annex, Caltech Campus, Pasadena, CA 91125
     contact: ''
     country: us
@@ -2744,20 +3338,6 @@ workshops:
     - {name: SWC}
     url: https://swcarpentry.github.io/2013-04-08-stellenbosch/
     venue: Stellenbosch University
-  - address: ' '
-    contact: michaelj@epcc.ed.ac.uk
-    country: gb
-    end: null
-    eventbrite_id: null
-    humandate: Apr 13, 2013-???
-    latitude: 53.467102
-    longitude: -2.233958
-    slug: 2013-04-11-egi
-    start: 2013-04-13
-    tags:
-    - {name: SWC}
-    url: https://swcarpentry.github.io/2013-04-11-egi/
-    venue: EGI Forum, Manchester
   - address: ' '
     contact: ''
     country: us
@@ -3602,7 +4182,7 @@ workshops:
     tags:
     - {name: SWC}
     url: https://chryswoods.github.io/2013-11-14-exeter/
-    venue: Exeter University
+    venue: University Exeter
   - address: Aquarium Conference Room, NOAA National Marine Fisheries Service, Woods
       Hole
     contact: james.maning@noaa.gov
@@ -3693,7 +4273,7 @@ workshops:
     contact: admin-uk@software-carpentry.org
     country: gb
     end: 2013-12-12
-    eventbrite_id: null
+    eventbrite_id: ''
     humandate: Dec 12-12, 2013
     latitude: 55.87185
     longitude: -4.29155
@@ -3702,12 +4282,12 @@ workshops:
     tags:
     - {name: SWC}
     url: https://bendmorris.github.io/2013-12-12-glasgow/
-    venue: Glasgow University
+    venue: University of Glasgow
   - address: College of Life Sciences, University of Dundee, Dundee DD1 5EH
     contact: d.m.a.martin@dundee.ac.uk
     country: gb
     end: 2013-12-17
-    eventbrite_id: null
+    eventbrite_id: ''
     humandate: Dec 16-17, 2013
     latitude: 56.464
     longitude: -2.97
@@ -3716,7 +4296,7 @@ workshops:
     tags:
     - {name: SWC}
     url: https://davidmam.github.io/2013-12-16-dundee/
-    venue: Dundee University
+    venue: University of Dundee
   - address: Bailey Hall 214-216, 10 Bailey Drive, Fredericton, New Brunswick
     contact: jgustavsen@eos.ubc.ca
     country: ca
@@ -4217,7 +4797,7 @@ workshops:
     tags:
     - {name: SWC}
     url: https://apawlik.github.io/2014-04-09-GARNET/
-    venue: GARNet, Warwick University
+    venue: GARNet, University of Warwick
   - address: 3080 Center Green Drive, Boulder, CO
     contact: admin@software-carpentry.org
     country: us
@@ -7025,6 +7605,7 @@ workshops:
     start: 2015-06-12
     tags:
     - {name: TTT}
+    - {name: stalled}
     url: https://swcarpentry.github.io/2015-06-12-ttt-iplant/
     venue: iPlant
   - address: ' Craik-Marshall Building, Downing Site, Cambridge'
@@ -7082,6 +7663,7 @@ workshops:
     start: 2015-06-16
     tags:
     - {name: TTT}
+    - {name: stalled}
     url: https://swcarpentry.github.io/2015-06-16-ttt-aciref/
     venue: Harvard University
   - address: Information Technology Engineering Building, room 119
@@ -9158,6 +9740,20 @@ workshops:
     - {name: SWC}
     url: https://cbig.github.io/2015-11-25-helsinki/
     venue: University of Helsinki
+  - address: Room 422, Horace Lamb Building, North Terrace Campus, University of Adelaide
+    contact: stephen.pederson@adelaide.edu.au
+    country: au
+    end: 2015-11-27
+    eventbrite_id: ''
+    humandate: Nov 26-27, 2015
+    latitude: -34.919136
+    longitude: 138.6048695
+    slug: 2015-11-26-adelaide-python
+    start: 2015-11-26
+    tags:
+    - {name: SWC}
+    url: https://COMBINE-Australia.github.io/2015-11-26-adelaide-python/
+    venue: University of Adelaide
   - address: Lincoln University
     contact: events@nesi.org.nz
     country: nz
@@ -9621,6 +10217,21 @@ workshops:
     - {name: SWC}
     url: https://iglpdc.github.io/2016-01-11-nber/
     venue: National Bureau of Economic Research
+  - address: 3rd Floor Teaching Lab, Discovery Building, 330 North Orchard St. Madison,
+      WI
+    contact: ContactACI@lists.wisc.edu
+    country: us
+    end: 2016-01-12
+    eventbrite_id: '20044973054'
+    humandate: Jan 11-12, 2016
+    latitude: 43.0729124
+    longitude: -89.4080793
+    slug: 2016-01-11-uwmadison
+    start: 2016-01-11
+    tags:
+    - {name: DC}
+    url: https://uw-madison-aci.github.io/2016-01-11-uwmadison/
+    venue: UW-Madison
   - address: Bizzell Library HCLC Classroom
     contact: laufers@ou.edu
     country: us
@@ -9821,7 +10432,7 @@ workshops:
     tags:
     - {name: DC}
     url: http://www.datacarpentry.org/2016-01-19-sbu/
-    venue: Wang Center - Lecture Hall 2
+    venue: Stonybrook University
   - address: Charles W. Capps, Jr. Center classroom, Jamie Whitten Delta States Research
       Center, 141 Experiment Station Road, Stoneville, MS
     contact: op.perera@ars.usda.gov
@@ -9866,10 +10477,9 @@ workshops:
     - {name: SWC}
     url: https://naupaka.github.io/2016-01-23-U-of-Arizona/
     venue: University of Arizona
-- &id001
   - address: Kantoren Hoog Overborch, Moreelsepark 48, Utrecht
     contact: m.kuzak@esciencecenter.nl
-    country: NL
+    country: nl
     end: 2016-01-29
     eventbrite_id: ''
     humandate: Jan 25-29, 2016
@@ -9884,7 +10494,7 @@ workshops:
     venue: SURF
   - address: Natural History Museum, Cromwell Road, London, SW7 5BD
     contact: f.ahmed@nhm.ac.uk
-    country: GB
+    country: gb
     end: 2016-01-27
     eventbrite_id: ''
     humandate: Jan 26-27, 2016
@@ -9898,7 +10508,7 @@ workshops:
     venue: Natural History Museum
   - address: 1205 West Clark St, Urbana, Illinois
     contact: training@cse.illinois.edu
-    country: US
+    country: us
     end: 2016-01-29
     eventbrite_id: '19802913046'
     humandate: Jan 28-29, 2016
@@ -9912,7 +10522,7 @@ workshops:
     venue: University of Illinois
   - address: Conference Centre Building, 22 Symonds Street, Auckland
     contact: j.rugis@auckland.ac.nz
-    country: NZ
+    country: nz
     end: 2016-01-29
     eventbrite_id: N/A
     humandate: Jan 28-29, 2016
@@ -9926,7 +10536,7 @@ workshops:
     venue: University of Auckland
   - address: To be announced
     contact: awillifo@uta.edu
-    country: US
+    country: us
     end: 2016-01-31
     eventbrite_id: ''
     humandate: Jan 30-31, 2016
@@ -9940,7 +10550,7 @@ workshops:
     venue: University of Texas at Arlington
   - address: Integrated Learning Center, 1503 E University Blvd, Tucson, AZ 85719
     contact: bjoyce3@email.arizona.edu
-    country: US
+    country: us
     end: 2016-01-31
     eventbrite_id: ''
     humandate: Jan 30-31, 2016
@@ -9954,7 +10564,7 @@ workshops:
     venue: University of Arizona
   - address: Queensland University of Technology, Gardens Point Campus
     contact: s.hames@uq.edu.au
-    country: AU
+    country: au
     end: 2016-02-02
     eventbrite_id: ''
     humandate: Feb 01-02, 2016
@@ -9968,7 +10578,7 @@ workshops:
     venue: QUT - Research Bazaar (Python)
   - address: Queensland University of Technology, Gardens Point Campus
     contact: s.hames@uq.edu.au
-    country: AU
+    country: au
     end: 2016-02-02
     eventbrite_id: ''
     humandate: Feb 01-02, 2016
@@ -9980,9 +10590,24 @@ workshops:
     - {name: SWC}
     url: https://bio-swc-bne.github.io/2016-02-01-BrisbaneResBaz-R/
     venue: QUT - Research Bazaar (R)
+  - address: Seminar Room 442, New Law Annexe Building, Level 3 Eastern Ave, University
+      of Sydney NSW 2006
+    contact: daniel.falster@mq.edu.au
+    country: au
+    end: 2016-02-02
+    eventbrite_id: '20409362954'
+    humandate: Feb 01-02, 2016
+    latitude: -33.8880085
+    longitude: 151.186698
+    slug: 2016-02-01-ResBaz
+    start: 2016-02-01
+    tags:
+    - {name: SWC}
+    url: https://nicercode.github.io/2016-02-01-ResBaz/
+    venue: University of Sydney Law School
   - address: Law School Annex Seminar Room 444, Camperdown Campus
     contact: aoholcombe@gmail.com
-    country: AU
+    country: au
     end: 2016-02-02
     eventbrite_id: ''
     humandate: Feb 01-02, 2016
@@ -9996,7 +10621,7 @@ workshops:
     venue: ResBaz 2016 R Course at the University of Sydney
   - address: Blindernveien 31, Oslo
     contact: lex.nederbragt@ibv.uio.no
-    country: 'NO'
+    country: 'no'
     end: 2016-02-02
     eventbrite_id: ''
     humandate: Feb 01-02, 2016
@@ -10007,11 +10632,25 @@ workshops:
     tags:
     - {name: DC}
     url: https://uio-carpentry.github.io/2016-02-01-Oslo/
-    venue: '''Bikuben'', Kristine Bonnevies hus'
+    venue: University of Oslo
+  - address: Learning Link
+    contact: ''
+    country: au
+    end: 2016-02-02
+    eventbrite_id: ''
+    humandate: Feb 01-02, 2016
+    latitude: -32.0664622
+    longitude: 115.8301415
+    slug: 2016-02-01-perth
+    start: 2016-02-01
+    tags:
+    - {name: SWC}
+    url: https://raffademichelis.github.io/2016-02-01-perth/
+    venue: Murdoch University
   - address: University of Sydney, New Law School Annexe (Teaching Annexure F10A),
       Seminar Room 346 (Level 3)
     contact: d.vanichkina@gmail.com
-    country: AU
+    country: au
     end: 2016-02-02
     eventbrite_id: '20500059229'
     humandate: Feb 01-02, 2016
@@ -10023,9 +10662,23 @@ workshops:
     - {name: SWC}
     url: http://daryavanichkina.com/2016-02-01-rezbazsydneypython/
     venue: University of Sydney
+  - address: University of Melbourne
+    contact: sonderfjord@gmail.com
+    country: au
+    end: 2016-02-03
+    eventbrite_id: ''
+    humandate: Feb 01-03, 2016
+    latitude: -37.797915
+    longitude: 144.959933
+    slug: python-resbaz-2016
+    start: 2016-02-01
+    tags:
+    - {name: SWC}
+    url: https://resbaz.github.io/python-resbaz-2016/
+    venue: University of Melbourne
   - address: 8888 University Dr, Burnaby, BC V5A 1S6
     contact: bgrande@sfu.ca
-    country: CA
+    country: ca
     end: 2016-02-03
     eventbrite_id: ''
     humandate: Feb 02-03, 2016
@@ -10039,7 +10692,7 @@ workshops:
     venue: Simon Fraser University
   - address: Owen G Glenn Building, University of Auckland
     contact: events@nesi.org.nz
-    country: NZ
+    country: nz
     end: 2016-02-04
     eventbrite_id: ''
     humandate: Feb 02-04, 2016
@@ -10054,7 +10707,7 @@ workshops:
   - address: University of Otago College of Education, Tower Black, 155 Union St E,
       Dunedin
     contact: events@nesi.org.nz
-    country: NZ
+    country: nz
     end: 2016-02-04
     eventbrite_id: ''
     humandate: Feb 02-04, 2016
@@ -10068,7 +10721,7 @@ workshops:
     venue: NESI - ResBaz Otago
   - address: 5200, Bethel Valley Rd
     contact: karin.lagesen@gmail.com
-    country: US
+    country: us
     end: 2016-02-05
     eventbrite_id: '17814488615'
     humandate: Feb 04-05, 2016
@@ -10082,7 +10735,7 @@ workshops:
     venue: Oak Ridge National Laboratory
   - address: 2255 N. Gemini Dr., Flagstaff, Arizona
     contact: dbuscombe@usgs.gov
-    country: US
+    country: us
     end: 2016-02-05
     eventbrite_id: ''
     humandate: Feb 04-05, 2016
@@ -10094,9 +10747,52 @@ workshops:
     - {name: SWC}
     url: https://mperignon.github.io/2016-02-04-flagstaff/
     venue: USGS Flagstaff Science Campus
+  - address: 7 World Trade Center 250 Greenwich Street, 40th floor
+    contact: laurajaneegraham@gmail.com
+    country: us
+    end: 2016-02-06
+    eventbrite_id: ''
+    humandate: Feb 05-06, 2016
+    latitude: 40.713388
+    longitude: -74.012076
+    slug: 2016-02-05-nyas-R
+    start: 2016-02-05
+    tags:
+    - {name: SWC}
+    url: https://laurajanegraham.github.io/2016-02-05-nyas-r/
+    venue: New York Academy of Sciences
+  - address: 7 World Trade Center 250 Greenwich Street, 40th floor
+    contact: williams@cshl.edu
+    country: us
+    end: 2016-02-06
+    eventbrite_id: ''
+    humandate: Feb 05-06, 2016
+    latitude: 40.713351
+    longitude: -74.0121272
+    slug: 2016-02-05-nyas-python
+    start: 2016-02-05
+    tags:
+    - {name: SWC}
+    url: https://jasonjwilliamsny.github.io/2016-02-05-nyas-python/
+    venue: New York Academy of Sciences
+  - address: Florence Partridge Room, McLaughlin Library, 480 Gordon Street, Guelph
+      ON, Canada
+    contact: ppomorsk@sharcnet.ca
+    country: ca
+    end: 2016-02-07
+    eventbrite_id: ''
+    humandate: Feb 06-07, 2016
+    latitude: 43.531468
+    longitude: -80.227913
+    slug: 2016-02-06-uguelph
+    start: 2016-02-06
+    tags:
+    - {name: SWC}
+    url: https://computecanada.github.io/2016-02-06-uguelph/
+    venue: University of Guelph
   - address: 1205 West Clark St, Urbana, Illinois
     contact: training@cse.illinois.edu
-    country: US
+    country: us
     end: 2016-02-11
     eventbrite_id: '19803576029'
     humandate: Feb 08-11, 2016
@@ -10108,9 +10804,39 @@ workshops:
     - {name: SWC}
     url: https://uiuc-cse.github.io/2016-02-08-NCSA/
     venue: University of Illinois
+  - address: University of Edinburgh, Room 1026c, James Clerk Maxwell Building, King's
+      Buildings, Peter Guthrie Tait Road, Edinburgh, EH9 3FD
+    contact: support@archer.ac.uk
+    country: gb
+    end: 2016-02-17
+    eventbrite_id: ''
+    humandate: Feb 16-17, 2016
+    latitude: 55.9216414
+    longitude: -3.1738225
+    slug: 2016-02-16-EPCC
+    start: 2016-02-16
+    tags:
+    - {name: SWC}
+    url: https://hpcarcher.github.io/2016-02-16-EPCC/
+    venue: University of Edinburgh (EPCC)
+  - address: NIH Library Training Room, 10 Center Drive, Building 10, Bethesda, MD
+      20892
+    contact: lisa.federer@nih.gov
+    country: us
+    end: 2016-02-19
+    eventbrite_id: ''
+    humandate: Feb 16-19, 2016
+    latitude: 39.002793
+    longitude: -77.104493
+    slug: 2016-02-16-NIH
+    start: 2016-02-16
+    tags:
+    - {name: SWC}
+    url: https://joshwaterfall.github.io/2016-02-16-NIH/
+    venue: National Institutes of Health
   - address: Internet
     contact: gvwilson@software-carpentry.org
-    country: W3
+    country: w3
     end: 2016-02-17
     eventbrite_id: ''
     humandate: Feb 16-17, 2016
@@ -10125,7 +10851,7 @@ workshops:
     venue: Internet
   - address: ECHA L1-250
     contact: john.simpson@computecanada.ca
-    country: CA
+    country: ca
     end: 2016-02-17
     eventbrite_id: '20714714268'
     humandate: Feb 16-17, 2016
@@ -10137,9 +10863,52 @@ workshops:
     - {name: SWC}
     url: https://computecanada.github.io/2016-02-16-ualberta/
     venue: University of Alberta
+  - address: Christopher Ingold Building, Cluster Room G20, 20 Gordon Street, London
+      WC1H 0AJ
+    contact: rc-softdev@ucl.ac.uk
+    country: gb
+    end: 2016-02-18
+    eventbrite_id: ''
+    humandate: Feb 17-18, 2016
+    latitude: 51.52538039
+    longitude: -0.132326449
+    slug: 2016-02-17-UCL_software_carpentry
+    start: 2016-02-17
+    tags:
+    - {name: SWC}
+    url: https://ucl-rits.github.io/2016-02-17-UCL_software_carpentry/
+    venue: University College London
+  - address: 128 Union St. W, Kingston, Ontario
+    contact: hartmut.schmider@queensu.ca
+    country: ca
+    end: 2016-02-19
+    eventbrite_id: '20817335210'
+    humandate: Feb 17-19, 2016
+    latitude: 44.2277927
+    longitude: -76.4993331
+    slug: 2016-02-17-queens
+    start: 2016-02-17
+    tags:
+    - {name: SWC}
+    url: https://haschmi.github.io/2016-02-17-queens/
+    venue: Queen's University, Sir John A. MacDonald Hall Room 2
+  - address: Nawojki 11 Kraków
+    contact: klemens.noga@cyfronet.pl
+    country: pl
+    end: 2016-02-19
+    eventbrite_id: '21519226586'
+    humandate: Feb 18-19, 2016
+    latitude: 50.069013
+    longitude: 19.909226
+    slug: 2016-02-18-cracov-acc-cyfronet
+    start: 2016-02-18
+    tags:
+    - {name: SWC}
+    url: http://www.cyfronet.krakow.pl/aktualnosci/15686,3,komunikat,warsztaty_software_carpentry.html
+    venue: ACC Cyfronet AGH
   - address: Taylor Family Digital Library 440B & 440C
     contact: john.simpson@computecanada.ca
-    country: CA
+    country: ca
     end: 2016-02-19
     eventbrite_id: '20820399375'
     humandate: Feb 18-19, 2016
@@ -10151,9 +10920,38 @@ workshops:
     - {name: SWC}
     url: https://computecanada.github.io/2016-02-18-ucalgary/
     venue: University of Calgary
+  - address: Iowa State University
+    contact: baskarg@iastate.edu
+    country: us
+    end: 2016-02-23
+    eventbrite_id: ''
+    humandate: Feb 22-23, 2016
+    latitude: 42.025911
+    longitude: -93.64597
+    slug: 2016-02-22-iastate
+    start: 2016-02-22
+    tags:
+    - {name: DC}
+    url: https://qingpeng.github.io/2016-02-22-isu/
+    venue: Iowa State University
+  - address: Louis Calder Memorial Library, Basement Room B001/B003, 1601 NW 10th
+      Avenue, Miami, FL 33136
+    contact: Sawsan Khuri <skhuri@med.miami.edu>
+    country: us
+    end: 2016-02-23
+    eventbrite_id: ''
+    humandate: Feb 22-23, 2016
+    latitude: 25.790369
+    longitude: -80.210732
+    slug: 2016-02-22-miami-dc
+    start: 2016-02-22
+    tags:
+    - {name: DC}
+    url: http://mattdickenson.com/2016-02-22-university-of-miami/
+    venue: University of Miami
   - address: Shields Library
     contact: gvwilson@software-carpentry.org
-    country: US
+    country: us
     end: 2016-02-23
     eventbrite_id: ''
     humandate: Feb 22-23, 2016
@@ -10168,7 +10966,7 @@ workshops:
   - address: Louisiana Cancer Research Center, 1700 Tulane Avenue, First Floor Auditorium,
       New Orleans, LA 70112
     contact: hnakhoul@tulane.edu
-    country: US
+    country: us
     end: 2016-02-23
     eventbrite_id: ''
     humandate: Feb 22-23, 2016
@@ -10182,7 +10980,7 @@ workshops:
     venue: Tulane University
   - address: Room EME 1153, 3333 University Way, Kelowna
     contact: alex.razoumov@westgrid.ca
-    country: CA
+    country: ca
     end: 2016-02-23
     eventbrite_id: '20002024594'
     humandate: Feb 22-23, 2016
@@ -10194,9 +10992,9 @@ workshops:
     - {name: SWC}
     url: https://computecanada.github.io/2016-02-22-ubco/
     venue: University of British Columbia Okanagan
-  - address: Exact location coming soon
+  - address: Towne Building Room 225
     contact: maneesha@software-carpentry.org
-    country: US
+    country: us
     end: 2016-02-23
     eventbrite_id: ''
     humandate: Feb 22-23, 2016
@@ -10210,7 +11008,7 @@ workshops:
     venue: University of Pennsylvania
   - address: 1205 West Clark St, Urbana, Illinois
     contact: training@cse.illinois.edu
-    country: US
+    country: us
     end: 2016-02-26
     eventbrite_id: '19803149754'
     humandate: Feb 25-26, 2016
@@ -10222,9 +11020,95 @@ workshops:
     - {name: SWC}
     url: https://uiuc-cse.github.io/2016-02-25-NCSA/
     venue: University of Illinois
+  - address: Barre Hall room B106, 120 McGinty Ct, Clemson, SC 29634
+    contact: atrikut@g.clemson.edu
+    country: us
+    end: 2016-02-26
+    eventbrite_id: ''
+    humandate: Feb 25-26, 2016
+    latitude: 34.674915
+    longitude: -82.835256
+    slug: 2016-02-25-clemson
+    start: 2016-02-25
+    tags:
+    - {name: SWC}
+    url: https://shwina.github.io/2016-02-25-clemson/
+    venue: Clemson University
+  - address: Furstenberg 2710 (2nd floor of Med Sci II)
+    contact: pschloss@umich.edu
+    country: us
+    end: 2016-03-02
+    eventbrite_id: ''
+    humandate: Feb 29-Mar 02, 2016
+    latitude: 42.283501
+    longitude: -83.733845
+    slug: 2016-02-29-UMichigan
+    start: 2016-02-29
+    tags:
+    - {name: SWC}
+    url: https://microbialinformatics.github.io/2016-02-29-UMichigan/
+    venue: University of Michigan
+  - address: Local PLT-3928, 1065, avenue de la Médecine, Québec, Qc
+    contact: support@calculquebec.ca
+    country: ca
+    end: 2016-03-02
+    eventbrite_id: '20577181905'
+    humandate: Mar 01-02, 2016
+    latitude: 46.7788264
+    longitude: -71.2751692
+    slug: 2016-03-01-Universite-Laval
+    start: 2016-03-01
+    tags:
+    - {name: SWC}
+    url: https://computecanada.github.io/2016-03-01-Universite-Laval/
+    venue: Calcul Québec, Université Laval
+  - address: Jim Traynor Conference Room  in Building 4 at the Alaska Fisheries Science
+      Center
+    contact: ned.laman@noaa.gov
+    country: us
+    end: 2016-03-03
+    eventbrite_id: '20957439265'
+    humandate: Mar 02-03, 2016
+    latitude: 47.68556
+    longitude: -122.25389
+    slug: 2016-03-02-NMFS-Seattle
+    start: 2016-03-02
+    tags:
+    - {name: SWC}
+    url: https://rachelss.github.io/2016-03-02-NMFS-Seattle/
+    venue: Alaska Fisheries Science Center / National Marine Fisheries Service
+  - address: Berkeley, CA
+    contact: Erica Clites <eclites@berkeley.edu>
+    country: us
+    end: 2016-03-04
+    eventbrite_id: ''
+    humandate: Mar 03-04, 2016
+    latitude: 37.871215
+    longitude: -122.262385
+    slug: 2016-03-04-ucmp
+    start: 2016-03-03
+    tags:
+    - {name: DC}
+    url: datacarpentry.github.io/2016-03-03-ucmp/
+    venue: UC Berkeley
+  - address: Boston College, Fulton Bldg. (Room 245), Chestnut Hill, MA 02467-3810
+    contact: iglpdc+bc@gmail.com
+    country: us
+    end: 2016-03-08
+    eventbrite_id: ''
+    humandate: Mar 07-08, 2016
+    latitude: 42.336529
+    longitude: -71.169151
+    slug: 2016-03-07-boston
+    start: 2016-03-07
+    tags:
+    - {name: DC}
+    url: https://iglpdc.github.io/2016-03-07-bc/
+    venue: Boston College Libraries, National Networks of Libraries of Medicine, New
+      England Region
   - address: LaFortune Student Center
     contact: francois.michonneau@gmail.com
-    country: US
+    country: us
     end: 2016-03-08
     eventbrite_id: ''
     humandate: Mar 07-08, 2016
@@ -10236,6 +11120,380 @@ workshops:
     - {name: DC}
     url: https://fmichonneau.github.io/2016-03-07-notre-dame/
     venue: Notre Dame
+  - address: 100 Connecticut Street
+    contact: carolyn.mills@uconn.edu
+    country: us
+    end: 2016-03-08
+    eventbrite_id: ''
+    humandate: Mar 07-08, 2016
+    latitude: 41.808477
+    longitude: -72.254259
+    slug: 2016-03-07-uconn
+    start: 2016-03-07
+    tags:
+    - {name: DC}
+    url: https://jrherr.github.io/2016-03-07-uconn/
+    venue: University of Connecticut
+  - address: Darwin Room, Norwich Research Park, Norwich, NR4 7UH
+    contact: matt.drew@tgac.ac.uk
+    country: gb
+    end: 2016-03-09
+    eventbrite_id: ''
+    humandate: Mar 08-09, 2016
+    latitude: 52.621697
+    longitude: -1.219289
+    slug: 2016-03-08-TGAC
+    start: 2016-03-08
+    tags:
+    - {name: SWC}
+    url: https://mattdrew.github.io/2016-03-08-TGAC/
+    venue: The Genome Analysis Centre (TGAC)
+  - address: Darwin Room, Norwich Research Park, Norwich, NR4 7UH
+    contact: matt.drew@tgac.ac.uk
+    country: gb
+    end: 2016-03-09
+    eventbrite_id: ''
+    humandate: Mar 08-09, 2016
+    latitude: 52.621697
+    longitude: -1.219289
+    slug: 2016-06-07-TGAC
+    start: 2016-03-08
+    tags:
+    - {name: SWC}
+    url: https://mattdrew.github.io/2016-06-07-TGAC/
+    venue: The Genome Analysis Centre (TGAC)
+  - address: WRF Data Science Studio, Physics/Astronomy Tower (6th Floor), University
+      of Washington, Seattle, WA
+    contact: ''
+    country: us
+    end: 2016-03-10
+    eventbrite_id: ''
+    humandate: Mar 09-10, 2016
+    latitude: 47.653371
+    longitude: -122.3118098
+    slug: 2016-03-09-ttt-uw
+    start: 2016-03-09
+    tags:
+    - {name: TTT}
+    url: https://uwescience.github.io/carpentry-instructor-training-2016-03-09-uw/
+    venue: University of Washington
+  - address: Room C24, Sackville St Building, Sackville Street, Manchester
+    contact: m.jackson@software.ac.uk
+    country: gb
+    end: 2016-03-11
+    eventbrite_id: ''
+    humandate: Mar 10-11, 2016
+    latitude: 53.47614
+    longitude: -2.234798
+    slug: 2016-03-10-CDT-reg-medicine
+    start: 2016-03-10
+    tags:
+    - {name: SWC}
+    url: https://softwaresaved.github.io/2016-03-10-CDT-reg-medicine/
+    venue: EPSRC & MRC Centre for Doctoral Training in Regenerative Medicine, University
+      of Manchester
+  - address: Politechnika Krakowska, Instytut Fizyki, Kraków, ul. Podchorążych 1,
+      sala 101
+    contact: klemens.noga@cyfronet.pl
+    country: pl
+    end: 2016-03-13
+    eventbrite_id: ''
+    humandate: Mar 12-13, 2016
+    latitude: 50.075672
+    longitude: 19.909325
+    slug: 2016-03-12-Krakow
+    start: 2016-03-12
+    tags:
+    - {name: SWC}
+    url: http://erkakrakow.pl/index.php/warsztaty/16-1-warsztaty-z-erka-software-carpentry
+    venue: Politechnika Krakowska
+  - address: room LSC3, 2350 Health Sciences Mall, UBC
+    contact: alex.razoumov@westgrid.ca
+    country: ca
+    end: 2016-03-13
+    eventbrite_id: '21042411419'
+    humandate: Mar 12-13, 2016
+    latitude: 49.262465
+    longitude: -123.24509
+    slug: 2016-03-12-ubc
+    start: 2016-03-12
+    tags:
+    - {name: SWC}
+    url: https://computecanada.github.io/2016-03-12-ubc/
+    venue: University of British Columbia
+  - address: Shalala Student Center, Senate Room, Coral Gables, FL 33124
+    contact: SKhuri@med.miami.edu
+    country: us
+    end: 2016-03-15
+    eventbrite_id: ''
+    humandate: Mar 14-15, 2016
+    latitude: 25.7193042
+    longitude: -80.281267
+    slug: 2016-03-14-miami
+    start: 2016-03-14
+    tags:
+    - {name: SWC}
+    url: https://mkcor.github.io/2016-03-14-university-of-miami/
+    venue: University of Miami
+  - address: FIXME
+    contact: thomas.patrick.boyle@okstate.edu
+    country: us
+    end: 2016-03-15
+    eventbrite_id: ''
+    humandate: Mar 14-15, 2016
+    latitude: 36.123048
+    longitude: -97.069652
+    slug: 2016-03-14-okstate
+    start: 2016-03-14
+    tags:
+    - {name: SWC}
+    url: https://thomas-patrick-boyle.github.io/2016-03-14-okstate/
+    venue: Oklahoma State University
+  - address: Kristine Bonnevies Hus, room 2621, Blindernveien 31, 0851 Oslo. Entrance
+      from Moltke Moes Road.
+    contact: arnstein.orten@geo.uio.no
+    country: 'no'
+    end: 2016-03-16
+    eventbrite_id: ''
+    humandate: Mar 15-16, 2016
+    latitude: 59.938175
+    longitude: 10.722441
+    slug: 2016-03-15-OSLOdataGeo
+    start: 2016-03-15
+    tags:
+    - {name: DC}
+    url: https://uio-carpentry.github.io/2016-03-15-OSLOdataGeo/
+    venue: University of Oslo
+  - address: Undervisningsrom UE32, Niels Henrik Abels hus, Moltke Moes vei 35, 0851
+      Oslo
+    contact: organizers@swcarpentry.uio.no
+    country: 'no'
+    end: 2016-03-16
+    eventbrite_id: ''
+    humandate: Mar 15-16, 2016
+    latitude: 59.939673
+    longitude: 10.723284
+    slug: 2016-03-15-Oslo-SWC
+    start: 2016-03-15
+    tags:
+    - {name: SWC}
+    url: https://uio-carpentry.github.io/2016-03-15-Oslo-SWC/
+    venue: University of Oslo
+  - address: Niels Henrik Abels hus, Moltke Moes vei 35, Oslo
+    contact: organizers@swcarpentry.uio.no
+    country: 'no'
+    end: 2016-03-15
+    eventbrite_id: ''
+    humandate: Mar 15-15, 2016
+    latitude: 59.9396253
+    longitude: 10.7210814
+    slug: 2016-03-15-Oslo-data-bio
+    start: 2016-03-15
+    tags:
+    - {name: DC}
+    url: https://uio-carpentry.github.io/2016-03-15-Oslo-data-bio/
+    venue: University of Oslo
+  - address: Bizzell Library HCLC Classroom
+    contact: phineas@ou.edu
+    country: us
+    end: 2016-03-18
+    eventbrite_id: '21787541122'
+    humandate: Mar 17-18, 2016
+    latitude: 35.208275
+    longitude: -97.445848
+    slug: 2016-03-17-ou
+    start: 2016-03-17
+    tags:
+    - {name: SWC}
+    url: https://oulib-swc.github.io/2016-03-17-ou/
+    venue: University of Oklahoma
+  - address: 500 Glenridge Avenue, St.Catharines, Ontario
+    contact: jdesjard@sharcnet.ca
+    country: ca
+    end: 2016-03-20
+    eventbrite_id: '20954541598'
+    humandate: Mar 19-20, 2016
+    latitude: 43.159374
+    longitude: -79.246863
+    slug: 2016-03-19-brocku
+    start: 2016-03-19
+    tags:
+    - {name: SWC}
+    url: https://computecanada.github.io/2016-03-19-brocku/
+    venue: Brock University
+  - address: University of Connecticut
+    contact: amvander@uark.edu
+    country: us
+    end: 2016-03-22
+    eventbrite_id: ''
+    humandate: Mar 21-22, 2016
+    latitude: 41.808431
+    longitude: -72.249523
+    slug: 2016-03-21-uconn
+    start: 2016-03-21
+    tags:
+    - {name: SWC}
+    url: https://butterflyology.github.io/2016-03-21-UConn/
+    venue: University of Connecticut
+  - address: Imperial College London, Room TBC, TBC
+    contact: support@archer.ac.uk
+    country: ''
+    end: 2016-03-24
+    eventbrite_id: ''
+    humandate: Mar 23-24, 2016
+    latitude: 55.9216414
+    longitude: -3.1738225
+    slug: 2016-03-23-Imperial
+    start: 2016-03-23
+    tags:
+    - {name: SWC}
+    url: https://hpcarcher.github.io/2016-03-23-Imperial/
+    venue: Imperial College London
+  - address: UF Informatics Institute, Northeast CISE Building Courtyard, 432 Newell
+      Drive, Gainesville, FL
+    contact: mcollins@acis.ufl.edu
+    country: us
+    end: 2016-03-24
+    eventbrite_id: '22664541253'
+    humandate: Mar 23-24, 2016
+    latitude: 29.648179
+    longitude: -82.34431
+    slug: 2016-03-24-UFII-SWC
+    start: 2016-03-23
+    tags:
+    - {name: SWC}
+    url: https://weecology.github.io/2016-03-24-UFII-SWC/
+    venue: University of Florida Informatics Institute
+  - address: Shalala Student Center, Senate Room, 1330 Miller Drive, Coral Gables,
+      FL, 33146
+    contact: SKhuri@med.miami.edu
+    country: us
+    end: 2016-03-29
+    eventbrite_id: ''
+    humandate: Mar 28-29, 2016
+    latitude: 25.719372
+    longitude: -80.279291
+    slug: 2016-03-28-miami
+    start: 2016-03-28
+    tags:
+    - {name: SWC}
+    url: https://qjcg.github.io/2016-03-28-umiami/
+    venue: University of Miami
+  - address: 1657 East Helen Street, Tucson, Arizona
+    contact: jcoliver@email.arizona.edu
+    country: us
+    end: 2016-04-01
+    eventbrite_id: ''
+    humandate: Mar 28-Apr 01, 2016
+    latitude: 32.237973
+    longitude: -110.947101
+    slug: 2016-03-28-tucson
+    start: 2016-03-28
+    tags:
+    - {name: SWC}
+    url: https://jcoliver.github.io/2016-03-28-tucson/
+    venue: University of Arizona
+  - address: 1 avenue de la Terrasse, 91198 Gif-sur-Yvette, France
+    contact: loic.esteve@inria.fr
+    country: fr
+    end: 2016-03-30
+    eventbrite_id: ''
+    humandate: Mar 29-30, 2016
+    latitude: 48.705573
+    longitude: 2.127672
+    slug: 2016-03-29-gif-sur-yvette
+    start: 2016-03-29
+    tags:
+    - {name: SWC}
+    url: https://paris-swc.github.io/2016-03-29-gif-sur-yvette/
+    venue: UNIC Gif-sur-Yvette
+  - address: WRF Data Science Studio, Physics/Astronomy Tower (6th Floor), University
+      of Washington, Seattle, WA
+    contact: arokem@gmail.com
+    country: us
+    end: 2016-04-01
+    eventbrite_id: '21562158998'
+    humandate: Mar 31-Apr 01, 2016
+    latitude: 47.653371
+    longitude: -122.3118098
+    slug: 2016-03-31-uw
+    start: 2016-03-31
+    tags:
+    - {name: SWC}
+    url: https://uwescience.github.io/2016-03-31-uw/
+    venue: University of Washington - Seattle
+  - address: UTA campus, Engineering Research Building, room 435
+    contact: awillifo@uta.edu
+    country: us
+    end: 2016-04-03
+    eventbrite_id: '22753505347'
+    humandate: Apr 02-03, 2016
+    latitude: 32.7334
+    longitude: -97.11322
+    slug: 2016-04-02-UTA
+    start: 2016-04-02
+    tags:
+    - {name: SWC}
+    url: https://annawilliford.github.io/2016-04-02-UTA/
+    venue: University of Texas at Arlington
+  - address: DMB-2A301, 299 Doon Valley Dr, Kitchener
+    contact: ddvorski@conestogac.on.ca
+    country: ca
+    end: 2016-04-03
+    eventbrite_id: '22711230903'
+    humandate: Apr 02-03, 2016
+    latitude: 43.389485
+    longitude: -80.404178
+    slug: 2016-04-02-conestoga
+    start: 2016-04-02
+    tags:
+    - {name: SWC}
+    url: https://ppomorsk.github.io/2016-04-02-conestoga/
+    venue: Conestoga College
+- &id001
+  - address: Ehrenbergstraße 31, 98693 Ilmenau, Germany
+    contact: helen.cooper@surrey.ac.uk
+    country: DE
+    end: 2016-04-05
+    eventbrite_id: '23047677223'
+    humandate: Apr 04-05, 2016
+    latitude: 50.68356
+    longitude: 10.93261
+    slug: 2016-04-04-ilmenau
+    start: 2016-04-04
+    tags:
+    - {name: SWC}
+    url: https://mkuzak.github.io/2016-04-04-ilmenau/
+    venue: Fraunhofer Institute for Digital Media Technology IDMT
+  - address: DSITI, Ecosciences Precinct, Boggo Road
+    contact: b.weaver@uq.edu.au
+    country: AU
+    end: 2016-04-12
+    eventbrite_id: ''
+    humandate: Apr 11-12, 2016
+    latitude: -27.4948627
+    longitude: 153.0281487
+    slug: 2016-04-11-dsiti
+    start: 2016-04-11
+    tags:
+    - {name: SWC}
+    url: https://bio-swc-bne.github.io/2016-04-11-dsiti/
+    venue: DSITI Software Carpentry with R Workshop
+  - address: Research Hub Open Study and Event Space, Health Sciences Library, 2nd
+      floor
+    contact: Hurlbert@bio.unc.edu
+    country: US
+    end: 2016-04-12
+    eventbrite_id: '21433736884'
+    humandate: Apr 11-12, 2016
+    latitude: 35.9057071
+    longitude: -79.052869
+    slug: 2016-04-11-unc
+    start: 2016-04-11
+    tags:
+    - {name: SWC}
+    url: https://kcranston.github.io/2016-04-11-UNC/
+    venue: UNC Chapel Hill
   - address: Internet
     contact: ''
     country: W3
@@ -10251,6 +11509,132 @@ workshops:
     - {name: online}
     url: https://swcarpentry.github.io/2016-04-13-training-online/
     venue: Internet
+  - address: 600 Main Street, Bar Harbor, Maine
+    contact: Sue McClatchy <susan.mcclatchy@jax.org>
+    country: US
+    end: 2016-04-15
+    eventbrite_id: '24331188239'
+    humandate: Apr 14-15, 2016
+    latitude: 44.366245
+    longitude: -68.196586
+    slug: 2016-04-14-jacksonlabs
+    start: 2016-04-14
+    tags:
+    - {name: DC}
+    url: https://smcclatchy.github.io/2016-04-14-jackson/
+    venue: The Jackson Laboratory
+  - address: Phelps Room 1517, University of California, Santa Barbara
+    contact: mqwilber@gmail.com
+    country: US
+    end: 2016-04-15
+    eventbrite_id: '21694525911'
+    humandate: Apr 14-15, 2016
+    latitude: 34.4125
+    longitude: -119.8481
+    slug: 2016-04-14-ucsb
+    start: 2016-04-14
+    tags:
+    - {name: SWC}
+    url: https://mqwilber.github.io/2016-04-14-ucsb/
+    venue: University of California, Santa Barbara
+  - address: Potchefstroom Campus of North-West University
+    contact: eresearch@nwu.ac.za
+    country: ZA
+    end: 2016-04-20
+    eventbrite_id: ''
+    humandate: Apr 17-20, 2016
+    latitude: -26.683524
+    longitude: 27.11432
+    slug: 2016-04-17-instructor-training-nwu
+    start: 2016-04-17
+    tags:
+    - {name: TTT}
+    url: https://swcarpentry.github.io/2016-04-17-instructor-training-nwu/
+    venue: North-West University
+  - address: USDA-ARS Southeast Area, 1950 College Station Road, Athens, GA 30605
+    contact: O. P. Perera <op.perera@ars.usda.gov>
+    country: US
+    end: 2016-04-20
+    eventbrite_id: ''
+    humandate: Apr 19-20, 2016
+    latitude: 33.9250964
+    longitude: -83.3606096
+    slug: 2016-04-19-USDA-Athens-GA
+    start: 2016-04-19
+    tags:
+    - {name: DC}
+    url: https://adamobeng.github.io/2016-04-19-USDA-Athens-GA/
+    venue: Richard Russell US National Poultry Research Center
+  - address: 600 E Greenfield Ave, Milwaukee, WI 53204
+    contact: fisher26@uwm.edu
+    country: US
+    end: 2016-04-26
+    eventbrite_id: ''
+    humandate: Apr 25-26, 2016
+    latitude: 43.017486
+    longitude: -87.904112
+    slug: 2016-04-25-UW-mke
+    start: 2016-04-25
+    tags:
+    - {name: SWC}
+    url: https://sstevens2.github.io/2016-04-25-UW-mke/
+    venue: University of Wisconsin-Milwaukee, School of Freshwater Sciences
+  - address: Claude T. Bissel Building, 140 St. George St., Room BL224/225
+    contact: m.bonsma@mail.utoronto.ca
+    country: CA
+    end: 2016-04-26
+    eventbrite_id: '22551258421'
+    humandate: Apr 25-26, 2016
+    latitude: 43.66455
+    longitude: -79.399462
+    slug: 2016-04-25-utoronto
+    start: 2016-04-25
+    tags:
+    - {name: SWC}
+    url: https://uoftcoders.github.io/2016-04-25-utoronto/
+    venue: University of Toronto
+  - address: Claude T. Bissel Building, 140 St. George St., Room BL224/225
+    contact: m.bonsma@mail.utoronto.ca
+    country: CA
+    end: 2016-05-10
+    eventbrite_id: '22551726822'
+    humandate: May 09-10, 2016
+    latitude: 43.66455
+    longitude: -79.399462
+    slug: 2016-05-09-utoronto
+    start: 2016-05-09
+    tags:
+    - {name: SWC}
+    url: https://uoftcoders.github.io/2016-05-09-utoronto/
+    venue: University of Toronto
+  - address: 4 Bancroft Avenue, Toronto
+    contact: John Simpson
+    country: CA
+    end: 2016-05-12
+    eventbrite_id: ''
+    humandate: May 11-12, 2016
+    latitude: 43.66096
+    longitude: -79.39972
+    slug: 2016-05-11-ttt-compute-canada
+    start: 2016-05-11
+    tags:
+    - {name: TTT}
+    url: https://swcarpentry.github.io/2016-05-11-ttt-compute-canada/
+    venue: Bancroft Building, University of Toronto
+  - address: Red 9 Building, Charles Darwin University, Casuarina NT 0810
+    contact: combine@combine.org
+    country: AU
+    end: 2016-05-12
+    eventbrite_id: ''
+    humandate: May 12-12, 2016
+    latitude: -12.3722
+    longitude: 130.8689
+    slug: 2016-05-12-CharlesDarwinUni
+    start: 2016-05-12
+    tags:
+    - {name: SWC}
+    url: https://combine-australia.github.io/2016-05-12-CharlesDarwinUni/
+    venue: Charles Darwin University
   - address: SEEC, 4001 Discover Dr., Boulder, Colorado
     contact: perignon@colorado.edu
     country: US
@@ -10265,5 +11649,146 @@ workshops:
     - {name: SWC}
     url: https://mperignon.github.io/2016-05-16-csdms/
     venue: CSDMS Annual Meeting
+  - address: Internet
+    contact: ''
+    country: W3
+    end: 2016-05-19
+    eventbrite_id: ''
+    humandate: May 18-19, 2016
+    latitude: -48.876667
+    longitude: -123.393333
+    slug: 2016-05-18-ttt-online
+    start: 2016-05-18
+    tags:
+    - {name: TTT}
+    url: https://swcarpentry.github.io/2016-05-18-ttt-online/
+    venue: Internet
+  - address: Nathan Campus, Kessels rd, Nathan, QLD
+    contact: a.miotto@griffith.edu.au
+    country: AU
+    end: 2016-05-20
+    eventbrite_id: ''
+    humandate: May 19-20, 2016
+    latitude: -27.552079
+    longitude: 153.054078
+    slug: 2016-04-19-GriffithUni
+    start: 2016-05-19
+    tags:
+    - {name: SWC}
+    url: https://bio-swc-bne.github.io/2016-04-19-GriffithUni/
+    venue: Griffith University
+  - address: Rua Sérgio Buarque de Holanda, 800 - Sala CB54 – Cidade Universitária
+      "Zeferino Vaz" – Distr. Barão Geraldo – Campinas – São Paulo – Brasil
+    contact: raniere@rgaiacs.com
+    country: BR
+    end: 2016-05-24
+    eventbrite_id: '24205379943'
+    humandate: May 23-24, 2016
+    latitude: -22.817387
+    longitude: -47.06843
+    slug: 2016-05-23-unicamp
+    start: 2016-05-23
+    tags:
+    - {name: SWC}
+    url: https://rgaiacs.github.io/2016-05-23-unicamp/
+    venue: Universidade Estadual de Campinas
+  - address: Norlin Library, room E260 A/B, Boulder, Colorado
+    contact: Beth.Dalton@Colorado.EDU
+    country: US
+    end: 2016-05-26
+    eventbrite_id: ''
+    humandate: May 25-26, 2016
+    latitude: 40.008719
+    longitude: -105.271012
+    slug: 2016-05-25-culibraries
+    start: 2016-05-25
+    tags:
+    - {name: SWC}
+    url: https://mperignon.github.io/2016-05-25-culibraries/
+    venue: Colorado Special Libraries Association @ CU Boulder
+  - address: 10 Center Dr, Bethesda, MD 20892
+    contact: williams@cshl.edu
+    country: US
+    end: 2016-05-27
+    eventbrite_id: ''
+    humandate: May 26-27, 2016
+    latitude: 39.0027815
+    longitude: -77.1044218
+    slug: 2016-05-26-NIH
+    start: 2016-05-26
+    tags:
+    - {name: DC}
+    url: https://datacarpentry.github.io/2016-05-26-NIH/
+    venue: National Institutes of Health
+  - address: Claude T. Bissel Building, 140 St. George St., Room BL307
+    contact: m.bonsma@mail.utoronto.ca
+    country: CA
+    end: 2016-05-27
+    eventbrite_id: '22551908365'
+    humandate: May 26-27, 2016
+    latitude: 43.66455
+    longitude: -79.399462
+    slug: 2016-05-26-utoronto
+    start: 2016-05-26
+    tags:
+    - {name: SWC}
+    url: https://uoftcoders.github.io/2016-05-26-utoronto/
+    venue: University of Toronto
+  - address: 2600 Rue College, Sherbrooke, QC, J1M 0C8
+    contact: ''
+    country: CA
+    end: 2016-06-10
+    eventbrite_id: ''
+    humandate: Jun 06-10, 2016
+    latitude: 45.365938
+    longitude: -71.8490488
+    slug: 2016-06-06-Bishops
+    start: 2016-06-06
+    tags:
+    - {name: SWC}
+    url: https://ecole2016.calculquebec.ca/
+    venue: Université Bishop's
+  - address: Health Sciences Library Troup Learning Center G005G (http://www.libraries.uc.edu/hsl/about/directions.html)
+    contact: Kristen Burgess <kristen.burgess@uc.edu>
+    country: US
+    end: 2016-06-08
+    eventbrite_id: ''
+    humandate: Jun 07-08, 2016
+    latitude: 39.1387745
+    longitude: -84.5065134
+    slug: 2016-06-07-ucincinnati
+    start: 2016-06-07
+    tags:
+    - {name: DC}
+    url: https://qjcg.github.io/2016-06-07-ucincinnati/
+    venue: University of Cincinnati
+  - address: Internet
+    contact: ''
+    country: W3
+    end: 2016-06-09
+    eventbrite_id: ''
+    humandate: Jun 08-09, 2016
+    latitude: -48.876667
+    longitude: -123.393333
+    slug: 2016-06-08-ttt-online
+    start: 2016-06-08
+    tags:
+    - {name: TTT}
+    url: https://swcarpentry.github.io/2016-06-08-ttt-online/
+    venue: Internet
+  - address: The Boardroom, St. Leo's College, College Road, St Lucia QLD 4067
+    contact: b.weaver@uq.edu.au
+    country: AU
+    end: 2016-07-12
+    eventbrite_id: '22386171642'
+    humandate: Jul 11-12, 2016
+    latitude: -27.501425
+    longitude: 153.01493
+    slug: 2016-07-11-bne-R
+    start: 2016-07-11
+    tags:
+    - {name: SWC}
+    url: https://bio-swc-bne.github.io/2016-07-11-bne-R/
+    venue: R workshop - The University of Queensland
 workshops_current: *id001
 workshops_past: *id002
