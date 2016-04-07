@@ -4,10 +4,10 @@ authors: ["John Blischak"]
 title: "Maintaining a Lesson"
 date: 2016-04-04
 time: "11:00:00"
-category: ["Lessons"]
+category: ["Lessons", "R"]
 ---
 
-After two years as a Software Carpentry lesson maintainer,
+After two years as a Software Carpentry lesson maintainer of [r-novice-inflammation][],
 I am stepping down so that I can spend more time on my research
 (this thesis appears unwilling to write itself)
 and with my family.
@@ -19,7 +19,7 @@ for the benefit of anyone planning to become a maintainer.
 Software Carpentry really started growing the number of workshops and instructors in 2012.
 At the time, there were two main sets of lessons in place:
 the [version 4 SWC lessons][swcv4] written by Greg Wilson and others in 2010-11,
-and a set was developed by [The Hacker Within][thw],
+and a set developed by [The Hacker Within][thw],
 a student group at the University of Wisconsin - Madison.
 (These were referred to as the THW lessons,
 and can be found in the old [boot-camps repository][boot-camps].)
@@ -31,7 +31,7 @@ Two problems arose as the number of workshops and instructors increased:
     the THW lessons,
     and/or lessons that an instructor put together the week before.
 2.  Because the workshops were reaching a wider audience,
-    many attendees had never programmed bfeore,
+    many attendees had never programmed before,
     but the lessons were written for people who had at least some previous experience.
 
 To address these problems,
@@ -73,13 +73,13 @@ or to start from scratch.
 In our initial [discussion][],
 we decided it would be most straightforward to translate the novice Python lessons that used some fake "inflammation" data
 (now [python-novice-inflammation][]).
-Xix months later, we [announced][announced] the completion of [r-novice-inflammation],
+Six months later, we [announced][announced] the completion of [r-novice-inflammation][],
 which was subsequently migrated to the lesson template.
 
 The strengths of [r-novice-inflammation][] are that
 it focuses on language-agnostic programming principles
 and parallels the standard Python lesson.
-Its main weakness of this is that many of our R instructors are enthusiastic about their favorite language,
+Its main weakness is that many of our R instructors are enthusiastic about their favorite language,
 and preferred to have a lesson focus on how it,
 in combination with packages like [dplyr][],
 could be used for data analysis.
@@ -123,7 +123,7 @@ When pushed to GitHub, the HTML files are automatically served online.
 The template's maintainers usually merge changes to the lesson template into the downstream repositories,
 but the lesson maintainers can also do this.
 For example,
-the commands below pull changes from [lesson-template][] into [r-novice-inflammation]:
+the commands below pull changes from [lesson-template][] into [r-novice-inflammation][]:
 
     git clone git@github.com:swcarpentry/r-novice-inflammation.git
     cd r-novice-inflammation/
@@ -137,8 +137,8 @@ The R lessons are the only ones that still contain executable code---the Python 
 switched from the Jupyter Notebook to plain Markdown
 because the former's JSON format made merges complicated.
 Support for R Markdown files is included in the [lesson-template][]:
-the [Makefile][] converts files with the `Rmd` file extension to `md` using `knit` from the knitr package.
-(We do not need to use `render` from the rmarkdown package because the pandoc formatting is already done by the template.)
+the [Makefile][] converts files with the `Rmd` file extension to `md` using `knit` from the [knitr][] package.
+(We do not need to use `render` from the [rmarkdown][] package because the pandoc formatting is already done by the template.)
 
 Furthermore,
 there is a file called [chunk-options.R][] in the subdirectory `tools/` that:
@@ -153,7 +153,7 @@ Also note that this chunk overrides the default `fig.path`:
 in addition to writing to `fig`,
 we add the basename of the file
 to make managing the figures much easier.
-Some of these details are documented in a section called [Writing lesson with R Markdown][layout-rmd].
+Some of these details are documented in a section called [Writing lessons with R Markdown][layout-rmd].
 
     # Code at the beginning of each lesson. We use chunk option `include = FALSE` to
     # hide this from the rendered file.
@@ -163,7 +163,7 @@ Some of these details are documented in a section called [Writing lesson with R 
 ## Current Challenges for the Lesson Template
 
 If you become a maintainer,
-you will be added to [maintainers][] the mailing list,
+you will be added to the mailing list [maintainers][],
 which is where discussion and votes happen.
 One of your responsibilities will be to help decide on changes to the template.
 For example,
@@ -174,7 +174,7 @@ On the horizon, we need to decide where challenges and their solutions should go
 When there were only a few challenges per topic,
 it made sense to embed them in the same file as the lesson content.
 As more exercises have been contributed by trainee instructors,
-this has grown ummanageable:
+this has grown unmanageable:
 We have discussed having separate files for extra challenges and their solutions,
 but have yet to make a decision (see this [thread][challenges-thread]).
 We also need to revisit the question of using pandoc for turning Markdown into HTML,
@@ -224,6 +224,7 @@ so that more people can play an effective part in curating and improving our con
 [issue-280]: https://github.com/swcarpentry/lesson-template/issues/280
 [jekyll-thread]: http://lists.software-carpentry.org/pipermail/discuss_lists.software-carpentry.org/2015-June/003118.html
 [kitzes2014]: http://software-carpentry.org/blog/2014/03/collaborative-lesson-development.html
+[knitr]: http://yihui.name/knitr/
 [layout-rmd]: https://github.com/swcarpentry/lesson-example/blob/gh-pages/LAYOUT.md#writing-lessons-with-r-markdown
 [lesson-example]: https://github.com/swcarpentry/lesson-example
 [lesson-template]: https://github.com/swcarpentry/lesson-template
@@ -236,6 +237,7 @@ so that more people can play an effective part in curating and improving our con
 [r-novice-gapminder]: https://github.com/swcarpentry/r-novice-gapminder
 [r-novice-inflammation]: https://github.com/swcarpentry/r-novice-inflammation
 [reorg]: http://software-carpentry.org/blog/2013/11/reorganizing.html
+[rmarkdown]: http://rmarkdown.rstudio.com/
 [setup-proposal]: http://lists.software-carpentry.org/pipermail/maintainers_lists.software-carpentry.org/2016-March/000205.html
 [split]: http://software-carpentry.org/blog/2014/09/splitting-the-repo.html
 [swcv4]: http://software-carpentry.org/lessons/previous/
