@@ -60,6 +60,7 @@ twitter_url     : "https://twitter.com/swcarpentry"
 slack_signup_url: "https://swc-slack-invite.herokuapp.com/"
 msl_url         : "http://mozillascience.org"
 store_url       : "http://www.cafepress.com/swcarpentry"
+pad_url         : "http://pad.software-carpentry.org"
 mailing_lists   : "http://lists.software-carpentry.org"
 flag_size       : 16
 v4_url          : "https://v4.software-carpentry.org"
