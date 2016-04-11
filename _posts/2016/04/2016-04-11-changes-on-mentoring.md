@@ -2,8 +2,8 @@
 layout: post
 authors: ["Raniere Silva"]
 title: "Changes on Mentoring Subcommittee"
-date: 2016-04-09
-time: "10:00:00"
+date: 2016-04-11
+time: "18:00:00"
 category: ["Mentoring"]
 ---
 The first quarter of 2016 is almost over and so far the Mentoring Subcommittee
@@ -25,9 +25,9 @@ she is one of our instructors working at the University of Wisconsin-Madison,
 last year she was one of the maintainers of our Shell lesson
 and is now part of our Instructor Trainer team.
 
-Christina is interested to hear from you about ideas for the mentoring committee.  
-She may be asking for more feedback (and volunteers!) over the next few months, but for now, 
-would appreciate receiving your thoughts via [this form][mentoring-form].  
+Christina is interested to hear from you about ideas for the mentoring committee.
+She may be asking for more feedback (and volunteers!) over the next few months, but for now,
+would appreciate receiving your thoughts via [this form][mentoring-form].
 
 
 [mentoring-form]: https://docs.google.com/forms/d/1eDLPShSyQPJKZ8jRr8VHQSaV_CxVvQOdGTSJHo6dOWg/viewform
