@@ -3,7 +3,7 @@ layout: post
 authors: ["Sarah Stevens"]
 title: "Installation Video Tutorials"
 date: 2016-04-12
-time: "11:00:00"
+time: "13:40:00"
 category: ["Workshops"]
 ---
 I recently created videos for installing the software needed for most Software Carpentry workshops.
