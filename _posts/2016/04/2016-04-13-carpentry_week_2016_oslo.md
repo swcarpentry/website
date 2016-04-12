@@ -2,9 +2,9 @@
 layout: post
 authors: ["Lex Nederbragt"]
 title: "Carpentry week 2016 at the University of Oslo"
-date: 2016-04-13
-time: "12:00:00"
-category: ["University of Oslo	"]
+date: 2016-04-12
+time: "13:40:00"
+category: ["University of Oslo"]
 ---
 
 
