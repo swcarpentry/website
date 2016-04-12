@@ -13,6 +13,7 @@ Links for these videos are now added to the lessons template for a workshop and 
 - [Git Bash and SWC installer](https://www.youtube.com/watch?v=339AEqk9c-8)  
 - [Python](https://www.youtube.com/watch?v=xxQ0mzZ8UvA)  
 - [R/Rstudio](https://www.youtube.com/watch?v=q0PjTAylwoU)  
+
 ### Mac:
 - [Shell, git and nano](https://www.youtube.com/watch?v=9LQhwETCdwY)  
 - [Python](https://www.youtube.com/watch?v=TcSAln46u9U)  
