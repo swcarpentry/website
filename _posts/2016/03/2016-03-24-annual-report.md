@@ -4,7 +4,7 @@ authors: ["Adina Howe"]
 title: "2015 Annual Report"
 date: 2016-03-23
 time: "15:30:00"
-category: ["annual","report"]
+category: ["Software Carpentry Foundation"]
 ---
 
 We're pleased to announce the publication of the first SCF annual report summarizing what we have done this year to to further our goals of promoting reproducibility and reliability in all branches of science, and helping researchers be more productive. 
