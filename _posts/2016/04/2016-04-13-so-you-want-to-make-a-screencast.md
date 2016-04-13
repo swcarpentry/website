@@ -2,8 +2,8 @@
 layout: post
 authors: ["Caleb Hattingh"]
 title: "So You Want to Make a Screencast"
-date: 2016-04-14
-time: "05:00:00"
+date: 2016-04-13
+time: "05:30:00"
 category: ["Tooling"]
 ---
 I am the author of [Learning Cython](http://shop.oreilly.com/product/0636920046813.do),
