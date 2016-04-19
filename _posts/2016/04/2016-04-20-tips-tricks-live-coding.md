@@ -7,28 +7,28 @@ time: "00:00:00"
 category: ["education", "instructor-training"]
 ---
 
-One of the key teaching practices used at Software and Data Carpentry workshops is 'live coding': instructors don't use slides, but work through the lesson material, typing in the code or instructions, with the workshop participants following along. Learning how to teach using live-coding is best done in practice, with feedback from peers (this is why it is included in [instructor training](http://swcarpentry.github.io/instructor-training/08-practices.html). Nonetheless, this post lists ten tips and tricks to help you get started.
+One of the key teaching practices used at Software and Data Carpentry workshops is 'live coding': instructors don't use slides, but work through the lesson material, typing in the code or instructions, with the workshop participants following along. Learning how to teach using live-coding is best done in practice, with feedback from peers (this is why it is included in [instructor training]({{site.github_io_url}}/instructor-training/08-practices.html). Nonetheless, this post lists ten tips and tricks to help you get started.
 
-This text (re)uses, and expands on, elements from the Software and Data Carpentry [instructor training](http://swcarpentry.github.io/instructor-training/08-practices.html) materials.
+This text (re)uses, and expands on, elements from the Software and Data Carpentry [instructor training]({{site.github_io_url}}/instructor-training/08-practices.html) materials.
 
 
 ### 1. Be seen and heard
 
 If you are physically able to stand up for a couple of hours, do it while you are teaching. When you sit down, you are hiding yourself behind others for those sitting in the back rows. Make sure to notify the workshop organisers of your wish to stand up and, ask them to arrange a high table/standing desk or [lectern](https://en.wikipedia.org/wiki/Lectern#Academic_context).
 
-Regardless of whether you are standing or sitting, make sure to move around occasionally. You can for example move to the screen to point something out, or draw something on the white/blackboard (see below). Moving around makes the teaching more lively, less monotonous. It draws the learners' attention away from their screens, to you, which helps getting the point you are making across.
+Regardless of whether you are standing or sitting, make sure to move around as much as reasonable. You can for example go to the screen to point something out, or draw something on the white/blackboard (see below). Moving around makes the teaching more lively, less monotonous. It draws the learners' attention away from their screens, to you, which helps getting the point you are making across.
 
 Even though you may have a good voice and know how to use it well, it may be an idea to use a microphone, especially if the workshop room is equipped with one. Your voice will be less tired, and you increase the chance of people with hearing difficulties being able to follow the workshop.
 
 ### 2. Take it slow
 
-For every command you type, every word of code you write, every menu item or website button you click, say out loud what you are doing while you do it. This not only slows you down, it allows learners who are following along to copy what you do, even when they are looking at their screen while doing it. If the output of your command or code makes what you just typed disappear from view, scroll back up so learners can see it again - this is especially needed for the unix shell lesson.
+For every command you type, every word of code you write, every menu item or website button you click, say out loud what you are doing while you do it. Then point to the command and its output on the screen and go through it a second time. This not only slows you down, it allows learners who are following along to copy what you do, or to catch up, even when they are looking at their screen while doing it. If the output of your command or code makes what you just typed disappear from view, scroll back up so learners can see it again - this is especially needed for the Unix shell lesson.
 
 Other possibilities are to execute the same command a second time, or copy and paste the last command(s) into the workshop Etherpad.
 
 ### 3. Mirror your learner's environment as much as possible
 
-You may have set up your environment to your liking, with a very simple or rather fancy unix prompt, colour schemes for your development environment, keyboard shortcuts etc. Your learners usually won't have all of this. Try to create an environment that mirrors what your learners have, and avoid using keyboard shortcuts. Some instructors create a separate 'bare-bone' user (login) account on their laptop, or a separate 'teaching-only' account on the service being taught (e.g. github).
+You may have set up your environment to your liking, with a very simple or rather fancy Unix prompt, colour schemes for your development environment, keyboard shortcuts etc. Your learners usually won't have all of this. Try to create an environment that mirrors what your learners have, and avoid using keyboard shortcuts. Some instructors create a separate 'bare-bone' user (login) account on their laptop, or a separate 'teaching-only' account on the service being taught (e.g. Github).
 
 ### 4. Use the screen - or screens - wisely
 
@@ -36,7 +36,7 @@ Use a big font, and maximise the window. A black font on a  white background wor
 
 If you can get a second screen, use it! It will usually require its own PC or laptop, so you may need to ask a helper to control it. You could use the second screen to show the Etherpad content, or the lesson material, or illustrations.
 
-Pay attention to the lightning (not too dark, no lights directly on/above the presenter's screen) and if needed, reposition the tables so all learners can see the screen, and helpers can easily reach all learners.
+Pay attention to the lighting (not too dark, no lights directly on/above the presenter's screen) and if needed, reposition the tables so all learners can see the screen, and helpers can easily reach all learners.
 
 ### 5. Use illustrations, or even better, draw them
 
@@ -71,3 +71,6 @@ No matter how well prepared you are, you will be making mistakes. Typo's are har
 ### 10. Have fun
 
 Teaching is performance art and can be rather serious business. On the one hand, don't let this scare you - it is much easier than performing Hamlet. You have an excellent script at your disposal, after all! On the other hand, it is OK to add an element of 'play', i.e. use humor and improvisation to liven up the workshop. How much you are able and willing to do this is really a matter of personality and taste - as well as experience. It becomes easier when you are more familiar with the material, allowing you to relax more. Choose your words and actions wisely, though. Remember that we want the learners to have a welcoming experience and a positive learning environment - a misplaced joke can ruin this in an instance. Start small, even just saying 'that was fun' after something worked well is a good start. Ask your co-instructors and helpers for feedback when you are unsure of the effect you behaviour has on the workshop.
+
+>Teaching is theater not cinema - Neal Davis
+
