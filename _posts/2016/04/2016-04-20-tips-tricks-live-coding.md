@@ -74,3 +74,4 @@ Teaching is performance art and can be rather serious business. On the one hand,
 
 >Teaching is theater not cinema - Neal Davis
 
+(Thanks to Neil Davis, Rayna Harris and Greg Wilson for feedback on an earlier version of this post)
