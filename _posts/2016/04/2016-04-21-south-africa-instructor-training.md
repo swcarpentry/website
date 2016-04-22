@@ -15,7 +15,7 @@ Anelda has been developing Software and Data Carpentry in South Africa for a whi
  and her efforts led to this first face-to-face Instructor Training. We started off on Sunday,  17th April
 . evening with a short ice-breaking session of lightning talks during which the participants talked 
 about "The coolest thing about their job" for 2 minutes. Everyone had something interesting to say. What
- was even more impressive, nobody run over time, which is not the usual case.
+ was even more impressive, nobody ran over time, which is not the usual case.
 
 On Monday we introduced the participants to the Mozilla Science Lab Study Groups. The goal of this session 
 was to create foundations for collaborative, peer-to-peer environments in which researchers can share 
@@ -42,8 +42,8 @@ We closed the workshop on Wednesday lunchtime. During the last session, the
  participants practiced their demo teaching lessons. Then we discussed the next steps needed
  to complete become certified instructors. Everyone is very keen to become certified and run
  workshops at their home institutions. It would be fantastic to see the existing Software and Data Carpentry community
- to provide mentorship and guidance support to these newly trained instructors. Many of them will be the first ones
+ provide mentorship and guidance support to these newly trained instructors. Many of them will be the first ones
  advocating for this type of training in their institutions. It will require persistence and they will need help from
  those of us who already have the experience in organising and teaching at workshops. 
-So if you can and want help, please step in!
+So if you can and want help, please step in and [fill in this form](http://goo.gl/forms/idZt3rsPrL). Thank you!
 
