@@ -1,4 +1,11 @@
-#Call for Software Carpentry Foundation Subcommittees and Task Forces
+---
+layout: post
+authors: ["Rayna Harris", "Bill Mills", "Jason Williams"]
+title: "Call for Software Carpentry Foundation Subcommittees and Task Forces"
+date: 2016-04-24
+time: "19:00:00"
+category: [""Community", "Steering Committee""]
+---
 
 ## Purpose and Rationale
 Software Carpentry is volunteer-powered organization that is rapidly growing. One of the greatest things about Software Carpentry is the huge diversity of people that have come together to collaborate, teach, and share ideas and resources. Your contributions to the community have made Software Carpentry a huge success!
