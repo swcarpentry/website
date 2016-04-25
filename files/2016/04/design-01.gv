@@ -1,0 +1,219 @@
+digraph scb {
+
+	// ----------------------------------------
+	// Overall graph properties.
+	// ----------------------------------------
+	rankdir = "LR";
+	ranksep = "3 equally";
+	node [shape="box", fontsize=12];
+
+	// ----------------------------------------
+	// Questions.
+	// ----------------------------------------
+
+	subgraph questions {
+		node [color="teal"];
+		rank = "same";
+		q_choose_tool [label="How can I choose what tool to use?"];
+		q_get_help [label="How can I get help/fix this?"];
+		q_get_started [label="How can I get started?"];
+		q_work_in_team [label="How can I work in a team?"];
+		q_make_software_useful [label="How can I make my software more useful?"];
+		q_more_performance [label="How can I get my software to do more?"];
+		q_reproducible [label="How can I make my work reproducible?"];
+		q_right_answer [label="How can I get the right answer?"];
+		q_understand_legacy [label="How can I understand the project I've inherited?"];
+	}
+
+	// ----------------------------------------
+	// Answers.
+	// ----------------------------------------
+
+	subgraph answers {
+		node [color="sienna"];
+		rank = "same";
+		a_automate_tasks [label="Automate tasks and analyses."];
+		a_avoid_duplication [label="Avoid duplication."];
+		a_be_welcoming [label="Be welcoming."];
+		a_choose_visualization [label="Choose the right visualization."];
+		a_defensive_programming [label="Program defensively."];
+		a_document_intention [label="Document intention not implementation."];
+		a_experimental [label="Use the experimental method."];
+		a_modularize_software [label="Modularize software."];
+		a_normalize_data [label="Normalize data."];
+		a_open_by_default [label="Be open by default."];
+		a_organize_project [label="Organize projects consistently."];
+		a_pre_commit_reviews [label="Do pre-commit reviews."];
+		a_publish_software_data [label="Publish software and data."];
+		a_reduce_reuse_recycle [label="Reduce, re-use, recycle."];
+		a_rerunnable_tests [label="Create re-runnable tests."];
+		a_search_web [label="Search the web."];
+		a_store_raw_data [label="Store raw data as it arrived."];
+		a_tune_programs [label="Tune programs."];
+		a_understand_formats [label="Understand data formats."];
+		a_understand_errors [label="Understand error messages."];
+		a_understand_execution [label="Understand how programs run."];
+		a_checklists_todo_lists [label="Use checklists and to-do lists."];
+		a_use_configuration [label="Use configuration files."];
+		a_use_more_hardware [label="Use more hardware."];
+		a_use_version_control [label="Use version control."];
+	}
+
+	q_choose_tool:e -> a_be_welcoming:w;
+	q_choose_tool:e -> a_rerunnable_tests:w;
+	q_choose_tool:e -> a_search_web:w;
+	q_work_in_team:e -> a_checklists_todo_lists:w;
+	q_work_in_team:e -> a_organize_project:w;
+	q_work_in_team:e -> a_pre_commit_reviews:w;
+	q_work_in_team:e -> a_use_version_control:w;
+	q_get_help:e -> a_be_welcoming:w;
+	q_get_help:e -> a_search_web:w;
+	q_get_help:e -> a_understand_errors:w;
+	q_get_started:e -> a_open_by_default:w;
+	q_get_started:e -> a_reduce_reuse_recycle:w;
+	q_get_started:e -> a_search_web:w;
+	q_get_started:e -> a_understand_errors:w;
+	q_make_software_useful:e -> a_avoid_duplication:w;
+	q_make_software_useful:e -> a_document_intention:w;
+	q_make_software_useful:e -> a_modularize_software:w;
+	q_make_software_useful:e -> a_open_by_default:w;
+	q_make_software_useful:e -> a_organize_project:w;
+	q_make_software_useful:e -> a_rerunnable_tests:w;
+	q_make_software_useful:e -> a_use_configuration:w;
+	q_more_performance:e -> a_automate_tasks:w;
+	q_more_performance:e -> a_tune_programs:w;
+	q_more_performance:e -> a_understand_execution:w;
+	q_more_performance:e -> a_use_more_hardware:w;
+	q_reproducible:e -> a_automate_tasks:w;
+	q_reproducible:e -> a_normalize_data:w;
+	q_reproducible:e -> a_store_raw_data:w;
+	q_reproducible:e -> a_use_configuration:w;
+	q_reproducible:e -> a_use_version_control:w;
+	q_right_answer:e -> a_avoid_duplication:w;
+	q_right_answer:e -> a_choose_visualization:w;
+	q_right_answer:e -> a_defensive_programming:w;
+	q_right_answer:e -> a_experimental:w;
+	q_right_answer:e -> a_rerunnable_tests:w;
+	q_understand_legacy:e -> a_search_web:w;
+	q_understand_legacy:e -> a_understand_errors:w;
+	q_understand_legacy:e -> a_understand_formats:w;
+
+	// ----------------------------------------
+	// Lessons.
+	// ----------------------------------------
+
+	subgraph lessons {
+		node [color="darkred"];
+		rank = "same";
+		l_collaboration [label="Collaboration"];
+		l_data_management [label="Data Management"];
+		l_make [label="Make"];
+		l_packaging [label="Managing Software"];
+		l_performance [label="Performance"];
+		l_programming [label="Programming"];
+		l_authoring_publishing [label="Authoring and Publishing"];
+		l_quality_assurance [label="Quality Assurance"];
+		l_unix_shell [label="Unix Shell"];
+		l_version_control [label="Version Control"];
+		l_visualization [label="Visualization"];
+	}
+
+	a_automate_tasks:e -> l_make:w;
+	a_automate_tasks:e -> l_unix_shell:w;
+	a_avoid_duplication:e -> l_data_management:w;
+	a_avoid_duplication:e -> l_programming:w;
+	a_choose_visualization:e -> l_visualization:w;
+	a_defensive_programming:e -> l_programming:w;
+	a_defensive_programming:e -> l_quality_assurance:w;
+	a_document_intention:e -> l_programming:w;
+	a_experimental:e -> l_quality_assurance:w;
+	a_experimental:e -> l_performance:w;
+	a_modularize_software:e -> l_programming:w;
+	a_normalize_data:e -> l_data_management:w;
+	a_open_by_default:e -> l_collaboration:w;
+	a_open_by_default:e -> l_packaging:w;
+	a_open_by_default:e -> l_authoring_publishing:w;
+	a_organize_project:e -> l_collaboration:w;
+	a_organize_project:e -> l_packaging:w;
+	a_organize_project:e -> l_unix_shell:w;
+	a_pre_commit_reviews:e -> l_collaboration:w;
+	a_publish_software_data:e -> l_packaging:w;
+	a_publish_software_data:e -> l_authoring_publishing:w;
+	a_reduce_reuse_recycle:e -> l_programming:w;
+	a_reduce_reuse_recycle:e -> l_unix_shell:w;
+	a_rerunnable_tests:e -> l_packaging:w;
+	a_rerunnable_tests:e -> l_quality_assurance:w;
+	a_search_web:e -> l_collaboration:w;
+	a_store_raw_data:e -> l_data_management:w;
+	a_tune_programs:e -> l_performance:w;
+	a_understand_errors:e -> l_programming:w;
+	a_understand_errors:e -> l_unix_shell:w;
+	a_understand_execution:e -> l_performance:w;
+	a_understand_execution:e -> l_programming:w;
+	a_understand_formats:e -> l_data_management:w;
+	a_checklists_todo_lists:e -> l_collaboration:w;
+	a_use_configuration:e -> l_packaging:w;
+	a_use_more_hardware:e -> l_performance:w;
+	a_use_version_control:e -> l_version_control:w;
+	a_be_welcoming:e -> l_collaboration:w;
+
+	// ----------------------------------------
+	// Topics
+	// ----------------------------------------
+
+	subgraph topics {
+		node [color="goldenrod"];
+		rank = "same";
+		t_authoring_publishing [label="authoring and publishing"];
+		t_branching [label="branching"];
+		t_data_management [label="data cleanup/\nmanagement"];
+		t_development_practices [label="development practices"];
+		t_functions [label="functions"];
+		t_installing_configuring_packaging [label="installing/\nconfiguring/\npackaging software"];
+		t_integration_testing [label="integration testing/\ncontinuous integration"];
+		t_make [label="make"];
+		t_profiling_tuning [label="profiling/\ntuning"];
+		t_project_operations [label="project organization/\nlicensing/\noperation"];
+		t_regular_expressions [label="regular expressions"];
+		t_scripting [label="scripting"];
+		t_shell_advanced [label="permissions/\nenvironment variables/\nremote access"];
+		t_shell_basic [label="basics/\nscripting/\nfinding"];
+		t_spreadsheets [label="spreadsheets"];
+		t_sql [label="relational databases"];
+		t_task_farming [label="task farming"];
+		t_unit_testing [label="unit testing"];
+		t_version_control_basic [label="basics"];
+		t_visualization [label="visualization"];
+	}
+
+	l_authoring_publishing:e -> t_authoring_publishing:w;
+	l_collaboration:e -> t_project_operations:w;
+	l_data_management:e -> t_data_management:w;
+	l_data_management:e -> t_regular_expressions:w;
+	l_data_management:e -> t_spreadsheets:w;
+	l_data_management:e -> t_sql:w;
+	l_make:e -> t_make:w;
+	l_packaging:e -> t_installing_configuring_packaging:w;
+	l_performance:e -> t_profiling_tuning:w;
+	l_performance:e -> t_task_farming:w;
+	l_programming:e -> t_development_practices:w;
+	l_programming:e -> t_functions:w;
+	l_programming:e -> t_scripting:w;
+	l_quality_assurance:e -> t_integration_testing:w;
+	l_quality_assurance:e -> t_unit_testing:w;
+	l_unix_shell:e -> t_shell_advanced:w;
+	l_unix_shell:e -> t_shell_basic:w;
+	l_version_control:e -> t_branching:w;
+	l_version_control:e -> t_version_control_basic:w;
+	l_visualization:e -> t_visualization:w;
+
+	t_functions:s -> t_development_practices:n;
+	t_profiling_tuning:s -> t_task_farming:n;
+	t_scripting:s -> t_functions:n;
+	t_shell_basic:s -> t_shell_advanced:n;
+	t_spreadsheets:s -> t_sql:n;
+	t_sql:s -> t_regular_expressions:n;
+	t_regular_expressions:s -> t_data_management:n;
+	t_unit_testing:s -> t_integration_testing:n;
+	t_version_control_basic:s -> t_branching:n;
+}
