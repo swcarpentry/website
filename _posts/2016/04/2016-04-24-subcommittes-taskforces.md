@@ -1,6 +1,6 @@
 ---
 layout: post
-authors: ["Rayna Harris", "Bill Mills", "Jason Williams"]
+authors: ["Jason Williams", "Bill Mills", "Rayna Harris"]
 title: "Call for Software Carpentry Foundation Subcommittees and Task Forces"
 date: 2016-04-24
 time: "19:00:00"
