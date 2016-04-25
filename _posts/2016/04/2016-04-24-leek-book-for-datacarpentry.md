@@ -6,7 +6,7 @@ date: 2016-04-24
 time: "09:00:00"
 category: ["Community", "Data Carpentry"]
 ---
-Thanks to the efforts of Len at Leanpub and Tracy Teal at Data Carpentry,
+Thanks to the efforts of Len Epp at Leanpub and Tracy Teal at Data Carpentry,
 50% of the royalties from the book *[How to Be a Modern Scientist](https://leanpub.com/modernscientist/)*
 will be donated to Data Carpentry.
 The book is pay what you want with a suggested price of $10.
