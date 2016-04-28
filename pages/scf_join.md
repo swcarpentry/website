@@ -26,6 +26,7 @@ We offer several levels of Partnerships, based on training activities expected a
 |SC or DC Only (annual)|$4,000|$6,500|$12,500|Contact us|
 
 
+#### Notes
 
 \* For Coordinated workshops, we will find instructors for the workshop, set up and handle registration, support instructor logistics and coordinate and share assessment results with the Partner organization. A designated contact approves coordinated workshop requests for that organization. Instructor travel expenses are the responsibility of the partner and are not covered in Partnership fees.
 
