@@ -2,8 +2,8 @@
 layout: post
 authors: ["Jeff Leek"]
 title: "Buy This Book and Support Data Carpentry"
-date: 2016-04-24
-time: "09:00:00"
+date: 2016-04-29
+time: "03:00:00"
 category: ["Community", "Data Carpentry"]
 ---
 Thanks to the efforts of Len Epp at Leanpub and Tracy Teal at Data Carpentry,
