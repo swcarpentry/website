@@ -3,7 +3,7 @@ layout: post
 authors: ["Tracy Teal", "Jonah Duckles"]
 title: "New Joint Partnerships with Data Carpentry"
 date: 2016-05-02
-time: "16:00:00"
+time: "15:25:00"
 category: ["Partnerships"]
 ---
 
