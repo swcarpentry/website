@@ -5,7 +5,7 @@ title: Become a Partner
 ---
 ![Stockholm 2014]({{site.filesurl}}/workshops/scilifelab-2014-05-slice.jpg)
 
-A Partner is an organization that has made a commitment to the growth and spread of Software Carpentry. Partners receive annual access to instructor training and guidance with capacity building at their organization. Partnerships are able to run low-cost local workshops while developing communities of practice around effective data-driven reproducible research. Community developed lessons enable our instructors to globally share the effort for developing impactful lessons on technical topics. Partnerships give Software and Data Carpentry revenue to ensure the ongoing development and maintenance of the lessons demanded by research communities. We work to give your local instructors support, mentorship and a forum for community lesson development.
+A Partner is an organization that has made a commitment to the growth and spread of Software Carpentry. Partners receive annual access to instructor training and guidance with capacity building at their organization. Partners are able to run low-cost local workshops while developing communities of practice around effective data-driven reproducible research. Community developed lessons enable our instructors to globally share the effort for developing impactful lessons on technical topics. Partnerships give Software and Data Carpentry revenue to ensure the ongoing development and maintenance of the lessons demanded by research communities. We work to give your local instructors support, mentorship and a forum for community lesson development.
 
 We offer several levels of Partnerships, based on training activities expected annually.
 
