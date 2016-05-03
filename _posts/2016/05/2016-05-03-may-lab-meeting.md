@@ -13,4 +13,6 @@ Our first feature for the month is the **new Subcommittee and Task Force program
 
 Also this month, we're excited to announce **Software Carpentry's first ever Bug Barbeque**, coming up **worldwide on June 13**. It's almost time to publish Version 5.4 of all the Software Carpentry lessons [listed here](http://software-carpentry.org/lessons/), and we need your help to polish up all the details. We'll be getting together or working remotely worldwide on June 13 to get ready for publication; after version 5.4 is finished, we will be minting a DOI so that all contributors get a citable reference to add to their CVs. Watch this space for a blog post coming shortly, or see more details on the [Bug BBQ Website](http://swcarpentry.github.io/SWC-bug-bbq/).
 
-Don't forget to check out the schedule on [the etherpad](http://pad.software-carpentry.org/swc-lab-meeting-2016-05-10), and feel free to add points of interest and goings-on you'd like to mention to the community under the non-verbal updates section there, too. We hope you'll join us!
+Check out the schedule on [the etherpad](http://pad.software-carpentry.org/swc-lab-meeting-2016-05-10) and add your name if you will be attending. 
+
+Feel free to add points of interest and goings-on you'd like to mention to the community under the non-verbal updates section there, too. We hope you'll join us!
