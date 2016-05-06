@@ -6,14 +6,6 @@ date: 2016-05-04
 time: "13:00:00"
 category: ["Events"]
 ---
-<!-- start excerpt -->
-Software Carpentry is aiming to ship a new version (5.4) of the Software Carpentry lessons 
-by the end of June. To help get us over the finish line we are having a Bug BBQ on June 
-13th to squash as many bugs as we can before we publish the lessons. The June 13th Bug BBQ 
-is also an opportunity for you to engage with our world-wide community. For more info 
-about the event, read-on and visit our [Bug BBQ website](http://swcarpentry.github.io/SWC-bug-bbq/).
-
-<!-- end excerpt -->
 
 ## Software Carpentry is having a Bug BBQ on June 13th
 
