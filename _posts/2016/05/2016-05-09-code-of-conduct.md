@@ -20,7 +20,7 @@ expected to show respect and courtesy to others.
 
 Core to our organizations is creating a friendly and welcoming community.
 Therefore, we would like to reiterate that anyone participating in Software and
-Data Carpentry activities must comply with our [Code of Conduct]({{site.baseurl}}/conduct}}). This code of
+Data Carpentry activities must comply with our [Code of Conduct]({{site.baseurl}}/conduct). This code of
 conduct applies to all spaces managed by Software and Data Carpentry, including,
 but not limited to, workshops, email lists, and online forums.
 
