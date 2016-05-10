@@ -6,7 +6,7 @@ date: 2016-05-10
 time: "00:05:00"
 category: ["Community"]
 ---
-The RSE Conference on September 15-16, 2016, in Manchester
+The [RSE Conference](http://www.rse.ac.uk/conf2016) on September 15-16, 2016, in Manchester
 will be the first conference to focus exclusively on the issues that affect people who write and use software in research.
 We're looking for submissions that will investigate and communicate ideas and expertise from the RSE community.
 
