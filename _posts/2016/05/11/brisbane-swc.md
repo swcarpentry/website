@@ -1,4 +1,4 @@
-**Software Carpentry in Brisbane**
+##Software Carpentry in Brisbane
 
 Brisbane Software Carpentry sputtered into life some time in 2014. 
 Having heard about the initiative via Twitter, I managed to contact [Nathan Watson-Haigh](https://twitter.com/watsonhaigh)
