@@ -7,9 +7,9 @@ time: "10:00:00"
 category: ["Community"]
 ---
 On May 8th and 9th the Steering Committee had an in-person meeting at Cold
-Spring Harbour Laboratory to conclude the discussions that occurred on the first
+Spring Harbour Laboratory to conclude the discussions during the first
 two months and make plans for the next ten months of activities.
-In the following weeks we will wrote more about the results of the in-person
+In the following weeks we will write more about the results of the in-person
 meeting on the blog but for now we want to give you an overview.
 
 ## Partnerships
@@ -18,18 +18,18 @@ Our Executive Director is doing an amazing job increasing the number of Software
 Carpentry [partners](http://software-carpentry.org/scf/partners/). Last year,
 we were asked to provide a join partnership agreement with [Data
 Carpentry](http://datacarpentry.org/)
-and after months of work this agreement are now
+and after months of work this agreement is now
 [available](http://software-carpentry.org/scf/join/).
 
 ## Instructor Training
 
-Last year we tried a lot of models for Instructor Training
+Last year we tried several models for Instructor Training
 that now are more stable and has an [write
 version](http://swcarpentry.github.io/instructor-training/)
 thanks to the work of our Instructor Trainers.
 
 We will continue improving our Instructor Training programme
-and increasing our capacity of delivery it to attend the high demand.
+and increasing our capacity to high demand.
 
 ## Subcommittees and Task Forces
 
@@ -46,13 +46,16 @@ during the in-person meeting was provide [an official space on
 Facebook](https://www.facebook.com/groups/17942228448/) because on some
 countries and some audiences this is the first place that they will look for us.
 
+We will also create an Instagram account to display and share photographs from
+Software Carpentry workshops and activities.
+
 ## Diversity
 
-We will continue to support an diverse community and health spaces for
+We will continue to support a diverse community and healthy spaces for
 communication. We have a [Code of
 Conduct](http://software-carpentry.org/conduct) to help with that.
 
 ## Future Directions
 
-We will continue to work close with others communities that are aligned with our
+We will continue to work close with other communities that are aligned with our
 vision and mission.
