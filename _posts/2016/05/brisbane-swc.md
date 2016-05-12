@@ -11,7 +11,7 @@ Brisbane Software Carpentry sputtered into life some time in 2014 when scattered
 Having heard about the initiative via Twitter, I managed to contact [Nathan Watson-Haigh](https://twitter.com/watsonhaigh)
 who got me on to the 
 [Aus/NZ mailing list](http://lists.software-carpentry.org/mailman/listinfo/aus-nz_lists.software-carpentry.org). 
-Then I met [Philipp Bayer](https://twitter.com/PhilippBayer) and we started planning our first workshop at 
+Then I met [Philipp Bayer](https://twitter.com/PhilippBayer) (now in Perth) and we started planning our first workshop at 
 [The University of Queensland](http://www.uq.edu.au). [PyCon Australia](https://www.facebook.com/PyConAustralia/) 
 was coming up in Brisbane and we were able to get [Damien Irving](https://twitter.com/DrClimate) from Melbourne and 
 [Tim McNamara](https://twitter.com/timclicks) from New Zealand to teach for us as they were in town for that. 
@@ -32,7 +32,8 @@ so Brisbane was suddenly rich in instructors.
 
 Areej, Mitch, Paula, Sam and I ran a Python bootcamp in July 2015, and there was a second one in late September. 
 Paula and Sam flew to Townsville in Queensland later that same week to run an inaugural R bootcamp there,
-and four attendees there registered interest in instructor training. 
+and four attendees there registered interest in instructor training.  
+
 We were lucky to have the services of Python wizard [Caleb Hattingh](https://twitter.com/caleb_hattingh) at 
 both the July and September workshops. 
 [Heidi Perrett](https://twitter.com/heidzOP) and [Kim Keogh](https://twitter.com/NerdleBert) 
@@ -54,6 +55,8 @@ Amanda, Kim and I taught an R bootcamp in April for Queensland government staff 
 A week later, the first ever Software Carpentry bootcamp was run at Griffith University. 
 Our next scheduled workshop is the [R bootcamp](https://github.com/Bio-SWC-BNE/2016-07-11-bne-R) on 11-12 July, 
 a tie-in for the [UQ Winter School in Mathematical and Computational Biology](http://bioinformatics.org.au/ws16/). 
+
+[Areej Al-Sheikh](https://twitter.com/areejalsheikh) taught Software Carpentry in Bali last year, and [Mitch Stanton-Cook](https://twitter.com/mscook) taught Software Carpentry in Nanning in China. Sam taught five workshops in his first year since certifying as an instructor, flying to Adelaide and other places to spread the word. Paula is off to Darwin next to run a Data Carpentry class, since she, Sam and I have all certified as Data Carpentry instructors as well. 
 
 [Tim Dettrick](https://twitter.com/tjdett) has been a great supporter for Brisbane Software Carpentry, letting us use his DIT4C cloud option for workshops. This gets around knotty installation problems which really helps when many attendees bring Windows laptops over
 which they have no admin rights.
