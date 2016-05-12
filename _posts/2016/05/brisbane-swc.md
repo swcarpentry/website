@@ -1,6 +1,13 @@
-##Software Carpentry in Brisbane
+---
+layout: post
+authors: ["Belinda Weaver"]
+title: "Software Carpentry in Brisbane"
+date: 2016-05-12
+time: "00:00:01"
+category: ["Workshops"]
+---
 
-Brisbane Software Carpentry sputtered into life some time in 2014. 
+Brisbane Software Carpentry sputtered into life some time in 2014 when scattered local supporters finally met and began to form a group. 
 Having heard about the initiative via Twitter, I managed to contact [Nathan Watson-Haigh](https://twitter.com/watsonhaigh)
 who got me on to the 
 [Aus/NZ mailing list](http://lists.software-carpentry.org/mailman/listinfo/aus-nz_lists.software-carpentry.org). 
@@ -36,8 +43,8 @@ and liked it so much they decided to train as instructors.
 so our instructor pool has grown a little bigger, though not by 20. Many of the attendees were from other states (NSW, ACT) – 
 and one, [Selene Fernandez Valverde](https://twitter.com/SelFdz), has gone on to trailblaze Software Carpentry in Mexico.
 However, in addition to Heidi and Kim, we now have [Leah Roberts](https://twitter.com/Loolibear), [Nouri Ben Zakour](https://twitter.com/genomiss) 
-and [Anup Shah](https://twitter.com/MrAnupShah), though we will lose Nouri to Sydney soon (boo hoo). 
-We lost Darya to Sydney as well.
+and [Anup Shah](https://twitter.com/MrAnupShah), though we will lose Nouri to a research job in Sydney soon (boo hoo). 
+We have already said goodbye to Darya who has moved to Sydney for a job.
 
 Sam, Paula and I taught an R bootcamp at the [Translational Research Institute](https://twitter.com/TRI_info) late last year, 
 and then ran concurrent Python and R bootcamps at the fabulously successful [Brisbane Research Bazaar](https://storify.com/cloudaus/brisbane-research-bazaar) 
@@ -47,6 +54,9 @@ Amanda, Kim and I taught an R bootcamp in April for Queensland government staff 
 A week later, the first ever Software Carpentry bootcamp was run at Griffith University. 
 Our next scheduled workshop is the [R bootcamp](https://github.com/Bio-SWC-BNE/2016-07-11-bne-R) on 11-12 July, 
 a tie-in for the [UQ Winter School in Mathematical and Computational Biology](http://bioinformatics.org.au/ws16/). 
+
+[Tim Dettrick](https://twitter.com/tjdett) has been a great supporter for Brisbane Software Carpentry, letting us use his DIT4C cloud option for workshops. This gets around knotty installation problems which really helps when many attendees bring Windows laptops over
+which they have no admin rights.
 
 Hacky Hours, informal get togethers where people can brush up on skills, or follow up on questions after 
 Software Carpentry workshops, are held weekly at both [UQ](hhttps://twitter.com/HackyHourStLuc) and 
