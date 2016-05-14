@@ -2,7 +2,7 @@
 layout: post
 authors: ["Belinda Weaver"]
 title: "Software Carpentry in Brisbane"
-date: 2016-05-12
+date: 2016-05-14
 time: "00:00:01"
 category: ["Workshops"]
 ---
