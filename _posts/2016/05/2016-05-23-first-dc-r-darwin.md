@@ -13,9 +13,9 @@ The [COMBINE](https://combine.org.au/) [Data Carpentry](http://www.datacarpentry
 [Charles Darwin University](http://www.cdu.edu.au/) was filled with joy, enthusiastic attendees 
 and extra degrees of warm.
 
-This workshop was a self-organised workshop led by COMBINE with help of local organisers mainly 
-from the [Menzies School of Health Research](http://www.menzies.edu.au/). After some emails sent back 
-and forward, three months before the workshop, we planned to have an R data carpentry workshop based 
+This was a self-organised workshop led by COMBINE with help of local organisers mainly 
+from the [Menzies School of Health Research](http://www.menzies.edu.au/). After some emailing back 
+and forth, three months before the workshop, we planned to have an R data carpentry workshop based 
 on the answers of a custom-made survey (prepared by Steven). Then, two COMBINE instructors were called, 
 so Westa and I volunteered for this workshop and started with preps. The workshop was capped for 30 people
 with a nominal fee to cover for catering ($50 AUD). People were well-disposed and a good sign was that 
@@ -86,8 +86,6 @@ with high chances to be repeated.
 
 ####
 
-I hope you enjoyed this experience as much as I did, 
-
-[Paula Andrea Martinez] (https://github.com/orchid00)
+I hope you enjoyed this experience as much as [I](https://github.com/orchid00) did.
 
 ![darwinGroup](https://pbs.twimg.com/media/CiUVZXPUkAEAzSm.jpg:large)
