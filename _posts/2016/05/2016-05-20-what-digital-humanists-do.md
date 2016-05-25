@@ -24,8 +24,7 @@ and says in the introduction that
 the vernacular was for women and children,
 while the Hebrew was for men.
 The text exists in only one hand-written manuscript from 1401,
-which is based on the book of Esther
-and used in the Purim holiday.
+which is based on the book of Esther used in the Purim holiday.
 
 The original is at the Bodlein Library in Oxford,
 but is available on microfilm,
