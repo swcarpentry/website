@@ -2,7 +2,7 @@
 layout: post
 authors: ["Kathy Chung"]
 title: "What Digital Humanists Do"
-date: 2016-05-20
+date: 2016-05-25
 time: "00:05:00"
 category: ["Digital Humanities"]
 ---
