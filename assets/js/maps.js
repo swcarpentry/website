@@ -69,7 +69,8 @@ SWC.maps = (function() {
       zoomOnClick: false,
       maxZoom: null,
       gridSize: 25,
-      minimumClusterSize: 1
+      minimumClusterSize: 1,
+      imagePath: '/assets/marker_clusterer_images/m'
     };
     var mc = new MarkerClusterer(map, markers, mcOptions);
     info_window = new google.maps.InfoWindow();
