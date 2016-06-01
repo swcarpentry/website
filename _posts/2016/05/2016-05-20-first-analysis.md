@@ -1,6 +1,6 @@
 ---
 layout: post
-authors: [""]
+authors: ["Greg Wilson"]
 title: "First Analysis of Instructor Training Data"
 date: 2016-05-20
 time: "06:30:00"
