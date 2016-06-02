@@ -17,8 +17,8 @@ The first looks at communities of workers and architects in the Medieval and Ren
 and relies on records of specific buildings,
 diaries of artisans,
 sketches,
-building plans,
-and mason's marks (instead of names, because many of the workers were illiterate).
+and building plans
+(some of which are very large: the width of a sidewalk, and the length of a city block).
 The end goal is to learn about the people who created the buildings,
 who they did the work with,
 the processes they used,
@@ -37,7 +37,9 @@ which can't be represented in any existing font).
 There's a lot of textual description to keep track of,
 and a lot of linkages between items as well.
 
-Gamma's other project studies metalwork objects used to store religious relics.
+## Delta
+
+Delta studies metalwork objects used to store religious relics.
 The research questions center around the designs,
 which can be used to identify regions and creators.
 Who saw the objects?
@@ -55,9 +57,9 @@ There are a few useful databases for this,
 but mostly Gamma has documents (containing text, images, and citations)
 in various folders on a hard drive.
 
-## Delta
+## Epsilon
 
-Delta started the interview by saying, "I am hopeless with technology,"
+Epsilon started the interview by saying, "I am hopeless with technology,"
 and like many people,
 has stuck to out-of-date versions of software
 rather than risk breaking anything.
@@ -68,13 +70,12 @@ Their goal was not a comprehensive catalog of every image,
 but to characterize how the image was understood in continental Europe,
 and when and why differences arose between northern and southern Europe.
 13th and 14th Century images tend to come with a copy of the poem;
-by the 15th Century the images took on a life of their own,
-illustrating prayers and devotional images.
+by the 15th Century the images took on religious meanings of their own.
 
 A growing number of these images available in Google search,
 and smaller libraries are also beginning to digitize their collections,
-but collecting images was still hard work
-(so much so that Delta eventually restricted the search to France, Germany, and the Low Countries).
+but collecting images was still hard work, and costly
+(so much so that Epsilon eventually restricted the search to France, Germany, and the Low Countries).
 It was also hit and miss:
 institutions might commission more detailed descriptions of items in their collections,
 and even digital reproductions,
@@ -87,4 +88,3 @@ managing those is difficult,
 since there's no easy way to add annotations directly on the phone.
 There is FADIS (the Fine Arts Digital Imaging System),
 but it can't use it for personal research on a personal computer.
-Index cards are still actually the easiest solution.
