@@ -19,7 +19,7 @@ During the sprint, James developed a new regex quiz, while Owen helped update an
 
 Canadian and US teams began work as the sun moved around the globe. These included [Juliane Schneider](https://github.com/pitviper6) from UCSD working on OpenRefine and [Gail Clement](https://github.com/Repositorian) from Caltech, working on [Author Carpentry](https://github.com/Repositorian/AuthorCarpentry). [Laurel Narizny](https://github.com/lnarizny) and [Robert Doiel](https://github.com/rsdoiel) also signed on from Caltech.
 
-[Cam Macdonell](https://twitter.com/cjmacdonell) seemed to be up all hours and was a key driver for getting the material migrated into gh-pages and the new templates.
+[Cam Macdonell](https://twitter.com/cjmacdonell) seemed to be up all hours and was a key driver for getting the material migrated into `gh-pages` and the new lesson templates.
 
 The original four-module lesson (covering shell, regular expressions, git, and OpenRefine) has now become seven, 
 with a new SQL module (based on the Data Carpentry lesson) being added, along with others for persistent 
