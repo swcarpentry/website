@@ -32,10 +32,12 @@ swapped in to make the lessons more relevant to librarians.
 
 During the sprint, all the Library Carpentry action was co-ordinated through a 
 [dedicated chat room](https://gitter.im/weaverbel/LibraryCarpentry) and via daily evening Hangouts 
-where the day’s work was reported, before being handed over to the incoming team, rather like a baton being passed in a relay race. We hope to continue the conversation through the chat room as we contine to develop the material.
+where the day’s work was reported, before being handed over to the incoming team, rather like a baton being passed in a relay race. We hope to continue the conversation through the chat room as we continue to develop the material.
 
 This was a really great experience, and I thank all the amazing people who dedicated their time to the project, and who 
 have volunteered as maintainers into the future. There is still a lot of work to be done, but we made huge progress.
 
-I hope Anelda, Cam, James, Mateusz and some of the other participants will also chime in with their own stories and achievements. My take is only partial.
+I hope Anelda, Cam, James, Mateusz and some of the other participants will also chime in with their own stories and achievements. My take is only partial. Please also correct any errors I have made.
+
+Thanks again all - what a fantastic effort.
 
