@@ -9,7 +9,7 @@ category: ["sprints", "hackathons", "Data Carpentry"]
 A global team worked to update the [Library Carpentry](https://github.com/LibraryCarpentry) curriculum and lesson material at
 this year’s [Mozilla Science Lab Global sprint](https://science.mozilla.org/programs/events/global-sprint-2016).
 
-The work kicked off in Brisbane, where [Clinton Roy](https://twitter.com/clinton_roy), [Natasha Simons](https://twitter.com/n_simons) and I worked with [Carmi Cronje](https://twitter.com/machanical) in Sydney to start the ball rolling.
+The work kicked off in Brisbane, where [Clinton Roy](https://twitter.com/clinton_roy), [Natasha Simons](https://twitter.com/n_simons) and I worked with [Carmi Cronje](https://twitter.com/machinical) in Sydney to start the ball rolling.
 [Matthias Liffers](https://twitter.com/mpfl) came online in Perth two hours later. At 5.30 pm our time, we handed over to teams in South Africa, the Netherlands, and the UK, led by [Anelda can der Walt](https://twitter.com/aneldavdw), [Mateusz Kuzak](https://twitter.com/matkuzak), and [James Baker](https://twitter.com/j_w_baker) respectively.
 
 James, with his colleagues [Owen Stephens](https://github.com/ostephens) and [Daniel van Strien](https://github.com/davanstrien), were the original developers of the Library Carpentry material.
