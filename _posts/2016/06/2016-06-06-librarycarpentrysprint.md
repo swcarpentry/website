@@ -1,11 +1,11 @@
- ---
- layout: post
- authors: ["Belinda Weaver"]
- title: "Updating Library Carpentry"
- date: 2016-06-06
- time: "00:00:01"
- category: ["sprints", "hackathons"]
- ---
+---
+layout: post
+authors: ["Belinda Weaver"]
+title: "Updating Library Carpentry"
+date: 2016-06-06
+time: "00:00:01"
+category: ["sprints", "hackathons"]
+---
 A global team worked to update the Library Carpentry curriculum and lesson material at
 this year’s [Mozilla Science Lab Global sprint](https://science.mozilla.org/programs/events/global-sprint-2016).
 
