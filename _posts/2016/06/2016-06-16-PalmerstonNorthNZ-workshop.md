@@ -10,7 +10,7 @@ On 7th and 8th June 2016 we gave a Software Carpentry training consisting of fou
 
 This was a very successful workshop with almost 40 attendants, organised and presented by a mixed team of new and more experienced instructors. The participants were very responsive and there was a lot of learning happening for the attendees and for instructors. The feedback was mostly positive and the negative feedback was very constructive. An aspect mentioned by several participants was that the number of attendees was probably too large, possibly with respect to the venue size - something we have to consider in the future. The logistical support with refreshments, received from the Massey in the person of Colleen Blair, was behind the scenes, but timely and well prepared. So we had a hydrated group, and a lot of fun was had by all. The new friendships made will hopefully lead to more cooperation between colleagues. Hannes' favourite critique was: "It is impossible to listen and type as well!"   -- Note to self :)
 
-<img src="../../../files/2016/06/palmerstion-north-training.jpg" alt="Software Carpentry Training at Palmerston North" width="800px">
+<img src="../../../files/2016/06/palmerston-north-training.jpg" alt="Software Carpentry Training at Palmerston North" width="800px">
 
 Many attendees were very positive about the tools and approaches presented, seeing applications for them in their current work or study. We received very good feedback about the number of instructors and helpers and their attited towards teaching and helping participants; most smaller and larger problems that people had could be sorted out relatively quickly. A number also expressed interest in on-going engagement through the likes of 'hacky-hour' type weekly meetups.
 
