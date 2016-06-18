@@ -29,4 +29,4 @@ Once again the exam marks were positively skewed in 2014, and most students did 
 
 All of our **teaching material is available on GitHub** (https://github.com/ggorman/Introduction-to-programming-for-geoscientists) under a Creative Commons Attribution 3.0 Unported (CC-BY 3.0) licence. Feel free to adopt/tailor it to your needs! **Further details, including additional student and course data, can be found in our paper** that has been accepted for publication in the [Journal of Geoscience Education](http://nagt-jge.org/):
 
-* C. T. Jacobs, G. J. Gorman, H. E. Rees, L. E. Craig (To Appear). Experiences with efficient methodologies for teaching computer programming to geoscientists. *Journal of Geoscience Education*. Pre-print: http://arxiv.org/abs/1505.05425
+* C. T. Jacobs, G. J. Gorman, H. E. Rees, L. E. Craig (In Press). Experiences with efficient methodologies for teaching computer programming to geoscientists. *Journal of Geoscience Education*. Pre-print: http://arxiv.org/abs/1505.05425
