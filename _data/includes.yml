@@ -160,10 +160,10 @@ people: [people/adams_james.html, people/adelman_joshua.html, people/ahmadia_a.h
   people/zito_t.html, people/zonca_andrea.html]
 projects: [projects/active-papers.html, projects/archer.html, projects/astropy.html,
   projects/biostars.html, projects/cyclus.html, projects/ecodata-retriever.html, projects/eff-phys.html,
-  projects/gap.html, projects/genomics-virtual-lab.html, projects/ipfs.html, projects/iplant.html,
-  projects/jors.html, projects/khmer.html, projects/macroeco.html, projects/magetbrain.html,
-  projects/mahotas.html, projects/math-education-resources.html, projects/mothur.html,
-  projects/msl.html, projects/nipy.html, projects/open-tree-of-life.html, projects/pecan.html,
-  projects/practical-computing-for-biologists.html, projects/pymc.html, projects/pyne.html,
+  projects/gap.html, projects/genomics-virtual-lab.html, projects/git-rdm.html,
+  projects/ipfs.html, projects/iplant.html, projects/jors.html, projects/khmer.html, projects/macroeco.html,
+  projects/magetbrain.html, projects/mahotas.html, projects/math-education-resources.html,
+  projects/mothur.html, projects/msl.html, projects/nipy.html, projects/open-tree-of-life.html,
+  projects/pecan.html, projects/practical-computing-for-biologists.html, projects/pymc.html, projects/pyne.html,
   projects/pyrdm.html, projects/ropensci.html, projects/scikit-bio.html, projects/scikit-image.html,
   projects/sharelatex.html, projects/stat-545.html, projects/tec.html]
