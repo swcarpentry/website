@@ -54,6 +54,8 @@
     url: "/lessons/"
   - title: "License"
     url: "/license/"
+  - title: "Lesson Incubation"
+    url: "/lessons/incubation/"
   - title: "Development Dashboard"
     url: "/lessons/dashboard/"
   - title: "Previous Material"
