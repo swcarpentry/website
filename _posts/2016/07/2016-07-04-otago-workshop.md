@@ -20,13 +20,13 @@ to clock up some “productive hours” after the workshop finished each day.  T
 the three day format we also adjusted the order of our material a little - rather than
 teaching Unix shell, R and Git as discrete modules, we split the Shell and Git lessons into
 two, and gave an intro to these topics on day 1, then spent all of day 2 on R, then returned to Shell and Git on day 3, finishing with R functions at the very end.  The goal was to show
-how all of the topics could link together as part of a single workflow - we didn’t quite get it right (next time we’ll use a single example that runs through all the modules), but it’s
-certainly given us “food for thought” for our next Software Carpentry offering. The feedback
-was on the overall very positive and there certainly is an improvement over our previous
+how all of the topics could link together as part of a single workflow - we didn’t quite get it right (next time we’ll use a single example that runs through all the modules), but it has
+definitely given us “food for thought” for our next Software Carpentry offering. The feedback
+overall was very positive, and there was certainly an improvement over our previous
 workshops, in particular with regards to pace, delivery and dealing with technical issues.
 
-We had a surplus of helpers so Tom became more involved in the "sharing" part working on the
-training materials, including several pull requests to the Software Carpentry lessons
+We had a surplus of helpers so Tom became more involved in the "sharing" part: working on the
+training materials, including several pull requests to the Software Carpentry lesson
 repositories. It would be interesting so see whether others have had issues with the
 material we where did.
 
