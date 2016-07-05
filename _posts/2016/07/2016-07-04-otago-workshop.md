@@ -28,8 +28,8 @@ workshops, in particular with regards to pace, delivery and dealing with technic
 We had a surplus of helpers so Tom became more involved in the "sharing" part working on the
 training materials, including a `git` lesson on branches and  several pull requests to the
  Software Carpentry lessons repositories. It would be interesting so see whether others have
- had issues with the material we where did. While it was valuable to have extra
- helpers avaiable at times (with technical issues springing up across the room),
+ had issues with the material where we did.  It was valuable to have extra
+ helpers avaiable at times (with technical issues springing up across the room).
 
 Favourite moments of Software Carpentry:
 
