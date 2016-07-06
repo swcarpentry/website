@@ -1,4 +1,3 @@
-
 ---
 layout: post
 authors: ["Carrie Andrew"]
