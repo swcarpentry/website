@@ -6,6 +6,7 @@ import sys
 import time
 import yaml
 
+
 CONTROLS = (
     ('swcarpentry/shell-novice', 'Unix Shell'),
     ('swcarpentry/git-novice', 'Git'),
@@ -25,6 +26,7 @@ CONTROLS = (
     ('swcarpentry/website', 'Software Carpentry Website'),
 )
 
+
 def get_connection(token_file):
     '''Get a connection to GitHub if the library and token file are available.'''
     try:
@@ -39,6 +41,7 @@ def get_connection(token_file):
         print('Unable to open token file "{0}"'.format(token_file), file=sys.stderr)
         sys.exit(1)
     return Github(token)
+
 
 def process(cnx):
     '''Gather information.'''
@@ -57,20 +60,33 @@ def process(cnx):
         r = cnx.get_repo(ident)
         record = {'ident' : ident,
                   'description' : description,
-                  'url' : str(r.html_url),
-                  'issues' : []}
+                  'url' : str(r.html_url)}
+        record['pulls'], record['issues'] = filter(r.get_issues(state='open'))
         all_records.append(record)
-        for i in r.get_issues(state='open'):
-            try:
-                record['issues'].append({'number' : i.number,
-                                         'title' : str(i.title),
-                                         'url' : str(i.html_url),
-                                         'updated' : i.updated_at.strftime('%Y-%m-%d')})
-            except Exception as e:
-                print('failed with', i.number, i.title, i.html_url, i.updated_at, file=sys.stderr)
-            dashboard['num_issues'] += 1
-        record['issues'].sort(key=lambda x: x['updated'])
     return dashboard
+
+
+def filter(raw):
+    '''Separate pull requests from issues.'''
+    issues = []
+    pulls = []
+    for i in raw:
+        try:
+            entry = {'number' : i.number,
+                     'title' : str(i.title),
+                     'url' : str(i.html_url),
+                     'updated' : i.updated_at.strftime('%Y-%m-%d')}
+            if '/issues/' in entry['url']:
+                issues.append(entry)
+            elif '/pull/' in entry['url']:
+                pulls.append(entry)
+        except Exception as e:
+            print('failed with', i.number, i.title, i.html_url, i.updated_at, file=sys.stderr)
+
+    issues.sort(key=lambda x: x['updated'])
+    pulls.sort(key=lambda x: x['updated'])
+    return pulls, issues
+
 
 def main():
     '''Main driver.'''
