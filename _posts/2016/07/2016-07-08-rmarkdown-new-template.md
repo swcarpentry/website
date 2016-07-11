@@ -7,17 +7,17 @@ category: ["Tooling"]
 ---
 
 Our lesson template is getting a face-lift.  Actually, it is a lot more than
-that: all the internal mechanics is also affected.
+that: all the internal mechanics are also affected.
 
 
 ## What's new with the template?
 
-Greg has developed a [new template](http://gvwilson.github.io/lesson-example/)
+The lesson maintainers have developed a [new template](http://gvwilson.github.io/lesson-example/)
 that comes with features that have been repeatedly requested such as an easy way
 to navigate among episodes within a lesson: there are now "previous" and "next"
 arrows in each episode.
 
-This new template does not require having to go through pandoc. Currently, the
+This new template does not require having to use pandoc. Currently, the
 lessons are written in Markdown, and converted into HTML by our lesson
 maintainers using a wonderful piece of software called
 [pandoc](http://pandoc.org/).  Instead, the new template uses
@@ -26,7 +26,9 @@ into HTML. Lesson maintainers will still need to have jekyll installed to check
 that the website gets generated correctly, but the conversion from Markdown to
 HTML for our online lessons will be handled directly by jekyll on the GitHub
 servers. This means less work for our lesson maintainers and contributors, as
-they will only to change to the markdown files.
+they will only to change to the markdown files. It also means that we will not
+have to put the generated HTML files in the repository, which removes another
+common source of error and frustration.
 
 ## What does it mean for the lessons written in RMarkdown?
 
