@@ -1,0 +1,39 @@
+---
+layout: page-fullwidth
+permalink: /join/subcom/maintainers/
+email: 'lessons@software-carpentry.org'
+subcomName: Maintainers
+purpose: "The Maintainers Subcommittee is responsible for maintaining and publishing our core lessons, and for overseeing development of the workshop and lesson templates."
+join: "<p>This committee is comprised of the maintainers of <a href='{{site.baseurl}}/lessons/'>our core lessons</a>.</p>"
+activities: 
+  - title: "Lesson Maintenance"
+    description: "Maintainers oversee the editing and merging of proposed improvements to our core lessons."
+  - title: "Template Development"
+    description: "Maintainers develop and vote on changes to the templates and tooling used for our workshops and lessons."
+  - title: "Publication"
+    description: "Maintainers decide on the publication (release) schedule for lessons."
+---
+
+<h1>{{page.subcomName}} Subcommittee</h1>
+
+<h3>Purpose and Scope</h3>
+<p>{{page.purpose}}</p>
+
+<h3>What We Do</h3>
+<ul>
+  {% for activity in page.activities %}
+    <li>
+      <h4>{{activity.title}}</h4>
+      <p>{{activity.description}}</p>
+    </li>
+  {% endfor %}
+</ul>
+
+<h3>Join Us</h3>
+{{page.join}}
+
+<h3>Current Members</h3>
+<p>
+  Please see <a href="{{site.baseurl}}/lessons">the lessons page</a>
+  for an up-to-date list of lesson maintainers.
+</p>

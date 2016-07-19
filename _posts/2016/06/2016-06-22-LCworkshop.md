@@ -6,8 +6,7 @@ date: 2016-06-22
 time: "00:00:01"
 category: ["workshops", "Library Carpentry"]
 ---
-
-##Teaching Library Carpentry 
+## Teaching Library Carpentry 
 
 I ran a two-day 'Library Carpentry' [workshop](http://weaverbel.github.io/2016-06-13-LibCarp/index.html) for librarians at [The University of Queensland](http://www.uq/edu.au/) on 13-14 June. The class covered
 

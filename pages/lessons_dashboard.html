@@ -7,19 +7,37 @@ redirect_from:
 ---
 <p>Last rebuilt {{site.data.dashboard.timestamp}}.</p>
 {% for record in site.data.dashboard.records %}
-  <h2>{{record.ident}}</h2>
-  <h4><a href="{{record.url}}">{{record.description}}</a></h4>
-  {% if record.issues.size > 0 %}
+  <h2>{{record.description}}: <a href="{{record.url}}">{{record.ident}}</a></h2>
   <table class="table table-striped">
-    {% for i in record.issues %}
-    <tr>
-      <td width="5%"><a href="{{i.url}}">{{i.number}}</a></td>
-      <td width="10%">{{i.updated}}</td>
-      <td width="85%">{{i.title}}</td>
-    </tr>
-    {% endfor %}
+    {% if record.pulls.size > 0 %}
+      <tr>
+        <th colspan="3">Pull Requests</th>
+      </tr>
+      {% for i in record.pulls %}
+      <tr>
+        <td width="5%"><a href="{{i.url}}">{{i.number}}</a></td>
+        <td width="10%">{{i.updated}}</td>
+        <td width="85%">{{i.title}}</td>
+      </tr>
+      {% endfor %}
+    {% else %}
+      <tr>
+	<th colspan="3">No pull requests</th>
+    {% endif %}
+    {% if record.issues.size > 0 %}
+      <tr>
+        <th colspan="3">Issues</th>
+      </tr>
+      {% for i in record.issues %}
+      <tr>
+        <td width="5%"><a href="{{i.url}}">{{i.number}}</a></td>
+        <td width="10%">{{i.updated}}</td>
+        <td width="85%">{{i.title}}</td>
+      </tr>
+      {% endfor %}
+    {% else %}
+      <tr>
+	<th colspan="3">No issues</th>
+    {% endif %}
   </table>
-  {% else %}
-  <p>No issues.</p>
-  {% endif %}
 {% endfor %}
