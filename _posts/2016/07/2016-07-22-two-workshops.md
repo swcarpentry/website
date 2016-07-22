@@ -51,6 +51,8 @@ took three goes as the repository I was pushing to had not yet granted the neces
 
 But it all worked out in the end, and people said they enjoyed the session. 
 
+To help people keep up, we had the lesson open on one of the projector screens in the room, while the instructor live-coded on another. This really helped people stay on track and not get lost. We could not do this in Brisbane as we had only one screen to work with, but where there are multiple screens avaialable, this can work really well.
+
 Toowoomba was the fifth city in Queensland where Software Carpentry has been taught since we ran our first-ever workshop here
 in 2014. We hope to clock up a sixth town with a workshop at 
 the [University of the Sunshine Coast](http://www.usc.edu.au) later this year. 
