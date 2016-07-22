@@ -6,7 +6,7 @@ date: 2016-06-22
 time: "00:00:01"
 category: ["surveys", "workshops"]
 ---
-##Calling all Software Carpentry workshop attendees! 
+## Calling all Software Carpentry workshop attendees! 
 
 I’d like 10 minutes of your time to complete a 
 [survey](https://survey.its.uq.edu.au/Checkbox/Software-Carpentry-Trainee-Survey.aspx)
@@ -41,7 +41,8 @@ You can contact me directly at `thesiscarpentry` AT `gmail.com`
 
 Thank you in advance !
 
-##About me
+## About me
+
 I am a certified Software Carpentry and Data Carpentry instructor, based in Brisbane Australia. 
 I was recently elected to the Software Carpentry Steering Committee, and have served on the Mentorship Committee. 
 I am really hoping this research will provide useful insights into what 
