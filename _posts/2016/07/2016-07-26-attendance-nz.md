@@ -2,7 +2,7 @@
 layout: post
 authors: ["Tom Kelly", "Mik Black", "Sung Bae", "Wolfgang Hayek", "Aleksandra Pawlik"]
 title: "Software Carpentry workshop attendance: a New Zealand perspective"
-date: 2016-07-21
+date: 2016-07-26
 time: "00:00:01"
 category: ["Attendance"]
 ---
