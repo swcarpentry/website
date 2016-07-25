@@ -29,7 +29,7 @@ Newly minted instructor [Francis Gacenga](https://twitter.com/fgacenga) taught p
 while [Leah Roberts](https://twitter.com/Loolibear) taught Python for the first time, having taught her first 
 session of Git at the Brisbane workshop a week before. 
 
-Apart from Leah, the instructors for the Brisbane workshop were a mixture of old hands - [Areej Al-Sheikh](https://twitter.com/areejalsheikh), [Paula Martinez](https://twitter.com/orchid00), and me, with one newbie, 
+Apart from Leah, the instructors for the Brisbane workshop were a mixture of experienced trainers - [Areej Al-Sheikh](https://twitter.com/areejalsheikh), [Paula Martinez](https://twitter.com/orchid00), and me, with one newbie, 
 [Joshua Thia](https://twitter.com/joshua_thia), who certified as an instructor this week, having trained in the 
 same January cohort as Leah and Francis under the expert eye of [Aleksandra Pawlik](https://twitter.com/aleksandrana).
 
