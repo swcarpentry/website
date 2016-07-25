@@ -6,7 +6,7 @@ date: 2016-07-26
 time: "00:00:01"
 category: ["Workshops"]
 ---
-The first Software Carpentry workshop to be held at Curtin University (and the third in WA) started on Monday 18 July. 
+The first Software Carpentry workshop to be held at Curtin University (and the third so far in WA) started on Monday 18 July. 
 We decided early to experiment with the timetable and spread the course over four half days. 
 Monday was for the [Unix Shell](https://twitter.com/CurtinIC/status/754850455797190657), 
 Tuesday and Wednesday for [Programming with Python](https://twitter.com/CurtinIC/status/755613286192721920) and 
