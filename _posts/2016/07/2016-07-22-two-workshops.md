@@ -29,8 +29,7 @@ Newly minted instructor [Francis Gacenga](https://twitter.com/fgacenga) taught p
 while [Leah Roberts](https://twitter.com/Loolibear) taught Python for the first time, having taught her first 
 session of Git at the Brisbane workshop a week before. 
 
-Apart from Leah, the instructors for the Brisbane workshop were a mixture of old hands - [Areej Al-Sheikh]
-(https://twitter.com/areejalsheikh), [Paula Martinez](https://twitter.com/orchid00), and me, with one newbie, 
+Apart from Leah, the instructors for the Brisbane workshop were a mixture of experienced trainers - [Areej Al-Sheikh](https://twitter.com/areejalsheikh), [Paula Martinez](https://twitter.com/orchid00), and me, with one newbie, 
 [Joshua Thia](https://twitter.com/joshua_thia), who certified as an instructor this week, having trained in the 
 same January cohort as Leah and Francis under the expert eye of [Aleksandra Pawlik](https://twitter.com/aleksandrana).
 
@@ -51,7 +50,7 @@ took three goes as the repository I was pushing to had not yet granted the neces
 
 But it all worked out in the end, and people said they enjoyed the session. 
 
-To help people keep up, we had the lesson open on one of the projector screens in the room, while the instructor live-coded on another. This really helped people stay on track and not get lost. We could not do this in Brisbane as we had only one screen to work with, but where there are multiple screens avaialable, this can work really well.
+To help people keep up, we had the lesson open on one of the projector screens in the room, while the instructor live-coded on another. This really helped people stay on track and not get lost. We could not do this in Brisbane as we had only one screen to work with, but where there are multiple screens available, this can work really well.
 
 Toowoomba was the fifth city in Queensland where Software Carpentry has been taught since we ran our first-ever workshop here
 in 2014. We hope to clock up a sixth town with a workshop at 
