@@ -16,7 +16,7 @@ We offered 40 places, and it was already fully booked with a couple of weeks to 
 Most participants were from Curtin University, but there were also some attendees from CSIRO and other places.
 
 [Matthias](https://twitter.com/mpfl), [Andrea](https://twitter.com/andreabedini), [Philipp Bayer](https://twitter.com/PhilippBayer)
-and [Andrew Rohl]9https://twitter.com/andrewrohl) took turns to instruct with a large group of friendly and 
+and [Andrew Rohl](https://twitter.com/andrewrohl) took turns to instruct with a large group of friendly and 
 enthusiastic helpers (thank you David, Janice, Kevin, Rebecca, Rob, Stef & Vicky). 
 More thanks go to Shiv and Rebecca, who staffed the software installation help-desk on the Friday before.
 
