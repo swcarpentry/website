@@ -3,7 +3,7 @@ layout: post
 authors: ["Greg Wilson"]
 title: "Reopening Instructor Training"
 date: 2016-07-25
-time: "00:09:00"
+time: "00:04:00"
 category: ["Instructor Training"]
 ---
 
