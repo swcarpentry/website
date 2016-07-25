@@ -19,7 +19,9 @@ for its instructor training program:
 
 We have made a lot of progress on all three,
 and are therefore now able to offer instructor training once again
-to people who aren't affiliated with our partner organizations.
+to people who aren't affiliated with our partner organizations,
+but would like to teach Software Carpentry, Data Carpentry, or both
+(as the course is shared by both organizations).
 If you wish to apply to take part
 in one of the two open-enrollment classes we will offer this fall,
 please fill in the form at:
@@ -33,6 +35,15 @@ We will notify applicants as spaces become available.
 If you have any questions,
 please mail
 [training@software-carpentry.org](mailto:training@software-carpentry.org).
+
+If you would like to accelerate the process,
+check out our [Partnership program]({{site.baseurl}}/scf/join/).
+Organizational partners make ongoing commitments to supporting our organization
+and are prioritized for instructor training.
+If you need help making the case at your organization,
+feel free to contact us at
+[partnerships@software-carpentry.org](mailto:partnerships@software-carpentry.org):
+we'd be happy to help.
 
 Please note that as a condition of taking this training, you must:
 
@@ -48,15 +59,6 @@ Please note that as a condition of taking this training, you must:
     The tasks take a total of approximately 8-10 hours,
     and are described at
     <http://swcarpentry.github.io/instructor-training/checkout/>.
-
-If you would like to accelerate the process,
-check out our [Partnership program]({{site.baseurl}}/scf/join/).
-Organizational partners make ongoing commitments to supporting our organization
-and are prioritized for instructor training.
-If you need help making the case at your organization,
-feel free to contact us at
-[partnerships@software-carpentry.org](mailto:partnerships@software-carpentry.org):
-we'd be happy to help.
 
 For more information on Software and Data Carpentry instructor training,
 please see the course material at:
