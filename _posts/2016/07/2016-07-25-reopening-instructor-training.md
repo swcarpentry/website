@@ -64,3 +64,6 @@ For more information on Software and Data Carpentry instructor training,
 please see the course material at:
 
 <http://swcarpentry.github.io/instructor-training/>
+
+Please also see [this additional post]({{site.baseurl}}/blog/2016/07/more-on-instructor-training.html),
+which answers some frequently-asked questions about this training.
