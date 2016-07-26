@@ -44,6 +44,10 @@ and will update this post as others arrive.
     and all of the other factors in
     [the application form](https://amy.software-carpentry.org/workshops/request_training/).
 
+**When will selections be made?**
+:   We will start notifying people in a few weeks
+    (i.e., the second half of August).
+
 **Will you offer more open-enrollment classes in future?**
 :   Yes.
 
