@@ -48,6 +48,11 @@ and will update this post as others arrive.
 :   We will start notifying people in a few weeks
     (i.e., the second half of August).
 
+**In what time zones will classes take place?**
+:   We haven't decided yet,
+    but they will be aimed at different timezones
+    so that we can accommodate the widest possible range of participants.
+
 **Will you offer more open-enrollment classes in future?**
 :   Yes.
 
