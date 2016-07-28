@@ -20,6 +20,10 @@ and [Andrew Rohl](https://twitter.com/andrewrohl) took turns to instruct with a 
 enthusiastic helpers (thank you David, Janice, Kevin, Rebecca, Rob, Stef & Vicky). 
 More thanks go to Shiv and Rebecca, who staffed the software installation help-desk on the Friday before.
 
+We find the software installation helpdesk to be an important part of a Software Carpentry workshop to help people with any problems. However, we found that only a few people take the opportunity to come along to a helpdesk organised before the main workshop. In light of some of the problems we had -- on the first day we found out `nano` was not working on some Windows installations, and on the second day, we had some Python installation problems -- we will move the helpdesk from a pre-workshop timeslot and make it part of the first day instead.
+
+The next Software Carpentry workshop held at Curtin will have an 'installation party' to kick off the workshop, helping us to figure out problems early on and ensuring the smooth running of the following lessons.
+
 Despite some minor hiccups with sticky notes that didn’t want to stick 
 and some misbehaving software, everything went smoothly. 
 We look forward to seeing some SWC graduates at [CU Hacky Hour](http://cuhackyhour.github.io/) next week!
