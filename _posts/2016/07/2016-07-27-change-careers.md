@@ -58,3 +58,5 @@ people in other industries.
 Just like in research, the point is not to turn learners in those industries 
 into computer programmers (and the instructor is not meant to be a software guru). 
 The purpose is to provide the necessary programming literacy to produce better and more reliable outcomes.
+
+*Marco Fahmi is a Brisbane-based data scientist and former research project manager, with a strong interest in open data and data journalism. He tweets as [dataronin](https://twitter.com/dataronin).*
