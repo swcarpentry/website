@@ -139,6 +139,15 @@ what's are the equivalents of error avoidance and edit-order freedom for teachin
 If anyone knows of a rubric like this,
 I'd be grateful for a pointer.
 
+See also [this post from Mark Guzdial](https://computinged.wordpress.com/2016/06/20/how-to-choose-programming-languages-for-learners/)
+that identifies five principles for selecting a programming language for learners:
+
+1. Connect to what learners know
+1. Keep cognitive load low
+1. Be honest
+1. Be generative and productive
+1. Test, don’t trust
+
 ---   
 
 Michael Kölling and Fraser McKay: "[Heuristic Evaluation for Novice Programming Systems]((https://kar.kent.ac.uk/55885/1/kolling-heuristics-submitted.pdf))". *ACM Transactions on Computing Education*, 16(3), June 2016, 10.1145/2872521.
