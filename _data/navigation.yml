@@ -73,6 +73,8 @@
     url: "/join/projects/"
   - title: "Help Wanted"
     url: "/join/help/"
+  - title: "Subcommittees and Task Forces"
+    url: "/join/subcom_and_tf/"
   - title: "Reading Material"
     url: "/reading/"
 

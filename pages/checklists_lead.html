@@ -44,7 +44,7 @@ redirect_from:
   </li>
   <li>
     <p>
-      <strong>Email the workshop's URL to <a href="{{site.contact}}">the administrators</a></strong>
+      <strong>Email the workshop's URL to <a href="mailto:{{site.contact}}">the administrators</a></strong>
       so that they can add it to our database.
       The workshop will then show up on the main website the next time it is rebuilt
       (which typically happens hourly).
@@ -130,6 +130,16 @@ redirect_from:
       Send email to potential learners saying that registration is now open.
     </p>
   </li>
+  <li>
+    <p>
+      Create an Etherpad for the workshop by going to <a href="http://pad.software-carpentry.org/">http://pad.software-carpentry.org/YYYY-MM-DD-site</a>
+      (where "YYYY-MM-DD-site" is the ID of your workshop).
+      You should add this link to the <code>etherpad</code> field in the header of your workshop's home page
+      so that it shows up on your workshop's website.
+      Note: please don't use our Etherpad for activities other than workshops&mdash;our server
+      struggles to keep up with the load sometimes as it is.
+    </p>
+  </li>
 </ul>
 
 <h2>A Week Before</h2>
@@ -143,7 +153,13 @@ redirect_from:
       It should also remind them of the workshop's location
       (and if it is running in two or more rooms,
       tell them which one to go to).
-      A <a href="#email">template email message</a> is included in this checklist.
+      A <a href="#email-learners">template email message</a> is included in this checklist.
+    </p>
+  </li>
+  <li>
+    <p>
+      <strong>Send a reminder email to helpers.</strong>
+      A <a href="#email-helpers">template email message for helpers</a> is included in this checklist.
     </p>
   </li>
   <li>
@@ -285,7 +301,7 @@ redirect_from:
   </li>
 </ul>
 
-<h2>Template for Pre-Workshop Email</h2>
+<h2 id="email-learners">Template for Pre-Workshop Email to Learners</h2>
 <p>
   Hi,
 </p>
@@ -346,4 +362,64 @@ redirect_from:
 </p>
 <p>
   We look forward to seeing you soon.
+</p>
+
+<h2 id="email-helpers">Template for Pre-Workshop Email to Helpers</h2>
+<p>
+  Hello Helpers,
+</p>
+<p>
+  Thank you for signing up to help with the upcoming [FIXME: type]
+  workshop taking place at [FIXME: location] on [FIXME: date/time]. As
+  a helper, if you're unfamiliar with any of the topics that we're
+  going to teach, take some time to look at the lessons [FIXME: links]
+  to see some of the examples and exercises that we're going to go
+  through.
+</p>
+<p>
+  Before the workshop, try and install any of the required software
+  and go through the lesson yourself. Feel free to create an issue in
+  Github if you have any comments or catch any mistakes.
+</p>
+<p>
+  On the day of your shift as a helper, please arrive 10-15 minutes
+  early to help learners set up and run through some possible issues
+  with installation and other questions that the attendees might have
+  with the topic. Once the lesson starts, you will float around and
+  help students that have any questions, help them work through
+  exercises they might be stuck on, and/or check if they completed the
+  exercises correctly.  Some issues that commonly come up include:
+</p>
+<ul>
+  <li>
+    installation problems: installing required dependencies, path conflicts
+  </li>
+  <li>
+    permission issues
+  </li>
+  <li>
+    formatting and syntax errors when writing out commands or scripts
+  </li>
+  <li>
+    not having files or directories set up the same way
+  </li>
+  <li>
+    not being in the right directory
+  </li>
+  <li>
+    lesson going too fast: did not have enough time to copy the examples or links
+  </li>
+</ul>
+<p>
+  These workshops are designed to be flexible and casually paced, so
+  if you come across a question or point that you think would be
+  relevant to the entire class, please share it out loud or on the
+  etherpad. Remember, this is not an instructor-knows-best
+  environment: we are all here to help each other!
+</p>
+<p>
+  For more information about your role as a helper, please see the helper
+  checklist at
+  <a href="{{site.baseurl}}/checklists/helper/">{{site.baseurl}}/checklists/helper/</a>.
+  Thanks again for signing up - we'll see you soon.
 </p>
