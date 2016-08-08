@@ -38,3 +38,5 @@ The best part was the email that arrived an hour after it finished:
 > and solved a problem that's been plaguing me for a month.
 >
 > THANK YOU for such a great workshop, it's already useful!!
+
+![Library Carpentry in Toronto]({{site.baseurl}}/files/2016/07/toronto-library-carpentry.jpg)
