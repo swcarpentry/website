@@ -20,6 +20,6 @@ The Carpentries are convening a joint Policy Subcommittee. Members of this group
 
 Regardless of your interest in joining the Policy Subcommittee, we invite all of our community members to give us feedback on the CoC Reporting Guide and Enforcement Manual. These documents can be found [here](https://docs.google.com/document/d/1I3o8bEGcLfcfk6FkSOK8IBh5f1eodQqyca2ViUzm3DU/edit) as a Google Doc. The finalized policy will take into account community comments, so please add your voice to the discussion! If, for any reason, you would be more comfortable communicating your comments privately, please feel free to [email](mailto:ebecker@datacarpentry.org) DC's Associate Director Erin Becker (ebecker@datacarpentry.org) and I will ensure that your voice is represented in the discussion.
 
-The upcoming Lab Meeting will include a discussion of these issues. We incourage all community members to attend and share your thoughts. The Lab Meeting will be held Tuesday, August 16th at 1pm UTC and 10pm UTC.
+The upcoming Lab Meeting will include a discussion of these issues. We encourage all community members to attend and share your thoughts. The Lab Meeting will be held Tuesday, August 16th at 1pm UTC and 10pm UTC.
 
 We greatly appreciate the diverse insights our community members have brought to this discussion so far and look forward to hearing more from you as we continue to engage on this important topic.
