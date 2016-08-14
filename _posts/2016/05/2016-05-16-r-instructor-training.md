@@ -22,11 +22,11 @@ Please note that as a condition of taking this training:
     which can be found at <http://software-carpentry.org/conduct/>.
 
 2.  You must complete three short tasks after the course in order to complete certification.
-    The tasks are described at <http://swcarpentry.github.io/instructor-training/checkout/>,
+    The tasks are described at <{{site.training_url}}/checkout/>,
     and take a total of approximately 2 hours.
 
 3.  You are expected to teach at a Software Carpentry or Data Carpentry workshop
     within 12 months of the course.
 
 For more information on Software and Data Carpentry instructor training,
-please see <http://swcarpentry.github.io/instructor-training/>.
+please see <{{site.training_url}}>.
