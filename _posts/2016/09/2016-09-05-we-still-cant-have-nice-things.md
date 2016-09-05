@@ -118,7 +118,7 @@ In our running example,
 the value of `site.github.url` is `http://gloom.github.io/despair`.
 Our layout can then use:
 
-    <link rel="stylesheet" type="text/css" href="{{site.github.url}}/css/pretty.css" />
+    <link rel="stylesheet" type="text/css" href="{% raw %}{{site.github.url}}{% endraw %}/css/pretty.css" />
 
 to refer to things.
 The double curly braces tell Jekyll to insert the variable's value,
@@ -192,57 +192,6 @@ It *is* a problem for people who want to contribute to lessons, though,
 since they will often want to preview their changes locally,
 and may well be doing that work on a plane or while otherwise disconnected.
 
-## Let's use relative URLs.
-
-Hang on --- what if we don't use absolute URLs at all?
-What if we use *relative URLs* everywhere?
-If a page is in the root directory of our website,
-it can refer to the CSS files using:
-
-    <link rel="stylesheet" type="text/css" href="./css/pretty.css" />
-
-If a page is in a sub-directory,
-it can use:
-
-    <link rel="stylesheet" type="text/css" href="../css/pretty.css" />
-
-i.e., use `..` instead of `.` as the first part of the path to the CSS file.
-That will always work;
-the trick is to get the path to the root directory of the website into each page.
-
-A sensible system would automatically give us a variable with this value.
-Jekyll doesn't,
-but we can define a variable for ourselves in each page's header.
-If the page is in the root directory, `page.root` is `.`;
-if it's a level down, `page.root` is `..`,
-and so on.
-The layout pages can then link to the CSS using:
-
-    <link rel="stylesheet" type="text/css" href="{{page.root}}/css/pretty.css" />
-
-and everything's good.
-
-Except it's not.
-A page like `_layouts/page.html` doesn't actually link to CSS stylesheets itself.
-Instead,
-it uses {% raw %}{% include header.html %}{% endraw %}
-to include a fragment of HTML that has the actual links.
-We structure our layout pages this way because we have different ones for regular pages,
-blog posts,
-and other things,
-and we want to be sure that all of them always include the same files,
-have the same footer,
-and so on.
-It's exactly like putting shared code in a function instead of repeating it in several places.
-
-Unfortunately (I'm trying to be polite here),
-it turns out that variables defined in pages aren't passed into
-the fragments of HTML that are included by the layout pages.
-The value of `page.root` that a particular page defines
-therefore *won't* be inserted into `_includes/header.html`,
-and the path will once again be `/css/pretty.css`,
-which doesn't work.
-
 ## Let's define our own variable.
 
 All right,
@@ -251,7 +200,7 @@ Suppose each of our websites defines a variable called `site.baseurl` in its con
 to be the name of the project with a leading `/`.
 All of our web pages can then refer to things using:
 
-    <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/pretty.css" />
+    <link rel="stylesheet" type="text/css" href="{% raw %}{{site.baseurl}}{% endraw %}/css/pretty.css" />
 
 which Jekyll expands to something like:
 
@@ -286,11 +235,10 @@ and tells you "please go to this URL to preview your pages".
 That URL is *wrong* if we are using this `site.baseurl` trick:
 we actually need to go to `http://localhost:4000/despair` to get everything.
 
-## Standard isn't right for everyone.
+## Interlude: What's standard may not be right for everyone.
 
-Defining `site.baseurl` is [the standard workaround][baseurl] for this problem,
+Defining `site.baseurl` is [the standard workaround][baseurl] for the problem we're trying to solve,
 but it's not a good solution for us.
-
 First,
 many of our users are newcomers to HTML templating,
 web servers,
@@ -311,23 +259,95 @@ that will significantly increase people's frustration quotient.
 
 ## Overriding variables.
 
-We can tell Jekyll to read several configuration files when it runs,
-and each file can re-set variables set in previous files.
-GitHub,
-on the other hand,
-only reads `_config.yml`.
+Here's another approach.
+When Jekyll runs on GitHub,
+it reads its configuration from `_config.yml`,
+and *only* from `_config.yml`.
+When we run it on our desktops,
+though,
+we can tell Jekyll to read several configuration files,
+each of which can re-set variables set in previous files.
 We can therefore create a second configuration file called `_config_local.yml` (or any other name we choose)
 and have it define `site.baseurl` to be the empty string.
 When we want to preview locally,
 we pass Jekyll extra parameters to tell it to read this configuration file,
 and all the URLs are then correct for a local build.
+
 This works ---
-until someone just runs `jekyll serve` on the command line as they are used to doing,
-and boom,
+until someone just runs `jekyll serve` on the command line
+as they would normally do
+(and as all the online documentation tells them to).
+Boom:
 the CSS isn't loaded.
 Again,
 this isn't speculation
 (though it probably affects fewer people).
+
+## Let's use relative URLs.
+
+What if we don't use absolute URLs at all?
+What if we use *relative URLs* everywhere?
+If a page is in the root directory of our website,
+it can refer to the CSS files using:
+
+    <link rel="stylesheet" type="text/css" href="./css/pretty.css" />
+
+If a page is in a sub-directory,
+it can use:
+
+    <link rel="stylesheet" type="text/css" href="../css/pretty.css" />
+
+i.e., use `..` instead of `.` as the first part of the path to the CSS file.
+That will always work;
+the trick is to get the path to the root directory of the website into each page.
+
+A sensible system would automatically give us a variable
+with the path to the project's root directory.
+Jekyll doesn't,
+but we can define a variable for ourselves in each page's header.
+If the page is in the root directory, `page.root` is `.`;
+if it's a level down, `page.root` is `..`,
+and so on.
+The layout pages can then link to the CSS using:
+
+    <link rel="stylesheet" type="text/css" href="{% raw %}{{page.root}}{% endraw %}/css/pretty.css" />
+
+Requiring every single page to define a particular variable
+when almost all of those pages will give it the same value
+feels like sloppy programming practice.
+Luckily for us,
+Jekyll provides a way to set a default.
+If we add this:
+
+    defaults:
+      - values:
+          root: ..
+
+to `_config.yml`,
+then every page gets a variable called `root` with the value `..`.
+This *almost* does what we want:
+when we compile the Markdown file `melancholy.md`,
+we are creating a page `melancholy/index.html` in the output directory,
+so that its URL is `http://gloom.github.io/despair/melancholy/`.
+(By convention,
+a URL that ends with a slash `/` is assumed to refer to a directory,
+and the file we actually want is the `index.html` file in that directory.)
+Thus,
+all of our pages are one level below the root directory in the output directory,
+so they all want `page.root` to be `..`
+
+But there's one exception:
+the home page of the lesson itself.
+This page is `./index.html`,
+i.e.,
+it's the `index.html` file in the root directory of the whole lesson,
+so its `page.root` needs to be `.` rather than `..`
+We can handle that by explicitly defining `page.root` in `index.md`,
+which overrides the default set in `_config.yml`.
+Once we've done that,
+everything --- our pages, our layouts, our included HTML fragments ---
+can use `{% raw %}{{page.root}}{% endraw %}/this/that`
+to refer to whatever they want.
 
 ## How this got into production.
 
@@ -335,13 +355,13 @@ The new template that we deployed in June 2016 uses `site.github.url`.
 We recognized the problem with HTTP vs. HTTPS early on,
 so the standard layouts shared by all the lessons do this:
 
-    <link rel="stylesheet" type="text/css" href="{{ site.github.url | replace_first: 'http:', 'https:' }}/css/pretty.css" />
+    <link rel="stylesheet" type="text/css" href="{% raw %}{{ site.github.url | replace_first: 'http:', 'https:' }}{% endraw %}/css/pretty.css" />
 
 i.e., they convert the `http` prefix given in `site.github.url` into `https`.
 That solved the problem for pages served from `github.io` domains,
 but not for domains using CNAME:
 GitHub even says that [they don't support HTTPS and CNAME domains](github-cname) (paragraph 3).
-I didn't spot this because I think to test pages on CNAME'd domains:
+I didn't spot this because I didn't think to test pages on CNAME'd domains:
 once it worked for HTTPS on GitHub,
 I assumed it would work everywhere.
 
@@ -350,27 +370,14 @@ Hacks like turning `http` into `https` *always* break,
 and if one of my GSoC students had tried to put something like this into production,
 I would have told them to think again.
 
-## What now?
-
-That's a good question.
-
-1. We *must* be able to serve pages from CNAME domains using both HTTP and HTTPS.
-
-2. We *must* have exactly the same layouts for all our lessons and the workshop template.
-
-3. We *want* people who are creating workshop websites to only have to edit `index.html`, not `_config.yml`.
-
-4. We *want* people who are previewing locally to be able to run Jekyll in a standard way.
-
-If there's a way out of this, I haven't found it yet.
-What it's taught me already is that we still can't have nice things ---
+The real lesson from this episode is that we still can't have nice things ---
 or rather,
 we can't have them all at once.
 GitHub Pages are a great way for people to build simple little web sites.
 Templating tools like Jekyll are great too,
-as is HTTPS,
+and HTTPS is essential,
 but when you try to combine them,
-you this [this][science-experiment].
+you wind up with [this][science-experiment].
 If we really want people to do open research,
 we have to make openness a lot less frustrating.
 
