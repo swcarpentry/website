@@ -1,15 +1,16 @@
 ---
 layout: post
 authors: ["Greg Wilson"]
-title: "We Still Can't Have Nice Things"
+title: "We Still Can't Have Nice Things Together"
 date: 2016-09-05
 time: "00:01:00"
 category: ["Opinion"]
 ---
 
 Last year I used YAML and Norway to explain why [why we can't have nice things][nice-things].
-I've just stumbled over another example which may force us to re-do some of the work we did
-to publish our lessons a couple of months ago.
+We've just stumbled over a problem that has forced us to re-do some of the work we did
+to publish our lessons a couple of months ago,
+and which illustrates how openness can still be frustrating to actually do.
 Are you sitting comfortably?
 Then let's begin.
 
@@ -345,9 +346,12 @@ so its `page.root` needs to be `.` rather than `..`
 We can handle that by explicitly defining `page.root` in `index.md`,
 which overrides the default set in `_config.yml`.
 Once we've done that,
-everything --- our pages, our layouts, our included HTML fragments ---
-can use `{% raw %}{{page.root}}{% endraw %}/this/that`
+our pages, layouts, and included HTML fragments can all use `{% raw %}{{page.root}}{% endraw %}/this/that`
 to refer to whatever they want.
+It's not ideal --- we'll have to explain it to people who've used Jekyll before,
+and if we ever create deeper directory hierarchies,
+it will quickly become as complicated as the alternatives we've discarded ---
+but it's good enough for now.
 
 ## How this got into production.
 
