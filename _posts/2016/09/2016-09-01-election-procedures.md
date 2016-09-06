@@ -27,7 +27,9 @@ We envision the timeline as follows:
 * April: New committee begins normal operations
 
 An elected member, therefore, is obligated from the February in 
-which they are elected through March of the following year.
+which they are elected through March of the following year. This amendment 
+does not change the time period during which an elected Steering Committee 
+has voting privileges.
 
 To see how this amendment fits into existing governance rules, 
 [please go here](https://github.com/swcarpentry/board/pull/130). 
