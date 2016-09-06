@@ -10,10 +10,10 @@ category: ["steering committee"]
 The Steering Committee will be holding a special election on October 10-14
 regarding the following amendment to Steering Committee elections:
 
-**"Following an election, the new Steering Committee will meet jointly 
-with the previous Steering Committee for no less than 60 days. During 
-these joint meetings, the new SC will not have voting privileges. 
-After 30 days, voting privileges are transferred to the new SC."**
+**“Following an election, the new Steering Committee will meet jointly 
+with the previous Steering Committee for no less than 60 days. For meetings 
+during the first 30 first days, the new SC will not have voting privileges. 
+After 30 days, voting privileges are transferred to the new SC.”**
 
 We believe this amendment is necessary to provide continuity in leadership 
 following elections as the Steering Committee transitions to its new members. 
