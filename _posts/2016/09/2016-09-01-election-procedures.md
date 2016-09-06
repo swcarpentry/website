@@ -24,7 +24,7 @@ We envision the timeline as follows:
 * February: Elections, first joint meeting, new committee nominates officers
 * March: Second joint meeting, new committee elects officers, old committee 
   attends meeting but no longer has voting rights
-* April: New committee begins normal operations
+* April: New committee continues normal operations
 
 An elected member, therefore, is obligated from the February in 
 which they are elected through March of the following year. This amendment 
