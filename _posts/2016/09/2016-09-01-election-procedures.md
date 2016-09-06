@@ -32,7 +32,9 @@ does not change the time period during which an elected Steering Committee
 has voting privileges.
 
 To see how this amendment fits into existing governance rules, 
-[please go here](https://github.com/swcarpentry/board/pull/130). 
+[please go here](https://github.com/swcarpentry/board/pull/130). If you have 
+questions regarding this amendment, you are welcome to add them to this pull 
+request.
 
 Given that the current Steering Committee is only the second to be elected 
 by the community, we are committed to continue developing procedures and 
