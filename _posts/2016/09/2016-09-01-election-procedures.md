@@ -22,7 +22,8 @@ We envision the timeline as follows:
 * November: Elections announced (90 days prior)
 * January: Candidate applications due; lab meeting to discuss candidates
 * February: Elections, first joint meeting, new committee nominates officers
-* March: Second joint meeting, new committee elects officers
+* March: Second joint meeting, new committee elects officers, old committee 
+  attends meeting but no longer has voting rights
 * April: New committee begins normal operations
 
 An elected member, therefore, is obligated from the February in 
