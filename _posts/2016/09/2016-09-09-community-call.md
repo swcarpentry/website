@@ -1,0 +1,25 @@
+---
+layout: post
+authors: ["Tracy Teal and Kate Hertweck"]
+title: "September Carpentries Community Call"
+date: 2016-09-09
+time: "00:16:00"
+category: ["Community"]
+---
+
+Our next Carpentries Community Call (formerly called Lab Meeting or 
+Town Hall meeting) will be help Thursday, September 15. These meetings will now be 
+monthly on the third Thursday of every month. It would be great to 
+see instructors there! These calls are a great chance to connect with 
+other Carpentry instructors and get updates and information on 
+important and interesting topics for the community. 
+
+Topics this month will include:
+* New lesson template
+* Policy committee and update on CoC
+* IRB approval and updates on assessment 
+* Highlighting manuscripts from our community
+* Election on rules for Software Carpentry Steering Committee
+
+Head over to the [etherpad](http://pad.software-carpentry.org/community-call-2016-09-15) 
+to let us know you'll be attending one of the two sessions.
