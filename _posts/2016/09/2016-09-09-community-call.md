@@ -1,6 +1,6 @@
 ---
 layout: post
-authors: ["Tracy Teal and Kate Hertweck"]
+authors: ["Tracy Teal", "Kate Hertweck"]
 title: "September Carpentries Community Call"
 date: 2016-09-09
 time: "00:16:00"
@@ -8,11 +8,15 @@ category: ["Community"]
 ---
 
 Our next Carpentries Community Call (formerly called Lab Meeting or 
-Town Hall meeting) will be help Thursday, September 15. These meetings will now be 
+Town Hall meeting) will be Thursday, September 15 (September 16 Aus/NZ). These meetings will now be 
 monthly on the third Thursday of every month. It would be great to 
 see instructors there! These calls are a great chance to connect with 
 other Carpentry instructors and get updates and information on 
 important and interesting topics for the community. 
+
+Times: 
+* 7am Pacific / 10am Eastern / 2pm UTC / 12am (Sept 16th) Sydney
+* 4pm Pacific / 7pm Eastern / 11pm UTC / 9am (Sept 16th) Sydney
 
 Topics this month will include:
 * New lesson template
