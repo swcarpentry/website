@@ -17,7 +17,7 @@ category: ["Community"]
 
 
 ##Tweets
-*  Excel might be to blame for your [convertion mistakes](https://science.slashdot.org/story/16/08/23/2222258/20-of-scientific-papers-on-genes-contain-conversion-errors-caused-by-excel-says-report).
+*  Excel might be to blame for your [conversion mistakes](https://science.slashdot.org/story/16/08/23/2222258/20-of-scientific-papers-on-genes-contain-conversion-errors-caused-by-excel-says-report).
 *  Software Sustainability Institute fellowship programme 2017 [applications](http://us7.campaign-archive2.com/?u=628ee3fc74b8ef3497e3a7b66&id=23b22be856&e=abcbfb99e7) now open.
 *  Learn how to make your research analysis better and reproducible at [PyConZA 2016](https://za.pycon.org/).
 *  Read more about [Academic archetypes](http://www.benlaken.com/blog/?id=27).
