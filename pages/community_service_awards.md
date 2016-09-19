@@ -30,8 +30,18 @@ Awards will be considered in the order in which they are received.  In
 the event that more than one award is proposed in a given period the
 Steering Committee may elect to hold over a proposal.
 
-Proposals should be made confidentially to the Board by sending email
-to [confidential@software-carpentry.org](mailto:confidential@software-carpentry.org).
+Proposals should be made confidentially to the Board by sending email to
+[nominations@software-carpentry.org](mailto:nominations@software-carpentry.org).
+The nomination must include:
+
+*   the name of the person being nominated
+*   a short explanation of what they have contributed
+    and how it has helped the community
+    (no more than 200 words)
+*   where appropriate, a small set of links
+    to specific examples of their contributions
+    (e.g., links to mailing list discussions, pull requests, or workshops)
+
 The minutes of award considerations will not name the individuals
 concerned unless an award is made. The Steering Committee will contact
 proposers to keep them informed of the status of their proposals (such

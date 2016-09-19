@@ -13,5 +13,5 @@ Award as a way for its Steering Committee to recognize work which, in
 its opinion, significantly improves the Foundation's fulfillment of
 its mission and benefits the broader community.  Details are available
 on [this page]({{site.url}}/scf/awards/); nominations are welcome at
-any time, and we expect to make the first awards before the end of
-this year.
+any time, and we will make the first awards before the end of this
+year.
