@@ -62,7 +62,11 @@ but I'm not really sure what "this" is:
     but may all be red herrings.
     Yes,
     it's hard to write unit tests for spreadsheets,
-    but most people who do statistics in Python or R don't write unit tests for their scripts,
+    but it's possible:
+    Felienne Hermans found that 8% of spreadsheets included tests like
+    `if(A1<>5, "ERROR", "OK")`.
+    I'd be surprised if more than 8% of people who do statistics in Python or R
+    regularly write unit tests for their scripts,
     so the fact that they *could* is irrelevant.
 
 To be clear,
@@ -71,20 +75,23 @@ But if programming really is a better way to do science than using spreadsheets,
 surely we ought to be able to use science to prove it
 and to figure out *why*.
 
-What I'm really hoping is that if we can figure out how to answer an "obvious" question like this,
-we will then have the tools we need to tackle harder questions.
+What I'm *really* hoping is that if we figure out how to answer an "obvious" question like this,
+we will then have the tools we need to tackle harder ones.
 Was the switch to Python3 worth making?
-What about switching to Julia,
-or requiring people to do code reviews when they review papers?
-We debate decisions like this all the time,
-but I'm increasingly convinced that half of our disagreements
-are disagreements about what we actually mean.
+Will Julia be better *enough* than the languages we're using now
+to justify the hundreds or thousands of programmer-years it will take
+to build a comparable ecosystem?
+What about requiring people to do code reviews when they review papers–is that
+a better place for them to spend their time than having them pair-program
+as they're developing their own code?
+We make decisions like this all the time,
+but victory seems to go to the loud and the lucky more often than to the righteous.
 
 Leslie Lamport once said,
 "Writing is nature's way of letting you know how sloppy your thinking is."
 Experimental design has the same effect:
 it forces you to clarify what questions you're asking and how you're answering them.
 So instead of asking if anyone has *data* comparing Excel to programming languages,
-what I should have asked was,
-"What experiment would you run to decide whether spreadsheets are more or less error prone than equivalent programs?"
+I should have asked,
+"What experiment would you run to decide whether spreadsheets are more or less error prone than programs?"
 Answers to *that* would be very welcome.
