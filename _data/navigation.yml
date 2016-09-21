@@ -22,6 +22,8 @@
     url: "/scf/members/"
   - title: "Our History"
     url: "/scf/history/"
+  - title: "Community Service Awards"
+    url: "/scf/awards/"
   - title: "Privacy Policy"
     url: "/privacy/"
 
