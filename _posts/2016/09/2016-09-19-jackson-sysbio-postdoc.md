@@ -7,7 +7,7 @@ time: "19:00:00"
 category: ["Jobs"]
 ---
 
-The [Carter Lab] (https://www.jax.org/research-and-faculty/research-labs/the-carter-lab) at 
+The [Carter Lab](https://www.jax.org/research-and-faculty/research-labs/the-carter-lab) at 
 The Jackson Laboratory is seeking a Postdoctoral Fellow in computational genetics 
 and systems biology. Our group is developing novel computational methods to derive 
 biological models from large-scale genomic data. The strategies we pursue 
@@ -17,7 +17,7 @@ to control disease-related processes in animal models and human studies.
 We are especially interested in dissecting the genetic complexity of 
 autoimmune disease, neurodegeneration, and cancer.
 
-[The Jackson Laboratory] (http://www.jax.org) in Bar Harbor, Maine, USA, is 
+[The Jackson Laboratory](http://www.jax.org) in Bar Harbor, Maine, USA, is 
 recognized internationally for its excellence in research, unparalleled mouse 
 resources, outstanding training environment characterized by scientific collaboration 
 and exceptional core services - all within a spectacular setting adjacent to 
