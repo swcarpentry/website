@@ -7,7 +7,7 @@ time: "19:00:00"
 category: ["Jobs"]
 ---
 
-The [Carter Lab] (http://research.jax.org/faculty/greg_carter.html) at 
+The [Carter Lab] (https://www.jax.org/research-and-faculty/research-labs/the-carter-lab) at 
 The Jackson Laboratory is seeking a Postdoctoral Fellow in computational genetics 
 and systems biology. Our group is developing novel computational methods to derive 
 biological models from large-scale genomic data. The strategies we pursue 
