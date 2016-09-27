@@ -1,0 +1,77 @@
+---
+layout: post
+authors: ["Dan Jones", "Vicky Fan"]
+title: "Genomics R Software Carpentry workshop at the University of Auckland, New Zealand"
+date: 2016-07-25
+time: "00:00:01"
+category: ["Workshops"]
+---
+
+<p>A two day Software Carpentry workshop with R was held at the University of Auckland Winter Bootcamp
+  on 11-12 July. After a brief battle with the projector in the room,
+  Day 1 consisted of an eventful morning session on Unix Shell, the spontaneous explosion of
+  a glass door, followed by an introduction to programing with R.</p>
+
+
+<p><img src="{{site.baseurl}}/files/2016/07/auckland_unix.jpg" alt="Software Carpentry Training at Auckland - Winter bootcamp" width="800px"></p>
+<p><em>Dan Jones on Unix Shell. </em></p>
+
+<p><img src="{{site.baseurl}}/files/2016/07/auckland-unix-door.jpg" alt="Software Carpentry Training at Auckland - Winter bootcamp" width="800px"></p>
+<p><em>Dan’s talk on Unix Shell shatters the automatic door in the corridor. </em></p>
+
+
+<p>Day 2 consisted of the Git session, which was extremely relevant to our later
+  bioinformatics-specific workshops, since these are also Git repositories.
+  After the Git session, we had an open Q&amp;A session where all the attendees could
+  ask questions about any of the topics that we covered.</p>
+
+
+<p>The days 1 &amp; 2 made for a great build up to the bioinformatics sessions that were run later
+  in the week. As most bioinformatics-related software are optimised to run in the command line,
+  the Software Carpentry sessions enabled researchers to build confidence with using a Unix terminal and R.</p>
+
+<p>The Genome Assembly, Annotation and Visualisation started with Dan Jones’ declaration,
+  "I'm expecting everything go horribly wrong at setup" while setting up Virtual Box
+  on the attendees laptops. Thankfully Dan’s prediction was completely incorrect.
+  The workshop consisted of a virtualbox OVA file with Ubuntu 16.04 LTS, test data,
+  and preinstalled bioinformatics programs. Pro tip: Some intel chips on some computers
+  will completely block all virtualisation in the BIOS!</p>
+
+
+<p>Once the participants had their shiny new virtual machine set up,
+  we went through the process of assembling and annotating a new Eukaryotic
+  genome from scratch. We made all the workshop
+  <a href="https://github.com/Bioinformatics-Institute/genomics_Winter_bootcamp/wiki/Welcome">materials available on GitHub.</a>
+  The associated virtual machine is available on request.</p>
+
+
+<p>Day 3 was a workshop on Transcriptomics, again using the virtual machine we have constructed.
+  As before, this was a workshop delivered as a Git repository, using the Git wiki as the workshop
+  material. It’s based (and forked from) the excellent workshop produced by the
+  <a href="https://github.com/griffithlab/rnaseq_tutorial/wiki">Griffith Lab</a>, but was modified to
+  allow us to make it a 1-day workshop, and to add handling of ERCC spike-in
+  controls and to simplify some of the code.
+  Again, the <a href="https://github.com/Bioinformatics-Institute/transcriptomics_WBC/wiki"> materials are on GitHub</a>.
+ </p> 
+
+<p>Our excellent Metabarcoding workshop was run on day 5, with the objective being
+  to take raw sequence data from the machine and produce from that a table of OTUs,
+  with associated taxonomy. This workshop used a virtual machine and a set of premade scripts
+  to work through the different steps required to take raw sequence data and transform it
+  into a useable form for downstream analysis. We used QIIME and vsearch, which are
+  two different sets of software for metabarcoding analysis, to do this.
+ </p> 
+
+
+<p>A big thanks to all the presenters and helpers who made this series of workshops run
+  so smoothly: Dan Jones, Luke Boyle, Vicky Fan, Alex Stuckey and Nooriyah Lohani. </p>
+
+<p>
+  Note: transcriptomics tutorial heavily modified from: Malachi Griffith*, Jason R. Walker, Nicholas C. Spies,
+Benjamin J. Ainscough, Obi L. Griffith*. 2015.
+<em>Informatics for RNA-seq: A web resource for analysis on the cloud. </em>11(8):e1004393.
+<br/>
+*To whom correspondence should be addressed: E-mail: mgriffit[AT]genome.wustl.edu, ogriffit[AT]genome.wustl.edu
+</p>
+
+

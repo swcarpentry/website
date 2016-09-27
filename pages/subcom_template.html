@@ -1,0 +1,59 @@
+---
+layout: page-fullwidth
+permalink: /join/subcom/template
+email: "youremail@lists.software-carpentry.org"
+subcomName: Template
+purpose: "A one paragraph description of the purpose and scope of this subcommittee."
+join: "Some text encouraging people to get involved, and describing what opportunities there are to participate."
+activities: 
+  - title: "Activity One"
+    description: "Describe activity one"
+  - title: "Activity Two"
+    description: "Describe activity two"
+  - title: "Activity Three"
+    description: "Describe activity three"
+members:
+  - name: "First Last A"
+    twitter: "@first_lasts_twitter_handle"
+    twitterURL: "https://twitter.com/first_lasts_twitter_handle"
+  - name: "First Last B"
+    twitter: "@first_lasts_twitter_handle"
+    twitterURL: "https://twitter.com/first_lasts_twitter_handle"
+  - name: "First Last C"
+    twitter: "@first_lasts_twitter_handle"
+    twitterURL: "https://twitter.com/first_lasts_twitter_handle"
+  - name: "First Last D"
+    twitter: "@first_lasts_twitter_handle"
+    twitterURL: "https://twitter.com/first_lasts_twitter_handle"
+---
+
+<h1>{{page.subcomName}} Subcommittee</h1>
+
+<h3>Purpose and Scope</h3>
+<p>{{page.purpose}}</p>
+
+<h3>What We Do</h3>
+<ul>
+  {% for activity in page.activities %}
+    <li>
+      <h4>{{activity.title}}</h4>
+      <p>{{activity.description}}</p>
+    </li>
+  {% endfor %}
+</ul>
+
+<h3>Join Us</h3>
+<strong>Email the <a href="mailto:{{page.email}}">{{page.subcomName}} Subcommittee</a> to get involved.</strong>
+<p>{{page.join}}</p>
+
+<h3>Current Members</h3>
+<div class='row'>
+  {% for person in page.members %}
+    <div class='medium-6 columns'>
+      <strong>{{person.name}}</strong>
+      <a href='{{person.twitterURL}}'>{{person.twitter}}</a>
+    </div>
+  {% endfor %}
+  <div></div>
+</div>
+

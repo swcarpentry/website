@@ -24,8 +24,7 @@ and after months of work this agreement is now
 ## Instructor Training
 
 Last year we tried several models for Instructor Training
-that now are more stable and has an [write
-version](http://swcarpentry.github.io/instructor-training/)
+that now are more stable and are [available here]({{site.training_url}})
 thanks to the work of our Instructor Trainers.
 
 We will continue improving our Instructor Training programme

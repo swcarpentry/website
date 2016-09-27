@@ -22,6 +22,8 @@
     url: "/scf/members/"
   - title: "Our History"
     url: "/scf/history/"
+  - title: "Community Service Awards"
+    url: "/scf/awards/"
   - title: "Privacy Policy"
     url: "/privacy/"
 
@@ -73,6 +75,8 @@
     url: "/join/projects/"
   - title: "Help Wanted"
     url: "/join/help/"
+  - title: "Subcommittees and Task Forces"
+    url: "/join/subcom_and_tf/"
   - title: "Reading Material"
     url: "/reading/"
 

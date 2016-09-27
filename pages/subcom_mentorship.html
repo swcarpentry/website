@@ -1,0 +1,93 @@
+---
+layout: page-fullwidth
+permalink: /join/subcom/mentoring/
+email: 'mentoring@lists.software-carpentry.org'
+subcomName: Mentoring
+purpose: "The Mentoring Subcommittee was established in 2015 to develop and maintain a mentorship program to support instructors as they progress through training, teaching, curriculum development, and other community-related activities. We help promote community-building and networking by providing (virtual) spaces where instructors from all over the world can share teaching success stories and discuss strategies for overcoming challenges."
+join: "<p>We welcome new members to the Mentoring Subcommittee with open arms!</p><p><b>Hosting discussion sessions:</b> If you have taught at at least 2 workshops and enjoy discussing teaching and Software Carpentry, feel free to sign up as a co-host for our regularly hosted discussion sessions, found at <a href='{{site.pad_url}}/instructor-discussion'>this etherpad</a>.</p><p><b>Mentoring committee activities</b>: If you are interested in joining our community-building efforts, please send a email to <a href='mailto:mentoring@lists.software-carpentry.org'>mentoring@lists.software-carpentry.org</a>.Currently, members of the Mentoring Subcommittee spend around 2-8 hours each month with subcommittee activities, these include:<ul><li>attending bi-month subcommittee meetings where ongoing projects and new ideas are discussed; see <a href='{{site.pad_url}}/scf-mentoring'>our meeting etherpad</a></li><li>hosting one or two instructor discussion sessions per month; <a href='{{site.pad_url}}/instructor-discussion'>see the discussion etherpads</a></li><li>writing blog posts about our ongoing and proposed activities</li><li>and possibly more! We're open to new ideas!</li></ul></p>"
+activities: 
+  - title: "Instructor Discussion Sessions"
+    description: "Each week, we host four instructor discussion sessions. The sessions provide a forum where experienced and novice instructors can discuss past and/or upcoming workshops. Instructors who have just taught, are about to teach, or have just completed instructor training will  receive an email invitation to these meetings, but these sessions are open to anyone."
+  - title: "Instructor-Helper Retreat"
+    description: "In November 2015, Software Carpentry and Data Carpentry instructors and helpers got together together at sites around the world for a day of sharing skills, trying out new lessons and ideas and discussing all things instructor and helper related."
+  - title: "Archived: Pre- and Post- Workshop Debriefing Session"
+    description: "Before launching the Instructor Discussion Sessions, we used to host separate pre- and post-workshop debriefing sessions. We are grateful to all the hosts and participants who attended these sessions. As a group, we posted <a href='http://software-carpentry.org/blog/categories/#debriefing'>25 post-workshop debriefing blogs</a> last year. Click <a href='http://software-carpentry.org/blog/categories/#debriefing'>this link</a> for links to these blogs sorted by date. "
+members:
+  - name: "Belinda Weaver"
+    twitter: "@cloudaus"
+    twitterURL: "https://twitter.com/cloudaus"     
+  - name:  "Bill Mills"
+    twitter: "@billdoesphysics"
+    twitterURL: "https://twitter.com/billdoesphysics"   
+  - name:  "Carol Willing"
+    twitter: "@WillingCarol"
+    twitterURL: "https://twitter.com/WillingCarol"   
+  - name:  "Christina Koch, Chair"
+    twitter: "@_christinaLK"
+    twitterURL: "https://twitter.com/_christinaLK"   
+  - name:  "Daniel Chen"
+    twitter: "@chendaniely"
+    twitterURL: "https://twitter.com/chendaniely"  
+  - name: "Karin Lagesen"
+    twitter: "@karinlag"
+    twitterURL: "https://twitter.com/karinlag"   
+  - name: "Kate Hertweck"
+    twitter: "@k8hert"
+    twitterURL: "https://twitter.com/k8hert"   
+  - name:  "Marian Schmidt"
+    twitter: "@micro_marian"
+    twitterURL: "https://twitter.com/micro_marian"   
+  - name: "Mariela Perignon"
+    twitter: ""
+    twitterURL: "" 
+  - name: "Michael Sarahan"
+    twitter: ""
+    twitterURL: "" 
+  - name: "Phil Rosenfield"
+    twitter: "@philrosenfield"
+    twitterURL: "https://twitter.com/philrosenfield"  
+  - name: "Rayna Harris"
+    twitter: "@raynamharris"
+    twitterURL: "https://twitter.com/raynamharris"   
+  - name: "Susan McClatchy"
+    twitter: "@SueMcclatchy"
+    twitterURL: "https://twitter.com/SueMcclatchy"   
+  - name: "Tiffany Timbers"
+    twitter: "@TiffanyTimbers"
+    twitterURL: "https://twitter.com/TiffanyTimbers"  
+  - name: "Tracy Teal"
+    twitter: "@tracykteal"
+    twitterURL: "https://twitter.com/tracykteal"  
+---
+
+<h1>{{page.subcomName}} Subcommittee</h1>
+
+<h3>Purpose and Scope</h3>
+<p>{{page.purpose}}</p>
+
+<h3>What We Do</h3>
+<ul>
+  {% for activity in page.activities %}
+    <li>
+      <h4>{{activity.title}}</h4>
+      <p>{{activity.description}}</p>
+    </li>
+  {% endfor %}
+</ul>
+
+<h3>Join Us</h3>
+<strong>Email the <a href='mailto:{{page.email}}'>{{page.subcomName}} Subcommittee</a> to get involved.</strong>
+<p>{{page.join}}</p>
+
+<h3>Current Members</h3>
+<div class='row'>
+  {% for person in page.members %}
+    <div class='medium-6 columns'>
+      <strong>{{person.name}}</strong>
+      <a href='{{person.twitterURL}}'>{{person.twitter}}</a>
+    </div>
+  {% endfor %}
+  <div></div>
+</div>
+
+
