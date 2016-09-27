@@ -1,10 +1,10 @@
 ---
 layout: post
 authors: ["Leo Browning"]
-title: SWC: From the Outside"
-date: YYYY-MM-DD
-time: "hh:mm:ss"
-category: ["Workshop", "Instructor"]
+title: "SWC: First Impressions"
+date: 2016-09-28
+time: "12:00:00"
+category: ["Workshop", "New Zealand"]
 ---
 
 This post is a simple telling of the beginning of my experience with SWC and hopefully first of many encounters with SWC as a community as well as a learning experience.
@@ -13,4 +13,4 @@ I attended a session a couple of months previously and was very impressed by my 
 Some of my favorite examples of "of the people, by the people,
 for the people" places on the internet are Stackexchanges, reddit maker communities and wikipedia. And without fail, when I have gotten involved with these communities they are all underpinned by a strong sense of community purpose tailored to a specific need. Although SWC seems to me to be a mix of online and in person community, I look forward to it being added to my list of the best of the best as I continue to be involved.
 
-I would love to hear particularly interesting or inspiring first experiences of other new or long time members in the comments, I am sure that there are many!
+I would love to hear particularly interesting or inspiring first experiences of other new or long time members, I am sure that there are many!
