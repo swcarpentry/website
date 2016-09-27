@@ -2,9 +2,9 @@
 layout: post
 authors: ["Tom Kelly", "Mik Black", "Sung Bae", "Wolfgang Hayek", "Aleksandra Pawlik"]
 title: "Software Carpentry workshop attendance: a New Zealand perspective"
-date: 2016-07-26
+date: 2016-09-28
 time: "00:00:01"
-category: ["Attendance"]
+category: ["Attendance", "Workshops"]
 ---
 
 Having taught and helped at a series of workshop over the past few months Tom Kelly, PhD Candidate in Genetics at the [University of Otago](http://www.otago.ac.nz/), wrote up some of his reflections on the issues related to workshop attendance. This spurred further discussion via email among the New Zealand instructors. We decided to put these thoughts together in hope that this could help other sites struggling with the attendance problems.  
@@ -16,7 +16,7 @@ Tom based his opinions after having  taught at various workshops in Australia in
 * Several Software Carpentry workshops organised by the University of Otago, [University of Canterbury](http://www.canterbury.ac.nz/), and [NeSI](https://www.nesi.org.nz/), in February 2015, June 2015, and June 2016;
 * A Data Carpentry workshop run at the University of Otago in February 2016.
 
-[NeSI](https://www.nesi.org.nz/) has also facilitated workshops in Auckland, Wellington, and Palmerston North over the past year. 
+There have been several other workshops in New Zealand facilitated by [NeSI](https://www.nesi.org.nz/), in Auckland, Wellington, and Palmerston North over the past year. 
 
 
 ###Main point
@@ -69,6 +69,6 @@ However, one problem that Wolfgang Hayek, NZ Instructor based at [NIWA](https://
 ###Approach 5: Establishing rapport with the participants
 Another alternative to the carrot and the stick is trying to establish close communication with the participants. Mik Black of the University of Otago said that him being a very hands-on person also helped with attendance numbers: particularly when co-ordinating the larger ResBaz event with parallel sessions. He sent repeated emails to registrants with reminders to tell the hosts if they couldn’t come as there was a waiting list. That was somewhat effective but there were still had no-shows (plus drop-offs after the first day). It also worked at the time because Mik needed to email about other ResBaz details at the same time (venue, schedule, laptop setup, etc) - he wasn’t just spamming them with “are you still coming?” every two days.
 
-Sung Bae of NeSI who has hosted and taught at a number of workshops across New Zealand developed a habit of going around the participants with the guest list and making them a name tag on the spot (and checking the attendance at the same time). Sung found it was helpful to build up personal connections with them (that helped him to remember their names too) and he also produced attendance lists from events he led. It possibly could help mitigate the number of drop-offs on the subsequent days of the workshop.
+Sung Bae of the University of Canterbury (and previously NeSI) who has hosted and taught at a number of workshops across New Zealand developed a habit of going around the participants with the guest list and making them a name tag on the spot (and checking the attendance at the same time). Sung found it was helpful to build up personal connections with them (that helped him to remember their names too) and he also produced attendance lists from events he led. It possibly could help mitigate the number of drop-offs on the subsequent days of the workshop.
 
 We recognize that there is no silver bullet to help us sort out the attendance issues. However, there may be various ways these problems can be mitigated. The experiences from Software and Data Carpentry workshops can also possibly translate to other training that many members of this community run.
