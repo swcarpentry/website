@@ -45,7 +45,7 @@ There are also some cultural aspects. For example, New Zealand may differ to oth
 
 ###Approach 2: Catering
 
-Another suggestion to raise numbers is providing catering to boost numbers (possibly registration fees can be used for that) which we tried at Dunedin Research Bazaar last February. However, we had issues with overcatering for those did not stay for lunch and we still had dwindling numbers by the last day. I think the "come back for day 3" rate was be higher in our most recent Otago workshop due to combined Git+Bash sessions on days 1 and 3. Unfortunately some participants did still give the impression of only wanting to attend the R session (or Python) but most seemed to give the rest a shot. And even the catering was not enough of an attraction.
+Another suggestion to raise numbers is providing catering to boost numbers (possibly registration fees can be used for that) which we tried at Dunedin Research Bazaar last February. However, we had issues with overcatering for those did not stay for lunch and we still had dwindling numbers by the last day. I think the "come back for day 3" rate was higher in our most recent Otago workshop due to combined Git+Bash sessions on days 1 and 3. Unfortunately some participants did still give the impression of only wanting to attend the R session (or Python) but most seemed to give the rest a shot. And even the catering was not enough of an attraction.
 
 Dwindling numbers seems to be a bigger problem with longer (3 day) events but there are higher costs for catering an event this long. Reducing the length of each day was another approach we've tried as [discussed here](http://software-carpentry.org/blog/2016/07/otago-workshop.html).
 
@@ -71,4 +71,4 @@ Another alternative to the carrot and the stick is trying to establish close com
 
 Sung Bae of the University of Canterbury (and previously NeSI) who has hosted and taught at a number of workshops across New Zealand developed a habit of going around the participants with the guest list and making them a name tag on the spot (and checking the attendance at the same time). Sung found it was helpful to build up personal connections with them (that helped him to remember their names too) and he also produced attendance lists from events he led. It possibly could help mitigate the number of drop-offs on the subsequent days of the workshop.
 
-We recognize that there is no silver bullet to help us sort out the attendance issues. However, there may be various ways these problems can be mitigated. The experiences from Software and Data Carpentry workshops can also possibly translate to other training that many members of this community run.
+We recognise that there is no silver bullet to help us sort out the attendance issues. However, there may be various ways these problems can be mitigated. The experiences from Software and Data Carpentry workshops can also possibly translate to other training that many members of this community run.
