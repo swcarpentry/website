@@ -1,7 +1,7 @@
 ---
 layout: post
 authors: ["Greg Wilson"]
-title: "Communitiy Service Awards"
+title: "Community Service Awards"
 date: 2016-09-10
 time: "08:00:00"
 category: ["Community", "Software Carpentry Foundation"]
