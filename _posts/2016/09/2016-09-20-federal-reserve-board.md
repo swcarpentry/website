@@ -1,7 +1,7 @@
 ---
 layout: post
 authors: ["Chris Hamm"]
-title: "The Board"
+title: "Teaching at the Board"
 date: 2016-09-20
 time: "00:08:00"
 category: ["Teaching"]
@@ -31,6 +31,7 @@ It is important for potential leaners to recognize that we teach basic computer 
 Sticky notes (the learners write something that we could improve on and something that worked well for them) from my lessons are below:
 
 #### Intro to R
+
 *Worked well:*
 
 - Thanks for noticing & adjusting to the level of the class: interested in for tomorrow: call stack, tidyr, split-apply-combine, vectorization
