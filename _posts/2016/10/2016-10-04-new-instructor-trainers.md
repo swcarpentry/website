@@ -2,7 +2,7 @@
 layout: post
 authors: ["Greg Wilson"]
 title: "Congratulations to Our New Instructor Trainers"
-date: 2016-09-27
+date: 2016-10-04
 time: "07:00:00"
 category: ["Instructor Training"]
 ---
