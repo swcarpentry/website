@@ -1,7 +1,7 @@
 ---
 layout: post
 authors: ["Tom Kelly", "Mik Black", "Sung Bae", "Wolfgang Hayek", "Aleksandra Pawlik"]
-title: "Software Carpentry workshop attendance: a New Zealand perspective"
+title: "Software Carpentry Workshop Attendance: a New Zealand Perspective"
 date: 2016-09-28
 time: "00:00:01"
 category: ["Attendance", "Workshops"]
@@ -12,8 +12,11 @@ Having taught and helped at a series of workshop over the past few months Tom Ke
 Please note that these are the authors' views and thus they should not be treated as representative for their home institutions.
 
 Tom based his opinions after having  taught at various workshops in Australia in New Zealand: <br/>
+
 * Research Bazaar 2015 at the [University of Melbourne](http://unimelb.edu.au) and 2016 at the [University of Otago](http://www.otago.ac.nz/);
+
 * Several Software Carpentry workshops organised by the University of Otago, [University of Canterbury](http://www.canterbury.ac.nz/), and [NeSI](https://www.nesi.org.nz/), in February 2015, June 2015, and June 2016;
+
 * A Data Carpentry workshop run at the University of Otago in February 2016.
 
 There have been several other workshops in New Zealand facilitated by [NeSI](https://www.nesi.org.nz/), in Auckland, Wellington, and Palmerston North over the past year. 
