@@ -2,13 +2,13 @@
 layout: post
 authors: ["Greg Wilson"]
 title: "Python as a Second Language"
-date: 2016-09-29
-time: "00:12:00"
+date: 2016-10-04
+time: "00:07:30"
 category: ["Lessons"]
 ---
 
 Donny Winston, Joey Montoya, and I taught a one-day class for [Lawrence Berkeley National Laboratory](http://lbl.gov)
-on [Python as a Second Language](http://swcarpentry.github.io/python-second-language/).
+on [Python as a Second Language](http://swcarpentry.github.io/python-second-language/) last week.
 As its introductory blurb says,
 "This lesson is an introduction to programming in Python
 for people who are already comfortable in some other language such as Perl or MATLAB."
