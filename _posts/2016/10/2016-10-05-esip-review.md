@@ -99,6 +99,7 @@ As a developer, I would like community-supported guidelines to support requests 
 A checklist or informal assessment to encourage my manager or PI to allow the development team to adopt appropriate practices.
 </td>
 </tr>
+<tr>
 <th>
 Grad Student, Post-Doc, Researcher interested in continuing code education
 </th>
