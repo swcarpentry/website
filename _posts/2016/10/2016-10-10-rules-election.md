@@ -13,9 +13,8 @@ The election itself will take place next week (Oct 17-21, 2016).
 All [members]({{site.url}}/scf/members/) will receive a ballot 
 via email to cast their vote regarding this revision via [electionbuddy](http://electionbuddy.com).
 Please take a moment to check [the current membership list]({{site.url}}/scf/members/)
-and [contact our returning officer](mailto:admin@software-carpentry.org?subject=SCF%20membership),
-Greg Wilson,
-to let him know of any omissions.
+and [contact us by email](mailto:admin@software-carpentry.org?subject=SCF%20membership)
+to let us know of any omissions.
 As per [our bylaws]({{site.url}}/scf/),
 our membership includes any certified instructor who has taught at least twice in the past two years
 (i.e., since October 2014).
