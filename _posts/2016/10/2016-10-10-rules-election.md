@@ -13,7 +13,7 @@ The election itself will take place next week (Oct 17-21, 2016).
 All [members]({{site.url}}/scf/members/) will receive a ballot 
 via email to cast their vote regarding this revision via [electionbuddy](http://electionbuddy.com).
 Please take a moment to check [the current membership list]({{site.url}}/scf/members/)
-and [contact our returning officer](mailto:gvwilson@software-carpentry.org?subject=SCF%20membership),
+and [contact our returning officer](mailto:admin@software-carpentry.org?subject=SCF%20membership),
 Greg Wilson,
 to let him know of any omissions.
 As per [our bylaws]({{site.url}}/scf/),
