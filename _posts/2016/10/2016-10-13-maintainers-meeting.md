@@ -16,8 +16,9 @@ The major highlights are:
    and style changes common to all lessons. Each maintainer will still
    be responsible for PRs/issues specific to their lesson. I will
    contact folks who indicated interest in participating, and am
-   pleased we have folks from both SWC and DC interested in
-   participating.
+   pleased we have folks from both SWC and DC; if anyone not currently
+   acting as a maintainer would like to take part, please
+   [contact Kate Hertweck](mailto:k8hertweck@gmail.com).
 
 2. **Instructor notes**: Quite a few of us are supportive of [the
    proposed template for standardizing instructor notes][notes]; these
