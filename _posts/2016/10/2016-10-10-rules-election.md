@@ -16,4 +16,4 @@ Please take a moment to check [the current membership list]({{site.url}}/scf/mem
 and [contact us by email](mailto:admin@software-carpentry.org?subject=SCF%20membership) to let us know of any omissions.
 As per [our bylaws]({{site.url}}/scf/),
 our membership includes any certified instructor who has taught at least twice in the past two years
-(i.e., since October 2014).
+(i.e., since October 2014) or has made other significant contributions to Software Carpentry in the opinion of the Steering Committee.
