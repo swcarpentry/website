@@ -19,7 +19,7 @@ category: ["Community"]
 * [DataCamp](https://twitter.com/DataCamp) is looking for a Data Science Course Developer.
 
 ##Tweets
-* [@NumFOCUS](https://twitter.com/NumFOCUS) published a paper on "The Astropy Problem." 
+* [Demitri Muna](https://arxiv.org/abs/1610.03159) published a pre-print on "The Astropy Problem." 
 * [@docker](https://twitter.com/docker) is now hiring [Education Enigeers](https://www.docker.com/careers/customer-success?job-id=249829).
 * [@NatureNews](https://twitter.com/NatureNews) wrote a nice pice on the use of GitHub.
 * Community service awards nominations now open! Please nominate members on the [Software Carpentry](http://software-carpentry.org/scf/awards/) website.
