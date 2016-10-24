@@ -16,12 +16,14 @@ Too long to read? Here's an overview in tabular form.
 | :--- | :---: | :---: |  
 networking | excellent | poor to very good | 
 Etherpad use | poor | excellent |
+displayed on screen | the web? slides? | the instructor <br> webcast view of other learners|
 time commitment | prep + class time + <br> travel + paperwork | prep + class time | 
 private communication | in-person | Slack & email |
 technical difficulties | medium | high |
 
+
 ## Networking 
-**In-person:** I think the most amazing feature of an in-person workshop is the networking. There is something about face to face conversation during activities and over coffee, beer, and  dinner that really solidifies personal relations. I became a certified instructor in January 2015 at UC Davis instructor training workshop taught by Greg Wilson, Tracy Teal, Bill Mills, and Aleksandra Pawlik; I consider all four of these people to be close colleagues now, and I'm going to be visiting a handful of other workshop participants in November when I visit California. Also, I regularily talk to SWC/DC instructors on-line, but there is something about meeting them in-person that feels like its the first time we've met face-to-face. 
+**In-person:** I think the most amazing feature of an in-person workshop is the networking. There is something about face to face conversation during activities and over coffee, beer, and  dinner that really solidifies personal relations. I became a certified instructor in January 2015 at UC Davis instructor training workshop taught by Greg Wilson, Tracy Teal, Bill Mills, and Aleksandra Pawlik; I consider all four of these people to be close colleagues now, and I'm going to be visiting a handful of other workshop participants in November when I visit California. Also, I regularly talk to SWC/DC instructors on-line, but there is something about meeting them in-person that feels like its the first time we've met face-to-face. 
 
 **Online:** As for networking in the online workshops, I would say its a mixed bag ranging from poor (for anyone in a room by themselves) to very good (for groups of learners in the same room). The first time I noticed a lack of networking for the online classes was during a debriefing session earlier this week. It wasn't until 45 minutes into the call that I realized that two of the participants were learners in one of my workshops! I'm glad I finally made the connection, but it made me realize how hard it is to recognize people when you only see a tiny image of them on your screen when you are teaching. On the other hand, I do see that the online workshops help foster cross-disciplinary networking between individuals at the same institution but from different departments, so thats awesome. 
 
@@ -35,6 +37,14 @@ The great thing about the Etherpad (in my opinion) is that is allows everyone to
 **Online:** During the last online session with Greg, we used the Etherpad extensively, so I felt like participation was really high. Also, the extensive note-taking allowed Greg to visualize participation during one of the exercises he had to miss. 
 
 **What does this mean for next time?** I think next time I teach in-person, I will use the Etherpad chat a lot more, especially for quick yes/no responses.
+
+## What is displayed on the big screen?
+
+**In-person:** During the in-person class I taught, I struggled with what to display on the projector. I had to use it, right? I bounced back and forth between various webpages (the Etherpad, the lesson page, fun images, videos), but the whole time I felt like this was ineffective. It made me wish that I either had slides to use or could avoid using it all together.
+
+**Online:** During  online workshops, the big screen projector is used for the webcast so that learners can see the instructor and the learners at other sites. I setup a whiteboard right behind my chair for drawing concept maps and other illustrations. Each student has their laptop open to the Etherpad, and they can easily open links to webpages or videos that we give them. Since the student never see anything projected except for my face and my white board, maybe this means that I can do the in-person classes without using the projector....
+
+**What does this mean for next time?** Next time I teach in person, I'm going to try not using the projector at all on Day 1 and will encourage Etherpad notetaking, and then I'll only use the projector on Day 2 only for live coding. For online workshops, I'll highly recommend using a white board *if* you can write clear enough that it can be read. 
 
 ## Time Commitment
 **In-person:** Even though I really enjoy traveling, saying yes to teaching a workshop in a different city is a huge time commitment. Instead of just saying yes to teaching from 9-4, I'm saying yes to being in a different city for 24 hours a day. I also have to devote a lot of additional time to planning the travel, traveling, and getting reimbursed for expenses.  
