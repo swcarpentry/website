@@ -7,7 +7,7 @@ time: "12:00:00"
 category: ["Library Carpentry"]
 ---
 
-The indegatigable [James Baker](https://twitter.com/j_w_baker)
+The indefatigable [James Baker](https://twitter.com/j_w_baker)
 recently wrote a blog post summarizing
 [what's happened with Library Carpentry in the past year](https://cradledincaricature.com/2016/10/06/library-carpentry-where-we-are-nearly-1-year-on/).
 It summarizes their lessons,
