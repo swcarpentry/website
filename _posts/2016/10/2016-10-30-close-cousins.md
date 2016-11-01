@@ -12,14 +12,15 @@ Simultaneously but separately,
 an organization called [the Programming Historian](http://programminghistorian.org)
 has crafted a diverse set of open, reusable lessons
 on computing skills for people working in the digital humanities (DH),
-and [their process](FIXME) is different from ours in some interesting ways.
+and [their process](http://programminghistorian.org/contribute)
+is different from ours in some interesting ways.
 
 The main elements of our approach are:
 
 1.  A first version is created by:
     *   someone writing something on their own (or translating something they've written before),
     *   a group of people getting together at a hackathon to create a roadmap, or
-    *   more recently, someone driving an open design process of the kind used for
+    *   someone driving an open design process of the kind used for
         [our new Python lesson](http://swcarpentry.github.io/python-novice-gapminder/)
 	or
 	[Zack Brym's new visualization lesson](http://swcarpentry.github.io/visualization-novice/).
@@ -54,7 +55,8 @@ if "all" they did was craft hundreds of lines of thoughtful feedback.
 In contrast, the Programming Historian's model is:
 
 1.  A would-be author submits a proposal for a lesson,
-    which is reviewed by the core PH team.
+    which is reviewed by two assigned reviewers
+    as well as the general public.
 2.  If the lesson receives a green light,
     the author writes it (using PH's template)
     and submits it for peer review.
@@ -72,7 +74,8 @@ and the fact that authors get credit in a way that academia finds digestible.
 Its main weakness is maintenance:
 while people may submit errata or make other comments,
 lessons continue to be maintained by their original creators,
-which can be problematic as other demands on their time grow.
+which can be problematic as other demands on their time grow,
+or as platforms and APIs change beneath the lesson's feet.
 
 Could we hybridize these approaches to create something with the strengths of both?
 Could the Programming Historian start accepting updates via pull requests
@@ -89,5 +92,5 @@ Lots of groups are exploring exactly this question with regard to academic publi
 which of their answers could and should we borrow?
 
 If you're interested in discussing this,
-please add your thoughts to [this GitHub issue](FIXME)
+please add your thoughts to [this GitHub issue](https://github.com/programminghistorian/jekyll/issues/304)
 some time in the coming weeks.
