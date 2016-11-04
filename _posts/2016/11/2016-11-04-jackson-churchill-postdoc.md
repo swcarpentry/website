@@ -30,5 +30,5 @@ analysis is strongly recommended, and applicants must have a commitment to solvi
 communication skills. Expertise in scientific programming languages including R or Python is recommended. The
 successful candidate will work on the genetics of aging or metabolic disorders.
 
-Please contact Dr. Gary Churchill directly at gary.churchill (at) jax.orgusing the subject line "SWC postdoc ad".
+Please contact Dr. Gary Churchill directly at gary.churchill (at) jax.org using the subject line "SWC postdoc ad".
  
