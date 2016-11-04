@@ -8,7 +8,7 @@ category: ["Jobs"]
 ---
 
 The Carter Lab at The Jackson Laboratory is seeking an Associate Research Scientist in the genetics of Alzheimer’s
-disease. [Our group] (www.jax.org/research-and-faculty/research-labs/the-carter-lab) is developing novel
+disease. [Our group] (https://www.jax.org/research-and-faculty/research-labs/the-carter-lab) is developing novel
 computational methods to derive biological models from large-scale genomic data. The strategies we pursue involve
 combining statistical genetics concepts such as epistasis and pleiotropy to understand how many genetic factors
 combine to control disease-related processes in neurodegeneration. We are therefore seeking an individual with
