@@ -25,7 +25,7 @@ their knowledge and skills. All participants, split into groups of 4, came up wi
 <img src="../../../files/2016/04/south-africa-instr-training.jpg" alt="South Africa Instructor Training" width="800px">
 (*Photo: Wille du Plessis*)
 
-After lunch on Monday we started off with the [Instructor Training curriculum](http://swcarpentry.github.io/instructor-training/). 
+After lunch on Monday we started off with the [Instructor Training curriculum]({{site.training_url}}).
 Since the participants
  already had a chance to meet each other during the previous sessions, they felt very comfortable
  working on the interactive exercises, giving each other feedback and discussing the task outcomes. 
