@@ -6,15 +6,15 @@ date: 2016-11-21
 time: "10:00:00"
 category: ["Steering Committee"]
 ---
-The Steering Committee informs that the minutes of their third quarter are now linked on [the Software Carpentry Foundation page](http://software-carpentry.org/scf/) as well on the [README of the board GitHub repository](https://github.com/swcarpentry/board). If you have critics and suggestions related to the minutes
+The Steering Committee informs that the minutes of their third quarter are now linked on [the Software Carpentry Foundation page]({{site.url}}/scf/) as well on the [README of the board GitHub repository]({{site.github_url}}/board). If you have critics and suggestions related to the minutes
 please send those by email to our Secretary, Raniere Silva, at [raniere@rgaics.com](mailto:raniere@rgaiacs.com).
 
 In the forth and last quarter,
 the Steering Committee will focus to wrap and documenting some procedures
 to make the transition to the next Steering Committee smoother than this year,
-something that started with the [Amending Steering Committee Election Procedures](http://software-carpentry.org/blog/2016/09/election-procedures.html) that you voted last October.
+something that started with the [Amending Steering Committee Election Procedures]({{site.url}}/blog/2016/09/election-procedures.html) that you voted last October.
 
 We are very excited by all this year achivements from our community,
 more details will be available later this year on our annual report,
 and looking for the amazing members from our community
-that [will standing for this election](http://software-carpentry.org/blog/2016/10/Call-for-candidates-SC-2017.html) to help shape the future direction of Software Carpentry.
+that [will standing for this election]({{site.url}}/blog/2016/10/Call-for-candidates-SC-2017.html) to help shape the future direction of Software Carpentry.
