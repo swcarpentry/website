@@ -11,7 +11,7 @@ category: ["Lessons"]
 computational algebra. It provides a programming language with the same name;
 thousands of functions implementing various algebraic algorithms; and data
 libraries containing extensive collections of algebraic objects. GAP
-distribution included its detailed documentation, and more materials on
+distribution includes its detailed documentation; even more materials on
 learning GAP and on using it in teaching a variety of courses are available
 on GAP homepage [here](http://www.gap-system.org/Doc/doc.html).
 
@@ -21,7 +21,7 @@ of these being the EPSRC project EP/M022641 ["CoDiMa (CCP in the area of
 Computational Discrete Mathematics"](http://www.codima.ac.uk/). This is
 a community-building project centred on [GAP](http://www.gap-system.org/)
 and another open source mathematical software system,
-[SageMath](http://www.sagemath.org/). Its activities include [annual training
+[SageMath](http://www.sagemath.org/). CoDiMa activities include [annual training
 schools in computational discrete mathematics](http://www.codima.ac.uk/schools/),
 which are primarily intended for PhD students and researchers from UK
 institutions. A typical school starts with the Software Carpentry workshop
@@ -33,9 +33,6 @@ classes on a selection of topics in computational discrete mathematics.
 This naturally led to the idea of establishing a Software Carpentry lesson
 on programming with GAP. I started to develop it in 2015 for our
 [first training school in Manchester](http://www.codima.ac.uk/school2015/).
-I took inspiration from the core Software Carpentry lessons, in particular
-from those on UNIX shell, Python and R.
-
 Since I have never been at any of the Software Carpentry workshops before and
 had not yet completed instructor training at that point (it is currently in
 progress), it was extremely beneficial for me to come as a helper to the first ever
@@ -43,14 +40,16 @@ progress), it was extremely beneficial for me to come as a helper to the first e
 in June 2015, and obtain an insight into the Software Carpentry teaching
 methodology.
 
-A good Software Carpentry lesson should have a central story which goes
-through almost every its episode. I have imagined a common situation: a
+I took inspiration from the core Software Carpentry lessons,
+in particular from those on UNIX shell, Python and R.
+All of them have a central story which goes through almost every episode.
+For the GAP lesson, I have imagined a common situation: a
 research student with no prior experience of working with GAP (and perhaps
 little or no experience with programming at all) is facing a task to find
 a way in the huge library of GAP functions in order to study some research
 problem. Along this way, they start to work with GAP command line to explore
-algebraic objects interactively; then start to use the GAP language to write
-some simple scripts; then start to create own functions. More advanced topics
+algebraic objects interactively; then use the GAP language to write
+some simple scripts; then create own functions. More advanced topics
 such as, for example, extending GAP with new methods for existing types of
 objects, or even new objects, or organising your code in the form of a GAP
 package, are not so obvious for the beginners, and I have made an attempt
@@ -63,7 +62,7 @@ A good candidate was the problem of calculating an average order of an element
 of the group, which once I've seen being used by Steve Linton to quickly
 demonstrate some GAP features to a general scientific audience. I have tried to
 expand this problem in my talk in Newcastle in May 2015 (see the blog post
-[here](http://www.codima.ac.uk/2015/07/01/average-order-of-group-elements-a-demo-of-test-driven-development-in-gap/),
+[here](http://www.codima.ac.uk/2015/07/01/average-order-of-group-elements-a-demo-of-test-driven-development-in-gap/)),
 an thus the choice has been made.
 
 Indeed, the problem of determining an average order of the element of the group
@@ -72,7 +71,7 @@ outcomes of the lesson. An undergraduate algebra course is sufficient for its
 understanding. Moreover, those not familiar with the group theory still should
 be able to follow the lesson just by grasping the idea that there is a
 mathematical structure called group, and we need to find an average value of a
-certain numerical parameter associated with each of its elements. On the other
+certain numerical parameter associated with each element of it. On the other
 hand, those with sufficient theoretical background will hopefully enjoy seeing
 how the initial naive implementation is being refined several times during the
 lesson, and how theoretical insights are giving much more significant advances
@@ -121,13 +120,23 @@ stored in it. For example, once the average order of an element of a group is
 calculated and stored in the group, it can be next time retrieved at zero cost,
 avoiding redundant calculations.
 
+Of course, it is not possible to cover everything in a several hours long
+course, but it fits really well into the week-long CoDiMa training school like
+[this](http://www.codima.ac.uk/school2016/). It prepares the audience to hear
+about more advanced topics during the rest of the week: debugging and profiling;
+advanced GAP programming; GAP type system; distributed parallel calculations;
+examples of some algorithms and their implementations, etc. Also, staying for
+the whole week of the school, everyone has plenty of opportunities to ask
+further questions to instructors.
+
+What next?
 The lesson on GAP can be seen [here](http://alex-konovalov.github.io/gap-lesson/),
 and it has been published via Zenodo [here](http://doi.org/10.5281/zenodo.167362).
 So far I am only aware that it has been taught twice (by myself) at two annual
 [CoDiMa training schools in computational discrete mathematics](http://www.codima.ac.uk/schools/).
 What next? I can surely teach it lesson myself, but is it written clearly enough
 to be taught by others? Is it possible for the reader to follow it for
-self-study? Is there any introductory material missing, or is there an
+self-studying? Is there any introductory material missing, or is there an
 interest in having more advanced lesson(s) on some other aspects of
 the GAP system? If you would like to contribute to its further development,
 issues and pull requests to its repository on
