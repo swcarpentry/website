@@ -4,9 +4,8 @@ permalink: /CoC-reporting/
 title: Code of Conduct Reporting Guide
 ---
 
-If you believe someone is violating the Code of Conduct we ask that you report it to the joint Software/Data
-Carpentry (“the Carpentries”) Policy subcommittee by emailing C. MacDonnell at
-[confidential@carpentries.org](mailto:confidential@carpentries.org).
+If you believe someone is violating the Code of Conduct we ask that you report it to the joint Data/Software Carpentry (“the Carpentries”) Policy subcommittee by emailing [policy@carpentries.org](mailto:policy@carpentries.org) or 
+C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org).
 **All reports will be kept confidential.** In some cases we may determine that a public statement will need to be
 made. If that's the case, the identities of all victims and reporters will remain confidential unless those
 individuals instruct us otherwise.  
