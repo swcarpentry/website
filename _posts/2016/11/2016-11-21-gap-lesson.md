@@ -137,7 +137,7 @@ The lesson on GAP can be seen [here](http://alex-konovalov.github.io/gap-lesson/
 and it has been published via Zenodo [here](http://doi.org/10.5281/zenodo.167362).
 So far I am only aware that it has been taught twice (by myself) at two annual
 [CoDiMa training schools in computational discrete mathematics](http://www.codima.ac.uk/schools/).
-I can surely teach it lesson myself, but is it written clearly enough
+I can surely teach it myself, but is it written clearly enough
 to be taught by others? Is it possible for the reader to follow it for
 self-studying? Is there any introductory material missing, or is there an
 interest in having more advanced lesson(s) on some other aspects of
