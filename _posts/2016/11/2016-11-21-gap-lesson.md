@@ -17,7 +17,7 @@ on GAP homepage [here](http://www.gap-system.org/Doc/doc.html).
 
 Throughout the history of GAP, its development has been supported by a
 number of [grants](http://www.gap-system.org/Contacts/funding.html), one
-of these being the EPSRC project EP/M022641 []"CoDiMa (CCP in the area of
+of these being the EPSRC project EP/M022641 ["CoDiMa (CCP in the area of
 Computational Discrete Mathematics"](http://www.codima.ac.uk/). This is
 a community-building project centred on [GAP](http://www.gap-system.org/)
 and another open source mathematical software system,
@@ -30,17 +30,17 @@ version control and task automation, continued with introductions to GAP
 and SageMath systems, and followed by the series of lectures and exercise
 classes on a selection of topics in computational discrete mathematics.
 
-This naturally leads to the idea of establishing a Software Carpentry lesson
+This naturally led to the idea of establishing a Software Carpentry lesson
 on programming with GAP. I started to develop it in 2015 for our
 [first training school in Manchester](http://www.codima.ac.uk/school2015/).
 I took inspiration from the core Software Carpentry lessons, in particular
-on UNIX shell, Python and R.
+from those on UNIX shell, Python and R.
 
 Since I have never been at any of the Software Carpentry workshops before and
-had not yet completed instructor training, it was extremely beneficial for me
-to come as a helper to the first ever
+had not yet completed instructor training at that point (it is currently in
+progress), it was extremely beneficial for me to come as a helper to the first ever
 [Software Carpentry workshop in St Andrews](https://lmwake.github.io/2015-06-18-StAndrews/)
-in June 2015 and obtain an insight into the Software Carpentry teaching
+in June 2015, and obtain an insight into the Software Carpentry teaching
 methodology.
 
 A good Software Carpentry lesson should have a central story which goes
@@ -57,61 +57,83 @@ package, are not so obvious for the beginners, and I have made an attempt
 to create a lesson which will show the direction in which their skills should
 be developing, and also to cover the importance of testing their code.
 
-I started from picking up a research-like problem which can be the central
-one for the lesson and which may nicely expose all needed techniques and
-mindsets. A good candidate was the problem of calculating an average order of
-an element of the group, which once I've seen being used by Steve Linton to
-quickly demonstrate some GAP features to a general scientific audience.
-After I have used it for a talk in Newcastle in May 2015 (see the blog post
+I started from picking up a research-like problem which may nicely expose
+all needed techniques and explain the mindset required to deal with it.
+A good candidate was the problem of calculating an average order of an element
+of the group, which once I've seen being used by Steve Linton to quickly
+demonstrate some GAP features to a general scientific audience. I have tried to
+expand this problem in my talk in Newcastle in May 2015 (see the blog post
 [here](http://www.codima.ac.uk/2015/07/01/average-order-of-group-elements-a-demo-of-test-driven-development-in-gap/),
-the choice was made.
+an thus the choice has been made.
 
-The problem of determining an average order of the element of the group
-is enough simple problem to not to distract learners too much from the
-intended learning outcomes of the lesson, and undergraduate course in
-algebra is sufficient prerequisite to understanding the lesson. Those
-learners who are not familiar with the group theory, should still be able
-to follow the lesson just by assuming that there is a mathematical structure
-called group, and we need to find an average value of a certain numerical
-parameter associated with each of its elements. On the other hand, those
-with sufficient theoretical background will hopefully enjoy seeing how the
-initial naive implementation is being refined several times during the
-lesson, and how theoretical insights are give much more advances than minor
-code optimisations or just getting more cores.
+Indeed, the problem of determining an average order of the element of the group
+is simple enough to not to distract learners too much from the intended learning
+outcomes of the lesson. An undergraduate algebra course is sufficient for its
+understanding. Moreover, those not familiar with the group theory still should
+be able to follow the lesson just by grasping the idea that there is a
+mathematical structure called group, and we need to find an average value of a
+certain numerical parameter associated with each of its elements. On the other
+hand, those with sufficient theoretical background will hopefully enjoy seeing
+how the initial naive implementation is being refined several times during the
+lesson, and how theoretical insights are giving much more significant advances
+than minor code optimisations or just getting more cores.
 
-One particular topic that usually escapes beginners' attention is testing,
+The lesson starts with formulating the problem of finding examples of groups
+such that the average order of their element is an integer. It first explains
+how to work with the GAP command prompt, demonstrates some basic language
+constructions and explains how to find necessary information in the GAP help system.
+At this point using the command line we establish a rough prototype of the code to
+compute an average order of a group, and tried several examples, none of them
+yielding an integer.
+
+Next, it discusses that the command line usage is good only for rapid
+prototyping, and explains how to create GAP functions, place them into
+a file, and read that file into GAP. After that, the initial implementation is
+used to create a regression test: GAP runs it by comparing the actual output
+with the reference output, and will fail the test in case of any discrepancies.
+Testing the code is a topic that usually escapes beginners' attention,
 and I am really excited about managing to cover it as a part of the introductory
 GAP lesson. I explain the "make it right, than make it fast" paradigm, and
-explain how to create and run regression tests in GAP after the first naive
-implementation is available. To demonstrate test failures, I deliberately mix
-up function names to break the test, and it's a real pleasure when someone
-from the audience points it out before I even manage to re-run the test and
-show how it fails.
+show how to create and run regression tests in GAP after the first naive
+implementation is available. To demonstrate test failures, I deliberately mixed
+up function names to break the test, and it was a real pleasure when the
+audience pointed that out before I even managed to re-run the test and demonstrate
+that it failed.
 
-TODO: Describe better how the structure of the lesson looks like
-and how the problem of finding the group with an integer average order
-of an element fits into every episode:
+Having the improved and tested implementation, we start systematic search for
+finite groups with an integer average order of an element using the
+[GAP Small Groups Library](http://www.gap-system.org/Packages/sgl.html) which
+contains, among others, all 423 164 062 groups of order at most 2000 except 1024.
+At the same time, the lesson introduces modular programming and shows how one
+can design a system of functions to perform the search in a way that one could re-use
+most of the code and only develop a new function to test a single group to deal
+with another search problem. Then the first interesting example
+(a group of order 105 such that the average order of its elements is 17) is
+discovered! The next obstacle is to check all 56092 groups of order 256, however,
+a short theoretical observation shows that we can exclude groups of prime power
+order from the search, as they will never have an integer average order of an
+element. After modifying the code to skip such orders, the search continues, and
+then another example (a group of order 357) is found. Discovering another known
+group with this property is left as one of the exercises.
 
-* First session with GAP - Working with the GAP command line
-* Some more GAP objects	- Further examples of immediate and positional objects and operations with them
-* Functions in GAP - Functions as a way of code re-use
-* Using regression tests - Test-driven development
-* Small groups search	- Modular programming: putting functions together. How to check some conjecture for all groups of a given order?
-* Attributes and Methods - How to record information in GAP objects
+The lesson finishes with explaining how the knowledge about the object can be
+stored in it. For example, once the average order of an element of a group is
+calculated and stored in the group, it can be next time retrieved at zero cost,
+avoiding redundant calculations.
 
-GAP lesson taught twice so far and published on Zenodo
-[here](http://doi.org/10.5281/zenodo.167362).
-What next? I can teach my lesson myself, but is it written clearly enough
+The lesson on GAP can be seen [here](http://alex-konovalov.github.io/gap-lesson/),
+and it has been published via Zenodo [here](http://doi.org/10.5281/zenodo.167362).
+So far I am only aware that it has been taught twice (by myself) at two annual
+[CoDiMa training schools in computational discrete mathematics](http://www.codima.ac.uk/schools/).
+What next? I can surely teach it lesson myself, but is it written clearly enough
 to be taught by others? Is it possible for the reader to follow it for
 self-study? Is there any introductory material missing, or is there an
-interest in having more advanced lesson(s) on some (which?) aspects of
-the system? If you would like to contribute to its further development,
+interest in having more advanced lesson(s) on some other aspects of
+the GAP system? If you would like to contribute to its further development,
 issues and pull requests to its repository on
 [GitHub](https://github.com/alex-konovalov/gap-lesson) are most welcome!
-
-We are now starting to develop a
-[lesson on SageMath](https://github.com/alex-konovalov/sage-lesson).
-We invite collaborators: please watch the repository if you’re
-interested in following along, and add a comment to
-[this issue](https://github.com/alex-konovalov/sage-lesson/issues/1)
+Also, we invite collaborators interested in developing a lesson on
+[SageMath](http://www.sagemath.org/): please look at
+[this repository](https://github.com/alex-konovalov/sage-lesson) and
+add a comment to [this issue](https://github.com/alex-konovalov/sage-lesson/issues/1)
 if you’re interested in contributing.
