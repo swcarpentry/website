@@ -6,19 +6,20 @@ redirect_from:
     - /conduct.html
 ---
 
-Software Carpentry and Data Carpentry are community organizations. 
+Software Carpentry and Data Carpentry are community organizations.
 We value the involvement of everyone in this community - learners, instructors, hosts, developers, steering
-committee members and staff. We are committed to creating a friendly and respectful place for learning, 
-teaching and contributing. All participants in our events and communications are expected to show respect 
+committee members and staff. We are committed to creating a friendly and respectful place for learning,
+teaching and contributing. All participants in our events and communications are expected to show respect
 and courtesy to others.  
- 
-To make clear what is expected, everyone participating in Software Carpentry and Software Carpentry activities 
+
+To make clear what is expected, everyone participating in Software Carpentry and Software Carpentry activities
 is required to conform to the following Code of Conduct. This code of conduct applies to all spaces managed by
-Software Carpentry and Data Carpentry including, but not limited to, workshops, email lists, online forums and 
+Software Carpentry and Data Carpentry including, but not limited to, workshops, email lists, online forums and
 on GitHub. Workshop hosts are expected to assist with enforcement of the Code of Conduct.  
 
 If you believe someone is violating the Code of Conduct we ask that you report it to the joint Data/Software Carpentry (“the Carpentries”) Policy subcommittee by emailing [policy@carpentries.org](mailto:policy@carpentries.org) or 
 C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org), and if the violation occurs during a
+
 workshop or other in-person event,
 by contacting the host and/or coordinator. All reports will be kept confidential.  When possible, please follow
 the reporting guidelines detailed [here](/CoC-reporting/). All reports will be reviewed by the Conduct Policy
@@ -66,5 +67,3 @@ version of that used by PyCon, which in turn is forked from a template written b
 on the Geek Feminism Wiki. Contributors to this document: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol
 Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy
 Teal.
-
-
