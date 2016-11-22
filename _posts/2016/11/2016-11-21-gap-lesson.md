@@ -7,8 +7,9 @@ time: "15:00:00"
 category: ["Lessons"]
 ---
 
-This is a blog post about the Software Carpentry lesson
-["Programming with GAP"](http://alex-konovalov.github.io/gap-lesson/).
+ Software Carpentry is more than just a set of workshops and lessons. It is
+ also a way to develop lessons, one that we have used successfully to create
+ a lesson on [Programming with GAP](http://alex-konovalov.github.io/gap-lesson/).
 
 [GAP](http://www.gap-system.org/) is an open source system for discrete
 computational algebra. It provides a programming language with the same name;
