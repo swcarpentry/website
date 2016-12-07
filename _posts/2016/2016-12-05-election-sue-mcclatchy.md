@@ -76,4 +76,4 @@ More about me if you're so inclined
 More about me on [LinkedIn](https://www.linkedin.com/in/suemcclatchy), 
 [Github](https://github.com/smcclatchy), and an occasional tweet from 
 [@SueMcclatchy](https://twitter.com/SueMcclatchy).
-I also have a minimalist [instructor training blog] (https://smcclatchy.github.io/).
+I also have a minimalist [instructor training blog](https://smcclatchy.github.io/).
