@@ -11,7 +11,7 @@ This March I signed up for a Software Carpentry class and learned Python for the
 
 I originally signed up for the workshop for my PhD research in mosquito behavior. I needed to automate some video analysis tasks, and several friends recommended learning Python. I ended up making the video analysis work (thanks Software Carpentry!), but this blog is actually about a Python art project that I worked on right after finishing the class.
 
-![](/files/2016/12/art0.gif)
+![](/files/2016/12/art2.gif)
 
 One of my Python [matplotlib](http://matplotlib.org/) animations, based on the public commons image [Arabesques: mosaïques murales XVe. & XVIe. siècles](http://digitalcollections.nypl.org/items/510d47d9-665a-a3d9-e040-e00a18064a99).
 
@@ -23,7 +23,7 @@ In our class we worked on graphing the example "inflammation dataset" using matp
 
 For my project I wanted to make a browsable color palette website like [Adobe Kuler](https://color.adobe.com/explore/most-popular/?time=all), but with animated examples for every color palette. This was fairly straightforward once I figured out that [matplotlib.patches](http://matplotlib.org/api/patches_api.html) will plot any shape given a list of points. After that I just needed to define a set of shapes and pass their location and size to each frame of the GIF. (I also turned the project into an [open source Git repository](https://github.com/TabletopWhale/AnimatedPythonPatterns), for anyone who wants to take a closer look.)
 
-![](/files/2016/12/art2.gif)
+![](/files/2016/12/art0.gif)
 
 Another Python animation, based on the public commons image [Mosaik aus der Moschee des Galaon el Alfi auf der Citadelle zu Kairo (Friedrich Hessemer 1842)](http://digitalcollections.nypl.org/items/510d47d9-6923-a3d9-e040-e00a18064a99)
 
