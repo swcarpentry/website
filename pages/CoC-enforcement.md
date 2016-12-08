@@ -7,7 +7,7 @@ title: Code of Conduct Enforcement Manual
 This is the enforcement manual followed by Software and Data Carpentry's (“the Carpentries”) 
 Policy subcommittee. It's used when we respond to an issue to make sure we're consistent and fair. It should be
 considered an internal document, but we're publishing it publicly in the interests of transparency. Enforcement
-of the [Code of Conduct](/code-of-conduct/) should be respectful and not include any harassing behaviors.  
+of the [Code of Conduct](/conduct/) should be respectful and not include any harassing behaviors.
 
 **The Policy Subcommittee**  
 All responses to reports of conduct violations will be managed by a Policy Subcommittee
