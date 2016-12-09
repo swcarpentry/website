@@ -4,7 +4,7 @@ authors: ["Marco Fahmi"]
 title: "How Software Carpentry can help you switch careers"
 date: 2016-07-27
 time: "00:00:01"
-category: ["Training", "Careers"]
+category: ["Instructor Training", "Careers"]
 ---
 
 You've heard how Software Carpentry is important not only to get your research done but also to make it better and thus
