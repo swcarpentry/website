@@ -4,7 +4,7 @@ authors: ["Kate Hertweck"]
 title: "Call for Candidates for the 2017 Steering Committee"
 date: 2016-10-24
 time: "08:00:00"
-category: ["Community", "Elections", "Steering Committee"]
+category: ["Community", "Election 2017", "Steering Committee"]
 ---
 
 Software Carpentry will hold its annual election for the

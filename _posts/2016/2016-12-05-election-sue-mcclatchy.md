@@ -4,7 +4,7 @@ authors: ["Sue McClatchy"]
 title: "2017 Election: Sue McClatchy"
 date: 2016-12-05
 time: "14:00:00"
-category: ["Software Carpentry Foundation", "Elections", "Steering Committee"]
+category: ["Software Carpentry Foundation", "Election 2017", "Steering Committee"]
 ---
 
 Hi,
