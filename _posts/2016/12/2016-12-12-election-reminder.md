@@ -4,7 +4,7 @@ authors: ["Kate Hertweck"]
 title: "Don't forget to submit your post to stand for the 2017 Steering Committee"
 date: 2016-12-12
 time: "00:12:00"
-category: ["Community", "Elections", "Steering Committee"]
+category: ["Community", "Election 2017", "Steering Committee"]
 ---
 
 If you've considered running for the 2017 Software Carpentry Steering Committee, 
