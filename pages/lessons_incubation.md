@@ -233,3 +233,15 @@ secured funding, attach details. If you have not, but intend to seek
 it, describe any planned or submitted funding requests. If the work is
 not being funded, explain how development and delivery will be
 supported.
+
+## 6. Translations
+
+As inclusive international organizations, we fully endorse instructors
+who wish to teach in the languages of their choice.  While we would
+like to aid this by supporting translations of lessons into languages
+other than English, our experience is that doing this is comparable in
+effort to creating a lesson in the first place.  In particular,
+maintaining a translated lesson as material evolves requires
+significant long-term commitment.  We are therefore only able to aid
+such efforts if they are backed by the kind of resources described
+above for new lessons.

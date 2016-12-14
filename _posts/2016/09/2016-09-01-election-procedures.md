@@ -4,7 +4,7 @@ authors: ["Kate Hertweck"]
 title: "Election Announcement: Amending Steering Committee election procedures"
 date: 2016-09-01
 time: "00:10:00"
-category: ["steering committee"]
+category: ["Steering Committee"]
 ---
 
 The Steering Committee will be holding a special election on October 10-14
