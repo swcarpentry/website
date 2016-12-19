@@ -2,33 +2,66 @@
 layout: post
 authors: ["Kate Hertweck"]
 title: "2017 Election: Kate Hertweck"
-date: 2016-12-13
-time: "09:00:00"
-category: ["Software Carpentry Foundation", "Elections", "Steering Committee"]
+date: 2016-12-19
+time: "16:00:00"
+category: ["Software Carpentry Foundation", "Election 2017", "Steering Committee"]
 ---
 
-I am excited to again stand for election for the 2017 Software Carpentry Steering 
-Committee (SWC SC). I hope you'll support me in this year's election so I can continue to 
-serve our communities. 
+I am excited to stand for election for the 2017 Software Carpentry Steering 
+Committee (SWC SC). I hope you'll consider supporting me in this year's election so I may 
+continue to serve our community.
 
 Previous experience with Software Carpentry:
 -----
-It's been my pleasure to serve on the SWC SC for the past year 
-(you can read my 2016 election blog post 
-[here](https://software-carpentry.org/blog/2016/01/steering-Hertweck.html)). 
-* Mentoring and discussion sessions
-* Lesson maintainers (https://software-carpentry.org/blog/2016/10/maintainers-meeting.html)
-* Resolutions on Steering Committee
+It's been my pleasure to serve on the SWC SC for the past year (you can read my 2016 
+election blog post [here](https://software-carpentry.org/blog/2016/01/steering-Hertweck.html)). 
+I am pleased to have contributed in the following ways:
+* *Social media:* Last May, I created a [Facebook page for the Carpentries](https://www.facebook.com/carpentries) 
+and have since posted the majority of content.
+* *Mentoring and discussion sessions:* My SWC service originally started with the mentoring 
+subcommittee; I'm pleased to have continued this work over the last year primarily by hosting 
+discussion sessions. 
+* *Lesson maintainers:* I spent the early part of 2016 observing and learning about our 
+lesson development and maintenance process. A few months back, I began leading this group 
+through a process of [reorganization](https://software-carpentry.org/blog/2016/10/maintainers-meeting.html) 
+and am excited to formally submit subcommittee proposals accordingly.
+* *Bridge committee and community calls:* As part of my SWC SC responsibilities, I served 
+as a liaison to the Bridge committee with Data Carpentry. This group took over organizing 
+community calls in the latter part of the year, and I've been pleased to attend and 
+participate in these community interactions.
+* *SC resolutions:* I am pleased to have led discussions among members 
+of the SC that resulted in what I believe are positive changes for our community. First, I 
+helped the SC devise a policy to assist in [continuity of the SC following elections](https://software-carpentry.org/blog/2016/09/election-procedures.html), 
+which was passed via community vote in October. Second, a motion I proposed at the end of 
+[November](https://github.com/swcarpentry/board/blob/master/minutes/minutes-2016-11-30.md#motion-2016-11-301)  
+will continue availability of open online instructor training for members of our community 
+at institutions that do not currently have access to training through joint organizational 
+memberships. I believe both of these projects ensure stability and continued growth for SWC.
 
 Future goals for Software Carpentry:
 -----
-* building community, implementation and oversight of subcommittees and taskforces
-* clarifying leadership expectations and responsibilities among SC, Advisory Council, staff
-* reunification with Data Carpentry
+The time I've spent on the SWC SC has been essential to my development of an effective 
+model of leadership. In retrospect, it took a solid six months for me to "hit my stride," 
+and I feel uniquely poised to move into the 2017 SC with specific goals and the capacity to 
+act upon them. My experiences working with the SC and other committees described above have 
+reaffirmed my commitment to providing strong leadership in the following areas:
+* *Clarifying responsibilities in leadership:* SWC has matured a great deal since the first 
+SC was elected two years ago. I am keen to solidify the specific roles best filled by 
+not only the SC, but also the Advisory Council, staff, and other community leaders.
+* *Communication and community engagement:* Our organization faces many challenges in terms 
+of communicating with an intellectually diverse and geographically dispersed community. I 
+want to do a better job of relaying information about choices made at the SC and subcommittee 
+level back to the community, and balancing community input with steady movement towards 
+decision making and progress as an organization.
+* *Streamlining operations with Data Carpentry:* I am very excited to have worked closely 
+with Data Carpentry staff this year, and am looking forward to continuing to integrate our 
+operations to our mutual benefit.
 
 More about me:
 -----
 My current position is Assistant Professor of Biology at the University of Texas at Tyler. 
 I teach plant taxonomy, genomics, and bioinformatics, and also mentor undergraduates and 
 graduate students in independent research. I'm happy to chat about science, teaching, and 
-faculty life on Twitter, 
+faculty life on [Twitter](https://twitter.com/k8hert) or my [blog](http://k8hert.blogspot.com), 
+and you can learn more about my research on [GitHub](https://github.com/k8hertweck) or my 
+[research/teaching website](https://sites.google.com/site/k8hertweck/).
