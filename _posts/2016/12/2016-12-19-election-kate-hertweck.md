@@ -14,8 +14,7 @@ continue to serve our community.
 Previous experience with Software Carpentry:
 -----
 Some folks might consider it insanity for a tenure-track assistant professor to volunteer so much 
-time to the Carpentries. I assure you that the time I've spent as a member of the SC over 
-the last year has been well worth it, as I've contributed in the following ways:
+energy to the Carpentries, but in reality, the time I've spent on the SWC SC has been essential to my development of an effective model of leadership. The following points highlight my contributions to our community:
 * **Social media:** Last May, I created a [Facebook page for the Carpentries](https://www.facebook.com/carpentries) 
 and have since posted the majority of content.
 * **Mentoring and discussion sessions:** My SWC service originally started with the mentoring 
@@ -40,11 +39,10 @@ I believe both of these projects ensure stability and continued growth for SWC.
 
 Future goals for Software Carpentry:
 -----
-The time I've spent on the SWC SC has been essential to my development of an effective 
-model of leadership. In retrospect, it took a solid six months for me to "hit my stride," 
-and I feel uniquely poised to move into the 2017 SC with specific goals and the capacity to 
-act upon them. My experiences working with the SC and other committees described above have 
-reaffirmed my commitment to providing strong leadership in the following areas:
+In retrospect, it took a solid six months for me to "hit my stride" as a member of the SC, 
+and I'm eager to capitalize on this interia by continuing for another year. 
+My experiences working with the SC and other committees described above have 
+reaffirmed my commitment to providing strong leadership with the following goals:
 * **Clarifying responsibilities in leadership:** SWC has matured a great deal since the first 
 SC was elected two years ago. I am keen to solidify the specific roles best filled by 
 not only the SC, but also the Advisory Council, staff, and other community leaders.
