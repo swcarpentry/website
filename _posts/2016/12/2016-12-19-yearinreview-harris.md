@@ -8,7 +8,7 @@ category: ["Steering Committee", "Software Carpentry Foundation", "Election 2016
 ---
 
 # A year in review 
-I want to thank you for giving me the prilege to serve on the Software Carpentry Steering Committee. Here is a very brief recap of the year. Click this link to read my 2017 election post. 
+I want to thank you for giving me the prilege to serve on the Software Carpentry Steering Committee. Here is a very brief recap of the year. Click [this link]({{site.baseurl}}/blog/2016/01/steering-harris.html) to read my 2017 election post. 
 
 ## A year ago, I said I would focus my efforts on:
 
