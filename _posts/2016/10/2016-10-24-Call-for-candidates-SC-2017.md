@@ -30,7 +30,7 @@ you write a blog post that introduces yourself to the community. The post:
 * must be titled "2017 Election: Your Name"
 * must be submitted by December 23, 2016
 
-You can submit your post as a pull requestion to 
+You can submit your post as a pull request to 
 [this repository](https://github.com/swcarpentry/website) or 
 [by email](mailto:admin@software-carpentry.org). In
 the post, you should explain:
