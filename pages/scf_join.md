@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 permalink: /scf/join/
-title: Become a Member Organization 
+title: Become a Member Organization
 ---
 ![Stockholm 2014]({{site.filesurl}}/workshops/scilifelab-2014-05-slice.jpg)
 
@@ -23,7 +23,6 @@ We offer several levels of Membership, based on training activities expected ann
 |Train an in-house instructor <br>trainer at partner org|No|No|No|Available|
 |Lesson development <br>services|No|No|No|Available|
 |Joint Fee (annual)|[$5,000](mailto:partnerships@software-carpentry.org?subject=Interested in Bronze Partnership)|[$7,500](mailto:partnerships@software-carpentry.org?subject=Interested in Silver Partnership)|[$15,000](mailto:partnerships@software-carpentry.org?subject=Interested in Gold Partnership)|[Contact us](mailto:partnerships@software-carpentry.org?subject=Interested in Platinum Partnership)|
-|SC or DC Only (annual)|$4,000|$6,500|$12,500|Contact us|
 
 
 #### Notes
