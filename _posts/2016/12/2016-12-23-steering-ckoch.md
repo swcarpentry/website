@@ -15,8 +15,8 @@ To begin, I present:
 > * 2013-May: Attend Software Carpentry workshop (and see git and Python for the first time).
 > * 2014-January: Teach first Software Carpentry workshop.
 > * 2014-March: First time travelling abroad for Software Carpentry.
-> * 2014-May: Hear about a day job through the Software Carpentry blog.
-> * 2014-October: Get the job.
+> * 2014-May: Hear about a job through the Software Carpentry blog.
+> * 2014-October: Get the job (which is still my job).
 > * 2014-November: Become a lesson maintainer.
 > * 2015-December: First time leading an instructor training.
 > * 2016-January: Switch roles, from lesson maintainer to mentoring committee chair.
@@ -24,7 +24,11 @@ To begin, I present:
 
 To this list, I would like to add: 
 
-> * 2017-January: Run for the Software Carpentry steering committee.  
+> * 2016-December: Stand for the Software Carpentry steering committee.  
+
+And hopefully:
+
+> * 2017-January: Begin serving on the Software Carpentry steering committee.  
 
 As you can see, Software Carpentry has meant a lot to me over the past 
 3-4 years.  I've received so much from the community, and would now like 
@@ -56,8 +60,17 @@ If you read the above timeline carefully, you'll see that I went from my very
 first Python script and git repository to teaching other people in 
 under a year.  I'll be applying that 
 same "get-started" motivation to my work on the steering committee - learning
-the ropes as quickly as possible so that I can direct my energy towards contributing 
-back to the community right away.  
+the ropes as quickly as possible so that I can direct my energy 
+back towards the community right away.  
 
 If any of this sounds interesting to you, I encourage you to vote for me, or 
-even better, to join me and stand for the steering committee yourself!
+even better, to join me and stand for the steering committee yourself!  
+
+P.S. For those who are interested in knowing a little more about me, I work as 
+a [Research Computing Facilitator](http://wid.wisc.edu/profile/christina-koch/) for 
+the [Center For High Throughput Computing](http://chtc.cs.wisc.edu/) at the
+[University of Wisconsin - Madison](http://www.wisc.edu/).  I love to read, 
+have recently gotten into knitting, and this winter, have tried my hand 
+at [curling](https://en.wikipedia.org/wiki/Curling) for the first time.  You 
+can say hi or follow me on Twitter at 
+[@_christinaLK](https://twitter.com/_christinaLK). 
