@@ -3,7 +3,7 @@ layout: post
 authors: ["Christina Koch"]
 title: "2017 Election: Christina Koch"
 date: 2016-12-22
-time: "23:00:00"
+time: "07:30:00"
 category: ["Election 2017", "Software Carpentry Foundation", "Steering Committee"]
 ---
 
