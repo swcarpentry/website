@@ -58,7 +58,7 @@ the organization and its members.
 
 If you read the above timeline carefully, you'll see that I went from my very 
 first Python script and git repository to teaching other people in 
-under a year.  I'll be applying that 
+under a year.  I'd be applying that 
 same "get-started" motivation to my work on the steering committee - learning
 the ropes as quickly as possible so that I can direct my energy 
 back towards the community right away.  
