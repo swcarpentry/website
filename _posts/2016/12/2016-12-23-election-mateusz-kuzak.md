@@ -17,14 +17,14 @@ research software projects, I’m involved in Center’s training
 activities and software development best practices.
 
 I got sucked into  in Software Carpentry world through Elixir Data
-Carpentry Pilot organised by Aleksadra Pawlik. During hackathon in
+Carpentry Pilot organised by Aleksandra Pawlik. During hackathon in
 Helsinki, together with Francois Michonneau and few other people we
 kickstarted `ggplot2` part in `R-ecology-lesson`.  From day one I
 learned a lot about the mechanics of SC, lesson development and
 logistics of the workshops.
 
 ## Instructor
-At the end of 2015 I attended instructor training in Manchester and
+At the end of 2015, I attended instructor training in Manchester and
 became certified instructor shortly after. Since then I instructed
 at 7 SC and DC workshops around Europe and few more eScience Center
 workshops based on Software or Data Carpentry materials. Currently,
@@ -36,10 +36,7 @@ I’m planning on becoming host next year. I also joined recently
 announced mentorship program.
 
 ## Library Carpentry
-With small group of people in Amsterdam we hosted site for Mozilla
-Science Global Sprint and joined groups around the world in the
-effort to migrate Data Carpentry lessons to Library Carpentry.
- I have been contributing to LC materials since then.
+
 
 ## Netherlands and Europe
 I see how powerful Carpentries training model is and how important
