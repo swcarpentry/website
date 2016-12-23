@@ -34,7 +34,7 @@ As you can see, Software Carpentry has meant a lot to me over the past
 3-4 years.  I've received so much from the community, and would now like 
 to give back in a new way - as a member of the steering committee.  
 
-As a member of the steering committee, I primarily aim to:
+As a member of the steering committee, I would primarily aim to:
 
 * work together with my fellow committee-members, the Software Carpentry leadership, 
 and the community at large to build a shared vision and direction 
