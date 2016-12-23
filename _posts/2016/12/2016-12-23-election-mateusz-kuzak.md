@@ -36,6 +36,10 @@ I’m planning on becoming host next year. I also joined recently
 announced mentorship program.
 
 ## Library Carpentry
+With small group of people in Amsterdam we hosted site for Mozilla
+Science Global Sprint and joined groups around the world in the
+effort to migrate Data Carpentry lessons to Library Carpentry.
+I have been contributing to LC materials since then.
 
 
 ## Netherlands and Europe
