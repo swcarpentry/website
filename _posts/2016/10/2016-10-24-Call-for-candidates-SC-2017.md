@@ -4,7 +4,7 @@ authors: ["Kate Hertweck"]
 title: "Call for Candidates for the 2017 Steering Committee"
 date: 2016-10-24
 time: "08:00:00"
-category: ["Community", "Elections", "Steering Committee"]
+category: ["Community", "Election 2017", "Steering Committee"]
 ---
 
 Software Carpentry will hold its annual election for the
@@ -30,7 +30,7 @@ you write a blog post that introduces yourself to the community. The post:
 * must be titled "2017 Election: Your Name"
 * must be submitted by December 23, 2016
 
-You can submit your post as a pull requestion to 
+You can submit your post as a pull request to 
 [this repository](https://github.com/swcarpentry/website) or 
 [by email](mailto:admin@software-carpentry.org). In
 the post, you should explain:
