@@ -4,7 +4,7 @@ authors: ["Rayna Harris"]
 title: "3rd Annual Big Data in Biology Summer School"
 date: 2016-03-08
 time: "13:30:00"
-category: ["UNIVERSITY OF TEXAS - AUSTIN"]
+category: ["University of Texas - Austin"]
 ---
 
 The [Center for Computational Biology and Bioinformatics](http://ccbb.biosci.utexas.edu) at The University of Texas at Austin is hosting the [3rd Annual Big Data in Biology Summer School](http://ccbb.biosci.utexas.edu/summerschool.html) May 23–26, 2016.
