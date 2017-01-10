@@ -1,7 +1,7 @@
 ---
 layout: post
 authors: ["Martin Dreyer"]
-title: "1 -  31 December, 2016:  Instructor Training, UCSF Library, Code of Conduct, Announcement List, Steering Committee minutes."
+title: "1 -  31 December, 2016:  Instructor Training, Community Service Awards, Career paths, Steering Committee Elections."
 date: 2016-12-31
 time: "23:00:00"
 category: ["Community"]
