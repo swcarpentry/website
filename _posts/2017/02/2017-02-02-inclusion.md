@@ -3,7 +3,7 @@ layout: post
 authors: ["Carpentries Staff and Steering Committees"]
 title: "Standing for Inclusivity"
 date: 2017-01-01
-time: "14:00"
+time: "10:30"
 category: ["Diversity", "Community"]
 ---
 
