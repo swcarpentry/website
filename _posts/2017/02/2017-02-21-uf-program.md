@@ -109,20 +109,22 @@ maintaining volunteers’ motivation and momentum. We didn’t plan these in adv
 but now that we have them in place, we recognize them as the reasons we can
 continue to keep our community engaged and excited about putting on workshops.
 
-Instructor density - have enough instructors to get 3-6 people at each workshop
-without burdening anyone’s schedule Instructor cohesion - just like we suggest
-learners attend workshops with a buddy, instructors who come to the instructor
-training from the same department or discipline immediately make their own
-community of practice Instructor mentorship - a core group of senior instructors
-to guide initial workshops (note the plural) so new instructors can focus on the
-teaching experience without the logistical burdens Professional staff - find
-staff who organize workshops as part of their job to share the overhead of
-coordinating logistics Institution-level support - a single research lab or
-department doesn’t have enough people to do this on its own, doing it for the
-whole institution fits the needs of everyone and shares the work Follow-through
-- have supporting events and communities available for people to keep learning
-and keep their experience with the Carpentries fresh in their minds when it
-comes time to look for more instructors and helpers
+1. **Instructor density** - have enough instructors to get 3-6 people at each 
+workshop without burdening anyone’s schedule 
+1. **Instructor cohesion** - just like we suggest learners attend workshops with 
+a buddy, instructors who come to the instructor training from the same 
+department or discipline immediately make their own community of practice 
+1. **Instructor mentorship** - a core group of senior instructors to guide 
+initial workshops (note the plural) so new instructors can focus on the teaching
+experience without the logistical burdens
+1. **Professional staff** - find staff who organize workshops as part of their 
+job to share the overhead of coordinating logistics 
+1. **Institution-level support** - a single research lab or department doesn’t 
+have enough people to do this on its own, doing it for the whole institution 
+fits the needs of everyone and shares the work 
+1. **Follow-through** - have supporting events and communities available for 
+people to keep learning and keep their experience with the Carpentries fresh in 
+their minds when it comes time to look for more instructors and helpers
 
 
 ## Community Building After the Workshops
@@ -199,10 +201,11 @@ community
 To continue support of what we consider to be the key parts of our success, we
 still need:
 
-A UF department or institute to adopt the goal of informatics capacity building
-for the UF community. An individual to be given the task of coordinating this
-goal across UF. Continuous funding and resources to provide for a pipeline of
-people capable of meeting this goal.
+1. A UF department or institute to adopt the goal of informatics capacity 
+building for the UF community.
+1. An individual to be given the task of coordinating this goal across UF. 
+1. Continuous funding and resources to provide for a pipeline of people capable 
+of meeting this goal.
 
 We believe UF has a unique opportunity to create a sustainable effort that cuts
 across individual departments and research labs. While existing on-book courses
@@ -220,29 +223,31 @@ The following people have been active members of the UF instructor community and
 have volunteered their time in the past year by participating as instructors or
 helpers during the recent workshops:
 
-Erica Christensen (*) - Ernest Lab, WEC
-Matthew Collins - Advanced Computing and Information Systems  Lab, ECE
-Dave Harris (*) - White Lab, WEC
-Allison Jai O'Dell (*) - George A Smathers Libraries
-Sergio Marconi (*) - White Lab, WEC
-François Michonneau - Martindale Lab, Whitney Laboratory for Marine Bioscience
-Elise Morrison (*) - Soil and Water Sciences, IFAS
-Deborah Paul (*) - Institute for Digital Information, Florida State University
-Kristina Riemer (*) - White Lab, WEC
-Henry Senyondo (*) - White Lab, WEC
-Miao Sun - Soltis Lab, FLMNH
-Brian Stucky (*) - Guralnick Lab, FLMNH
-Shawn Taylor (*) - White Lab, WEC
+Erica Christensen (\*) - Ernest Lab, WEC  
+Matthew Collins - Advanced Computing and Information Systems Lab, ECE  
+Dave Harris (\*) - White Lab, WEC  
+Allison Jai O'Dell (*) - George A Smathers Libraries  
+Sergio Marconi (\*) - White Lab, WEC  
+François Michonneau - Martindale Lab, Whitney Laboratory for Marine Bioscience  
+Elise Morrison (\*) - Soil and Water Sciences, IFAS  
+Deborah Paul (\*) - Institute for Digital Information, Florida State University  
+Kristina Riemer (\*) - White Lab, WEC  
+Henry Senyondo (\*) - White Lab, WEC  
+Miao Sun - Soltis Lab, FLMNH  
+Brian Stucky (\*) - Guralnick Lab, FLMNH  
+Shawn Taylor (\*) - White Lab, WEC  
 
-(*) Trained at the January 2016 UF instructor training workshop
+(\*) Trained at the January 2016 UF instructor training workshop
 
 The following entities have contributed material support to our workshops or the
 Carpentries communities:
 
 Advanced Computing and Information Systems Lab, Electrical and Computer
-Engineering Soltis Lab, Florida Museum of Natural History University of Florida
-Biodiversity Institute University of Florida Informatics Institute White Lab,
-Wildlife Ecology and Conservation
+Engineering  
+Soltis Lab, Florida Museum of Natural History  
+University of Florida Biodiversity Institute  
+University of Florida Informatics Institute  
+White Lab, Wildlife Ecology and Conservation
 
 We would also like to thank the incredible support provided by Alethea Geiger,
 Flora Marynak, and Deb Campbell at the UF Informatics Institute. They have
