@@ -15,13 +15,13 @@ the computing skills they need to be successful in our data-driven world. The
 Carpentries are international organizations that provide materials, instructor
 certification, and organization of multi-day workshops on basic software
 development and data analysis tools. In January 2016 a Software Carpentry
-instructor training workshop held at the [University of Florida Informatics
-Institute](https://informatics.institute.ufl.edu/) provided the start of our
-efforts. Since then, instructors trained here as well as experienced instructors
-already in the UF community have held four workshops, reaching 98 participants,
-including 70 students, 14 staff and 11 faculty. The participants received
-training in programming languages like R and Python, version control with Git
-and GitHub, SQL database queries, OpenRefine, and Excel spreadsheets.
+instructor training workshop held at the University of Florida Informatics
+Institute provided the start of our efforts. Since then, instructors trained
+here as well as experienced instructors already in the UF community have held
+four workshops, reaching 98 participants, including 70 students, 14 staff and 11
+faculty. The participants received training in programming languages like R and
+Python, version control with Git and GitHub, SQL database queries, OpenRefine,
+and Excel spreadsheets.
 
 <div style="text-align:center"> 
 <img src="{{ site.filesurl<}}/2017/02/bar_participants_affiliations.png" width="400px" 
@@ -52,11 +52,14 @@ whether they are students, staff, or faculty, this opportunity.
 Though UF has a longer history with the Data and Software Carpentry communities,
 the start of this current program was an [instructor training
 workshop](http://swcarpentry.github.io/training-florida-2016-01-21/) held in
-January 2016 at the UF Informatics Institute (UFII). [Dr. Ethan
-White](http://whitelab.weecology.org/user/3) provided funds (through a grant
-from the Gordon and Betty Moore Foundation) for UF to become a Software
-Carpentry Foundation affiliate member and to run an on-site training for
-instructors. Fourteen people from UF attended the 2016 workshop, 5 came from
+January 2016 at the [UF Informatics
+Institute](https://informatics.institute.ufl.edu/) (UFII). [Dr. Ethan
+White](http://whitelab.weecology.org/user/3) provided funds (through [a grant
+from the Gordon and Betty Moore Foundation](https://www.moore.org/article-
+detail?newsUrlName=the-gordon-and-betty-moore-foundation-selects-awardees-
+for-$21-million-in-grants-to-stimulate-data-driven-discovery)) for UF to become
+a Software Carpentry Foundation affiliate member and to run an on-site training
+for instructors. Fourteen people from UF attended the 2016 workshop, 5 came from
 other Florida institutions, and 4 from elsewhere in the US and Canada. As a
 result of this workshop, 8 participants from UF became newly certified
 instructors for Software or Data Carpentry. Today there are a total of 10 active
@@ -190,11 +193,11 @@ have taught workshops in [Nairobi, Kenya](https://www.idigbio.org/content
 /idigbio-and-data-carpentry-go-africa) and Santa Clara, [Costa
 Rica](https://www.idigbio.org/content/software-carpentry- goes-tdwg-and-costa-
 rica-two-firsts) before the Biodiversity Information Standards conferences in
-2015 and 2016. He has also served as a mentor to instructors trained during the
-[South African instructor training](https ://software-
-carpentry.org/blog/2016/01/a-year-of-swc-in-south-africa.html) and more recently
-is a member of the formal Carpentry mentorship program providing on-going
-support to new instructors across the country.
+2015 and 2016. M. Collins has also served as a mentor to instructors trained
+during the [South African instructor training](https ://software-
+carpentry.org/blog/2016/01/a-year-of-swc-in-south-africa.html) and along with D.
+Paul has more recently become a member of the formal Carpentry mentorship
+program providing on-going support to new instructors across the country.
 
 
 
@@ -206,7 +209,7 @@ and informal funding and infrastructure support. We are now looking for a way to
 formalize UF’s commitment to building capacity in informatics skills for its
 staff, students, and faculty through an on-going structure.
 
-To start this process a consortium of labs and institutes at the University of
+To start this process, a consortium of labs and institutes at the University of
 Florida have combined resources to sponsor a joint Gold Partnership with
 Software and Data Carpentry going forward. The UF partners are Dr. White’s lab,
 the UF Biodiversity Institute (via [Dr. Pamela Soltis](http://www.flmnh.ufl.edu
@@ -215,8 +218,7 @@ Soltis), and the UF Informatics Institute (via Dr. Michailidis). This
 partnership will provide annual instructor training opportunities to grow the
 instructor community
 
-To continue support of what we consider to be the key parts of our success, we
-still need:
+To continue the rest of the key parts of our success, we still need:
 
 1. A UF department or institute to adopt the goal of informatics capacity 
 building for the UF community.
