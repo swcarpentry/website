@@ -18,7 +18,7 @@ community members who organize initiatives to support instructors and
 
 The mentoring committee meets once a month to discuss current activities and 
 new ideas, and we help organize the weekly instructor discussion 
-sessions hosted on[ this etherpad](http://pad.software-carpentry.org/instructor-discussion).  
+sessions hosted on [this etherpad](http://pad.software-carpentry.org/instructor-discussion).  
 
 We would love to expand our activities and for all of our activities 
 to be a true community-driven and community-owned effort.  To make 
