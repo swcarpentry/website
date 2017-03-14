@@ -3,7 +3,7 @@
 
 <!-- Only include mapping stuff if we're going to draw a map -->
 {% if page.map_url && page.map_element %}
-<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBSzUSgIo5MjhFxF5xSjM1oVWVbTsZw9oIv=3.exp&amp;sensor=false"></script>
 <script type="text/javascript" src="{{ site.baseurl }}/assets/js/markerclusterer.js"></script>
 <script type="text/javascript" src="http://jawj.github.io/OverlappingMarkerSpiderfier/bin/oms.min.js"></script>
 <script type="text/javascript" src="{{ site.baseurl }}/assets/js/maps.js"></script>
