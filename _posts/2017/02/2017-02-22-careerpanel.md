@@ -1,6 +1,6 @@
 ---
 layout: post
-authors: ["Laren Michael"]
+authors: ["Lauren Michael"]
 title: "Carpentries Career Pathways Panel - Marianne Corvellec, Bernhard Konrad, Aleksandra Pawlik"
 date: 2017-02-22
 time: "8:15"
