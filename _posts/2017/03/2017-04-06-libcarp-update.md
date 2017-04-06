@@ -21,17 +21,17 @@ on 1-2 June. This is our [sign up etherpad](http://pad.software-carpentry.org/lc
 So far, we have five sites committed to host people working on the sprint. 
 People are also signing up to work remotely. 
 
-We plan to work on SQL, Python, and web scraping lessons, rebuild our main page 
-[Library Carpentry](https://librarycarpentry.github.io), and to work out a way to record and track workshops better. 
+We plan to work on SQL, Python, and web scraping lessons, rebuild our main 
+[Library Carpentry](https://librarycarpentry.github.io) page, and to work out a way to record and track workshops better. 
 We are also hoping to make Library Carpentry work for archivists. We are currently seeking 
 feedback on what archivists want through this 
 [form](https://docs.google.com/forms/d/e/1FAIpQLSdc9RHNmgffnt9UtLfgIhS_MGUzh0wh-HQNX24wBz5c4mcf1g/viewform).
 
 Here is [more information on what we hope to tackle in the sprint](https://github.com/LibraryCarpentry/librarycarpentry.github.io/issues/23).  
 
-So far, there have been about 15 Library Carpentry workshops since last year’s global sprint 
-provided the impetus to build this community. The [chat room]9https://gitter.im/weaverbel/LibraryCarpentry) is very 
-active and a range of issues are constantly debated on GitHub. 
+So far, there have been about 15 Library Carpentry workshops since last year's global sprint 
+provided the impetus for this new community. Our [chat room](https://gitter.im/weaverbel/LibraryCarpentry) is very 
+active and issues are constantly debated on GitHub. 
 
 So far, Australia, Canada, the US, the Netherlands, the UK and South Africa are the main places 
 for activity with New Zealand about to join the bandwagon. 
