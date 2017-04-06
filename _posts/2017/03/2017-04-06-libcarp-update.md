@@ -7,7 +7,8 @@ time: "10:00:00"
 category: ["Library Carpentry"]
 ---
 
-There is lots of current [Library Carpentry](https://librarycarpentry.github.io) activity. Our big news is Library Carpentry won the British Library Labs award last year for innovation. The prize money has since been used to fund Library Carpentry workshops in the UK, 
+There is lots of current [Library Carpentry](https://librarycarpentry.github.io) activity. Our big news is Library Carpentry won the [British Library Labs award](http://labs.bl.uk/British+Library+Labs+Awards) in 2016 for teaching and learning. 
+The prize money has since been used to fund Library Carpentry workshops in the UK, 
 with one in Sheffield just completed, and another upcoming in Taunton in May. 
 
 [Tim Dennis](https://twitter.com/jt14den) (UCSD) and I are running Software Carpentry instructor training for 30 librarians in Portland, Oregon, on 4-5 May, after [csv,conf](https://csvconf.com). I am then teaching [Library Carpentry at MIT](https://weaverbel.github.io/2017-05-11-lc-boston/) with [Juliane Schneider](https://twitter.com/JulianeS) 
