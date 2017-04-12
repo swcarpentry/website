@@ -62,7 +62,7 @@ Enforcement of the Code of Conduct will be respectful and not include any harass
 
 Thank you for helping make this a welcoming, friendly community for all.  
 
-This code of conduct is an adaptation of the one used by the Software Carpentry Foundation and is a modified
+This code of conduct is a modified
 version of that used by PyCon, which in turn is forked from a template written by the Ada Initiative and hosted
 on the Geek Feminism Wiki. Contributors to this document: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol
 Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy
