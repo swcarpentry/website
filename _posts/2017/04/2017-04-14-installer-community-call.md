@@ -10,8 +10,7 @@ category: ["Community","Tools","Teaching"]
 The Software Carpentry [Code of Conduct](https://software-carpentry.org/conduct/) includes 
 a somewhat tongue-in-cheek reference to nondiscrimination based on "choice of text 
 editor." While a choice of software may seem trivial, this particular discussion has led 
-to more than one heated exchange among programmers. In fact, the [Discuss list in March] 
-(http://lists.software-carpentry.org/pipermail/discuss/2017-March/thread.html) 
+to more than one heated exchange among programmers. In fact, the [Discuss list in March](http://lists.software-carpentry.org/pipermail/discuss/2017-March/thread.html) 
 was very active concerning issues with the Windows installer, which provides access to the 
 nano text editor through Git for Windows (used in both the Software Carpentry Shell and Git 
 lessons). That discussion eventually transitioned to consideration of alternative software 
