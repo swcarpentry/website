@@ -2,7 +2,7 @@
 layout: post
 authors: ["Kate Hertweck"]
 title: "Software tools for unix shell: Survey and April community call"
-date: 2017-04-014
+date: 2017-04-14
 time: "11:00:00"
 category: ["Community","Tools","Teaching"]
 ---
@@ -18,13 +18,14 @@ lessons). That discussion eventually transitioned to consideration of alternativ
 tools we might consider using and moved over to [GitHub](https://github.com/carpentries/conversations/issues/11), 
 where you can read more about the opinions and options voiced by participants.
 
-To help us understand how our community feels about the software we use for teaching the 
+To help us understand what our community thinks about the software we use for teaching the 
 shell lesson, we've developed a [short survey](https://goo.gl/forms/wR160moyJmhrxmfr1) to 
 gather information. Please share your thoughts! You may find it useful to peruse the summary 
 and links below before taking the survey.
 
 The [Community Call for April](http://pad.software-carpentry.org/community-call-2017-04-20) 
-will be dedicated to a discussion of software tools used while teaching workshops. 
+will be dedicated to a discussion of software tools used while teaching workshops, 
+with a specific focus on the shell lesson. 
 Please join us on Thursday, April 20 in either of two sessions to hear about the 
 results of the survey and share your thoughts on what tools we should introduce to learners.
 
@@ -36,7 +37,9 @@ and found that, despite these issues, folks tend to like the installer. Given th
 years have passed since this tool was built by our community to teach workshops, it's 
 worth revisiting how we could improve the tools used for the benefit of both instructors 
 and learners. The following suggestions have been offered as ways to resolve the 
-logistical problems we've been facing lately while teaching shell at workshops:
+logistical problems we've been facing lately while teaching shell at workshops. 
+While we're specifically discussing software used to teach the shell lesson, we also 
+acknowledge that some of these tools could also be used for installation of other software as well.
 
 * [Windows installer](https://github.com/swcarpentry/windows-installer): Modify or update to 
 reduce installation problems in workshops. On top of the standard suite of tools provided by 
@@ -54,7 +57,7 @@ although this is problematic for workshops focusing on the use of HPC resources
 
 The challenge associated with utilizing particular software tools during our workshops is 
 that we must balance multiple (sometimes conflicting) needs on the part of both instructors 
-and learners. Some of these considerations include:
+and learners. Some of these considerations that are especially releavant for the shell lesson include:
 
 * Ease of use for learners: Novice programmers should be able to use it without too much 
 effort, and it should be able to handle a breadth of activities throughout the workshop.
