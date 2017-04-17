@@ -48,7 +48,7 @@ used in workshops specifically about them, which have not often been taught in r
 * Create a new custom package that includes nano using:
 	* [Git for Windows SDK](https://github.com/git-for-windows/git/wiki/Technical-overview)
 	* [MSYS2](http://www.msys2.org): discussion [here](https://github.com/swcarpentry/workshop-template/issues/394)
-	* [conda](https://conda.io/docs/): discussion for how it would work in workshops [here](https://conda.io/docs/)
+	* [conda](https://conda.io/docs/): discussion for how it would work in workshops [here](https://github.com/swcarpentry/workshop-template/issues/395)
 	* [Cygwin](https://www.cygwin.com): [installation instructions](https://github.com/swcarpentry/workshop-template/pull/391) for workshops, 
 with extra discussion [here](https://github.com/swcarpentry/windows-installer/issues/2)
 * [Atom](https://atom.io): a stand-alone text editor which would abandon use of nano altogether, 
