@@ -10,8 +10,8 @@ before_script:
 # Assume bundler is being used, therefore
 # # the `install` step will run `bundle install` by default.
 script:
- - yaml-lint -n -i  $(gfind _posts -regex ".*.md\|.*html" )
- - yaml-lint -n -i  $(gfind pages -regex ".*.md\|.*html" ) 
+ - yaml-lint -n -i  $(find _posts -regex ".*.md\|.*html" )
+ - yaml-lint -n -i  $(find pages -regex ".*.md\|.*html" ) 
  - ./bin/cibuild
 
 # # branch whitelist, only for GitHub Pages
