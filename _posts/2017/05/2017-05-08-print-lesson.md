@@ -9,16 +9,16 @@ category: ["Community","Tools","Lessons"]
 
 From the time that I joined Software Carpentry,
 I remember two feature requests that often showed up on our list of issues.
-The first one was links to help navigate the lesson
+The first one was links to help navigate the lessons
 and the second one was a way to print the lessons.
-Add this two features was challenge
+Adding these two features was challenging
 because the limited information that is available as metadata by Jekyll
 (or Pandoc, which we used for a while).
 In addition,
-we want to have a "real" solution
-instead of a workaround that is going to stop work in a few months,
-although as software developers we new that at every new release of Jekyll
-or any other library that we are using
+we want to have a "real" solution,
+instead of a workaround that is going to stop work in a few months. 
+Although as software developers we knew that at every release of Jekyll,
+or any other library, that we are using
 exist a chance that our pipeline will break.
 
 At some point,
@@ -28,7 +28,7 @@ introduced in [Jekyll 2.0.0](https://jekyllrb.com/docs/collections/),
 after [the last review of our template](https://github.com/swcarpentry/DEPRECATED-lesson-template/pull/282#issuecomment-226742892).
 
 But until this month,
-instructors and learners had to print each episode of our lesson individual.
+instructors and learners had to print each episode of our lesson individualy.
 We are happy to introduce our "All episodes in one page".
 
 ## How to Use
