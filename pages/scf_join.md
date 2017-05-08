@@ -22,7 +22,7 @@ We offer several levels of Membership, based on training activities expected ann
 |Seat on the <br>SCF Advisory Board|No|Yes|Yes|Yes|
 |Train an in-house instructor <br>trainer at partner org|No|No|No|Available|
 |Lesson development <br>services|No|No|No|Available|
-|Joint Fee (annual)|[$5,000](mailto:partnerships@software-carpentry.org?subject=Interested in Bronze Partnership)|[$7,500](mailto:partnerships@software-carpentry.org?subject=Interested in Silver Partnership)|[$15,000](mailto:partnerships@software-carpentry.org?subject=Interested in Gold Partnership)|[Contact us](mailto:partnerships@software-carpentry.org?subject=Interested in Platinum Partnership)|
+|Membership Dues (annual)|[$5,000](mailto:memberships@carpentries.org?subject=Interested in Bronze Partnership)|[$7,500](mailto:memberships@carpentries.org?subject=Interested in Silver Partnership)|[$15,000](mailto:memberships@carpentries.org?subject=Interested in Gold Partnership)|[Contact us](mailto:memberships@carpentries.org?subject=Interested in Platinum Partnership)|
 
 
 #### Notes

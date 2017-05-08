@@ -26,6 +26,8 @@
     url: "/scf/awards/"
   - title: "Privacy Policy"
     url: "/privacy/"
+  - title: "Assesment"
+    url: "/assessment/"
 
 - title: "Workshops"
   url: "/workshops/"
