@@ -5,7 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/styles_feeling_responsive.css" />
 	<script src="{{ site.baseurl }}/assets/js/modernizr.min.js"></script>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
   <script>
     WebFont.load({
       google: {
@@ -15,7 +15,7 @@
   </script>
 
   <noscript>
-    <link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic|Volkhov' rel='stylesheet' type='text/css' />
+    <link href='//fonts.googleapis.com/css?family=Lato:400,700,400italic|Volkhov' rel='stylesheet' type='text/css' />
   </noscript>
 
   {% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification}}" />{% endif %}
