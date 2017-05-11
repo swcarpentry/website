@@ -19,7 +19,6 @@ on GitHub. Workshop hosts are expected to assist with enforcement of the Code of
 
 If you believe someone is violating the Code of Conduct we ask that you report it to the joint Data/Software Carpentry (“the Carpentries”) Policy subcommittee by emailing [policy@carpentries.org](mailto:policy@carpentries.org) or 
 C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org), and if the violation occurs during a
-
 workshop or other in-person event,
 by contacting the host and/or coordinator. All reports will be kept confidential.  When possible, please follow
 the reporting guidelines detailed [here](/CoC-reporting/). All reports will be reviewed by the Conduct Policy
