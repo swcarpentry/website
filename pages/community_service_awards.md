@@ -46,3 +46,7 @@ The minutes of award considerations will not name the individuals
 concerned unless an award is made. The Steering Committee will contact
 proposers to keep them informed of the status of their proposals (such
 as when the proposal will receive consideration).
+
+## Past Awardees
+
+* [2016](https://software-carpentry.org/blog/2016/12/community-service-awards.html)
