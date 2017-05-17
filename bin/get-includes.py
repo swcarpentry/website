@@ -18,7 +18,7 @@ def main():
     }
 
     with open(output_file, 'w') as writer:
-        yaml.dump(config, writer, encoding='utf-8', allow_unicode=True)
+        yaml.dump(config, writer, encoding='utf-8', allow_unicode=True, default_flow_style=False)
 
 
 def get_relative(file_pattern, to_subtract):
