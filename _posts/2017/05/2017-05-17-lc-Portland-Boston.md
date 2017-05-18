@@ -29,6 +29,7 @@ On the morning of the workshop, Belinda decided she needed a speaking stick, so 
 
 ![Spatula](spatulamike.jpg "John Chodacki with the talking spatula")
 
+
 This workshop happened because UC3 and the [csv,conf](https://csvconf.com/) came up with the support to make it happen, so thanks, [UC3](https://datapub.cdlib.org/2016/12/08/announcing-instructor-training-for-librarians/) and csv,conf!
 
 ## East Coast, Boston Library Carpentry Workshop
