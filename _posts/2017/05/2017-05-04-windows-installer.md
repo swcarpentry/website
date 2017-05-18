@@ -41,13 +41,13 @@ other options for different projects.
 
 1. What Software Carpentry is looking for?
 
-   A novice-friendly command-line text editor
+   A novice-friendly **command-line** text editor
    for use (primarily) during the shell and Git episodes of Software Carpentry workshops
    that works across Windows, macOS and Linux distributions.
    The installation of this command-line text editor **must** be
    easy or transparent to install along with the other tools we ask learners to have before showing up.
 
-2. Which materials were considered for the plan?
+2. Where can I review the background materials that were considered in the developemnt of this plan?
 
    - [discuss mailing list](http://lists.software-carpentry.org/listinfo/discuss)
    - [Survey](https://docs.google.com/forms/d/e/1FAIpQLSfKxs0fVJsHF33BojYK3xYsEd2KGe2NA-0j0XczM3ah7CTtGA/viewform)
@@ -58,21 +58,20 @@ other options for different projects.
    - [Replace Git Bash with MSYS2](https://github.com/swcarpentry/workshop-template/issues/394)
    - [Community Call](http://pad.software-carpentry.org/community-call-2017-04-20)
 
-3. Which version of Windows will the installer support?
+3. Which versions of Windows will the installer support?
 
    The installer will support Windows 7, Windows 8 and Windows 10.
    The [end of extended support to Windows 7 by Microsoft is January 14, 2020](https://support.microsoft.com/en-us/help/13853/windows-lifecycle-fact-sheet)
-   and because we don't have data about how many learners are using Windows 7,
+   We don't have data about how many learners are using Windows 7, so
    we believe it would be unfair to not include Windows 7
    at the first release of our installer.
 
-4. Do we have a date where the new installer would be available?
+4. Do we have a date where the new installer will be available?
 
-   Not yet. Software Carpentry staffs and Software Carpentry Steering Committee
-   are looking to efficient and sustainable ways to do it.
+   Not yet. Software Carpentry staff and Steering Committee
+   are looking at efficient and sustainable ways to implement the recommendations.
 
-5. Would I be allowed to use my own installer for my workshop?
+5. No change necessary if you already use your own custom installer or teaching environment?
 
-   **Yes.**
-   We allow instructors to use remote machines for our workshops.
-   It would be unfair not to allow you to use your own installer.
+   If you are already using an installer you've created for your own systems or environment,
+   you do not need to make any changes.
