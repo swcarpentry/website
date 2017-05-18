@@ -27,7 +27,7 @@ I have a feeling this group will be doing the same, and the beauty of OpenRefine
 
 On the morning of the workshop, Belinda decided she needed a speaking stick, so we claimed a wooden toy spatula from the daycare room next to the classroom. It was a very popular form of speaking stick, and people were using it as a fake microphone, sometimes without thinking about it which was effective and also hilarious. Here is John Chodacki, using the spatula in a mindful way.
 
-![Spatula](spatulamike.jpeg "John Chodacki with the talking spatula")
+![Spatula](spatulamike.jpg "John Chodacki with the talking spatula")
 
 This workshop happened because UC3 and the [csv,conf](https://csvconf.com/) came up with the support to make it happen, so thanks, [UC3](https://datapub.cdlib.org/2016/12/08/announcing-instructor-training-for-librarians/) and csv,conf!
 
