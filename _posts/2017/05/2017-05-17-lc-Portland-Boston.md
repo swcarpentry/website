@@ -17,7 +17,7 @@ There's a Library Carpentry [Sprint](http://pad.software-carpentry.org/lc2017) c
 
 Remember, Library Carpentry is a no-judgement zone. My cat will judge you, but the LC community will not.
 
-![Juliane's cat](judgycat.jpg "Juliane's cat")
+![Juliane's cat](/files/2017/05/judgycat.jpg "Juliane's cat")
 
 ## West Coast, Library Carpentry Instructor Training
 
@@ -27,7 +27,7 @@ I have a feeling this group will be doing the same, and the beauty of OpenRefine
 
 On the morning of the workshop, Belinda decided she needed a speaking stick, so we claimed a wooden toy spatula from the daycare room next to the classroom. It was a very popular form of speaking stick, and people were using it as a fake microphone, sometimes without thinking about it which was effective and also hilarious. Here is John Chodacki, using the spatula in a mindful way.
 
-![Spatula](spatulamike.jpg "John Chodacki with the talking spatula")
+![Spatula](/files/2017/05/spatulamike.jpg "John Chodacki with the talking spatula")
 
 
 This workshop happened because UC3 and the [csv,conf](https://csvconf.com/) came up with the support to make it happen, so thanks, [UC3](https://datapub.cdlib.org/2016/12/08/announcing-instructor-training-for-librarians/) and csv,conf!
