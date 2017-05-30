@@ -1,0 +1,92 @@
+- Name: Brian Northan
+  Text: "I direct a 4 mile running race near Albany, NY.  I've used Python and Pandas\
+    \ for a few data analysis tasks. \n\nFor example I used Pandas and Bokeh to generate\
+    \ an interactive scatterplot of age vs time everyone who ever did the race.\n\n\
+    [http://bnorthan.github.io/rotg-us/best.html](http://bnorthan.github.io/rotg-us/best.html)\n\nLast year I had a complicated team\
+    \ scoring scheme, which involved age grading some times, and I implemented it\
+    \ in a notebook. \n\n[https://github.com/bnorthan/rotg-us/blob/master/notebooks/ROTG_MINI_GRAND_PRIX.ipynb](https://github.com/bnorthan/rotg-us/blob/master/notebooks/ROTG_MINI_GRAND_PRIX.ipynb)\n\
+    \nI also hosted the website on github\n\n[http://bnorthan.github.io/rotg-us/](http://bnorthan.github.io/rotg-us/)"
+- Name: Jeremy
+  Text: "A twitter bot that tweets randomly generated Journal Articles: [https://twitter.com/PLoS_Markov](https://twitter.com/PLoS_Markov)\
+    \ \n[https://twitter.com/nature_Markov](https://twitter.com/nature_Markov)\ncode:\n[https://github.com/jeremycg/markov-bot](https://github.com/jeremycg/markov-bot)"
+- Name: Anonymous
+  Text: 'I use it to convert a read and csv file from Qualtrics into clean cvs files
+    useful for printing name badges at conferences. I use R code to remove duplicates,
+    change sentence case, standardize across misspelled words or acronyms, and summarize
+    registration information. I keep this all in a private GitHub repo to protect
+    the names of participants. '
+- Name: Nick Hamilton (Dr Nick)
+  Text: "My son and I (then 12) were collecting Bugs Life Dominoes which we got free\
+    \ at the supermarket when we did the weekly shopping. There were 44 different\
+    \ dominoes, but once we had 95 of them it seemed we had an unusually high number\
+    \ of some dominoes, for instance we had 9 of domino number 21. \n\nWe were wondering\
+    \ if there were equal numbers of each domino made or perhaps whether more were\
+    \ made of specific Bugs Life characters, perhaps audience favourites. So we constructed\
+    \ a spreadsheet to count frequencies and then wrote some R code to read it in\
+    \ and do a Chi square test on our data for the null hypothesis of there being\
+    \ equal numbers of each domino made. This gave a p-value of 0.0048 (I just found\
+    \ and ran the code again, you never know when old bits of code will be useful\
+    \ again), suggesting it was very unlikely, maybe only 1 chance in 208 that there\
+    \ were equal numbers of each. So it seems they were making more of favourite characters."
+- Name: Eric Jankowski
+  Text: "[https://bitbucket.org/erjank/olympushelper](https://bitbucket.org/erjank/olympushelper)"
+- Name: Leo Browning
+  Text: 'As a way to learn generative artwork creation using python (inspired by inconvergent.net)
+    I made a set of scripts to make art! The scripts can render the generation in
+    real-time and save the finished work, and the works themselves are based on Brownian
+    motion with some other particle interactions thrown in. You can see more on my
+    github here: [https://github.com/leobrowning92/generative-art](https://github.com/leobrowning92/generative-art)'
+- Name: Azalee Bostroem
+  Text: I wrote a script to execute a craigslist search for apartments and then use
+    keywords to select the ones I was interested in and email me if a new one appeared
+    that matched my criteria. I then set a cronjob to run it every 15 minutes so I
+    didn't have to worry about whether or not I was missing something. This enabled
+    me to respond to an ad for my current apartment within 15 minutes of its posting.
+- Name: Jacqui Muller
+  Text: 'I wrote a program to record my petrol usage each time I filled my car up
+    with petrol. It automatically calculated how many litres I used per kilometer.
+    This helped indicate when my car may need some sort of service. It also recorded
+    a maintainence record which stored when I put oil into my car, had spark plugs
+    changed, minor services, major services, etc. '
+- Name: Richard
+  Text: Writing an SMS chatbot (Sauron) for a Fellowship of the Ring-themed stag party,
+    using Twilio, Node-Red, and the IBM Watson Conversation service. The bot kept
+    track of phone numbers, could randomise character assignments, had knowledge of
+    the Lord of the Rings universe, and could be used to mediate "attacks" between
+    attendees ("You have been betrayed by Boromir! Down your drink!" etc).
+- Name: Joshua Ainsley
+  Text: I use the Tasker app on my Android phone to record when I leave for work and
+    when I leave for home based on what wifi networks I'm connected to. I use scripts
+    written in R to calculate how many hours I spend at work as well as how long my
+    commutes are. I continue to use R to visualize the results and run statistical
+    tests exploring how departure times affect the length of my commutes.
+- Name: tom Wright
+  Text: I like building robots with my kids. Currently we code in a scratch derivative,
+    which doesn't share particularly well, but here's a link to an early effort. [https://github.com/tomwright01/arduino-robot/](https://github.com/tomwright01/arduino-robot/)
+    [http://blog.tomwright.ca/2014/04/21/arduino-robot/](http://blog.tomwright.ca/2014/04/21/arduino-robot/)
+- Name: Mark Laufersweiler
+  Text: Plotting and trying out new visualizations of weather data.
+- Name: Katy Huff
+  Text: 'I planned my wedding. Video here: [https://www.youtube.com/watch?v=ZDK5DZOgHD8#t=19m10s](https://www.youtube.com/watch?v=ZDK5DZOgHD8#t=19m10s)
+    . Code here: [https://github.com/katyhuff/wedding](https://github.com/katyhuff/wedding)'
+- Name: Marianna Foos
+  Text: A click-n-drag resume customizer ([https://github.com/mfoos/shinyresumedemo](https://github.com/mfoos/shinyresumedemo),
+    [https://mfoos.shinyapps.io/shinyresumedemo/](https://github.com/mfoos/shinyresumedemo))
+- Name: Christina Koch
+  Text: "I have used Ipythonblocks (thanks Matt Davis!) for a couple of non-academic\
+    \ uses\n1) Measuring a room + its furniture and planning what it would look like\
+    \ before I actually start lifting: [https://github.com/ChristinaLK/sandbox/blob/master/new_furniture.ipynb](https://github.com/ChristinaLK/sandbox/blob/master/new_furniture.ipynb)\n\
+    2) Creating a visual representation of a knitting pattern I designed: \n[https://github.com/ChristinaLK/sandbox/blob/master/stocking_cap-schematic.ipynb](https://github.com/ChristinaLK/sandbox/blob/master/stocking_cap-schematic.ipynb)"
+- Name: Emily
+  Text: Writing NPC generators for our D&D campaign
+- Name: Daniel Wells
+  Text: Analysing the temperature of my bedroom ([https://github.com/daniel-wells/temperature-tracker](https://github.com/daniel-wells/temperature-tracker)).
+    Analysing my spending habits ([https://github.com/daniel-wells/spending-habits](https://github.com/daniel-wells/spending-habits)).
+- Name: Anonymous
+  Text: A script that computes the odds for upcoming sports events based on historical
+    data retreived from the internet
+- Name: Pat Schloss
+  Text: Working on a sheep pedigree software app in Rails
+- Name: Pat Schloss
+  Text: Wrote R scripts to automate sending out report cards/transcripts for a homeschool
+    group
