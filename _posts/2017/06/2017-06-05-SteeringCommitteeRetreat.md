@@ -15,15 +15,15 @@ Below, we 1) summarize the motions that were passed at the meeting, 2) describe 
 
 - The Steering Committee has created a board-designated operating reserve ($80,000, equivalent to one quarter’s worth of budget) to provide an assurance of financial solvency
 - The Steering Committee empowers the trainer group to move forward with open instructor training events to non-member affiliated individuals 
-- The Steering Committee empowers staff to perform assigned tasks, with the Steering Committee retaining oversight in the key areas of community, instructor training, curriculum, finances, and staff
+- The Steering Committee empowers staff to perform tasks in their areas of focus while the Steering Committee retains oversight in the key areas of community, instructor training, curriculum, finances, and hiring staff
 
 ## Areas with Steering Committee oversight
  
 #### Community
-We value the involvement of everyone in our community - learners, instructors, hosts, developers, maintainers, committee members, staff, partners, advocates, trainers, organizers, sponsors, advisors, and helpers. We are committed to creating a friendly and respectful place for learning, teaching and contributing. Will will continue to support the Code of Conduct, which is at the heart of our community. Our mission is to continue growing and supporting a  diverse and inclusive community. To that end, we have empowered a new Director of Community Engagement to accomplish this mission.
+We value the involvement of everyone in our community - learners, instructors, hosts, developers, maintainers, committee members, staff, partners, advocates, trainers, organizers, sponsors, advisors, and helpers. We are committed to creating a friendly and respectful place for learning, teaching and contributing. We will continue to support the Code of Conduct, which is at the heart of our community. Our mission is to continue growing and supporting a diverse and inclusive community. To that end, we have empowered a new Director of Community Engagement to accomplish this mission.
  
 #### Instructor training	
-We are committed to creating a community of practice around instruction. As we train new instructors and instructor trainers, we must also continue to support their professional development through a community of practice. We have empowered the Director of Instructor Training to expand the instructor training program to accommodate the needs of our community. Our strategic plan is identify new instructor trainees and provide training opportunities while simultaneously work to grow our capacity to offer mentoring and other support to those new instructors.
+We are committed to creating a community of practice around instruction. As we train new instructors and instructor trainers, we must also continue to support their professional development through a community of practice. We have empowered the Director of Instructor Training to expand the instructor training program to accommodate the needs of our community. Our strategic plan is to identify new instructor trainees and provide training opportunities while simultaneously working to grow our capacity to offer mentoring and other support to those new instructors.
  
 #### Curriculum
 The Software Carpentry lessons and workshops are the vehicle through which we teach best practices for scientific computing. Our curriculum evolves over time for many reasons, including changes in the needs of learners and turnover of lesson contributors. Part of our strategic plan is to support community involvement with lesson archival, lesson releases, lesson maintaince, lesson development, and other tasks related to curriculum.
@@ -31,7 +31,7 @@ The Software Carpentry lessons and workshops are the vehicle through which we te
 #### Finances
 The Software Carpentry Foundation is financially responsible for the organization. The Steering Committee will continue to govern the financial model and budget. We have designated a financial reserve to promote healthy and fiscally responsible operations. 
  
-#### Staff
+#### Hiring staff 
 To achieve our mission, the steering committee will oversee the process of creating staff positions. We will evaluate the extent to which senior staff are carrying the strategic initiatives.  Senior staff will be responsible for evaluating junior staff members. 
  
 ## Timeline for implementing the our goals
