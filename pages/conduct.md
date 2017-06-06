@@ -19,7 +19,6 @@ on GitHub. Workshop hosts are expected to assist with enforcement of the Code of
 
 If you believe someone is violating the Code of Conduct we ask that you report it to the joint Data/Software Carpentry (“the Carpentries”) Policy subcommittee by emailing [policy@carpentries.org](mailto:policy@carpentries.org) or 
 C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org), and if the violation occurs during a
-
 workshop or other in-person event,
 by contacting the host and/or coordinator. All reports will be kept confidential.  When possible, please follow
 the reporting guidelines detailed [here](/CoC-reporting/). All reports will be reviewed by the Conduct Policy
@@ -32,7 +31,7 @@ subcommittee. A detailed enforcement policy can be found [here](/CoC-enforcement
 Software Carpentry and Data Carpentry are dedicated to providing a welcoming and supportive environment for all
 people, regardless of background or identity. However, we recognise that some groups in our community are subject
 to historical and ongoing discrimination, and may be vulnerable or disadvantaged. Membership in such a specific
-group can be on the basis of characteristics such as such as gender, sexual orientation, disability, physical
+group can be on the basis of characteristics such as gender, sexual orientation, disability, physical
 appearance, body size, race, nationality, sex, colour, ethnic or social origin, pregnancy, citizenship, familial
 status, veteran status, genetic information, religion or belief, political or any other opinion, membership of a
 national minority, property, birth, age, or choice of text editor. We do not tolerate harassment of participants
@@ -62,7 +61,7 @@ Enforcement of the Code of Conduct will be respectful and not include any harass
 
 Thank you for helping make this a welcoming, friendly community for all.  
 
-This code of conduct is an adaptation of the one used by the Software Carpentry Foundation and is a modified
+This code of conduct is a modified
 version of that used by PyCon, which in turn is forked from a template written by the Ada Initiative and hosted
 on the Geek Feminism Wiki. Contributors to this document: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol
 Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy
