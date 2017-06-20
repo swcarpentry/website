@@ -2,8 +2,8 @@
 layout: post
 authors: ["Peter Steinbach"]
 title: "HPC in a day?"
-date: 2017-06-16
-time: "23:00:00"
+date: 2017-06-20
+time: "06:00:00"
 category: ["Community","Teaching"]
 ---
 
