@@ -23,7 +23,7 @@ category: ["Community"]
 
 ##General
 * Library Carpentry will have some new [instructors]({{site.baseurl}}/blog/2017/05/lc-Portland-Boston.html) soon and we cannot wait to welcome them to the instructor community.
-* The Carpentries are committed to [promoting inclusion]({{site,baseurl}}/blog/2017/06/workshop-access.html) to all that want to participate in any workshop.
+* The Carpentries are committed to [promoting inclusion]({{site.baseurl}}/blog/2017/06/workshop-access.html) to all that want to participate in any workshop.
 * Library Carpentry recently joined the Mozilla science [sprint]({{site.baseurl}}/blog/2017/06/lc-sprint.html) and it exceeded our expectations.
 * Our vision for [CarpentryCon 2018]({{site.bnaseurl}}/blog/2017/06/carpentrycon-update.html) is to be a better more interactive community driven event.
  
