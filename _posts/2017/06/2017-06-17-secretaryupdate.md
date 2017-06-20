@@ -2,8 +2,8 @@
 layout: post
 authors: ["Rayna Harris"]
 title: "New monthly updates from the secretary"
-date: 2017-06-17
-time: "16:00"
+date: 2017-06-20
+time: "08:00"
 category: ["Steering Committee", "Community", "Software Carpentry Foundation"]
 ---
 
