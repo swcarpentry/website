@@ -2,8 +2,8 @@
 layout: post
 authors: ["Martin Dreyer"]
 title: "1 - 15 June, 2017: Lesson Printing, Instructor training, Successes of the Carpentries."
-date: 2017-06-15
-time: "23:00:00"
+date: 2017-06-19
+time: "22:00:00"
 category: ["Community"]
 ---
 
