@@ -16,13 +16,13 @@ Check out these new blog post summaries of the
 and of the [in-person SWC/DC merger group meeting](http://www.datacarpentry.org/blog/merger/). 
 
 I also have resumed the process of **recoding all board resolutions** here with those from previous years: 
-https://github.com/swcarpentry/board/blob/master/minutes/resolutions.md 
+[https://github.com/swcarpentry/board/blob/master/minutes/resolutions.md](https://github.com/swcarpentry/board/blob/master/minutes/resolutions.md)
 
-For your reference, minutes are always archived here: https://github.com/swcarpentry/board/tree/master/minutes
+For your reference, minutes are always archived here: [https://github.com/swcarpentry/board/tree/master/minutes](https://github.com/swcarpentry/board/tree/master/minutes)
 These can be a bit detailed or disorganized, so 
 I've started to include a summary paragraph at the top the archived  to improve their readability. 
 
 I've begun archiving the minutes for the Community Call meetings in this Carpentries GitHub repo: 
-https://github.com/carpentries/community-calls
+[https://github.com/carpentries/community-calls](https://github.com/carpentries/community-calls)
 
 Please let me know if you have questions or concerns. Thanks!
