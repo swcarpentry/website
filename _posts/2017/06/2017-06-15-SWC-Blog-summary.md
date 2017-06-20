@@ -1,7 +1,7 @@
 ---
 layout: post
 authors: ["Martin Dreyer"]
-title: "1 - 15 June, 2017: Lesson Printing, Instructor training, Successes of the Carpentries."
+title: "1 - 15 June, 2017: Steering Committee retreat, Community Development Lead, Library Carpentry Instructors,CarpentryCon."
 date: 2017-06-19
 time: "22:00:00"
 category: ["Community"]
