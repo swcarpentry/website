@@ -1,7 +1,9 @@
 ---
 layout: page-fullwidth
-permalink: /scf/join/
+permalink: /membership
 title: Become a Member Organization
+redirect_from:
+  - /scf/join.html
 ---
 ![Stockholm 2014]({{site.filesurl}}/workshops/scilifelab-2014-05-slice.jpg)
 
