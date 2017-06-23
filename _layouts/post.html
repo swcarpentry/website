@@ -36,8 +36,14 @@ format: page-fullwidth
       {% endif %}
 
       <span itemprop="articleSection">
+      <div class="row">
+      <div class="small-8 columns">
       {{ content }}
+      </div>
+    </div>
       </span>
+
+      <div class="row">
 
       {% if page.show_meta == true %}
       {% include meta_information %}
@@ -46,6 +52,8 @@ format: page-fullwidth
       {% if page.comments == true %}
       {% include comments %}
       {% endif %}
+
+    </row>
     </article>
   </div>
 </div>
