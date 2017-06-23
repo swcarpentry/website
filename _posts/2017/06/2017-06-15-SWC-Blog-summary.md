@@ -7,12 +7,14 @@ time: "22:00:00"
 category: ["Community"]
 ---
 
-##Highlights
+## Highlights
+
 * The Carpentries might look a bit [different]({{site.baseurl}}/blog/2017/05/may-cc-report.html) in future.
 * The [Software Carpentry Steering Committee retreat]({{site.baseurl}}/blog/2017/05/SteeringCommitteeRetreat.html) went really well and they have provided five key areas in which the committee wil provide oversight.
 * We are pleased to welcome [Belinda Weaver](https://twitter.com/cloudaus) as our new [Community Development Lead]({{site.baseurl}}/blog/2017/06/weaver_cdl.html) we wish her all the best!
 
-##Tweets
+## Tweets
+
 * For detailed review computation and data: [Research Software Engineers report](https://zenodo.org/record/495360#.WUehcWiGOUk).
 * A good read. [A Comprehensive Survey on Open Source](http://opensourcesurvey.org/2017/).
 * Awesome, Tireless, Excitable Library Carpentry Champion [Belinda Weaver](https://twitter.com/cloudaus) is the new Software Carpentry Community Development Lead!
@@ -21,7 +23,8 @@ category: ["Community"]
 * [Sheffield University](https://twitter.com/sheffielduni) is now a Software Carpentry Parnter!
 * 
 
-##General
+## General
+
 * Library Carpentry will have some new [instructors]({{site.baseurl}}/blog/2017/05/lc-Portland-Boston.html) soon and we cannot wait to welcome them to the instructor community.
 * The Carpentries are committed to [promoting inclusion]({{site.baseurl}}/blog/2017/06/workshop-access.html) to all that want to participate in any workshop.
 * Library Carpentry recently joined the Mozilla science [sprint]({{site.baseurl}}/blog/2017/06/lc-sprint.html) and it exceeded our expectations.
