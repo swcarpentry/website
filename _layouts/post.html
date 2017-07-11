@@ -8,9 +8,9 @@ format: page-fullwidth
       <header>
         {% if page.image.title %}
         <figure>
-          <img src="{{ site.filesurl }}{{ page.image.title }}" width="970" alt="{{ page.title escape_once }}" itemprop="image">
+          <img src="{{ site.filesurl }}{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}" itemprop="image">
 
-          {% if page.image.caption_url && page.image.caption %}
+          {% if page.image.caption_url and page.image.caption %}
           <figcaption class="text-right">
             <a href="{{ page.image.caption_url }}">{{ page.image.caption }}</a>
           </figcaption>
@@ -36,8 +36,14 @@ format: page-fullwidth
       {% endif %}
 
       <span itemprop="articleSection">
+      <div class="row">
+      <div class="small-8 columns">
       {{ content }}
+      </div>
+    </div>
       </span>
+
+      <div class="row">
 
       {% if page.show_meta == true %}
       {% include meta_information %}
@@ -46,6 +52,8 @@ format: page-fullwidth
       {% if page.comments == true %}
       {% include comments %}
       {% endif %}
+
+    </row>
     </article>
   </div>
 </div>
