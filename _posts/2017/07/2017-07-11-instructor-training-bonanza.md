@@ -4,7 +4,7 @@ subheadline: "Curriculum"
 title: "Help Update the Instructor Training Materials"
 date: 2017-07-11
 time: "08:00:00"
-authors: [Erin Becker]
+authors: ["Erin Becker"]
 category: ["curriculum"
 ---
 
