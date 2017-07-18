@@ -1,7 +1,7 @@
 ---
 layout: post
 authors: ["Martin Dreyer"]
-title: "1 - 15 July, 2017: Reorganisational Timeline, HPC-in-a-day, Good Enough Practices for Scientific Computing, Opensource Survey."
+title: "1 - 15 July, 2017: Learner Impact, Instructor Training, Community Building, Author Information."
 date: 2017-07-17
 time: "23:00:00"
 category: ["Community"]
