@@ -40,7 +40,7 @@ adjusted but for the most part, writing lessons in RMarkdown with the new
 template should not be too different from the current template.
 
 Contributors to the lessons should edit the Rmd files, and the lesson
-maintainers will run `make lesson-rmd` to generate the corresponding Markdown
+maintainers will run `make lesson-md` to generate the corresponding Markdown
 files using [knitr](http://yihui.name/knitr/), before pushing these changes to the
 lesson repository.
 
