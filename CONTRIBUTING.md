@@ -51,6 +51,56 @@ and to meet some of our community members.
     or HTML boilerplate for lessons or workshops stored in `_includes` or `_layouts`,
     please work in <https://github.com/swcarpentry/styles>.
 
+## How to Contribute a Blog Post
+
+1.  If you wish to contribute a blog post,
+    please work in <https://github.com/swcarpentry/website>,
+    which can be viewed at <https://software-carpentry.org/blog>.
+    
+2.  Posts go in the `_posts` folder, which is divided up first by year,
+    e.g. `2017`, and then by month, e.g. `07`. Be sure to start creating your file in
+    the correct folder. 
+    
+3.  Posts need to be created in [Markdown](https://guides.github.com/features/mastering-markdown/) and named 
+    according to this convention:
+    
+    `YYYY-MM-DD-filename.md`
+    
+    e.g. 
+    
+    `2017-07-10-assess_report.md`
+    
+4.  In order to render correctly, posts need to have a header block, which should be created like [this example](https://raw.githubusercontent.com/swcarpentry/website/gh-pages/_posts/2017/06/2017-06-19-mqu-ttt.md), e.g.
+  
+        ---
+    
+        layout: post
+    
+        subheadline: "Assessment"
+
+        title: "Analysis of Software Carpentry Workshop Impact"
+
+         date: 2017-07-10
+
+        time: "08:00:00"
+
+        authors: ["Kari L. Jordan"]
+
+        category: ["surveys", "workshops", "impact", "assessment"]
+
+        ---
+  
+    Separate the header block from the post proper by a new line. 
+    
+5.  `Subheadline` is an optional field, as is `time`, but the other fields should be filled in. If there is more than one author,
+    separate the author names like this: `["Name 1", "Name 2"]`. Separate any categories the same way.
+    
+6.  Images should be uploaded to the appropriate year in the `files` folder. Images should also be coded in
+    Markdown. Paths to the image should be relative. Images hosted elsewhere should be linked. If you are not sure how to 
+    add images in Markdown format, look at an [existing post](https://raw.githubusercontent.com/swcarpentry/website/gh-pages/_posts/2017/06/2017-06-19-mqu-ttt.md) and copy that format.
+    
+7.  Once you have previewed your file, commit the file to your fork and start a Pull Request. If there are issues with your post, 
+    such as an image not rendering properly, a reviewer will get back to you with suggested changes.
 
 ## Other Resources
 
