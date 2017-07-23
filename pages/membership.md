@@ -9,11 +9,11 @@ redirect_from:
 ---
 ![Stockholm 2014]({{site.filesurl}}/workshops/scilifelab-2014-05-slice.jpg)
 
-A Member Organization is an organization that has made a commitment to the growth and spread of Software & Data Carpentry. Members receive annual access to instructor training and guidance with capacity building at their organization. Members are able to run low-cost local workshops while developing communities of practice around effective data-driven reproducible research. Community developed lessons enable our instructors to globally share the effort for developing impactful lessons on technical topics. Memberships give Software and Data Carpentry revenue to ensure the ongoing development and maintenance of the lessons demanded by research communities. We work to give your local instructors support, mentorship and a forum for community lesson development.
+A Member Organization is an organization that has made a commitment to the growth and spread of Software & Data Carpentry. Members receive priority access to instructor training and guidance with capacity building at their organization. With local instructors, Members can readily run low-cost local workshops. Community developed lessons enable our instructors to globally share the effort for developing impactful lessons on technical topics. Memberships give Software and Data Carpentry revenue to ensure the ongoing development and maintenance of the lessons demanded by research communities. We work to give your local instructors support, mentorship and a forum for community lesson development.
 
 ### Membership Tiers
 
-We offer several levels of Memberships, based on training activities expected annually. Fees listed below are for not-for-profit organizations. We also provide these and Platinum Memberships for for-profit organizations. Please [contact us](mailto:partnerships@carpentries.org) for more information. 
+We offer several levels of Memberships, based on training activities expected annually. Fees listed below are for not-for-profit organizations. We also provide these and Platinum Memberships for for-profit organizations. Please [contact us](mailto:memberships@carpentries.org) for more information.
 
 
 ||Bronze|Silver|Gold|Platinum|
@@ -26,6 +26,14 @@ We offer several levels of Memberships, based on training activities expected an
 |Train an in-house instructor <br>trainer at partner org|No|No|No|Available|
 |Lesson development <br>services|No|No|No|Available|
 |Membership Dues (annual)|[$5,000](mailto:memberships@carpentries.org?subject=Interested in Bronze Partnership)|[$7,500](mailto:memberships@carpentries.org?subject=Interested in Silver Partnership)|[$15,000](mailto:memberships@carpentries.org?subject=Interested in Gold Partnership)|[Contact us](mailto:memberships@carpentries.org?subject=Interested in Platinum Partnership)|
+
+
+
+<a href="https://carpentries.typeform.com/to/Hmfe6L">
+  <button class="btn">
+    Join Now
+  </button>
+</a>
 
 
 #### Notes
