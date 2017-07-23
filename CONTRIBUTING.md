@@ -71,37 +71,35 @@ and to meet some of our community members.
     `2017-07-10-assess_report.md`
     
 4.  In order to render correctly, posts need to have a header block, which should be created like [this example](https://raw.githubusercontent.com/swcarpentry/website/gh-pages/_posts/2017/06/2017-06-19-mqu-ttt.md), e.g.
-  
-        ---
-    
-        layout: post
-    
-        subheadline: "Assessment"
 
-        title: "Analysis of Software Carpentry Workshop Impact"
+```
+---
+layout: post
+subheadline: "Assessment"
+title: "Analysis of Software Carpentry Workshop Impact"
+date: 2017-07-10
+time: "08:00:00"
+authors: ["Kari L. Jordan"]
+category: ["surveys", "workshops", "impact", "assessment"]
+---
+```
 
-         date: 2017-07-10
-
-        time: "08:00:00"
-
-        authors: ["Kari L. Jordan"]
-
-        category: ["surveys", "workshops", "impact", "assessment"]
-
-        ---
-  
-    Separate the header block from the post proper by a new line. 
+Separate the header block from the post proper by a new line. 
     
 5.  `Subheadline` is an optional field, as is `time`, but the other fields should be filled in. If there is more than one author,
     separate the author names like this: `["Name 1", "Name 2"]`. Separate any categories the same way.
     
-6.  Images should be uploaded to the appropriate year in the `files` folder. Images should also be coded in
-    Markdown. Paths to the image should be relative. Images hosted elsewhere should be linked. If you are not sure how to 
+6.  Images should be uploaded to the appropriate year in the `files/<year>/<month>` folder. Images should be linked using 
+    Markdown. 
+    Example: 
+    ```
+    ![Image Description]({{ site.filesurl }}/2017/07/myimage.jpg)
+    ```
+    Paths to the image should be relative. Images hosted elsewhere should be linked. If you are not sure how to 
     add images in Markdown format, look at an [existing post](https://raw.githubusercontent.com/swcarpentry/website/gh-pages/_posts/2017/06/2017-06-19-mqu-ttt.md) and copy that format.
     
-7.  Once you have previewed your file, commit the file to your fork and start a Pull Request. If there are issues with your post, 
-    such as an image not rendering properly, a reviewer will get back to you with suggested changes.
-
+7.  Once you have previewed your file, commit the Markdown file to your fork and start a Pull Request. We automatically run tests using [TravisCI](https://travis-ci.org/) on your Pull Requests. Please review your pull request a few minutes after you've submitted it to make sure those tests have passed. These tests look for valid YAML headers and make sure that the post will build properly.
+  
 ## Other Resources
 
 General discussion of [Software Carpentry][swc-site] and [Data Carpentry][dc-site]
