@@ -21,3 +21,8 @@ Additionally, we began collecting data on the long-term impact our workshops are
 
 ## Data  
 Data sets to go along with assessment reports are provided in a [GitHub repository](https://github.com/carpentries/public-survey-info), along with the version of the surveys that were in use at time of analysis.
+
+## Analyses
+We invite you to check out the Analysis of Software Carpentry’s Post-Workshop Surveys [report](https://kariljordan.github.io/carpentry-community-assessment-projects/software-carpentry-projects/analysis-postworkshop.html). The data used in this report is available in this [repository](https://github.com/kariljordan/carpentry-community-assessment-projects/tree/master/software-carpentry-projects).
+
+Additionally, the Carpentries preliminary long-term impact [report](https://carpentries.github.io/public-survey-info/documents/reports/Carpentry-Reports/Long-Term-Feedback-Survey-Report/2017-04-17-carpentry-long-term-assessment-survey-report.html) is available via GitHub.
