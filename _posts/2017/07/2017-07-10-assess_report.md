@@ -28,7 +28,7 @@ These individuals made valuable contributions to the code that was used to creat
 
 All of the data are available in a de-identified way in [this repository](https://github.com/kariljordan/carpentry-community-assessment-projects/tree/master/software-carpentry-projects). 
 
-[Source data (csv)](https://raw.githubusercontent.com/kariljordan/carpentry-community-assessment-projects/master/software-carpentry-projects/public_swc_postworkshop_data_archivedJune2017.csv)
+[Source data (csv)](https://raw.githubusercontent.com/kariljordan/carpentry-community-assessment-projects/master/software-carpentry-projects/postdata_201706.csv)
 , [Report (html)](https://kariljordan.github.io/carpentry-community-assessment-projects/software-carpentry-projects/analysis-postworkshop.html) and [Report Source (rmd)](https://github.com/kariljordan/carpentry-community-assessment-projects/blob/master/software-carpentry-projects/analysis-postworkshop.rmd) are all available for further analysis and exploration. 
 We'd love to hear from you if you look at the data, and pull requests are most welcome if you come up with some interesting analyses. 
 
