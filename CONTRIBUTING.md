@@ -90,13 +90,18 @@ Separate the header block from the post proper by a new line.
     separate the author names like this: `["Name 1", "Name 2"]`. Separate any categories the same way.
     
 6.  Images should be uploaded to the appropriate year in the `files/<year>/<month>` folder. Images should be linked using 
-    Markdown. 
+    Markdown, and paths to the image should be relative. 
     Example: 
     ```
     ![Image Description]({{ site.filesurl }}/2017/07/myimage.jpg)
     ```
-    Paths to the image should be relative. Images hosted elsewhere should be linked. If you are not sure how to 
-    add images in Markdown format, look at an [existing post](https://raw.githubusercontent.com/swcarpentry/website/gh-pages/_posts/2017/06/2017-06-19-mqu-ttt.md) and copy that format.
+    A web link should be used for images hosted elsewhere, e.g., images you do not own, or for which you do not have rights to upload. 
+    Example: 
+    ``` 
+    [Image Description](https://web_address/pathway_to_full_image_filename)
+    ```
+    
+    If you are not sure how to add images in Markdown format, look at an [existing post with a locally hosted image](https://raw.githubusercontent.com/swcarpentry/website/gh-pages/_posts/2017/06/2017-06-19-mqu-ttt.md) or [one with a web link](https://raw.githubusercontent.com/swcarpentry/website/gh-pages/_posts/2017/07/2017-07-10-assess_report.md) and copy the formatting from there.
     
 7.  Once you have previewed your file, commit the Markdown file to your fork and start a Pull Request. We automatically run tests using [TravisCI](https://travis-ci.org/) on your Pull Requests. Please review your pull request a few minutes after you've submitted it to make sure those tests have passed. These tests look for valid YAML headers and make sure that the post will build properly.
   
