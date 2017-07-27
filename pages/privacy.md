@@ -111,7 +111,7 @@ computer system located in a controlled facility with limited access. We take
 reasonable steps to ensure that data is accurate, complete, and current.   If
 you believe that any personal information we have about you is incorrect, or is,
 has been, or might be used inappropriately, please contact us at
-admin@software-carpentry.org and we will take steps to correct, delete, or
+[{{ site.contact }}](mailto:{{ site.contact }}) and we will take steps to correct, delete, or
 restrict the use of the information, as appropriate.
 
 ## 6. Changes
