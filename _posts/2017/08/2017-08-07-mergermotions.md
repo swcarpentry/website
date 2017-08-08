@@ -26,4 +26,5 @@ The combined organization will have a Director of Business Development who repor
 
 ## Motion 4
 Existing subcommittees and task forces will have a point of contact from among the staff, rather than reporting directly to the Steering Committee. 
+
 **Background:** The subcommittees perform important work of the organization. They currently report directly to the SWC Steering Committee, which is inconsistent with a Board responsible for governance, not operations. The subcommittee’s should instead work directly with staff, overseen by the ED.
