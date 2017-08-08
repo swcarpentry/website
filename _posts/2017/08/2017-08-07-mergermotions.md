@@ -25,5 +25,5 @@ The combined organization will have a Director of Business Development who repor
 **Background:** Business development is critical to the long-term sustainability of the organization. In the merger of two organizations, each with an ED, this clarifies roles and reporting.
 
 ## Motion 4
-Existing subcommittees and task forces will have a point of contact from among the staff, rather than reporting directly to the Board of Directors. 
-**Background:** The subcommittees perform important work of the organization. They currently report directly to the SWC board, which is inconsistent with a Board responsible for governance, not operations. The subcommittee’s should instead work directly with staff, overseen by the ED.
+Existing subcommittees and task forces will have a point of contact from among the staff, rather than reporting directly to the Steering Committee. 
+**Background:** The subcommittees perform important work of the organization. They currently report directly to the SWC Steering Committee, which is inconsistent with a Board responsible for governance, not operations. The subcommittee’s should instead work directly with staff, overseen by the ED.
