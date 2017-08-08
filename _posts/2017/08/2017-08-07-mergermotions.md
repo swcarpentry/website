@@ -7,7 +7,7 @@ time: "16:00"
 category: ["Steering Committee", "Community", "Data Carpentry"]
 ---
 
-I am happy to announce that the Ssteering Committees of both Software Carpentry and Data Carpentry have approved 4 motions regarding the structure and leadership of the mergered Carpentries organization. The approved motions are: 
+I am happy to announce that the Steering Committees of both Software Carpentry and Data Carpentry have approved 4 motions regarding the structure and leadership of the mergered Carpentries organization. The approved motions are: 
 
 ## Motion 1
 The Board of Directors for the combined organization will be composed of 9 members, each serving a two year term without limits on the number of terms. Five members will be appointed through a process of nomination to the board followed by voting by board members. The other four members will be elected by the membership of the organization. 
