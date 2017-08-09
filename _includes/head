@@ -52,7 +52,7 @@
 	<!-- Twitter Cards -->
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:url" content="{{ site.baseurl }}{{ page.url }}">
-	<meta name="twitter:title" content="Test">
+	<meta name="twitter:title" content="{{ page.title }}">
 	<meta name="twitter:description" content="{{ page.content | truncate: 200 | remove: '<p>' | remove: '</p>' }}">
 	<meta name="twitter:image" content="https://files.software-carpentry.org/logo_circle.jpg">
 
