@@ -2,7 +2,7 @@
 layout: page-fullwidth
 permalink: /CoC-enforcement/
 title: Code of Conduct Enforcement Manual
-excerpt: "enforcement manual followed by Software and Data Carpentry's Policy subcommittee"
+excerpt: enforcement manual followed by Software and Data Carpentry's Policy subcommittee
 ---
 
 This is the enforcement manual followed by Software and Data Carpentry's (“the Carpentries”) 
