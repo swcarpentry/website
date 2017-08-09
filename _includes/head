@@ -9,7 +9,7 @@
   <script>
     WebFont.load({
       google: {
-        families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin', 'Rokkitt::latin' ] 
+        families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin', 'Rokkitt::latin' ]
       }
     });
   </script>
@@ -23,6 +23,8 @@
 	{% if page.meta_description %}<meta name="description" content="{{ page.meta_description | strip_html | escape }}"/>{% elsif page.teaser %}<meta name="description" content="{{ page.teaser | strip_html | escape }}" />{% elsif site.description %}<meta name="description" content="{{ site.description | strip_html | escape }}" />{% endif %}
 
 	{% if site.google_author %}<link rel="author" href="{{ site.google_author }}"/>{% endif %}
+
+
 
 	<!-- Favicon/touch icons -->
 	<link rel="shortcut icon" href="/favicon.ico"> <!-- must remain in root directory -->
@@ -45,6 +47,15 @@
 	<meta name="msapplication-TileImage" content="/mstile-144x144.png">
 	<meta name="msapplication-config" content="/browserconfig.xml">
 	<meta name="theme-color" content="#ffffff">
+
+
+	<!-- Twitter Cards -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="{{ site.baseurl }}{{ page.url }}">
+	<meta name="twitter:title" content="Test">
+	<meta name="twitter:description" content="{{ page.content | truncate: 200 | remove: '<p>' | remove: '</p>' }}">
+	<meta name="twitter:image" content="https://files.software-carpentry.org/logo_circle.jpg">
+
 
 	<!-- Facebook Optimization -->
 	<meta property="og:locale" content="{% if site.og_locale == nil %}en_EN{% else %}{{ site.og_locale }}{% endif %}" />
