@@ -2,6 +2,7 @@
 layout: page-fullwidth
 permalink: /lessons/incubation/
 title: Lesson Incubation
+excerpt: requirements and procedures for developing new lessons in new domains
 ---
 
 [Data Carpentry]({{site.dc_url}}) and [Software Carpentry]({{site.url}})
