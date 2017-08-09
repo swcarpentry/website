@@ -4,6 +4,7 @@ permalink: /assessment/
 title: Assessment
 redirect_from:
   - /pages/assessment.html
+excerpt: Software Carpentry values a culture of assessment, so we evaluate our workshops for impact
 ---
 
 ## Assessment  
