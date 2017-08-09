@@ -6,6 +6,7 @@ redirect_from:
   - /scf/join.html
   - /scf/join/
   - /pages/membership.html
+excerpt: A Member Organization is an organization that has made a commitment to the growth and spread of Software & Data Carpentry
 ---
 ![Stockholm 2014]({{site.filesurl}}/workshops/scilifelab-2014-05-slice.jpg)
 
