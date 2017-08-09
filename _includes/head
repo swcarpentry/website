@@ -55,7 +55,11 @@
 	<meta name="twitter:title" content="{{ page.title }}">
 	<meta name="twitter:site" content="{{ site.twitter_name }}">
 	<meta name="twitter:domain" content="software-carpentry.org">
+	{% if page.excerpt %}
 	<meta name="twitter:description" content="{{ page.excerpt | truncate: 200 | remove: '<p>' | remove: '</p>' }}">
+	{% else %}
+	<meta name="twitter:description" content="{{ page.content | truncate: 200 | remove: '<p>' | remove: '</p>' }}">
+	{% endif %}
 	<meta name="twitter:image" content="https://files.software-carpentry.org/logo_circle.jpg">
 
 
