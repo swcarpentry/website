@@ -28,3 +28,6 @@ The combined organization will have a Director of Business Development who repor
 Existing subcommittees and task forces will have a point of contact from among the staff, rather than reporting directly to the Steering Committee. 
 
 **Background:** The subcommittees perform important work of the organization. They currently report directly to the SWC Steering Committee, which is inconsistent with a Board responsible for governance, not operations. The subcommittee’s should instead work directly with staff, overseen by the ED.
+
+## Timeline for the merger
+See the overview all the steps we will be taking in the next few months here: https://software-carpentry.org/blog/2017/06/merger.html
