@@ -21,7 +21,7 @@ We conduct pre and post workshop surveys for each of our workshops:
 Additionally, we began collecting data on the long-term impact our workshops are having on both Data Carpentry and Software Carpentry learners. The [Carpentry Long-Term Feedback Survey](https://www.surveymonkey.com/r/Preview/?sm=LksuekfCD3hzLW6lPkx9qhkRF5nDt8uGWpN7lq2Mx0Dqw1Zriv3qYFpu3XtR46ei) was launched in March 2017, and data will be collected every 6 months.
 
 ## Data  
-Data sets for Software Carpentry's pre- and post-workshop surveys and assessment reports are provided in a [GitHub repository](https://github.com/carpentries/assessment-projects/software-carpentry-projects), along with the version of the surveys that were in use at the time of analysis.
+Data sets for Software Carpentry's pre- and post-workshop surveys and assessment reports are provided in a [GitHub repository](https://github.com/carpentries/assessment-projects), along with the version of the surveys that were in use at the time of analysis.
 
 ## Analyses
 We invite you to check out the Analysis of Software Carpentry’s Post-Workshop Surveys [report](https://carpentries.github.io/assessment-projects/software-carpentry-projects/analysis-postworkshop.html). The data used in this report is available in this [repository](https://github.com/carpentries/assessment-projects/tree/master/software-carpentry-projects).
