@@ -27,6 +27,3 @@ Data sets for Software Carpentry's pre- and post-workshop surveys and assessment
 We invite you to check out the Analysis of Software Carpentry’s Post-Workshop Surveys [report](https://carpentries.github.io/assessment-projects/software-carpentry-projects/analysis-postworkshop.html). The data used in this report is available in this [repository](https://github.com/carpentries/assessment-projects/tree/master/software-carpentry-projects).
 
 Additionally, the Carpentries preliminary long-term impact [report](https://carpentries.github.io/assessment-projects/joint-carpentry-projects/report.html) is available via GitHub.
-
-
-https://github.com/carpentries/
