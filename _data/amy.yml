@@ -8871,8 +8871,8 @@ workshops:
     end: 2015-09-25
     eventbrite_id: ''
     humandate: Sep 23-25, 2015
-    latitude: 522257.2
-    longitude: 130350.0
+    latitude: 52.3798284
+    longitude: 13.0641701
     slug: 2015-09-23-gfz-potsdam
     start: 2015-09-23
     tags:
@@ -9226,8 +9226,8 @@ workshops:
     end: 2015-10-23
     eventbrite_id: ''
     humandate: Oct 21-23, 2015
-    latitude: 522257.2
-    longitude: 130350.0
+    latitude: 52.3798284
+    longitude: 13.0641701
     slug: 2015-10-21-gfz-potsdam
     start: 2015-10-21
     tags:
@@ -9882,8 +9882,8 @@ workshops:
     end: 2015-12-16
     eventbrite_id: ''
     humandate: Dec 14-16, 2015
-    latitude: 522257.2
-    longitude: 130350.0
+    latitude: 52.3798284
+    longitude: 13.0641701
     slug: 2015-12-14-gfz-potsdam
     start: 2015-12-14
     tags:
