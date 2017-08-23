@@ -10,7 +10,7 @@ category: ["Workshops"]
 Brisbane Software Carpentry sputtered into life some time in 2014 when scattered local supporters finally met and began to form a group. 
 Having heard about the initiative via Twitter, I managed to contact [Nathan Watson-Haigh](https://twitter.com/watsonhaigh)
 who got me on to the 
-[Aus/NZ mailing list](http://lists.software-carpentry.org/mailman/listinfo/aus-nz_lists.software-carpentry.org). 
+[Aus/NZ mailing list](http://lists.software-carpentry.org/listinfo/aus-nz). 
 Then I met [Philipp Bayer](https://twitter.com/PhilippBayer) (now in Perth) and we started planning our first workshop at 
 [The University of Queensland](http://www.uq.edu.au). [PyCon Australia](https://www.facebook.com/PyConAustralia/) 
 was coming up in Brisbane and we were able to get [Damien Irving](https://twitter.com/DrClimate) from Melbourne and 
