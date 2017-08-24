@@ -2,7 +2,7 @@
 layout: post
 authors: ["Belinda Weaver"]
 title: "Feedback of Champions"
-date: 2017-08-07
+date: 2017-08-24
 time: "06:00:00"
 category: [ "Community", "Champions", "Community Building"]
 ---
