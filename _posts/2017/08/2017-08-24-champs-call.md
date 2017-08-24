@@ -12,7 +12,7 @@ Twenty-five people signed up for the call. We had attendees from the US (several
 
 People shared experiences about what had worked locally - these involved regular drop-in sessions like <strong>Hacky Hours</strong>, as well as more formal arrangements like local study groups or big events like the three-day [Research Bazaars](https://2017.resbaz.com/), which combine workshops with more informal sessions such as lightning talks, knowledge bazaars, meet ups, stalls, and fun and games. There were 14 Research Bazaar events held in 2017 in locations ranging from Oslo to Tucson and five cities in New Zealand. The first was held in Melbourne in 2015. This spawned 10 in 2016 in countries such as Ecuador, Canada, and Australia.
 
-## Local activities
+### Local activities
 
 Mateusz Kuzak from the Netherlands talked about the Study Group that runs at Science Park Amsterdam. The group mostly comprises plant physiology and neurobiology researchers, with biodiversity researchers now joining in as well. More informal meetings are also held bi-weekly in a local cafe, where people can come for help with tools like R, Python, Snakemake, and git. Mateusz is keen to expand the instructor base in the Netherlands too with instructor training happening in November.
 
@@ -31,7 +31,7 @@ UW Madison has [ComBEE](https://combee-uw-madison.github.io/), a Hacky Hour-styl
 
 People used a range of methods to stay in touch with local groups, with Twitter, slack channels, email/email lists and regular meetups being the most common.
 
-## Getting started
+### Getting started
 
 Newcomers to community building were keen for tips on creating a community out of nothing. One way to fund workshops is to try to source funding via grants proposals. At the University of Oxford, ideas are wanted on how to turn enthusiasm into actual workshops, since the legwork involved in making workshops happen is challenging.
 
