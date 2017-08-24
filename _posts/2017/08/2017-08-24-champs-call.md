@@ -8,8 +8,7 @@ category: [ "Community", "Champions", "Community Building"]
 ---
 
 Jonah Duckles and I hosted our first Community Champions call on 22 August (23 August for us southern hemisphereans).
-
-Forty-four people signed up for the call. We had attendees from the US (several locations), the UK, Canada, the Netherlands, plus me in Australia and Jonah in New Zealand. We also had a range of expertise - some old hands, and some keen to kickstart a brand new community.
+Twenty-five people signed up for the call. We had attendees from the US (several locations), the UK, Canada, the Netherlands, plus me in Australia and Jonah in New Zealand. We also had a range of expertise - some old hands, and some keen to kickstart a brand new community.
 
 People shared experiences about what had worked locally - these involved regular drop-in sessions like Hacky Hours, as well as more formal arrangements like local study groups or big events like the three-day [Research Bazaars](https://2017.resbaz.com/), which combine workshops with more informal sessions such as lightning talks, knowledge bazaars, meet ups, stalls, and fun and games. There were 14 Research Bazaar events held in 2017 in locations ranging from Oslo to Cuenca. The first was held in Melbourne in 2015. This spawned 10 in 2016 in countries such as Ecuador, Canada, Australia and New Zealand.
 
