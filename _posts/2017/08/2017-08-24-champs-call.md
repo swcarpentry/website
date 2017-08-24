@@ -29,7 +29,7 @@ There are R user groups at  the University of Florida (UF) and at York Universit
 
 UW Madison has [ComBEE](https://combee-uw-madison.github.io/), a Hacky Hour-style group. Among other activities, they also host both R and Python study groups, which complement the Carpentries workshops they run on campus.
 
-People used a range of methods to stay in touch with local groups - Twitter, slack channels, email/email lists and regular meetups being the most common.
+People used a range of methods to stay in touch with local groups, with Twitter, slack channels, email/email lists and regular meetups being the most common.
 
 ## Getting started
 
