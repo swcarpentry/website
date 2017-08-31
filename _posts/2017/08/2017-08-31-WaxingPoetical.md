@@ -1,14 +1,14 @@
 ---
 layout: post
 authors: ["Brian Ballsun-Stanton"]
-title: "Waxing poetical in a software carpentry workshop"
+title: "Waxing poetical in a Software Carpentry workshop"
 date: 2017-08-31
 time: "20:00:00"
-category: [ "Workshops", "Macquarie University", "Reflections"]
----
-# Poetical lessons from a software carpentry workshop.
+category: ["Workshops", "Macquarie University", "Reflections"]
 
-Hi everyone! I just finished running my first segment of a [software carpentry workshop](https://denubis.github.io/2017-08-31-MacquarieUniversity/). I massively overprepared last evening and my notes for the first four lessons of [unix shell](http://swcarpentry.github.io/shell-novice/) are on [google drive](https://docs.google.com/document/d/1GpKZISA4GP2mxWgkuQbcvXElDKzMO80XqxHbR6RBbGc/edit) if anyone would care to reuse them.
+---
+
+Hi everyone! I just finished running my first segment of a [Software Carpentry workshop](https://denubis.github.io/2017-08-31-MacquarieUniversity/). I massively overprepared last evening and my notes for the first four lessons of [unix shell](http://swcarpentry.github.io/shell-novice/) are on [google drive](https://docs.google.com/document/d/1GpKZISA4GP2mxWgkuQbcvXElDKzMO80XqxHbR6RBbGc/edit) if anyone would care to reuse them.
 
 In any case, one of my students (who had audited one of my [other classes](https://www.youtube.com/watch?v=r9jpe9_2z3c)) made the following tweet:
 
@@ -24,7 +24,7 @@ And so here I am, accused of poetry.
 
 I think because I semaphored my arms when describing arguments/flags. I stood in front of the group and waved my arms around like I was holding flags, directing trains down different tracks. I also used call and response, asking the audience to complete my statements (after introducing them a few times), which served to introduce nice pauses into the presentation, allowing people to process and ponder. 
 
-But ... none of this is poetry. I think I was accused of poetry because during the first discussion of CLIs I stepped away from the computers and varied my voice and volume and pitch when looking at the nature of computers. And lots of emotive body language. 
+But ... none of this is poetry. I think I was accused of poetry because during the first discussion of command line interfaces (CLIs), I stepped away from the computers and varied my voice and volume and pitch when looking at the nature of computers. And lots of emotive body language. 
 
 Speaking to the learner during the lunch break, she tweeted when I was unpacking the *why* of CLIs in unexpectedly non-mundane (perhaps florid, or purple) detail, sharing my enthusiasm for the ideas with the class. 
 
