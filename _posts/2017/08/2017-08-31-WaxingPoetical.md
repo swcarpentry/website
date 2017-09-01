@@ -10,15 +10,14 @@ category: ["Workshops", "Macquarie University", "Reflections"]
 
 Hi everyone! I just finished running my first segment of a [Software Carpentry workshop](https://denubis.github.io/2017-08-31-MacquarieUniversity/). I massively overprepared last evening and my notes for the first four lessons of [unix shell](http://swcarpentry.github.io/shell-novice/) are on [google drive](https://docs.google.com/document/d/1GpKZISA4GP2mxWgkuQbcvXElDKzMO80XqxHbR6RBbGc/edit) if anyone would care to reuse them.
 
-In any case, one of my students (who had audited one of my [other classes](https://www.youtube.com/watch?v=r9jpe9_2z3c)) made the following tweet:
+In any case, one of my students (who had audited one of my [other classes](https://www.youtube.com/watch?v=r9jpe9_2z3c)) made the following [tweet](https://twitter.com/pennyjw/status/903048238030139393):
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Never heard anyone present fundamental computing concepts so poetically as <a href="https://twitter.com/DenubisX">@DenubisX</a> <a href="https://twitter.com/swcarpentry">@swcarpentry</a> <a href="https://twitter.com/hashtag/MacquarieUni?src=hash">#MacquarieUni</a></p>&mdash; Penny Wheeler (@pennyjw) <a href="https://twitter.com/pennyjw/status/903048238030139393">August 31, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote>Never heard anyone present fundamental computing concepts so poetically as @DenubisX @swcarpentry #MacquarieUni</blockquote>
 
-At which point, Belinda responded:
 
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Liking the sound of this - will you write up a workshop post for us, Brian?</p>&mdash; Belinda Weaver (@cloudaus) <a href="https://twitter.com/cloudaus/status/903070616097439744">August 31, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+At which point, Belinda [responded](https://twitter.com/cloudaus/status/903070616097439744):
+
+<blockquote>Liking the sound of this - will you write up a workshop post for us, Brian?</blockquote>
 
 And so here I am, accused of poetry.
 
