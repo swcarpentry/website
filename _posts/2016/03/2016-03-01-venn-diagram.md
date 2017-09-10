@@ -61,7 +61,7 @@ failures. Overall, we want the Carpentries together to be a community where the
 most broadly applicable lessons pertaining to the tools and best practices
 needed to do modern research can come to be curated and improved together. At
 the same time, we have [thriving global
-conversations]({{site.mailing_lists}}/pipermail/discuss_lists.software-carpentry.org/)
+conversations]({{site.mailing_lists}}/pipermail/discuss/)
 about what gaps there are in our lessons, in our teaching methods, and how can
 we address those gaps and have more impact on the practice of research supported
 by computational tools.

@@ -35,7 +35,7 @@ permalink: "/blog/dates/"
 {% assign lastPostIndex = site.posts.size | minus: 1 %}
 
 {% comment %} Looping through years in reverse order {% endcomment %}
-{% for year in (startYear...endYear) reversed %}
+{% for year in (startYear..endYear) reversed %}
 
   {% assign yearRow = "<tr><th>" | append: year | append: "</th>" %}
 
@@ -43,12 +43,12 @@ permalink: "/blog/dates/"
   {% assign yearCellsArray = "" | split: "/" %}
 
   {% comment %} Looping over month reversed {% endcomment %}
-  {% for month in (1...12) reversed %}
+  {% for month in (1..12) reversed %}
 
     {% assign postsThisYearMonth = 0 %}
     {% assign monthCell = "<td>" %}
 
-    {% for postIndex in (currentPostIndex...lastPostIndex) %}
+    {% for postIndex in (currentPostIndex..lastPostIndex) %}
 
       {% assign p      = site.posts[postIndex] %}
       {% assign pYear  = p.date | date: "%Y" | plus: 0 %}
@@ -95,15 +95,15 @@ permalink: "/blog/dates/"
 {% assign currentPostIndex = 0 %}
 {% assign lastPostIndex = site.posts.size | minus: 1 %}
 
-{% for year in (startYear...endYear) reversed %}
+{% for year in (startYear..endYear) reversed %}
   <h3>{{year}}</h3>
   {% assign currentYear = year %}
-  {% for month in (1...12) reversed %}
+  {% for month in (1..12) reversed %}
 
     {% assign postsArray = "" | split: "/" %}
 
     {% comment %} Find post for this year / month {% endcomment %}
-    {% for postIndex in (currentPostIndex...lastPostIndex) %}
+    {% for postIndex in (currentPostIndex..lastPostIndex) %}
       {% assign p      = site.posts[postIndex] %}
       {% assign pYear  = p.date | date: "%Y" | plus: 0 %}
       {% assign pMonth = p.date | date: "%m" | plus: 0 %}

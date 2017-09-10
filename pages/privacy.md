@@ -3,9 +3,10 @@ layout: page-fullwidth
 permalink: /privacy/
 title: Software Carpentry Foundation Privacy Policy
 comments: false
+excerpt: We are committed to protecting the security and privacy of your data
 ---
 
-The Software Carpentry Foundation (the "SCF") is is dedicated to the security
+The Software Carpentry Foundation (the "SCF") is dedicated to the security
 and privacy of your data. We want you to know what data we collect, how we
 collect it, and what we do with it so that you may decide whether or not to
 provide information to us.
@@ -111,7 +112,7 @@ computer system located in a controlled facility with limited access. We take
 reasonable steps to ensure that data is accurate, complete, and current.   If
 you believe that any personal information we have about you is incorrect, or is,
 has been, or might be used inappropriately, please contact us at
-admin@software-carpentry.org and we will take steps to correct, delete, or
+[{{ site.contact }}](mailto:{{ site.contact }}) and we will take steps to correct, delete, or
 restrict the use of the information, as appropriate.
 
 ## 6. Changes

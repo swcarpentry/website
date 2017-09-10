@@ -2,6 +2,7 @@
 layout: page-fullwidth
 permalink: /scf/awards/
 title: Community Service Awards
+excerpt: Software Carpentry values the contributions of its volunteers and seeks to recognize outstanding effort 
 ---
 
 The Software Carpentry Foundation relies on volunteer efforts to

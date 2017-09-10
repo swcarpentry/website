@@ -3,40 +3,41 @@ layout: page-fullwidth
 show_meta: false
 title: "Jobs"
 permalink: "/jobs/"
+excerpt: Positions to be filled
 ---
 
-## Community Development Lead, Software and Data Carpentry
+## Workshop Administrator
 
-Software Carpentry and Data Carpentry are non-profit volunteer organizations who work together with a shared mission of making researchers more productive by teaching them essential computing skills.  We exist to empower data driven researchers from all disciplines to have the computational skills they need to answer their research questions in this data rich era. Through short and impactful workshops, taught by trained instructors who are themselves researchers, we spread skills and build capacity all around the world.
+Software Carpentry and Data Carpentry are non-profit volunteer organizations that teach researchers essential programming and data skills to enable more effective data-driven research. We are global organizations that train instructors and coordinate workshops to teach computational thinking and data skills.  We are mission-driven non-profits working together to bring workshops to researchers all around the world.  
 
-We’re looking for a community lead with solid experience participating in and leading online communities, and a passion for changing the world by promoting data-driven research skills. In this role, you’ll help Software and Data Carpentry support our volunteer instructor community and member organizations to increase our collective impact on researchers around the world. Our community today is comprised of our 20,000 learners, nearly 800 instructors and 40 member organizations from research institutions around the world.
+We are looking for a **part-time Workshop Administrator** to help coordinate workshops. You will join a team of workshop coordinators who manage  workshop logistics, assist in communicating with hosts and instructors and respond to general workshop inquiries.
 
-You will work with a distributed global team of staff and committed volunteers to facilitate clear communication among stakeholders. You will become an active member of our team of staff and help to provide our community with clear and concise communication. You will work with brilliant researchers, learners, instructors, and member organizations around the world to advance our mission.
+The Workshop Administrator needs strong organizational and communication skills. The ideal candidate will be competent in prioritizing and working independently, and will pay strong attention to detail. Enthusiasm for the idea of teaching people to program is also a plus! The successful candidate will get to meet and work with a global network of dedicated volunteer instructors.
 
-The Community Development Lead position is initially funded as a full time position for one year. The incumbent will be hired and paid as an independent contractor of our 501(c)3 fiscal sponsor, NumFOCUS. 
+This is a remote position. The incumbent will be hired and paid as an independent contractor of our 501(c)3 fiscal sponsor, NumFOCUS. Position will begin as part-time, approximately 20 hours a week, but has the potential to become full time.
 
-Review of applications will begin **March 13th, 2017**, and the position will remain open until filled. 
+Review of applications will begin **July 17, 2017**, and the position will remain open until filled.
 
-### Job description
+### Responsibilities
 
-As Community Development Lead you will oversee Software and Data Carpentry’s community engagement efforts to develop and support the community, creating pathways for participation and increased communication. You will lead blog, newsletter and social media efforts, help develop online resources, participate in the mentorship subcommittee and help facilitate the development of regional groups. You will also have the opportunity to guide efforts to reach underserved communities and to be involved in instructor training. 
+- Manage workshop details including workshop registration, setting up surveys and other logistical needs for workshops
+- Communicate with hosts about workshop logistics and respond to questions or issues to ensure attendee satisfaction
+- Communicate with instructors about operational guidelines, sending preparation reminders and ensuring they have any necessary information
+- Follow up with instructors and hosts after the workshops for survey feedback and workshop information
+- Manage data entry to ensure records are accurate and up-to-date
+- Provide feedback on the efficiency and clarity of the organizational process
+- Attend and participate in weekly staff meetings
+- Other responsibilities as requested by the Program Manager
 
-**Your qualifications:**
+### Qualifications and skills
 
-- Experience with leadership and communities
-- Strong written and oral communication skills
-- Demonstrated experience with social media
-- An understanding of and commitment to open source and open science
-- Passion for sharing digital research skills
-
-**Preferred:**
-
-- Understanding of non-profits and their unique communications needs
-- Experience teaching technical workshops
-- Project management and analytical skills
-- Experience with grant writing
-- Experience as a Software or Data Carpentry instructor
-
-Compensation will be negotiated commensurate with experience
+- Excellent written and verbal communication skills
+- Customer-service orientation
+- Able to complete administrative tasks with minimal supervision
+- Proven experience in organizing, planning or administering groups or events
+- Excellent time management and communication skills
+- Ability to manage multiple projects independently
+- Able to work virtually with a distributed team
+- Experience working with github, R or Python would be a plus
 
 To apply, please send your resume or CV and a cover letter to [jobs@carpentries.org](mailto:jobs@carpentries.org).

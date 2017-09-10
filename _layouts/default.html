@@ -6,17 +6,14 @@
 	{% include head %}
 </head>
 <body id="top-of-page" class="{{ page.format }}">
-	{% unless page.skip_boilerplate %}
-	{% include navigation %}
-	{% endunless %}
+
+  {% include navigation %}
 
 	{% include masthead %}
 
 	{{ content }}
 
-	{% unless page.skip_boilerplate %}
-	{% include footer %}
-	{% endunless %}
+  {% include footer %}
 
 	{% include footer_scripts %}
 </body>

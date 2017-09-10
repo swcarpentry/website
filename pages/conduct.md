@@ -4,6 +4,7 @@ permalink: /conduct/
 title: Code of Conduct
 redirect_from:
     - /conduct.html
+excerpt: Software Carpentry's Code of Conduct is geared towards making participation an enjoyable and fulfilling experience for all
 ---
 
 Software Carpentry and Data Carpentry are community organizations.

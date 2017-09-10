@@ -33,7 +33,7 @@ We are happy to introduce our "All episodes in one page".
 
 ## How to Use
 
-1. Access the [lesson](/lesson/) you want to print.
+1. Access the [lesson](/lessons/) you want to print.
 2. At the navigation bar, on the top, open the "Episodes" menu.
 3. Click on the last option, "All in one page (Beta").
 
