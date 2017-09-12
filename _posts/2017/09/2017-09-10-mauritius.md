@@ -12,20 +12,21 @@ The Square Kilometre Array (SKA) has been branded as one of the biggest scientif
 One of the spin-offs is expanded human and infrastructure capacity in terms of High Performance Computing (HPC) in other African countries. The South African [Centre for High Performance Computing](https://www.chpc.ac.za/) (CHPC) is involved in a programme named the HPC Ecosystems Project. The Ecosystems Project focuses on the distribution of decommissioned HPC equipment to be used as mid-tier systems at various sites across Africa. This is followed with training of the system administrators to run the equipment.
 
 Over the past few years the CHPC has been working with countries in Africa to:
-* develop an African Framework on HPC that has been adopted by the SADC Ministerial Committee on Science and Technology;
-* facilitate access for African researchers and students to HPC training programmes in South Africa;
-* providing access to HPC facilities for researchers on the continent; and
-* through the partnership with the Texas Advanced Computing Center and the University of Cambridge, parts of the HPC systems have been provided to African sites to develop computing capabilities.
 
-<img alt="Mauritius workshop participants" src="./mauritius-participants.jpg">
+- develop an African Framework on HPC that has been adopted by the SADC Ministerial Committee on Science and Technology;
+- facilitate access for African researchers and students to HPC training programmes in South Africa;
+- providing access to HPC facilities for researchers on the continent; and
+- through the partnership with the Texas Advanced Computing Center and the University of Cambridge, parts of the HPC systems have been provided to African sites to develop computing capabilities.
+
+<img alt="Mauritius workshop participants" src="mauritius-participants.jpg">
 
 The first country to host a Software Carpentry workshop in conjunction with the deployment of the donated HPC infrastructure is Mauritius. The event was sponsored by the CHPC, Talarify, and the University of Mauritius.
 
-<img alt="Mauritius workshop participants" src="./mauritius-workshop.jpg">
+<img alt="Mauritius workshop" src="mauritius-workshop.jpg">
 
 From [19 - 21 July](https://chpc-carpentry.github.io/2017-07-19-Mauritius/) this year, we ran a Software Carpentry workshop to potential users of the new, and first HPC system, at the University of Mauritius. Participants hailed from disciplines such as Bioinformatics, Computational Chemistry, Mathematics, Life Sciences, Engineering, Business, Medicine, and more. A total of 27 participants, mostly postgraduate students and faculty from the University of Mauritius, learned about the Linux Shell, Python, and version control with git and Github. The feedback in general was good (90% of the participants said they will recommend this workshop to colleagues) and several people indicated that they would be interested to become instructors. 50% of participants were females.
 
-<img alt="Scenic Mauritius" src="./mauritius-country.jpg">
+<img alt="Scenic Mauritius" src="mauritius-country.jpg">
 
 [Mauritius](https://en.wikipedia.org/wiki/Mauritius) is a fascinating country with total area around 2,040 km2 and a population of around 1,348,242. Over the past few years it has evolved from mostly an agricultural community to a knowledge economy with information and communication technology, seafood, hospitality and property development, healthcare, renewable energy, and education and training fast becoming large drivers of the economy. People mostly speak English and French with the local language, Creole also in the mix. The country has six universities and many other educational institutions. 
 
