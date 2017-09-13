@@ -34,7 +34,7 @@ The Software Carpentry Foundation is financially responsible for the organizatio
 #### Hiring staff 
 To achieve our mission, the steering committee will oversee the process of creating staff positions. We will evaluate the extent to which senior staff are carrying the strategic initiatives.  Senior staff will be responsible for evaluating junior staff members. 
  
-## Timeline for implementing the our goals
+## Timeline for implementing our goals
  
 #### Immediate concerns (now-six months)
 - Resolve issues with Windows Installer
