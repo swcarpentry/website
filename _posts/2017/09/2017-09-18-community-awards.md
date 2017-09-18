@@ -20,7 +20,8 @@ individuals whose work, in the Steering Committee's opinion, significantly impro
 Foundation's fulfillment of its mission and benefits the broader community. 
 
 For full details, including how to nominate someone and a link to previous awardees,
-see [this page]({{site.url}}/scf/awards/).  
+see [this page]({{site.url}}/scf/awards/). 
+
 We especially welcome nominations in the next two months, as 
 the Steering Committee will choose and 
 announce awards in December.  
