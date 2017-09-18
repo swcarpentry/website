@@ -2,7 +2,7 @@
 layout: post
 authors: ["Christina Koch"]
 title: "Community Service Awards - 2017 Edition"
-date: 2017-09-25
+date: 2017-09-18
 time: "08:00:00"
 category: ["Community", "Software Carpentry Foundation"]
 tagline: "Recognizing our most valuable assest -- our community members"
