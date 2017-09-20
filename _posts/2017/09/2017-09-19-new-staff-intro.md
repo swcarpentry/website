@@ -1,7 +1,7 @@
 ---
 layout: post
 authors: ["Tracy Teal", "Elizabeth Williams", "Karen Word"]
-title: "Introducing Elizbaeth Williams and Karen Word"
+title: "Introducing Elizabeth Williams and Karen Word"
 date: 2017-09-19
 time: "09:00:00"
 category: ["Staff Members"] 
