@@ -11,7 +11,7 @@ The Software and Data Carpentry staff teams met for a two-day in-person meeting 
 
 While we are a small team, and thus are limited in what we can achieve, we all see our main role as supporting our community. We want to make it easier for people to participate in everything we do in the Carpentries and to allow them to contribute to that work in any way they can. Accordingly, our meeting focused a lot on ways to foster engagement, remove roadblocks, streamline processes, and recognise the valuable work people do, whether it be  teaching, organizing workshops, lesson maintenance, mentoring, or serving on task forces and sub-committees.
 
-![The Software and Data Carpentry team](inperson.jpg)
+![The Software and Data Carpentry team](swcinperson.jpg)
 
 *L-R*: Karen Word, SherAaron Hurt, Tracy Teal, Kari Jordan (on computer screen), Erin Becker, Maneesha Sane, Elizabeth Williams, Belinda Weaver, Jonah Duckles.
 
