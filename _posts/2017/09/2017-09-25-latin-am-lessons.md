@@ -2,7 +2,7 @@
 layout: post
 authors: ["Heladia Salgado", "Paula Andrea Martinez", "Sue McClatchy"]
 title: "Invitación a Participar / Invitation to Participate "
-date: 2017-08-07
+date: 2017-09-25
 time: "06:00:00"
 category: ["Lesson Development", "Lesson Maintenance", "Lesson Translations"]
 ---
