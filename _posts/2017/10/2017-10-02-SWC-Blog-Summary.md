@@ -1,7 +1,7 @@
 ---
 layout: post
 authors: ["Martin Dreyer"]
-title: "1 - 30 September, 2017: Future of the Carpentries, New Staff Members, Community Service Awards, CarpentryCon, ."
+title: "1 - 30 September, 2017: Future of the Carpentries, New Staff Members, Community Service Awards, CarpentryCon"
 date: 2017-10-02
 time: "23:00:00"
 category: ["Community"]
@@ -11,14 +11,14 @@ category: ["Community"]
 * All the details on the [joint future of the Carpentries]({{site.baseurl}}/blog/2017/09/merger.html) explained. Please feel free to ask any questions that you need answered.
 * The very [first ever Data Carpentry]({{site.baseurl}}/blog/2017/09/ethiopia.html) in Ethiopia was held and it was an extraordinary experience.
 * The [Lesson Infrastructure Subcommittee]({{site.baseurl}}/blog/2017/09/lesson-infrastructure-subcommittee.html) had their 2017 September meeting and have come up with some resolutions.
-* We are pleased to anounce we have three new staff members that will be working for the Carpentries part time: [SherAaron Hurt]({{site.baseurl}}/blog/2017/09/announce-sher.html) is our new Workshop Adminstrator for the Carpentries, [Elizabeth Williams]({{site.baseurl}}/blog/2017/09/new-staff-intro.html) has joined as a part time Business Administrator, and [Karen Word]({{site.baseurl}}/blog/2017/09/new-staff-intro.html) has joined the Carpentries and will be the Deputy Director of Instructor training.
-* If you feel there is a community member that is working extra hard to help our organization please consider nominating them for a [Community Service Award]({{site.baseurl}}/log/2017/09/community-awards.html).
+* We are pleased to anounce we have three new staff members who will be working for the Carpentries part time: [SherAaron Hurt]({{site.baseurl}}/blog/2017/09/announce-sher.html) is the new Workshop Adminstrator for the Carpentries, [Elizabeth Williams]({{site.baseurl}}/blog/2017/09/new-staff-intro.html) has joined as a part-time Business Administrator, and [Karen Word]({{site.baseurl}}/blog/2017/09/new-staff-intro.html) has joined the Carpentries and will be the Deputy Director of Instructor training.
+* If you feel there is a community member who is working extra hard to help our organization, please consider nominating them for a [Community Service Award]({{site.baseurl}}/log/2017/09/community-awards.html).
 * 
 
 ## Tweets
 * Why is [Python](https://stackoverflow.blog/2017/09/14/python-growing-quickly/#.Wb-IhNlX_Kw.twitter) growing so quickly?
 * Carpentry instructors - some great advice here on making workshops better for people with [Dyslexia](http://www.datacarpentry.org/blog/coding-and-dyslexia/).
-* Want to submit a Carpentries blog post but nervous about @github? [You can use a form](https://carpentries.typeform.com/to/BK55ld).
+* Want to submit a Carpentries blog post but nervous about GitHub? [You can use a form](https://carpentries.typeform.com/to/BK55ld).
 *  Know an unsung hero of the Carpentries? Nominate them for a [Community Service Award](https://software-carpentry.org/blog/2017/09/community-awards.html).
 *  Want to report on a workshop? Write a [Software Carpentry blog post](https://software-carpentry.org/blog/2017/07/write-blog.html).
 *  Read our newsletter, [Carpentry Clippings](http://software-carpentry.us14.list-manage.com/subscribe?u=46d7513c798c6bd41e5f58f4a&id=50c3e6d6fe), to keep tabs on our community.
@@ -30,8 +30,8 @@ category: ["Community"]
 ## General
 * Everything you need to know about [CarpentryCon]({{site.baseurl}}/blog/2017/08/carpentrycon.html). 
 * Brian's [Poetical]({{site.baseurl}}/blog/2017/08/WaxingPoetical.html) notes on the unix shell is availabel on his [google drive](https://docs.google.com/document/d/1GpKZISA4GP2mxWgkuQbcvXElDKzMO80XqxHbR6RBbGc/edit).
-* The [University of Mauritius]({{site.baseurl}}/blog/2017/09/mauritius.html) along with other sponsors hosted a HPC workshop in July and had attendees from various backgrounds.
-* [Univeristy of Namibia]({{site.baseurl}}/blog/2017/09/namibia.html) held the second Software Carpentry workshop in Namibia and learned some valuable lessons.
+* The [University of Mauritius]({{site.baseurl}}/blog/2017/09/mauritius.html) along with other sponsors hosted an HPC workshop in July and had attendees from various backgrounds.
+* [University of Namibia]({{site.baseurl}}/blog/2017/09/namibia.html) held the second Software Carpentry workshop in Namibia and learned some valuable lessons.
 * Plese share your thoughts on the [future of the Carpentries]({{site.baseurl}}/blog/2017/09/rfc.html).
 * Share your ideas and exerience on the [Software Carpentry lessons]({{site.baseurl}}/blog/2017/09/swc-lessons.html).
 * The Carpentries, the National Node of Bioinformatics Mexico (NNB) and the Ibero-American Society of Bioinformatics (SoIBio) invite you all to participate in the project [Carpentry for Latin America]({{site.baseurl}}/blog/2017/09/latin-am-lessons.html).
