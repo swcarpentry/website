@@ -83,7 +83,8 @@ the way it is.
 > 
 > * Address some of the previous challenges in order to make maintaining lessons 
 > more accessible. 
-> * Create a recommendation template that maintainers can use for applications, tenure, etc.
+> * Create some standard descriptive wording for use in applications for jobs, 
+tenure, and grants that maintainers can use to highlight their contributions.
 > * Publicize our lesson publication information more widely. 
 
 We hope to address some 
