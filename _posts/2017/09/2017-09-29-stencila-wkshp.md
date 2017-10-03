@@ -44,7 +44,7 @@ between languages.
 > "Being able to get right to the code, thinking about the logic behind a query or 
 the way in which data is organised is great!" - Giulio Valentino Dalla Riva
 
-![UBC workshop attendees](stencilaworkshop.jpg)
+![UBC workshop attendees](/stencilaworkshop.jpg)
 
 #### UBC workshop attendees
 
