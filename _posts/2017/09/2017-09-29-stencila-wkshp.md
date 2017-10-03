@@ -41,10 +41,11 @@ results in R, all in the browser, just by clicking a link. Students were able to
 analysis methods and code and not worry about how to clone repositories, connect to databases or pass data 
 between languages.
 
+![Workshop attendees](stencilaworkshop.jpg)
+
 > "Being able to get right to the code, thinking about the logic behind a query or 
 the way in which data is organised is great!" - Giulio Valentino Dalla Riva
 
-![Workshop attendees](stencilaworkshop.jpg)
 
 #### UBC workshop attendees
 
