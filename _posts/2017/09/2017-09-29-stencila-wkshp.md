@@ -45,6 +45,7 @@ between languages.
 the way in which data is organised is great!" - Giulio Valentino Dalla Riva
 
 ![UBC workshop attendees](stencilaworkshop.jpg)
+
 #### UBC workshop attendees
 
 This was a definitely an early beta test for us and we had a few hiccups! But we learned how to handle 
