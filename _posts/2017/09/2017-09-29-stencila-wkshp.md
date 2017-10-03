@@ -41,16 +41,14 @@ results in R, all in the browser, just by clicking a link. Students were able to
 analysis methods and code and not worry about how to clone repositories, connect to databases or pass data 
 between languages.
 
-![Workshop attendees](stencilaworkshop.jpg)
-
 > "Being able to get right to the code, thinking about the logic behind a query or 
 the way in which data is organised is great!" - Giulio Valentino Dalla Riva
 
 
-#### UBC workshop attendees
-
 This was a definitely an early beta test for us and we had a few hiccups! But we learned how to handle 
 40 people all working on reproducible documents at once! (Thank you to the students for being our beta testers.) 
+
+![Workshop attendees](stencilaworkshop.png)
 
 The UBC students also tested our new [RStudio integration](https://github.com/stencila/r/blob/master/getting-started.md). 
 This integration makes it possible to view, edit, and save Markdown-based documents using Stencila locally 
