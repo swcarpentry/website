@@ -38,7 +38,7 @@ category: ["Community"]
 * [Stencila]({{site.baseurl}}/blog/2017/09/stencila-wkshp.html) was used to teach SQL and R at a UBC workshop in Canada.
 
 * 16 workshops were run over the past 30 days. For more information about past workshops, please visit our [website]({{site.baseurl}}/workshops/past/). 
-* Upcoming Workhshops:
+* Upcoming Workshops:
   
 
   * **October**
