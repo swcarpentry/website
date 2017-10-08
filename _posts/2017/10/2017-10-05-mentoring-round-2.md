@@ -18,6 +18,7 @@ According to round one participants, the benefits of mentoring included greater 
 Participants felt the program could be improved if mentoring groups had specific goals, and if we gave mentors more guidance on how to run mentoring sessions.
 
 We listened to that feedback and have made changes to the program. We are now offering curriculum-specific mentoring: both mentors and mentees can choose which tools they are most interested in discussing from the following list:
+
 + Git  
 + Shell  
 + Python  
@@ -25,6 +26,7 @@ We listened to that feedback and have made changes to the program. We are now of
 + SQL
 
 Once a topic has been selected, participants can choose what aspect of mentoring they want for their chosen tool:
+
 + Lesson Maintenance  
   - Contributing to current lesson development  
   - Contributing to lesson maintenance  
@@ -34,7 +36,7 @@ Once a topic has been selected, participants can choose what aspect of mentoring
 
 Additionally, we plan to offer mentoring on two big issues:
 
- Organizing Workshops   
++ Organizing Workshops
   - Logistics of organizing a workshop (e.g. marketing, registration)  
   - Logistics of running a workshop (e.g. recruiting instructors, distributing tasks)  
 + Community Building  
