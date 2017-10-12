@@ -9,7 +9,7 @@ categories:
    - blog
 comments: true
 show_meta: true
-authors: ["Erin Becker", "Kari L. Jordan", "Tracy Teal", "Christina Koch"  
+authors: ["Erin Becker", "Kari L. Jordan", "Tracy Teal", "Christina Koch"]  
 
 ---
 
