@@ -1,17 +1,14 @@
 ---
 layout: post
-subheadline: "Mentoring"
-title: "Carpentries Mentorship Program - 2.0"
-teaser: "We're starting a new round of mentoring groups, centered on specific lessons"
-header:
- image_fullwidth: "light-blue-wood-texture.jpg"
-categories:
-   - blog
-comments: true
-show_meta: true
 authors: ["Erin Becker", "Kari L. Jordan", "Tracy Teal", "Christina Koch"]  
+title: "Carpentries Mentorship Program - 2.0"
+date: 2017-10-57
+time: "06:00:00"
+category: [ "Community", "Mentoring", "Community Building"]
 
 ---
+
+### We're starting a new round of mentoring groups, centered on specific lessons
 
 Mentorship is an important part of the Carpentry experience. As Instructors, we both teach and mentor our Learners. We also mentor each other as Instructors, learning something new from each other every time we teach and interact with one another. The Mentoring Subcommittee offers guidance to new and continuing Instructors through [weekly discussion sessions](http://pad.software-carpentry.org/instructor-discussion), where Instructors from the global Carpentry community gather to share their experiences and learn from each other. This is a fantastic opportunity to interact with other Carpentry Instructors from around the world. 
 
