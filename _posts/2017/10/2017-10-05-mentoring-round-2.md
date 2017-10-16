@@ -1,16 +1,15 @@
 ---
 layout: post
-subheadline: "Mentoring is Back!"
-title: "Round Two of the Carpentries Mentoring Program begins October 25th"
-teaser: "Mentoring groups provide experienced instructors with the chance to help small groups develop confidence in teaching, lesson maintenance and community building."
-header:
- image_fullwidth: "light-blue-wood-texture.jpg"
-categories:
-   - blog
-comments: true
-show_meta: true
 authors: ["Kari L. Jordan", "Belinda Weaver"]
+title: "Mentoring is Back! Round Two of the Carpentries Mentoring Program begins October 25th"
+date: "2017-08-07"
+time: "06:00:00"
+category: ["Mentoring", "Champions", "Community Building"]
+
 ---
+
+### Mentoring groups provide experienced instructors with the chance to help small groups develop confidence in teaching, lesson maintenance and community building
+
 The inaugural Carpentries mentoring program was a great success, and we have used the feedback we received from both mentors and mentees to craft a new and improved mentoring experience in round two. The next round will run October 25th - January 10th.
 
 According to round one participants, the benefits of mentoring included greater understanding of the challenges new instructors face, more clarity about why we teach what we teach, getting timely responses to questions, and community engagement.
