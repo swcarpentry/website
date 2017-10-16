@@ -2,7 +2,7 @@
 layout: post
 authors: ["Erin Becker", "Kari L. Jordan", "Tracy Teal", "Christina Koch"]  
 title: "Carpentries Mentorship Program - 2.0"
-date: 2017-10-16
+date: 2017-10-12
 time: "00:00:00"
 category: [ "Community", "Mentoring", "Community Building"]
 
