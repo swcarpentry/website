@@ -1,6 +1,6 @@
 ---
 layout: post
-authors: ["Kate Hertweck"]
+authors: ["Kate Hertweck", "Karen Cranston"]
 title: "RFCs and lessons learned"
 date: 2017-10-17
 time: "12:00:00"
@@ -52,12 +52,15 @@ varies between Software Carpentry and Data Carpentry, in part because Software
 Carpentry is a more mature organization and in part due to differences in how 
 the groups were formed. This reorganization is an opportunity to combine the best 
 parts of each organization’s approach to leadership and governance. Specific decisions 
-about governance have built on previous experiences from both organizations while 
-attempting to uphold other priorities described above. As the size of the community 
-increases, however, we are attempting to strike a balance between representing community 
-input while ensuring we meet business obligations. 
+about governance have been based on previous experiences from both organizations, 
+successful leadership models in other large volunteer projects, and the priorities 
+described above.
 
 All of these issues represent perspectives that we have considered during planning, 
-and which we continue to weigh as we incorporate your feedback. Please watch for 
+and which we continue to weigh as we incorporate your feedback. We understand that this 
+is resulting in incongruity with existing Software Carpentry governance procedures, 
+and are endeavoring to uphold the mindset of these guidelines while transitioning to 
+a merged organization. 
+Please watch for 
 the upcoming summaries of feedback from the RFCs, as well as the call for nominations 
 for the four elected members of the first Board of Directors of the merged organization. 
