@@ -57,10 +57,13 @@ successful leadership models in other large volunteer projects, and the prioriti
 described above.
 
 All of these issues represent perspectives that we have considered during planning, 
-and which we continue to weigh as we incorporate your feedback. We understand that this 
-is resulting in incongruity with existing Software Carpentry governance procedures, 
-and are endeavoring to uphold the mindset of these guidelines while transitioning to 
-a merged organization. 
+and which we continue to weigh as we incorporate your feedback. We understand that this process
+is resulting in incongruity with existing Software Carpentry governance procedures. 
+We also recognize there are many decisions to be made that the original documents did 
+not anticipate. Therefore, we are endeavoring to uphold the mindset of these guidelines 
+and are using them as the foundation for the new organization's bylaws. If you have questions 
+or concerns about this process, please feel free to contact 
+[Kate Hertweck](mailto:k8hertweck@gmail.com), the Software Carpentry Steering Committee chair. 
 Please watch for 
 the upcoming summaries of feedback from the RFCs, as well as the call for nominations 
 for the four elected members of the first Board of Directors of the merged organization. 
