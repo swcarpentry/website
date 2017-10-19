@@ -3,8 +3,6 @@ layout: post
 subheadline: "Assessment"
 title: "Our long-term assessment results are in!"
 teaser: "A discussion of learner outcomes more than six months after attending a Carpentries workshop."
-header:
- image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
 comments: true
