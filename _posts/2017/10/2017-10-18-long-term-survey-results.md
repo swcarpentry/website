@@ -38,7 +38,7 @@ The majority of our respondents:
 
 Respondents also substantially increased their frequency of use of programing languages (R, Python, etc.), databases (Access, SQL, etc.), version control software and/or the Unix shell, incorporating these tools into their regular workflows. Nineteen percent of respondents transitioned from using these tools once a month or less to weekly or daily use per the figure below.
 
-![alt text](https://raw.github.com/carpentries/assessment/master/carpentries/long-term-survey/figures/change_in_programming_usage.png)
+![Change in programming usage plot](../../../files/2017/10/change_in_programming_usage.png)
 
 Learners perceive the workshop had an impact on their confidence, as well as their productivity, reproducibility and coding. Interestingly, people also felt that the workshops had a positive impact on their career as a whole, and some received recognition for their work. 
 
@@ -52,7 +52,7 @@ The figure below shows what impact the workshop respondents’ attended had on s
 + *Coding*: I have improved my coding practices as a result of completing the workshop.
 + *Career*: I have used skills I learned at the workshop to advance my career.
 
-![alt text](https://raw.github.com/carpentries/assessment/master/carpentries/long-term-survey/figures/workshop_impact_heatmap.png) 
+![Workshop impact heatmap visualisation](../../../files/2017/10/workshop_impact_heatmap.png) 
 
 The figure shows that respondents agree or strongly agree about gaining confidence in working with data (85.3%), making their analyses more reproducible (69.4%), and receiving professional recognition for their work (64.7%) all as a result of attending a Software or Data Carpentry workshop.
 
