@@ -18,6 +18,7 @@ Our [long term survey report](https://carpentries.github.io/assessment/carpentri
 Software and Data Carpentry have taught workshops to over 27,000 learners in 35 countries around the world. Post-workshop survey reports for [Software Carpentry](https://carpentries.github.io/assessment/software-carpentry/postreport.html) and [Data Carpentry](https://carpentries.github.io/assessment/data-carpentry/postworkshop/report.html) have consistently shown that people like the workshops, that they know more about importing data sets into R and Python to work with data, write functions, and initialize repositories in git, and that they think they can apply skills immediately to their work. 
 
 Our focus has always been on long term change, including:
+
 + Improving learners’ confidence and motivation to use computational tools,
 + Changing behaviors around reproducible research and effective computational work, and 
 + Increasing the frequency and types of computing skills used. Therefore, we launched our first 
@@ -32,6 +33,7 @@ Not only do these two-day coding workshops increase researcher’s daily program
 ## Highlights from our long-term survey
 
 The majority of our respondents:
+
 + Gained confidence in the tools that were covered during their workshop (77%).
 + Became more motivated to continue learning the tools covered in their workshop (88%). 
 + Reported improving their coding practices (70%).
@@ -43,6 +45,7 @@ Respondents also substantially increased their frequency of use of programing la
 Learners perceive the workshop had an impact on their confidence, as well as their productivity, reproducibility and coding. Interestingly, people also felt that the workshops had a positive impact on their career as a whole, and some received recognition for their work. 
 
 The figure below shows what impact the workshop respondents’ attended had on several factors, including career, confidence, and continuous learning. Respondents were asked to rate their level of agreement (1-Strongly disagree to 5-Strongly agree) with the statements below. The x-axis labels for the figure are in bold, and correspond to the statement following.
+
 + *Reproducible*: I have made my analyses more reproducible as a result of completing the workshop.
 + *Recognition*: I have received professional recognition for my work as a result of using the tools I learned at the workshop.
 + *Productivity*: My research productivity has improved as a result of completing the workshop.
