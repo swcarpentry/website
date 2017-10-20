@@ -64,3 +64,5 @@ The surveys used in this work, anonmyized data and R scripts for generating the 
 If you have other questions about the data or results, please use the data, re-analyze the results or ask your own questions! 
 
 What strikes you? Comment below, and tweet us your thoughts @datacarpentry @swcarpentry and @drkariljordan using the hashtag #carpentriesassessment. 
+
+*Thanks to the Gordon and Betty Moore Data Driven Discovery initiative for support of Data Carpentry and these assessment efforts.*
