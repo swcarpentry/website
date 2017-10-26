@@ -2,7 +2,7 @@
 layout: post
 authors: ["Jeff Oliver"]
 title: "My Favourite Tool"
-date: 2017-10-26
+date: 2017-10-25
 time: "06:00:00"
 category: ["Version control", "Tools", "Git", "GitHub", "Best practices"]
 ---
