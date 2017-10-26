@@ -16,4 +16,4 @@ huge collaborative community that supports you, with quick answers, with example
 
 -- Paula Andrea Martinez, Data scientist / Postdoc / Data Analysis and Bioinformatics. [@orchid00](https://twitter.com/orchid00)
 
-> Have you got a favourite tool you would like to tell us about? Please use this [form](https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform) and we will do the rest. You can read the [background to these posts](https://software-carpentry.org/blog/2017/10/fave-tools.html) here.
+Have you got a favourite tool you would like to tell us about? Please use this [form](https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform) and we will do the rest. You can read the [background to these posts](https://software-carpentry.org/blog/2017/10/fave-tools.html) here.
