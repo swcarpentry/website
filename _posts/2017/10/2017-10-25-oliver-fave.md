@@ -44,4 +44,4 @@ Sure, I ~~struggled~~ struggle sometimes with Git syntax and concepts, but 98% o
 commands (`pull-add-commit-push`, remember?) and the Git/GitHub combo reduces the time I spend developing, 
 preserving, and sharing the work I do.
 
--- Jeff Oliver, Data Science Specialist
+-- Jeff Oliver, Data Science Specialist, Tucson, Arizona
