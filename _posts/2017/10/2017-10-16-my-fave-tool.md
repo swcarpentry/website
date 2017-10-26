@@ -7,12 +7,6 @@ time: "06:00:00"
 category: ["Data Science", "Tools"]
 ---
 
-*Name:* Paula Andrea Martinez
-
-*Twitter:* [@orchid00](https://twitter.com/orchid00)
-
-*Career stage:* Data scientist / Postdoc / Data Analysis and Bioinformatics
-
 ### My favorite tool for data analysis is [R](https://www.r-project.org/). 
 
 I have used it for a few years now, I feel at ease when I need to work with tabular data. 
@@ -20,7 +14,6 @@ Using R makes my work enjoyable. I can clean my data in one place - [RStudio](ht
 I also enjoy learning new things in R. Its constant development gives you the chance to learn a bit more every day. This is thanks to a 
 huge collaborative community that supports you, with quick answers, with examples, and with new packages.
 
-> Have you got a favourite tool you would like to tell us about? 
+-- Paula Andrea Martinez, Data scientist / Postdoc / Data Analysis and Bioinformatics. [@orchid00](https://twitter.com/orchid00)
 
-> Please use this [form](https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform) 
-> and we will do the rest. You can read the [background to these posts](https://software-carpentry.org/blog/2017/10/fave-tools.html) here.
+> Have you got a favourite tool you would like to tell us about? Please use this [form](https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform) and we will do the rest. You can read the [background to these posts](https://software-carpentry.org/blog/2017/10/fave-tools.html) here.
