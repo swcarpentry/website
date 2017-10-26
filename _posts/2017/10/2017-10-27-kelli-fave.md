@@ -9,7 +9,7 @@ category: ["Python", "iPython"]
 
 #### My favorite tool is ... IPython
 
-IPython is a Python interpreter with added features that make it an invaluable tool for interactive coding and data exploration. 
+[IPython](https://ipython.org/) is a Python interpreter with added features that make it an invaluable tool for interactive coding and data exploration. IPython is most commonly taught via the [Jupyter notebook](http://jupyter.org/), an interactive web-based tool for evaluating code, but IPython can be used on its own directly in the terminal as a replacement for the standard Python interpreter.
 
 #### Why I like it
 
