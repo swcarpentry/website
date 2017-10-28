@@ -22,7 +22,7 @@ to transform the data, to break up and combine strings.
 OpenRefine is the gateway to my deeper understanding of 
 eagle-i, and has led the way to new uses of the data for assessment of facility use and resource discoverability.
 
--- Juliane Schneider, Lead Data Curator, Harvard Catalys/eagle-i, based in Chicago.
+-- Juliane Schneider, Lead Data Curator, Harvard Catalyst, based in Chicago.
 
 
 Have a favorite tool of your own? [Please tell us about it](https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform)! 
