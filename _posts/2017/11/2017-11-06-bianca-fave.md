@@ -1,11 +1,13 @@
 ---
 layout: post
 authors: ["Bianca Peterson"]
-title: "My Favourite Tool is R"
+title: "My Favourite Tool : R"
 date: 2017-11-06
 time: "17:00:00"
 category: ["Statistics", "R"]
+
 ---
+
 [R](https://www.r-project.org/) can do anything - from making presentations, analyzing and plotting data to version control (Git). 
 
 I use it for absolutely everything! It's not difficult to use and it's free!
