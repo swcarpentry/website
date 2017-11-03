@@ -1,7 +1,7 @@
 ---
 layout: post
 authors: ["Juliane Schneider"]
-title: "My Favourite Tool"
+title: "My Favourite Tool: OpenRefine"
 date: 2017-10-30
 time: "18:00:00"
 category: ["Data cleaning", "OpenRefine", "Tools"]
