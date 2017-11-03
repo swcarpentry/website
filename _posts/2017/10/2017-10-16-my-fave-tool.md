@@ -1,7 +1,7 @@
 ---
 layout: post
 authors: ["Paula Andrea Martinez"]
-title: "My Favourite Tool"
+title: "My Favourite Tool: R"
 date: 2017-10-16
 time: "06:00:00"
 category: ["Data Science", "Tools"]
