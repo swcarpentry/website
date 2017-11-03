@@ -23,7 +23,7 @@ piece-by-piece interactive programming (Python mode).
 
 - Edit [LaTeX](https://www.latex-project.org/) files through sophisticated packages that synchronize the text buffer with a PDF viewer, 
 pretty-print mathematical expressions directly in the text buffer, automatically handle references and 
-much more ([Auctex](https://www.gnu.org/software/auctex/).
+much more ([Auctex](https://www.gnu.org/software/auctex/)).
 
 - Access a handy but powerful LISP interpreter anytime from any text buffer.
 
