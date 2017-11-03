@@ -1,7 +1,7 @@
 ---
 layout: post
 authors: ["Kellie Ottoboni"]
-title: "My Favourite Tool"
+title: "My Favourite Tool: IPython"
 date: 2017-10-27
 time: "08:00:00"
 category: ["Python", "iPython"]
