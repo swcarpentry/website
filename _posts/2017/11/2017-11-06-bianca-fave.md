@@ -1,7 +1,7 @@
 ---
 layout: post
 authors: ["Bianca Peterson"]
-title: "My Favourite Tool : R"
+title: "My Favourite Tool - R"
 date: 2017-11-06
 time: "17:00:00"
 category: ["Statistics", "R"]
