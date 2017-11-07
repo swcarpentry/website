@@ -7,7 +7,9 @@ time: "18:00:00"
 category: ["Carpentries", "Merger", "Steering Committee", "Board"] 
 ---
 
-### Call for Joint Carpentries Leadership: Stand for election to the joint board of the merged Carpentries organization
+### EDITED 2017-11-07: Board of Directors is a legal term and can't be used for a sponsored project. Changed to "Steering Committee"
+
+### Call for Joint Carpentries Leadership: Stand for election to the joint Steering Committee of the merged Carpentries organization
 
 As most of you know, Software Carpentry and Data Carpentry are merging into a
 new organization, provisionally called "The Carpentries". This new organization
@@ -15,11 +17,11 @@ will officially begin on January 1, 2018, with a hugely talented staff and
 dedicated community already in place.
 
 This is an exciting time, and we are looking for people who want to  help direct
-the new organization by being an elected member of the Board of Directors of The
-Carpentries. The board will include both appointed and elected members in order
+the new organization by being an elected member of the Steering Committee of The
+Carpentries. The Steering Committee will include both appointed and elected members in order
 to balance community engagement with needed expertise in leading a growing
 non-profit organization. For more information about the responsibilities and
-composition of the board, see [this
+composition of the committee, see [this
 issue](https://github.com/carpentries/2017Merger/blob/master/RFCs/RFC2.md), part
 of the merger RFC.
 
@@ -27,8 +29,8 @@ of the merger RFC.
 
 Following [current SCF
 bylaws](https://software-carpentry.org/blog/2014/12/scf-governance.html) current
-Carpentries members may vote and serve on the Board. Election or appointment to
-the board is currently limited to members.
+Carpentries members may vote and serve on the Steering Committee. Election or appointment to
+the Steering Committee is currently limited to members.
 
 The membership is made up of:
 
@@ -60,7 +62,7 @@ repository](https://github.com/datacarpentry/datacarpentry.github.io) or [by
 email](mailto:team@carpentries.org). In the post, you should explain:
 
 - your previous involvement with The Carpentries
-- what you would do as a member of the Board of Directors to contribute to the growth and success of the community
+- what you would do as a member of the Steering Committee to contribute to the growth and success of the community
 
 The [post from last year's SWC elections](https://software-carpentry.org/blog/2017/01/election-update.html) contains examples.
 
