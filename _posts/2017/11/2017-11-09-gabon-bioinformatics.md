@@ -55,8 +55,8 @@ Cape Town) and the US (UNO). A survey was distributed to all participants after 
 on the structure and content of the workshop itself.  
 
 Most of the participants used their own laptops, however, ten laptops were provided by CAB-Alliance with software and 
-programs installed within VirtualBox (https://www.virtualbox.org). We also took a tour of the 
-CyVerse platform (http://www.cyverse.org/) including genomic data processing and cloud computing in the Discovery 
+programs installed within [VirtualBox](https://www.virtualbox.org). We also took a tour of the 
+[CyVerse platform](http://www.cyverse.org/) including genomic data processing and cloud computing in the Discovery 
 Environment and through ATMOSPHERE. Unfortunately, USTM does not currently have the infrastructure for Internet access, 
 so four 4G mobile wifi hotspots were provided. Connectivity was still a challenge, but students were able to access 
 cloud computing sites and other resources online.
