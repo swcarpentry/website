@@ -48,7 +48,7 @@ is required to host successful workshops.  Secondly, it is important to share kn
 especially the "ways of doing" through hands-on mentorship. I believe this is essential to 
 successfully expand the Carpentries community further into new territories.
 
-As [Bruce Becker](https://twitter.com/brusisceddu) recently tweeted:
+As [Bruce Becker](https://twitter.com/brusisceddu) recently [tweeted](https://twitter.com/brusisceddu/status/926346054097952769):
 
 "What did we learn from [@aneldavdw](https://twitter.com/aneldavdw) at [#UC2017](https://twitter.com/search?q=%23UC2017&src=typd)? Get up and do something. Your ripple might raise a tide."
 
