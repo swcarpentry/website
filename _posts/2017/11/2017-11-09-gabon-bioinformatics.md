@@ -29,7 +29,7 @@ analysis to researchers and students at USTM as well as the scientists at the Re
 two of the three focal species that the team had based their work on: namely the African puddle frog _Phrynobatrachus auritus_ 
 and the soft-furred mouse _Praomys missonei_. 
 
-![Organisers and instructors of the Gabon workshop](/files/2017/10/gabon_instructors.jpg)
+![Organisers and instructors of the Gabon workshop](/files/2017/11/gabon_instructors.jpg)
 
 The UNO team (Nicola Anthony, Katy Morgan, Courtney Miller) along with colleagues at USTM (Patrick Mickala, Stephan Ntie, 
 Jean-Francois Mboumba) and UB (Eric Fokam, Geraud Tasse) set out to develop a week long course that would introduce 
@@ -46,7 +46,7 @@ working in the command line, data visualization in R, next generation sequencing
 DNA (RAD) sequencing, detecting loci under selection and geospatial modeling of genomic variation. A more detailed copy of 
 the program is available here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1044057.svg)](https://doi.org/10.5281/zenodo.1044057).
 
-![Gabon workshop](/files/2017/10/gabon_workshop.jpg)
+![Gabon workshop](/files/2017/11/gabon_workshop.jpg)
 
 There were approximately 25 participants including both instructors and students. Participants were a mixture of faculty, 
 research scientists and graduate students from several institutions in Gabon (USTM, Centre National de Recherche Scientifique 
