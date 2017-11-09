@@ -29,7 +29,7 @@ Here are some points I have thought of. Feel free to comment.
 
 The Chair sets the tone. The Chair introduces him or herself, explains how the meeting will be conducted, and what expectations there are of attendees. The Chair then calls on any notetaker for the meeting to introduce him or herself.
 
-The chair greets each person as that person joins the meeting. Once themeeting starts, the Chair calls on each person in turn to say their name, where they are from, and why they are attending, e.g.instructor checkout, workshop debrief.
+The chair greets each person as that person joins the meeting. Once the meeting starts, the Chair calls on each person in turn to say their name, where they are from, and why they are attending, e.g.instructor checkout, workshop debrief.
 
 The Chair asks people who wish to speak to write the word `hand` in the chat window. The Chair then calls on speakers in turn. 
 
