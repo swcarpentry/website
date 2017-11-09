@@ -7,6 +7,8 @@ time: "00:00:00"
 category: ["Steering Committee"]
 ---
 
+### 2018 Election: Juan Steyn
+
 Hi! I'm Juan Steyn, currently employed at 
 the [South African Centre for Digital Language Resources](http://humanities.nwu.ac.za/unit-languages-and-literature-sa-context/sadilar) 
 as project manager. I'm an enabler at heart and I want to contribute and give back to the African and international 
