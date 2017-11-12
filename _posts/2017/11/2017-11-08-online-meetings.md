@@ -1,7 +1,7 @@
 ---
 layout: post
 authors: ["Belinda Weaver"]
-title: "Running effective online meetings with Zoom (or Google Hangouts)"
+title: "Running effective online meetings with Zoom (or Google Hangouts, or ...)"
 date: 2017-11-08
 time: "00:00:00"
 category: ["Online meetings", "Zoom"]
@@ -40,10 +40,14 @@ Notes are recorded on an etherpad or a similar shared medium, e.g., a Google Doc
 
 To ensure that the meetings runs well, and that everyone gets their turn to speak, the chair asks people who wish to contribute to type the word `hand` in the chat window. The chair then calls on those speakers in turn. Some video conferencing applications such as Zoom have a `Raise Hand` feature that can also be used, but using `hand` is usually sufficient.
 
-Zoom also offers several views of participants. If you are chairing, Gallery View is probably best so you can see all your participants. Speaker View features the current speaker but can also be triggered by ambient noise, so it can be distracting. 
+Zoom also offers several views of participants. If you are chairing, `Gallery View` is probably best so you can see all your participants. `Speaker View` generally features the current speaker but can also be triggered by ambient noise, which can be distracting.
 
-#### Three rules to make for better meetings
+#### Free tools
+
+[Google Hangouts](https://hangouts.google.com/) and [Jitsi Meet](https://meet.jit.si/) are two free tools for online meetings. Jitsi Meet works well for very low bandwidth connections and comes with a built-in etherpad, and a `Raise Hand` feature.
+
+#### Three rules to make for better online meetings
 
 - Be on time - it is very disruptive when people join an online meeting after it has started.
-- Mute yourself when you are not speaking.
+- Mute yourself when you are not speaking so that you do not disturb others.
 - Use a headset to minimise noise from your location and to provide clearer sound for attendees.
