@@ -38,7 +38,9 @@ We highly recommend that there is a designated notetaker to record discussions a
 
 Notes are recorded on an etherpad or a similar shared medium, e.g., a Google Doc. Any notes posted to the chat window during the meeting should be transferred to the shared medium before the meeting ends so they are not lost when the video conference is closed.
 
-To ensure that the meetings runs well, and that everyone gets their turn to speak, the chair asks people who wish to contribute to type the word `hand` in the chat window. The chair then calls on those speakers in turn. Some video conferencing applications have a Raise Hand feature that can also be used, but using `hand` is usually sufficient.
+To ensure that the meetings runs well, and that everyone gets their turn to speak, the chair asks people who wish to contribute to type the word `hand` in the chat window. The chair then calls on those speakers in turn. Some video conferencing applications such as Zoom have a `Raise Hand` feature that can also be used, but using `hand` is usually sufficient.
+
+Zoom also offers several views of participants. If you are chairing, Gallery View is probably best so you can see all your participants. Speaker View features the current speaker but can also be triggered by ambient noise, so it can be distracting. 
 
 #### Three rules to make for better meetings
 
