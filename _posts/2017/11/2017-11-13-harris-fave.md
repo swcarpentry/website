@@ -33,7 +33,7 @@ In summary, those are just a few of the reasons why my favorite tools are video 
 to like-minded people around the globe so that I can learn more about technology or practices that I can use in my 
 research and teaching. 
 
--- Rayna Harris, Scientist & Educator / Graduate Student / Behaivoral Neuroscience and Genomics, Austin TX
+-- Rayna Harris, Scientist & Educator / Graduate Student / Behavioral Neuroscience and Genomics, Austin TX
 
 -----
 
