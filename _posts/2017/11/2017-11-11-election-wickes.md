@@ -7,7 +7,7 @@ time: "00:00:00"
 category: ["Steering Committee"]
 ---
 
-### 2018 Election: Elizabeth WIckes
+### 2018 Election: Nomination by Elizabeth Wickes
 
 #### Who am I?
 
