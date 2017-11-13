@@ -11,7 +11,7 @@ category: ["Steering Committee"]
 
 #### Who am I?
 
-I'm Elizabeth Wickes and I work as a Lecturer with the [School of Information Sciences](http://ischool.illinois.edu/) at the University of Illinois at Urbana-Champaign.  I began this position in mid-2017, and previously worked as a Data Curation Specialist for the University Library at UIUC for 2 years.  I have my MSLIS, and worked for 5 years at Wolfram|Alpha before beginning my master's program.
+I'm Elizabeth Wickes and I work as a Lecturer with the [School of Information Sciences](http://ischool.illinois.edu/) at the University of Illinois at Urbana-Champaign.  I began this position in mid-2017, and previously worked as a Data Curation Specialist for the University Library at UIUC for 2 years.  I have my MSLIS, and worked for 5 years at Wolfram Alpha before beginning my master's program.
 
 While I enjoy teaching and working with a variety of domains, I am primarily experienced in teaching for digital humanities researchers, librarians, and other non-STEM fields.  I constantly challenge myself to make computational and digital tool training interesting, accessible, and valuable to all research domains.
 
