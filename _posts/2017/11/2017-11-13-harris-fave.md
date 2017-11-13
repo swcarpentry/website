@@ -39,3 +39,9 @@ It is a beautiful thing to listen to someone teach Python, R, UNIX, Git, or UNIX
 In summary, those are just a few of the reasons why my favorite tools are video conferencing systems that connect me 
 to like-minded people around the globe so that I can learn more about technology or practices that I can use in my 
 research and teaching. 
+
+-- Rayna Harris, Scientist & Educator / Graduate Student / Molecular Neuroscience, Austin TX
+
+-----
+
+Have you got a favourite tool you would like to tell us about? Please use [this form](https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform) to add a bit of detail and we will do the rest. You can read the [background to these posts](https://software-carpentry.org/blog/2017/10/fave-tools.html) here, or see what [other tools](https://software-carpentry.org/blog/2017/10/favorites.html) people have written about.
