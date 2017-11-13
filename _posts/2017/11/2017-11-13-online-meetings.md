@@ -3,7 +3,7 @@ layout: post
 authors: ["Belinda Weaver"]
 title: "Running effective online meetings with Zoom (or Google Hangouts, or ...)"
 date: 2017-11-08
-time: "00:00:00"
+time: "00:00:13"
 category: ["Online meetings", "Zoom"]
 ---
  
