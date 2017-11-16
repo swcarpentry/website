@@ -7,7 +7,9 @@ time: "09:00:00"
 category: ["Steering Committee"]
 ---
 
-## So, who are you?
+## 2018 Election: Martin Callaghan
+
+### So, who are you?
 
 I’m Martin Callaghan and I’m a Research Computing Consultant (part research software engineer, part trainer,
 part consultant and part outreach) at the University of Leeds in the UK, where I provide programming and software
@@ -17,7 +19,7 @@ for Cloud and High Performance Computing.
 It’s an exciting job where I get to work with researchers to understand their research questions and support
 them in developing and selecting computational platforms, tools and applications to help them answer those questions.
 
-## Tell me how you’ve been involved with the Carpentries?
+### Tell me how you’ve been involved with the Carpentries?
 
 I discovered the Carpentries in late 2013, just after I joined Leeds. I became an instructor and since then I’ve taught
 on around 20 Software Carpentry, Data Carpentry and Library Carpentry workshops at Leeds and elsewhere. I’ve had the
@@ -32,7 +34,7 @@ and develop has been a great opportunity and it’s been amazing to have been a 
 Recently, I’ve become an instructor trainer. It’s been a great experience to work with two groups of prospective
 trainers and hear from them how excited they are about becoming trainers and running their own workshops.
 
-## How would you help develop the Carpentries if elected?
+### How would you help develop the Carpentries if elected?
 
 **Constituency building:** I would like to help develop further the organisational membership model. 
 
