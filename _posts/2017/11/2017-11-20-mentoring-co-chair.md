@@ -1,18 +1,18 @@
 ---
 layout: post
 authors: ["Marian Schmidt", "Jamie Hadwin"]
-title: "Work first-hand on developing our ever growing instructor pool."
+title: "Work first-hand on developing our ever growing instructor community."
 date: 2017-11-20
 time: "10:12:00"
 category: [ "Mentoring "]
 ---
-How would you like to work first-hand on developing our ever growing instructor pool? A Mentoring Subcommittee Co-Chair position has just opened!
+How would you like to work first-hand on developing our ever growing instructor community? A Mentoring Subcommittee Co-Chair position has just opened!
 
 The leader serving in this year-long position (December 2017- December 2018) will share duties with the co-chair of the mentoring subcommittee, with a commitment averaging 1.5 hours/week.
 
 The expectations of the mentoring subcommittee co-chairs are to host the monthly mentoring subcommittee meetings, facilitate opportunities for building connections across our community to better serve our instructors, and to manage the weekly instructor discussion sessions hosted on [this etherpad](http://pad.software-carpentry.org/instructor-discussion).
 
-If you would like to be considered, please fill out [this short google form](https://goo.gl/forms/aSzm8Gg7Y4tIboWy2) by **December 4th**.  The current mentoring subcommittee co-chairs will select a new co-chair from the applicant pool with input from the Carpentries staff liaison, and other members of the Carpentries community.
+If you would like to be considered, please fill out [this short google form](https://goo.gl/forms/aSzm8Gg7Y4tIboWy2) by **December 4th**.  The current mentoring subcommittee co-chairs will select a new co-chair from the applicants with input from the Carpentries staff liaison, and other members of the Carpentries community.
 
 
 ********
