@@ -2,7 +2,7 @@
 layout: post
 authors: ["Amy Hodge"]
 title: "Amy Hodge: Steering Committee Nomination"
-date: 2017-11-21
+date: 2017-11-20
 time: "00:00:00"
 category: ["Governance", "Steering Committee"]
 ---
