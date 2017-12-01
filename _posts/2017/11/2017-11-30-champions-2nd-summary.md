@@ -50,7 +50,7 @@ Room 4 reported that some people don't like to engage with smaller groups and th
 
 - Loved it!  It was really nice to talk in a small group.
 - It can be overwhelming to be on a big call, nice idea
-- Less intimidating to share stories in a small group - +1 from me+1
+- Less intimidating to share stories in a small group - +1 from me
 - Worked very well! Nice way to be able to discuss and having a conversation without worrying about a large group getting a chance to talk
 - +1 to all the above!
 
