@@ -60,10 +60,10 @@ If you are involved with us since 2014,
 you might remember [this post](https://software-carpentry.org/blog/2014/06/translating-software-carpentry-into-spanish.html) about the attempt to translate the lesson to Spanish
 and [this other post](https://software-carpentry.org/blog/2014/11/korean-translation.html) announcing the lessons in Korean.
 During the meeting,
-we have a conversation about the workflow to translate the lesson to other languages.
+we have a conversation about the workflow to translate the lesson to other languages, and there is now [interest and work on a translation](http://www.datacarpentry.org/blog/lat-am-lessons/).
 
 Some of the conversation was archived as issues [here](https://github.com/Carpentries-ES/board/issues).
-If you want to get involved with the translation FIXME.
+If you want to get involved with the translation [join the Latinoamerica email list](https://groups.google.com/a/carpentries.org/d/forum/latinoamerica) or [see the updates](https://github.com/carpentries/latinoamerica).
 
 ## Windows Installer
 
