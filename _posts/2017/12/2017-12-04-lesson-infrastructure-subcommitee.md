@@ -1,0 +1,99 @@
+---
+layout: post
+authors: ["Raniere Silva"]
+title: "Lesson Infrastructure Subcommittee 2017 November meeting"
+date: 2017-12-04
+time: "10:00:00"
+category: ["Community", "Lesson Infrastructure Subcommittee"]
+---
+
+On 16 Novemberr 2017 at 15:00UTC+0,
+the Lesson Infrastructure Subcommittee had their 2017 November meeting.
+This post will cover the topics discussed and their resolutions.
+
+## Software Carpentry and Data Carpentry merge
+
+With the [merge](https://software-carpentry.org/blog/2017/09/merger.html) in 2018,
+some Git repositories will be owned by a new GitHub organization.
+The Instructor Training course material already moved places,
+you can now find it at http://carpentries.github.io/instructor-training/.
+**Date for the migration will be announced next year.**
+Instructions for migrate the repository can be find [here](https://github.com/swcarpentry/styles/issues/189).
+
+## Syntax Highlight
+
+Thanks to [naught101](https://github.com/naught101),
+the next release of our lesson will offer syntax highlight to our readers.
+Lesson maintainers might need help to change
+
+````
+~~~
+print("Hello World")
+~~~
+{: .foobar}
+````
+
+to
+
+````
+~~~
+print("Hello World")
+~~~
+{: .language-foobar}
+````
+
+for example.
+If you want to help,
+send us a pull request.
+
+## Exercises Throughout the Episodes
+
+After a small discussion,
+we reach the consensus that will be better to have exercises throughout the episodes
+instead of **all** the exercises at the end of the episode.
+Lessons will migrate to the new format in a slow pace
+because this change requires a good amount of work.
+
+## Non-English Lessons
+
+If you are involved with us since 2014,
+you might remember [this post](https://software-carpentry.org/blog/2014/06/translating-software-carpentry-into-spanish.html) about the attempt to translate the lesson to Spanish
+and [this other post](https://software-carpentry.org/blog/2014/11/korean-translation.html) announcing the lessons in Korean.
+During the meeting,
+we have a conversation about the workflow to translate the lesson to other languages.
+
+Some of the conversation was archived as issues [here](https://github.com/Carpentries-ES/board/issues).
+If you want to get involved with the translation FIXME.
+
+## Windows Installer
+
+In March 2018,
+a [discussion](http://lists.software-carpentry.org/pipermail/discuss/2017-March/005140.html) about our recommended text editor
+created a lot of buzz on the mailing list.
+The email thread started because sometimes nano wasn't installed in the learners machine.
+The new version of Git Bash will include nano by default
+and we have a [pull request](https://github.com/swcarpentry/workshop-template/pull/447)
+to adopt the new version in our workshop instructions.
+The pull request will be merged at the end of this year or begin of 2018.
+
+## Next steps
+
+Version 9.3.x [lesson template](https://github.com/swcarpentry/styles)
+and
+[lesson documentation](https://github.com/swcarpentry/lesson-example)
+was released.
+Maintainers are working to release the new version of the lessons before the end of the year.
+
+The subcommittee will meet again in February to provide an update on some of the topics covered by this post
+and discuss new requests from the community.
+
+## Acknowledgement
+
+Thanks to
+Alejandra Gonzalez Beltran,
+Christina Koch,
+David Pérez-Suárez,
+Erin Becker,
+Naupaka Zimmerman
+and
+Tracy Teal.
