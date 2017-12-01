@@ -16,8 +16,8 @@ This post will cover the topics discussed and their resolutions.
 With the [merge](https://software-carpentry.org/blog/2017/09/merger.html) in 2018,
 some Git repositories will be owned by a new GitHub organization.
 The Instructor Training course material already moved places,
-you can now find it at http://carpentries.github.io/instructor-training/.
-**Date for the migration will be announced next year.**
+you can now find it at [http://carpentries.github.io/instructor-training/](http://carpentries.github.io/instructor-training/).
+**Date for the migration will be announced in 2018.**
 Instructions for migrate the repository can be find [here](https://github.com/swcarpentry/styles/issues/189).
 
 ## Syntax Highlight
@@ -44,7 +44,7 @@ print("Hello World")
 
 for example.
 If you want to help,
-send us a pull request.
+send a pull request to us.
 
 ## Exercises Throughout the Episodes
 
@@ -72,7 +72,8 @@ a [discussion](http://lists.software-carpentry.org/pipermail/discuss/2017-March/
 created a lot of buzz on the mailing list.
 The email thread started because sometimes nano wasn't installed in the learners machine.
 The new version of Git Bash will include nano by default
-and we have a [pull request](https://github.com/swcarpentry/workshop-template/pull/447)
+and we have a [pull request](https://github.com/swcarpentry/workshop-template/pull/447),
+thanks to [Oliver Stueker](https://github.com/ostueker),
 to adopt the new version in our workshop instructions.
 The pull request will be merged at the end of this year or begin of 2018.
 
