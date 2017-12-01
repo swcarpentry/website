@@ -7,17 +7,17 @@ time: "hh:mm:00"
 category: [ "Conferences", "Open Access"]
 ---
 
-Along with fellow Software Carpenters [Rayna Harris](https://twitter.com/raynamharris/) and [Paula Martinez](https://twitter.com/orchid00/), I attended [OpenCon 2017]((http://www.opencon2017.org/) held over the weekend of 11-13 November, 2017 in Berlin. The conference was held in the Harnack Haus in Dahlem, the home of the Max Planck Society, where the friendly ghosts of Einstein, Heisenberg and other stellar scientists smiled on our endeavours to promote open access, open education and open data.
+Along with fellow Software Carpenters [Rayna Harris](https://twitter.com/raynamharris/) and [Paula Martinez](https://twitter.com/orchid00/), I attended [OpenCon 2017](http://www.opencon2017.org/) held over the weekend of 11-13 November, 2017 in Berlin. The conference was held in the Harnack Haus in Dahlem, the home of the Max Planck Society, where the friendly ghosts of Einstein, Heisenberg and other stellar scientists smiled on our endeavours to promote open access, open education and open data.
 
 ![Harnack Haus, Dahlem](/files/2017/harnack.jpg "Harnack Haus")
 
-This was a conference with a difference. Most conference goers were very new to this area of work so there was a strong learning aspect to all that unfolded over the three days. And many of the speakers had eye-opening stories to tell about education's role in transforming lives, whether it be in a Palestinian refugee camp or a remote grazing community in the Kyrgyz mountains.
+This was a conference with a difference. Most conference goers were very new to this area of work so there was a strong learning aspect to all that unfolded over the three days. Many of the speakers had eye-opening stories to tell about education's role in transforming lives, whether it be in a Palestinian refugee camp or a remote grazing community in the Kyrgyz mountains.
 
 ![Rayna's tweet](/files/2017/rayna.jpg "Rayna's tweet")
 
 While the largest cohort (50) were from the US, 47 different countries were represented at OpenCon. Of the 186 listed in the attendance sheet, 132 attendees had GitHub accounts and even more used Twitter (160). 
 
-Sessions were a mixture of plenary sessions and small group work. As an early icebreaker, we were put into groups called Story Circles, in which everyone had eight (uninterrupted) minutes to explain what had led them to apply for and attend OpenCon. The sheer diversity of backgrounds and experiences unearthed by this kind of session was astounding. Hearing Thomas Mboa describe teaching Nigerian students without having access to electricity certainly put some of my own workshop niggles into perspective.
+Sessions were a mixture of plenary sessions and small group work. As an early icebreaker, we were put into groups called Story Circles, in which everyone had eight (uninterrupted) minutes to explain what had led them to apply for and attend OpenCon. The sheer diversity of backgrounds and experiences unearthed by this kind of session was astounding. Hearing Thomas Mboa describe teaching Nigerian students without having access to electricity certainly put some of my own workshop issues into perspective.
 
 ![My story circle](/files/2017/storycircle.JPG "My story circle")
 
@@ -29,7 +29,7 @@ The final day of OpenCon was a Do-a-Thon - what I would call a sprint or hackath
 
 ![Spanish translation Do-A-Thon](/files/2017/opencon-es.png "Spanish translation Do-A-Thon")
 
-This was certainly a one-of-a-kind conference and for those who missed it, session recordings are [available online](https://www.youtube.com/user/R2RCvideo/playlists), courtesy of the Right to Research Coalition. The conference was phenomenally well-organised, with terrific food, and people could opt to join Dine-Arounds to ensure that no one had to eat dinner in a strange city alone.
+This was certainly a one-of-a-kind conference and for those who missed it, session recordings are [available online](https://www.youtube.com/user/R2RCvideo/playlists), courtesy of the [Right to Research Coalition](http://www.righttoresearch.org/). The conference was phenomenally well-organised, with terrific food, and people could opt to join Dine-Arounds to ensure that no one had to eat dinner all alone in a strange city.
 
 The conference's leading sponsor was the [Max Planck Gesellschaft](https://www.mpg.de/de) (Max Planck Society), and the conference was jointly organised by [SPARC](https://sparcopen.org/) (the Scholarly Publishing and Academic Resources Coalition, and the [Right to Research Coalition](http://www.righttoresearch.org/). A number of other organisations and foundations were supporting sponsors.
 
