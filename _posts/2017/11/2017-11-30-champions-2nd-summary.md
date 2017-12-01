@@ -62,7 +62,7 @@ Bianca Peterson reported on Study Groups at North West University in South Afric
 
 #### Next steps
 
-If you're interested in particiating in the Carpentries champion community and our quarterly meetings, you can [join our announcement mailing list](https://groups.google.com/a/carpentries.org/forum/#!forum/champions-announce). We'll be holding our next meeting in February and will be focusing on a draft Carpentry Community Building playbook. This will be a document that serves as a guide to help community champions to develop their own local communities, and will share tips, tricks and ideas about how to build local community. To get involved, get on the list! 
+If you're interested in participating in the Carpentries champion community and our quarterly meetings, you can [join our announcement mailing list](https://groups.google.com/a/carpentries.org/forum/#!forum/champions-announce). We'll be holding our next meeting in February and will be focusing on a draft Carpentry Community Building playbook. This will be a document that serves as a guide to help community champions to develop their own local communities, and will share tips, tricks and ideas about how to build local community. To get involved, get on the list! 
 
 #### Favorite events 
 
