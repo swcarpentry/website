@@ -9,15 +9,6 @@ category: [ "Community Building"]
 
 The last Carpentries' Champions call led by Jonah Duckles was well attended, with representatives from Australia, South Africa, Ethiopia, the US, the UK, New Zealand and Norway.
 
-As an icebreaker activity, attendees were asked to describe the most amazing event/conference/workshop/meetup they had ever attended. The following were singled out:
-
-- [Kiwi foo](http://www.baacamp.org/), an 'unconference' bringing together creatives, government, policy wonks and technologists to think about making a better world.
-- [Bayesian Models in Ecology Workshop at SESYNC](https://www.sesync.org/opportunities/bayesian-modeling-data), a great combination of lecture/theory and working in small groups, with an emphasis on peer learning.
-- [Fosdem](https://www.fosdem.org), the Free and Open Source Developers European Meeting, run by volunteers, with a wide range of topics. While it had a very self-organised vibe, everything pretty much worked.
-- [useR 2017](https://user2017.brussels/), a first time of connecting with the R community in person. Open, welcoming, attendees of diverse backgrounds, amazing food - I learned so much!
-- Midwest Data Librarian Symposium, a form of un-conference, but in a active learning and participating environment.
-- [CODATA-RDA Research Data Science Summer School, Trieste, Italy](http://indico.ictp.it/event/7974/) - Most of the instructors are from the Carpentries and the quality of lessons is great - a variety of tools/skills taught over 2 weeks (from Unix to Machine Learning in R).
-
 After the introductions and a review of the [last call](https://software-carpentry.org/blog/2017/08/champs-call.html), attendees were divided up into four breakout rooms to discuss (while keeping the following three questions in mind) an event that promoted a sense of excitement about new research tools.
 
 - What made the event engaging and exciting?
@@ -68,3 +59,18 @@ Room 4 reported that some people don't like to engage with smaller groups and th
 Amanda Miotto's [HackyHour](https://hackyhourgriffith.wordpress.com/) is an informal drop-in session at Griffith University in Brisbane. Held usually in a coffee shop or bar, HackyHours are place where people can come and ask research IT-related questions in a safe environment. Other similar outreach events are PhTea, Programming & Pizza, or study groups. Use whatever name works best in your setting and consider inviting 5-minute talks to get the meetup started if people don't bring any problems that week. Amanda has now compiled a [HackyHour Handbook](https://github.com/amandamiotto/HackyHourHandbook).
 
 Bianca Peterson reported on Study Groups at North West University in South Africa. These took off in 2016. People enrolled in modules on Coursera as a group, and met for two hours every week to work on things together. The groups functioned well as post-workshop support after Software and Data Carpentry workshops since they reinforced workshop learning. The [Mozilla Study Group Handbook](https://science.mozilla.org/programs/studygroups) is a helpful tool for people who want to start a study group and [this guide](https://mozillascience.github.io/studyGroupHandbook/event-types.html) helps you decide what is the best type of event for you to build your local community.
+
+#### Next steps
+
+If you're interested in particiating in the Carpentries champion community and our quarterly meetings, you can [join our announcement mailing list](https://groups.google.com/a/carpentries.org/forum/#!forum/champions-announce). We'll be holding our next meeting in February and will be focusing on a draft Carpentry Community Building playbook. This will be a document that serves as a guide to help community champions to develop their own local communities, and will share tips, tricks and ideas about how to build local community. To get involved, get on the list! 
+
+#### Favorite events 
+
+At the beginning of the call, as an icebreaker activity, we asked them to describe the most amazing event/conference/workshop/meetup they had ever attended. The following were singled out:
+
+- [Kiwi foo](http://www.baacamp.org/), an 'unconference' bringing together creatives, government, policy wonks and technologists to think about making a better world.
+- [Bayesian Models in Ecology Workshop at SESYNC](https://www.sesync.org/opportunities/bayesian-modeling-data), a great combination of lecture/theory and working in small groups, with an emphasis on peer learning.
+- [Fosdem](https://www.fosdem.org), the Free and Open Source Developers European Meeting, run by volunteers, with a wide range of topics. While it had a very self-organised vibe, everything pretty much worked.
+- [useR 2017](https://user2017.brussels/), a first time of connecting with the R community in person. Open, welcoming, attendees of diverse backgrounds, amazing food - I learned so much!
+- Midwest Data Librarian Symposium, a form of un-conference, but in a active learning and participating environment.
+- [CODATA-RDA Research Data Science Summer School, Trieste, Italy](http://indico.ictp.it/event/7974/) - Most of the instructors are from the Carpentries and the quality of lessons is great - a variety of tools/skills taught over 2 weeks (from Unix to Machine Learning in R).
