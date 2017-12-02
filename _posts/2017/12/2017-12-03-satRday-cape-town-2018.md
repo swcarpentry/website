@@ -10,7 +10,7 @@ satRdays are community-led, regional conferences to support collaboration, netwo
 
 satRdays are the brainchild of [Stephanie Locke](https://twitter.com/stefflocke), and were inspired to a large extent [by the success of SQLSaturdays](https://itsalocke.com/blog/sqlsaturdays-but-for-r/). SQLSaturdays focus on developing technical knowledge around SQL Server and related technologies. The first SQLSaturday was held in 2007, and there are now well over 100 events across the globe.
 
-![satRday logo](/files/2017/12/satrday-logo.png "satRday logo")
+![satRday logo](/files/2017/12/satrday-logo.png "satRday logo"){:style="float: right;margin-right: 10px;margin-top: 10px;margin-left: 10px;margin-bottom: 10px;width: 200px;"}
 
 The idea behind holding the conferences on a Saturday, is that rather than limiting access to those who are able to get buyin from their employers to attend a conference during the week, this makes them accessible for anyone who wishes to attend on their own time. Ticket prices are also kept as low as possible to try and keep these conferences accessible to students.
 
