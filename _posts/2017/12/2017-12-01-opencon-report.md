@@ -11,7 +11,7 @@ Along with fellow Software Carpenters [Rayna Harris](https://twitter.com/raynamh
 
 ![Harnack Haus, Dahlem](/files/2017/harnack.jpg "Harnack Haus")
 
-This was a conference with a difference. Most conference goers were very new to this area of work so there was a strong learning aspect to all that unfolded over the three days. Many of the speakers had eye-opening stories to tell about education's role in transforming lives, whether it be [Kholoud Al Ajarma](https://twitter.com/KholoudAjarmaKholoud)'s experiences of growing up in a Palestinian refugee camp or Aliya Ibraimova's work with remote grazing communities in the Kyrgyz mountains.
+This was a conference with a difference. Most conference goers were very new to this area of work so there was a strong learning aspect to all that unfolded over the three days. Many of the speakers had eye-opening stories to tell about education's role in transforming lives, whether it be [Kholoud Ajarma](https://twitter.com/KholoudAjarmaKholoud)'s experiences of growing up in a Palestinian refugee camp or Aliya Ibraimova's work with remote grazing communities in the Kyrgyz mountains.
 
 ![Rayna's tweet](/files/2017/rayna.jpg "Rayna's tweet")
 
