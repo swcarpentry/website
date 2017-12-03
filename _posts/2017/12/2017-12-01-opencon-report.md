@@ -21,15 +21,17 @@ Sessions were a mixture of plenary sessions and small group work. As an early ic
 
 ![My story circle](/files/2017/storycircle.JPG "My story circle")
 
-Another eye-opener was the [Diversity and Inclusion panel](https://www.youtube.com/watch?v=UUKJYLDyVvI&list=PLKzRudZaXUD3sQ5mU0VP7gzNsvfqH0iIH) where uncomfortable questions about 'whose knowledge?', 'who has access?', and 'who is missing from the discussion?' put paid to the idea that 'open' is a universal, unquestionable good. The quality and clarity of OpenCon recordings mean that these sessions can easily be watched by anyone with an interest in what was said, which also includes footage of the post-panel discussion.
+Another eye-opener was the [Diversity and Inclusion panel](https://www.youtube.com/watch?v=UUKJYLDyVvI&list=PLKzRudZaXUD3sQ5mU0VP7gzNsvfqH0iIH) where uncomfortable questions about 'whose knowledge?', 'who has access?', and 'who is missing from the discussion?' put paid to the idea that 'open' is a universal, unquestionable good. Speakers from the global south stressed that making knowledge open can seem like a replay of having that knowledge stolen from them during the colonial period. And if 'open' does not welcome people of all genders, sexual orientation, color and other forms of diversity, then how 'open' it is really? 
+
+The quality and clarity of OpenCon recordings mean that these sessions can easily be watched by anyone with an interest in what was said. Footage of the Diversity and Inclusion panel also includes the post-panel discussion.
 
 To help build more local action post-conference, people could opt to work with groups from their own region. Since I was the only Australian there, I chose to work with an Asian group, and helped people from Armenia and Taiwan create 'empathy maps' to try to understand the concerns of researchers in their region who might want to work 'open' but who face formidable barriers, not least the kinds of behaviours outlined by [Laurent Gatto](https://twitter.com/lgatt0)'s and [Corina Logan](http://corinalogan.com/)'s '[Bullied by Bad Science](http://bulliedintobadscience.org/)' campaign.
 
-The final day of OpenCon was a Do-a-Thon - what I would call a sprint or hackathon. For this day, Rayna and Paula marshalled a team from Chile, Argentina and other Spanish-speaking countries to work on the Spanish translations of Carpentry lessons.
+The final day of OpenCon was a **Do-a-Thon** - what I would call a sprint or hackathon. For this day, Rayna and Paula marshalled a team from Chile, Argentina and other Spanish-speaking countries to work on the Spanish translations of Carpentry lessons.
 
-![Spanish translation Do-A-Thon](/files/2017/opencon-es.png "Spanish translation Do-A-Thon")
+![Spanish translation Do-A-Thon](/files/2017/opencon-es.jpg "Spanish translation Do-A-Thon")
 
-This was certainly a one-of-a-kind conference and for those who missed it, session recordings are [available online](https://www.youtube.com/user/R2RCvideo/playlists), courtesy of the [Right to Research Coalition](http://www.righttoresearch.org/). The conference was phenomenally well-organised, with terrific food, and people could opt to join Dine-Arounds to ensure that no one had to eat dinner all alone in a strange city.
+This was certainly a one-of-a-kind conference and for those who missed it, session recordings are [available online](https://www.youtube.com/user/R2RCvideo/playlists), courtesy of the [Right to Research Coalition](http://www.righttoresearch.org/). The conference was phenomenally well-organised, with terrific food, and people could opt to join Dine-Arounds to ensure that no one had to eat dinner all alone in a strange city. I was very interested in the organization of the conference as I was hoping to get many tips I could use to make next year's CarpentryCon in Dublin a similar success.
 
 The conference's leading sponsor was the [Max Planck Gesellschaft](https://www.mpg.de/de) (Max Planck Society), and the conference was jointly organised by [SPARC](https://sparcopen.org/) (the Scholarly Publishing and Academic Resources Coalition, and the [Right to Research Coalition](http://www.righttoresearch.org/). A number of other organisations and foundations were supporting sponsors.
 
