@@ -21,7 +21,7 @@ The first satRday, organized by [Gergely Daróczi](https://twitter.com/daroczig)
 
 ![Budapest satRday 2016](/files/2017/12/budapest-satrday-2016.jpg "Budapest satRday 2016")
 
-The second satRday, organized by [Andrew Collier](https://twitter.com/DataWookie) was held in Cape Town on the 18th February 2017. Just over 200 tickets were issued for the event and again the venue was packed. With 29 speakers in total, including keynote speakers [Jenny Bryan](https://twitter.com/JennyBryan), [Julia Silge](https://twitter.com/juliasilge) and [Steph Locke](https://twitter.com/stefflocke), the schedule was also packed - with tutorials, standard and lightning talks, along with a visualization competition to round out the days proceedings.
+The second satRday, organized by [Andrew Collier](https://twitter.com/DataWookie) was held in Cape Town on the 18th February 2017. Just over 200 tickets were issued for the event and again the venue was packed. With 29 speakers in total, including keynote speakers [Jenny Bryan](https://twitter.com/JennyBryan), [Julia Silge](https://twitter.com/juliasilge) and [Steph Locke](https://twitter.com/stefflocke), the schedule was also packed - with tutorials, standard and lightning talks, along with a visualization competition to round out the day's proceedings.
 There were also three workshops held by the keynote speakers on the two days prior to the conference which were very well attended. Again, there is plenty more about the event at the conference website, and in the follow up posts [here](http://joncalder.co.za/2017-03-13-satrday-cape-town/) and [here](http://blog.eighty20.co.za/technique%20review/2017/02/19/satRday/).
 
 ![Cape Town satRday 2017](/files/2017/12/capetown-satrday-2017.jpg "Cape Town satRday 2017")
