@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "satRday Cape Town 2018"
-date: 2017-12-04
 authors: ["Jon Calder"]
+title: "satRday Cape Town 2018"
+date: 2017-12-03
+time: "06:00:00"
 category: ["conferences", "workshops", "r", "satRday"]
 ---
 
@@ -10,9 +11,9 @@ satRdays are community-led, regional conferences to support collaboration, netwo
 
 satRdays are the brainchild of [Stephanie Locke](https://twitter.com/stefflocke), and were inspired to a large extent [by the success of SQLSaturdays](https://itsalocke.com/blog/sqlsaturdays-but-for-r/). SQLSaturdays focus on developing technical knowledge around SQL Server and related technologies. The first SQLSaturday was held in 2007, and there are now well over 100 events across the globe.
 
-![satRday logo](/files/2017/12/satrday-logo.png "satRday logo"){:style="float: right;margin-right: 10px;margin-top: 10px;margin-left: 10px;margin-bottom: 10px;width: 200px;"}
+![satRday logo](/files/2017/12/satrday-logo.png "satRday logo")
 
-The idea behind holding the conferences on a Saturday, is that rather than limiting access to those who are able to get buyin from their employers to attend a conference during the week, this makes them accessible for anyone who wishes to attend on their own time. Ticket prices are also kept as low as possible to try and keep these conferences accessible to students.
+The idea behind holding the conferences on a Saturday, is that rather than limiting access to those who are able to get buy-in from their employers to attend a conference during the week, this makes them accessible for anyone who wishes to attend on their own time. Ticket prices are also kept as low as possible to try to keep these conferences accessible to students.
 
 A proposal was drafted and put before the [R Consortium](https://www.r-consortium.org/) in early 2016, and with their approval and financial backing to help get the first few satRday events up and running around the world, some early momentum was quickly established.
 
@@ -27,10 +28,10 @@ There were also three workshops held by the keynote speakers on the two days pri
 
 A second satRday in Cape Town is now planned for 17 March 2018, with two exciting keynote speakers: [Maëlle Salmon](https://twitter.com/ma_salmon) and [Stephanie Kovalchik](https://twitter.com/StatsOnTheT). They will be presenting workshops on R package development and sports analytics with R on the day prior to the conference.
 
-Next year’s conference will be held at a bigger venue on the campus of the University of Cape Town in order to accommodate more attendees. [Tickets are on sale](https://www.quicket.co.za/events/37189-satrday-cape-town) and the [Call for Papers is open](https://www.papercall.io/satrday-cape-town-2018). More details for the event can be found at the [conference website](http://capetown2018.satrdays.org).
+Next year's conference will be held at a bigger venue on the campus of the University of Cape Town in order to accommodate more attendees. [Tickets are on sale](https://www.quicket.co.za/events/37189-satrday-cape-town) and the [Call for Papers is open](https://www.papercall.io/satrday-cape-town-2018). More details for the event can be found at the [conference website](http://capetown2018.satrdays.org).
 
-Another exciting development for next years conference is that plans are being put in place to run a Data Carpentry workshop before the event. Software and Data Carpentry have been involved in enabling and developing R capacity in Africa since 2015. Two-day workshops teach researchers and postgraduate students foundational skills to assist with better research software development and data analysis respectively. The Carpentries are global non-profit volunteer organisations that not only teach tools like R, Python, SQL, and Git/GitHub, but also run a two-day instructor training workshop to help technical experts teach more effectively.
+Another exciting development for next year's conference is that plans are being put in place to run a Data Carpentry workshop before the event. Software and Data Carpentry have been involved in enabling and developing R capacity in Africa since 2015. Two-day workshops teach researchers and postgraduate students foundational skills to assist with better research software development and data analysis respectively. The Carpentries are global non-profit volunteer organisations that not only teach tools like R, Python, SQL, and Git/GitHub, but also run a two-day instructor training workshop to help technical experts teach more effectively.
 
 More than 30 workshops have been run in African countries over the past three years, including South Africa, Mauritius, Ghana, Gabon, Namibia, Botswana, Kenya, and Ethiopia . These workshops have reached hundreds of researchers and students who mostly had limited or no prior exposure to programming.
 
-If you’d like to get involved in Carpentries in Africa, please [join our Google Group](https://groups.google.com/forum/#!forum/swc-za) or request a workshop by [completing the form](https://software-carpentry.org/workshops/request/).
+If you'd like to get involved in Carpentries in Africa, please [join our Google Group](https://groups.google.com/forum/#!forum/swc-za) or request a workshop by [completing the form](https://software-carpentry.org/workshops/request/).
