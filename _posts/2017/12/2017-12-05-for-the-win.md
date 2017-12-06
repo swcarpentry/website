@@ -12,8 +12,7 @@ When Carpentries staff get a win, we call it a **#greensticky**. These are thing
 So we decided to turn our regular December community call (our last for the year) into a **Happy Holidays GreenSticky Party**.
 
 2017 has been a BIG year for our community. We negotiated the Carpentries merger, got planning underway for 2018's CarpentryCon, 
-trained a whole bunch of new instructors and trainers, and restarted our mentoring groups - and of course a ton of workshops were taught right 
-around the globe. As we wind down for the holidays, it is worth taking time out to think over the great moments of the year. 
+trained a whole bunch of new instructors and trainers, and restarted our mentoring groups - and of course a ton of workshops were taught all round the globe. As we wind down for the holidays, it is worth taking time out to think over the great moments of the year. 
 
 - Perhaps you got a paper accepted, or you attended a fantastic conference. 
 - Maybe you snared a new dream job or taught your first workshop. 
