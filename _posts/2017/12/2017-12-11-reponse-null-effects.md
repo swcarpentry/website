@@ -1,10 +1,15 @@
 ---
 layout: post
-authors: ["Tracy Teal", "Kari Jordan", "Karen Word"]
+authors: ["Karen Word"]
 title: "When Do Workshops Work? A Response to the 'Null Effects' paper from Feldon et al."
-date: 2017-12-04
+date: 2017-12-11
 time: "00:00:00"
 category: [ "Workshops", "Bootcamps", "Effectiveness", "Training"]
+
+---
+
+This response was written by Karen Word, with contributions from Tracy K. Teal, Kari L. Jordan, Maxim Belkin, Amy Hodge, Erin Becker, Jason Williams, and Ben Marwick.
+
 ---
 
 ["Null effects of boot camps and short-format training for PhD students in life sciences"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5604013/) [1] is the provocative title of a recent article in the [*Proceedings of the National Academy of Sciences*](http://www.pnas.org/). Those of us who enthusiastically design and deliver short-format training promptly took note, then scratched our heads a bit. We waited a little for a response, wondering if one or more of the programs that participated in the study might step up to their own defense. Nothing happened. We thought about letting it go -- we've got our own programs, with distinct goals, and our own assessment data, so maybe this broad-brush study isn't so important. But ... it keeps being raised. Someone will bring it up here and there, asking what we think about it. Whenever this paper comes up in conversation, its title certainly throws some weight around.
@@ -86,6 +91,6 @@ We applaud, encourage, and endeavor to support those who have the access and opp
 
 So far, we feel comfortable declaring that effort a success.
 
----
+----
 
 [1] While the paper refers to programs as either "boot camps", "bridge programs", or "short-format training". it has been brought to our attention that this usage of "boot camp" can cause some consternation for those with military training or under military regimes. We will therefore use the less-vivid but more-accurate "short course" label for this piece.
