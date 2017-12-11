@@ -10,13 +10,13 @@ category: [ "CarpentryCon 2018", "Competitions", "Designs"]
 
 The Carpentries are excited to announce our poster design competition where some lucky member of our community will win a **free** registration for [CarpentryCon 2018](https://www.carpentrycon.org/).
 
-Are there any artists out there who could design a fantastic poster to promote CarpentryCon 2018? If so, we want to see your design!
+Are there any artists out there who could design a fantastic poster? If so, we want to see your design!
 
 The winning designer will gain free registration to CarpentryCon 2018. This includes registration for the conference only. It does not include travel to and from Dublin.
 
 #### Information for the Poster
 
-CarpentryCon 2018 will take place in Dublin from 30 May - 1 June, 2018 at [University College Dublin](http://www.ucd.ie/) with the overarching theme of *Building Globally, Connecting Locally*.
+CarpentryCon 2018 will take place in Dublin from 30 May - 1 June, 2018 at [University College Dublin](http://www.ucd.ie/) with the overarching theme of *Building Locally, Connecting Globally*.
 
 The three-day event will focus on professional development, community building and networking, as we aim to help 
 skill up the next generation of research leaders. Find out more from the [CarpentryCon 2018 website](http://www.carpentrycon.org/).
@@ -52,13 +52,13 @@ advertising across a range of social media, including <a href="https://twitter.c
 
 <tr>
 <td valign="top" width="30%">What does the poster need to include?</td>
-<td valign="top">Posters should reflect the conference theme of <em>Building Globally, Connecting Locally</em>, and should also include the venue and dates (see above) and a link to the <a href="http://www.carpentrycon.org/">CarpentryCon website</a>.
+<td valign="top">Posters should reflect the conference theme of <em>Building Locally, Connecting Globally</em>, and should also include the venue and dates (see above) and a link to the <a href="http://www.carpentrycon.org/">CarpentryCon website</a>.
 </td>
 </tr>
 
 <tr>
 <td valign="top" width="30%">How will the judging be done?</td>
-<td valign="top">Entries in the poster competition will be assessed by the members of the CarpentryCon task force who will choose the poster that best embodies the conference theme of <em>Building Globally, Connecting Locally</em>. The winner will be notified by email once the decision has been reached, and unsuccessful entrants will also be notified by email of the result. </td>
+<td valign="top">Entries in the poster competition will be assessed by the members of the CarpentryCon task force who will choose the poster that best embodies the conference theme of <em>Building Locally, Connecting Globally</em>. The winner will be notified by email once the decision has been reached, and unsuccessful entrants will also be notified by email of the result. </td>
 </tr>
 
 <tr>
