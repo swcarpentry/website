@@ -12,7 +12,7 @@ The Carpentries are excited to announce our poster design competition where some
 
 Are there any artists out there who could design a fantastic poster? If so, we want to see your design!
 
-The winning designer will gain free registration to CarpentryCon 2018. This includes registration for the conference only. It does not include travel to and from Dublin.
+The winning designer will gain free registration to CarpentryCon 2018. This includes registration for the conference only. It does not include travel to and from Dublin. The winner will also take home some fantastic Carpentries swag.
 
 #### Information for the Poster
 
