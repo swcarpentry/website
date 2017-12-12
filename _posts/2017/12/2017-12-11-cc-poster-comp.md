@@ -2,17 +2,19 @@
 layout: post
 authors: ["Belinda Weaver"]
 title: "Poster Competition Now Open"
-date: 2017-12-08
+date: 2017-12-11
 time: "00:00:00"
 category: [ "CarpentryCon 2018", "Competitions", "Designs"]
+
 ---
+
 ### Design a Promotional Poster for CarpentryCon 2018
 
 The Carpentries are excited to announce our poster design competition where some lucky member of our community will win a **free** registration for [CarpentryCon 2018](https://www.carpentrycon.org/).
 
 Are there any artists out there who could design a fantastic poster? If so, we want to see your design!
 
-The winning designer will gain free registration to CarpentryCon 2018. This includes registration for the conference only. It does not include travel to and from Dublin. The winner will also take home some fantastic Carpentries swag.
+The winning designer will take home some fantastic Carpentries swag and gain free registration to CarpentryCon 2018. This includes registration for the conference only. It does not include travel to and from Dublin.  
 
 #### Information for the Poster
 
