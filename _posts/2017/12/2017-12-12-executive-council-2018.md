@@ -4,7 +4,7 @@ authors: ["Kate Hertweck"]
 title: "Announcing the 2018 Executive Council for the Carpentries"
 date: 2017-12-12
 time: "00:00:00"
-category: [ "Govenance", "Steering Committee", "Elections"]
+category: [ "Governance", "Steering Committee", "Elections"]
 ---
 
 Voting in the election for community governance of the Carpentries 
