@@ -10,7 +10,7 @@ category: [ "CarpentryCon 2018", "Competitions", "Designs"]
 
 ### Design a Promotional Poster for CarpentryCon 2018
 
-The Carpentries are excited to announce our poster design competition where some lucky member of our community will win a **free** registration for [CarpentryCon 2018](https://www.carpentrycon.org/).
+The Carpentries are excited to announce our poster design competition where some lucky member of our community will win a **free** registration for [CarpentryCon 2018](http://www.carpentrycon.org/).
 
 Are there any artists out there who could design a fantastic poster? If so, we want to see your design!
 
