@@ -7,8 +7,6 @@ time: "00:00:00"
 category: ["Conferences", "Research Software Engineers", "RSE", "Research Software"]
 ---
 
-This post originally appeared [here](http://rse.shef.ac.uk/blog/a-successful-2nd-rse-conference/). Reposted with permission.
-
 ![RSE Sheffield in the 2nd RSE conference](http://rse.shef.ac.uk/images/RSE17.jpg)
 
 The second RSE conference took place on the 7th and 8th of September 2017 at the Museum of Science and Industry ([MOSI](https://www.msimanchester.org.uk/)). There were over 200 attendees, 40 talks, 15 workshops, 3 keynote talks, one of which was given by our very own head honcho Mike Croucher ([slides here](https://mikecroucher.github.io/RSE_2017_keynote_presentation/)), and geeky chats galore.
@@ -73,4 +71,8 @@ The closing to the workshop was a 101 on working towards reproducible scientific
 ### Just a few more things
 Let me highlight that all the materials for the workshop can be found at https://github.com/trallard/JNB_reproducible and that all of it is completely self contained in the form of a Docker container.
 
-If you missed out on the conference and would like to see the videos and slides of the various talks do not forget to visit the [RSE conference website](http://rse.ac.uk/conf2017/talk-slides-downloads/).
+If you missed out on the conference and would like to see the videos and slides of the various talks do not forget to visit the [RSE conference website](http://rse.ac.uk/conf2017/talk-slides-downloads/).\
+
+---
+
+*This post originally appeared [here](http://rse.shef.ac.uk/blog/a-successful-2nd-rse-conference/). Reposted with permission.*
