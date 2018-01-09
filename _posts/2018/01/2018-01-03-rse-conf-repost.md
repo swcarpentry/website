@@ -71,7 +71,7 @@ The closing to the workshop was a 101 on working towards reproducible scientific
 ### Just a few more things
 Let me highlight that all the materials for the workshop can be found at https://github.com/trallard/JNB_reproducible and that all of it is completely self contained in the form of a Docker container.
 
-If you missed out on the conference and would like to see the videos and slides of the various talks do not forget to visit the [RSE conference website](http://rse.ac.uk/conf2017/talk-slides-downloads/).\
+If you missed out on the conference and would like to see the videos and slides of the various talks do not forget to visit the [RSE conference website](http://rse.ac.uk/conf2017/talk-slides-downloads/).
 
 ---
 
