@@ -7,14 +7,27 @@ time: "02:00:00"
 category: ["Teaching", "Statistics"]
 ---
 
-Prof. Daniel Kaplan's 2017 paper
-"[Teaching stats for data science](https://peerj.com/preprints/3205/)"
-is a great example of how faculty are re-thinking pedagogical approaches
-to incorporate ["good enough" practices](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
-in scientific and statistical computing.
+The late 1980s saw a wave of new undergraduate programs launched in computational physics,
+as the advent of affordable workstations and PCs made the power to compute and simulate more accessible.
+A decade later,
+though,
+many of those programs had drastically scaled back their ambitions or quietly wound down.
+The problem wasn't the programming:
+the problem was that whenever a curriculum is designed as "X plus some Y",
+it's the Y that gets cut when time runs short,
+budgets are squeezed,
+or tough hiring decisions need to be made.
+"Computational physics" became
+"the physics we've always taught, but with assignments on computers"
+and then just "the physics we've always taught".
+
+That experience is part of why I'm so excited by things like Daniel Kaplan's 2017 paper
+"[Teaching stats for data science](https://peerj.com/preprints/3205/)",
+which is a great example of how some faculty are re-thinking pedagogical approaches from the ground up.
 Kaplan argues that much of what we currently teach in introductory stats courses
 is left over from a time when data was scarce and calculation was hard.
-He advocates a calculation-first approach in ten steps:
+In its place,
+he advocates a ten-step calculation-first approach:
 
 1.  Data tables
 2.  Data graphics
@@ -27,8 +40,10 @@ He advocates a calculation-first approach in ten steps:
 9.  Comparing models
 10. Generalization and causality
 
-Many other people are rethinking other subjects along similar lines;
-if you have any favorite examples,
+UBC's [Stat 545](http://stat545.com/) course is another great example
+of how people are not just putting old wine in new bottles,
+but approaching their subject from an entirely new angles.
+If you have any favorite examples,
 please add them to the comments–I'm sure our community would enjoy hearing about them.
 
 > **Abstract**
