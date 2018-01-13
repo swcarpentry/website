@@ -46,18 +46,10 @@ but approaching their subject from an entirely new angles.
 If you have any favorite examples,
 please add them to the comments–I'm sure our community would enjoy hearing about them.
 
-> **Abstract**
->
-> The familiar mathematical topics of introductory statistics–means,
-> proportions, t-tests, normal and t distributions, chi-squared,
-> etc.–are a product of the first half of the 20th century. Naturally,
-> they reflect the statistical conditions of that era: scarce,
-> e.g. n<10, data originating in benchtop or agricultural experiments;
-> algorithms communicated via algebraic formulas. Today, applied
-> statistics relates to a different environment: software is the means
-> of algorithmic communication, observational and "unplanned" data are
-> interpreted for causal relationships, and data are large both in n
-> and the number of variables. This change in situation calls for a
-> thorough rethinking of the topics in and approach to statistics
-> education. This paper presents a set of ten organizing blocks for
-> intro stats that are better suited to today's environment.
+**Update:**
+several people have pointed us at George Cobb's
+*[The Introductory Statistics Course: a Ptolemaic Curriculum?](https://escholarship.org/uc/item/6hb3k0nz)*
+and William Wood's
+*[Innovations in Teaching Undergraduate Biology and Why We Need Them](http://www.sdbonline.org/sites/Re-BootCamp09/Wood_Innovations09s.pdf)*
+as other examples of curriculum being re-thought from the ground up.
+Please keep them coming.
