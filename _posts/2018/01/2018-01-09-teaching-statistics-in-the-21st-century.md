@@ -22,7 +22,7 @@ or tough hiring decisions need to be made.
 and then just "the physics we've always taught".
 
 That experience is part of why I'm so excited by things like Daniel Kaplan's 2017 paper
-"[Teaching stats for data science](https://peerj.com/preprints/3205/)",
+"[Teaching stats for data science][kaplan]",
 which is a great example of how some faculty are re-thinking pedagogical approaches from the ground up.
 Kaplan argues that much of what we currently teach in introductory stats courses
 is left over from a time when data was scarce and calculation was hard.
@@ -40,16 +40,24 @@ he advocates a ten-step calculation-first approach:
 9.  Comparing models
 10. Generalization and causality
 
-UBC's [Stat 545](http://stat545.com/) course is another great example
+UBC's [Stat 545][stat545] course is another great example
 of how people are not just putting old wine in new bottles,
 but approaching their subject from an entirely new angles.
 If you have any favorite examples,
 please add them to the comments–I'm sure our community would enjoy hearing about them.
 
 **Update:**
-several people have pointed us at George Cobb's
-*[The Introductory Statistics Course: a Ptolemaic Curriculum?](https://escholarship.org/uc/item/6hb3k0nz)*
-and William Wood's
-*[Innovations in Teaching Undergraduate Biology and Why We Need Them](http://www.sdbonline.org/sites/Re-BootCamp09/Wood_Innovations09s.pdf)*
-as other examples of curriculum being re-thought from the ground up.
+several people have pointed us at the following:
+as other examples of curriculum being re-thought from the ground up:
+
+- Ruth Anderson, Michael Ernst, Robert Ordóñez, Paul Pham, and Ben Tribelhorn: *[A Data Programming CS1 Course][anderson]*.
+- George Cobb: *[The Introductory Statistics Course: a Ptolemaic Curriculum?][cobb]*
+- William Wood: *[Innovations in Teaching Undergraduate Biology and Why We Need Them][wood]*
+
 Please keep them coming.
+
+[anderson]: https://homes.cs.washington.edu/~mernst/pubs/data-programming-sigcse2015.pdf
+[cobb]: https://escholarship.org/uc/item/6hb3k0nz
+[kaplan]: https://peerj.com/preprints/3205/
+[stat545]: http://stat545.com/
+[wood]: http://www.sdbonline.org/sites/Re-BootCamp09/Wood_Innovations09s.pdf
