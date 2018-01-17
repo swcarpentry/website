@@ -46,7 +46,7 @@ The proposal idea has as advantages:
 
 - reduction in the number of lines that need to be edited in the workshop page, that is, 3-5 lines in the YAML header instead of many open/close comments;
 - reduction of confusion where the files with instructions to install a given software can be found, as all instructions are in the lesson that will be taught;
-- avoid the ugly and hard to deal with `<iframe>` element, `<iframe>` size can't be responsible;
+- avoid the ugly and hard to deal with `<iframe>` element, `<iframe>` size can't be responsive;
 - reduction in the amount of time to propagate some important changes, e.g. that learners can't use Firefox Quantum because the SQLite3 add-on isn't compatible.
 
 Some drawbacks will happen:
