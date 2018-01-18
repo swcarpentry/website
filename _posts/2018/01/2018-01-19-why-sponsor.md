@@ -15,6 +15,7 @@ We have chosen a [venue and a date](http://www.carpentrycon.org/), identified ke
 SPONSORS!
 
 ### Why sponsor CarpentryCon?
+
 Sponsorship will make this conference possible. Without the generosity of sponsors who support and share our vision, we will not be able to deliver the event our community needs.
 Help us keep registration costs low so people aren’t priced out of attending 
 Help us maximise participation by people from diverse  geographies and communities, including the global South 
@@ -23,7 +24,9 @@ By supporting us, you will help skill up the next generation of research leaders
 In return for your support, we can promise you a number of benefits.
 [See the full listing of sponsorship opportunities](http://www.carpentrycon.org/#portfolio)
 [Express interest/start a conversation through this form](https://docs.google.com/forms/d/e/1FAIpQLSedlt68CXVmyVJ4DEI8P9nfAXhGYbTHA9YgFQYomXjzzZDJOg/viewform)
+
 ### Marketing
+
 Your name, your product, your service can all be part of our event marketing. Get your logo on our website, our T-shirt, our poster,our conference slides, and on all our promotional materials, including social media and email channels. Leading sponsors will get conference time to air their messages, and will be able to send targeted emails to all delegates. 
 ### Expo
 We will provide exhibition space to allow you to showcase your offerings and network with delegates during the three days of CarpentryCon. You can demo products or services, give away swag, and start some great conversations.
