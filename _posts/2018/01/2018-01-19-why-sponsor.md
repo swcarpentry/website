@@ -7,16 +7,19 @@ time: "00:00:00"
 category: ["CarpentryCon", "Sponsorship", "Community Building"]
 ---
 
-The inaugural [CarpentryCon 2018](http://www.carpentrycon.org/) will take place on 30 May - 1 June at University College Dublin.
+The inaugural [CarpentryCon 2018](http://www.carpentrycon.org/) will take place on 30 May - 1 June at [University College Dublin](http://www.ucd.ie/).
+
 CarpentryCon 2018 aims to skill up the next generation of research leaders. Unlike conferences that focus on advances within a discipline, CarpentryCon will teach the practical skills people need to lead 21st century research within academia and industry.
+
 CarpentryCon 2018 planning is now well underway.
+
 We have chosen a [venue and a date](http://www.carpentrycon.org/), identified keynote speakers, and roughed out a program, but we are still missing one vital piece:
 
 #### SPONSORS!
 
 ### Why sponsor CarpentryCon?
 
-Sponsorship will make this conference possible. Without the generosity of sponsors who support and share our vision, we will not be able to deliver the event our community needs, and that might deliver real benefits to your industry.
+Without the generosity of sponsors who support and share our vision, we will not be able to deliver the event our community needs, one that can deliver real benefits to your industry.
 
 - Help us keep registration costs low so people aren't priced out of attending 
 - Help us maximise participation by people from diverse geographies and communities, including the global South 
@@ -25,8 +28,10 @@ Sponsorship will make this conference possible. Without the generosity of sponso
 By supporting us, you will help skill up the next generation of research leaders, people who will attend CarpentryCon to develop the skills needed to lead 21st century research, whether that be in academia or industry.
 In return for your support, we can promise you a number of benefits.
 
-[See the full listing of sponsorship opportunities](http://www.carpentrycon.org/#portfolio)
+[See the full listing of sponsorship opportunities](http://www.carpentrycon.org/#portfolio) or 
 [Express interest/start a conversation through this form](https://docs.google.com/forms/d/e/1FAIpQLSedlt68CXVmyVJ4DEI8P9nfAXhGYbTHA9YgFQYomXjzzZDJOg/viewform)
+
+What benefits can we offer you?
 
 ### Marketing
 
