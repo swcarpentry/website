@@ -9,13 +9,13 @@ category: ["CarpentryCon", "Sponsorship", "Community Building"]
 
 The inaugural [CarpentryCon 2018](http://www.carpentrycon.org/) will take place on 30 May-1 June at [University College Dublin](http://www.ucd.ie/).
 
-CarpentryCon 2018 will teach the practical skills people need to lead 21st century research within academia and industry.
-
 Planning is now well underway. We have chosen a [venue and a date](http://www.carpentrycon.org/), identified keynote speakers, and roughed out a program, but we are still missing one vital piece:
 
 #### SPONSORS!
 
 ### Why sponsor CarpentryCon?
+
+CarpentryCon 2018 will teach the practical skills people need to lead 21st century research within academia and industry.
 
 Without the generosity of sponsors who support and share our vision, we will not be able to deliver the event our community needs, one that can deliver real benefits to your industry.
 
