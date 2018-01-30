@@ -1,10 +1,10 @@
 ---
 layout: post
-authors: ["Tracy Teal"]
+authors: ["Tracy Teal", "Gina Helfrich"]
 title: "Carpentries Transition From Fiscally Sponsored Project to NumFOCUS Community Alliance Member"
 date: 2018-01-30
 time: "00:00:00"
-category: [ "Tracy Teal"]
+category: ["Fiscal sponsorship"]
 ---
 
 [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) have combined
