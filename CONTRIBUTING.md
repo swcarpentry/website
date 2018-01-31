@@ -98,7 +98,7 @@ Separate the header block from the post proper by a new line.
     A web link should be used for images hosted elsewhere, e.g., images you do not own, or for which you do not have rights to upload. 
     Example: 
     ``` 
-    [Image Description](https://web_address/pathway_to_full_image_filename)
+    ![Image Description](https://web_address/pathway_to_full_image_filename)
     ```
     
     If you are not sure how to add images in Markdown format, look at an [existing post with a locally hosted image](https://raw.githubusercontent.com/swcarpentry/website/gh-pages/_posts/2017/06/2017-06-19-mqu-ttt.md) or [one with a web link](https://raw.githubusercontent.com/swcarpentry/website/gh-pages/_posts/2017/07/2017-07-10-assess_report.md) and copy the formatting from there.
