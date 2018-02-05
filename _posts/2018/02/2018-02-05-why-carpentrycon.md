@@ -39,6 +39,6 @@ Ask them to send you to CarpentryCon.
 
 [Registrations are open now](https://www.eventbrite.com/e/carpentrycon-2018-tickets-42447719271). 
 
-
+For those whose pleas fall on unsympathetic ears, we hope to be able to offer *some* level of travel subsidy. However, we have not yet finalised the budget for that. If you buy a ticket and then find you are unable to afford to come, you can get a refund. If you buy a ticket, you can also still apply for travel assistance. More on all this once we finalise our arrangements. 
 
 
