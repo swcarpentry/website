@@ -28,6 +28,10 @@ We want to teach the next generation of research leaders not just technical skil
 important – but skills such as promoting diversity and inclusion, project and lab leadership, 
 and speaking well, as our [program]( http://www.carpentrycon.org/#prog) demonstrates.
 
+Whether you are working in academia or industry, teaching experience is a highly desirable attribute.
+
+CarpentryCon will provide opportunities for Instructors and Trainers to continue discussing and learning about teaching practices,  and connecting with people interested in improving the teaching of computational skills.
+
 Many universities claim to turn out graduates with a desirable set of attributes, yet few offer 
 concrete opportunities for students to acquire those skills. 
 
@@ -39,6 +43,6 @@ Ask them to send you to CarpentryCon.
 
 [Registrations are open now](https://www.eventbrite.com/e/carpentrycon-2018-tickets-42447719271). 
 
-For those whose pleas fall on unsympathetic ears, we hope to be able to offer *some* level of travel subsidy. However, we have not yet finalised the budget for that. If you buy a ticket and then find you are unable to afford to come, you can get a refund. If you buy a ticket, you can also still apply for travel assistance. More on all this once we finalise our arrangements. 
+For those whose pleas fall on unsympathetic ears, we hope to be able to offer *some* level of travel subsidy. However, we have not yet finalised the budget for that. If you buy a ticket and then find you are unable to afford to come, you can get a refund. If you buy a ticket, that will not disqualify you from applying for travel assistance once we open that up. We will post more information on all this once we finalise our arrangements. 
 
 
