@@ -22,14 +22,14 @@ computing tasks like initializing a repo in Git and importing libraries in R or 
 ![Motivation after Workshop](https://jduckles-dropshare.s3-us-west-2.amazonaws.com/motivation-K9zWROickP.png)
 
 We have learned so much from the analysis of our post-workshop surveys. We invite you to check out 
-the **Analysis of Software Carpentry's Post-Workshop Surveys** [report](https://carpentries.github.io/assessment/software-carpentry/postreport.html) 
+the **Analysis of Software Carpentry's Post-Workshop Surveys** [report](https://carpentries.github.io/assessment/learner-assessment/software-carpentry/postworkshop/2017-July/2017-July-post.html) 
 to learn more. Special thank yous go to Ben Marwick, Naupaka Zimmerman, Erin Becker, and Jonah Duckles. 
 These individuals made valuable contributions to the code that was used to create the figures in this report.
 
-All of the data are available in a de-identified way in [this repository](https://github.com/carpentries/assessment/tree/master/software-carpentry). 
+All of the data are available in a de-identified way in [this repository](https://github.com/carpentries/assessment/tree/master/learner-assessment/software-carpentry/postworkshop). 
 
-[Source data (csv)](https://raw.githubusercontent.com/carpentries/assessment/master/software-carpentry/data.csv)
-, [Report (html)](https://carpentries.github.io/assessment/software-carpentry/postreport.html) and [Report Source (rmd)](https://github.com/carpentries/assessment/blob/master/software-carpentry/postreport.rmd) are all available for further analysis and exploration. 
+[Source data (csv)](https://github.com/carpentries/assessment/blob/master/learner-assessment/software-carpentry/postworkshop/2017-July/data.csv)
+, [Report (html)](https://carpentries.github.io/assessment/learner-assessment/software-carpentry/postworkshop/2017-July/2017-July-post.html) and [Report Source (rmd)](https://github.com/carpentries/assessment/blob/master/learner-assessment/software-carpentry/postworkshop/2017-July/2017-July-post.rmdF) are all available for further analysis and exploration. 
 
 We'd love to hear from you if you look at the data, and pull requests are most welcome if you come up with some interesting analyses. 
 
