@@ -10,7 +10,7 @@ category: [ "Logo", "Branding", "Identity"]
 It must be the worst-kept secret in cyberspace - that the Carpentries have a new logo.
 
 
-![So ... here it is!](img/TheCarpentries.png)
+![So ... here it is!](/img/TheCarpentries.png)
 
 Now that Software and Data Carpentry have merged, we wanted a new logo to celebrate our coming together as the Carpentries, 
 and to give that project its own distinct identity.
