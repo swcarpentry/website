@@ -22,9 +22,9 @@ We conduct pre and post workshop surveys for each of our workshops:
 Additionally, we began collecting data on the long-term impact our workshops are having on both Data Carpentry and Software Carpentry learners. The [Carpentry Long-Term Feedback Survey](https://www.surveymonkey.com/r/Preview/?sm=LksuekfCD3hzLW6lPkx9qhkRF5nDt8uGWpN7lq2Mx0Dqw1Zriv3qYFpu3XtR46ei) was launched in March 2017, and data is collected every six months.
 
 ## Data  
-Data sets for Software Carpentry's pre- and post-workshop surveys and assessment reports are provided in a [GitHub repository](https://github.com/carpentries/assessment/tree/master/software-carpentry), along with the version of the surveys that were in use at the time of analysis.
+Data sets for Software Carpentry's pre- and post-workshop surveys and assessment reports are provided in a [GitHub repository](https://github.com/carpentries/assessment), along with the version of the surveys that were in use at the time of analysis.
 
 ## Analyses
-We invite you to check out the most recent [Analysis of Software Carpentry’s Post-Workshop Surveys](https://doi.org/10.5281/zenodo.1043533)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1043533.svg)](https://doi.org/10.5281/zenodo.1043533). The data used in this report is available in this [repository](https://github.com/carpentries/assessment/tree/master/software-carpentry).
+We invite you to check out the most recent [Analysis of Software Carpentry’s Post-Workshop Surveys](https://doi.org/10.5281/zenodo.1043533)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1043533.svg)](https://doi.org/10.5281/zenodo.1043533). The data used in this report is available in this [repository](https://github.com/carpentries/assessment/tree/master/learner-assessment/software-carpentry/postworkshop/2017-July).
 
-Additionally, the Carpentries long-term impact [report](https://doi.org/10.5281/zenodo.1039944)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1039944.svg)](https://doi.org/10.5281/zenodo.165858).
+Additionally, the Carpentries long-term impact [report](https://doi.org/10.5281/zenodo.1039944)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1039944.svg)](https://doi.org/10.5281/zenodo.1039944) is available, and the data used in this report is located in this [repository](https://github.com/carpentries/assessment/tree/master/learner-assessment/long-term-survey/2017-October).
