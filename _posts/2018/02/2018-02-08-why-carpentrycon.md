@@ -2,7 +2,7 @@
 layout: post
 authors: ["Belinda Weaver"]
 title: "Making the Case for CarpentryCon"
-date: 2018-02-05
+date: 2018-02-08
 time: "00:00:00"
 category: [ "CarpentryCon"]
 ---
