@@ -16,13 +16,13 @@ In all kinds of surveys, the same key skills keep popping up:
 
 > Communication skills. Teamwork. Problem solving. Ethical and intercultural understanding. Leadership. Critical thinking.
 
-The wording may be slightly different but what it boils down to is this: employers want people who can lead, and they want people 
+The wording in job ads may vary but what it boils down to is this: employers want people who can lead, and they want people 
 who can collaborate.
 
 Yet few academic conferences focus on building those kinds of skills, concentrating instead on advances within a discipline. 
 Attending conferences may help people develop skills in, say, speaking and presenting, but that is generally a by-product.
 
-#### What CarpentryCon will offer
+### What CarpentryCon will offer
 
 CarpentryCon will be different. Its main aim is to help people develop professional skills to drive their careers forward. 
 
@@ -30,7 +30,9 @@ We want to teach the next generation of research leaders not just technical skil
 important – but skills such as promoting diversity and inclusion, project and lab leadership, working 'open', 
 and speaking effectively, as our [program]( http://www.carpentrycon.org/#prog) demonstrates.
 
-What else? CarpentryCon will have a strong focus on teaching.
+### And don't forget teaching! 
+
+CarpentryCon will have a strong focus on teaching.
 
 Whether you eventually work in academia or industry, teaching experience is a very desirable attribute.
 
@@ -48,7 +50,7 @@ Ask them to send you to CarpentryCon.
 
 [Registrations are open now](https://www.eventbrite.com/e/carpentrycon-2018-tickets-42447719271). 
 
-#### Can we help you get there?
+### Can we help you get to CarpentryCon?
 
 For those whose pleas fall on unsympathetic ears, we hope to be able to offer *some* level of travel subsidy. However, we have not yet finalised the budget for that. If you buy a ticket and then find you are unable to afford to come, you can get a refund. If you buy a ticket now, that will not disqualify you from later applying for travel assistance once we open applications for subsidies. We will post more information on all this once we finalise our arrangements. 
 
