@@ -23,7 +23,7 @@ We would be very grateful for comments and feedback - please file as many issues
 If you are interested in working on the 
 repo or having rights to edit, ask there by raising an issue.
 
-### One day or two day wotkshops?
+### One day or two day workshops?
 
 Librarians often struggle to be granted two consecutive days off for training, so a
 one-day format might be the way we go forward for now. If people want a two-day format, 
