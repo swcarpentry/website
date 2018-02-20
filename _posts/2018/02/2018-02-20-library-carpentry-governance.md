@@ -16,7 +16,7 @@ what constitutes a Library Carpentry workshop, discussed who can teach the mater
 ### The website
 
 [Richard Vankoningsveld](https://twitter.com/richyvk) has done a great draft of 
-a [new website](https://github.com/LibraryCarpentry/new-website). 
+a [new website](https://librarycarpentry.github.io/new-website/). 
 Can people please have a look at it and raise issues that need fixing on the [repo](https://github.com/LibraryCarpentry/new-website)? 
 We would be very grateful for comments and feedback - please file as many issues as you need to address any problems or omissions.
 If you are interested in working on the 
