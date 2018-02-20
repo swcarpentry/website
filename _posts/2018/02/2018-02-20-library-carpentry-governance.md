@@ -7,12 +7,12 @@ time: "00:00:00"
 category: [ "Library Carpentry", "Governance", "Community Building"]
 ---
 
-Eight of us from Australia, the UK, the US, Canada, and South Africa met this week via zoom to discuss taking 
+Eight of us from Australia, the UK, the US, Canada, and South Africa met last week via zoom to discuss taking 
 the [Library Carpentry](https://github.com/LibraryCarpentry) project forward.
 
 We discussed the creation of a new website to replace [this one](http://librarycarpentry.github.io/), talked about 
 what constitutes a Library Carpentry workshop, discussed who can teach the material, and and started thinking about what kind of governance structure 
-we need to take the work forward. There was an update on the status of the [IMLS-funded Library Carpentry Coordinator role to be based at CDL](http://www.datacarpentry.org/jobs/).
+we need to take the project forward. There was an update on the status of the [IMLS-funded Library Carpentry Coordinator role to be based at CDL](http://www.datacarpentry.org/jobs/).
 
 ### The website
 
@@ -21,20 +21,20 @@ a [new website](https://github.com/LibraryCarpentry/new-website).
 Can people please have a look at it and raise issues that need fixing on the [repo](https://github.com/LibraryCarpentry/new-website)? 
 We would be very grateful for comments and feedback - please file as many issues as you need to address any problems or omissions.
 If you are interested in working on the 
-repo or having rights to edit, ask there by raising an issue.
+repo or having rights to edit, please ask there by raising an issue.
 
 ### One day or two day workshops?
 
-Librarians often struggle to be granted two consecutive days off for training, so a
-one-day format might be the way we go forward for now. If people want a two-day format, 
-then the workshop could be split over four mornings, or we could teach single days in separate weeks.
+While Software and Data Carpentry workshops run for two days, this can be problematic for librarians.
+Many librarians struggle to be granted time out for training, so two consecutive days off might be too big an ask. Accordingly, a one-day format might be the best way forward for now. If people want a two-day format, 
+then the workshop could be split, e.g. over four mornings, or single days in separate weeks.
 
 ### What is a workshop?
 
 For a workshop to be badged Library Carpentry, the community needs to establish what the core curriculum is. 
 There is a statement to that effect under [What is a workshop?](http://librarycarpentry.github.io/about/) on the old website.
-We will revisit that in the coming weeks. Belinda suggested that the core curriculum could be 
-[Intro to Data](http://data-lessons.github.io/library-data-intro/) (which includes regular expressions), [Shell](http://data-lessons.github.io/library-shell/) and [OpenRefine](http://data-lessons.github.io/library-openrefine/). That can be taught within a (fairly intense) 
+This group will revisit that in the coming weeks. Belinda suggested that the core curriculum could be 
+[Intro to Data](http://data-lessons.github.io/library-data-intro/) (which includes regular expressions), [Shell](http://data-lessons.github.io/library-shell/) and [OpenRefine](http://data-lessons.github.io/library-openrefine/). That material can be taught within a (fairly intense) 
 day. People can then add extras from the [other modules under development](https://github.com/data-lessons) if they want to have 
 a two-day format, or 
 they can stretch the core curriculum to be taught over two days, which would give more time for people to practise 
@@ -51,7 +51,7 @@ certified Data and Software Carpentry instructors who would like to teach Librar
 ### Governance
 
 Belinda suggested that at the minimum we need a chair, a co-chair, and a secretary, and suggested 
-she could be the liaison between the governance group and the Carpentries. Tim Dennis and Juliane Schneidler 
+she could be the liaison between the eventual governance group and the Carpentries. Tim Dennis and Juliane Schneidler 
 have put together [this document](https://docs.google.com/document/d/1U0F4HCW7YcZx319_KL4d0i473C4sDx5P7jnwqejer9w/edit)
 for discussion about the role of a governance group.
 
@@ -67,7 +67,7 @@ The Carpentries are now taking responsibility for organising Library Carpentry w
 
 Interviews are ongoing for [this position](http://www.datacarpentry.org/jobs/). It was readvertised when no 
 appointment was made from the first round. We hope that there will be an appointment soon. The person in 
-the role will work jointly with CDL and the Carpentries, and will look at finalising lessons, and buiding a 
+the role will work jointly with CDL and the Carpentries, and will look at finalising lessons, and building a 
 network to grow workshop and instructor numbers in the US and more globally.
 
 ### Summing Up
