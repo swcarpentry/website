@@ -11,8 +11,7 @@ Eight of us from Australia, the UK, the US, Canada, and South Africa met last we
 the [Library Carpentry](https://github.com/LibraryCarpentry) project forward.
 
 We discussed the creation of a new website to replace [this one](http://librarycarpentry.github.io/), talked about 
-what constitutes a Library Carpentry workshop, discussed who can teach the material, and and started thinking about what kind of governance structure 
-we need to take the project forward. There was an update on the status of the [IMLS-funded Library Carpentry Coordinator role to be based at CDL](http://www.datacarpentry.org/jobs/).
+what constitutes a Library Carpentry workshop, discussed who can teach the material, and and started thinking about what kind of governance structure we need to lead the work from now on. There was an update on the status of the [IMLS-funded Library Carpentry Coordinator role to be based at CDL](http://www.datacarpentry.org/jobs/).
 
 ### The website
 
