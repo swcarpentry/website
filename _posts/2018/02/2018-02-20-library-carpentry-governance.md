@@ -83,3 +83,5 @@ interested in supporting our work.
 It is an exciting time to be involved with Library Carpentry! [Come and say hi in 
 the chatroom](https://gitter.im/LibraryCarpentry/Lobby) and start your Library 
 Carpentry journey. You can watch [our Twitter feed](https://twitter.com/LibCarpentry) for news too.
+
+Greg Wilson suggested we all get hold of *[Building Powerful Community Organizations](https://www.amazon.com/Building-Powerful-Community-Organizations-Personal/dp/0977151808/)* by Michael Jacoby Brown and discuss it over the coming months.
