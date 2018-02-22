@@ -44,8 +44,8 @@ and embed what they have learned.
 The question of [Who is an instructor?](http://librarycarpentry.github.io/about) has been addressed 
 on the old website, with general agreement that instructors should have completed the [Carpentries instructor training program](http://carpentries.github.io/instructor-training/). Since we eventually plan to merge with the Carpentries, this makes sense for the long-term sustainability of Library Carpentry. However, we do not want to mandate that certification for now as we do not have enough trained instructors. Through the IMLS-funded project with the California Digital Libraries, The Carpentries have already committed to running two open instructor trainings for librarians this year.
 
-Though this was not raised at the meeting, we should consider developing an onboarding process for 
-certified Data and Software Carpentry instructors who would like to teach Library Carpentry.
+Though this was not raised at the meeting, we are now developing an onboarding process for 
+certified Data and Software Carpentry instructors who would like to teach Library Carpentry. [Have your say in what we should include](https://github.com/LibraryCarpentry/new-website/issues/6).
 
 ### Governance
 
