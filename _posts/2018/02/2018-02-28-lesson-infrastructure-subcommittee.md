@@ -7,13 +7,13 @@ time: "10:00:00"
 category: ["Community", "Lesson Infrastructure Subcommittee"]
 ---
 
-On 14 February 2018 at 18:00UTC+0,
+On 14 February 2018 at 18:00 UTC+0,
 the Lesson Infrastructure Subcommittee had their 2018 February meeting.
 This post will cover the topics discussed and their resolutions.
 
 ## Software Carpentry and Data Carpentry merge
 
-Software Carpentry and Data Carpentry have merge.
+Software Carpentry and Data Carpentry have merged.
 Their [Executive Council was elected](https://software-carpentry.org/blog/2017/12/executive-council-2018.html),
 they have a [new fiscal sponsor](https://software-carpentry.org/blog/2018/01/fiscal-sponsor-transition.html)
 and
@@ -21,7 +21,7 @@ a [new logo](https://software-carpentry.org/blog/2018/02/our-new-logo.html).
 Also,
 they have [hired Dr. François Michonneau](http://www.datacarpentry.org/blog/curriculum-dev-scaling/) to lead curriculum development efforts.
 
-This all are very exciting news. And February isn't over yet.
+This is all very exciting news. And February isn't over yet.
 
 ## Windows Installer
 
@@ -30,8 +30,8 @@ which includes nano,
 and drop our Windows installer.
 This should simplify our installation instructions
 and
-provide a better experience for our learners during the workshop.
-All the details of this changes are covered in [this document](https://github.com/carpentries/lesson-infrastructure/blob/master/liep/001-git-for-windows-nano.md)
+provide a better experience for our learners during workshops.
+All the details of these changes are covered in [this document](https://github.com/carpentries/lesson-infrastructure/blob/master/liep/001-git-for-windows-nano.md)
 which summarises many pull requests and issues over the last 6 months.
 
 ## Workshop Installation Instructions
@@ -49,7 +49,7 @@ The plan is to have the prototype ready in April
 and,
 if we decide to go forward,
 to made it available to instructors in July
-so workshops in August could benefit for this.
+so workshops in August could benefit from this.
 
 ## Lesson Release 2018/01
 
@@ -69,12 +69,12 @@ We should hear the results soon.
 
 If you don't know,
 [GitHub rolled out some improvements to labels](https://github.com/blog/2505-label-improvements-emoji-descriptions-and-more).
-This changes couldn't be in a better time.
+These changes couldn't have come at a better time.
 Erin Becker
 and
 François Michonneau
 are working to revamp the labels used in the Git repositories that host the lessons.
-The new set of labels will facilitate the navigation around issues and pull requests for maintainers and contributors.
+The new set of labels will facilitate navigation around issues and pull requests for maintainers and contributors.
 
 ## Next steps
 
