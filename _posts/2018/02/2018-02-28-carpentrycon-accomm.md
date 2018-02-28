@@ -18,7 +18,7 @@ So please book before 18 April if you want to lock in the cheaper rate.
 ### [Clayton Hotel, Ballsbridge](https://www.claytonhotelballsbridge.com)
 
 - [See it on the Dublin map](https://www.google.com.au/maps/place/Clayton+Hotel+Ballsbridge/@53.3256826,-6.2271519,17z/data=!3m1!4b1!4m5!3m4!1s0x48670ec57aa7b09d:0x7965235d57af13f!8m2!3d53.3256826!4d-6.2249632?hl=en).
-- [Book online](https://www.claytonhotelballsbridge.com) or by calling the hotel + 353 1 668 1111.
+- [Book online](https://www.claytonhotelballsbridge.com) or by calling the hotel +353 1 668 1111.
 - **Reservation Code:** CARP300518.
 - **Cutoff date for booking:** April 18th.
 
@@ -27,7 +27,7 @@ So please book before 18 April if you want to lock in the cheaper rate.
 
 - [See it on the Dublin map](https://www.google.com.au/maps/place/Talbot+Hotel+Stillorgan/@53.295023,-6.2049937,17z/data=!3m1!4b1!4m5!3m4!1s0x4867092024661d75:0x2914e1ed82d43bf8!8m2!3d53.295023!4d-6.202805?hl=en).
 - **Availability:** 29/05/2018 to 01/06/2018 (latest checkout on June 1st)
-- [Book online](https://www.talbothotelstillorgan.com/) or by calling the hotel + 353 1 200 1800.
+- [Book online](https://www.talbothotelstillorgan.com/) or by calling the hotel +353 1 200 1800.
 - **Reservation Code:** CARPCON18
 - **Cutoff date for booking:** April 18th.
 
