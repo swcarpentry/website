@@ -35,8 +35,10 @@ To summarize, although all three steps of the checkout process will remain the s
 - [vote summary](https://github.com/carpentries/trainers/blob/master/minutes/checkout-changes-feedback-summary.md)
 
 Preparing new Instructors is an important job that is shared across our community. There are many ways you can be involved! 
+
 - [Sign up to lead discussions](http://pad.software-carpentry.org/instructor-discussion) (If you’re not sure how, see this [handy checklist](https://github.com/carpentries/mentoring/blob/master/checklists-discussion-sessions.md).
 - [Apply to become a Maintainer](https://goo.gl/forms/P6dxWRarT8jIxYDA3)
 - If you’re not ready to commit to being a Maintainer, help out informally by reviewing PRs and commenting on issues for lessons that you teach. 
+
 Your help is definitely appreciated!
 
