@@ -1,10 +1,10 @@
 ---
 layout: post
-Authors: [ “Caroline Ajilogba”, “Mesfin Diro”,“Erika Mias”, “Lactatia Motsuku", “Kayleigh Lino”, “Juan Steyn”, "Katrin Tirok”, “Anelda van der Walt"]
-title: "Revival of the African Task Force”
-date: 2018-03-10
+Authors: ["Caroline Ajilogba", "Mesfin Diro", "Erika Mias", "Lactatia Motsuku", "Kayleigh Lino", "Juan Steyn", "Katrin Tirok", "Anelda van der Walt"]
+title: "Revival of the African Task Force"
+date: 2018-03-12
 time: "08:00:00"
-category: [ "Community", "Africa", "Task Force"]
+category: ["Community", "Africa", "Task Force"]
 ---
 
 Over the past five years, the Carpentries have gained considerable traction in Africa. Since the first online instructor training in 2015, more than 100 African-based instructors have been trained of which more than 40 had qualified. An estimated 50 workshops have taken place on the continent in countries including South Africa, Namibia, Botswana, Mauritius, Kenya, Ghana, Gabon, and Ethiopia. More than 15 instructors from other continents have visited the continent to join local instructors in building community and teaching workshops. These include instructors from the UK, several states in the USA, Canada, the Netherlands, and New Zealand.
