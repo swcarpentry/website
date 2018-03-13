@@ -46,9 +46,9 @@ The initial group:
 - Paula Andrea Martínez, communicated with all the volunteers. 
 - [Selene Fernández](https://twitter.com/SelFdz), who shared her translated version of Git. 
 
-Volunteers of Software Carpentry and Carpentry of Data
+Volunteers of Software Carpentry and Data Carpentry 
 
-- Sue McClatchy for helping us in the beginning with t[he open call for participation](https://software-carpentry.org/blog/2017/09/latin-am-lessons.html) in the translation of the lessons. 
+- Sue McClatchy for helping us in the beginning with [the open call for participation](https://software-carpentry.org/blog/2017/09/latin-am-lessons.html) in the translation of the lessons. 
 - Raniere Silva who helped us a lot with the style template 
 - Paula Andrea Martínez and Rayna Harris co-organizing the Hackathons 
 
