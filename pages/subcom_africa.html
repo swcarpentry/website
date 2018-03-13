@@ -1,0 +1,74 @@
+---
+layout: page-fullwidth
+permalink: /join/subcom/african-tf/
+email: "admin-afr@carpentries.org"
+subcomName: African
+purpose: "<p>The first African Task Force was established in 2016 and consisted of international mentors from the USA, UK, and Australia. This group of mentors volunteered to guide the first batch of trained African instructors through the checkout process as most of them were very isolated and new to the world of the Carpentries. </p><p>Since then more than 100 African instructors have participated in online or in-person instructor training events. The massive growth has enabled us to revive the task force in December 2017, now completely consisting of African instructors. The task force will play a role in mentoring instructors who have been trained but haven’t qualified as well as qualified instructors who need support before teaching a workshop. They will also provide some mentorship to helpers at workshops to ensure they are onboarded. The African Task Force will work closely with the African Workshop Administrators and the Mentoring Subcommittee.</p><p>Some of the South African-based activities are funded through the Rural Campuses Connection Project II (RCCP II). "
+join: "<p>We would love to get more people involved in specific activities to support our growing African community.</p> <p><b>Running online teaching sessions:</b> If you are familiar with any of the lessons and confident with online meeting tools, and would like to host one or more sessions to help build confidence and competence amongst our trained instructors, please email us with more information about the lesson of choice and your availability.</p><p><b>Hosting the monthly African meetup:</b> We would love to hear more voices at our monthly online meetup. If you are keen to host a session, please find the dates on <a href="https://calendar.google.com/calendar/embed?src=ddkcciacmqmulpu7r51562vg5g%40group.calendar.google.com&ctz=Africa%2FJohannesburg">the African Carpentries Calendar</a> and sign up at <a href="http://pad.software-carpentry.org/ZA-community-call">our etherpad</a>.</p><p><b>Provide mentorship before workshops:</b> If you are available to meet with our instructor/helper team before they run a workshop to answer any questions they may have or to help them prepare for the lessons they will be teaching, please get in touch via <a href="mailto:admin-afr@carpentries.org">our email</a> and we can pair you up with a team at a time and date that will suit you.</p>"
+activities: 
+  - title: "Provide logistical support for workshops in Africa"
+    description: "The African Task Force will work closely with the Africa Workshop Administrators to provide logistical support for workshops when needed."
+  - title: "Focussed online workshops for trained instructors"
+    description: "Small online sessions will be hosted by task force members and other volunteers to demonstrate how various lessons are taught and to help solidify skills in the tools we teach. These sessions will be limited to a maximum of 5 trained (but not necessarily qualified) African instructors. We hope that this will help instructors to gain confidence in teaching the lessons but also to learn the tools."
+  - title: "Monthly African instructor meetup"
+    description: "Our monthly African instructor meetups has been running since 2017 and are starting to attract more interest. Here we discuss topics that are of interest to researchers and students in the African context, including previous and upcoming workshops, available resources, opportunities, and events, and more."
+  - title: "Mentoring for instructors and helpers before a workshop"
+    description: "We will host online mentoring sessions for instructors and helpers before a workshop to ensure everyone knows what to expect and what is expected of them."
+  - title: "Develop materials to support funding applications in various African countries"
+    description: "We will develop materials including blogs, short write-ups, and more which may be of use for people who want to apply for larger grants to run Carpentry activities in their own countries."
+members:
+  - name: "Caroline F Ajilogba"
+    twitter: ""
+    twitterURL: "Mesfin Diro"
+  - name: "First Last B"
+    twitter: "@mesfindiro"
+    twitterURL: "https://twitter.com/mesfindiro"
+  - name: "Erika Mias"
+    twitter: "@erikamias"
+    twitterURL: "https://twitter.com/erikamias"
+  - name: "Lactatia Motsuku"
+    twitter: ""
+    twitterURL: ""
+  - name: "Kayleigh Lino"
+    twitter: "@curatorkay"
+    twitterURL: "https://twitter.com/curatorkay"
+  - name: "Juan Steyn"
+    twitter: "@zjsteyn"
+    twitterURL: "https://github.com/zjsteyn"
+  - name: "Katrin Tirok"
+    twitter: ""
+    twitterURL: ""
+  - name: "Anelda van der Walt"
+    twitter: "@aneldavdw"
+    twitterURL: "https://twitter.com/aneldavdw"
+---
+
+<h1>{{page.subcomName}} Task Force</h1>
+
+<h3>Purpose and Scope</h3>
+<p>{{page.purpose}}</p>
+
+<h3>What We Do</h3>
+<ul>
+  {% for activity in page.activities %}
+    <li>
+      <h4>{{activity.title}}</h4>
+      <p>{{activity.description}}</p>
+    </li>
+  {% endfor %}
+</ul>
+
+<h3>Join Us</h3>
+<strong>Email the <a href="mailto:{{page.email}}">{{page.subcomName}} Task Force</a> to get involved.</strong>
+<p>{{page.join}}</p>
+
+<h3>Current Members</h3>
+<div class='row'>
+  {% for person in page.members %}
+    <div class='medium-6 columns'>
+      <strong>{{person.name}}</strong>
+      <a href='{{person.twitterURL}}'>{{person.twitter}}</a>
+    </div>
+  {% endfor %}
+<div></div>
+</div>
