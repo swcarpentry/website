@@ -7,7 +7,7 @@ time: "10:00:00"
 category: ["Lesson Development", "Lesson Maintenance", "Lesson Translations", "Translation"]
 ---
 
-The idea of translating Carpentries’ lessons into Spanish and other languages *is not new [[1](https://software-carpentry.org/blog/2014/06/translating-software-carpentry-into-spanish.html), [2](https://software-carpentry.org/blog/2014/11/korean-translation.html), [3](https://software-carpentry.org/blog/2014/07/translating-software-carpentry-into-portuguese.html)]. At the end of 2017, a group of volunteers (see Initial Group members below) embarked on the goal of making Spanish translations a reality. We are very happy that many more volunteers joined us in this effort. We did it, and today we can make the fruit of these months of work known to the entire community!
+The idea of translating Carpentries’ lessons into Spanish and other languages is not new [[1](https://software-carpentry.org/blog/2014/06/translating-software-carpentry-into-spanish.html), [2](https://software-carpentry.org/blog/2014/11/korean-translation.html), [3](https://software-carpentry.org/blog/2014/07/translating-software-carpentry-into-portuguese.html)]. At the end of 2017, a group of volunteers (see Initial Group members below) embarked on the goal of making Spanish translations a reality. We are very happy that many more volunteers joined us in this effort. We did it, and today we can make the fruit of these months of work known to the entire community!
 
 ## The experience:
 
@@ -17,7 +17,10 @@ The experience of translating The Carpentries  lessons of has been very valuable
 
 *“I'm very happy to participate (at the same time learn) in this project!”* - I.L.
 
-*“Thanks everyone! Your contribution is a giant step toward realizing a long-time goal of translating[@swcarpentry](https://github.com/swcarpentry) lessons from English into Spanish!”* - R.H.
+*“Thanks everyone! Your contribution is a giant step toward realizing a long-time goal of translating [@swcarpentry](https://github.com/swcarpentry) lessons from English into Spanish!”* - R.H.
+
+*"It was a great experience. I loved the work environment and enthusiasm of the group. The feedback and analysis were very enriching for me."* - VJJ
+
 
 ## The achievements:
 
