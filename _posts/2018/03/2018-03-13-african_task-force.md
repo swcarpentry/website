@@ -20,13 +20,13 @@ an [African Task Force](https://github.com/swcarpentry/board/issues/118) was est
 instructors and support them throughout the instructor checkout process. This task force consisted of volunteers 
 from Australia (Belinda Weaver), the UK (David Perez-Suarez), and the USA (Matthew Collins, Deb Paul, and Henry Senyondo). 
 Each task force member was assigned a group of trainees and worked with them in their own way - including online 
-meetings, online demo sessions, and support via email. At the time connectivity (thus communication with the African instructors) 
-as well as isolation and lack of local community were some of the challenges experienced by both mentors and mentees. 
+meetings, online demo sessions, and support via email. At the time, connectivity (thus communication with the African instructors) 
+as well as isolation, and lack of local community, were some of the challenges experienced by both mentors and mentees. 
 To date, 11 out of 23 trainees from the first in-person instructor training in Africa had qualified.
 
 The low turnover rate from trainee to a qualified instructor, and the lack of opportunity for 
 new instructors to teach have been a concern of the local instructor community for some time and in December 
-2017 the African Task Force was brought to life again to address these issues.
+2017 the [African Task Force](https://software-carpentry.org/join/subcom/african-tf/) was brought to life again to address these issues.
 
 The new task force consists of eight African-based instructors based in South Africa and Ethiopia. 
 The task force members represent a variety of disciplines including the libraries, digital humanities, 
@@ -47,7 +47,7 @@ helpers before teaching a workshop, and generally nurturing a healthy African Ca
 We will also provide clearer communication about the process for running workshops in Africa, and for volunteering 
 o teach at workshops. We will work closely with the African Workshop Administrators and the Mentoring Subcommittee.
 
-Some of the activities of the African Task Force (specifically the South African focused activities) are funded 
+Some of the activities of the [African Task Force](https://software-carpentry.org/join/subcom/african-tf/) (specifically the South African-focused activities) are funded 
 through the Rural Campuses Connection Project II (RCCPII). Funding for activities elsewhere in Africa is currently 
 mostly on an *ad hoc* basis and the task force hope to provide resources to those who would like to apply for larger 
 grants to run Carpentry activities in their other countries on the continent. The task force will meet in person twice 
