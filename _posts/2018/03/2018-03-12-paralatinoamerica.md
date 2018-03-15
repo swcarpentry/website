@@ -19,6 +19,9 @@ La experiencia de traducir las lecciones de The Carpentries ha sido muy valiosa.
 
 *“¡Gracias a todos! Todas sus contribuciones son un gran paso para realizar una meta de mucho tiempo, que es traducir las lecciones de @swcarpentry del Inglés al Español!”* - R.H.
 
+*“Fue una gran experiencia. Me encantó el ambiente de trabajo y entusiasmo del grupo.  La retroalimentación y análisis, me enriqueció mucho.”* - V.J.J.
+
+
 ## Los logros:
 
 1. Guía para los colaboradores ([Glosario y lineamientos](https://github.com/Carpentries-ES/board/blob/master/Convenciones_Traduccion.md))  
