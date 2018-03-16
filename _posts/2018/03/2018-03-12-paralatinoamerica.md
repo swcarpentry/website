@@ -73,6 +73,6 @@ Empleados The Carpentries:
 
 ## Registros de publicación
 
-- Heladia Saldago (ed), 48 authors: “Software Carpentry: La Terminal de Unix”, The Carpentries, Version 2018.04.1, March 2018,  [10.5281/zenodo.1198732](https://zenodo.org/record/1198732)
-- Rayna Harris (ed), 49 authors: “Software Carpentry: Control de Versiones con Git”, The Carpentries, Version v2018.04.3, March 2018, [10.5281/zenodo.1197332](https://zenodo.org/record/1197332)
+- Heladia Saldago (ed), 48 authors: “Software Carpentry: La Terminal de Unix”, The Carpentries, Version 2018.04.1, March 2018,  [10.5281/zenodo.1198732](https://doi.org/10.5281/zenodo.1198732)
+- Rayna Harris (ed), 49 authors: “Software Carpentry: Control de Versiones con Git”, The Carpentries, Version v2018.04.3, March 2018, [10.5281/zenodo.1197332](https://doi.org/10.5281/zenodo.1197332)
 
