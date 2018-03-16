@@ -4,7 +4,7 @@ authors: ["Paula Andrea Martinez", "Alejandra Gonzalez-Beltran"]
 title: "Carpentries para Latinoamerica"
 date: 2018-03-12
 time: "10:00:00"
-category: ["Lesson Development", "Lesson Maintenance", "Lesson Translations", "Translation"]
+category: ["Lesson Development", "Lesson Maintenance", "Lesson Translations", "Translation", "Publishing"]
 ---
 
 La idea de traducir las lecciones de Carpentry al español y otros lenguajes no es nueva [[1](https://software-carpentry.org/blog/2014/06/translating-software-carpentry-into-spanish.html), [2](https://software-carpentry.org/blog/2014/11/korean-translation.html), [3](https://software-carpentry.org/blog/2014/07/translating-software-carpentry-into-portuguese.html)]. A finales del 2017, un grupo de voluntarios ([ver Grupo inicial](https://docs.google.com/document/d/1C1rkYM4x9jozrWb7MMbQxpI7FHmX9adEWm1aV6w7e1k/edit#heading=h.q5re1usqyku8)) nos embarcamos en la meta de hacer las traducciones al español una realidad. Estamos muy felices de que muchas más voluntarias y voluntarios se nos han unido en este esfuerzo y hoy podemos dar a conocer el fruto de estos meses de trabajo a toda la comunidad. ¡Lo logramos!
@@ -70,3 +70,9 @@ Organizadores del [Hackathon](https://github.com/Carpentries-ES/R-hackaton-es) y
 Empleados The Carpentries:
 
 - Erin Becker y François Michonneau, por mover el tren de la publicación.
+
+## Registros de publicación
+
+- Heladia Saldago (ed), 48 authors: “Software Carpentry: La Terminal de Unix”, The Carpentries, Version 2018.04.1, March 2018,  [10.5281/zenodo.1198732](https://zenodo.org/record/1198732#.Wqvda5PwbdQ)
+- Rayna Harris (ed), 49 authors: “Software Carpentry: Control de Versiones con Git”, The Carpentries, Version v2018.04.3, March 2018, [10.5281/zenodo.1197332](https://zenodo.org/record/1197332#.WqvdtJPwbdQ)
+
