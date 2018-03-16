@@ -4,7 +4,7 @@ authors: ["Paula Andrea Martinez", "Alejandra Gonzalez-Beltran", "Rayna Harris"]
 title: "Carpentries for Latin America"
 date: 2018-03-12
 time: "10:00:00"
-category: ["Lesson Development", "Lesson Maintenance", "Lesson Translations", "Translation"]
+category: ["Lesson Development", "Lesson Maintenance", "Lesson Translations", "Translation", "Publishing"]
 ---
 
 The idea of translating Carpentries’ lessons into Spanish and other languages is not new [[1](https://software-carpentry.org/blog/2014/06/translating-software-carpentry-into-spanish.html), [2](https://software-carpentry.org/blog/2014/11/korean-translation.html), [3](https://software-carpentry.org/blog/2014/07/translating-software-carpentry-into-portuguese.html)]. At the end of 2017, a group of volunteers (see Initial Group members below) embarked on the goal of making Spanish translations a reality. We are very happy that many more volunteers joined us in this effort. We did it, and today we can make the fruit of these months of work known to the entire community!
@@ -70,4 +70,9 @@ Organizers of a [Hackathon](https://github.com/Carpentries-ES/R-hackaton-es) and
 Employees The Carpentries:
 
 - Erin Becker and François Michonneau, for the push to publish. 
+
+## Publication Records
+
+- Heladia Saldago (ed), 48 authors: “Software Carpentry: La Terminal de Unix”, The Carpentries, Version 2018.04.1, March 2018,  [10.5281/zenodo.1198732](https://zenodo.org/record/1198732)
+- Rayna Harris (ed), 49 authors: “Software Carpentry: Control de Versiones con Git”, The Carpentries, Version v2018.04.3, March 2018, [10.5281/zenodo.1197332](https://zenodo.org/record/1197332)
 
