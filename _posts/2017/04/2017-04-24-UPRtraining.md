@@ -14,7 +14,7 @@ Also, be sure to check out [an accompanying blog post](https://idi-bd2k.hpcf.upr
 ## Unique aspects of the workshop 
 Our instructor training event was co-located with a “[Replicathon](https://github.com/idi-bd2k/PR2017replicaton)”, which was a 2 day-hackathon built around reproducing the analysis published in some recent high-profile journal articles. Having two simultaneous events really gave the feeling of a “critical mass” for building a community of researchers who are passionate about using and teaching reproducible research practices.
 
-Rayna and Sue have been working together on the the mentoring committee for 2 years, but didn’t meet face-to-face until March 24. One of the really amazing features of the Carpentries is that sometimes your closest colleagues live thousands of miles away.
+Rayna and Sue have been working together on the mentoring committee for 2 years, but didn’t meet face-to-face until March 24. One of the really amazing features of the Carpentries is that sometimes your closest colleagues live thousands of miles away.
 
 ## About the trainees
 Eleven of the twelve trainees were faculty members from various UPR campuses, and one trainees was from a private company. The trainees were born and raised in Puerto Rico, Venezuela, Colombia, and the Ukraine, so English was everyone’s second language. 

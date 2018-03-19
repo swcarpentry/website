@@ -54,7 +54,7 @@ The great thing about the Etherpad (in my opinion) is that is allows everyone to
 ## Time Commitment
 **In-person:** Even though I really enjoy traveling, saying yes to teaching a workshop in a different city is a huge time commitment. Instead of just saying yes to teaching from 9-4, I'm saying yes to being in a different city for 24 hours a day. I also have to devote a lot of additional time to planning the travel, traveling, and getting reimbursed for expenses.  
 
-**Online:** When I teach online, I really only have to commit time to prep for the lessons and to teach them. I can make breakfast in my own home, eat dinner with friends, and and even make it to meetings and lab meetings that happen on the same day in the same building. 
+**Online:** When I teach online, I really only have to commit time to prep for the lessons and to teach them. I can make breakfast in my own home, eat dinner with friends, and even make it to meetings and lab meetings that happen on the same day in the same building. 
 
 [*See link to instagram photo from one of Rayna's teaching rooms.*](https://www.instagram.com/p/BLzVkgjAS3z/?taken-by=raynamharris)
 
