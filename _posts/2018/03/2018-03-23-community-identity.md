@@ -1,8 +1,8 @@
 ---
 layout: post
 Authors: ["Christina Koch"]
-title: "Software Carpentry: Considering the Future”
-date: 2018-03-23
+title: "Software Carpentry: Considering the Future"
+date: 2018-03-2
 time: "08:00:00"
 category: [ "Community", "Software Carpentry", "Steering Committee"]
 ---
