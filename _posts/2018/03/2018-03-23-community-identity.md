@@ -2,12 +2,16 @@
 layout: post
 Authors: ["Christina Koch"]
 title: "Software Carpentry: Considering the Future"
-date: 2018-03-2
+date: 2018-03-23
 time: "08:00:00"
-category: [ "Community", "Software Carpentry", "Steering Committee"]
+category: ["Community", "Software Carpentry", "Steering Committee"]
 ---
 
-When Software Carpentry became part of the merged Carpentries this January, outgoing Software Carpentry steering committee members Rayna Harris and Christina Koch were tasked with continuing the work of the steering committee.  For the past several weeks, we've been working together with a small group to determine what Software Carpentry needs as a sub-community to grow and thrive in the future, and we have identified two primary goals.  One first goal is a restatement of Software Carpentry's mission.  The Carpentries are growing by leaps and bounds, so this seems like a timely moment to stop and think about what Software Carpentry is doing as a branch of the Carpentries and why.  This exploration of mission and identity isn't just so we can have a nice tagline, but to provide direction and a reference point for future decisions that impact the community. Our second main goal is to improve the support for maintaining and curating the lessons we already have.
+When Software Carpentry became part of the merged Carpentries this January, outgoing Software Carpentry steering committee members Rayna Harris and Christina Koch were tasked with continuing the work of the steering committee.  For the past several weeks, we've been working together with a small group to determine what Software Carpentry needs as a sub-community to grow and thrive in the future, and we have identified two primary goals.  
+
+One first goal is a restatement of Software Carpentry's mission.  The Carpentries are growing by leaps and bounds, so this seems like a timely moment to stop and think about what Software Carpentry is doing as a branch of the Carpentries and why.  This exploration of mission and identity isn't just so we can have a nice tagline, but to provide direction and a reference point for future decisions that impact the community. 
+
+Our second main goal is to improve the support for maintaining and curating the lessons we already have.
 
 But we can't do these things alone!  We're looking to the community to help us achieve our goals.  This has already been happening for our second goal, as Erin Becker (even before the Carpentries merged) has been building up the community of lesson maintainers and recruiting new lesson maintainers.  Most recently she opened applications for a Software Carpentry curriculum advisory committee that will be a resource for individual lesson maintainers (see the [blog post here][cac-blog-post] for more information).
 
