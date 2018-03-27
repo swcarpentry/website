@@ -1,6 +1,6 @@
 ---
 layout: post
-Authors: ["Christina Koch"]
+authors: ["Christina Koch"]
 title: "Software Carpentry: Considering the Future"
 date: 2018-03-23
 time: "08:00:00"
