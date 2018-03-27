@@ -12,6 +12,8 @@ gems:
 whitelist:
   - jekyll-redirect-from
 
+plugins:
+  - jekyll-redirect-from
 
 #
 #      _____ _ __          _____      __  __  _                 
