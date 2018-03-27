@@ -12,7 +12,7 @@ gems:
 whitelist:
   - jekyll-redirect-from
 
-plugins:
+plugins_dir:
   - jekyll-redirect-from
 
 #
