@@ -21,9 +21,11 @@ Ideas, suggestions and concerns from the community will be gathered in two ways.
 
 We know that this is a bit of an ask -- everyone is busy (who wants another meeting or form to fill out?).  However, based on my past experience in workshops, trainings, and the mentoring-hosted discussion sessions, I *always* leave a conversation with fellow "carpenters" with new ideas, new connections and a lot of hope about the world.  This is an invitation to give that to yourself by joining the conversation, with the added bonus of helping us craft a summary of this community's mission and values that truly reflects its members.
 
-**Action Item** Sign up on the [agenda][agenda] to attend a call or fill out the [form][form].  We look forward to hearing from you!
+**Action Item** 
 
-We plan to be receiving community feedback from now until the end of April.  We will review these community contributions and present them to the community sometime in May.
+Sign up on the [agenda][agenda] to attend a call or fill out the [form][form].  We look forward to hearing from you!
+
+We plan to be receiving community feedback from now until the end of April.  We will review these community contributions and present them to the community some time in May.
 
 [cac-blog-post]: https://software-carpentry.org/blog/2018/03/curriculum-advisors.html
 [agenda]: https://docs.google.com/document/d/1As6XBTEUHsqROmn9aPb-TBb2glXHrg4b-swVPn_9NW8/edit
