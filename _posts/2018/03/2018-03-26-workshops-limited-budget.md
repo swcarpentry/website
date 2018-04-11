@@ -1,23 +1,23 @@
 ---
 layout: post
-authors: ["Belinda Weaver", "Toby Hodges"]
+authors: ["Belinda Weaver", "Toby Hodges", "Anelda van der Walt"]
 title: "Running workshops on limited budgets"
 date: 2018-02-26
 time: "00:00:00"
 category: [ "Workshops", "Funding"]
 ---
 
-Anelda van der Walt and co-host Toby Hodges ran the first themed discussion session last Friday to brainstorm ideas 
+Anelda van der Walt and co-host Toby Hodges ran the first themed discussion session in March to brainstorm ideas 
 about running workshops with little to no funding. Attendees from Australia, the US, the UK, and Canada joined to hear and 
 contribute ideas.
 
 ### Existing Funding Models
 
-The Brisbane model is to use Eventbrite to charge a low fee (around AUD $60) for attendance at workshops. This has a few benefits - waitlists can be managed, the booking widget appears in the workshop website, fees can be easily refunded up to a week before the workshop, and attendance is generally good because people have paid out of their own pockets or have been sponsored by their school to come. The fee covers the costs of room hire and the fairly lavish morning and afternoon teas that keep people from wandering off in search of sustenance during breaks. The Brisbane instructor pool is fairly large so there is no need to fly people in so we don't have to factor in those costs. One drawback is having to pay the catering and room hire costs by personal credit card as the Eventbrite payout comes only after the workshop.
+The Brisbane model is to use Eventbrite to charge a low fee (around AUD $60) for attendance at workshops. This has a few benefits - waitlists can be managed, the booking widget appears in the workshop website, fees can be easily refunded up to a week before the workshop, and attendance is generally good because people have paid out of their own pockets or have been sponsored by their school to come. The fee covers the costs of room hire and the fairly lavish morning and afternoon teas that keep people from wandering off in search of sustenance during breaks. The Brisbane instructor pool is fairly large so there is no need to fly people in, which means we don't have to factor in those costs. One drawback is having to pay the catering and room hire costs up-front by personal credit card as the Eventbrite payout comes only after the workshop. This is a break-even charge - we could charge more and return some money to The Carpentries, but our main interest in in keeping costs low.
 
 Another model we have used is to charge a small fee of, say, $20 to get people to commit to coming, but return the value to them as a $10 lunch voucher each day. This only works when we don't have to pay for room hire, and people do wander off in the breaks in search of coffee instead of sticking around as they do at the catered workshops.
 
-The South Africa model was to charge 500 Rand (around USD $42) per person, but this was not feasible outside metropolitan areas, where it dropped as low as 50 Rand (USD $4). Workshops are now externally funded, which is good, but there are administrative overheads, especially around refunds. Online services to manage the admin side can be problematical as the payout only comes afterwards whereas costs may be up-front. Luckily, no-shows are rare.
+The South Africa model was to charge 500 Rand (around USD $42) per person, but this was not feasible outside metropolitan areas, where it dropped as low as 50 Rand (USD $4). Many workshops are now externally funded which removes the need for having to charge a fee and as local instructor pools grow, the costs of running workshops are also decreasing considerably. We have also found that it is often easier for research groups or funders to sponsor smaller amounts or specific items, such as flight tickets or catering. By pooling resources, we've been able to run many workshops at very low cost per sponsor rather than trying to source one lump sum of money from one sponsor. Online services to manage the admin side can be problematical as the payout only comes afterwards whereas costs may be up-front. Luckily, no-shows are rare.
 
 In Canada, there can be a problem with tax collection and reporting when running on-campus events. That means finding some university person willing to use their account in the system to 'sponsor' the workshop for the tax side of things. If fees are charged for catering, universities generally then charge for the room hire, so this starts to make workshops more expensive. Currently room hire has been free thanks to personal lobbying and favours, but may become more of a problem as workshop numbers ramp up.
 
