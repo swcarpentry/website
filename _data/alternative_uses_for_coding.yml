@@ -93,3 +93,5 @@
 - Name: Pat Schloss
   Text: Wrote R scripts to automate sending out report cards/transcripts for a homeschool
     group
+- Name: Jenny Bryan
+  Text: Wrote R script to determine which of my kids should keep using a bus pass that we load with money versus an unlimited monthly pass, based on downloaded csv files of bus trips (3 kids, 1 file per kid-month, many months).
