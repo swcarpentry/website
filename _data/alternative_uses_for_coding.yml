@@ -1,3 +1,6 @@
+# Alternative ways to apply proggraming skills in non research contexts:
+#   Made live at: https://software-carpentry.org/alternative_uses_for_code/
+# Contributions welcome! click Edit and submit a PR 
 - Name: Brian Northan
   Text: "I direct a 4 mile running race near Albany, NY.  I've used Python and Pandas\
     \ for a few data analysis tasks. \n\nFor example I used Pandas and Bokeh to generate\
@@ -90,3 +93,7 @@
 - Name: Pat Schloss
   Text: Wrote R scripts to automate sending out report cards/transcripts for a homeschool
     group
+- Name: Jenny Bryan
+  Text: Wrote R script to determine which of my kids should keep using a bus pass that we load with money versus an unlimited monthly pass, based on downloaded csv files of bus trips (3 kids, 1 file per kid-month, many months).
+- Name: Joseph Hardin
+  Text: "[My girlfriend and I](https://twitter.com/JosephHardin7/status/983886964943409153) have a movie picking script. We each add one movie it randomizes and picks from all previously entered. The selected is removed from list and watched. Solves the problem of bias in movie selection."

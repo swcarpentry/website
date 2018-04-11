@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-permalink: /alternative_uses_for_code
+permalink: /alternative_uses_for_code/
 title: Alternative ways to apply coding skills
 excerpt: applying coding skills to real-life challenges
 ---
