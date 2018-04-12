@@ -1,6 +1,6 @@
 ---
 layout: post
-authors: ["Tracy Teal", "John Chodacki", "Chris Erdmann", "Belinda Weaver"]
+authors: ["Tracy Teal", "John Chodacki", "Chris Erdmann"]
 title: "Building Library Carpentry Community and Development"
 date: 2018-04-12
 time: "00:00:00"
