@@ -2,9 +2,9 @@
 layout: post
 authors: ["Belinda Weaver", "Toby Hodges", "Anelda van der Walt"]
 title: "Running workshops on limited budgets"
-date: 2018-02-26
+date: 2018-04-13
 time: "00:00:00"
-category: [ "Workshops", "Funding"]
+category: ["Workshops", "Funding"]
 ---
 
 Anelda van der Walt and co-host Toby Hodges ran the first themed discussion session in March to brainstorm ideas 
@@ -13,7 +13,7 @@ contribute ideas.
 
 ### Existing Funding Models
 
-The Brisbane model is to use Eventbrite to charge a low fee (around AUD $60) for attendance at workshops. This has a few benefits - waitlists can be managed, the booking widget appears in the workshop website, fees can be easily refunded up to a week before the workshop, and attendance is generally good because people have paid out of their own pockets or have been sponsored by their school to come. The fee covers the costs of room hire and the fairly lavish morning and afternoon teas that keep people from wandering off in search of sustenance during breaks. The Brisbane instructor pool is fairly large so there is no need to fly people in, which means we don't have to factor in those costs. One drawback is having to pay the catering and room hire costs up-front by personal credit card as the Eventbrite payout comes only after the workshop. This is a break-even charge - we could charge more and return some money to The Carpentries, but our main interest in in keeping costs low.
+The Brisbane model is to use Eventbrite to charge a low fee (around AUD $60) for attendance at workshops. This has a few benefits - waitlists can be managed, the booking widget appears in the workshop website, fees can be easily refunded up to a week before the workshop, and attendance is generally good because people have paid out of their own pockets or have been sponsored by their school to come. The fee covers the costs of room hire and the fairly lavish morning and afternoon teas that keep people from wandering off in search of sustenance during breaks. The Brisbane instructor pool is fairly large so there is no need to fly people in, which means we don't have to factor in those costs. One drawback is having to pay the catering and room hire costs up-front by personal credit card as the Eventbrite payout comes only after the workshop. This is a break-even charge - we could charge more and return some money to The Carpentries, but our main interest is in keeping costs low.
 
 Another model we have used is to charge a small fee of, say, $20 to get people to commit to coming, but return the value to them as a $10 lunch voucher each day. This only works when we don't have to pay for room hire, and people do wander off in the breaks in search of coffee instead of sticking around as they do at the catered workshops.
 
