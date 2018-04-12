@@ -2,7 +2,7 @@
 layout: post
 authors: ["Tracy Teal", "John Chodacki", "Chris Erdmann"]
 title: "Building Library Carpentry Community and Development"
-date: 2018-04-12
+date: 2018-04-11
 time: "00:00:00"
 category: [ "Community", "Library Carpentry", "Librarians"]
 ---
