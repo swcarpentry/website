@@ -97,3 +97,5 @@
   Text: Wrote R script to determine which of my kids should keep using a bus pass that we load with money versus an unlimited monthly pass, based on downloaded csv files of bus trips (3 kids, 1 file per kid-month, many months).
 - Name: Joseph Hardin
   Text: "[My girlfriend and I](https://twitter.com/JosephHardin7/status/983886964943409153) have a movie picking script. We each add one movie it randomizes and picks from all previously entered. The selected is removed from list and watched. Solves the problem of bias in movie selection."
+- Name: Ryan Challinor
+  Text: My wife wanted the hundreds of albums she'd accumulated over the years in her iTunes library to show up in her Spotify saved albums, so I exported her iTunes library to a text file and wrote a Python script with Spotipy (https://github.com/plamere/spotipy) to look up each of the albums and save them in her Spotify library.
