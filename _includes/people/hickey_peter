@@ -1,0 +1,7 @@
+<p id="hickey_peter" data-toggle="tooltip" title="<img 
+src='{{site.filesurl}}/people/hickey_peter.jpg' alt='Peter Hickey' />">
+<span class="person">Peter Hickey</span> enjoys making sense of data 
+and making it easier for others to do the same. He holds a PhD in 
+Statistics and develops methods and software to summarise and understand 
+genomics data. He especially loves the R programming language and the 
+Bioconductor open-source community. </p>
