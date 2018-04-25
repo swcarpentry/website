@@ -1,0 +1,13 @@
+<p id="petralia_alex" data-toggle="tooltip" title="<img 
+src='{{site.filesurl}}/people/petralia_alex.jpg' alt='Alex Petralia' 
+/>">
+<span class="person">Alex Petralia</span> works in business analytics 
+at an algorithmic trading firm in NYC. Prior to his work in finance, 
+Alex was a data engineer at an e-commerce startup and a financial 
+analyst at a management consulting firm.
+
+Alex's work heavily integrates principles from software engineering 
+into data analysis in order to help business analysts do their job 
+better. He's passionate about all things data, from web scraping, 
+distributed systems and data pipelines to data modeling, analysis and 
+visualization. </p>
