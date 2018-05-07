@@ -48,7 +48,7 @@ category: ["Community"]
 	[CSDMS Annual Meeting](https://mperignon.github.io/2016-05-16-csdms/),
 	[Online](https://swcarpentry.github.io/2016-05-18-ttt-online/),
     [Colorado Special Libraries Association @ CU Boulder](https://mperignon.github.io/2016-05-25-culibraries/),
-    [National Institutes of Health](http://software-carpentry.org/workshops/datacarpentry.github.io/2016-05-26-NIH/)
+    [National Institutes of Health](http://datacarpentry.github.io/2016-05-26-NIH/)
   * June:
     [University of Cincinnati](https://qjcg.github.io/2016-06-07-ucincinnati/)
   * July:

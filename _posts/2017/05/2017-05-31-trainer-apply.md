@@ -32,4 +32,4 @@ If you're interested in joining the Trainer community, please
 [apply here](https://goo.gl/forms/yTx9yJzdWy6OAPtS2)! Applications will be open until June 14th.
 
 If you have any questions about the training process or the 
-expecations for being a Trainer, please get in touch with [Erin](ebecker@carpentries.org).
+expecations for being a Trainer, please get in touch with [Erin](mailto:ebecker@carpentries.org).

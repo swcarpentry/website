@@ -62,7 +62,7 @@ a tie-in for the [UQ Winter School in Mathematical and Computational Biology](ht
 which they have no admin rights.
 
 Hacky Hours, informal get togethers where people can brush up on skills, or follow up on questions after 
-Software Carpentry workshops, are held weekly at both [UQ](hhttps://twitter.com/HackyHourStLuc) and 
+Software Carpentry workshops, are held weekly at both [UQ](https://twitter.com/HackyHourStLuc) and 
 [Griffith University](https://twitter.com/hackyhourGU). We hope to extend these to other universities soon, 
 just as we plan to run Software Carpentry workshops at other Queensland universities.
 

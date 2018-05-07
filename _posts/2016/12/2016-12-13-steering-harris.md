@@ -12,7 +12,7 @@ I am really excited to stand in election for the 2017 Software Carpentry (SWC) S
 I was first exposed to Software Carpentry by [April Wright](http://wrightaprilm.github.io/), who suggested that I attend the [Instructor Training Workshop at UC Davis](http://ivory.idyll.org/blog/2014-davis-swc-training.html) in January 2015. In 2015 I co-taught workshops at [UT Arlington](https://naupaka.github.io/2015-04-18-UT-Arlington/) and [New Mexico State
 University](https://jarthurgross.github.io/2015-08-13-nmsu/), I co-organized the [Austin-based Instructor/Helper Retreat](https://etherpad.wikimedia.org/p/swc-instructor-retreat-2015-austin), served on the Mentoring and Assessment Subcommittee. 
 
-In 2016, I was elected to the SWC steering committee and I was certified as an instructor trainer. You can read my year end summary from 2016 [here](./2016-12-19-yearinreview-harris.md). 
+In 2016, I was elected to the SWC steering committee and I was certified as an instructor trainer. You can read my year end summary from 2016 [here]({{ site.baseurl }}/blog/2016/12/yearinreview-harris.html). 
 
 Without a doubt, my favorite Software Carpentry activity is hosting [instructor discussion sessions](http://pad.software-carpentry.org/instructor-discussion). I learn so much when you share your experiences, and it has helped me become a better instructor and scientists. More importantly, synthesizing these community-shared experiences gives me an immense amount of energy and inspiration for continuing to engage in community-driven research education. 
 

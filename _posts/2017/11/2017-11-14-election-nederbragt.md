@@ -18,7 +18,7 @@ My name is Lex Nederbragt. I am a bioinformatician (senior engineer) at the Inst
 
 I hosted the first Software Carpentry workshop at our university in 2012 (we were very fortunate to have Greg Wilson, one of the founders of Software Carpentry, teach the workshop himself!). I became a Software Carpentry instructor in 2013 and a Data Carpentry instructor in 2016. I have taught at numerous Software and Data Carpentry workshops, both in Oslo, in Norway and abroad. In 2016, I also became an Instructor Trainer and I have co-taught a couple of Instructor Training workshops since then. Together with Karen Lagesen, I started a 'Carpentry' initiative at the University of Oslo which now has grown to a dozen local instructors, and another dozen helpers, and [many workshops](https://uio-carpentry.github.io/), some full two-day, standard Software or Data Carpentry workshops, but increasingly half to one-day workshops teaching just one lesson of the Carpentries material.  
 I have contributed to the unix, git, python and make lesson, and this year, I became one of the maintainers of the Data Carpentry 'Wrangling Genomics Data' lesson.  
-Finally, I am very proud of having been one of the authors of the '[Good Enough Practices in Scientific Computing](journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)' paper that was published earlier this year.
+Finally, I am very proud of having been one of the authors of the '[Good Enough Practices in Scientific Computing](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)' paper that was published earlier this year.
 
 #### What I would do as a member of the Steering Committee to contribute to the growth and success of the community
 
