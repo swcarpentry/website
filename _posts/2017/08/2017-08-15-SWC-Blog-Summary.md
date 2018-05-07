@@ -8,7 +8,7 @@ category: ["Community"]
 ---
 
 ## Highlights
-*  It should not be a painful experience to write a blog post, so please [reach out to us]({{site.baseurl}}//https://docs.google.com/forms/d/e/1FAIpQLSeyLIAMdh9ylq-LhgZm4XK7PNsLaiWOUiEScCS-br1EO0pXrQ/viewform)!
+*  It should not be a painful experience to write a blog post, so please [reach out to us](https://docs.google.com/forms/d/e/1FAIpQLSeyLIAMdh9ylq-LhgZm4XK7PNsLaiWOUiEScCS-br1EO0pXrQ/viewform)!
 *  Have a look at the [approved motions]({{site.baseurl}}/blog/2017/08/mergermotions.html) for the Carpentries merger.
 *  We are pleased to announce the [Instructor Training Curriculum]({{site.baseurl}}/blog/2017/08/inst-curr-update.html) has been updated and will be released end of August.
 
@@ -23,7 +23,7 @@ category: ["Community"]
 
 ## General
 *  Please feel free to provide suggestions to our Community Lead via the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeyLIAMdh9ylq-LhgZm4XK7PNsLaiWOUiEScCS-br1EO0pXrQ/viewform).
-*  We invite all our community champions to join the [Carpentry Champions]({{site.baseurl}}blog/2017/08/be-a-champ.html) call on 22 August to come and share their knowledge and learn from each other.
+*  We invite all our community champions to join the [Carpentry Champions]({{site.baseurl}}/blog/2017/08/be-a-champ.html) call on 22 August to come and share their knowledge and learn from each other.
 
 
 * 21 workshops were run over the past 30 days. For more information about past workshops, please visit our [website]({{site.baseurl}}/workshops/past/). 

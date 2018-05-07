@@ -10,7 +10,7 @@ category: ["Community"]
 ##Highlights
 * Several members of our community have published a new paper on [Ten Simple Rules for Digital Storage]({{site.baseurl}}/blog/2016/10/ten-simple-rules-for-digital-data-storage.html).
 * Library Carpentry is [one year old]({{site.baseurl}}/blog/2016/10/library-carpentry-is-one-year-old.html) and still gaining momentum. 
-* The [Steering Committee election]({{site.baseurl}}/http://software-carpentry.org/blog/2016/10/Call-for-candidates-SC-2017.html) is taking place in January 2017, please consider standing.
+* The [Steering Committee election]({{site.baseurl}}/blog/2016/10/Call-for-candidates-SC-2017.html) is taking place in January 2017, please consider standing.
 
 ##Tweets
 * [@UniOslo](https://twitter.com/UniOslo) is an affiliate of the [@Swcarpentry](https://twitter.com/swcarpentry) foundation
@@ -22,7 +22,7 @@ category: ["Community"]
 * Cambridge University, along with a [Software Sustainability Institute Fellow](https://www.software.ac.uk/blog/2016-10-18-cambridge-instructor-training-19-20-september) hosted an [Instructor Training]({{site.baseurl}}/blog/2016/10/cambridge-instructor-training.html) workshop in September and had attendees from as far as Hungary and USA.
 * A good [comaprison]({{site.baseurl}}/blog/2016/10/instructrortraining.html) has been made between online and in-person instructor training workshops.
 * [Programming]({{site.baseurl}}/blog/2016/10/programming-as-theory-building.html) is more closely related to software development than you might think.
-* The [Carpentries]({{site.baseurl}}/http://software-carpentry.org/blog/2016/10/what_swc_means_to_me.html) mean a lot more than just learning new skills.
+* The [Carpentries]({{site.baseurl}}/blog/2016/10/what_swc_means_to_me.html) mean a lot more than just learning new skills.
 
 
 * 28 workshops were run over the past 30 days. For more information about past workshops, please visit our [website]({{site.baseurl}}/workshops/past/). 

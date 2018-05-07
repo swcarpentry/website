@@ -8,7 +8,7 @@ favorite: true
 category: ["Content"]
 ---
 <p>Suppose you have two photographs of a patch of the night sky:</p>
-<p><img src="{{site.filesurl}}/2014/03/ngc1333-noao.jpg" /></p>
+<p><img src="{{site.filesurl}}/2012/03/ngc1333-noao.jpg" /></p>
 <p>and you want to know how different they are. The simplest way would be to see if any of the pixels' values differ, but that's pretty much guaranteed to return a "yes". A better measure is to see how many pixels differ by more than some threshold, but that raises two questions:</p>
 <ol>
 <li>how to measure the differences between pixels, and</li>
@@ -198,11 +198,11 @@ for i in range(len(overall)):
 </tbody>
 </table>
 <p>The good news is that there isn't much difference between the counts for the two measures. However, it's hard to get a sense of what else is in this data. Time to visualize&mdash;let's plot the percentage of pixels that difference according to <em>d<sub>1</sub></em>:</p>
-<p><img src="{{site.filesurl}}/2014/03/unified.png" /></p>
+<p><img src="{{site.filesurl}}/2012/03/unified.png" /></p>
 <p>The result isn't surprising: if our upsize-downsize algorithm didn't lose any information, we'd expect no differences at all. Since rescaling is lossy, though, we see that a lot of pixels differ by small values, and only a few by large values.</p>
 <p>But there's something else in our data that could easily be missed. Look at the first dozen entries in the table above; do you see a pattern? Let's plot the scores for multiples of three separately from the scores for differences that aren't even multiples of three:</p>
-<p><img src="{{site.filesurl}}/2014/03/focus.png" /></p>
+<p><img src="{{site.filesurl}}/2012/03/focus.png" /></p>
 <p>If we do the same thing for the whole data set, we get:</p>
-<p><img src="{{site.filesurl}}/2014/03/hilo.png" /></p>
+<p><img src="{{site.filesurl}}/2012/03/hilo.png" /></p>
 <p>A moment's thought produces a hypothesis: since we have three color channels (red, green, and blue), it's possible that the rescaling algorithm is introducing a systematic bias by perturbing each channel by one as it sizes up or down. Looking at the curves for differences up to 15, that bias seems to be responsible for most of the overall difference. If we really want to measure the differences between images, we're going to have to find a way to eliminate this.</p>
 <p>I'm not going to go into how we might do that now. What I want to point out is that <em>this is not a new problem</em>. Think about the telescope that took the picture we started with. Glass lenses are subject to <a href="http://en.wikipedia.org/wiki/Chromatic_aberration">chromatic aberration</a>; telescope designers must either reshape lenses to minimize it, combine layers of different kinds of glass to correct for it, or tell the astronomer to compensate mathematically somehow. Equally, we can implement a different resizing algorithm to remove this systematic bias, or correct for it. The important thing is to think of a program as a piece of experimental apparatus, and treat it accordingly. <em>That</em> is part of what we want to teach in this course.</p>

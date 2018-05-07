@@ -364,7 +364,7 @@ so the standard layouts shared by all the lessons do this:
 i.e., they convert the `http` prefix given in `site.github.url` into `https`.
 That solved the problem for pages served from `github.io` domains,
 but not for domains using CNAME:
-GitHub even says that [they don't support HTTPS and CNAME domains](github-cname) (paragraph 3).
+GitHub even says that [they don't support HTTPS and CNAME domains][github-cname] (paragraph 3).
 I didn't spot this because I didn't think to test pages on CNAME'd domains:
 once it worked for HTTPS on GitHub,
 I assumed it would work everywhere.

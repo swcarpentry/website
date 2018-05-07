@@ -7,34 +7,40 @@ time: "23:00:00"
 category: ["Community", "Weekly Review"]
 ---
 
-##Highlights
-* The 2016 Steering Committee invites you to help organize and develop resources and activities to support our community members by proposing new initiatives in the form of [subcommittees and task forces]({{page.baseurl}}/blog/2016/04/subcommittes-taskforces.html). Full instructions on the proposal process can be found [here](https://github.com/swcarpentry/board/blob/master/subcommittees/proposal_instructions.md). The Steering Committee will gladly help! Also check out the [subcommittee listing](https://github.com/swcarpentry/board/blob/master/subcommittees/subcommittees.md) for information on existing and past subcommittees. 
-* Joint partnerships are now offered by Data Carpentry and Software Carpentry! Read the [partnership information]({{page.baseurl}}/scf/join) on how to become a partner and [get in touch](partnerships@software-carpentry.org).
+## Highlights
 
-##Vacancy
-* [Data Carpentry is hiring a Deputy Director of Assessment]({{page.baseurl}}/blog/2016/04/assessment-director-posting.html). Visit the [Data Carpentry jobs page](http://www.datacarpentry.org/jobs/) for a full job description and application procedure.
+* The 2016 Steering Committee invites you to help organize and develop resources and activities to support our community members by proposing new initiatives in the form of [subcommittees and task forces]({{site.baseurl}}/blog/2016/04/subcommittes-taskforces.html). Full instructions on the proposal process can be found [here](https://github.com/swcarpentry/board/blob/master/subcommittees/proposal_instructions.md). The Steering Committee will gladly help! Also check out the [subcommittee listing](https://github.com/swcarpentry/board/blob/master/subcommittees/subcommittees.md) for information on existing and past subcommittees. 
+* Joint partnerships are now offered by Data Carpentry and Software Carpentry! Read the [partnership information]({{site.baseurl}}/scf/join) on how to become a partner and [get in touch](mailto:partnerships@software-carpentry.org).
 
-##Events
-* Tune in to the [Software Carpentry Lab Meeting]({{page.baseurl}}/blog/2016/05/may-lab-meeting.html) on May 10th to discuss what's new and upcoming in the community. Check out the [Lab Meeting Etherpad]({{page.baseurl}}/swc-lab-meeting-2016-05-10) for the schedule and connection details. 
-* Join the worldwide [Software Carpentry Bug Barbeque on June 13](http://swcarpentry.github.io/SWC-bug-bbq/) to help fix bugs in Version 5.4 of [Software Carpentry lessons]({{page.baseurl}}/lessons/) before publication. All contributors will receive credit for your hard work with a citable object.
+## Vacancy
 
-##Conversations
+* [Data Carpentry is hiring a Deputy Director of Assessment]({{site.baseurl}}/blog/2016/04/assessment-director-posting.html). Visit the [Data Carpentry jobs page](http://www.datacarpentry.org/jobs/) for a full job description and application procedure.
+
+## Events
+
+* Tune in to the [Software Carpentry Lab Meeting]({{site.baseurl}}/blog/2016/05/may-lab-meeting.html) on May 10th to discuss what's new and upcoming in the community. Check out the [Lab Meeting Etherpad]({{site.pad_url}}/swc-lab-meeting-2016-05-10) for the schedule and connection details. 
+* Join the worldwide [Software Carpentry Bug Barbeque on June 13](http://swcarpentry.github.io/SWC-bug-bbq/) to help fix bugs in Version 5.4 of [Software Carpentry lessons]({{site.baseurl}}/lessons/) before publication. All contributors will receive credit for your hard work with a citable object.
+
+## Conversations
+
 * A recent conversation on the discuss mailing list prompted the creation of two new issues open for discussion in GitHub:
 	* How should we deal with [high-volume discussions on the mailing list](https://github.com/swcarpentry/board/issues/112)?
 	* Is the [Code of Conduct](https://github.com/swcarpentry/board/issues/111) saying what the community want/need it to say and how should it be enforced?
 
-##Videos and Books
+## Videos and Books
+
 * Greg Wilson published a video of "[things not to do while teaching](https://www.youtube.com/watch?v=-ApVt04rB4U)". The material is great to use during instructor training to demonstrate to instructor trainees what we're trying to avoid when teaching and is based on suggestions made in [this discussion on GitHub](https://www.youtube.com/watch?v=-ApVt04rB4U).
 * Support Data Carpentry by buying the book [How to Be a Modern Scientist](https://leanpub.com/modernscientist/) written by [Jeff Leek](http://www.jtleek.com/). The book includes guides for [reviewing papers](https://github.com/jtleek/reviews), [reading papers](https://github.com/jtleek/readingpapers), [career planning](https://github.com/jtleek/careerplanning), and [giving talks](https://github.com/jtleek/talkguide).
 * Iñigo Aldazabal Mensa (CSIC-UPV/EHU) provided a video of him explaining Software Carpentry in great detail at the [2016 HPC Knowledge Portal Conference](http://www.hpckp.org/index.php/conference/2016) - [Software Carpentry: teaching computing skills to researchers](https://www.youtube.com/watch?v=SQyKeMfyFKQ).
 
-##Other
-* Did you recently participate in a Software Carpentry workshop and had questions that weren't answered by the lessons? Do you teach workshops and hear questions from participants that can't be addressed by the existing materials? Please add these questions to [this post]({{page.baseurl}}/blog/2016/04/questions-answers-and-lessons.html). 
-* What have we learned from our [lesson discussion sessions]({{page.baseurl}}/blog/2016/04/discussion-session-summary.html) so far? We welcome all new instructors to provide feedback about their experience of the sessions by commenting on the post.
+## Other
+
+* Did you recently participate in a Software Carpentry workshop and had questions that weren't answered by the lessons? Do you teach workshops and hear questions from participants that can't be addressed by the existing materials? Please add these questions to [this post]({{site.baseurl}}/blog/2016/04/questions-answers-and-lessons.html). 
+* What have we learned from our [lesson discussion sessions]({{site.baseurl}}/blog/2016/04/discussion-session-summary.html) so far? We welcome all new instructors to provide feedback about their experience of the sessions by commenting on the post.
 * Aleksandra Pawlik recently blogged about her experience when she visited South Africa for the [first face-to-face Software and Data Carpentry Instructor Training in Africa](http://www.software.ac.uk/blog/2016-04-26-supporting-research-software-south-africa-and-africa?bw). 
-* Planning on running a Software Carpentry workshop with R? Read how three sticky notes and chocolates helped participants in the [Sotware Carpentry workshop at Griffith University]({{page.baseurl}}/blog/2016/05/griffith-uni-r.html).
+* Planning on running a Software Carpentry workshop with R? Read how three sticky notes and chocolates helped participants in the [Sotware Carpentry workshop at Griffith University]({{site.baseurl}}/blog/2016/05/griffith-uni-r.html).
 * Staff members from iDigBio gave [their perspective](https://www.idigbio.org/content/software-carpentry-idigbio-staff-perspective) on attending a Software Carpentry workshop. They encourage all researchers who'd like to work with the iDigBio datasets to particpipate in a workshop near them or request one at their own institution.
-* 16 workshops were run over the past 16 days. For more information about past workshops, please visit our [website]({{page.baseurl}}/workshops/past/). 
+* 16 workshops were run over the past 16 days. For more information about past workshops, please visit our [website]({{site.baseurl}}/workshops/past/). 
 * Upcoming Workhshops
   * May:
     [University of Toronto](https://uoftcoders.github.io/2016-05-09-utoronto/),
@@ -53,7 +59,7 @@ category: ["Community", "Weekly Review"]
     [McMaster University - Kenneth Taylor Hall (KTH) B121](https://computecanada.github.io/2016-05-24-mcmaster/),
     [Colorado Special Libraries Association @ CU Boulder](https://mperignon.github.io/2016-05-25-culibraries/),
     [Lund University](https://alexsavio.github.io/2016-05-25-lunduni/),
-    [National Institutes of Health](http://software-carpentry.org/workshops/datacarpentry.github.io/2016-05-26-NIH/),
+    [National Institutes of Health](http://datacarpentry.github.io/2016-05-26-NIH/),
     [National Institute of Standards and Technology](https://pages.nist.gov/2016-05-26-nist/),
     [South Florida Water Management District](https://jsta.github.io/2016-05-26-sfwmd/),
     [University of Toronto](https://uoftcoders.github.io/2016-05-26-utoronto/),

@@ -12,7 +12,7 @@ category: ["Community"]
 * The very [first ever Data Carpentry]({{site.baseurl}}/blog/2017/09/ethiopia.html) in Ethiopia was held and it was an extraordinary experience.
 * The [Lesson Infrastructure Subcommittee]({{site.baseurl}}/blog/2017/09/lesson-infrastructure-subcommittee.html) had their 2017 September meeting and have come up with some resolutions.
 * We are pleased to anounce we have three new staff members who will be working for the Carpentries part time: [SherAaron Hurt]({{site.baseurl}}/blog/2017/09/announce-sher.html) is the new Workshop Adminstrator for the Carpentries, [Elizabeth Williams]({{site.baseurl}}/blog/2017/09/new-staff-intro.html) has joined as a part-time Business Administrator, and [Karen Word]({{site.baseurl}}/blog/2017/09/new-staff-intro.html) has joined the Carpentries and will be the Deputy Director of Instructor training.
-* If you feel there is a community member who is working extra hard to help our organization, please consider nominating them for a [Community Service Award]({{site.baseurl}}/log/2017/09/community-awards.html).
+* If you feel there is a community member who is working extra hard to help our organization, please consider nominating them for a [Community Service Award]({{site.baseurl}}/blog/2017/09/community-awards.html).
 * 
 
 ## Tweets

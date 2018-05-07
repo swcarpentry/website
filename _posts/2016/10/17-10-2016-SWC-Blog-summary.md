@@ -36,7 +36,7 @@ category: ["Community"]
 * Instructors dicuss some issues with attendance at the [New Zealand]({{site.baseurl}}/blog/2016/09/attendance-nz.html) workshops.
 * A tale of how SWC brought [three instructors]({{site.baseurl}}/blog/2016/09/perth.html) together.
 * We are working on a lesson to teach [Python]({{site.baseurl}}/blog/2016/10/python-as-a-second-language.html) to people who are already comforatble with another programming language.
-* ESIP would appreciate any input or feedback on their guidelines for the [earth observation and geosciences]({{site.baseurl}}/blog/2016/10/esip-review.htmll) communities.
+* ESIP would appreciate any input or feedback on their guidelines for the [earth observation and geosciences]({{site.baseurl}}/blog/2016/10/esip-review.html) communities.
 * The tools we use may be perceived differently by [men and woman]({{site.baseurl}}/blog/2016/09/two-studies-of-online-communities.html).
 * A [new book]({{site.baseurl}}/blog/2016/10/and-now-there-are-three.html) that covers almost all the SWC materials have been released.
 * Dr. Beth Duckles gave an interesting talk about ["The Practice of Measuring"]({{site.baseurl}}/blog/2016/10/practice-of-measuring.html).

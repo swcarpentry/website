@@ -150,4 +150,4 @@ that identifies five principles for selecting a programming language for learner
 
 ---   
 
-Michael Kölling and Fraser McKay: "[Heuristic Evaluation for Novice Programming Systems]((https://kar.kent.ac.uk/55885/1/kolling-heuristics-submitted.pdf))". *ACM Transactions on Computing Education*, 16(3), June 2016, 10.1145/2872521.
+Michael Kölling and Fraser McKay: "[Heuristic Evaluation for Novice Programming Systems](https://kar.kent.ac.uk/55885/1/kolling-heuristics-submitted.pdf)". *ACM Transactions on Computing Education*, 16(3), June 2016, 10.1145/2872521.

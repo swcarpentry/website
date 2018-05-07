@@ -24,6 +24,6 @@ To ensure a transparent process is followed for selection of candidates we have 
 
 For more information about the workshop please visit the [NWU eResearch website](http://www.nwu.ac.za/eresearch/news/the-first-software-data-carpentry-instructor-training-workshop).
 
-If you’d like to learn more about the extended 12 month programme, please contact [Anelda van der Walt](anelda.vdwalt@gmail.com)
+If you’d like to learn more about the extended 12 month programme, please contact [Anelda van der Walt](mailto:anelda.vdwalt@gmail.com)
 
 

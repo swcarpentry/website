@@ -32,7 +32,7 @@ category: ["Community"]
     [Boston College Libraries, National Networks of Libraries of Medicine, New England Region](https://iglpdc.github.io/2016-03-07-bc/),
     [Alaska Fisheries Science Center / National Marine Fisheries Service](https://rachelss.github.io/2016-03-02-NMFS-Seattle/),
     [Calcul Québec, Université Laval](https://computecanada.github.io/2016-03-01-Universite-Laval/),
-    [UC Berkeley](http://software-carpentry.org/workshops/datacarpentry.github.io/2016-03-03-ucmp/),
+    [UC Berkeley](http://datacarpentry.github.io/2016-03-03-ucmp/),
     [Notre Dame](https://fmichonneau.github.io/2016-03-07-notre-dame/),
     [University of Connecticut](https://jrherr.github.io/2016-03-07-uconn/),
     [The Genome Analysis Centre (TGAC)](https://mattdrew.github.io/2016-03-08-TGAC/),
