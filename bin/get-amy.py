@@ -7,9 +7,14 @@ import sys
 import time
 import datetime
 import ssl
-import urllib.request
+import requests
 import urllib.parse
 import yaml
+import os
+
+AMY_USER=os.environ['AMY_USER']
+AMY_PASS=os.environ['AMY_PASS']
+
 
 
 def handle_args():
@@ -96,28 +101,15 @@ def main(amy_url, output_file, tags, all_=True):
         # We assume `output_file` is a file-like object.
         yaml.dump(config, output_file, encoding='utf-8', allow_unicode=True)
 
-
+    
 def fetch_info(base_url, url, tags=None):
-    '''Download and save data.'''
-
     address = base_url + url
-
-    # Consider filtering by tags.
     if tags:
         query_params = [('tag', tag) for tag in tags]
         query = urllib.parse.urlencode(query_params)
         address = '{address}?{query}'.format(address=address, query=query)
 
-    which_python = sys.version_info[:3]
-    if which_python <= (3, 4, 2):
-        with urllib.request.urlopen(address) as f:
-            content = f.read()
-    else:
-        ssl_context = ssl.SSLContext(ssl.PROTOCOL_SSLv23)
-        with urllib.request.urlopen(address, context=ssl_context) as f:
-                content = f.read()
-
-    return yaml.load(content.decode('utf-8'))
+    return yaml.load(requests.get(address, auth=(AMY_USER,AMY_PASS)).text)
 
 
 def split_workshops(workshops, today):
