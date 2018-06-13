@@ -57,8 +57,8 @@ do so according to the following criteria:
     require that lessons be created from scratch, and in fact prefer
     contributors to recycle materials they have tested in the
     classroom so long as they meet licensing stipulations. We do
-    require that lessons use our [templates]({{site.github_io_url}}/lesson-example/)
-    and [teaching style]({{site.github_io_url}}/instructor-training/).
+    require that lessons use our [templates]({{site.carp_gh_io_url}}/lesson-example/)
+    and [teaching style]({{site.carp_gh_io_url}}/instructor-training/).
 
 Data Carpentry and Software Carpentry’s Steering Committees may make
 exceptions to these requirements in special cases, but such exceptions

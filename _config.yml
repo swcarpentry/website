@@ -5,7 +5,7 @@
 # - https://github.com/jekyll/jekyll-redirect-from
 #
 
-gems:
+plugins:
   - jekyll-redirect-from
   - jekyll-paginate
 
@@ -68,6 +68,7 @@ flag_size       : 16
 v4_url          : "https://v4.software-carpentry.org"
 releases_io_url : "http://swcarpentry.github.io/swc-releases"
 training_url    : "http://carpentries.github.io/instructor-training"
+carp_gh_io_url  : "http://carpentries.github.io"
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
