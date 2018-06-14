@@ -27,8 +27,9 @@ for links to their repositories.
 ## Setup <a name="setup"></a>
 
 The website uses [Jekyll](http://jekyllrb.com/), a static website generator written in Ruby.
-You need to have Version 2.0.0 or higher of Ruby and the package manager Bundler.
-(The package manager is used to make sure you use exactly the same versions of software as GitHub Pages.)
+You need to have Version 2.1.0 or higher of Ruby and the package manager Bundler (The package manager is used to make sure you use exactly the same versions of software as GitHub Pages).
+Bundler be installed with `$ gem install bundler`.
+If you are on Linux, you will need to install the Ruby header files (e.g., `$ sudo apt-get install ruby-dev` on Debian/Ubuntu).
 After checking out the repository, please run:
 
 ```
