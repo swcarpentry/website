@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Blog Post by Category"
 permalink: "/blog/categories/"
 ---
-{% assign catnames = (site.categories | sort:0) %}
+{% assign catnames = site.categories | sort %}
 
 <table class="table table-striped" width="100%">
 {% for category in catnames %}
