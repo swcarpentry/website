@@ -16,7 +16,8 @@ make dashboard
 make includes
 
 # Rebuild the site.
-jekyll build
+bundle update &&
+    bundle exec jekyll build
 
 # Install.
 rm -rf ~/sites/software-carpentry.org/*
