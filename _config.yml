@@ -5,15 +5,10 @@
 # - https://github.com/jekyll/jekyll-redirect-from
 #
 
-plugins:
-  - jekyll-redirect-from
+gems:
   - jekyll-paginate
-
-whitelist:
   - jekyll-redirect-from
 
-plugins_dir:
-  - jekyll-redirect-from
 
 #
 #      _____ _ __          _____      __  __  _                 
