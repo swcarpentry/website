@@ -25,7 +25,7 @@ title: "Software Carpentry"
 slogan: "Teaching Basic Lab Skills for Scientific Computing"
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "Software Carpentry is a volunteer non-profit organization dedicated to teaching basic computing skills to researchers."
+description: "Software Carpentry is a volunteer project dedicated to teaching basic computing skills to researchers."
 
 # Main author of the website
 # See > authors.yml
