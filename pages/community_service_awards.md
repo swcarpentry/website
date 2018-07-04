@@ -51,3 +51,4 @@ as when the proposal will receive consideration).
 ## Past Awardees
 
 * [2016](https://software-carpentry.org/blog/2016/12/community-service-awards.html)
+* [2017](https://software-carpentry.org/blog/2017/12/csa-awarded.html)
