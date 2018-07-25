@@ -14,7 +14,7 @@ excerpt: dashboard for lesson status
       <tr>
         <th colspan="3">Pull Requests</th>
       </tr>
-      {% for i in record.pulls %}
+      {% for i in record.pulls reversed %}
       <tr>
         <td width="5%"><a href="{{i.url}}">{{i.number}}</a></td>
         <td width="10%">{{i.updated}}</td>
@@ -29,7 +29,7 @@ excerpt: dashboard for lesson status
       <tr>
         <th colspan="3">Issues</th>
       </tr>
-      {% for i in record.issues %}
+      {% for i in record.issues reversed %}
       <tr>
         <td width="5%"><a href="{{i.url}}">{{i.number}}</a></td>
         <td width="10%">{{i.updated}}</td>
