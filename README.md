@@ -32,6 +32,8 @@ Bundler can be installed with `$ gem install bundler`.
 If you are on Linux, you will need to install the Ruby header files (e.g., `$ sudo apt-get install ruby-dev` on Debian/Ubuntu).
 After checking out the repository, please run:
 
+**Alternative Method**: If you have Docker installed on your system, you may be able to use the `make dockerbuild` and `make dockerserve` targets. These `Makefile` targets will install all Jekyll dependencies into the folder `vendor/` and build/serve the website respectively.
+
 ```
 $ bundle install
 ```
