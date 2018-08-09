@@ -1,5 +1,7 @@
 PY=python3
 
+current_dir = $(shell pwd)
+
 all : commands
 
 ## commands   : show all commands.
@@ -22,9 +24,16 @@ includes :
 serve : 
 	bundle exec jekyll serve --config _config.yml,_config_dev.yml --future
 
+dockerserve:
+	docker run --rm --volume="${current_dir}:/srv/jekyll" --volume="${current_dir}/vendor/bundle:/usr/local/bundle" -i jekyll/jekyll:3. 8 jekyll serve --config _config.yml,_config_dev.yml --future
+
 ## site       : build files but do not run a server.
 site : 
 	bundle exec jekyll build --incremental
+
+## dockersite : using Docker jekyll for dependencies
+dockersite:
+	docker run --rm --volume="${current_dir}:/srv/jekyll" --volume="${current_dir}/vendor/bundle:/usr/local/bundle" -i jekyll/jekyll:3.8  jekyll build
 
 ## install    : install missing Ruby gems using bundle.
 install :

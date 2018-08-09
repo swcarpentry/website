@@ -3,4 +3,5 @@ _site/
 *~
 .DS_Store
 .jekyll-metadata
-Gemfile.lock
+`Gemfile.lock
+vendor/*
