@@ -9,7 +9,7 @@
   - title: "About Us"
     url: "/about/"
   - title: "FAQ"
-    url: "/faq/"
+    url: "https://info.carpentries.org/"
   - title: "Code of Conduct"
     url: "/conduct/"
   - title: "Software Carpentry Foundation"
