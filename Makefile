@@ -25,7 +25,7 @@ serve :
 	bundle exec jekyll serve --config _config.yml,_config_dev.yml --future
 
 dockerserve:
-	docker run --rm --volume="${current_dir}:/srv/jekyll" --volume="${current_dir}/vendor/bundle:/usr/local/bundle" -i jekyll/jekyll:3. 8 jekyll serve --config _config.yml,_config_dev.yml --future
+	docker run --rm --volume="${current_dir}:/srv/jekyll" --volume="${current_dir}/vendor/bundle:/usr/local/bundle" -p 127.0.0.1:4000:4000/tcp -it jekyll/jekyll:3.8 jekyll serve --config _config.yml,_config_dev.yml --future
 
 ## site       : build files but do not run a server.
 site : 
