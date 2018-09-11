@@ -31,8 +31,8 @@
   dropdown:
   - title: "Our Workshops"
     url: "/workshops/"
-  - title: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
-    url: "/conduct/"
+  - title: "Code of Conduct"
+    url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
   - title: "Request a Workshop"
     url: "/workshops/request/"
   - title: "Pitching a Workshop"
