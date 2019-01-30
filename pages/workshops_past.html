@@ -23,11 +23,11 @@ excerpt: listing of all our past workshops
 </div>
 
 <table class="table table-striped workshops">
-  {% for w in site.data.amy.workshops_past reversed %}
+  {% for w in site.data.SWC_past_workshops_plain %}
   <tr>
-    <td><img src="{{site.filesurl}}/flags/{{site.flag_size}}/{{w.country}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' '}}" /></td>
+    <td><img src="{{site.filesurl}}/flags/{{site.flag_size}}/{{w.country | downcase}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' '}}" /></td>
     <td class="link"><a href="{{w.url}}">{{w.venue}}</a></td>
-    <td class="date">{{w.humandate}}</td>
+    <td class="date">{{w.start_date | date: "%b %-d"}} - {{w.end_date | date: "%b %-d, %Y"}}</td>
   </tr>
   {% endfor %}
 </table>
