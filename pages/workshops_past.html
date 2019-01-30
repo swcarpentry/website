@@ -10,9 +10,11 @@ excerpt: listing of all our past workshops
 ---
 <div id="map_canvas" style="width: 98%; height: 500px; margin-left:auto; margin-right: auto; margin-bottom: 15px"></div>
 
+{% assign flags = site.data.SWC_past_workshops_plain | group_by: "country" | map: "name"  %}
+
 <div style="text-align: center; margin-bottom: 15px">
-  {% for flag in site.data.amy.flags.workshops %}
-    <img src="{{site.filesurl}}/flags/32/{{flag}}.png" title="{{flag | replace: '-',' '}}" alt="{{flag | replace: '-',' '}}" />
+  {% for flag in flags %}
+  <img src="{{site.filesurl}}/flags/32/{{flag | downcase }}.png" title="{{flag | replace: '-',' ' | downcase }}" alt="{{flag | replace: '-',' '}}" />
     {% unless forloop.last %}
       {% assign loopindex = forloop.index0 | modulo: 16 %}
       {% if loopindex == 15 %}
