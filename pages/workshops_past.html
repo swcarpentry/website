@@ -8,9 +8,22 @@ redirect_from:
   - /workshops/previous.html
 excerpt: listing of all our past workshops
 ---
-<div id="map_canvas" style="width: 98%; height: 500px; margin-left:auto; margin-right: auto; margin-bottom: 15px"></div>
+
+{% assign first_workshop_date = site.data.SWC_past_workshops_plain | group_by: "start_date" | sort: "name" | map: "name" | first %}
+
+{% assign n_workshops = site.data.SWC_past_workshops_plain | size %}
 
 {% assign flags = site.data.SWC_past_workshops_plain | group_by: "country" | sort: "name" | map: "name"  %}
+
+{% assign n_countries = flags | size %}
+
+
+<div>
+ Since {{ first_workshop_date | date_to_long_string }}, we have run {{ n_workshops }} workshops in {{ n_countries }} countries.
+</div>
+
+
+<div id="map_canvas" style="width: 98%; height: 500px; margin-left:auto; margin-right: auto; margin-bottom: 15px"></div>
 
 <div style="text-align: center; margin-bottom: 15px">
   {% for flag in flags %}
