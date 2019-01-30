@@ -10,7 +10,7 @@ excerpt: listing of all our past workshops
 ---
 <div id="map_canvas" style="width: 98%; height: 500px; margin-left:auto; margin-right: auto; margin-bottom: 15px"></div>
 
-{% assign flags = site.data.SWC_past_workshops_plain | group_by: "country" | map: "name"  %}
+{% assign flags = site.data.SWC_past_workshops_plain | group_by: "country" | sort: "name" | map: "name"  %}
 
 <div style="text-align: center; margin-bottom: 15px">
   {% for flag in flags %}
