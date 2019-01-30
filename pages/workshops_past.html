@@ -24,7 +24,7 @@ excerpt: listing of all our past workshops
   {% endfor %}
 </div>
 
-<table class="table table-striped workshops">
+<table class="table table-striped workshops" style="width: 100%;">
   {% for w in site.data.SWC_past_workshops_plain %}
   <tr>
     <td><img src="{{site.filesurl}}/flags/{{site.flag_size}}/{{w.country | downcase}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' '}}" /></td>
