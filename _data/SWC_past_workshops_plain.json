@@ -17,12 +17,12 @@
     "end_date": "2019-01-27",
     "url": "https://julesfowler.github.io/2019-01-26-nyas-Python/",
     "country": "US",
-    "instructors": "Julia Fowler,Katie Moore",
+    "instructors": "Julia Fowler,Katie Moore,Jennifer Shelton",
     "venue": "The New York Academy of Sciences",
     "longitude": -66.37021,
     "slug": "2019-01-26-nyas-Python",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Esther Jackson",
     "host_name": "New York Academy of Sciences",
     "latitude": 45.25876,
     "start_date": "2019-01-26"
@@ -120,7 +120,7 @@
     "longitude": -122.330025,
     "slug": "2019-01-22-fredhutch",
     "tag_name": "SWC",
-    "helpers": "Michael Gutteridge",
+    "helpers": "Michael Gutteridge,Dane Gellerup",
     "host_name": "Fred Hutchinson Cancer Research Center",
     "latitude": 47.628251,
     "start_date": "2019-01-22"
@@ -246,7 +246,7 @@
     "longitude": -95.246741,
     "slug": "2019-01-16-gpn",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Mark Holder,Miloche Kottman,Andrea Pitt,Greta Valentine",
     "host_name": "University of Kansas",
     "latitude": 38.95487,
     "start_date": "2019-01-16"
@@ -260,7 +260,7 @@
     "longitude": -89.410268,
     "slug": "2019-01-16-uwmadison-dc",
     "tag_name": "SWC",
-    "helpers": "Patrick Shriwise,Sailendharan Sudakaran,Kaitlin Gold,Kim O'Keefe",
+    "helpers": "Patrick Shriwise,Sailendharan Sudakaran,Kim O'Keefe,Sarah Graves,Heather Shimon",
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.0729163,
     "start_date": "2019-01-16"
@@ -274,7 +274,7 @@
     "longitude": -93.243016,
     "slug": "2019-01-15-umn",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Nick Dunn",
     "host_name": "University of Minnesota",
     "latitude": 44.973167,
     "start_date": "2019-01-15"
@@ -980,20 +980,6 @@
     "start_date": "2018-10-22"
   },
   {
-    "end_date": "2018-10-19",
-    "url": "https://sriharisundar.github.io/2018-10-18-jcsu/",
-    "country": "FI",
-    "instructors": "Srihari Sundar,Jacob Koehler",
-    "venue": "Johnson C. Smith University",
-    "longitude": null,
-    "slug": "2018-10-18-jcsu",
-    "tag_name": "SWC",
-    "helpers": "Monika Rhue,Sandra Phoenix",
-    "host_name": "Johnson C. Smith University",
-    "latitude": null,
-    "start_date": "2018-10-18"
-  },
-  {
     "end_date": "2018-10-18",
     "url": "https://vickysteeves.github.io/2018-10-18-nyu/",
     "country": "US",
@@ -1185,6 +1171,20 @@
     "slug": "2018-10-01-UW-swc",
     "tag_name": "SWC",
     "helpers": "Chad Curtis,Ariel Rokem,Wu-Jung Lee,Callin Switzer,Yee Mey Seah,Colin Dietrich",
+    "host_name": "University of Washington",
+    "latitude": 47.606209,
+    "start_date": "2018-10-01"
+  },
+  {
+    "end_date": "2018-10-04",
+    "url": "https://uwescience.github.io/2019-01-15-uw/",
+    "country": "US",
+    "instructors": "Chad Curtis,Michael Beyeler,Meredith Rawls,Colin Dietrich,Daniel McCloy",
+    "venue": "The University of Washington eScience Institute",
+    "longitude": -122.332071,
+    "slug": "2019-01-15-uw",
+    "tag_name": "SWC",
+    "helpers": "Eleanor Lutz,Chad Curtis",
     "host_name": "University of Washington",
     "latitude": 47.606209,
     "start_date": "2018-10-01"
