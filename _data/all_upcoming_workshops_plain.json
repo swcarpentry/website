@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-02-05",
-    "url": "https://taylorreiter.github.io/2019-02-04-boston/",
-    "country": "US",
-    "instructors": "Taylor Reiter,Sebastien Vigneau",
-    "venue": "Boston University",
-    "longitude": -71.060886,
-    "slug": "2019-02-04-boston",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Data Carpentry",
-    "latitude": 42.378044,
-    "start_date": "2019-02-04"
-  },
-  {
     "end_date": "2019-02-08",
     "url": "https://swc-uiuc.github.io/2019-02-07-illinois/",
     "country": "US",
