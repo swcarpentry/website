@@ -185,7 +185,7 @@
     "end_date": "2019-03-01",
     "url": "https://aseveritt.github.io/2019-02-28-UCSF/",
     "country": "US",
-    "instructors": "Amanda Everitt Amanda Everitt",
+    "instructors": "Amanda Everitt",
     "venue": "IND-UCSF",
     "longitude": -122.391498,
     "slug": "2019-02-28-UCSF",
@@ -407,6 +407,20 @@
   },
   {
     "end_date": "2019-02-08",
+    "url": "https://swang8.github.io/2019-01-24-tamu/",
+    "country": "US",
+    "instructors": "Noushin Ghaffari,David Bapst,Ramalingam Saravanan,Shichen Wang",
+    "venue": "Texas A&M University",
+    "longitude": -96.334404,
+    "slug": "2019-01-24-tamu",
+    "tag_name": "SWC",
+    "helpers": "Jian Tao",
+    "host_name": "Texas A&M University",
+    "latitude": 30.627977,
+    "start_date": "2019-02-07"
+  },
+  {
+    "end_date": "2019-02-08",
     "url": "https://swc-uiuc.github.io/2019-02-07-illinois/",
     "country": "US",
     "instructors": "Madicken Munk,Lindsay Clark",
@@ -460,6 +474,20 @@
     "host_name": "King's College London",
     "latitude": 40.832726,
     "start_date": "2019-02-06"
+  },
+  {
+    "end_date": "2019-02-06",
+    "url": "https://nioo-knaw.github.io/2019-02-05-wageningen-genomics/",
+    "country": "NL",
+    "instructors": "Like Fokkens,Mattias de Hollander,Marc Galland",
+    "venue": "Wageningen Univeristy & Research (WUR)",
+    "longitude": 5.66364,
+    "slug": "2019-02-05-wageningen-genomics",
+    "tag_name": "DC",
+    "helpers": "Miaomiao Zhao",
+    "host_name": "Wageningen University & Research",
+    "latitude": 51.98527,
+    "start_date": "2019-02-05"
   },
   {
     "end_date": "2019-02-05",
@@ -628,20 +656,6 @@
     "host_name": "George Mason University",
     "latitude": 38.888309,
     "start_date": "2019-01-25"
-  },
-  {
-    "end_date": "2019-01-25",
-    "url": "https://swang8.github.io/2019-01-24-tamu/",
-    "country": "US",
-    "instructors": "Noushin Ghaffari,David Bapst,Ramalingam Saravanan,Shichen Wang",
-    "venue": "Texas A&M University",
-    "longitude": -96.334404,
-    "slug": "2019-01-24-tamu",
-    "tag_name": "SWC",
-    "helpers": "Jian Tao",
-    "host_name": "Texas A&M University",
-    "latitude": 30.627977,
-    "start_date": "2019-01-24"
   },
   {
     "end_date": "2019-01-25",
