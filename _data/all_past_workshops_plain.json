@@ -1,5 +1,47 @@
 [
   {
+    "end_date": "2019-02-15",
+    "url": "https://anacost.github.io/2019-02-14-elixir-milano/",
+    "country": "IT",
+    "instructors": "Ana Costa Conrado,MONAH ABOU ALEZZ",
+    "venue": "University Milano-Bicocca",
+    "longitude": 9.21341,
+    "slug": "2019-02-14-elixir-milano",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": 45.51729,
+    "start_date": "2019-02-14"
+  },
+  {
+    "end_date": "2019-02-15",
+    "url": "https://swc-uiuc.github.io/2019-02-14-illinois/",
+    "country": "US",
+    "instructors": "Stuti Shrivastava",
+    "venue": "University of Illinois",
+    "longitude": -88.2271851,
+    "slug": "2019-02-14-illinois",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "National Center for Supercomputing Applications, University of Illinois at Urbana–Champaign",
+    "latitude": 40.1149832,
+    "start_date": "2019-02-14"
+  },
+  {
+    "end_date": "2019-02-15",
+    "url": "http://sarahlrstevens.info/2019-02-14-ttt-online-EST/",
+    "country": "W3",
+    "instructors": "Greg Wilson,Greg Wilson,Sarah Stevens,Sarah Stevens",
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2019-02-14-ttt-online-EST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": -48.876667,
+    "start_date": "2019-02-14"
+  },
+  {
     "end_date": "2019-02-14",
     "url": "https://amyehodge.github.io/2019-02-13-ttt-stanford/",
     "country": "US",
@@ -12,6 +54,34 @@
     "host_name": "Software Carpentry",
     "latitude": 37.426666,
     "start_date": "2019-02-13"
+  },
+  {
+    "end_date": "2019-02-13",
+    "url": "https://bio-swc-bne.github.io/2019-02-12-GriffithUni-R/",
+    "country": "AU",
+    "instructors": "Amanda Miotto",
+    "venue": "Griffith University",
+    "longitude": 153.378868,
+    "slug": "2019-02-12-GriffithUni-R",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.960345,
+    "start_date": "2019-02-12"
+  },
+  {
+    "end_date": "2019-02-15",
+    "url": "https://mchiapello.github.io/2019-02-11-Naples/",
+    "country": "IT",
+    "instructors": "Wagner Barløse Mathias,Marco Chiapello",
+    "venue": "National Research Council",
+    "longitude": 14.224429,
+    "slug": "2019-02-11-Naples",
+    "tag_name": "SWC",
+    "helpers": "Dario Righelli",
+    "host_name": "ELIXIR-UK",
+    "latitude": 40.855535,
+    "start_date": "2019-02-11"
   },
   {
     "end_date": "2019-02-12",

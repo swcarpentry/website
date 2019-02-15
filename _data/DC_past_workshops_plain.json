@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-02-15",
+    "url": "https://anacost.github.io/2019-02-14-elixir-milano/",
+    "country": "IT",
+    "instructors": "Ana Costa Conrado,MONAH ABOU ALEZZ",
+    "venue": "University Milano-Bicocca",
+    "longitude": 9.21341,
+    "slug": "2019-02-14-elixir-milano",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": 45.51729,
+    "start_date": "2019-02-14"
+  },
+  {
     "end_date": "2019-02-07",
     "url": "https://alevigi.github.io/2019-2-6-SZN/",
     "country": "IT",

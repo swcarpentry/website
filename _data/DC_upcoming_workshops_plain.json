@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-02-15",
-    "url": "https://anacost.github.io/2019-02-14-elixir-milano/",
-    "country": "IT",
-    "instructors": "Ana Costa Conrado,MONAH ABOU ALEZZ",
-    "venue": "University Milano-Bicocca",
-    "longitude": 9.21341,
-    "slug": "2019-02-14-elixir-milano",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "ELIXIR-UK",
-    "latitude": 45.51729,
-    "start_date": "2019-02-14"
-  },
-  {
     "end_date": "2019-03-01",
     "url": "https://rmflight.github.io/2019-02-28-wrightstateu/",
     "country": "US",
@@ -40,6 +26,20 @@
     "host_name": "Earlham Institute",
     "latitude": 52.621741,
     "start_date": "2019-03-05"
+  },
+  {
+    "end_date": "2019-03-13",
+    "url": "https://butterflyology.github.io/2019-03-12-carnegie/",
+    "country": "US",
+    "instructors": "Chris Hamm",
+    "venue": "Carnegie Mellon University",
+    "longitude": null,
+    "slug": "2019-03-12-carnegie",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Carnegie Mellon University",
+    "latitude": null,
+    "start_date": "2019-03-12"
   },
   {
     "end_date": "2019-05-14",

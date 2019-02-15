@@ -126,6 +126,20 @@
     "start_date": "2019-03-26"
   },
   {
+    "end_date": "2019-03-17",
+    "url": "https://jennifershelton.github.io/2019-03-16-stony-brook/",
+    "country": "US",
+    "instructors": "Jennifer Shelton,JIANJUN HUA",
+    "venue": "Stony Brook University",
+    "longitude": null,
+    "slug": "2019-03-16-stony-brook",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Stony Brook University",
+    "latitude": null,
+    "start_date": "2019-03-16"
+  },
+  {
     "end_date": "2019-04-19",
     "url": "https://broadwym.github.io/2019-03-15-vanderbilt/",
     "country": "US",
@@ -138,6 +152,20 @@
     "host_name": "Vanderbilt University",
     "latitude": 36.14743,
     "start_date": "2019-03-15"
+  },
+  {
+    "end_date": "2019-03-13",
+    "url": "https://butterflyology.github.io/2019-03-12-carnegie/",
+    "country": "US",
+    "instructors": "Chris Hamm",
+    "venue": "Carnegie Mellon University",
+    "longitude": null,
+    "slug": "2019-03-12-carnegie",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Carnegie Mellon University",
+    "latitude": null,
+    "start_date": "2019-03-12"
   },
   {
     "end_date": "2019-03-12",
@@ -362,6 +390,20 @@
     "host_name": "Software Carpentry",
     "latitude": 37.426666,
     "start_date": "2019-02-13"
+  },
+  {
+    "end_date": "2019-02-13",
+    "url": "https://bio-swc-bne.github.io/2019-02-12-GriffithUni-R/",
+    "country": "AU",
+    "instructors": "Amanda Miotto",
+    "venue": "Griffith University",
+    "longitude": 153.378868,
+    "slug": "2019-02-12-GriffithUni-R",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.960345,
+    "start_date": "2019-02-12"
   },
   {
     "end_date": "2019-02-15",
