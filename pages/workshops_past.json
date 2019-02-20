@@ -6,7 +6,7 @@ permalink: /workshops_past.json
 {
   "type": "FeatureCollection",
   "features": [
-  {% for workshop in site.data.amy.workshops_past %}
+  {% for workshop in site.data.SWC_past_workshops_plain %}
     {% unless workshop.longitude == NULL or workshop.latitude == NULL %}
       {% if first == true %}
         {% assign first = false %}
