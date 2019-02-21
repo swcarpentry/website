@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-02-21",
-    "url": "https://gwu-libraries.github.io/2019-02-20-carpentry/",
-    "country": "US",
-    "instructors": "Jason Hurlburt,Jason Hurlburt,Daniel Kerchner,Daniel Kerchner,Laura Wrubel,Laura Wrubel",
-    "venue": "George Washington University",
-    "longitude": -77.048386,
-    "slug": "2019-02-20-carpentry",
-    "tag_name": "SWC,DC",
-    "helpers": "Megan Potterbusch,Megan Potterbusch",
-    "host_name": "George Washington University",
-    "latitude": 38.899233,
-    "start_date": "2019-02-20"
-  },
-  {
     "end_date": "2019-02-22",
     "url": "https://brockdsl.github.io/2019-02-21-BrockU/",
     "country": "CA",
