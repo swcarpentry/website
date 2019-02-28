@@ -280,6 +280,20 @@
     "start_date": "2019-01-26"
   },
   {
+    "end_date": "2019-01-27",
+    "url": "https://timothylwarren.github.io/2019-01-26-swarthmore/",
+    "country": "US",
+    "instructors": "Timothy Warren,Nihan Pol",
+    "venue": "Swarthmore College",
+    "longitude": -75.352318,
+    "slug": "2019-01-26-swarthmore",
+    "tag_name": "SWC",
+    "helpers": "Paul Jacobs,Adam Light",
+    "host_name": "Swarthmore College",
+    "latitude": 39.904034,
+    "start_date": "2019-01-26"
+  },
+  {
     "end_date": "2019-01-25",
     "url": "https://unt-carpentries.github.io/2019-01-24-unt-swc/",
     "country": "US",
