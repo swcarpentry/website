@@ -182,6 +182,20 @@
     "start_date": "2019-03-21"
   },
   {
+    "end_date": "2019-03-21",
+    "url": "https://jcoliver.github.io/2019-03-20-ttt-online_PST/",
+    "country": "",
+    "instructors": "Kate Hertweck,Kate Hertweck,Jeffrey Oliver,Jeffrey Oliver",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-03-20-ttt-online_PST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-03-20"
+  },
+  {
     "end_date": "2019-03-20",
     "url": "https://paris-swc.github.io/2019-03-19-inria-saclay",
     "country": "FR",
@@ -193,6 +207,20 @@
     "helpers": null,
     "host_name": "INRIA (Paris)",
     "latitude": 48.7145,
+    "start_date": "2019-03-19"
+  },
+  {
+    "end_date": "2019-03-20",
+    "url": "https://mbonsma.github.io/2019-03-19-oxford/",
+    "country": "US",
+    "instructors": "Jielai Zhang,Madeleine Bonsma-Fisher,Yo Yehudi",
+    "venue": "University of Oxford",
+    "longitude": -1.215058,
+    "slug": "2019-03-19-oxford",
+    "tag_name": "SWC",
+    "helpers": "Jielai Zhang,Madeleine Bonsma-Fisher,Yo Yehudi",
+    "host_name": "University of Oxford",
+    "latitude": 51.7517961,
     "start_date": "2019-03-19"
   },
   {
@@ -518,6 +546,20 @@
     "start_date": "2019-02-21"
   },
   {
+    "end_date": "2019-02-21",
+    "url": "https://bham-carpentries.github.io/2019-02-18-bham/",
+    "country": "GB",
+    "instructors": "Andris Jankevics,Laurence Hurst",
+    "venue": "University of Birmingham",
+    "longitude": -1.935646,
+    "slug": "2019-02-18-bham",
+    "tag_name": "SWC",
+    "helpers": "Cerys Lewis,Simon Hartley",
+    "host_name": "University of Birmingham",
+    "latitude": 52.450693,
+    "start_date": "2019-02-18"
+  },
+  {
     "end_date": "2019-02-17",
     "url": "https://mckays630.github.io/2019-02-16-stonybrook-Python/",
     "country": "US",
@@ -627,6 +669,20 @@
     "helpers": "Dario Righelli,Eugenio Del Prete,Nico Criscuolo",
     "host_name": "ELIXIR-UK",
     "latitude": 40.855535,
+    "start_date": "2019-02-11"
+  },
+  {
+    "end_date": "2019-02-13",
+    "url": "https://bham-carpentries.github.io/2019-02-11-bham",
+    "country": "GB",
+    "instructors": "Simon Branford,Mark Slater",
+    "venue": "University of Birmingham",
+    "longitude": -1.928941,
+    "slug": "2019-02-11-bham",
+    "tag_name": "SWC",
+    "helpers": "James Carpenter,Michael Allaway",
+    "host_name": "University of Birmingham",
+    "latitude": 52.449875,
     "start_date": "2019-02-11"
   },
   {

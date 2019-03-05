@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-03-05",
+    "url": "https://umswc.github.io/2019-03-04-umich-genomics/",
+    "country": "US",
+    "instructors": "Stephanie Thiede,Zena Lapp",
+    "venue": "University of Michigan",
+    "longitude": -83.734886,
+    "slug": "2019-03-04-umich-genomics",
+    "tag_name": "DC",
+    "helpers": "Evan Snitkin",
+    "host_name": "University of Michigan",
+    "latitude": 42.280093,
+    "start_date": "2019-03-04"
+  },
+  {
     "end_date": "2019-03-01",
     "url": "https://rmflight.github.io/2019-02-28-wrightstateu/",
     "country": "US",

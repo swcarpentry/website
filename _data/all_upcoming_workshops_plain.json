@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-03-05",
-    "url": "https://umswc.github.io/2019-03-04-umich-genomics/",
-    "country": "US",
-    "instructors": "Stephanie Thiede,Zena Lapp",
-    "venue": "University of Michigan",
-    "longitude": -83.734886,
-    "slug": "2019-03-04-umich-genomics",
-    "tag_name": "DC",
-    "helpers": "Evan Snitkin",
-    "host_name": "University of Michigan",
-    "latitude": 42.280093,
-    "start_date": "2019-03-04"
-  },
-  {
     "end_date": "2019-03-06",
     "url": "https://tgac.github.io/2019-03-05-earlham/",
     "country": "GB",
@@ -194,6 +180,34 @@
     "host_name": "INRIA (Paris)",
     "latitude": 48.7145,
     "start_date": "2019-03-19"
+  },
+  {
+    "end_date": "2019-03-20",
+    "url": "https://mbonsma.github.io/2019-03-19-oxford/",
+    "country": "US",
+    "instructors": "Jielai Zhang,Madeleine Bonsma-Fisher,Yo Yehudi",
+    "venue": "University of Oxford",
+    "longitude": -1.215058,
+    "slug": "2019-03-19-oxford",
+    "tag_name": "SWC",
+    "helpers": "Jielai Zhang,Madeleine Bonsma-Fisher,Yo Yehudi",
+    "host_name": "University of Oxford",
+    "latitude": 51.7517961,
+    "start_date": "2019-03-19"
+  },
+  {
+    "end_date": "2019-03-21",
+    "url": "https://jcoliver.github.io/2019-03-20-ttt-online_PST/",
+    "country": "",
+    "instructors": "Kate Hertweck,Kate Hertweck,Jeffrey Oliver,Jeffrey Oliver",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-03-20-ttt-online_PST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-03-20"
   },
   {
     "end_date": "2019-03-22",
