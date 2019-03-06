@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-03-06",
-    "url": "https://tgac.github.io/2019-03-05-earlham/",
-    "country": "GB",
-    "instructors": "Anthony Etuk,Nicola Soranzo,Alice Minotto",
-    "venue": "Earlham Institute",
-    "longitude": 1.218987,
-    "slug": "2019-03-05-earlham",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Earlham Institute",
-    "latitude": 52.621741,
-    "start_date": "2019-03-05"
-  },
-  {
     "end_date": "2019-03-09",
     "url": "https://gboushey.github.io/2019-03-08-UCSF-Python/",
     "country": "US",
@@ -112,6 +98,20 @@
     "start_date": "2019-03-16"
   },
   {
+    "end_date": "2019-03-20",
+    "url": "https://tenet-rccpii.github.io/2019-03-18-SPU/",
+    "country": "ZA",
+    "instructors": "Ayansina Ayangbenro,Kazeem Adekunle Alayande,Caroline Ajilogba,Anelda van der Walt",
+    "venue": "Sol Plaatjies University",
+    "longitude": 24.7642707,
+    "slug": "2019-03-18-SPU",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Sol Plaatjies University",
+    "latitude": -28.7451135,
+    "start_date": "2019-03-18"
+  },
+  {
     "end_date": "2019-03-19",
     "url": "https://devasenainupakutika.github.io/2019-03-18-iowa_state/",
     "country": "US",
@@ -123,6 +123,20 @@
     "helpers": null,
     "host_name": "Iowa State University",
     "latitude": 42.010613,
+    "start_date": "2019-03-18"
+  },
+  {
+    "end_date": "2019-03-19",
+    "url": "https://osu-carpentry.github.io/2019-03-18-okstate/",
+    "country": "US",
+    "instructors": "Patrice-Andre Prud'homme",
+    "venue": "Oklahoma State University",
+    "longitude": -97.069754,
+    "slug": "2019-03-18-okstate",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Oklahoma State University",
+    "latitude": 36.12297,
     "start_date": "2019-03-18"
   },
   {
@@ -151,6 +165,20 @@
     "helpers": "James McCartney,Nick Salonen,Joe Paparo",
     "host_name": "University of Arkansas",
     "latitude": 36.068644,
+    "start_date": "2019-03-18"
+  },
+  {
+    "end_date": "2019-03-19",
+    "url": "https://chaochihl.github.io/2019-03-18-umntc/",
+    "country": "US",
+    "instructors": "Chaochih Liu,Nick Dunn,Cody Hennesy",
+    "venue": "University of Minnesota",
+    "longitude": -93.23136,
+    "slug": "2019-03-18-umntc",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Minnesota",
+    "latitude": 44.97173,
     "start_date": "2019-03-18"
   },
   {
@@ -277,6 +305,20 @@
     "helpers": null,
     "host_name": "Claremont Colleges",
     "latitude": 34.1024,
+    "start_date": "2019-03-28"
+  },
+  {
+    "end_date": "2019-03-29",
+    "url": "http://vwkoppejan.github.io/2019-03-28-Delft",
+    "country": "NL",
+    "instructors": "Victor Koppejan,Ruud Steltenpool",
+    "venue": "March 2019 SWC Workshop @TU Delft",
+    "longitude": 4.37564,
+    "slug": "2019-03-28-Delft",
+    "tag_name": "SWC",
+    "helpers": "Raúl Ortiz-Merino,Kees den Heijer",
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 51.998153,
     "start_date": "2019-03-28"
   },
   {
