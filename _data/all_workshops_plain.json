@@ -225,20 +225,6 @@
   },
   {
     "end_date": "2019-03-20",
-    "url": "https://mbonsma.github.io/2019-03-19-oxford/",
-    "country": "US",
-    "instructors": "Jielai Zhang,Madeleine Bonsma-Fisher,Yo Yehudi",
-    "venue": "University of Oxford",
-    "longitude": -1.215058,
-    "slug": "2019-03-19-oxford",
-    "tag_name": "SWC",
-    "helpers": "Jielai Zhang,Madeleine Bonsma-Fisher,Yo Yehudi",
-    "host_name": "University of Oxford",
-    "latitude": 51.7517961,
-    "start_date": "2019-03-19"
-  },
-  {
-    "end_date": "2019-03-20",
     "url": "https://tenet-rccpii.github.io/2019-03-18-SPU/",
     "country": "ZA",
     "instructors": "Ayansina Ayangbenro,Kazeem Adekunle Alayande,Caroline Ajilogba,Anelda van der Walt",
