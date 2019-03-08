@@ -56,6 +56,20 @@
     "start_date": "2019-05-13"
   },
   {
+    "end_date": "2019-04-30",
+    "url": "https://uwescience.github.io/2019-04-29-ttt-hutchinson_uw",
+    "country": "",
+    "instructors": "Kate Hertweck,Ariel Rokem",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-04-29-ttt-hutchinson_uw",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-04-29"
+  },
+  {
     "end_date": "2019-07-17",
     "url": "https://elixir-belgium.github.io/2019-04-16-BRU/",
     "country": "BE",
@@ -98,6 +112,20 @@
     "start_date": "2019-04-12"
   },
   {
+    "end_date": "2019-04-09",
+    "url": "https://fmichonneau.github.io/2019-04-08-ttt-UF/",
+    "country": "",
+    "instructors": "François Michonneau,Amy Hodge",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-04-08-ttt-ufl",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
+    "start_date": "2019-04-08"
+  },
+  {
     "end_date": "2019-04-04",
     "url": "https://malvikasharan.github.io/2019-04-03-ttt-stockholm/",
     "country": "W3",
@@ -138,6 +166,20 @@
     "host_name": "Delft Univeristy of Technology",
     "latitude": 51.998153,
     "start_date": "2019-03-28"
+  },
+  {
+    "end_date": "2019-03-28",
+    "url": "https://karenword.github.io/2019-03-27-ttt-uc_davis/",
+    "country": "US",
+    "instructors": "Karen Word,Elizabeth Williams",
+    "venue": "UC Davis",
+    "longitude": -121.750221,
+    "slug": "2019-03-27-ttt-uc_davis",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": 38.542591,
+    "start_date": "2019-03-27"
   },
   {
     "end_date": "2019-03-27",
@@ -297,7 +339,7 @@
     "end_date": "2019-03-19",
     "url": "https://chaochihl.github.io/2019-03-18-umntc/",
     "country": "US",
-    "instructors": "Chaochih Liu,Nick Dunn,Cody Hennesy",
+    "instructors": "Chaochih Liu,Nicholas Dunn,Cody Hennesy",
     "venue": "University of Minnesota",
     "longitude": -93.23136,
     "slug": "2019-03-18-umntc",
@@ -389,6 +431,20 @@
     "helpers": "Jordan Pedersen,Sarah Gorman,Angel Su,Dominique Glassman",
     "host_name": "University of Toronto",
     "latitude": 43.66304,
+    "start_date": "2019-03-11"
+  },
+  {
+    "end_date": "2019-03-12",
+    "url": "https://jasonjwilliamsny.github.io/2019-03-11-ttt-online_EST/",
+    "country": "",
+    "instructors": "Jason Williams,Jason Williams,Mark Laufersweiler,Mark Laufersweiler",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-03-11-ttt-online_EST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": null,
     "start_date": "2019-03-11"
   },
   {
@@ -1366,7 +1422,7 @@
     "longitude": -93.243016,
     "slug": "2019-01-15-umn",
     "tag_name": "SWC",
-    "helpers": "Nick Dunn,Katie Wilson,Chaochih Liu,Tim Hendrickson",
+    "helpers": "Nicholas Dunn,Katie Wilson,Chaochih Liu,Tim Hendrickson",
     "host_name": "University of Minnesota",
     "latitude": 44.973167,
     "start_date": "2019-01-15"
@@ -1926,7 +1982,7 @@
     "longitude": -93.236408,
     "slug": "2018-12-03-umn",
     "tag_name": "SWC",
-    "helpers": "Cody Hennesy,Peter Wiringa,Nick Dunn,Alicia Hofelich-Mohr,Seth Mayotte",
+    "helpers": "Cody Hennesy,Peter Wiringa,Nicholas Dunn,Alicia Hofelich-Mohr,Seth Mayotte",
     "host_name": "University of Minnesota",
     "latitude": 44.97532,
     "start_date": "2018-12-03"
@@ -7619,7 +7675,7 @@
     "end_date": "2018-01-12",
     "url": "https://widdowquinn.github.io/2018-01-11-ireland/",
     "country": "IE",
-    "instructors": "Leighton Pritchard,Nicholas Waters",
+    "instructors": "Leighton Pritchard,Nick Waters",
     "venue": "NUI Galway",
     "longitude": -9.058705,
     "slug": "2018-01-11-ireland",
