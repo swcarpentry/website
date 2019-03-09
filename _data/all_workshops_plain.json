@@ -14,6 +14,20 @@
     "start_date": "2019-10-02"
   },
   {
+    "end_date": "2019-07-17",
+    "url": "https://fpsom.github.io/2019-07-15-ttt-ELIXIR-Athens/",
+    "country": "GR",
+    "instructors": "Allegra Via,Fotis Psomopoulos,Mateusz Kuzak",
+    "venue": "Information Management Systems Institute (IMSI), Athena Research Center",
+    "longitude": 23.8025,
+    "slug": "2019-07-15-ttt-elixir_greece",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": 38.03647,
+    "start_date": "2019-07-15"
+  },
+  {
     "end_date": "2019-06-25",
     "url": "https://fgacenga.github.io/2019-06-24-usq",
     "country": "AU",
@@ -40,6 +54,20 @@
     "host_name": "Australian Meteorological and Oceanographic Society",
     "latitude": -12.467735,
     "start_date": "2019-06-10"
+  },
+  {
+    "end_date": "2019-06-04",
+    "url": "https://fpsom.github.io/2019-06-03-elixir-athens-eie",
+    "country": "GR",
+    "instructors": "Thor Wikfeldt,Fotis Psomopoulos",
+    "venue": "National Hellenic Research Foundation",
+    "longitude": 23.745407,
+    "slug": "2019-06-03-elixir-athens-eie",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": 37.973198,
+    "start_date": "2019-06-03"
   },
   {
     "end_date": "2019-05-14",
@@ -3459,6 +3487,20 @@
   },
   {
     "end_date": "2018-09-14",
+    "url": "https://edcarp.github.io/2018-09-13-edinburgh/",
+    "country": "GB",
+    "instructors": "Justin Chun-ting Ho,Lucia Michielin",
+    "venue": "The University of Edinburgh",
+    "longitude": -3.19018,
+    "slug": "2018-09-13-edinburgh",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.94424,
+    "start_date": "2018-09-13"
+  },
+  {
+    "end_date": "2018-09-14",
     "url": "https://murraycadzow.github.io/2018-09-13-ttt-online",
     "country": "W3",
     "instructors": "Alistair Walsh,Alistair Walsh,Murray Cadzow,Murray Cadzow",
@@ -3984,7 +4026,7 @@
     "longitude": -95.246741,
     "slug": "2018-08-16-GPN",
     "tag_name": "SWC",
-    "helpers": "Tami Albin,Boryana Koseva,Greta Valentine,Tal Aharon,Matt Deakyne,Seth Martin,Andrea Pitt,Tal Aharon,Matt Deakyne,Seth Martin,Andrea Pitt",
+    "helpers": "Tami Albin,Boryana Koseva,Greta Valentine,Tal Aharon,Matt Deakyne,Seth Martin,Andrea Pitt,Seth Martin,Andrea Pitt",
     "host_name": "Great Plains Network",
     "latitude": 38.95487,
     "start_date": "2018-08-16"
@@ -4810,7 +4852,7 @@
     "longitude": -121.7658964,
     "slug": "2018-06-27-DIBSI-Geospatial",
     "tag_name": "DC",
-    "helpers": "Kim Mace,Kim Mace",
+    "helpers": "Kim Mace",
     "host_name": "University of California Davis",
     "latitude": 38.5328167,
     "start_date": "2018-06-27"

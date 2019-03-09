@@ -1,5 +1,33 @@
 [
   {
+    "end_date": "2019-03-09",
+    "url": "https://gboushey.github.io/2019-03-08-UCSF-Python/",
+    "country": "US",
+    "instructors": "Geoffrey Boushey,Byron Smith",
+    "venue": "University of California, San Francisco",
+    "longitude": -122.390344,
+    "slug": "2019-03-08-UCSF-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California San Francisco",
+    "latitude": 37.767411,
+    "start_date": "2019-03-08"
+  },
+  {
+    "end_date": "2019-03-09",
+    "url": "https://kjlquist.github.io/2019-03-08-UCSF-R/",
+    "country": "US",
+    "instructors": "Karla Lindquist,Naupaka Zimmerman",
+    "venue": "UCSF",
+    "longitude": -122.39038,
+    "slug": "2019-03-08-UCSF-R",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California San Francisco",
+    "latitude": 37.76755,
+    "start_date": "2019-03-08"
+  },
+  {
     "end_date": "2019-03-06",
     "url": "https://tgac.github.io/2019-03-05-earlham/",
     "country": "GB",
@@ -2983,6 +3011,20 @@
   },
   {
     "end_date": "2018-09-14",
+    "url": "https://edcarp.github.io/2018-09-13-edinburgh/",
+    "country": "GB",
+    "instructors": "Justin Chun-ting Ho,Lucia Michielin",
+    "venue": "The University of Edinburgh",
+    "longitude": -3.19018,
+    "slug": "2018-09-13-edinburgh",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.94424,
+    "start_date": "2018-09-13"
+  },
+  {
+    "end_date": "2018-09-14",
     "url": "https://murraycadzow.github.io/2018-09-13-ttt-online",
     "country": "W3",
     "instructors": "Alistair Walsh,Alistair Walsh,Murray Cadzow,Murray Cadzow",
@@ -3508,7 +3550,7 @@
     "longitude": -95.246741,
     "slug": "2018-08-16-GPN",
     "tag_name": "SWC",
-    "helpers": "Tami Albin,Boryana Koseva,Greta Valentine,Tal Aharon,Matt Deakyne,Seth Martin,Andrea Pitt,Tal Aharon,Matt Deakyne,Seth Martin,Andrea Pitt",
+    "helpers": "Tami Albin,Boryana Koseva,Greta Valentine,Tal Aharon,Matt Deakyne,Seth Martin,Andrea Pitt,Seth Martin,Andrea Pitt",
     "host_name": "Great Plains Network",
     "latitude": 38.95487,
     "start_date": "2018-08-16"
@@ -4320,7 +4362,7 @@
     "longitude": -121.7658964,
     "slug": "2018-06-27-DIBSI-Geospatial",
     "tag_name": "DC",
-    "helpers": "Kim Mace,Kim Mace",
+    "helpers": "Kim Mace",
     "host_name": "University of California Davis",
     "latitude": 38.5328167,
     "start_date": "2018-06-27"

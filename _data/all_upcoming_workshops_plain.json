@@ -1,33 +1,5 @@
 [
   {
-    "end_date": "2019-03-09",
-    "url": "https://gboushey.github.io/2019-03-08-UCSF-Python/",
-    "country": "US",
-    "instructors": "Geoffrey Boushey,Byron Smith",
-    "venue": "University of California, San Francisco",
-    "longitude": -122.390344,
-    "slug": "2019-03-08-UCSF-Python",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of California San Francisco",
-    "latitude": 37.767411,
-    "start_date": "2019-03-08"
-  },
-  {
-    "end_date": "2019-03-09",
-    "url": "https://kjlquist.github.io/2019-03-08-UCSF-R/",
-    "country": "US",
-    "instructors": "Karla Lindquist,Naupaka Zimmerman",
-    "venue": "UCSF",
-    "longitude": -122.39038,
-    "slug": "2019-03-08-UCSF-R",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of California San Francisco",
-    "latitude": 37.76755,
-    "start_date": "2019-03-08"
-  },
-  {
     "end_date": "2019-03-12",
     "url": "https://jordanpedersen.github.io/2019-03-11-UniversityofToronto/",
     "country": "CA",
@@ -434,6 +406,20 @@
     "start_date": "2019-05-13"
   },
   {
+    "end_date": "2019-06-04",
+    "url": "https://fpsom.github.io/2019-06-03-elixir-athens-eie",
+    "country": "GR",
+    "instructors": "Thor Wikfeldt,Fotis Psomopoulos",
+    "venue": "National Hellenic Research Foundation",
+    "longitude": 23.745407,
+    "slug": "2019-06-03-elixir-athens-eie",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": 37.973198,
+    "start_date": "2019-06-03"
+  },
+  {
     "end_date": "2019-06-10",
     "url": "https://damienirving.github.io/2019-06-10-amos/",
     "country": "AU",
@@ -460,6 +446,20 @@
     "host_name": "University of Southern Queensland",
     "latitude": -27.606578,
     "start_date": "2019-06-24"
+  },
+  {
+    "end_date": "2019-07-17",
+    "url": "https://fpsom.github.io/2019-07-15-ttt-ELIXIR-Athens/",
+    "country": "GR",
+    "instructors": "Allegra Via,Fotis Psomopoulos,Mateusz Kuzak",
+    "venue": "Information Management Systems Institute (IMSI), Athena Research Center",
+    "longitude": 23.8025,
+    "slug": "2019-07-15-ttt-elixir_greece",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "Software Carpentry",
+    "latitude": 38.03647,
+    "start_date": "2019-07-15"
   },
   {
     "end_date": "2019-10-03",
