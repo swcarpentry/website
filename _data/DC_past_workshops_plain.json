@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-03-13",
+    "url": "https://butterflyology.github.io/2019-03-12-carnegie/",
+    "country": "US",
+    "instructors": "Chris Hamm",
+    "venue": "Carnegie Mellon University",
+    "longitude": null,
+    "slug": "2019-03-12-carnegie",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Carnegie Mellon University",
+    "latitude": null,
+    "start_date": "2019-03-12"
+  },
+  {
     "end_date": "2019-03-06",
     "url": "https://tgac.github.io/2019-03-05-earlham/",
     "country": "GB",
@@ -568,7 +582,7 @@
     "longitude": -3.19018,
     "slug": "2018-09-13-edinburgh",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Giacomo Peru,Jen Daub,Kiyoshi Bhuiyan,Sarah Ames,Graeme Grimes,Ewan McDowall,Steve Carlysle-Davies,Edward Wallace,Stephen Cass,Nigel Binns",
     "host_name": "University of Edinburgh",
     "latitude": 55.94424,
     "start_date": "2018-09-13"

@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-03-13",
-    "url": "https://butterflyology.github.io/2019-03-12-carnegie/",
-    "country": "US",
-    "instructors": "Chris Hamm",
-    "venue": "Carnegie Mellon University",
-    "longitude": null,
-    "slug": "2019-03-12-carnegie",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Carnegie Mellon University",
-    "latitude": null,
-    "start_date": "2019-03-12"
-  },
-  {
     "end_date": "2019-03-14",
     "url": "https://otagocarpentries.github.io/2019-03-13-otago/",
     "country": "NZ",
@@ -95,6 +81,20 @@
     "helpers": null,
     "host_name": "Sol Plaatjies University",
     "latitude": -28.7451135,
+    "start_date": "2019-03-18"
+  },
+  {
+    "end_date": "2019-03-20",
+    "url": "https://tenet-rccpii.github.io/2019-03-18-UKZN-ttt/",
+    "country": "ZA",
+    "instructors": "Katrin Tirok,Malvika Sharan,Saymore Chifamba,Samar Elsheikh",
+    "venue": "Instructor Training - UKZN Big Data & Informatics / RCCPII",
+    "longitude": 30.946017,
+    "slug": "2019-03-18-UKZN-ttt",
+    "tag_name": "TTT",
+    "helpers": null,
+    "host_name": "University of KwaZulu Natal",
+    "latitude": -29.818169,
     "start_date": "2019-03-18"
   },
   {
@@ -308,6 +308,20 @@
     "start_date": "2019-03-28"
   },
   {
+    "end_date": "2019-03-29",
+    "url": "https://edcarp.github.io/2019-03-28-heriotwatt/",
+    "country": "",
+    "instructors": "Martino Sorbaro Sindaci,Ruairidh Macleod,Mario Antonioletti",
+    "venue": "Heriot Watt University",
+    "longitude": -3.26227,
+    "slug": "2019-03-28-heriotwatt",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Heriot Watt University",
+    "latitude": 55.92261,
+    "start_date": "2019-03-28"
+  },
+  {
     "end_date": "2019-04-03",
     "url": "https://dgrell.github.io/2019-04-01-ELIXIR-NORWAY_BERGEN/",
     "country": "NO",
@@ -407,6 +421,20 @@
   },
   {
     "end_date": "2019-04-12",
+    "url": "https://sateeshperi.github.io/2019-04-11-gwu/",
+    "country": "",
+    "instructors": "Sateesh Peri,Aniello Infante",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-04-11-gwu",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "George Washington University",
+    "latitude": null,
+    "start_date": "2019-04-11"
+  },
+  {
+    "end_date": "2019-04-12",
     "url": "https://uf-carpentry.github.io/2019-04-11-ufepi-genomics/",
     "country": "US",
     "instructors": null,
@@ -448,6 +476,20 @@
     "start_date": "2019-04-12"
   },
   {
+    "end_date": "2019-04-17",
+    "url": "https://bio-swc-bne.github.io/2019-04-15-GriffithUni-Python/",
+    "country": "AU",
+    "instructors": "Amanda Miotto",
+    "venue": "Griffith University",
+    "longitude": 153.052425,
+    "slug": "2019-04-15-Griffith",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.552941,
+    "start_date": "2019-04-15"
+  },
+  {
     "end_date": "2019-07-17",
     "url": "https://elixir-belgium.github.io/2019-04-16-BRU/",
     "country": "BE",
@@ -474,6 +516,20 @@
     "host_name": "Stanford University",
     "latitude": 37.427475,
     "start_date": "2019-04-16"
+  },
+  {
+    "end_date": "2019-04-18",
+    "url": "https://denubis.github.io/2019-04-17-MacquarieUniversity/",
+    "country": "AU",
+    "instructors": "Brian Ballsun-Stanton,Wilfred Gee",
+    "venue": "Macquarie University",
+    "longitude": 151.113281,
+    "slug": "2019-04-17-MacquarieUniversity",
+    "tag_name": "SWC",
+    "helpers": "Peter Ha",
+    "host_name": "Macquarie University",
+    "latitude": -33.774804,
+    "start_date": "2019-04-17"
   },
   {
     "end_date": "2019-04-30",
@@ -546,6 +602,20 @@
     "start_date": "2019-06-10"
   },
   {
+    "end_date": "2019-06-12",
+    "url": "https://bio-swc-bne.github.io/2019-06-11-GriffithUni-R/",
+    "country": "AU",
+    "instructors": "Amanda Miotto",
+    "venue": "Griffith University",
+    "longitude": 153.052425,
+    "slug": "2019-06-11-Griffith",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.552941,
+    "start_date": "2019-06-11"
+  },
+  {
     "end_date": "2019-06-25",
     "url": "https://fgacenga.github.io/2019-06-24-usq",
     "country": "AU",
@@ -574,6 +644,20 @@
     "start_date": "2019-07-15"
   },
   {
+    "end_date": "2019-08-08",
+    "url": "https://bio-swc-bne.github.io/2019-08-06-GriffithUni-Python/",
+    "country": "AU",
+    "instructors": "Amanda Miotto",
+    "venue": "Griffith University",
+    "longitude": 153.378868,
+    "slug": "2019-08-06-Griffith",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.960345,
+    "start_date": "2019-08-06"
+  },
+  {
     "end_date": "2019-10-03",
     "url": "https://fgacenga.github.io/2019-10-02-usq/",
     "country": "AU",
@@ -586,5 +670,33 @@
     "host_name": "University of Southern Queensland",
     "latitude": -27.68401,
     "start_date": "2019-10-02"
+  },
+  {
+    "end_date": "2019-10-17",
+    "url": "https://bio-swc-bne.github.io/2019-10-16-GriffithUni-R/",
+    "country": "AU",
+    "instructors": "Amanda Miotto",
+    "venue": "Griffith University",
+    "longitude": 153.378868,
+    "slug": "2019-10-16-Griffith",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.960345,
+    "start_date": "2019-10-16"
+  },
+  {
+    "end_date": "2019-11-22",
+    "url": "https://bio-swc-bne.github.io/2019-11-20-GriffithUni-Python/",
+    "country": "AU",
+    "instructors": "Amanda Miotto",
+    "venue": "Griffith University",
+    "longitude": 153.052425,
+    "slug": "2019-11-20-Griffith",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.552941,
+    "start_date": "2019-11-20"
   }
 ]

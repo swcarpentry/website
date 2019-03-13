@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-03-13",
-    "url": "https://butterflyology.github.io/2019-03-12-carnegie/",
-    "country": "US",
-    "instructors": "Chris Hamm",
-    "venue": "Carnegie Mellon University",
-    "longitude": null,
-    "slug": "2019-03-12-carnegie",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "Carnegie Mellon University",
-    "latitude": null,
-    "start_date": "2019-03-12"
-  },
-  {
     "end_date": "2019-03-14",
     "url": "https://otagocarpentries.github.io/2019-03-13-otago/",
     "country": "NZ",
@@ -110,6 +96,20 @@
     "host_name": "UMC Utrecht, The Netherlands, Medical Microbiology",
     "latitude": 52.085393,
     "start_date": "2019-04-08"
+  },
+  {
+    "end_date": "2019-04-12",
+    "url": "https://sateeshperi.github.io/2019-04-11-gwu/",
+    "country": "",
+    "instructors": "Sateesh Peri,Aniello Infante",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-04-11-gwu",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "George Washington University",
+    "latitude": null,
+    "start_date": "2019-04-11"
   },
   {
     "end_date": "2019-04-12",
