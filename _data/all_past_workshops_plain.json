@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-03-14",
+    "url": "https://otagocarpentries.github.io/2019-03-13-otago/",
+    "country": "NZ",
+    "instructors": "Murray Cadzow,Antje Lubcke,Matt Bixley",
+    "venue": "Science library",
+    "longitude": 170.51131,
+    "slug": "2019-03-13-Otago",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Otago",
+    "latitude": -45.8639,
+    "start_date": "2019-03-13"
+  },
+  {
     "end_date": "2019-03-13",
     "url": "https://butterflyology.github.io/2019-03-12-carnegie/",
     "country": "US",
@@ -806,7 +820,7 @@
     "longitude": -3.183886,
     "slug": "2019-01-23-edinburgh-geosc-sc",
     "tag_name": "SWC",
-    "helpers": "Chris Hill,James Fulton,Martino Sorbaro Sindaci",
+    "helpers": "Chris Hill,James Fulton,Martino Sorbaro Sindaci,Michael Mineter,Matthew Hamilton",
     "host_name": "University of Edinburgh",
     "latitude": 55.948253,
     "start_date": "2019-01-23"
@@ -9654,7 +9668,7 @@
     "longitude": -97.440619,
     "slug": "2017-08-17-oklahoma",
     "tag_name": "SWC",
-    "helpers": "Tyler Pearson,James Ferguson",
+    "helpers": "Tyler Pearson,Jim Ferguson",
     "host_name": "University of Oklahoma",
     "latitude": 35.183597,
     "start_date": "2017-08-17"

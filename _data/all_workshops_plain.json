@@ -1506,7 +1506,7 @@
     "longitude": -3.183886,
     "slug": "2019-01-23-edinburgh-geosc-sc",
     "tag_name": "SWC",
-    "helpers": "Chris Hill,James Fulton,Martino Sorbaro Sindaci",
+    "helpers": "Chris Hill,James Fulton,Martino Sorbaro Sindaci,Michael Mineter,Matthew Hamilton",
     "host_name": "University of Edinburgh",
     "latitude": 55.948253,
     "start_date": "2019-01-23"
@@ -10368,7 +10368,7 @@
     "longitude": -97.440619,
     "slug": "2017-08-17-oklahoma",
     "tag_name": "SWC",
-    "helpers": "Tyler Pearson,James Ferguson",
+    "helpers": "Tyler Pearson,Jim Ferguson",
     "host_name": "University of Oklahoma",
     "latitude": 35.183597,
     "start_date": "2017-08-17"
