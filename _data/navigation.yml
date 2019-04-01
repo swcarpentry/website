@@ -42,7 +42,7 @@
   - title: "Testimonials"
     url: "/testimonials/"
   - title: "Workshop Operations"
-    url: "/workshops/operations/"
+    url: "https://docs.carpentries.org/topic_folders/workshop_administration/index.html"
   - title: "Past Workshops"
     url: "/workshops/past/"
 
