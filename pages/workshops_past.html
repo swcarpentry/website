@@ -9,11 +9,11 @@ redirect_from:
 excerpt: listing of all our past workshops
 ---
 
-{% assign first_workshop_date = site.data.SWC_past_workshops_plain | group_by: "start_date" | sort: "name" | map: "name" | first %}
+{% assign first_workshop_date = site.data.swc_past_workshops | group_by: "start_date" | sort: "name" | map: "name" | first %}
 
-{% assign n_workshops = site.data.SWC_past_workshops_plain | size %}
+{% assign n_workshops = site.data.swc_past_workshops | size %}
 
-{% assign flags = site.data.SWC_past_workshops_plain | group_by: "country" | sort: "name" | map: "name"  %}
+{% assign flags = site.data.swc_past_workshops | group_by: "country" | sort: "name" | map: "name"  %}
 
 {% assign n_countries = flags | size %}
 
@@ -40,7 +40,7 @@ excerpt: listing of all our past workshops
 </div>
 
 <table class="table table-striped workshops" style="width: 100%;">
-  {% for w in site.data.SWC_past_workshops_plain %}
+  {% for w in site.data.swc_past_workshops %}
   <tr>
     <td>
       {% if flag != "" %}
