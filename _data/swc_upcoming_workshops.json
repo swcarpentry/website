@@ -14,20 +14,6 @@
     "start_date": "2019-03-15"
   },
   {
-    "end_date": "2019-04-10",
-    "url": "https://zbmed.github.io/2019-04-09-Software-Carpentry-Cologne/",
-    "country": "DE",
-    "instructors": "Silvia Di Giorgio,Till Sauerwein,Konrad Förstner",
-    "venue": "ZB MED",
-    "longitude": 6.91646,
-    "slug": "2019-04-09-Software-Carpentry-Cologne",
-    "tag_name": "SWC",
-    "helpers": "Christian Kurrat,Eva Seidlmayer",
-    "host_name": "ZB Med Information Centre for Life Sciences",
-    "latitude": 50.92465,
-    "start_date": "2019-04-09"
-  },
-  {
     "end_date": "2019-04-11",
     "url": "https://otagocarpentries.github.io/2019-04-10-otago/",
     "country": "NZ",
