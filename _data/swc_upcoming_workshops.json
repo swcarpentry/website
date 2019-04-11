@@ -14,34 +14,6 @@
     "start_date": "2019-03-15"
   },
   {
-    "end_date": "2019-04-11",
-    "url": "https://otagocarpentries.github.io/2019-04-10-otago/",
-    "country": "NZ",
-    "instructors": "Alana Alexander,Greg Gimenez,Hugh Cross,Riku Takei,Murray Cadzow",
-    "venue": "Science library - University of Otago",
-    "longitude": 170.51131,
-    "slug": "2019-04-10-Otago",
-    "tag_name": "SWC",
-    "helpers": "Matt Bixley",
-    "host_name": "University of Otago",
-    "latitude": -45.8639,
-    "start_date": "2019-04-10"
-  },
-  {
-    "end_date": "2019-04-11",
-    "url": "https://ucsdlib.github.io/2019-04-10-UCSD",
-    "country": "US",
-    "instructors": "Reid Otsuji,Stephanie Labou,Richard McCosh",
-    "venue": "UC San Diego Library",
-    "longitude": -117.237224,
-    "slug": "2019-04-10-UCSD",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of California San Diego",
-    "latitude": 32.875527,
-    "start_date": "2019-04-10"
-  },
-  {
     "end_date": "2019-04-13",
     "url": "https://nesclic.github.io/2019-04-12-tufts/",
     "country": "US",
@@ -67,6 +39,20 @@
     "helpers": null,
     "host_name": "Griffith University",
     "latitude": -27.552941,
+    "start_date": "2019-04-15"
+  },
+  {
+    "end_date": "2019-04-16",
+    "url": "https://eresearchsandpit.github.io/2019-04-15-Victoria_NiWA/",
+    "country": "NZ",
+    "instructors": "Andre Geldenhuis,Alexander Pletzer,Mandes Schönherr",
+    "venue": "Room TTR205, Te Toki o Rata Building, Kelburn Campus, Victoria University of Wellington",
+    "longitude": 174.7669551,
+    "slug": "2019-04-15-Victoria_NiWA",
+    "tag_name": "SWC",
+    "helpers": "Matt Plummer,Jonny Williams,Wolfgang Hayek",
+    "host_name": "Victoria University of Wellington",
+    "latitude": -41.289884,
     "start_date": "2019-04-15"
   },
   {
