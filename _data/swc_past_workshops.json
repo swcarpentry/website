@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-04-13",
+    "url": "https://nesclic.github.io/2019-04-12-tufts/",
+    "country": "US",
+    "instructors": "Kristin Lee,Travis Lilleberg,Kyle Monahan,Lenny Paritsky",
+    "venue": "Tufts University",
+    "longitude": -71.11884,
+    "slug": "2019-04-12-tufts",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Tufts University",
+    "latitude": 42.406172,
+    "start_date": "2019-04-12"
+  },
+  {
     "end_date": "2019-04-11",
     "url": "https://otagocarpentries.github.io/2019-04-10-otago/",
     "country": "NZ",
