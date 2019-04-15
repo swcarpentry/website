@@ -14,6 +14,20 @@
     "start_date": "2019-03-15"
   },
   {
+    "end_date": "2019-04-18",
+    "url": "https://abostroem.github.io/2019-04-14-tau/",
+    "country": "IL",
+    "instructors": "Azalee Bostroem",
+    "venue": "21st Century Software and Data Analysis Tools for Physics and Astronomy",
+    "longitude": null,
+    "slug": "2019-04-14-tau",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California Davis",
+    "latitude": null,
+    "start_date": "2019-04-14"
+  },
+  {
     "end_date": "2019-04-17",
     "url": "https://bio-swc-bne.github.io/2019-04-15-GriffithUni-Python/",
     "country": "AU",
@@ -25,6 +39,20 @@
     "helpers": null,
     "host_name": "Griffith University",
     "latitude": -27.552941,
+    "start_date": "2019-04-15"
+  },
+  {
+    "end_date": "2019-04-16",
+    "url": "https://confluence.github.io/2019-04-15-UCT",
+    "country": "ZA",
+    "instructors": "Adrianna Pińska,Martin Dreyer,Mojalefa Malahlela,Meghan Sinclair-Black",
+    "venue": "University of Cape Town",
+    "longitude": 18.4597364,
+    "slug": "2019-04-15-UCT",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Cape Town",
+    "latitude": -33.9586111,
     "start_date": "2019-04-15"
   },
   {
@@ -96,6 +124,20 @@
     "host_name": "Macquarie University",
     "latitude": -33.774804,
     "start_date": "2019-04-17"
+  },
+  {
+    "end_date": "2019-04-26",
+    "url": "https://agbeltran.github.io/2019-04-25-rosario/",
+    "country": "FI",
+    "instructors": "Alejandra Gonzalez-Beltran",
+    "venue": "FIXME",
+    "longitude": -60.650539,
+    "slug": "2019-04-25-rosario",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "The Doctoral Training Programme in Environmental Research of the University of Oxford",
+    "latitude": -32.944244,
+    "start_date": "2019-04-25"
   },
   {
     "end_date": "2019-05-10",

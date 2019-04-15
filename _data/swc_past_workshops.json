@@ -73,12 +73,12 @@
     "end_date": "2019-04-09",
     "url": "https://mbrousil.github.io/2019-04-08-wsu/",
     "country": "US",
-    "instructors": "Michael Meyer,Sarah Murphy,Nicholas Potter,Matt Brousil",
+    "instructors": "Michael Meyer,Sarah Murphy,Nicholas Potter,Matt Brousil,Alex Kappes",
     "venue": "Washington State University",
     "longitude": -117.155013,
     "slug": "2019-04-08-wsu",
     "tag_name": "SWC",
-    "helpers": "Alex Kappes",
+    "helpers": "Dominik Schneider,Evan Williamson,Jordan Munson,Ning Ren",
     "host_name": "Washington State University",
     "latitude": 46.72944,
     "start_date": "2019-04-08"
@@ -92,7 +92,7 @@
     "longitude": -77.048386,
     "slug": "2019-04-03-carpentry",
     "tag_name": "SWC",
-    "helpers": "Marco Suarez,Monica Rigucci,Sahiti Enjeti,Nopphiphat Suraminitkul,Mengqi Ji",
+    "helpers": "Monica Rigucci,Sahiti Enjeti,Nopphiphat Suraminitkul,Mengqi Ji",
     "host_name": "George Washington University",
     "latitude": 38.899233,
     "start_date": "2019-04-03"
@@ -866,6 +866,20 @@
     "host_name": "Stanford University",
     "latitude": 37.426478,
     "start_date": "2019-01-23"
+  },
+  {
+    "end_date": "2019-01-25",
+    "url": "https://fredhutchio.github.io/2019-01-22-fredhutch/",
+    "country": "US",
+    "instructors": "Kate Hertweck",
+    "venue": "Fred Hutch",
+    "longitude": -122.330025,
+    "slug": "2019-01-22-fredhutch",
+    "tag_name": "SWC",
+    "helpers": "Michael Gutteridge,Dane Gellerup,John Huddleston,Zach Romer",
+    "host_name": "Fred Hutchinson Cancer Research Center",
+    "latitude": 47.628251,
+    "start_date": "2019-01-22"
   },
   {
     "end_date": "2019-01-23",
