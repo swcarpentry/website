@@ -42,34 +42,6 @@
     "start_date": "2019-04-15"
   },
   {
-    "end_date": "2019-04-16",
-    "url": "https://confluence.github.io/2019-04-15-UCT",
-    "country": "ZA",
-    "instructors": "Adrianna Pińska,Martin Dreyer,Mojalefa Malahlela,Meghan Sinclair-Black",
-    "venue": "University of Cape Town",
-    "longitude": 18.4597364,
-    "slug": "2019-04-15-UCT",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Cape Town",
-    "latitude": -33.9586111,
-    "start_date": "2019-04-15"
-  },
-  {
-    "end_date": "2019-04-16",
-    "url": "https://eresearchsandpit.github.io/2019-04-15-Victoria_NiWA/",
-    "country": "NZ",
-    "instructors": "Andre Geldenhuis,Alexander Pletzer,Mandes Schönherr",
-    "venue": "Room TTR205, Te Toki o Rata Building, Kelburn Campus, Victoria University of Wellington",
-    "longitude": 174.7669551,
-    "slug": "2019-04-15-Victoria_NiWA",
-    "tag_name": "SWC",
-    "helpers": "Matt Plummer,Jonny Williams,Wolfgang Hayek",
-    "host_name": "Victoria University of Wellington",
-    "latitude": -41.289884,
-    "start_date": "2019-04-15"
-  },
-  {
     "end_date": "2019-07-17",
     "url": "https://elixir-belgium.github.io/2019-04-16-BRU/",
     "country": "BE",
@@ -126,6 +98,20 @@
     "start_date": "2019-04-17"
   },
   {
+    "end_date": "2019-04-23",
+    "url": "https://mun-swc-hub.github.io/2019-04-22-mun/",
+    "country": "CA",
+    "instructors": "Danielle Quinn,Oihane Cereceda,Emilie Geissinger,Oliver Stueker",
+    "venue": "Memorial University of Newfoundland",
+    "longitude": -52.736303,
+    "slug": "2019-04-22-mun",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Memorial University",
+    "latitude": 47.571175,
+    "start_date": "2019-04-22"
+  },
+  {
     "end_date": "2019-04-26",
     "url": "https://agbeltran.github.io/2019-04-25-rosario/",
     "country": "FI",
@@ -151,6 +137,20 @@
     "helpers": null,
     "host_name": "University of Manchester",
     "latitude": 53.466817,
+    "start_date": "2019-05-09"
+  },
+  {
+    "end_date": "2019-05-10",
+    "url": "https://mun-swc-hub.github.io/2019-05-09-mun/",
+    "country": "CA",
+    "instructors": "Joany Marino,Ivo Agbor Arrey,Oliver Stueker,Emilie Geissinger",
+    "venue": "Memorial University of Newfoundland",
+    "longitude": -52.736303,
+    "slug": "2019-05-09-mun",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Memorial University",
+    "latitude": 47.571175,
     "start_date": "2019-05-09"
   },
   {
@@ -264,6 +264,20 @@
     "host_name": "École polytechnique fédérale de Lausanne",
     "latitude": 46.518445,
     "start_date": "2019-06-04"
+  },
+  {
+    "end_date": "2019-06-07",
+    "url": "https://mariakotouza.github.io/2019-06-06-elixir-bsc/",
+    "country": "ES",
+    "instructors": "Maria Kotouza,Joaquín Morís",
+    "venue": "Elixir-CNIO",
+    "longitude": -3.696091,
+    "slug": "2019-06-06-elixir-bsc",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": 40.476688,
+    "start_date": "2019-06-06"
   },
   {
     "end_date": "2019-06-12",
