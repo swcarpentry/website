@@ -1,5 +1,47 @@
 [
   {
+    "end_date": "2019-04-17",
+    "url": "https://zpainter.github.io/2019-04-16-Stanford/",
+    "country": "US",
+    "instructors": "Kim Durante,Zac Painter,Mary-Ellen Petrich",
+    "venue": "Stanford University Libraries",
+    "longitude": -122.169716,
+    "slug": "2019-04-16-Stanford",
+    "tag_name": "SWC",
+    "helpers": "Amy Hodge,Saulo de Oliveira,Satoshi Yokota",
+    "host_name": "Stanford University",
+    "latitude": 37.427475,
+    "start_date": "2019-04-16"
+  },
+  {
+    "end_date": "2019-04-17",
+    "url": "https://sa2c.github.io/2019-04-16-swansea/",
+    "country": "GB",
+    "instructors": "Ed Bennett,Mark Dawson",
+    "venue": "Swansea University",
+    "longitude": -3.878739,
+    "slug": "2019-04-16-swansea",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Swansea University",
+    "latitude": 51.619229,
+    "start_date": "2019-04-16"
+  },
+  {
+    "end_date": "2019-04-17",
+    "url": "https://bio-swc-bne.github.io/2019-04-15-GriffithUni-Python/",
+    "country": "AU",
+    "instructors": "Amanda Miotto",
+    "venue": "Griffith University",
+    "longitude": 153.052425,
+    "slug": "2019-04-15-Griffith",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.552941,
+    "start_date": "2019-04-15"
+  },
+  {
     "end_date": "2019-04-16",
     "url": "https://confluence.github.io/2019-04-15-UCT",
     "country": "ZA",
