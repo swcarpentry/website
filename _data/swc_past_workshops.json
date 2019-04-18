@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-04-18",
+    "url": "https://denubis.github.io/2019-04-17-MacquarieUniversity/",
+    "country": "AU",
+    "instructors": "Brian Ballsun-Stanton,Wilfred Gee",
+    "venue": "Macquarie University",
+    "longitude": 151.113281,
+    "slug": "2019-04-17-MacquarieUniversity",
+    "tag_name": "SWC",
+    "helpers": "Peter Ha",
+    "host_name": "Macquarie University",
+    "latitude": -33.774804,
+    "start_date": "2019-04-17"
+  },
+  {
     "end_date": "2019-04-17",
     "url": "https://zpainter.github.io/2019-04-16-Stanford/",
     "country": "US",
@@ -68,6 +82,20 @@
     "host_name": "Victoria University of Wellington",
     "latitude": -41.289884,
     "start_date": "2019-04-15"
+  },
+  {
+    "end_date": "2019-04-18",
+    "url": "https://abostroem.github.io/2019-04-14-tau/",
+    "country": "IL",
+    "instructors": "Azalee Bostroem",
+    "venue": "21st Century Software and Data Analysis Tools for Physics and Astronomy",
+    "longitude": null,
+    "slug": "2019-04-14-tau",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California Davis",
+    "latitude": null,
+    "start_date": "2019-04-14"
   },
   {
     "end_date": "2019-04-13",
@@ -1982,7 +2010,7 @@
     "longitude": 20.307391,
     "slug": "2018-10-09-umea",
     "tag_name": "SWC",
-    "helpers": "Birgitte Briydsö,Pedro Ojeda",
+    "helpers": "Birgitte Briydsö,Pedro Ojeda May",
     "host_name": "Umeå University",
     "latitude": 63.820495,
     "start_date": "2018-10-09"

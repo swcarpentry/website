@@ -14,20 +14,6 @@
     "start_date": "2019-03-15"
   },
   {
-    "end_date": "2019-04-18",
-    "url": "https://abostroem.github.io/2019-04-14-tau/",
-    "country": "IL",
-    "instructors": "Azalee Bostroem",
-    "venue": "21st Century Software and Data Analysis Tools for Physics and Astronomy",
-    "longitude": null,
-    "slug": "2019-04-14-tau",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of California Davis",
-    "latitude": null,
-    "start_date": "2019-04-14"
-  },
-  {
     "end_date": "2019-07-17",
     "url": "https://elixir-belgium.github.io/2019-04-16-BRU/",
     "country": "BE",
@@ -40,20 +26,6 @@
     "host_name": "ELIXIR-UK",
     "latitude": 50.824343,
     "start_date": "2019-04-16"
-  },
-  {
-    "end_date": "2019-04-18",
-    "url": "https://denubis.github.io/2019-04-17-MacquarieUniversity/",
-    "country": "AU",
-    "instructors": "Brian Ballsun-Stanton,Wilfred Gee",
-    "venue": "Macquarie University",
-    "longitude": 151.113281,
-    "slug": "2019-04-17-MacquarieUniversity",
-    "tag_name": "SWC",
-    "helpers": "Peter Ha",
-    "host_name": "Macquarie University",
-    "latitude": -33.774804,
-    "start_date": "2019-04-17"
   },
   {
     "end_date": "2019-04-23",
@@ -82,6 +54,20 @@
     "host_name": "The Doctoral Training Programme in Environmental Research of the University of Oxford",
     "latitude": -32.944244,
     "start_date": "2019-04-25"
+  },
+  {
+    "end_date": "2019-05-10",
+    "url": "https://marwahaha.github.io/2019-05-09-gatech/",
+    "country": "US",
+    "instructors": "Kunal Marwaha,Wilson Lozano",
+    "venue": "Georgia Tech",
+    "longitude": -84.396286,
+    "slug": "2019-05-09-gatech",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Georgia Tech",
+    "latitude": 33.77562,
+    "start_date": "2019-05-09"
   },
   {
     "end_date": "2019-05-10",
