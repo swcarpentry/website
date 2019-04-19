@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-04-19",
-    "url": "https://broadwym.github.io/2019-03-15-vanderbilt/",
-    "country": "US",
-    "instructors": "Meredith Broadway",
-    "venue": "Vanderbilt University",
-    "longitude": -86.79943,
-    "slug": "2019-03-15-vanderbilt",
-    "tag_name": "SWC",
-    "helpers": "Elisabeth Shook,Will French,Steve Baskauf,Lindsey Fox,Stacy Johnson",
-    "host_name": "Vanderbilt University",
-    "latitude": 36.14743,
-    "start_date": "2019-03-15"
-  },
-  {
     "end_date": "2019-07-17",
     "url": "https://elixir-belgium.github.io/2019-04-16-BRU/",
     "country": "BE",
