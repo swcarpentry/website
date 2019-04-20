@@ -84,6 +84,20 @@
     "start_date": "2019-05-09"
   },
   {
+    "end_date": "2019-05-10",
+    "url": "https://swc-uiuc.github.io/2019-05-10-cip/",
+    "country": "PE",
+    "instructors": "Lindsay Clark",
+    "venue": "International Potato Center (CIP)",
+    "longitude": -76.9493301,
+    "slug": "2019-05-10-cip",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "International Potato Center",
+    "latitude": -12.0780946,
+    "start_date": "2019-05-10"
+  },
+  {
     "end_date": "2019-05-11",
     "url": "https://nesclic.github.io/2019-05-10-tuftsUEP/",
     "country": "US",
@@ -152,6 +166,20 @@
     "host_name": "University of Michigan",
     "latitude": 42.275961,
     "start_date": "2019-05-22"
+  },
+  {
+    "end_date": "2019-05-29",
+    "url": "https://unt-carpentries.github.io/2019-05-28-unt-swc/",
+    "country": "US",
+    "instructors": "Jason Ellis,Kristy Phillips,Madhulika Bayyavarapu,Manuel (Gio) Gottardi",
+    "venue": "University of North Texas",
+    "longitude": -97.148954,
+    "slug": "2019-05-28-unt-swc",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of North Texas",
+    "latitude": 33.210068,
+    "start_date": "2019-05-28"
   },
   {
     "end_date": "2019-06-01",
