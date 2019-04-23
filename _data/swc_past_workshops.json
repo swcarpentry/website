@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-04-23",
+    "url": "https://mun-swc-hub.github.io/2019-04-22-mun/",
+    "country": "CA",
+    "instructors": "Danielle Quinn,Oihane Cereceda,Emilie Geissinger,Oliver Stueker",
+    "venue": "Memorial University of Newfoundland",
+    "longitude": -52.736303,
+    "slug": "2019-04-22-mun",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Memorial University",
+    "latitude": 47.571175,
+    "start_date": "2019-04-22"
+  },
+  {
     "end_date": "2019-04-18",
     "url": "https://denubis.github.io/2019-04-17-MacquarieUniversity/",
     "country": "AU",
