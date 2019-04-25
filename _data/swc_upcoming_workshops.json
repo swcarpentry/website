@@ -28,6 +28,34 @@
     "start_date": "2019-04-25"
   },
   {
+    "end_date": "2019-05-02",
+    "url": "https://kmichali.github.io/2019-05-01-Imperial/",
+    "country": "GB",
+    "instructors": "Santiago Lacalle,Krishnakumar Gopalakrishnan,Diego Alonso Álvarez,Tianjiao Sun",
+    "venue": "Imperial College London",
+    "longitude": -0.174877,
+    "slug": "2019-05-01-Imperial",
+    "tag_name": "SWC",
+    "helpers": "Jan Andersen,Jazz Mack Smith,Jeremy Cohen,Katerina Michalickova",
+    "host_name": "Imperial College London",
+    "latitude": 51.4988,
+    "start_date": "2019-05-01"
+  },
+  {
+    "end_date": "2019-05-03",
+    "url": "https://starescomp.github.io/2019-05-02-standrews/",
+    "country": "GB",
+    "instructors": "Alexander Konovalov,Isla Barnard,Patrick McCann,Michael Torpey",
+    "venue": "University of St Andrews",
+    "longitude": -2.809327,
+    "slug": "2019-05-02-standrews",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of St. Andrews",
+    "latitude": 56.341199,
+    "start_date": "2019-05-02"
+  },
+  {
     "end_date": "2019-05-10",
     "url": "https://marwahaha.github.io/2019-05-09-gatech/",
     "country": "US",
@@ -180,6 +208,20 @@
     "host_name": "University of California San Francisco",
     "latitude": 37.7938,
     "start_date": "2019-05-29"
+  },
+  {
+    "end_date": "2019-05-31",
+    "url": "https://starescomp.github.io/2019-05-30-standrews/",
+    "country": "GB",
+    "instructors": "Alexander Konovalov,Isla Barnard,Leighton Pritchard,Michael Torpey",
+    "venue": "University of St Andrews",
+    "longitude": -2.793957,
+    "slug": "2019-05-30-standrews",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of St. Andrews",
+    "latitude": 56.339308,
+    "start_date": "2019-05-30"
   },
   {
     "end_date": "2019-06-04",
