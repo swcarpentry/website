@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-04-26",
+    "url": "https://agbeltran.github.io/2019-04-25-rosario/",
+    "country": "FI",
+    "instructors": "Alejandra Gonzalez-Beltran,Flavio Spetale ",
+    "venue": "FIXME",
+    "longitude": -60.650539,
+    "slug": "2019-04-25-rosario",
+    "tag_name": "SWC",
+    "helpers": "Laura Angelone ",
+    "host_name": "The Doctoral Training Programme in Environmental Research of the University of Oxford",
+    "latitude": -32.944244,
+    "start_date": "2019-04-25"
+  },
+  {
     "end_date": "2019-04-23",
     "url": "https://mun-swc-hub.github.io/2019-04-22-mun/",
     "country": "CA",
@@ -36,7 +50,7 @@
     "longitude": -122.169716,
     "slug": "2019-04-16-Stanford",
     "tag_name": "SWC",
-    "helpers": "Amy Hodge,Saulo de Oliveira,Satoshi Yokota,Jake Lever",
+    "helpers": "Amy Hodge,Saulo de Oliveira,Satoshi Yokota,Jake Lever,Lorraine Ling",
     "host_name": "Stanford University",
     "latitude": 37.427475,
     "start_date": "2019-04-16"
@@ -101,12 +115,12 @@
     "end_date": "2019-04-18",
     "url": "https://abostroem.github.io/2019-04-14-tau/",
     "country": "IL",
-    "instructors": "Azalee Bostroem",
+    "instructors": "Azalee Bostroem,Dalya Baron,Griffin Hosseinzadeh",
     "venue": "21st Century Software and Data Analysis Tools for Physics and Astronomy",
     "longitude": null,
     "slug": "2019-04-14-tau",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Sahar Shahaf,Natalie Lubelchick,Iair Arcavi,Itamar Reis",
     "host_name": "University of California Davis",
     "latitude": null,
     "start_date": "2019-04-14"
@@ -120,7 +134,7 @@
     "longitude": -71.11884,
     "slug": "2019-04-12-tufts",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Susan Remondi,Shannon Hagerty (Brandeis)",
     "host_name": "Tufts University",
     "latitude": 42.406172,
     "start_date": "2019-04-12"
@@ -288,7 +302,7 @@
     "longitude": 4.37564,
     "slug": "2019-03-28-Delft",
     "tag_name": "SWC",
-    "helpers": "Raúl Ortiz-Merino,Kees den Heijer,Susan Branchett,Heather Andrews,Paul van Gent,Leonor Guedes Da Silva,Nicolas Dintzner,Santosh Ilamparuthi,Barbara Vreede,Elena Zhebel",
+    "helpers": "Raúl Ortiz-Merino,Kees den Heijer,Susan Branchett,Heather Andrews,Paul van Gent,Leonor Guedes Da Silva,Nicolas Dintzner,Santosh Ilamparuthi,Barbara Vreede,Elena Zhebel,Susan Branchett ,Marcel van den Broek",
     "host_name": "Delft Univeristy of Technology",
     "latitude": 51.998153,
     "start_date": "2019-03-28"

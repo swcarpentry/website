@@ -14,18 +14,18 @@
     "start_date": "2019-04-16"
   },
   {
-    "end_date": "2019-04-26",
-    "url": "https://agbeltran.github.io/2019-04-25-rosario/",
-    "country": "FI",
-    "instructors": "Alejandra Gonzalez-Beltran",
-    "venue": "FIXME",
-    "longitude": -60.650539,
-    "slug": "2019-04-25-rosario",
+    "end_date": "2019-04-30",
+    "url": "https://swcarpentry-wuerzburg.github.io/2019-04-29-Wuerzburg/",
+    "country": "GE",
+    "instructors": "Markus Ankenbrand,Florian Goth,Torsten Paul",
+    "venue": "GSLS/CCTB-Wuerzburg",
+    "longitude": 9.970506,
+    "slug": "2019-04-29-Wuerzburg",
     "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "The Doctoral Training Programme in Environmental Research of the University of Oxford",
-    "latitude": -32.944244,
-    "start_date": "2019-04-25"
+    "helpers": "Nico Braun",
+    "host_name": "University of Wuerzburg",
+    "latitude": 49.785343,
+    "start_date": "2019-04-29"
   },
   {
     "end_date": "2019-05-02",
