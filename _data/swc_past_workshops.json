@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-04-30",
+    "url": "https://swcarpentry-wuerzburg.github.io/2019-04-29-Wuerzburg/",
+    "country": "GE",
+    "instructors": "Markus Ankenbrand,Florian Goth,Torsten Paul",
+    "venue": "GSLS/CCTB-Wuerzburg",
+    "longitude": 9.970506,
+    "slug": "2019-04-29-Wuerzburg",
+    "tag_name": "SWC",
+    "helpers": "Nico Braun",
+    "host_name": "University of Wuerzburg",
+    "latitude": 49.785343,
+    "start_date": "2019-04-29"
+  },
+  {
     "end_date": "2019-04-26",
     "url": "https://agbeltran.github.io/2019-04-25-rosario/",
     "country": "FI",

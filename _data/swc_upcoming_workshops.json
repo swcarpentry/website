@@ -14,20 +14,6 @@
     "start_date": "2019-04-16"
   },
   {
-    "end_date": "2019-04-30",
-    "url": "https://swcarpentry-wuerzburg.github.io/2019-04-29-Wuerzburg/",
-    "country": "GE",
-    "instructors": "Markus Ankenbrand,Florian Goth,Torsten Paul",
-    "venue": "GSLS/CCTB-Wuerzburg",
-    "longitude": 9.970506,
-    "slug": "2019-04-29-Wuerzburg",
-    "tag_name": "SWC",
-    "helpers": "Nico Braun",
-    "host_name": "University of Wuerzburg",
-    "latitude": 49.785343,
-    "start_date": "2019-04-29"
-  },
-  {
     "end_date": "2019-05-02",
     "url": "https://kmichali.github.io/2019-05-01-Imperial/",
     "country": "GB",
@@ -39,6 +25,20 @@
     "helpers": "Jan Andersen,Jazz Mack Smith,Jeremy Cohen,Katerina Michalickova",
     "host_name": "Imperial College London",
     "latitude": 51.4988,
+    "start_date": "2019-05-01"
+  },
+  {
+    "end_date": "2019-05-02",
+    "url": "https://erinbecker.github.io/2019-05-01-genentech",
+    "country": "US",
+    "instructors": "Thomas Ballinger,Erin Becker",
+    "venue": "Genentech Software Carpentry Python workshop",
+    "longitude": -122.381991,
+    "slug": "2019-05-01-genentech",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Genentech",
+    "latitude": 37.652106,
     "start_date": "2019-05-01"
   },
   {
