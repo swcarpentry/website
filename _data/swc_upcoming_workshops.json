@@ -14,20 +14,6 @@
     "start_date": "2019-04-16"
   },
   {
-    "end_date": "2019-05-03",
-    "url": "https://starescomp.github.io/2019-05-02-standrews/",
-    "country": "GB",
-    "instructors": "Alexander Konovalov,Isla Barnard,Patrick McCann,Michael Torpey",
-    "venue": "University of St Andrews",
-    "longitude": -2.809327,
-    "slug": "2019-05-02-standrews",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of St. Andrews",
-    "latitude": 56.341199,
-    "start_date": "2019-05-02"
-  },
-  {
     "end_date": "2019-05-10",
     "url": "https://ucsbcarpentry.github.io/2019-05-09-UCSB-SW-Carpentry/",
     "country": "US",
@@ -81,6 +67,20 @@
     "helpers": null,
     "host_name": "Memorial University",
     "latitude": 47.571175,
+    "start_date": "2019-05-09"
+  },
+  {
+    "end_date": "2019-05-10",
+    "url": "https://zenobieg.github.io/2019-05-09-udel/",
+    "country": "",
+    "instructors": "Zenobie Garrett,Preethy Nair",
+    "venue": "University of Delaware",
+    "longitude": null,
+    "slug": "2019-05-09-udel",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Delaware",
+    "latitude": null,
     "start_date": "2019-05-09"
   },
   {
@@ -221,6 +221,20 @@
     "helpers": null,
     "host_name": "University of California San Francisco",
     "latitude": 37.7938,
+    "start_date": "2019-05-29"
+  },
+  {
+    "end_date": "2019-05-30",
+    "url": "https://math2522.github.io/2019-05-29-elixir-nottingham/",
+    "country": "GB",
+    "instructors": "Wagner Barløse Mathias,Punam Amratia",
+    "venue": "University of Nottingham",
+    "longitude": -1.19467,
+    "slug": "2019-05-29-elixir-nottingham",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": 52.934502,
     "start_date": "2019-05-29"
   },
   {

@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-05-03",
+    "url": "https://starescomp.github.io/2019-05-02-standrews/",
+    "country": "GB",
+    "instructors": "Alexander Konovalov,Isla Barnard,Patrick McCann,Michael Torpey",
+    "venue": "University of St Andrews",
+    "longitude": -2.809327,
+    "slug": "2019-05-02-standrews",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of St. Andrews",
+    "latitude": 56.341199,
+    "start_date": "2019-05-02"
+  },
+  {
     "end_date": "2019-05-02",
     "url": "https://kmichali.github.io/2019-05-01-Imperial/",
     "country": "GB",
