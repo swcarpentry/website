@@ -72,15 +72,15 @@
   {
     "end_date": "2019-05-10",
     "url": "https://zenobieg.github.io/2019-05-09-udel/",
-    "country": "",
-    "instructors": "Zenobie Garrett,Preethy Nair",
+    "country": "US",
+    "instructors": "Zenobie Garrett",
     "venue": "University of Delaware",
-    "longitude": null,
+    "longitude": -75.73466,
     "slug": "2019-05-09-udel",
     "tag_name": "SWC",
     "helpers": null,
     "host_name": "University of Delaware",
-    "latitude": null,
+    "latitude": 39.678,
     "start_date": "2019-05-09"
   },
   {
@@ -170,7 +170,7 @@
   {
     "end_date": "2019-05-23",
     "url": "https://ekirving.github.io/2019-05-22-oxford/",
-    "country": "",
+    "country": "GB",
     "instructors": "Evan Irving-Pease",
     "venue": "School of Archaeology, University of Oxford",
     "longitude": -1.2473,
@@ -268,7 +268,7 @@
   {
     "end_date": "2019-06-05",
     "url": "https://epfllibrary.github.io/2019-06-04-epfl",
-    "country": "",
+    "country": "CH",
     "instructors": "Jérôme Chaptinel,Raphaël Grolimund,Antoine Masson,Mathilde Panes",
     "venue": "Ecole Polytechnique Fédérale de Lausanne",
     "longitude": 6.568473,

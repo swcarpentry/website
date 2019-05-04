@@ -386,7 +386,7 @@
     "longitude": 4.37564,
     "slug": "2019-03-28-Delft",
     "tag_name": "SWC",
-    "helpers": "Raúl Ortiz-Merino,Kees den Heijer,Susan Branchett,Heather Andrews,Paul van Gent,Leonor Guedes Da Silva,Nicolas Dintzner,Santosh Ilamparuthi,Barbara Vreede,Elena Zhebel,Susan Branchett ,Marcel van den Broek",
+    "helpers": "Raúl Ortiz-Merino,Kees den Heijer,Heather Andrews,Paul van Gent,Leonor Guedes Da Silva,Nicolas Dintzner,Santosh Ilamparuthi,Barbara Vreede,Elena Zhebel,Susan Branchett,Marcel van den Broek",
     "host_name": "Delft Univeristy of Technology",
     "latitude": 51.998153,
     "start_date": "2019-03-28"
@@ -13947,7 +13947,7 @@
     "end_date": "2015-04-18",
     "url": "https://mqwilber.github.io/2015-04-17-ucsb/",
     "country": "US",
-    "instructors": "Tom Bell,Umihiko Hoshijima,Tom Smith,Louise Stevenson,Mark Wilber,Umi Hoshijima,Thomas Smith",
+    "instructors": "Tom Bell,Tom Smith,Louise Stevenson,Mark Wilber,Umihiko Hoshijima,Thomas Smith",
     "venue": "University of California, Santa Barbara",
     "longitude": -119.849467,
     "slug": "2015-04-17-ucsb",
