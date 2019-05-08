@@ -36,7 +36,7 @@
     "longitude": -122.381991,
     "slug": "2019-05-01-genentech",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Nolan Nichols",
     "host_name": "Genentech",
     "latitude": 37.652106,
     "start_date": "2019-05-01"
@@ -218,7 +218,7 @@
     "longitude": -119.845506,
     "slug": "2019-04-11-UCSB-SW-Workshop",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Kristi Liu,Noah Spahn",
     "host_name": "University of California Santa Barbara",
     "latitude": 34.414354,
     "start_date": "2019-04-11"

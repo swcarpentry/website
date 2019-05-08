@@ -22,7 +22,7 @@
     "longitude": null,
     "slug": "2019-05-09-UCSB-SW-Carpentry",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Vania Wang",
     "host_name": "University of California Santa Barbara",
     "latitude": null,
     "start_date": "2019-05-09"
@@ -249,6 +249,20 @@
     "helpers": null,
     "host_name": "University of St. Andrews",
     "latitude": 56.339308,
+    "start_date": "2019-05-30"
+  },
+  {
+    "end_date": "2019-05-31",
+    "url": "https://nmcarpentries.github.io/2019-05-30-unm/",
+    "country": "US",
+    "instructors": "Jon Wheeler,Karl Benedict",
+    "venue": "University of New Mexico",
+    "longitude": -106.619838,
+    "slug": "2019-05-30-unm",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of New Mexico",
+    "latitude": 35.085714,
     "start_date": "2019-05-30"
   },
   {
