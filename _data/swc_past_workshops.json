@@ -14,6 +14,20 @@
     "start_date": "2019-05-10"
   },
   {
+    "end_date": "2019-05-11",
+    "url": "https://nesclic.github.io/2019-05-10-tuftsUEP/",
+    "country": "US",
+    "instructors": "Allison Gofman,Kyle Monahan",
+    "venue": "Tisch Library, Tufts University",
+    "longitude": -71.11884,
+    "slug": "2019-05-10-tuftsUEP",
+    "tag_name": "SWC",
+    "helpers": "Kristin Lee",
+    "host_name": "Tufts University",
+    "latitude": 42.406172,
+    "start_date": "2019-05-10"
+  },
+  {
     "end_date": "2019-05-10",
     "url": "https://ucsbcarpentry.github.io/2019-05-09-UCSB-SW-Carpentry/",
     "country": "US",

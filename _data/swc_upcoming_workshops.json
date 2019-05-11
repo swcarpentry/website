@@ -14,20 +14,6 @@
     "start_date": "2019-04-16"
   },
   {
-    "end_date": "2019-05-11",
-    "url": "https://nesclic.github.io/2019-05-10-tuftsUEP/",
-    "country": "US",
-    "instructors": "Allison Gofman,Kyle Monahan",
-    "venue": "Tisch Library, Tufts University",
-    "longitude": -71.11884,
-    "slug": "2019-05-10-tuftsUEP",
-    "tag_name": "SWC",
-    "helpers": "Kristin Lee",
-    "host_name": "Tufts University",
-    "latitude": 42.406172,
-    "start_date": "2019-05-10"
-  },
-  {
     "end_date": "2019-06-04",
     "url": "https://rbeagrie.github.io/2019-03-26-WIMM-Python/",
     "country": "GB",
@@ -82,6 +68,20 @@
     "host_name": "University of Minnesota",
     "latitude": 44.973394,
     "start_date": "2019-05-16"
+  },
+  {
+    "end_date": "2019-05-23",
+    "url": "https://drlabratory.github.io/2019-05-22-genentech/",
+    "country": "US",
+    "instructors": "Jeramia Ory,Kok Ben Toh",
+    "venue": "Genentech",
+    "longitude": -122.381991,
+    "slug": "2019-05-22-genentech",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Genentech",
+    "latitude": 37.652106,
+    "start_date": "2019-05-22"
   },
   {
     "end_date": "2019-05-23",
