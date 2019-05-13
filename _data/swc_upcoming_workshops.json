@@ -14,6 +14,20 @@
     "start_date": "2019-04-16"
   },
   {
+    "end_date": "2019-05-14",
+    "url": "https://osu-carpentry.github.io/2019-05-13-okstate/",
+    "country": "US",
+    "instructors": "Nathalia Graf-Grachet,Phillip Doehle,Peter Hoyt,Dave Lampert",
+    "venue": "Oklahoma State University",
+    "longitude": -97.069754,
+    "slug": "2019-05-13-okstate",
+    "tag_name": "SWC",
+    "helpers": "Alex Chartier,Surya Ayyalasomayajula,Gautham Brahma Ponnaganti,Kay BJornen,Evan Linde",
+    "host_name": "Oklahoma State University",
+    "latitude": 36.12297,
+    "start_date": "2019-05-13"
+  },
+  {
     "end_date": "2019-06-04",
     "url": "https://rbeagrie.github.io/2019-03-26-WIMM-Python/",
     "country": "GB",
@@ -68,6 +82,34 @@
     "host_name": "University of Minnesota",
     "latitude": 44.973394,
     "start_date": "2019-05-16"
+  },
+  {
+    "end_date": "2019-05-18",
+    "url": "https://dagimy.github.io/2019-05-17-SWC-HU/",
+    "country": "ET",
+    "instructors": "Dagim Mengesha",
+    "venue": "Hawassa University",
+    "longitude": 38.499797,
+    "slug": "2019-05-17-SWC-HU",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Addis Ababa University",
+    "latitude": 7.05183,
+    "start_date": "2019-05-17"
+  },
+  {
+    "end_date": "2019-05-21",
+    "url": "https://workshops-ukzn.github.io/2019-05-20-UKZN-SWC/",
+    "country": "ZA",
+    "instructors": "Oluwafisayo Kaka,Tadiwanashe Gutsa",
+    "venue": "UKZN, Westville Campus",
+    "longitude": 30.945906,
+    "slug": "2019-05-20-UKZN-SWC",
+    "tag_name": "SWC",
+    "helpers": "Moses Okpeku,Marie-Louise Umuhire,OLUFISAYO SUNDAY EKUNDAYO",
+    "host_name": "University of KwaZulu Natal",
+    "latitude": -29.818203,
+    "start_date": "2019-05-20"
   },
   {
     "end_date": "2019-05-23",
@@ -252,6 +294,20 @@
     "start_date": "2019-06-11"
   },
   {
+    "end_date": "2019-06-14",
+    "url": "https://nesclic.github.io/2019-06-13-dartmouth/",
+    "country": "US",
+    "instructors": "JIANJUN HUA,James Adams,Lora Leligdon,Pamela Bagley,Stephen Gaughan",
+    "venue": "Dartmouth College",
+    "longitude": -72.289101,
+    "slug": "2019-06-13-dartmouth",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Dartmouth College",
+    "latitude": 43.705787,
+    "start_date": "2019-06-13"
+  },
+  {
     "end_date": "2019-06-25",
     "url": "https://fgacenga.github.io/2019-06-24-usq",
     "country": "AU",
@@ -264,6 +320,20 @@
     "host_name": "University of Southern Queensland",
     "latitude": -27.606578,
     "start_date": "2019-06-24"
+  },
+  {
+    "end_date": "2019-07-05",
+    "url": "https://elixir-iib-training.github.io/2019-07-05-naples-shell-git-python/",
+    "country": "IT",
+    "instructors": "Vincenza Colonna",
+    "venue": "Biblioteca - National Research Council",
+    "longitude": 14.22483,
+    "slug": "2019-07-05-naples-shell-git-python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Consiglio Nazionale delle Ricerche",
+    "latitude": 40.85459,
+    "start_date": "2019-07-03"
   },
   {
     "end_date": "2019-08-08",
