@@ -14,20 +14,6 @@
     "start_date": "2019-04-16"
   },
   {
-    "end_date": "2019-05-14",
-    "url": "https://osu-carpentry.github.io/2019-05-13-okstate/",
-    "country": "US",
-    "instructors": "Nathalia Graf-Grachet,Phillip Doehle,Peter Hoyt,Dave Lampert",
-    "venue": "Oklahoma State University",
-    "longitude": -97.069754,
-    "slug": "2019-05-13-okstate",
-    "tag_name": "SWC",
-    "helpers": "Alex Chartier,Surya Ayyalasomayajula,Gautham Brahma Ponnaganti,Kay BJornen,Evan Linde",
-    "host_name": "Oklahoma State University",
-    "latitude": 36.12297,
-    "start_date": "2019-05-13"
-  },
-  {
     "end_date": "2019-06-04",
     "url": "https://rbeagrie.github.io/2019-03-26-WIMM-Python/",
     "country": "GB",

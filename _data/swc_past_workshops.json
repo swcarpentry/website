@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-05-14",
+    "url": "https://osu-carpentry.github.io/2019-05-13-okstate/",
+    "country": "US",
+    "instructors": "Nathalia Graf-Grachet,Phillip Doehle,Peter Hoyt,Dave Lampert",
+    "venue": "Oklahoma State University",
+    "longitude": -97.069754,
+    "slug": "2019-05-13-okstate",
+    "tag_name": "SWC",
+    "helpers": "Alex Chartier,Surya Ayyalasomayajula,Gautham Brahma Ponnaganti,Kay BJornen,Evan Linde",
+    "host_name": "Oklahoma State University",
+    "latitude": 36.12297,
+    "start_date": "2019-05-13"
+  },
+  {
     "end_date": "2019-05-10",
     "url": "https://swc-uiuc.github.io/2019-05-10-cip/",
     "country": "PE",
@@ -1442,6 +1456,20 @@
     "start_date": "2019-01-09"
   },
   {
+    "end_date": "2019-01-10",
+    "url": "https://ucla-data-archive.github.io/2019-01-09-ucla/",
+    "country": "US",
+    "instructors": "Kristian Allen,Scott Friedman,Deidre Whitmore,Tim Dennis",
+    "venue": "UCLA",
+    "longitude": -118.443266,
+    "slug": "2019-01-09-ucla",
+    "tag_name": "SWC",
+    "helpers": "Tim Dennis,Jamie Jamison,Leigh Phan,Madeline Cowen,Yoh Kawano",
+    "host_name": "University of California Los Angeles",
+    "latitude": 34.069599,
+    "start_date": "2019-01-09"
+  },
+  {
     "end_date": "2019-01-09",
     "url": "https://nesclic.github.io/2019-01-08-umass/",
     "country": "US",
@@ -1674,7 +1702,7 @@
     "longitude": 21.63517,
     "slug": "2018-12-01-elixir-debrecen",
     "tag_name": "SWC",
-    "helpers": "Endre Sebestyen,Gergely Sipos,Matyas Schiller,Tibor Nagy,Attila Horvath,Robert Herczeg,Abel Fothi",
+    "helpers": "Endre Sebestyén,Gergely Sipos,Matyas Schiller,Tibor Nagy,Attila Horvath,Robert Herczeg,Abel Fothi",
     "host_name": "ELIXIR-UK",
     "latitude": 47.53986,
     "start_date": "2018-12-01"
@@ -4670,7 +4698,7 @@
     "longitude": 10.72175,
     "slug": "2018-02-05-Oslo",
     "tag_name": "SWC",
-    "helpers": "Hans Verne",
+    "helpers": "Hans Peter Verne",
     "host_name": "University of Oslo",
     "latitude": 59.939959,
     "start_date": "2018-02-05"
