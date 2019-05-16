@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-05-16",
+    "url": "https://oulib-swc.github.io/2019-05-15-ou-swc/",
+    "country": "US",
+    "instructors": "Claire Curry,Traci DuBose,Mark Laufersweiler,Amanda Schilling",
+    "venue": "University of Oklahoma",
+    "longitude": -97.445848,
+    "slug": "2019-05-15-ou-swc",
+    "tag_name": "SWC",
+    "helpers": "Michael Malahy",
+    "host_name": "University of Oklahoma",
+    "latitude": 35.208275,
+    "start_date": "2019-05-15"
+  },
+  {
     "end_date": "2019-05-14",
     "url": "https://osu-carpentry.github.io/2019-05-13-okstate/",
     "country": "US",
@@ -3088,7 +3102,7 @@
     "longitude": -72.793404,
     "slug": "2018-07-24-jacksonLab",
     "tag_name": "SWC",
-    "helpers": "Harshpreet Chandok,Minji Kim,Samirkumar Amin,Seda Arat",
+    "helpers": "Harshpreet Chandok,Minji Kim,Samir Amin,Seda Arat",
     "host_name": "Jackson Laboratory",
     "latitude": 41.732284,
     "start_date": "2018-07-24"

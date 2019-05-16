@@ -28,20 +28,6 @@
     "start_date": "2019-05-14"
   },
   {
-    "end_date": "2019-05-16",
-    "url": "https://oulib-swc.github.io/2019-05-15-ou-swc/",
-    "country": "US",
-    "instructors": "Claire Curry,Traci DuBose,Mark Laufersweiler,Amanda Schilling",
-    "venue": "University of Oklahoma",
-    "longitude": -97.445848,
-    "slug": "2019-05-15-ou-swc",
-    "tag_name": "SWC",
-    "helpers": "Michael Malahy",
-    "host_name": "University of Oklahoma",
-    "latitude": 35.208275,
-    "start_date": "2019-05-15"
-  },
-  {
     "end_date": "2019-05-17",
     "url": "https://gwu-libraries.github.io/2019-05-16-gwu/",
     "country": "US",
@@ -96,6 +82,20 @@
     "host_name": "University of KwaZulu Natal",
     "latitude": -29.818203,
     "start_date": "2019-05-20"
+  },
+  {
+    "end_date": "2019-05-22",
+    "url": "https://swc-uiuc.github.io/2019-05-21-ncsa/",
+    "country": "US",
+    "instructors": "Samniqueka Halsey,Dena Strong,Maxim Belkin",
+    "venue": "National Center for Supercomputing Applications",
+    "longitude": -88.225004,
+    "slug": "2019-05-21-ncsa",
+    "tag_name": "SWC",
+    "helpers": "David Mussulman,Halie Rando",
+    "host_name": "National Center for Supercomputing Applications, University of Illinois at Urbana–Champaign",
+    "latitude": 40.114832,
+    "start_date": "2019-05-21"
   },
   {
     "end_date": "2019-05-23",
@@ -197,6 +197,20 @@
   },
   {
     "end_date": "2019-05-31",
+    "url": "https://oulib-swc.github.io/2019-05-30-ou-swc-tulsa/",
+    "country": "US",
+    "instructors": "Claire Curry,Brent Tweedy",
+    "venue": "University of Oklahoma Schusterman Library, Tulsa",
+    "longitude": -95.922955,
+    "slug": "2019-05-30-ou-swc-tulsa",
+    "tag_name": "SWC",
+    "helpers": "Toni Hoberecht,Krista Kezbers",
+    "host_name": "University of Oklahoma",
+    "latitude": 36.101228,
+    "start_date": "2019-05-30"
+  },
+  {
+    "end_date": "2019-05-31",
     "url": "https://starescomp.github.io/2019-05-30-standrews/",
     "country": "GB",
     "instructors": "Alexander Konovalov,Isla Barnard,Leighton Pritchard,Michael Torpey",
@@ -235,6 +249,20 @@
     "helpers": null,
     "host_name": "ELIXIR-UK",
     "latitude": 37.973198,
+    "start_date": "2019-06-03"
+  },
+  {
+    "end_date": "2019-06-07",
+    "url": "https://idi-bd2k.github.io/2019-06-03-puerto_rico-R/",
+    "country": "PR",
+    "instructors": "Humberto Ortiz-Zuazaga,Sofia Melendez-Cartagena",
+    "venue": "University of Puerto Rico",
+    "longitude": -66.0463582,
+    "slug": "2019-06-03-puerto_rico-R",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Puerto Rico",
+    "latitude": 18.4044218,
     "start_date": "2019-06-03"
   },
   {
@@ -294,6 +322,20 @@
     "start_date": "2019-06-13"
   },
   {
+    "end_date": "2019-06-19",
+    "url": "https://zpainter.github.io/2019-06-18-stanford/",
+    "country": "US",
+    "instructors": "Max Czapanskiy,Melissa Ko,Zac Painter,Satoshi Yokota",
+    "venue": "Stanford University",
+    "longitude": -122.165749,
+    "slug": "2019-06-18-stanford",
+    "tag_name": "SWC",
+    "helpers": "Chao Jiang,Lorraine Ling",
+    "host_name": "Stanford University",
+    "latitude": 37.437519,
+    "start_date": "2019-06-18"
+  },
+  {
     "end_date": "2019-06-25",
     "url": "https://fgacenga.github.io/2019-06-24-usq",
     "country": "AU",
@@ -306,6 +348,20 @@
     "host_name": "University of Southern Queensland",
     "latitude": -27.606578,
     "start_date": "2019-06-24"
+  },
+  {
+    "end_date": "2019-07-02",
+    "url": "https://umswc.github.io/2019-07-1-umich/",
+    "country": "US",
+    "instructors": "Joshua Stough,Begum Topcuoglu,Kelly Sovacool",
+    "venue": "University of Michigan",
+    "longitude": -83.73823,
+    "slug": "2019-07-01-umich",
+    "tag_name": "SWC",
+    "helpers": "Ariangela Kozik,Katherine McLean",
+    "host_name": "University of Michigan",
+    "latitude": 42.276616,
+    "start_date": "2019-07-01"
   },
   {
     "end_date": "2019-07-05",
