@@ -1,5 +1,33 @@
 [
   {
+    "end_date": "2019-05-17",
+    "url": "https://gwu-libraries.github.io/2019-05-16-gwu/",
+    "country": "US",
+    "instructors": "Daniel Kerchner,Megan Potterbusch,Laura Wrubel",
+    "venue": "George Washington University",
+    "longitude": -77.048386,
+    "slug": "2019-05-16-gwu",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "George Washington University",
+    "latitude": 38.899233,
+    "start_date": "2019-05-16"
+  },
+  {
+    "end_date": "2019-05-17",
+    "url": "https://njhdunn.github.io/2019-05-16-umntc/",
+    "country": "US",
+    "instructors": "Nicholas Dunn,Cody Hennesy,Caitlin Bakker",
+    "venue": "University of Minnesota",
+    "longitude": -93.243129,
+    "slug": "2019-05-16-umntc",
+    "tag_name": "SWC",
+    "helpers": "Caitlin Bakker,Nicholas Dunn,Cody Hennesy",
+    "host_name": "University of Minnesota",
+    "latitude": 44.973394,
+    "start_date": "2019-05-16"
+  },
+  {
     "end_date": "2019-05-16",
     "url": "https://oulib-swc.github.io/2019-05-15-ou-swc/",
     "country": "US",
@@ -526,7 +554,7 @@
     "longitude": -3.26227,
     "slug": "2019-03-28-heriotwatt",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Lucia Michielin,Evan Morgan,David McKain,Matthew Hamilton,Hans-Nikolai Viessmann,Beatrice Alex,Clare Llewellyn",
     "host_name": "Heriot Watt University",
     "latitude": 55.92261,
     "start_date": "2019-03-28"
@@ -1132,6 +1160,20 @@
     "host_name": "University of Southern California",
     "latitude": 34.019611,
     "start_date": "2019-01-31"
+  },
+  {
+    "end_date": "2019-01-29",
+    "url": "https://sa2c.github.io/swc-swansea-january-2019/",
+    "country": "GB",
+    "instructors": "Ed Bennett,Mark Dawson",
+    "venue": "Swansea University",
+    "longitude": -3.9825905,
+    "slug": "2019-01-28-swansea",
+    "tag_name": "SWC",
+    "helpers": "Jarno Rantaharju,Chennakesava Kadapa",
+    "host_name": "Swansea University",
+    "latitude": 51.609049,
+    "start_date": "2019-01-28"
   },
   {
     "end_date": "2019-01-27",

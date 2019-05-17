@@ -28,34 +28,6 @@
     "start_date": "2019-05-14"
   },
   {
-    "end_date": "2019-05-17",
-    "url": "https://gwu-libraries.github.io/2019-05-16-gwu/",
-    "country": "US",
-    "instructors": "Daniel Kerchner,Megan Potterbusch,Laura Wrubel",
-    "venue": "George Washington University",
-    "longitude": -77.048386,
-    "slug": "2019-05-16-gwu",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "George Washington University",
-    "latitude": 38.899233,
-    "start_date": "2019-05-16"
-  },
-  {
-    "end_date": "2019-05-17",
-    "url": "https://njhdunn.github.io/2019-05-16-umntc/",
-    "country": "US",
-    "instructors": "Nicholas Dunn,Cody Hennesy,Caitlin Bakker",
-    "venue": "University of Minnesota",
-    "longitude": -93.243129,
-    "slug": "2019-05-16-umntc",
-    "tag_name": "SWC",
-    "helpers": "Caitlin Bakker,Nicholas Dunn,Cody Hennesy",
-    "host_name": "University of Minnesota",
-    "latitude": 44.973394,
-    "start_date": "2019-05-16"
-  },
-  {
     "end_date": "2019-05-18",
     "url": "https://dagimy.github.io/2019-05-17-SWC-HU/",
     "country": "ET",
@@ -334,6 +306,20 @@
     "host_name": "Stanford University",
     "latitude": 37.437519,
     "start_date": "2019-06-18"
+  },
+  {
+    "end_date": "2019-06-19",
+    "url": "https://edcarp.github.io/2019-06-19-edinburgh-git/",
+    "country": "GB",
+    "instructors": "Mike Jackson",
+    "venue": "University of Ediniburgh",
+    "longitude": -3.173319,
+    "slug": "2019-06-19-edinburgh-git",
+    "tag_name": "SWC",
+    "helpers": "Edward Wallace",
+    "host_name": "University of Edinburgh",
+    "latitude": 55.921807,
+    "start_date": "2019-06-19"
   },
   {
     "end_date": "2019-06-25",
