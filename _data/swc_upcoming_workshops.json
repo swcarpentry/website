@@ -28,20 +28,6 @@
     "start_date": "2019-05-14"
   },
   {
-    "end_date": "2019-05-21",
-    "url": "https://workshops-ukzn.github.io/2019-05-20-UKZN-SWC/",
-    "country": "ZA",
-    "instructors": "Oluwafisayo Kaka,Tadiwanashe Gutsa",
-    "venue": "UKZN, Westville Campus",
-    "longitude": 30.945906,
-    "slug": "2019-05-20-UKZN-SWC",
-    "tag_name": "SWC",
-    "helpers": "Moses Okpeku,Marie-Louise Umuhire,OLUFISAYO SUNDAY EKUNDAYO",
-    "host_name": "University of KwaZulu Natal",
-    "latitude": -29.818203,
-    "start_date": "2019-05-20"
-  },
-  {
     "end_date": "2019-05-22",
     "url": "https://swc-uiuc.github.io/2019-05-21-ncsa/",
     "country": "US",
@@ -137,6 +123,20 @@
     "helpers": null,
     "host_name": "ELIXIR-UK",
     "latitude": 52.934502,
+    "start_date": "2019-05-29"
+  },
+  {
+    "end_date": "2019-05-29",
+    "url": "https://bsurc.github.io/2019-05-29-sc-workshop/",
+    "country": "US",
+    "instructors": "Eric Jankowski,Mike Henry",
+    "venue": "Boise State University",
+    "longitude": -116.209994,
+    "slug": "2019-05-29-sc-workshop",
+    "tag_name": "SWC",
+    "helpers": "Kyle Shannon",
+    "host_name": "Boise State University",
+    "latitude": 43.604172,
     "start_date": "2019-05-29"
   },
   {

@@ -1,5 +1,33 @@
 [
   {
+    "end_date": "2019-05-21",
+    "url": "https://workshops-ukzn.github.io/2019-05-20-UKZN-SWC/",
+    "country": "ZA",
+    "instructors": "Oluwafisayo Kaka,Tadiwanashe Gutsa",
+    "venue": "UKZN, Westville Campus",
+    "longitude": 30.945906,
+    "slug": "2019-05-20-UKZN-SWC",
+    "tag_name": "SWC",
+    "helpers": "Moses Okpeku,Marie-Louise Umuhire,OLUFISAYO SUNDAY EKUNDAYO",
+    "host_name": "University of KwaZulu Natal",
+    "latitude": -29.818203,
+    "start_date": "2019-05-20"
+  },
+  {
+    "end_date": "2019-05-21",
+    "url": "https://unlhcc.github.io/2019-05-20-UNL/",
+    "country": "US",
+    "instructors": "Carrie Brown,Adam Caprez,Jingchao Zhang",
+    "venue": "Unversity of Nebraska",
+    "longitude": -96.016767,
+    "slug": "2019-05-20-UNL",
+    "tag_name": "SWC",
+    "helpers": "Huijun Zhu,Natasha Pavlovikj,Caughlin Bohn",
+    "host_name": "University of Nebraska",
+    "latitude": 41.24714,
+    "start_date": "2019-05-20"
+  },
+  {
     "end_date": "2019-05-18",
     "url": "https://dagimy.github.io/2019-05-17-SWC-HU/",
     "country": "ET",
@@ -8,7 +36,7 @@
     "longitude": 38.499797,
     "slug": "2019-05-17-SWC-HU",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Anteneh Berhanu",
     "host_name": "Addis Ababa University",
     "latitude": 7.05183,
     "start_date": "2019-05-17"
@@ -22,7 +50,7 @@
     "longitude": -77.048386,
     "slug": "2019-05-16-gwu",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Jason Hurlburt,Mengqi Ji,Liem Nguyen,Monica Rigucci,Marco Suarez,Steve Cherry,Zifan Huang,Liem Nguye",
     "host_name": "George Washington University",
     "latitude": 38.899233,
     "start_date": "2019-05-16"
@@ -36,7 +64,7 @@
     "longitude": -93.243129,
     "slug": "2019-05-16-umntc",
     "tag_name": "SWC",
-    "helpers": "Caitlin Bakker,Nicholas Dunn,Cody Hennesy",
+    "helpers": "Caitlin Bakker,Nicholas Dunn,Cody Hennesy,David Naughton",
     "host_name": "University of Minnesota",
     "latitude": 44.973394,
     "start_date": "2019-05-16"
@@ -50,7 +78,7 @@
     "longitude": -97.445848,
     "slug": "2019-05-15-ou-swc",
     "tag_name": "SWC",
-    "helpers": "Michael Malahy",
+    "helpers": "Michael Malahy,Fred Reiss,Horst Severini,Mahbobeh Lesan",
     "host_name": "University of Oklahoma",
     "latitude": 35.208275,
     "start_date": "2019-05-15"
@@ -64,7 +92,7 @@
     "longitude": -97.069754,
     "slug": "2019-05-13-okstate",
     "tag_name": "SWC",
-    "helpers": "Alex Chartier,Surya Ayyalasomayajula,Gautham Brahma Ponnaganti,Kay BJornen,Evan Linde",
+    "helpers": "Surya Ayyalasomayajula,Gautham Brahma Ponnaganti,Kay BJornen,Evan Linde",
     "host_name": "Oklahoma State University",
     "latitude": 36.12297,
     "start_date": "2019-05-13"
@@ -78,7 +106,7 @@
     "longitude": -76.9493301,
     "slug": "2019-05-10-cip",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Umesh Rosyara",
     "host_name": "International Potato Center",
     "latitude": -12.0780946,
     "start_date": "2019-05-10"
@@ -106,7 +134,7 @@
     "longitude": null,
     "slug": "2019-05-09-UCSB-SW-Carpentry",
     "tag_name": "SWC",
-    "helpers": "Vania Wang",
+    "helpers": "Vania Wang,Noah Spahn",
     "host_name": "University of California Santa Barbara",
     "latitude": null,
     "start_date": "2019-05-09"
@@ -120,7 +148,7 @@
     "longitude": -84.396286,
     "slug": "2019-05-09-gatech",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Chaoyi Chang,Ben Comer,Ray Lei,Gabriel Gusmao",
     "host_name": "Georgia Tech",
     "latitude": 33.77562,
     "start_date": "2019-05-09"
@@ -157,12 +185,12 @@
     "end_date": "2019-05-10",
     "url": "https://zenobieg.github.io/2019-05-09-udel/",
     "country": "US",
-    "instructors": "Zenobie Garrett",
+    "instructors": "Zenobie Garrett,Juniper Lake",
     "venue": "University of Delaware",
     "longitude": -75.73466,
     "slug": "2019-05-09-udel",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Kelly Mulholland,Priscilla Hempel",
     "host_name": "University of Delaware",
     "latitude": 39.678,
     "start_date": "2019-05-09"
