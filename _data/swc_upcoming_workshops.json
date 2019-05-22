@@ -28,20 +28,6 @@
     "start_date": "2019-05-14"
   },
   {
-    "end_date": "2019-05-22",
-    "url": "https://swc-uiuc.github.io/2019-05-21-ncsa/",
-    "country": "US",
-    "instructors": "Samniqueka Halsey,Dena Strong,Maxim Belkin",
-    "venue": "National Center for Supercomputing Applications",
-    "longitude": -88.225004,
-    "slug": "2019-05-21-ncsa",
-    "tag_name": "SWC",
-    "helpers": "David Mussulman,Halie Rando",
-    "host_name": "National Center for Supercomputing Applications, University of Illinois at Urbana–Champaign",
-    "latitude": 40.114832,
-    "start_date": "2019-05-21"
-  },
-  {
     "end_date": "2019-05-23",
     "url": "https://drlabratory.github.io/2019-05-22-genentech/",
     "country": "US",
@@ -76,7 +62,7 @@
     "instructors": "Dave Bridges,Michael Wolfe",
     "venue": "University of Michigan",
     "longitude": -83.737228,
-    "slug": "2019-05-23-shapiro",
+    "slug": "2019-05-22-umich",
     "tag_name": "SWC",
     "helpers": null,
     "host_name": "University of Michigan",
