@@ -89,12 +89,12 @@
     "country": "PT",
     "instructors": "Phil Reed,Eric Persson",
     "venue": "Instituto Gulbenkian de Ciência",
-    "longitude": null,
+    "longitude": -9.32247,
     "slug": "2019-05-30-elixir-portugal",
     "tag_name": "SWC",
     "helpers": null,
     "host_name": "ELIXIR-UK",
-    "latitude": null,
+    "latitude": 38.685796,
     "start_date": "2019-05-30"
   },
   {
@@ -210,6 +210,20 @@
     "start_date": "2019-06-11"
   },
   {
+    "end_date": "2019-06-12",
+    "url": "https://nesclic.github.io/2019-06-11-Mount-Holyoke/",
+    "country": "US",
+    "instructors": "Thea Atwood,JAMES BURKE,Sarah Oelker",
+    "venue": "Mount Holyoke College",
+    "longitude": -72.575286,
+    "slug": "2019-06-11-Mount-Holyoke",
+    "tag_name": "SWC",
+    "helpers": "Thea Atwood,JAMES BURKE,Ann Kardos,Sarah Oelker",
+    "host_name": "Mount Holyoke College",
+    "latitude": 42.257249,
+    "start_date": "2019-06-11"
+  },
+  {
     "end_date": "2019-06-14",
     "url": "https://nesclic.github.io/2019-06-13-dartmouth/",
     "country": "US",
@@ -264,6 +278,20 @@
     "host_name": "University of Southern Queensland",
     "latitude": -27.606578,
     "start_date": "2019-06-24"
+  },
+  {
+    "end_date": "2019-06-26",
+    "url": "https://jtande.github.io/2019-06-25-ColbyCollege/",
+    "country": "US",
+    "instructors": "Jacob Fosso Tande",
+    "venue": "Colby College",
+    "longitude": -69.63131,
+    "slug": "2019-06-25-ColbyCollege",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Colby College",
+    "latitude": 44.552841,
+    "start_date": "2019-06-25"
   },
   {
     "end_date": "2019-07-02",
