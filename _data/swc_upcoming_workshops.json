@@ -28,20 +28,6 @@
     "start_date": "2019-05-14"
   },
   {
-    "end_date": "2019-05-29",
-    "url": "https://unt-carpentries.github.io/2019-05-28-unt-swc/",
-    "country": "US",
-    "instructors": "Jason Ellis,Kristy Phillips,Madhulika Bayyavarapu,Manuel (Gio) Gottardi",
-    "venue": "University of North Texas",
-    "longitude": -97.148954,
-    "slug": "2019-05-28-unt-swc",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of North Texas",
-    "latitude": 33.210068,
-    "start_date": "2019-05-28"
-  },
-  {
     "end_date": "2019-06-01",
     "url": "https://gboushey.github.io/2019-05-29-UCSF-R/",
     "country": "US",
@@ -67,20 +53,6 @@
     "helpers": null,
     "host_name": "ELIXIR-UK",
     "latitude": 52.934502,
-    "start_date": "2019-05-29"
-  },
-  {
-    "end_date": "2019-05-29",
-    "url": "https://bsurc.github.io/2019-05-29-sc-workshop/",
-    "country": "US",
-    "instructors": "Eric Jankowski,Mike Henry",
-    "venue": "Boise State University",
-    "longitude": -116.209994,
-    "slug": "2019-05-29-sc-workshop",
-    "tag_name": "SWC",
-    "helpers": "Kyle Shannon",
-    "host_name": "Boise State University",
-    "latitude": 43.604172,
     "start_date": "2019-05-29"
   },
   {
@@ -194,6 +166,20 @@
     "host_name": "ELIXIR-UK",
     "latitude": 40.476688,
     "start_date": "2019-06-06"
+  },
+  {
+    "end_date": "2019-06-11",
+    "url": "https://hpcarcher.github.io/2019-06-10-york/",
+    "country": "GB",
+    "instructors": "Juan Herrera",
+    "venue": "ARCHER-SSI Software Carpentry at The University of York",
+    "longitude": -1.046603,
+    "slug": "2019-06-10-york",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of York",
+    "latitude": 53.9480435,
+    "start_date": "2019-06-10"
   },
   {
     "end_date": "2019-06-12",
