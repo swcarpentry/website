@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-05-30",
+    "url": "https://math2522.github.io/2019-05-29-elixir-nottingham/",
+    "country": "GB",
+    "instructors": "Wagner Barløse Mathias,Punam Amratia",
+    "venue": "University of Nottingham",
+    "longitude": -1.19467,
+    "slug": "2019-05-29-elixir-nottingham",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": 52.934502,
+    "start_date": "2019-05-29"
+  },
+  {
     "end_date": "2019-05-29",
     "url": "https://bsurc.github.io/2019-05-29-sc-workshop/",
     "country": "US",
