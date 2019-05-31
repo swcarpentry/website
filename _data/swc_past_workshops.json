@@ -1,5 +1,61 @@
 [
   {
+    "end_date": "2019-05-31",
+    "url": "https://philreeddata.github.io/2019-05-30-elixir-portugal/",
+    "country": "PT",
+    "instructors": "Phil Reed,Eric Persson",
+    "venue": "Instituto Gulbenkian de Ciência",
+    "longitude": -9.32247,
+    "slug": "2019-05-30-elixir-portugal",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": 38.685796,
+    "start_date": "2019-05-30"
+  },
+  {
+    "end_date": "2019-05-31",
+    "url": "https://oulib-swc.github.io/2019-05-30-ou-swc-tulsa/",
+    "country": "US",
+    "instructors": "Claire Curry,Brent Tweedy",
+    "venue": "University of Oklahoma Schusterman Library, Tulsa",
+    "longitude": -95.922955,
+    "slug": "2019-05-30-ou-swc-tulsa",
+    "tag_name": "SWC",
+    "helpers": "Toni Hoberecht,Krista Kezbers",
+    "host_name": "University of Oklahoma",
+    "latitude": 36.101228,
+    "start_date": "2019-05-30"
+  },
+  {
+    "end_date": "2019-05-31",
+    "url": "https://starescomp.github.io/2019-05-30-standrews/",
+    "country": "GB",
+    "instructors": "Alexander Konovalov,Isla Barnard,Leighton Pritchard,Michael Torpey",
+    "venue": "University of St Andrews",
+    "longitude": -2.793957,
+    "slug": "2019-05-30-standrews",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of St. Andrews",
+    "latitude": 56.339308,
+    "start_date": "2019-05-30"
+  },
+  {
+    "end_date": "2019-05-31",
+    "url": "https://nmcarpentries.github.io/2019-05-30-unm/",
+    "country": "US",
+    "instructors": "Jon Wheeler,Karl Benedict",
+    "venue": "University of New Mexico",
+    "longitude": -106.619838,
+    "slug": "2019-05-30-unm",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of New Mexico",
+    "latitude": 35.085714,
+    "start_date": "2019-05-30"
+  },
+  {
     "end_date": "2019-05-30",
     "url": "https://math2522.github.io/2019-05-29-elixir-nottingham/",
     "country": "GB",
@@ -26,6 +82,20 @@
     "host_name": "Boise State University",
     "latitude": 43.604172,
     "start_date": "2019-05-29"
+  },
+  {
+    "end_date": "2019-05-29",
+    "url": "https://natalie-robinson.github.io/2019-05-28-strobe_boulder/",
+    "country": "US",
+    "instructors": "Sebastian Dick,Natalie Robinson",
+    "venue": "STROBE @ CU Boulder",
+    "longitude": -105.28115,
+    "slug": "2019-05-28-strobe_boulder",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "STROBE",
+    "latitude": 40.01049,
+    "start_date": "2019-05-28"
   },
   {
     "end_date": "2019-05-29",
@@ -1356,6 +1426,20 @@
     "host_name": "Swarthmore College",
     "latitude": 39.904034,
     "start_date": "2019-01-26"
+  },
+  {
+    "end_date": "2019-01-26",
+    "url": "https://ucsbcarpentry.github.io/2019-01-25-UCSBLibrary/",
+    "country": "US",
+    "instructors": "Jon Jablonski,Ian Lessing,Greg Janée,Sharon Solis,Mary Donovan,Katja Seltmann,Yuan Wu",
+    "venue": "UCSB Library, classroom 1312",
+    "longitude": -119.845506,
+    "slug": "2019-01-25-UCSBLibrary",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California Santa Barbara",
+    "latitude": 34.414354,
+    "start_date": "2019-01-25"
   },
   {
     "end_date": "2019-01-25",
