@@ -56,6 +56,20 @@
     "start_date": "2019-05-30"
   },
   {
+    "end_date": "2019-06-01",
+    "url": "https://gboushey.github.io/2019-05-29-UCSF-R/",
+    "country": "US",
+    "instructors": "Karla Lindquist,Angelo Pelonero,Geoffrey Boushey",
+    "venue": "University of California, San Francisco",
+    "longitude": 122.3944,
+    "slug": "2019-05-29-UCSF-R",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California San Francisco",
+    "latitude": 37.7938,
+    "start_date": "2019-05-29"
+  },
+  {
     "end_date": "2019-05-30",
     "url": "https://math2522.github.io/2019-05-29-elixir-nottingham/",
     "country": "GB",
@@ -120,9 +134,23 @@
     "longitude": -122.381991,
     "slug": "2019-05-22-genentech",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Altaf Kassam",
     "host_name": "Genentech",
     "latitude": 37.652106,
+    "start_date": "2019-05-22"
+  },
+  {
+    "end_date": "2019-05-23",
+    "url": "https://pages.nist.gov/2019-05-22-nist/",
+    "country": "US",
+    "instructors": "Justin Senseney,Ian Bell,Chandler Becker",
+    "venue": "1-1103/1105",
+    "longitude": -105.2634546,
+    "slug": "2019-05-22-nist",
+    "tag_name": "SWC",
+    "helpers": "Justin Senseney,Ian Bell,Chandler Becker",
+    "host_name": "National Institute of Standards and Technology",
+    "latitude": 39.9917106,
     "start_date": "2019-05-22"
   },
   {

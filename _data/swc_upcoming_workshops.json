@@ -28,18 +28,18 @@
     "start_date": "2019-05-14"
   },
   {
-    "end_date": "2019-06-01",
-    "url": "https://gboushey.github.io/2019-05-29-UCSF-R/",
-    "country": "US",
-    "instructors": "Karla Lindquist,Angelo Pelonero,Geoffrey Boushey",
-    "venue": "University of California, San Francisco",
-    "longitude": 122.3944,
-    "slug": "2019-05-29-UCSF-R",
+    "end_date": "2019-06-04",
+    "url": "https://bham-carpentries.github.io/2019-06-03-bham/",
+    "country": "GB",
+    "instructors": "Simon Branford,Andris Jankevics",
+    "venue": "University of Birmingham",
+    "longitude": -1.935646,
+    "slug": "2019-06-03-bham",
     "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of California San Francisco",
-    "latitude": 37.7938,
-    "start_date": "2019-05-29"
+    "helpers": "Karn Vohra",
+    "host_name": "University of Birmingham",
+    "latitude": 52.450693,
+    "start_date": "2019-06-03"
   },
   {
     "end_date": "2019-06-04",
