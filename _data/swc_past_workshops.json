@@ -1,5 +1,33 @@
 [
   {
+    "end_date": "2019-06-04",
+    "url": "https://bham-carpentries.github.io/2019-06-03-bham/",
+    "country": "GB",
+    "instructors": "Simon Branford,Andris Jankevics",
+    "venue": "University of Birmingham",
+    "longitude": -1.935646,
+    "slug": "2019-06-03-bham",
+    "tag_name": "SWC",
+    "helpers": "Karn Vohra",
+    "host_name": "University of Birmingham",
+    "latitude": 52.450693,
+    "start_date": "2019-06-03"
+  },
+  {
+    "end_date": "2019-06-04",
+    "url": "https://fpsom.github.io/2019-06-03-elixir-athens-eie",
+    "country": "GR",
+    "instructors": "Thor Wikfeldt,Fotis Psomopoulos",
+    "venue": "National Hellenic Research Foundation",
+    "longitude": 23.745407,
+    "slug": "2019-06-03-elixir-athens-eie",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": 37.973198,
+    "start_date": "2019-06-03"
+  },
+  {
     "end_date": "2019-05-31",
     "url": "https://philreeddata.github.io/2019-05-30-elixir-portugal/",
     "country": "PT",
@@ -278,6 +306,20 @@
     "host_name": "University of Oklahoma",
     "latitude": 35.208275,
     "start_date": "2019-05-15"
+  },
+  {
+    "end_date": "2019-06-04",
+    "url": "https://rbeagrie.github.io/2019-03-26-WIMM-Python/",
+    "country": "GB",
+    "instructors": "Robert Beagrie,Nicki GRAY",
+    "venue": "MRC Weatherall Institute of Molecular Medicine",
+    "longitude": -1.216999,
+    "slug": "2019-03-26-WIMM-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Oxford",
+    "latitude": 51.76337,
+    "start_date": "2019-05-14"
   },
   {
     "end_date": "2019-05-14",
