@@ -28,20 +28,6 @@
     "start_date": "2019-06-03"
   },
   {
-    "end_date": "2019-06-05",
-    "url": "https://epfllibrary.github.io/2019-06-04-epfl",
-    "country": "CH",
-    "instructors": "Jérôme Chaptinel,Raphaël Grolimund,Antoine Masson,Mathilde Panes",
-    "venue": "Ecole Polytechnique Fédérale de Lausanne",
-    "longitude": 6.568473,
-    "slug": "2019-06-04-epfl",
-    "tag_name": "SWC",
-    "helpers": "Ludovic Bonivento,C_cile Hardebolle",
-    "host_name": "École polytechnique fédérale de Lausanne",
-    "latitude": 46.518445,
-    "start_date": "2019-06-04"
-  },
-  {
     "end_date": "2019-06-06",
     "url": "https://pages.nist.gov/2019-06-05-nist/",
     "country": "US",
@@ -250,6 +236,20 @@
     "host_name": "Griffith University",
     "latitude": -27.960345,
     "start_date": "2019-08-06"
+  },
+  {
+    "end_date": "2019-08-23",
+    "url": "https://smeehan12.github.io/2019-08-19-usatlas-computing-bootcamp",
+    "country": "US",
+    "instructors": "Daniel Guest,Henry Schreiber,Samuel Meehan,Dan Guest,Matthew Feickert,Giordon Stark,Lukas Heinrich,Nils Krumnack,Henry Schreiner,Karol Krizka,Adam Parker",
+    "venue": "Lawrence Berkeley National Laboratory",
+    "longitude": -122.25,
+    "slug": "2019-08-19-usatlas-computing-bootcamp",
+    "tag_name": "SWC",
+    "helpers": "Shih Chieh Hsu,Zachary Marshall",
+    "host_name": "Lawrence Berkeley National Laboratory",
+    "latitude": 37.8759,
+    "start_date": "2019-08-19"
   },
   {
     "end_date": "2019-10-03",
