@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-06-06",
+    "url": "https://pages.nist.gov/2019-06-05-nist/",
+    "country": "US",
+    "instructors": "Andrew Reid,Trevor Keller,Juan Fung,Justin Senseney",
+    "venue": "Building 215/Room C103",
+    "longitude": -77.2185498,
+    "slug": "2019-06-05-nist",
+    "tag_name": "SWC",
+    "helpers": "Daniel Wheeler,Jonathan Guyer",
+    "host_name": "National Institute of Standards and Technology",
+    "latitude": 39.1321944,
+    "start_date": "2019-06-05"
+  },
+  {
     "end_date": "2019-06-05",
     "url": "https://epfllibrary.github.io/2019-06-04-epfl",
     "country": "CH",
