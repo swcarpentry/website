@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-06-07",
+    "url": "https://mariakotouza.github.io/2019-06-06-elixir-bsc/",
+    "country": "ES",
+    "instructors": "Maria Kotouza,Joaquín Morís",
+    "venue": "Elixir-CNIO",
+    "longitude": -3.696091,
+    "slug": "2019-06-06-elixir-bsc",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "ELIXIR-UK",
+    "latitude": 40.476688,
+    "start_date": "2019-06-06"
+  },
+  {
     "end_date": "2019-06-06",
     "url": "https://pages.nist.gov/2019-06-05-nist/",
     "country": "US",
@@ -53,6 +67,20 @@
     "helpers": null,
     "host_name": "ELIXIR-UK",
     "latitude": 37.973198,
+    "start_date": "2019-06-03"
+  },
+  {
+    "end_date": "2019-06-07",
+    "url": "https://idi-bd2k.github.io/2019-06-03-puerto_rico-R/",
+    "country": "PR",
+    "instructors": "Humberto Ortiz-Zuazaga,Sofia Melendez-Cartagena",
+    "venue": "University of Puerto Rico",
+    "longitude": -66.0463582,
+    "slug": "2019-06-03-puerto_rico-R",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Puerto Rico",
+    "latitude": 18.4044218,
     "start_date": "2019-06-03"
   },
   {
