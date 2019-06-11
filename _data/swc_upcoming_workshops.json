@@ -14,20 +14,6 @@
     "start_date": "2019-04-16"
   },
   {
-    "end_date": "2019-06-11",
-    "url": "https://hpcarcher.github.io/2019-06-10-york/",
-    "country": "GB",
-    "instructors": "Juan Herrera",
-    "venue": "ARCHER-SSI Software Carpentry at The University of York",
-    "longitude": -1.046603,
-    "slug": "2019-06-10-york",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of York",
-    "latitude": 53.9480435,
-    "start_date": "2019-06-10"
-  },
-  {
     "end_date": "2019-06-12",
     "url": "https://bio-swc-bne.github.io/2019-06-11-GriffithUni-R/",
     "country": "AU",
@@ -180,6 +166,20 @@
     "host_name": "Consiglio Nazionale delle Ricerche",
     "latitude": 40.85459,
     "start_date": "2019-07-03"
+  },
+  {
+    "end_date": "2019-07-11",
+    "url": "https://cengel.github.io/2019-07-10-stanford/",
+    "country": "US",
+    "instructors": "Claudia Engel,Lorraine Ling,Linnea Shieh,João Rodrigues",
+    "venue": "Stanford University",
+    "longitude": -122.1649,
+    "slug": "2019-07-10-stanford",
+    "tag_name": "SWC",
+    "helpers": "Ashley Jester,Zac Painter",
+    "host_name": "Stanford University",
+    "latitude": 37.42883,
+    "start_date": "2019-07-10"
   },
   {
     "end_date": "2019-08-08",

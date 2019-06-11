@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-06-11",
+    "url": "https://hpcarcher.github.io/2019-06-10-york/",
+    "country": "GB",
+    "instructors": "Juan Herrera",
+    "venue": "ARCHER-SSI Software Carpentry at The University of York",
+    "longitude": -1.046603,
+    "slug": "2019-06-10-york",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of York",
+    "latitude": 53.9480435,
+    "start_date": "2019-06-10"
+  },
+  {
     "end_date": "2019-06-07",
     "url": "https://mariakotouza.github.io/2019-06-06-elixir-bsc/",
     "country": "ES",
