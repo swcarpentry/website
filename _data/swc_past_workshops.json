@@ -1,5 +1,33 @@
 [
   {
+    "end_date": "2019-06-12",
+    "url": "https://bio-swc-bne.github.io/2019-06-11-GriffithUni-R/",
+    "country": "AU",
+    "instructors": "Amanda Miotto",
+    "venue": "Griffith University",
+    "longitude": 153.052425,
+    "slug": "2019-06-11-Griffith",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.552941,
+    "start_date": "2019-06-11"
+  },
+  {
+    "end_date": "2019-06-12",
+    "url": "https://nesclic.github.io/2019-06-11-Mount-Holyoke/",
+    "country": "US",
+    "instructors": "Thea Atwood,JAMES BURKE,Sarah Oelker",
+    "venue": "Mount Holyoke College",
+    "longitude": -72.575286,
+    "slug": "2019-06-11-Mount-Holyoke",
+    "tag_name": "SWC",
+    "helpers": "Thea Atwood,JAMES BURKE,Ann Kardos,Sarah Oelker",
+    "host_name": "Mount Holyoke College",
+    "latitude": 42.257249,
+    "start_date": "2019-06-11"
+  },
+  {
     "end_date": "2019-06-11",
     "url": "https://hpcarcher.github.io/2019-06-10-york/",
     "country": "GB",
@@ -32,7 +60,7 @@
     "url": "https://pages.nist.gov/2019-06-05-nist/",
     "country": "US",
     "instructors": "Andrew Reid,Trevor Keller,Juan Fung,Justin Senseney",
-    "venue": "Building 215/Room C103",
+    "venue": "National Institute of Standards and Technology, Building 215/Room C103, 100 Bureau Dr., Gaithersburg, MD 20899, USA",
     "longitude": -77.2185498,
     "slug": "2019-06-05-nist",
     "tag_name": "SWC",

@@ -14,34 +14,6 @@
     "start_date": "2019-04-16"
   },
   {
-    "end_date": "2019-06-12",
-    "url": "https://bio-swc-bne.github.io/2019-06-11-GriffithUni-R/",
-    "country": "AU",
-    "instructors": "Amanda Miotto",
-    "venue": "Griffith University",
-    "longitude": 153.052425,
-    "slug": "2019-06-11-Griffith",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Griffith University",
-    "latitude": -27.552941,
-    "start_date": "2019-06-11"
-  },
-  {
-    "end_date": "2019-06-12",
-    "url": "https://nesclic.github.io/2019-06-11-Mount-Holyoke/",
-    "country": "US",
-    "instructors": "Thea Atwood,JAMES BURKE,Sarah Oelker",
-    "venue": "Mount Holyoke College",
-    "longitude": -72.575286,
-    "slug": "2019-06-11-Mount-Holyoke",
-    "tag_name": "SWC",
-    "helpers": "Thea Atwood,JAMES BURKE,Ann Kardos,Sarah Oelker",
-    "host_name": "Mount Holyoke College",
-    "latitude": 42.257249,
-    "start_date": "2019-06-11"
-  },
-  {
     "end_date": "2019-06-14",
     "url": "https://nesclic.github.io/2019-06-13-dartmouth/",
     "country": "US",
