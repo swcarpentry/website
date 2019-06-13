@@ -140,6 +140,20 @@
     "start_date": "2019-07-03"
   },
   {
+    "end_date": "2019-07-09",
+    "url": "https://djsperka.github.io/2019-07-08-strobe_berkeley/",
+    "country": "US",
+    "instructors": "Melissa Ko,Daniel Sperka",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-07-08-strobe_berkeley",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "STROBE",
+    "latitude": null,
+    "start_date": "2019-07-08"
+  },
+  {
     "end_date": "2019-07-11",
     "url": "https://cengel.github.io/2019-07-10-stanford/",
     "country": "US",
