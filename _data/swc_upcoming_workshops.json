@@ -14,34 +14,6 @@
     "start_date": "2019-04-16"
   },
   {
-    "end_date": "2019-06-14",
-    "url": "https://nesclic.github.io/2019-06-13-dartmouth/",
-    "country": "US",
-    "instructors": "JIANJUN HUA,James Adams,Lora Leligdon,Pamela Bagley,Stephen Gaughan",
-    "venue": "Dartmouth College",
-    "longitude": -72.289101,
-    "slug": "2019-06-13-dartmouth",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Dartmouth College",
-    "latitude": 43.705787,
-    "start_date": "2019-06-13"
-  },
-  {
-    "end_date": "2019-06-14",
-    "url": "https://uw-madison-datascience.github.io/2019-06-13-uwmadison-swc/",
-    "country": "US",
-    "instructors": "David Hoese",
-    "venue": "Software Carpentry @ UW Madison",
-    "longitude": -89.410268,
-    "slug": "2019-06-13-uwmadison-swc",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Wisconsin - Madison",
-    "latitude": 43.0729163,
-    "start_date": "2019-06-13"
-  },
-  {
     "end_date": "2019-06-21",
     "url": "https://erdc.github.io/2019-06-17-erdc-swc/",
     "country": "US",
@@ -85,6 +57,20 @@
   },
   {
     "end_date": "2019-06-21",
+    "url": "https://qcif-training.github.io/2019-06-20-CQUni-R/",
+    "country": "AU",
+    "instructors": "Jason Bell",
+    "venue": "Central Queensland University",
+    "longitude": 150.519112,
+    "slug": "2019-06-20-CQUni",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "CQUniversity",
+    "latitude": -23.324463,
+    "start_date": "2019-06-20"
+  },
+  {
+    "end_date": "2019-06-21",
     "url": "https://uci-libraries.github.io/2019-06-20-UCI/",
     "country": "US",
     "instructors": "Danielle Kane,Madelynn Dickerson,Mitchell Brown",
@@ -124,6 +110,20 @@
     "host_name": "Colby College",
     "latitude": 44.552841,
     "start_date": "2019-06-25"
+  },
+  {
+    "end_date": "2019-06-28",
+    "url": "https://qcif-training.github.io/2019-06-27-CQUni-Python/",
+    "country": "AU",
+    "instructors": "Jason Bell",
+    "venue": "Central Queensland University",
+    "longitude": 150.519112,
+    "slug": "2019-06-27-CQUni",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "CQUniversity",
+    "latitude": -23.324463,
+    "start_date": "2019-06-27"
   },
   {
     "end_date": "2019-07-02",

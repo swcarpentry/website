@@ -1,5 +1,33 @@
 [
   {
+    "end_date": "2019-06-14",
+    "url": "https://nesclic.github.io/2019-06-13-dartmouth/",
+    "country": "US",
+    "instructors": "JIANJUN HUA,James Adams,Lora Leligdon,Pamela Bagley,Stephen Gaughan",
+    "venue": "Dartmouth College",
+    "longitude": -72.289101,
+    "slug": "2019-06-13-dartmouth",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Dartmouth College",
+    "latitude": 43.705787,
+    "start_date": "2019-06-13"
+  },
+  {
+    "end_date": "2019-06-14",
+    "url": "https://uw-madison-datascience.github.io/2019-06-13-uwmadison-swc/",
+    "country": "US",
+    "instructors": "David Hoese",
+    "venue": "Software Carpentry @ UW Madison",
+    "longitude": -89.410268,
+    "slug": "2019-06-13-uwmadison-swc",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.0729163,
+    "start_date": "2019-06-13"
+  },
+  {
     "end_date": "2019-06-12",
     "url": "https://bio-swc-bne.github.io/2019-06-11-GriffithUni-R/",
     "country": "AU",
@@ -1744,7 +1772,7 @@
     "longitude": -73.963191,
     "slug": "2019-01-17-Columbia-Section-2",
     "tag_name": "SWC",
-    "helpers": "Jonathan Reeve,Kathryn Engelhardt,Oliver Bear",
+    "helpers": "Jonathan Reeve,Kathryn Engelhardt,Oliver Bear Don't Walk",
     "host_name": "Columbia University",
     "latitude": 40.806367,
     "start_date": "2019-01-17"
