@@ -92,7 +92,7 @@
     "longitude": -77.2185498,
     "slug": "2019-06-05-nist",
     "tag_name": "SWC",
-    "helpers": "Daniel Wheeler,Jonathan Guyer",
+    "helpers": "Daniel Wheeler,Jonathan Guyer,Adam Creuziger",
     "host_name": "National Institute of Standards and Technology",
     "latitude": 39.1321944,
     "start_date": "2019-06-05"
@@ -148,7 +148,7 @@
     "longitude": -66.0463582,
     "slug": "2019-06-03-puerto_rico-R",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Israel Dilán",
     "host_name": "University of Puerto Rico",
     "latitude": 18.4044218,
     "start_date": "2019-06-03"
@@ -162,7 +162,7 @@
     "longitude": -9.32247,
     "slug": "2019-05-30-elixir-portugal",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "João Raimundo,Henrique Costa",
     "host_name": "ELIXIR-UK",
     "latitude": 38.685796,
     "start_date": "2019-05-30"
@@ -218,7 +218,7 @@
     "longitude": 122.3944,
     "slug": "2019-05-29-UCSF-R",
     "tag_name": "SWC",
-    "helpers": "Gaia Andreoletti,Amber Bahorik,Ariel Deardorff,Stefan Topfstedt",
+    "helpers": "Gaia Andreoletti,Amber Bahorik,Ariel Deardorff,Stefan Topfstedt,Charlie Macquarie,Manish Paranjpe,David Wu",
     "host_name": "University of California San Francisco",
     "latitude": 37.7938,
     "start_date": "2019-05-29"
@@ -274,7 +274,7 @@
     "longitude": -97.148954,
     "slug": "2019-05-28-unt-swc",
     "tag_name": "SWC",
-    "helpers": "Mark Phillips,Jason Ellis,Sarah Fisher",
+    "helpers": "Mark Phillips,Jason Ellis,Sarah Fisher,Chris Hergert",
     "host_name": "University of North Texas",
     "latitude": 33.210068,
     "start_date": "2019-05-28"
@@ -288,7 +288,7 @@
     "longitude": -97.737819,
     "slug": "2019-05-28-utexas",
     "tag_name": "SWC",
-    "helpers": "Jessica Trelogan",
+    "helpers": "Jessica Trelogan,Alex Nishida,Yiyuan (YY) Li,Rob Heckman",
     "host_name": "University of Texas (Austin)",
     "latitude": 30.287874,
     "start_date": "2019-05-28"
