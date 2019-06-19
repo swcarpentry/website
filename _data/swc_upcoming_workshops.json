@@ -28,34 +28,6 @@
     "start_date": "2019-06-17"
   },
   {
-    "end_date": "2019-06-19",
-    "url": "https://zpainter.github.io/2019-06-18-stanford/",
-    "country": "US",
-    "instructors": "Max Czapanskiy,Melissa Ko,Zac Painter,Satoshi Yokota",
-    "venue": "Stanford University",
-    "longitude": -122.165749,
-    "slug": "2019-06-18-stanford",
-    "tag_name": "SWC",
-    "helpers": "Chao Jiang,Lorraine Ling",
-    "host_name": "Stanford University",
-    "latitude": 37.437519,
-    "start_date": "2019-06-18"
-  },
-  {
-    "end_date": "2019-06-19",
-    "url": "https://edcarp.github.io/2019-06-19-edinburgh-git/",
-    "country": "GB",
-    "instructors": "Mike Jackson",
-    "venue": "University of Ediniburgh",
-    "longitude": -3.173319,
-    "slug": "2019-06-19-edinburgh-git",
-    "tag_name": "SWC",
-    "helpers": "Edward Wallace",
-    "host_name": "University of Edinburgh",
-    "latitude": 55.921807,
-    "start_date": "2019-06-19"
-  },
-  {
     "end_date": "2019-06-21",
     "url": "https://qcif-training.github.io/2019-06-20-CQUni-R/",
     "country": "AU",
