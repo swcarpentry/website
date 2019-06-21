@@ -14,48 +14,6 @@
     "start_date": "2019-04-16"
   },
   {
-    "end_date": "2019-06-21",
-    "url": "https://erdc.github.io/2019-06-17-erdc-swc/",
-    "country": "US",
-    "instructors": "Drew Loney,Chris Kees",
-    "venue": "US Army ERDC",
-    "longitude": -90.877884,
-    "slug": "2019-06-17-erdc-swc",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "US Army Engineer Research and Development Center (ERDC)",
-    "latitude": 32.352646,
-    "start_date": "2019-06-17"
-  },
-  {
-    "end_date": "2019-06-21",
-    "url": "https://qcif-training.github.io/2019-06-20-CQUni-R/",
-    "country": "AU",
-    "instructors": "Jason Bell",
-    "venue": "Central Queensland University",
-    "longitude": 150.519112,
-    "slug": "2019-06-20-CQUni",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "CQUniversity",
-    "latitude": -23.324463,
-    "start_date": "2019-06-20"
-  },
-  {
-    "end_date": "2019-06-21",
-    "url": "https://uci-libraries.github.io/2019-06-20-UCI/",
-    "country": "US",
-    "instructors": "Danielle Kane,Madelynn Dickerson,Mitchell Brown",
-    "venue": "UC Irvine Libraries",
-    "longitude": -117.8411,
-    "slug": "2019-06-20-UCI",
-    "tag_name": "SWC",
-    "helpers": "Danielle Kane,Madelynn Dickerson,Mitchell Brown",
-    "host_name": "University of California Irvine",
-    "latitude": 33.647111,
-    "start_date": "2019-06-20"
-  },
-  {
     "end_date": "2019-06-25",
     "url": "https://fgacenga.github.io/2019-06-24-usq",
     "country": "AU",
