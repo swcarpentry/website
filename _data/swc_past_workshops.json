@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-06-25",
+    "url": "https://fgacenga.github.io/2019-06-24-usq",
+    "country": "AU",
+    "instructors": "Francis Gacenga,Richard Young",
+    "venue": "University of Southern Queensland",
+    "longitude": 151.935113,
+    "slug": "2019-06-24-usq",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Southern Queensland",
+    "latitude": -27.606578,
+    "start_date": "2019-06-24"
+  },
+  {
     "end_date": "2019-06-21",
     "url": "https://qcif-training.github.io/2019-06-20-CQUni-R/",
     "country": "AU",
@@ -14325,7 +14339,7 @@
     "end_date": "2015-06-05",
     "url": "https://BIDS.github.io/2015-06-04-berkeley/",
     "country": "US",
-    "instructors": "Kathryn Huff,Fatma Imamoglu,Thomas Kluyver,Daniel Turek",
+    "instructors": "Kathryn Huff,Fatma Deniz,Thomas Kluyver,Daniel Turek",
     "venue": "Berkeley Institute for Data Science (BIDS)",
     "longitude": -122.259614,
     "slug": "2015-06-04-berkeley",
@@ -17186,7 +17200,7 @@
     "longitude": -122.1653,
     "slug": "2014-01-27-Stanford",
     "tag_name": "SWC",
-    "helpers": "Ben Bowles,Fatma Imamoglu,Pablo Jadzinsky,Alexandra Scharr",
+    "helpers": "Ben Bowles,Fatma Deniz,Pablo Jadzinsky,Alexandra Scharr",
     "host_name": "Stanford University",
     "latitude": 37.4225,
     "start_date": "2014-01-27"
