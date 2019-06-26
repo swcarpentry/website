@@ -14,20 +14,6 @@
     "start_date": "2019-04-16"
   },
   {
-    "end_date": "2019-06-26",
-    "url": "https://jtande.github.io/2019-06-25-ColbyCollege/",
-    "country": "US",
-    "instructors": "Jacob Fosso Tande",
-    "venue": "Colby College",
-    "longitude": -69.63131,
-    "slug": "2019-06-25-ColbyCollege",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Colby College",
-    "latitude": 44.552841,
-    "start_date": "2019-06-25"
-  },
-  {
     "end_date": "2019-06-28",
     "url": "https://qcif-training.github.io/2019-06-27-CQUni-Python/",
     "country": "AU",
