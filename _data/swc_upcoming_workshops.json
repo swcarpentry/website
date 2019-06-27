@@ -88,13 +88,13 @@
     "url": "https://djsperka.github.io/2019-07-08-strobe_berkeley/",
     "country": "US",
     "instructors": "Melissa Ko,Daniel Sperka",
-    "venue": "FIXME",
-    "longitude": null,
+    "venue": "University of California, Berkeley",
+    "longitude": -122.25647,
     "slug": "2019-07-08-strobe_berkeley",
     "tag_name": "SWC",
     "helpers": null,
     "host_name": "STROBE",
-    "latitude": null,
+    "latitude": 37.87225,
     "start_date": "2019-07-08"
   },
   {
