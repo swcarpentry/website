@@ -14,20 +14,6 @@
     "start_date": "2019-04-16"
   },
   {
-    "end_date": "2019-06-28",
-    "url": "https://qcif-training.github.io/2019-06-27-CQUni-Python/",
-    "country": "AU",
-    "instructors": "Jason Bell",
-    "venue": "Central Queensland University",
-    "longitude": 150.519112,
-    "slug": "2019-06-27-CQUni",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "CQUniversity",
-    "latitude": -23.324463,
-    "start_date": "2019-06-27"
-  },
-  {
     "end_date": "2019-07-03",
     "url": "https://ucsdlib.github.io/2019-07-01-UCSD/",
     "country": "US",
