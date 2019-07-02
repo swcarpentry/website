@@ -28,20 +28,6 @@
     "start_date": "2019-07-01"
   },
   {
-    "end_date": "2019-07-02",
-    "url": "https://umswc.github.io/2019-07-1-umich/",
-    "country": "US",
-    "instructors": "Joshua Stough,Begum Topcuoglu,Kelly Sovacool",
-    "venue": "University of Michigan",
-    "longitude": -83.73823,
-    "slug": "2019-07-01-umich",
-    "tag_name": "SWC",
-    "helpers": "Ariangela Kozik,Katherine McLean",
-    "host_name": "University of Michigan",
-    "latitude": 42.276616,
-    "start_date": "2019-07-01"
-  },
-  {
     "end_date": "2019-07-05",
     "url": "https://elixir-iib-training.github.io/2019-07-05-naples-shell-git-python/",
     "country": "IT",

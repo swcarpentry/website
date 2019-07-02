@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-07-02",
+    "url": "https://umswc.github.io/2019-07-1-umich/",
+    "country": "US",
+    "instructors": "Joshua Stough,Begum Topcuoglu,Kelly Sovacool",
+    "venue": "University of Michigan",
+    "longitude": -83.73823,
+    "slug": "2019-07-01-umich",
+    "tag_name": "SWC",
+    "helpers": "Ariangela Kozik,Katherine McLean",
+    "host_name": "University of Michigan",
+    "latitude": 42.276616,
+    "start_date": "2019-07-01"
+  },
+  {
     "end_date": "2019-06-28",
     "url": "https://qcif-training.github.io/2019-06-27-CQUni-Python/",
     "country": "AU",
@@ -101,12 +115,12 @@
     "end_date": "2019-06-19",
     "url": "https://zpainter.github.io/2019-06-18-stanford/",
     "country": "US",
-    "instructors": "Max Czapanskiy,Melissa Ko,Zac Painter,Satoshi Yokota",
+    "instructors": "Melissa Ko,Zac Painter,Satoshi Yokota,Lorraine Ling",
     "venue": "Stanford University",
     "longitude": -122.165749,
     "slug": "2019-06-18-stanford",
     "tag_name": "SWC",
-    "helpers": "Chao Jiang,Lorraine Ling",
+    "helpers": "Chao Jiang",
     "host_name": "Stanford University",
     "latitude": 37.437519,
     "start_date": "2019-06-18"
