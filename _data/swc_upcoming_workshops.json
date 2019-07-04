@@ -56,6 +56,34 @@
     "start_date": "2019-07-08"
   },
   {
+    "end_date": "2019-07-10",
+    "url": "https://bio-swc-bne.github.io/2019-07-09-Resbazbris-Python/",
+    "country": "AU",
+    "instructors": "Thom Cuddihy,Belinda Weaver,Stéphane Guillou",
+    "venue": "ResBaz Brisbane - Python stream",
+    "longitude": 153.0262263,
+    "slug": "2019-07-09-Resbazbris-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Queensland University of Technology",
+    "latitude": -27.4773522,
+    "start_date": "2019-07-09"
+  },
+  {
+    "end_date": "2019-07-10",
+    "url": "https://bio-swc-bne.github.io/2019-07-09-Resbazbris-R/",
+    "country": "AU",
+    "instructors": "Heidi Perrett,Marieke Frassl,Atefeh Taherian Fard,Ido Bar",
+    "venue": "ResBaz Brisbane - R stream",
+    "longitude": 153.0262263,
+    "slug": "2019-07-09-Resbazbris-R",
+    "tag_name": "SWC",
+    "helpers": "Conrad Leonard,Catherine Kim,Paula Andrea Martinez",
+    "host_name": "Queensland University of Technology",
+    "latitude": -27.4773522,
+    "start_date": "2019-07-09"
+  },
+  {
     "end_date": "2019-07-11",
     "url": "https://cengel.github.io/2019-07-10-stanford/",
     "country": "US",
@@ -81,6 +109,20 @@
     "helpers": null,
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -16.818504,
+    "start_date": "2019-07-24"
+  },
+  {
+    "end_date": "2019-07-25",
+    "url": "https://mq-software-carpentry.github.io/2019-07-24-intro-to-python/",
+    "country": "AU",
+    "instructors": "Richard Miller,James Tocknell",
+    "venue": "Macquarie University",
+    "longitude": 151.113265,
+    "slug": "2019-07-24-macquarie",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Macquarie University",
+    "latitude": -33.774858,
     "start_date": "2019-07-24"
   },
   {
