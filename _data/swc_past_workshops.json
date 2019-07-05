@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-07-05",
+    "url": "https://elixir-iib-training.github.io/2019-07-05-naples-shell-git-python/",
+    "country": "IT",
+    "instructors": "Vincenza Colonna",
+    "venue": "Biblioteca - National Research Council",
+    "longitude": 14.22483,
+    "slug": "2019-07-05-naples-shell-git-python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Consiglio Nazionale delle Ricerche",
+    "latitude": 40.85459,
+    "start_date": "2019-07-03"
+  },
+  {
     "end_date": "2019-07-03",
     "url": "https://ucsdlib.github.io/2019-07-01-UCSD/",
     "country": "US",
@@ -109,6 +123,20 @@
     "helpers": null,
     "host_name": "NASA (National Aeronautics and Space Administration)",
     "latitude": 38.992541,
+    "start_date": "2019-06-19"
+  },
+  {
+    "end_date": "2019-06-20",
+    "url": "https://bham-carpentries.github.io/2019-06-19-bham/",
+    "country": "GB",
+    "instructors": "Mark Slater,James Carpenter",
+    "venue": "University of Birmingham",
+    "longitude": -1.935646,
+    "slug": "2019-06-19-bham",
+    "tag_name": "SWC",
+    "helpers": "Catherine Smith,Mark Summerfield",
+    "host_name": "University of Birmingham",
+    "latitude": 52.450693,
     "start_date": "2019-06-19"
   },
   {
@@ -628,6 +656,20 @@
     "host_name": "University of Minnesota",
     "latitude": 44.973394,
     "start_date": "2019-05-16"
+  },
+  {
+    "end_date": "2019-05-17",
+    "url": "https://bham-carpentries.github.io/2019-05-15-bham/",
+    "country": "GB",
+    "instructors": "Simon Branford,Simon Hartley",
+    "venue": "University of Birmingham",
+    "longitude": -1.935646,
+    "slug": "2019-05-15-bham",
+    "tag_name": "SWC",
+    "helpers": "Timothy Poon,Flaviu Gostin",
+    "host_name": "University of Birmingham",
+    "latitude": 52.450693,
+    "start_date": "2019-05-15"
   },
   {
     "end_date": "2019-05-16",
