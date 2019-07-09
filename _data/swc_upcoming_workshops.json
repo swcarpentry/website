@@ -14,34 +14,6 @@
     "start_date": "2019-04-16"
   },
   {
-    "end_date": "2019-07-09",
-    "url": "https://4turesearchdata-carpentries.github.io/2019-07-08-delft/",
-    "country": "NL",
-    "instructors": "Kees den Heijer,Susan Branchett",
-    "venue": "July 2019 SWC workshop @TU Delft",
-    "longitude": 4.37113,
-    "slug": "2019-07-08-delft",
-    "tag_name": "SWC",
-    "helpers": "Santosh Ilamparuthi,Heather Andrews,Nicolas Dintzner",
-    "host_name": "Delft Univeristy of Technology",
-    "latitude": 52.0015,
-    "start_date": "2019-07-08"
-  },
-  {
-    "end_date": "2019-07-09",
-    "url": "https://djsperka.github.io/2019-07-08-strobe_berkeley/",
-    "country": "US",
-    "instructors": "Melissa Ko,Daniel Sperka",
-    "venue": "University of California, Berkeley",
-    "longitude": -122.25647,
-    "slug": "2019-07-08-strobe_berkeley",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "STROBE",
-    "latitude": 37.87225,
-    "start_date": "2019-07-08"
-  },
-  {
     "end_date": "2019-07-10",
     "url": "https://bio-swc-bne.github.io/2019-07-09-Resbazbris-Python/",
     "country": "AU",
@@ -98,6 +70,20 @@
     "start_date": "2019-07-10"
   },
   {
+    "end_date": "2019-07-17",
+    "url": "https://heatherciallella.github.io/2019-07-23-rutgers_cmd",
+    "country": "US",
+    "instructors": "Heather Ciallella,Liam Sharp,Daniel Russo,Sunil Shende",
+    "venue": "Rutgers University - Camden",
+    "longitude": -75.118828,
+    "slug": "2019-07-23-rutgers_cmd",
+    "tag_name": "SWC",
+    "helpers": "Ruchi Lohia,Linlin Zhao",
+    "host_name": "Rutgers University - Camden",
+    "latitude": 39.94521,
+    "start_date": "2019-07-16"
+  },
+  {
     "end_date": "2019-07-25",
     "url": "https://qcif-training.github.io/2019-07-24-JCU-Python/",
     "country": "AU",
@@ -126,6 +112,34 @@
     "start_date": "2019-07-24"
   },
   {
+    "end_date": "2019-07-24",
+    "url": "https://jimmccartney.github.io/2019-07-24-uark/",
+    "country": "US",
+    "instructors": "Lora Lennertz,James McCartney",
+    "venue": "University of Arkansas",
+    "longitude": -94.168058,
+    "slug": "2019-07-24-uark",
+    "tag_name": "SWC",
+    "helpers": "Michael Gibbs,Joe Paparo,Stephanie Pierce,Nick Salonen,Mary Leverance",
+    "host_name": "University of Arkansas",
+    "latitude": 36.042345,
+    "start_date": "2019-07-24"
+  },
+  {
+    "end_date": "2019-07-30",
+    "url": "http://oulib-swc.github.io/2019-07-29-ou-swc-ouhsc",
+    "country": "US",
+    "instructors": "Claire Curry,Jim Ferguson,Dawn Nekorchuk",
+    "venue": "University of Oklahoma Health Sciences Center Robert M. Bird Library",
+    "longitude": -97.494256,
+    "slug": "2019-07-29-ou-swc-ouhsc",
+    "tag_name": "SWC",
+    "helpers": "Mahbobeh Lesan,Amanda Schilling,Rebecca Silver",
+    "host_name": "University of Oklahoma",
+    "latitude": 35.479536,
+    "start_date": "2019-07-29"
+  },
+  {
     "end_date": "2019-08-08",
     "url": "https://bio-swc-bne.github.io/2019-08-06-GriffithUni-Python/",
     "country": "AU",
@@ -138,6 +152,20 @@
     "host_name": "Griffith University",
     "latitude": -27.960345,
     "start_date": "2019-08-06"
+  },
+  {
+    "end_date": "2019-08-13",
+    "url": "https://saandrewsLANL.github.io/2019-08-08-LANL",
+    "country": "FI",
+    "instructors": "Andy Fraser,Cameron Bates,Austin McCartney",
+    "venue": "Los Alamos National Laboratory",
+    "longitude": null,
+    "slug": "2019-08-08-LANL",
+    "tag_name": "SWC",
+    "helpers": "Stephen Andrews,Chris Malone",
+    "host_name": "Los Alamos National Laboratory",
+    "latitude": null,
+    "start_date": "2019-08-08"
   },
   {
     "end_date": "2019-08-23",
