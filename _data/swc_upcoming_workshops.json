@@ -14,48 +14,6 @@
     "start_date": "2019-04-16"
   },
   {
-    "end_date": "2019-07-10",
-    "url": "https://bio-swc-bne.github.io/2019-07-09-Resbazbris-Python/",
-    "country": "AU",
-    "instructors": "Thom Cuddihy,Belinda Weaver,Stéphane Guillou",
-    "venue": "ResBaz Brisbane - Python stream",
-    "longitude": 153.0262263,
-    "slug": "2019-07-09-Resbazbris-Python",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Queensland University of Technology",
-    "latitude": -27.4773522,
-    "start_date": "2019-07-09"
-  },
-  {
-    "end_date": "2019-07-10",
-    "url": "https://bio-swc-bne.github.io/2019-07-09-Resbazbris-R/",
-    "country": "AU",
-    "instructors": "Heidi Perrett,Marieke Frassl,Atefeh Taherian Fard,Ido Bar",
-    "venue": "ResBaz Brisbane - R stream",
-    "longitude": 153.0262263,
-    "slug": "2019-07-09-Resbazbris-R",
-    "tag_name": "SWC",
-    "helpers": "Conrad Leonard,Catherine Kim,Paula Andrea Martinez",
-    "host_name": "Queensland University of Technology",
-    "latitude": -27.4773522,
-    "start_date": "2019-07-09"
-  },
-  {
-    "end_date": "2019-07-10",
-    "url": "https://rslondon.github.io/2019-07-09-rslondon/",
-    "country": "GB",
-    "instructors": "Christopher Cave-Ayland,Krishnakumar Gopalakrishnan,Anastasis Georgoulas,Vilma Agalioti Sgompou",
-    "venue": "Research Software London (hosted at Queen Mary University of London)",
-    "longitude": -0.040492,
-    "slug": "2019-07-09-rslondon",
-    "tag_name": "SWC",
-    "helpers": "Mayeul d'Avezac,Iain Barrass,Tom Bradford,Ilektra Christidi,Jeremy Cohen,Santiago Lacalle,Jazz Mack Smith,Katerina Michalickova,David Perez-Suarez",
-    "host_name": "Queen Mary University London",
-    "latitude": 51.523351,
-    "start_date": "2019-07-09"
-  },
-  {
     "end_date": "2019-07-11",
     "url": "https://cengel.github.io/2019-07-10-stanford/",
     "country": "US",
