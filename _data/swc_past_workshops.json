@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-07-11",
+    "url": "https://cengel.github.io/2019-07-10-stanford/",
+    "country": "US",
+    "instructors": "Claudia Engel,Lorraine Ling,Linnea Shieh,João Rodrigues",
+    "venue": "Stanford University",
+    "longitude": -122.1649,
+    "slug": "2019-07-10-stanford",
+    "tag_name": "SWC",
+    "helpers": "Ashley Jester,Zac Painter",
+    "host_name": "Stanford University",
+    "latitude": 37.42883,
+    "start_date": "2019-07-10"
+  },
+  {
     "end_date": "2019-07-10",
     "url": "https://bio-swc-bne.github.io/2019-07-09-Resbazbris-Python/",
     "country": "AU",
@@ -92,7 +106,7 @@
     "longitude": -117.251409,
     "slug": "2019-07-01-UCSD",
     "tag_name": "SWC",
-    "helpers": "Arden Tran",
+    "helpers": "Arden Tran,Isa Rosso,Justin Shaffer,Silvia Buonaiuto",
     "host_name": "University of California San Diego",
     "latitude": 32.86864,
     "start_date": "2019-07-01"
