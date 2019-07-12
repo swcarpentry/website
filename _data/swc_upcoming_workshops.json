@@ -140,6 +140,20 @@
     "start_date": "2019-08-21"
   },
   {
+    "end_date": "2019-09-05",
+    "url": "https://edcarp.github.io/2019-09-04-edinburgh-swc/",
+    "country": "GB",
+    "instructors": "David McKain",
+    "venue": "University of Edinburgh",
+    "longitude": -3.173591,
+    "slug": "2019-09-04-edinburgh-swc",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.921711,
+    "start_date": "2019-09-04"
+  },
+  {
     "end_date": "2019-10-03",
     "url": "https://fgacenga.github.io/2019-10-02-usq/",
     "country": "AU",
