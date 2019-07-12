@@ -144,22 +144,22 @@ Our process for new lessons is:
     ability and willingness to teach it.
 
 8.  After the lesson leads have revised the lesson based on early
-    feedback, the Carpentries organize a hackathon to refine the
+    feedback, The Carpentries organizes a hackathon to refine the
     material and introduce it to early adopters. This hackathon will
     usually include an on-site delivery of the material.
 
 9.  Early adopters (and the lesson leads) deliver the lesson at
     multiple sites, coalescing feedback and refining the lesson.
 
-10. The lesson leads and Carpentry community members then publish the
-    lesson on the Carpentry websites.
+10. The lesson leads and community members then publish the
+    lesson on the appropriate lesson program's websites.
 
 11. The lesson leads provide two hour-long online training sessions
     in which they discuss the motivation for the lesson, their
     experience developing it, and what they have learned from early
     deliveries.
 
-12. The Carpentries solicit one or two volunteers to maintain the
+12. The Carpentries solicits one or two volunteers to maintain the
     lesson, and the lesson enters the regular maintenance cycle.
 
 Lesson developers are strongly encouraged to add their own
