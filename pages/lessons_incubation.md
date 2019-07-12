@@ -5,9 +5,10 @@ title: Lesson Incubation
 excerpt: requirements and procedures for developing new lessons in new domains
 ---
 
-[Data Carpentry]({{site.dc_url}}) and [Software Carpentry]({{site.url}})
+[Data Carpentry]({{site.dc_url}}), [Software Carpentry]({{site.url}}),
+and [Library Carpentry]({{site.lc_url}})
 are committed to developing and supporting lessons in new domains, and
-to helping Carpentry community members do so as well. The development
+to helping The Carpentries community members do so as well. The development
 and maintenance of lessons requires significant resources, both up
 front and over the long term; this document outlines the requirements
 and procedures we have put in place to ensure success and
@@ -18,7 +19,7 @@ sustainability.
 We use the term *lesson* to mean a single teaching module, typically
 half a day in length; we use the term *workshop* to refer to an entire
 two-day short course, which typically comprises three or four
-lessons. The Carpentry community could create and maintain lessons and
+lessons. The Carpentries community could create and maintain lessons and
 workshops on an almost infinite variety of topics. However, in the
 absence of infinite resources we must prioritize, and have chosen to
 do so according to the following criteria:
@@ -130,7 +131,7 @@ Our process for new lessons is:
     monthly. They may adjust goals throughout the development process
     based on feedback from community members; substantial changes in
     goals must be approved by a representative of the appropriate
-    Carpentry.
+    Carpentry lesson program.
 
 6.  Once the lesson leads have a minimum viable lesson, they deliver
     it, and then provide feedback (both theirs and their learners’) to
@@ -177,9 +178,9 @@ training.
 ## 5. Lesson Development Proposal Template
 
 Lesson proposals must include the items listed below.  We expect that
-proposals will be developed in conjunction with Software and/or Data
+proposals will be developed in conjunction with Software, Data, or Library
 Carpentry, and that at least one of the proposers will have gone
-through Software and Data Carpentry instructor training, and be
+through The Carpentries instructor training, and be
 familiar with our teaching and lesson design methods.
 
 ### 1. Short Description
