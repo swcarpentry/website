@@ -254,7 +254,7 @@
   {
     "end_date": "2019-06-19",
     "url": "https://wikfeldt.github.io/2019-06-18-stockholm/",
-    "country": "",
+    "country": "SE",
     "instructors": "Thor Wikfeldt,Rosa Lönneborg",
     "venue": "Stockholm",
     "longitude": 18.06449,
@@ -5552,7 +5552,7 @@
     "longitude": -79.95428,
     "slug": "2018-01-27-wvu",
     "tag_name": "SWC",
-    "helpers": "Denny Hood,Megan A. Jones,Devansh Agarwal",
+    "helpers": "Denny Hood,Devansh Agarwal",
     "host_name": "West Virginia University",
     "latitude": 39.633159,
     "start_date": "2018-01-27"
