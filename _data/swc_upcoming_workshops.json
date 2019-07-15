@@ -112,6 +112,20 @@
     "start_date": "2019-08-08"
   },
   {
+    "end_date": "2019-08-20",
+    "url": "https://vuw-research-computing.github.io/2019-08-19-vuw/",
+    "country": "NZ",
+    "instructors": "Andre Geldenhuis,Wes Harrell",
+    "venue": "VUW Kelburn Campus",
+    "longitude": 174.767541,
+    "slug": "2019-08-19-VUW",
+    "tag_name": "SWC",
+    "helpers": "Matt Plummer",
+    "host_name": "Victoria University of Wellington",
+    "latitude": -41.289846,
+    "start_date": "2019-08-19"
+  },
+  {
     "end_date": "2019-08-23",
     "url": "https://smeehan12.github.io/2019-08-19-usatlas-computing-bootcamp",
     "country": "US",
