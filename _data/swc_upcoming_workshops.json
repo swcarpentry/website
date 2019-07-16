@@ -14,7 +14,7 @@
     "start_date": "2019-04-16"
   },
   {
-    "end_date": "2019-07-17",
+    "end_date": "2019-07-24",
     "url": "https://heatherciallella.github.io/2019-07-23-rutgers_cmd",
     "country": "US",
     "instructors": "Heather Ciallella,Liam Sharp,Daniel Russo,Sunil Shende",
@@ -25,7 +25,7 @@
     "helpers": "Ruchi Lohia,Linlin Zhao",
     "host_name": "Rutgers University - Camden",
     "latitude": 39.94521,
-    "start_date": "2019-07-16"
+    "start_date": "2019-07-23"
   },
   {
     "end_date": "2019-07-25",
@@ -112,6 +112,20 @@
     "start_date": "2019-08-08"
   },
   {
+    "end_date": "2019-08-14",
+    "url": "https://nmcarpentries.github.io/2019-08-13-nmsu/",
+    "country": "US",
+    "instructors": "Shelley Knuth,Diana Dugas",
+    "venue": "New Mexico State University",
+    "longitude": -106.751097,
+    "slug": "2019-08-13-nmsu",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "New Mexico State University",
+    "latitude": 32.282887,
+    "start_date": "2019-08-13"
+  },
+  {
     "end_date": "2019-08-20",
     "url": "https://vuw-research-computing.github.io/2019-08-19-vuw/",
     "country": "NZ",
@@ -137,6 +151,20 @@
     "helpers": "Shih Chieh Hsu,Zachary Marshall",
     "host_name": "Lawrence Berkeley National Laboratory",
     "latitude": 37.8759,
+    "start_date": "2019-08-19"
+  },
+  {
+    "end_date": "2019-08-20",
+    "url": "https://vanderbilt-data-science.github.io/2019-08-19-vanderbilt/",
+    "country": "US",
+    "instructors": "Eric Appelt,Meredith Broadway,Lindsey Fox,Elisabeth Shook",
+    "venue": "Buttrick Hall 102",
+    "longitude": -86.8047542,
+    "slug": "2019-08-19-vanderbilt",
+    "tag_name": "SWC",
+    "helpers": "Jamen McGranahan,Jesse Spencer-Smith",
+    "host_name": "Vanderbilt University",
+    "latitude": 36.1458157,
     "start_date": "2019-08-19"
   },
   {
