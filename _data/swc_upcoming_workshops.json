@@ -1,19 +1,5 @@
 [
   {
-    "end_date": "2019-07-17",
-    "url": "https://elixir-belgium.github.io/2019-04-16-BRU/",
-    "country": "BE",
-    "instructors": "Malvika Sharan,Stijn Van Hoey,Christof De Bo",
-    "venue": "ELIXIR-Belgium Brussels",
-    "longitude": 4.394176,
-    "slug": "2019-04-16-BRU",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "ELIXIR-UK",
-    "latitude": 50.824343,
-    "start_date": "2019-04-16"
-  },
-  {
     "end_date": "2019-07-24",
     "url": "https://heatherciallella.github.io/2019-07-23-rutgers_cmd",
     "country": "US",
