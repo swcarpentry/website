@@ -1,5 +1,19 @@
 [
   {
+    "end_date": "2019-07-16",
+    "url": "http://rits.github-pages.ucl.ac.uk/2019-07-15-UCL_software_carpentry/",
+    "country": "GB",
+    "instructors": "Roland Guichard",
+    "venue": "UCL",
+    "longitude": -0.132574,
+    "slug": "2019-07-15-UCL_software_carpentry",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University College London",
+    "latitude": 51.525256,
+    "start_date": "2019-07-15"
+  },
+  {
     "end_date": "2019-07-11",
     "url": "https://cengel.github.io/2019-07-10-stanford/",
     "country": "US",
