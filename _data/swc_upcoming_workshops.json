@@ -1,9 +1,10 @@
 [
   {
+    "instructors": "Heather Ciallella,Liam Sharp,Daniel Russo,Sunil Shende",
     "end_date": "2019-07-24",
     "url": "https://heatherciallella.github.io/2019-07-23-rutgers_cmd",
     "country": "US",
-    "instructors": "Heather Ciallella,Liam Sharp,Daniel Russo,Sunil Shende",
+    "curriculum": "Software Carpentry (shell, git, Python)",
     "venue": "Rutgers University - Camden",
     "longitude": -75.118828,
     "slug": "2019-07-23-rutgers_cmd",
@@ -14,10 +15,11 @@
     "start_date": "2019-07-23"
   },
   {
+    "instructors": "Daniel Baird",
     "end_date": "2019-07-25",
     "url": "https://qcif-training.github.io/2019-07-24-JCU-Python/",
     "country": "AU",
-    "instructors": "Daniel Baird",
+    "curriculum": "Software Carpentry (shell, git, Python)",
     "venue": "James Cook University",
     "longitude": 145.686524,
     "slug": "2019-07-24-JCU-Python",
@@ -28,10 +30,11 @@
     "start_date": "2019-07-24"
   },
   {
+    "instructors": "Richard Miller,James Tocknell",
     "end_date": "2019-07-25",
     "url": "https://mq-software-carpentry.github.io/2019-07-24-intro-to-python/",
     "country": "AU",
-    "instructors": "Richard Miller,James Tocknell",
+    "curriculum": "Software Carpentry (shell, git, Python)",
     "venue": "Macquarie University",
     "longitude": 151.113265,
     "slug": "2019-07-24-macquarie",
@@ -42,10 +45,11 @@
     "start_date": "2019-07-24"
   },
   {
+    "instructors": "Lora Lennertz,James McCartney",
     "end_date": "2019-07-24",
     "url": "https://jimmccartney.github.io/2019-07-24-uark/",
     "country": "US",
-    "instructors": "Lora Lennertz,James McCartney",
+    "curriculum": "Software Carpentry (shell, git, Python)",
     "venue": "University of Arkansas",
     "longitude": -94.168058,
     "slug": "2019-07-24-uark",
@@ -56,10 +60,11 @@
     "start_date": "2019-07-24"
   },
   {
+    "instructors": "Claire Curry,Jim Ferguson,Dawn Nekorchuk",
     "end_date": "2019-07-30",
     "url": "http://oulib-swc.github.io/2019-07-29-ou-swc-ouhsc",
     "country": "US",
-    "instructors": "Claire Curry,Jim Ferguson,Dawn Nekorchuk",
+    "curriculum": "Software Carpentry (shell, git, R)",
     "venue": "University of Oklahoma Health Sciences Center Robert M. Bird Library",
     "longitude": -97.494256,
     "slug": "2019-07-29-ou-swc-ouhsc",
@@ -70,10 +75,11 @@
     "start_date": "2019-07-29"
   },
   {
+    "instructors": "Thomas Allard,Brian Seok,Damian Thomas",
     "end_date": "2019-08-02",
     "url": "https://primerano.github.io/2019-08-01-FRB/",
     "country": "US",
-    "instructors": "Thomas Allard,Brian Seok,Damian Thomas",
+    "curriculum": "Software Carpentry (shell, git, Python)",
     "venue": "Federal Reserve Board",
     "longitude": -77.040454,
     "slug": "2019-08-01-FRB",
@@ -84,10 +90,11 @@
     "start_date": "2019-08-01"
   },
   {
+    "instructors": "Amanda Miotto",
     "end_date": "2019-08-08",
     "url": "https://bio-swc-bne.github.io/2019-08-06-GriffithUni-Python/",
     "country": "AU",
-    "instructors": "Amanda Miotto",
+    "curriculum": "Software Carpentry (shell, git, Python)",
     "venue": "Griffith University",
     "longitude": 153.378868,
     "slug": "2019-08-06-Griffith",
@@ -98,10 +105,11 @@
     "start_date": "2019-08-06"
   },
   {
+    "instructors": "Andy Fraser,Cameron Bates,Austin McCartney",
     "end_date": "2019-08-13",
     "url": "https://saandrewsLANL.github.io/2019-08-08-LANL",
     "country": "FI",
-    "instructors": "Andy Fraser,Cameron Bates,Austin McCartney",
+    "curriculum": "Software Carpentry (shell, git, Python)",
     "venue": "Los Alamos National Laboratory",
     "longitude": null,
     "slug": "2019-08-08-LANL",
@@ -112,10 +120,11 @@
     "start_date": "2019-08-08"
   },
   {
+    "instructors": "Shelley Knuth,Diana Dugas",
     "end_date": "2019-08-14",
     "url": "https://nmcarpentries.github.io/2019-08-13-nmsu/",
     "country": "US",
-    "instructors": "Shelley Knuth,Diana Dugas",
+    "curriculum": "Software Carpentry (shell, git, R)",
     "venue": "New Mexico State University",
     "longitude": -106.751097,
     "slug": "2019-08-13-nmsu",
@@ -126,10 +135,11 @@
     "start_date": "2019-08-13"
   },
   {
+    "instructors": "Andre Geldenhuis,Wes Harrell",
     "end_date": "2019-08-20",
     "url": "https://vuw-research-computing.github.io/2019-08-19-vuw/",
     "country": "NZ",
-    "instructors": "Andre Geldenhuis,Wes Harrell",
+    "curriculum": "Software Carpentry (shell, git, R)",
     "venue": "VUW Kelburn Campus",
     "longitude": 174.767541,
     "slug": "2019-08-19-VUW",
@@ -140,24 +150,26 @@
     "start_date": "2019-08-19"
   },
   {
+    "instructors": "Daniel Guest,Daniel Guest,Henry Schreiber,Henry Schreiber,Samuel Meehan,Samuel Meehan,Dan Guest,Dan Guest,Matthew Feickert,Matthew Feickert,Giordon Stark,Giordon Stark,Lukas Heinrich,Lukas Heinrich,Nils Krumnack,Nils Krumnack,Henry Schreiner,Henry Schreiner,Karol Krizka,Karol Krizka,Adam Parker,Adam Parker,Kunal Marwaha,Kunal Marwaha,Kelly Rowland,Kelly Rowland",
     "end_date": "2019-08-23",
     "url": "https://smeehan12.github.io/2019-08-19-usatlas-computing-bootcamp",
     "country": "US",
-    "instructors": "Daniel Guest,Henry Schreiber,Samuel Meehan,Dan Guest,Matthew Feickert,Giordon Stark,Lukas Heinrich,Nils Krumnack,Henry Schreiner,Karol Krizka,Adam Parker,Kunal Marwaha,Kelly Rowland",
+    "curriculum": "Software Carpentry (shell, git, Python)",
     "venue": "Lawrence Berkeley National Laboratory",
     "longitude": -122.25,
     "slug": "2019-08-19-usatlas-computing-bootcamp",
     "tag_name": "SWC",
-    "helpers": "Shih Chieh Hsu,Zachary Marshall",
+    "helpers": "Shih Chieh Hsu,Shih Chieh Hsu,Zachary Marshall,Zachary Marshall",
     "host_name": "Lawrence Berkeley National Laboratory",
     "latitude": 37.8759,
     "start_date": "2019-08-19"
   },
   {
+    "instructors": "Eric Appelt,Meredith Broadway,Lindsey Fox,Elisabeth Shook",
     "end_date": "2019-08-20",
     "url": "https://vanderbilt-data-science.github.io/2019-08-19-vanderbilt/",
     "country": "US",
-    "instructors": "Eric Appelt,Meredith Broadway,Lindsey Fox,Elisabeth Shook",
+    "curriculum": "Software Carpentry (shell, git, R)",
     "venue": "Buttrick Hall 102",
     "longitude": -86.8047542,
     "slug": "2019-08-19-vanderbilt",
@@ -168,10 +180,11 @@
     "start_date": "2019-08-19"
   },
   {
+    "instructors": "Wirawan Purwanto,Terry Stilwell,Dan Barshis,Sophie Clayton",
     "end_date": "2019-08-22",
     "url": "https://odu-rcs.github.io/2019-08-21-odu/",
     "country": "US",
-    "instructors": "Wirawan Purwanto,Terry Stilwell,Dan Barshis,Sophie Clayton",
+    "curriculum": "Software Carpentry (shell, git, Python)",
     "venue": "Old Dominion University",
     "longitude": -76.300612,
     "slug": "2019-08-21-odu",
@@ -182,10 +195,11 @@
     "start_date": "2019-08-21"
   },
   {
+    "instructors": "David McKain",
     "end_date": "2019-09-05",
     "url": "https://edcarp.github.io/2019-09-04-edinburgh-swc/",
     "country": "GB",
-    "instructors": "David McKain",
+    "curriculum": null,
     "venue": "University of Edinburgh",
     "longitude": -3.173591,
     "slug": "2019-09-04-edinburgh-swc",
@@ -196,10 +210,11 @@
     "start_date": "2019-09-04"
   },
   {
+    "instructors": "Francis Gacenga,Richard Young",
     "end_date": "2019-10-03",
     "url": "https://fgacenga.github.io/2019-10-02-usq/",
     "country": "AU",
-    "instructors": "Francis Gacenga,Richard Young",
+    "curriculum": "Software Carpentry (shell, git, Python)",
     "venue": "University of Southern Queensland",
     "longitude": 152.907227,
     "slug": "2019-10-02-usq",
@@ -210,10 +225,11 @@
     "start_date": "2019-10-02"
   },
   {
+    "instructors": "Amanda Miotto",
     "end_date": "2019-10-17",
     "url": "https://bio-swc-bne.github.io/2019-10-16-GriffithUni-R/",
     "country": "AU",
-    "instructors": "Amanda Miotto",
+    "curriculum": "Software Carpentry (shell, git, R)",
     "venue": "Griffith University",
     "longitude": 153.378868,
     "slug": "2019-10-16-Griffith",
@@ -224,24 +240,26 @@
     "start_date": "2019-10-16"
   },
   {
+    "instructors": "Malvika Sharan,Malvika Sharan,Toby Hodges,Toby Hodges,Thomas Schwarzl,Thomas Schwarzl,Mike Smith,Mike Smith,Holger Dinkel,Holger Dinkel,Frank Thommen,Frank Thommen",
     "end_date": "2019-10-18",
     "url": "https://malvikasharan.github.io/2019-10-16-heidelberg/",
     "country": "DE",
-    "instructors": "Malvika Sharan,Toby Hodges,Thomas Schwarzl,Mike Smith,Holger Dinkel,Frank Thommen",
+    "curriculum": "Software Carpentry (shell, git, Python)",
     "venue": "Computing Skills For Reproducible Research: Software Carpentry - EMBL, Heidelberg",
     "longitude": 8.710757,
     "slug": "2019-10-16-heidelberg",
     "tag_name": "SWC",
-    "helpers": "Thea Van Rossum,Georg Zeller",
+    "helpers": "Thea Van Rossum,Thea Van Rossum,Georg Zeller,Georg Zeller",
     "host_name": "European Molecular Biology Laboratory",
     "latitude": 49.38406,
     "start_date": "2019-10-16"
   },
   {
+    "instructors": "Amanda Miotto",
     "end_date": "2019-11-22",
     "url": "https://bio-swc-bne.github.io/2019-11-20-GriffithUni-Python/",
     "country": "AU",
-    "instructors": "Amanda Miotto",
+    "curriculum": "Software Carpentry (shell, git, Python)",
     "venue": "Griffith University",
     "longitude": 153.052425,
     "slug": "2019-11-20-Griffith",
