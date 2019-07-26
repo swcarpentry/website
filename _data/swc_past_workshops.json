@@ -60,6 +60,21 @@
     "start_date": "2019-07-23"
   },
   {
+    "instructors": "Natalie Heller,Carlos Ortiz Marrero,Juan Brandi-Lozano",
+    "end_date": "2019-07-23",
+    "url": "https://pnnl-compbio.github.io/2019-07.22-23-PNNL-SWC/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "Pacific Northwest National Laboratory",
+    "longitude": -119.278185,
+    "slug": "2019-07-22-PNNL-SWC",
+    "tag_name": "SWC",
+    "helpers": "Balwinder Singh,Jeremy Zucker",
+    "host_name": "Pacific Northwest National Lab ",
+    "latitude": 46.347523,
+    "start_date": "2019-07-22"
+  },
+  {
     "instructors": "Roland Guichard",
     "end_date": "2019-07-16",
     "url": "http://rits.github-pages.ucl.ac.uk/2019-07-15-UCL_software_carpentry/",
@@ -1719,7 +1734,7 @@
     "longitude": -86.79943,
     "slug": "2019-03-15-vanderbilt",
     "tag_name": "SWC",
-    "helpers": "Elisabeth Shook,Will French,Steve Baskauf,Lindsey Fox,Stacy Johnson",
+    "helpers": "Elisabeth Shook,Will French,Steve Baskauf,Lindsey Fox,Stacy Curry-Johnson",
     "host_name": "Vanderbilt University",
     "latitude": 36.14743,
     "start_date": "2019-03-15"
