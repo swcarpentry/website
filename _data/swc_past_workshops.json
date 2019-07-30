@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Claire Curry,Jim Ferguson,Dawn Nekorchuk",
+    "end_date": "2019-07-30",
+    "url": "http://oulib-swc.github.io/2019-07-29-ou-swc-ouhsc",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of Oklahoma Health Sciences Center Robert M. Bird Library",
+    "longitude": -97.494256,
+    "slug": "2019-07-29-ou-swc-ouhsc",
+    "tag_name": "SWC",
+    "helpers": "Mahbobeh Lesan,Amanda Schilling,Rebecca Silver",
+    "host_name": "University of Oklahoma",
+    "latitude": 35.479536,
+    "start_date": "2019-07-29"
+  },
+  {
     "instructors": "Daniel Baird",
     "end_date": "2019-07-25",
     "url": "https://qcif-training.github.io/2019-07-24-JCU-Python/",

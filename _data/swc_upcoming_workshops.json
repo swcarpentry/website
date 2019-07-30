@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Claire Curry,Jim Ferguson,Dawn Nekorchuk",
-    "end_date": "2019-07-30",
-    "url": "http://oulib-swc.github.io/2019-07-29-ou-swc-ouhsc",
-    "country": "US",
-    "curriculum": "swc-r",
-    "venue": "University of Oklahoma Health Sciences Center Robert M. Bird Library",
-    "longitude": -97.494256,
-    "slug": "2019-07-29-ou-swc-ouhsc",
-    "tag_name": "SWC",
-    "helpers": "Mahbobeh Lesan,Amanda Schilling,Rebecca Silver",
-    "host_name": "University of Oklahoma",
-    "latitude": 35.479536,
-    "start_date": "2019-07-29"
-  },
-  {
     "instructors": "Thomas Allard,Brian Seok,Damian Thomas",
     "end_date": "2019-08-02",
     "url": "https://primerano.github.io/2019-08-01-FRB/",
@@ -148,6 +133,21 @@
     "host_name": "Old Dominion University",
     "latitude": 36.884672,
     "start_date": "2019-08-21"
+  },
+  {
+    "instructors": "Cian Wilson,Yee Mey Seah",
+    "end_date": "2019-08-23",
+    "url": "https://yeemey.github.io/2019-08-22-colorado_state_university/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Colorado State University",
+    "longitude": null,
+    "slug": "2019-08-22-colorado_state_university",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Colorado State University",
+    "latitude": null,
+    "start_date": "2019-08-22"
   },
   {
     "instructors": "David McKain",
