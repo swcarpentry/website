@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Thomas Allard,Brian Seok,Damian Thomas",
-    "end_date": "2019-08-02",
-    "url": "https://primerano.github.io/2019-08-01-FRB/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "Federal Reserve Board",
-    "longitude": -77.040454,
-    "slug": "2019-08-01-FRB",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Federal Reserve Board",
-    "latitude": 38.896676,
-    "start_date": "2019-08-01"
-  },
-  {
     "instructors": "Amanda Miotto",
     "end_date": "2019-08-08",
     "url": "https://bio-swc-bne.github.io/2019-08-06-GriffithUni-Python/",
