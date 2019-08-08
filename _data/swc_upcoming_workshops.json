@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Amanda Miotto",
-    "end_date": "2019-08-08",
-    "url": "https://bio-swc-bne.github.io/2019-08-06-GriffithUni-Python/",
-    "country": "AU",
-    "curriculum": "swc-python",
-    "venue": "Griffith University",
-    "longitude": 153.378868,
-    "slug": "2019-08-06-Griffith",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Griffith University",
-    "latitude": -27.960345,
-    "start_date": "2019-08-06"
-  },
-  {
     "instructors": "Andy Fraser,Cameron Bates,Austin McCartney",
     "end_date": "2019-08-13",
     "url": "https://saandrewsLANL.github.io/2019-08-08-LANL",
@@ -237,6 +222,21 @@
     "helpers": null,
     "host_name": "Columbia University",
     "latitude": 40.8075,
+    "start_date": "2019-08-26"
+  },
+  {
+    "instructors": "João Rodrigues,Byron Smith",
+    "end_date": "2019-08-27",
+    "url": "https://bsmith89.github.io/2019-08-26-genentech",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Genentech",
+    "longitude": -122.37927,
+    "slug": "2019-08-26-genentech",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Genentech",
+    "latitude": 37.65633,
     "start_date": "2019-08-26"
   },
   {
