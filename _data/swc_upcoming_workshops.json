@@ -15,6 +15,21 @@
     "start_date": "2019-08-08"
   },
   {
+    "instructors": "Dharani Mahesh Sontam,Noel Zeng,Cameron McLean,Yvette Wharton,Martin Feller,Callum Walley",
+    "end_date": "2019-08-13",
+    "url": "https://uoa-eresearch.github.io/2019-08-12-uoa-swc/",
+    "country": "NZ",
+    "curriculum": "swc-python",
+    "venue": "The University of Auckland",
+    "longitude": 174.769611,
+    "slug": "2019-08-12-uoa-swc",
+    "tag_name": "SWC",
+    "helpers": "Jason He,Chris Seal",
+    "host_name": "University of Auckland",
+    "latitude": -36.852266,
+    "start_date": "2019-08-12"
+  },
+  {
     "instructors": "Amanda Schilling,Brent Tweedy,Mark Laufersweiler",
     "end_date": "2019-08-15",
     "url": "https://oulib-swc.github.io/2019-08-14-ou-swc/",
