@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Andy Fraser,Cameron Bates,Austin McCartney",
-    "end_date": "2019-08-13",
-    "url": "https://saandrewsLANL.github.io/2019-08-08-LANL",
-    "country": "FI",
-    "curriculum": "swc-python",
-    "venue": "Los Alamos National Laboratory",
-    "longitude": null,
-    "slug": "2019-08-08-LANL",
-    "tag_name": "SWC",
-    "helpers": "Stephen Andrews,Chris Malone",
-    "host_name": "Los Alamos National Laboratory",
-    "latitude": null,
-    "start_date": "2019-08-08"
-  },
-  {
-    "instructors": "Dharani Mahesh Sontam,Noel Zeng,Cameron McLean,Yvette Wharton,Martin Feller,Callum Walley",
-    "end_date": "2019-08-13",
-    "url": "https://uoa-eresearch.github.io/2019-08-12-uoa-swc/",
-    "country": "NZ",
-    "curriculum": "swc-python",
-    "venue": "The University of Auckland",
-    "longitude": 174.769611,
-    "slug": "2019-08-12-uoa-swc",
-    "tag_name": "SWC",
-    "helpers": "Jason He,Chris Seal",
-    "host_name": "University of Auckland",
-    "latitude": -36.852266,
-    "start_date": "2019-08-12"
-  },
-  {
     "instructors": "Amanda Schilling,Brent Tweedy,Mark Laufersweiler",
     "end_date": "2019-08-15",
     "url": "https://oulib-swc.github.io/2019-08-14-ou-swc/",
@@ -255,6 +225,21 @@
     "start_date": "2019-08-26"
   },
   {
+    "instructors": "Kai Blin,Nikoluas Sonnenschein",
+    "end_date": "2019-08-30",
+    "url": "https://biosustain.github.io/2019-08-26-software-carpentry",
+    "country": "DK",
+    "curriculum": "swc-other",
+    "venue": "Technical University of Denmark",
+    "longitude": 12.519819,
+    "slug": "2019-08-26-software-carpentry",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Technical University of Denmark",
+    "latitude": 55.787892,
+    "start_date": "2019-08-26"
+  },
+  {
     "instructors": "Easton White",
     "end_date": "2019-08-30",
     "url": "https://erwhite1.github.io/2019-08-29-vermont/",
@@ -283,6 +268,21 @@
     "host_name": "University of Edinburgh",
     "latitude": 55.921711,
     "start_date": "2019-09-04"
+  },
+  {
+    "instructors": "Allison Gofman,Kyle Monahan",
+    "end_date": "2019-09-07",
+    "url": "https://tufts-carpentries.github.io/2019-09-06-tuftsUEP/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Tisch Library, Tufts University",
+    "longitude": -71.11884,
+    "slug": "2019-09-06-tuftsUEP",
+    "tag_name": "SWC",
+    "helpers": "Kristin Lee",
+    "host_name": "Tufts University",
+    "latitude": 42.406172,
+    "start_date": "2019-09-06"
   },
   {
     "instructors": "Noah Geraci,Katherine Koziar",
@@ -328,6 +328,21 @@
     "host_name": "University of Southern Queensland",
     "latitude": -27.68401,
     "start_date": "2019-10-02"
+  },
+  {
+    "instructors": "Frances Wong,Amin Banihashemi,Ashwin Srinath,Elliott Sales de Andrade",
+    "end_date": "2019-10-04",
+    "url": "https://uoftcoders.github.io/2019-10-03-utoronto/",
+    "country": "CA",
+    "curriculum": "swc-python",
+    "venue": "University of Toronto",
+    "longitude": -79.393965,
+    "slug": "2019-10-03-utoronto",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Toronto",
+    "latitude": 43.662195,
+    "start_date": "2019-10-03"
   },
   {
     "instructors": "Amanda Miotto",
