@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Amanda Schilling,Brent Tweedy,Mark Laufersweiler",
-    "end_date": "2019-08-15",
-    "url": "https://oulib-swc.github.io/2019-08-14-ou-swc/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "University of Oklahoma",
-    "longitude": -97.445848,
-    "slug": "2019-08-14-ou-swc",
-    "tag_name": "SWC",
-    "helpers": "Claire Curry,Jim Ferguson,Horst Severini",
-    "host_name": "University of Oklahoma",
-    "latitude": 35.208275,
-    "start_date": "2019-08-14"
-  },
-  {
-    "instructors": "Rafi Ullah,Mahdi Sadjadi",
-    "end_date": "2019-08-15",
-    "url": "https://rraffiu.github.io/2019-08-14-strobe_ucla/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "University of California, Los Angeles",
-    "longitude": -118.4439817,
-    "slug": "2019-08-14-strobe_ucla",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "STROBE",
-    "latitude": 34.0710924,
-    "start_date": "2019-08-14"
-  },
-  {
     "instructors": "Andre Geldenhuis,Wes Harrell",
     "end_date": "2019-08-20",
     "url": "https://vuw-research-computing.github.io/2019-08-19-vuw/",
