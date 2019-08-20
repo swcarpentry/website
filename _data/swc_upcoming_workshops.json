@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Andre Geldenhuis,Wes Harrell",
-    "end_date": "2019-08-20",
-    "url": "https://vuw-research-computing.github.io/2019-08-19-vuw/",
-    "country": "NZ",
-    "curriculum": "swc-r",
-    "venue": "VUW Kelburn Campus",
-    "longitude": 174.767541,
-    "slug": "2019-08-19-VUW",
-    "tag_name": "SWC",
-    "helpers": "Matt Plummer",
-    "host_name": "Victoria University of Wellington",
-    "latitude": -41.289846,
-    "start_date": "2019-08-19"
-  },
-  {
-    "instructors": "Shelley Knuth,Diana Dugas",
-    "end_date": "2019-08-20",
-    "url": "https://nmcarpentries.github.io/2019-08-19-nmsu/",
-    "country": "US",
-    "curriculum": "swc-r",
-    "venue": "New Mexico State University",
-    "longitude": -106.751097,
-    "slug": "2019-08-19-nmsu",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "New Mexico State University",
-    "latitude": 32.282887,
-    "start_date": "2019-08-19"
-  },
-  {
     "instructors": "Daniel Guest,Henry Schreiber,Samuel Meehan,Dan Guest,Matthew Feickert,Giordon Stark,Lukas Heinrich,Nils Krumnack,Henry Schreiner,Karol Krizka,Adam Parker,Kunal Marwaha,Kelly Rowland",
     "end_date": "2019-08-23",
     "url": "https://smeehan12.github.io/2019-08-19-usatlas-computing-bootcamp",
@@ -42,21 +12,6 @@
     "helpers": "Shih Chieh Hsu,Zachary Marshall",
     "host_name": "Lawrence Berkeley National Laboratory",
     "latitude": 37.8759,
-    "start_date": "2019-08-19"
-  },
-  {
-    "instructors": "Eric Appelt,Meredith Broadway,Lindsey Fox,Elisabeth Shook",
-    "end_date": "2019-08-20",
-    "url": "https://vanderbilt-data-science.github.io/2019-08-19-vanderbilt/",
-    "country": "US",
-    "curriculum": "swc-r",
-    "venue": "Buttrick Hall 102",
-    "longitude": -86.8047542,
-    "slug": "2019-08-19-vanderbilt",
-    "tag_name": "SWC",
-    "helpers": "Jamen McGranahan,Jesse Spencer-Smith",
-    "host_name": "Vanderbilt University",
-    "latitude": 36.1458157,
     "start_date": "2019-08-19"
   },
   {
