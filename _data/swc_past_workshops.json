@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Samantha Thomas,Jamene Brooks-Kieffer,Cortney Buffington",
+    "end_date": "2019-08-21",
+    "url": "https://kulibraries.github.io/2019-08-20-ku/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of Kansas",
+    "longitude": -95.253725,
+    "slug": "2019-08-20-ku",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Kansas",
+    "latitude": 38.958125,
+    "start_date": "2019-08-20"
+  },
+  {
     "instructors": "Andre Geldenhuis,Wes Harrell",
     "end_date": "2019-08-20",
     "url": "https://vuw-research-computing.github.io/2019-08-19-vuw/",
@@ -30,6 +45,21 @@
     "start_date": "2019-08-19"
   },
   {
+    "instructors": "Alice MacQueen",
+    "end_date": "2019-08-19",
+    "url": "https://alice-macqueen.github.io/2019-08-19-utexas/",
+    "country": "US",
+    "curriculum": "swc-other",
+    "venue": "The University of Texas at Austin",
+    "longitude": -97.73686,
+    "slug": "2019-08-19-utexas",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Texas (Austin)",
+    "latitude": 30.2872,
+    "start_date": "2019-08-19"
+  },
+  {
     "instructors": "Eric Appelt,Meredith Broadway,Lindsey Fox,Elisabeth Shook",
     "end_date": "2019-08-20",
     "url": "https://vanderbilt-data-science.github.io/2019-08-19-vanderbilt/",
@@ -45,6 +75,21 @@
     "start_date": "2019-08-19"
   },
   {
+    "instructors": "Noushin Ghaffari,David Bapst,Ramalingam Saravanan,Shichen Wang",
+    "end_date": "2019-08-16",
+    "url": "https://swang8.github.io/2019-08-15-TAMU/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Texas A&M University",
+    "longitude": -96.334404,
+    "slug": "2019-08-15-TAMU",
+    "tag_name": "SWC",
+    "helpers": "Jian Tao",
+    "host_name": "Texas A&M University",
+    "latitude": 30.627977,
+    "start_date": "2019-08-15"
+  },
+  {
     "instructors": "Amanda Schilling,Brent Tweedy,Mark Laufersweiler",
     "end_date": "2019-08-15",
     "url": "https://oulib-swc.github.io/2019-08-14-ou-swc/",
@@ -54,7 +99,7 @@
     "longitude": -97.445848,
     "slug": "2019-08-14-ou-swc",
     "tag_name": "SWC",
-    "helpers": "Claire Curry,Jim Ferguson,Horst Severini",
+    "helpers": "Claire Curry,Jim Ferguson,Horst Severini,Dawn Nekorchuk",
     "host_name": "University of Oklahoma",
     "latitude": 35.208275,
     "start_date": "2019-08-14"
@@ -69,7 +114,7 @@
     "longitude": -118.4439817,
     "slug": "2019-08-14-strobe_ucla",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Tim Dennis,Mark Matney",
     "host_name": "STROBE",
     "latitude": 34.0710924,
     "start_date": "2019-08-14"
@@ -120,7 +165,7 @@
     "start_date": "2019-08-06"
   },
   {
-    "instructors": "Thomas Allard,Brian Seok,Damian Thomas",
+    "instructors": "Tom Allard,Brian Seok,Damian Thomas",
     "end_date": "2019-08-02",
     "url": "https://primerano.github.io/2019-08-01-FRB/",
     "country": "US",
@@ -4800,7 +4845,7 @@
     "start_date": "2018-06-16"
   },
   {
-    "instructors": "Thomas Allard,Tony Primerano,Brian Seok,Damian Thomas",
+    "instructors": "Tom Allard,Tony Primerano,Brian Seok,Damian Thomas",
     "end_date": "2018-06-15",
     "url": "https://primerano.github.io/2018-06-14-FRB/",
     "country": "US",

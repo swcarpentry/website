@@ -15,19 +15,19 @@
     "start_date": "2019-08-19"
   },
   {
-    "instructors": "Samantha Thomas,Jamene Brooks-Kieffer,Cortney Buffington",
-    "end_date": "2019-08-21",
-    "url": "https://kulibraries.github.io/2019-08-20-ku/",
+    "instructors": "Jonathan Bradley,Kayla McNabb,Jonathan Petters",
+    "end_date": "2019-08-22",
+    "url": "https://profdev.tlos.vt.edu/browse/productivity/courses/lib42-082119",
     "country": "US",
     "curriculum": "swc-r",
-    "venue": "University of Kansas",
-    "longitude": -95.253725,
-    "slug": "2019-08-20-ku",
+    "venue": "Virginia Polytechnic Institute",
+    "longitude": -80.4192431,
+    "slug": "2019-08-21-VT",
     "tag_name": "SWC",
     "helpers": null,
-    "host_name": "University of Kansas",
-    "latitude": 38.958125,
-    "start_date": "2019-08-20"
+    "host_name": "Virginia Tech",
+    "latitude": 37.2288083,
+    "start_date": "2019-08-21"
   },
   {
     "instructors": "Aniello Infante,Emilie Geissinger",
@@ -171,13 +171,28 @@
     "country": "US",
     "curriculum": "swc-es-r",
     "venue": "University of Vermont",
-    "longitude": null,
+    "longitude": -73.193864,
     "slug": "2019-08-29-vermont",
     "tag_name": "SWC",
     "helpers": "Emily Malcolm-White",
     "host_name": "University of Vermont",
-    "latitude": null,
+    "latitude": 44.475666,
     "start_date": "2019-08-29"
+  },
+  {
+    "instructors": "Silvia Di Giorgio,Konrad Förstner,Tobias Schlauch",
+    "end_date": "2019-09-04",
+    "url": "https://zbmed.github.io/2019-09-03-Software-Carpentry-Cologne/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "ZB MED",
+    "longitude": 6.91646,
+    "slug": "2019-09-03-Software-Carpentry-Cologne",
+    "tag_name": "SWC",
+    "helpers": "Eva Seidlmayer",
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.92465,
+    "start_date": "2019-09-03"
   },
   {
     "instructors": "David McKain",
@@ -223,6 +238,21 @@
     "host_name": "University of California, Riverside",
     "latitude": 33.972643,
     "start_date": "2019-09-09"
+  },
+  {
+    "instructors": "Tobin Magle,Lauren Michael,Sarah Stevens,Matt Stone",
+    "end_date": "2019-10-09",
+    "url": "https://uw-madison-datascience.github.io/2019-09-11-uwmadison-swc/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Software Carpentry @ UW-Madison",
+    "longitude": -89.41338,
+    "slug": "2019-09-11-uwmadison-swc",
+    "tag_name": "SWC",
+    "helpers": "Trisha Adamus,David Hoese,Tobin Magle,Stephen Meyer,Lauren Michael,Baptiste Mouginot,Matt Stone",
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.07609,
+    "start_date": "2019-09-11"
   },
   {
     "instructors": "Nicolas Dintzner,Renato Alves",
