@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Matthias Liffers,David Benn",
+    "end_date": "2019-08-28",
+    "url": "https://davidbenncsiro.github.io/2019-08-27-adelaide/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "University of Adelaide",
+    "longitude": 138.6062,
+    "slug": "2019-08-27-adelaide",
+    "tag_name": "SWC",
+    "helpers": "Josephine Gerlach,Sara King,Mikaela Lawrence",
+    "host_name": "Australian Research Data Commons",
+    "latitude": -34.9206,
+    "start_date": "2019-08-27"
+  },
+  {
     "instructors": "Teddy Thomas,Alan Crosswell",
     "end_date": "2019-08-27",
     "url": "https://columbiaswc.github.io/2019-08-26-columbia-section-1/",
