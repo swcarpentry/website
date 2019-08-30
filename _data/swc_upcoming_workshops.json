@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Kai Blin,Nikoluas Sonnenschein",
-    "end_date": "2019-08-30",
-    "url": "https://biosustain.github.io/2019-08-26-software-carpentry",
-    "country": "DK",
-    "curriculum": "swc-other",
-    "venue": "Technical University of Denmark",
-    "longitude": 12.519819,
-    "slug": "2019-08-26-software-carpentry",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Technical University of Denmark",
-    "latitude": 55.787892,
-    "start_date": "2019-08-26"
-  },
-  {
-    "instructors": "Easton White",
-    "end_date": "2019-08-30",
-    "url": "https://erwhite1.github.io/2019-08-29-vermont/",
-    "country": "US",
-    "curriculum": "swc-es-r",
-    "venue": "University of Vermont",
-    "longitude": -73.193864,
-    "slug": "2019-08-29-vermont",
-    "tag_name": "SWC",
-    "helpers": "Emily Malcolm-White",
-    "host_name": "University of Vermont",
-    "latitude": 44.475666,
-    "start_date": "2019-08-29"
-  },
-  {
     "instructors": "Silvia Di Giorgio,Konrad Förstner,Tobias Schlauch",
     "end_date": "2019-09-04",
     "url": "https://zbmed.github.io/2019-09-03-Software-Carpentry-Cologne/",
