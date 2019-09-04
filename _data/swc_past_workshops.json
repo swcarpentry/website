@@ -1,5 +1,65 @@
 [
   {
+    "instructors": "Silvia Di Giorgio,Konrad Förstner,Tobias Schlauch",
+    "end_date": "2019-09-04",
+    "url": "https://zbmed.github.io/2019-09-03-Software-Carpentry-Cologne/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "ZB MED",
+    "longitude": 6.91646,
+    "slug": "2019-09-03-Software-Carpentry-Cologne",
+    "tag_name": "SWC",
+    "helpers": "Eva Seidlmayer",
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.92465,
+    "start_date": "2019-09-03"
+  },
+  {
+    "instructors": "Maristella Feustle,Kristy Phillips,Manuel (Gio) Gottardi,Lauren Ko",
+    "end_date": "2019-09-04",
+    "url": "https://unt-carpentries.github.io/2019-09-03-unt-swc/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of North Texas",
+    "longitude": -97.148954,
+    "slug": "2019-09-03-unt-swc",
+    "tag_name": "SWC",
+    "helpers": "Madhulika Bayyavarapu",
+    "host_name": "University of North Texas",
+    "latitude": 33.210068,
+    "start_date": "2019-09-03"
+  },
+  {
+    "instructors": "David Pugh",
+    "end_date": "2019-09-02",
+    "url": "https://kaust-vislab.github.io/2019-09-02-kaust-vislab/",
+    "country": "SA",
+    "curriculum": "swc-other",
+    "venue": "KAUST Visualization Core Lab",
+    "longitude": 39.105358,
+    "slug": "2019-09-02-kaust-vislab",
+    "tag_name": "SWC",
+    "helpers": "Joao Curdia,Alejandra Ortega,Tamara Huete-Stauffer,Kashif Nawaz,Alejandro Morales",
+    "host_name": "King Abdullah University of Science and Technology",
+    "latitude": 22.307807,
+    "start_date": "2019-09-02"
+  },
+  {
+    "instructors": "David Pugh",
+    "end_date": "2019-09-01",
+    "url": "https://kaust-vislab.github.io/2019-09-01-kaust-vislab/",
+    "country": "SA",
+    "curriculum": "swc-other",
+    "venue": "KAUST Visualization Core Lab",
+    "longitude": 39.105358,
+    "slug": "2019-09-01-kaust-vislab",
+    "tag_name": "SWC",
+    "helpers": "Glendon Holst,Mohammad Shaaban,Hussam Albulushi,Sohaib Ghani,Saber Feki,Naga Kathiresan",
+    "host_name": "King Abdullah University of Science and Technology",
+    "latitude": 22.307807,
+    "start_date": "2019-09-01"
+  },
+  {
     "instructors": "Easton White",
     "end_date": "2019-08-30",
     "url": "https://erwhite1.github.io/2019-08-29-vermont/",
@@ -45,7 +105,7 @@
     "start_date": "2019-08-26"
   },
   {
-    "instructors": "Cesar Arias,Thomas Barraro,John Pellman",
+    "instructors": "Cesar Arias,Thomas Barraro",
     "end_date": "2019-08-27",
     "url": "https://columbiaswc.github.io/2019-08-26-columbia-section-2/",
     "country": "US",
@@ -54,13 +114,13 @@
     "longitude": 73.9626,
     "slug": "2019-08-26-columbia-section-2",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Brian Luna Lucero,Monica Thieu",
     "host_name": "Columbia University",
     "latitude": 40.8075,
     "start_date": "2019-08-26"
   },
   {
-    "instructors": "Cesar Arias,John Pellman,Michael Weisner",
+    "instructors": "John Pellman,Michael Weisner",
     "end_date": "2019-08-27",
     "url": "https://columbiaswc.github.io/2019-08-26-columbia-section-3",
     "country": "US",
@@ -69,7 +129,7 @@
     "longitude": 73.9626,
     "slug": "2019-08-26-columbia-section-3",
     "tag_name": "SWC",
-    "helpers": "Jonathan Reeve",
+    "helpers": "Jonathan Reeve,Michael Weisner",
     "host_name": "Columbia University",
     "latitude": 40.8075,
     "start_date": "2019-08-26"
@@ -84,7 +144,7 @@
     "longitude": 73.9626,
     "slug": "2019-08-26-columbia-section-4",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Michael Introini,Wei Yin",
     "host_name": "Columbia University",
     "latitude": 40.8075,
     "start_date": "2019-08-26"
@@ -564,7 +624,7 @@
     "longitude": 4.37113,
     "slug": "2019-07-08-delft",
     "tag_name": "SWC",
-    "helpers": "Santosh Ilamparuthi,Heather Andrews,Nicolas Dintzner,Yan Wang,Sobhan Omranian Khorasani,Raúl A. Ortiz-Merino",
+    "helpers": "Santosh Ilamparuthi,Heather Andrews,Nicolas Dintzner,Yan Wang,Sobhan Omranian Khorasani,Raúl Ortiz-Merino",
     "host_name": "Delft Univeristy of Technology",
     "latitude": 52.0015,
     "start_date": "2019-07-08"
@@ -1884,7 +1944,7 @@
     "longitude": 4.37564,
     "slug": "2019-03-28-Delft",
     "tag_name": "SWC",
-    "helpers": "Raúl A. Ortiz-Merino,Kees den Heijer,Heather Andrews,Paul van Gent,Leonor Guedes Da Silva,Nicolas Dintzner,Santosh Ilamparuthi,Barbara Vreede,Elena Zhebel,Susan Branchett,Marcel van den Broek",
+    "helpers": "Raúl Ortiz-Merino,Kees den Heijer,Heather Andrews,Paul van Gent,Leonor Guedes Da Silva,Nicolas Dintzner,Santosh Ilamparuthi,Barbara Vreede,Elena Zhebel,Susan Branchett,Marcel van den Broek",
     "host_name": "Delft Univeristy of Technology",
     "latitude": 51.998153,
     "start_date": "2019-03-28"
@@ -3219,7 +3279,7 @@
     "longitude": 4.36026,
     "slug": "2018-11-29-Delft",
     "tag_name": "SWC",
-    "helpers": "Elin Vesper,Raúl A. Ortiz-Merino,Nadir Ahami",
+    "helpers": "Elin Vesper,Raúl Ortiz-Merino,Nadir Ahami",
     "host_name": "Delft Univeristy of Technology",
     "latitude": 52.0119,
     "start_date": "2018-11-29"
