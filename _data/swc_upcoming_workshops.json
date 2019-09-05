@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "David McKain",
-    "end_date": "2019-09-05",
-    "url": "https://edcarp.github.io/2019-09-04-edinburgh-swc/",
-    "country": "GB",
-    "curriculum": null,
-    "venue": "University of Edinburgh",
-    "longitude": -3.173591,
-    "slug": "2019-09-04-edinburgh-swc",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Edinburgh",
-    "latitude": 55.921711,
-    "start_date": "2019-09-04"
-  },
-  {
     "instructors": "Pat Schloss,Ry4an Brase,Dana King,Jingqun Ma",
     "end_date": "2019-09-06",
     "url": "https://UMSWC.github.io/2019-09-05-umich",
@@ -223,6 +208,21 @@
     "host_name": "University of Toronto",
     "latitude": 43.662195,
     "start_date": "2019-10-03"
+  },
+  {
+    "instructors": "Nihan Pol,Paul Bloom",
+    "end_date": "2019-10-10",
+    "url": "https://pab2163.github.io/2019-10-09-carnegie/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Carnegie Mellon Software Carpentry Workshop: Intro to Python/Git/Unix for Research",
+    "longitude": null,
+    "slug": "2019-10-09-carnegie",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Carnegie Mellon University",
+    "latitude": null,
+    "start_date": "2019-10-09"
   },
   {
     "instructors": "David Pugh",
