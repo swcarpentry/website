@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Pat Schloss,Ry4an Brase,Dana King,Jingqun Ma",
+    "end_date": "2019-09-06",
+    "url": "https://UMSWC.github.io/2019-09-05-umich",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of Michigan",
+    "longitude": -83.73818,
+    "slug": "2019-09-05-umich",
+    "tag_name": "SWC",
+    "helpers": "Begum Topcuoglu,Jason Tallant",
+    "host_name": "University of Michigan",
+    "latitude": 42.276518,
+    "start_date": "2019-09-05"
+  },
+  {
     "instructors": "David McKain",
     "end_date": "2019-09-05",
     "url": "https://edcarp.github.io/2019-09-04-edinburgh-swc/",
@@ -114,7 +129,7 @@
     "longitude": 73.9626,
     "slug": "2019-08-26-columbia-section-1",
     "tag_name": "SWC",
-    "helpers": "Paul Bloom",
+    "helpers": "Paul Bloom,Axinia Radeva",
     "host_name": "Columbia University",
     "latitude": 40.8075,
     "start_date": "2019-08-26"
@@ -129,7 +144,7 @@
     "longitude": 73.9626,
     "slug": "2019-08-26-columbia-section-2",
     "tag_name": "SWC",
-    "helpers": "Brian Luna Lucero,Monica Thieu",
+    "helpers": "Brian Luna Lucero,Monica Thieu,Matt Harrington",
     "host_name": "Columbia University",
     "latitude": 40.8075,
     "start_date": "2019-08-26"
@@ -180,7 +195,7 @@
     "start_date": "2019-08-26"
   },
   {
-    "instructors": "Kai Blin,Nikoluas Sonnenschein",
+    "instructors": "Kai Blin,Nikoluas Sonnenschein,Moritz Beber",
     "end_date": "2019-08-30",
     "url": "https://biosustain.github.io/2019-08-26-software-carpentry",
     "country": "DK",
@@ -204,7 +219,7 @@
     "longitude": -105.084393,
     "slug": "2019-08-22-colorado_state_university",
     "tag_name": "SWC",
-    "helpers": "Mara Sedlins,Jean Challacombe,Timothy Kaiser,Rex Steele",
+    "helpers": "Mara Sedlins,Timothy Kaiser,Rex Steele",
     "host_name": "Colorado State University",
     "latitude": 40.573025,
     "start_date": "2019-08-22"
@@ -309,7 +324,7 @@
     "longitude": -122.25,
     "slug": "2019-08-19-usatlas-computing-bootcamp",
     "tag_name": "SWC",
-    "helpers": "Samuel Meehan,Nils Krumnack,Adam Parker,Shih Chieh Hsu,Zachary Marshall",
+    "helpers": "Nils Krumnack,Adam Parker,Shih Chieh Hsu,Zachary Marshall",
     "host_name": "Lawrence Berkeley National Laboratory",
     "latitude": 37.8759,
     "start_date": "2019-08-19"

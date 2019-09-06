@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Pat Schloss,Ry4an Brase,Dana King,Jingqun Ma",
-    "end_date": "2019-09-06",
-    "url": "https://UMSWC.github.io/2019-09-05-umich",
-    "country": "US",
-    "curriculum": "swc-r",
-    "venue": "University of Michigan",
-    "longitude": -83.73818,
-    "slug": "2019-09-05-umich",
-    "tag_name": "SWC",
-    "helpers": "Begum Topcuoglu,Jason Tallant",
-    "host_name": "University of Michigan",
-    "latitude": 42.276518,
-    "start_date": "2019-09-05"
-  },
-  {
     "instructors": "Allison Gofman,Kyle Monahan",
     "end_date": "2019-09-07",
     "url": "https://tufts-carpentries.github.io/2019-09-06-tuftsUEP/",
