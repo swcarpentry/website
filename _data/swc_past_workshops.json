@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Allison Gofman,Kyle Monahan",
+    "end_date": "2019-09-07",
+    "url": "https://tufts-carpentries.github.io/2019-09-06-tuftsUEP/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Tisch Library, Tufts University",
+    "longitude": -71.11884,
+    "slug": "2019-09-06-tuftsUEP",
+    "tag_name": "SWC",
+    "helpers": "Kristin Lee",
+    "host_name": "Tufts University",
+    "latitude": 42.406172,
+    "start_date": "2019-09-06"
+  },
+  {
     "instructors": "Pat Schloss,Ry4an Brase,Dana King,Jingqun Ma",
     "end_date": "2019-09-06",
     "url": "https://UMSWC.github.io/2019-09-05-umich",
