@@ -1,6 +1,36 @@
 [
   {
-    "instructors": "Allison Gofman,Kyle Monahan",
+    "instructors": "David Pugh",
+    "end_date": "2019-09-10",
+    "url": "https://kaust-vislab.github.io/2019-09-10-kaust-vislab/",
+    "country": "SA",
+    "curriculum": "swc-other",
+    "venue": "KAUST Visualization Core Lab",
+    "longitude": 39.104815,
+    "slug": "2019-09-10-kaust-vislab",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "King Abdullah University of Science and Technology",
+    "latitude": 22.307498,
+    "start_date": "2019-09-10"
+  },
+  {
+    "instructors": "Noah Geraci,Katherine Koziar",
+    "end_date": "2019-09-10",
+    "url": "https://ucrlibrary.github.io/2019-09-09-ucr/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of California, Riverside",
+    "longitude": -117.327482,
+    "slug": "2019-09-09-ucr",
+    "tag_name": "SWC",
+    "helpers": "Swati Bhattacharyya",
+    "host_name": "University of California, Riverside",
+    "latitude": 33.972643,
+    "start_date": "2019-09-09"
+  },
+  {
+    "instructors": "Allison Gofman,Kyle Monahan,Kristin Lee",
     "end_date": "2019-09-07",
     "url": "https://tufts-carpentries.github.io/2019-09-06-tuftsUEP/",
     "country": "US",
@@ -9,7 +39,7 @@
     "longitude": -71.11884,
     "slug": "2019-09-06-tuftsUEP",
     "tag_name": "SWC",
-    "helpers": "Kristin Lee",
+    "helpers": "Aurora Liu",
     "host_name": "Tufts University",
     "latitude": 42.406172,
     "start_date": "2019-09-06"
@@ -69,7 +99,7 @@
     "longitude": -97.148954,
     "slug": "2019-09-03-unt-swc",
     "tag_name": "SWC",
-    "helpers": "Madhulika Bayyavarapu",
+    "helpers": "Madhulika Bayyavarapu,Mark Phillips",
     "host_name": "University of North Texas",
     "latitude": 33.210068,
     "start_date": "2019-09-03"

@@ -15,21 +15,6 @@
     "start_date": "2019-09-07"
   },
   {
-    "instructors": "Noah Geraci,Katherine Koziar",
-    "end_date": "2019-09-10",
-    "url": "https://ucrlibrary.github.io/2019-09-09-ucr/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "University of California, Riverside",
-    "longitude": -117.327482,
-    "slug": "2019-09-09-ucr",
-    "tag_name": "SWC",
-    "helpers": "Swati Bhattacharyya",
-    "host_name": "University of California, Riverside",
-    "latitude": 33.972643,
-    "start_date": "2019-09-09"
-  },
-  {
     "instructors": "Brian Ballsun-Stanton,Tim Amos,Richard Miller",
     "end_date": "2019-09-12",
     "url": "https://denubis.github.io/2019-09-10-RezbazSyd-IntroPython/",
@@ -57,21 +42,6 @@
     "helpers": null,
     "host_name": "University of New South Wales",
     "latitude": -33.916551,
-    "start_date": "2019-09-10"
-  },
-  {
-    "instructors": "David Pugh",
-    "end_date": "2019-09-10",
-    "url": "https://kaust-vislab.github.io/2019-09-10-kaust-vislab/",
-    "country": "SA",
-    "curriculum": "swc-other",
-    "venue": "KAUST Visualization Core Lab",
-    "longitude": 39.104815,
-    "slug": "2019-09-10-kaust-vislab",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "King Abdullah University of Science and Technology",
-    "latitude": 22.307498,
     "start_date": "2019-09-10"
   },
   {
@@ -225,6 +195,21 @@
     "start_date": "2019-10-03"
   },
   {
+    "instructors": "Kees den Heijer,Heather Andrews",
+    "end_date": "2019-10-09",
+    "url": "https://4turesearchdata-carpentries.github.io/2019-10-08-delft/",
+    "country": "NL",
+    "curriculum": "swc-python",
+    "venue": "October 2019 SWC workshop @TU Delft",
+    "longitude": 4.37524,
+    "slug": "2019-10-08-delft",
+    "tag_name": "SWC",
+    "helpers": "Esther Plomp,Nicolas Dintzner,Sobhan Omranian Khorasani,Santosh Ilamparuthi,Susan Branchett",
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 52.002677,
+    "start_date": "2019-10-08"
+  },
+  {
     "instructors": "Nihan Pol,Paul Bloom",
     "end_date": "2019-10-10",
     "url": "https://pab2163.github.io/2019-10-09-carnegie/",
@@ -267,6 +252,21 @@
     "helpers": null,
     "host_name": "KTH Royal Institute of Technology",
     "latitude": 59.34617,
+    "start_date": "2019-10-14"
+  },
+  {
+    "instructors": "Joshua Stough,Rucheng Diao,Morgan Oneka",
+    "end_date": "2019-10-15",
+    "url": "https://umswc.github.io/2019-10-14-umich/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of Michigan",
+    "longitude": -83.73823,
+    "slug": "2019-10-14-umich",
+    "tag_name": "SWC",
+    "helpers": "Sarah Tomkovich",
+    "host_name": "University of Michigan",
+    "latitude": 42.276616,
     "start_date": "2019-10-14"
   },
   {
