@@ -30,21 +30,6 @@
     "start_date": "2019-09-10"
   },
   {
-    "instructors": "Evan Matthews,Richard Miller,Belinda Fabian",
-    "end_date": "2019-09-11",
-    "url": "https://jematthews1.github.io/2019-09-10-RezbazSyd-IntroR/",
-    "country": "AU",
-    "curriculum": "swc-r",
-    "venue": "RezBaz Sydney (R)",
-    "longitude": 151.231311,
-    "slug": "2019-09-10-RezbazSyd-IntroR",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of New South Wales",
-    "latitude": -33.916551,
-    "start_date": "2019-09-10"
-  },
-  {
     "instructors": "Tobin Magle,Lauren Michael,Sarah Stevens,Matt Stone",
     "end_date": "2019-10-09",
     "url": "https://uw-madison-datascience.github.io/2019-09-11-uwmadison-swc/",
