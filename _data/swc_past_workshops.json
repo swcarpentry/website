@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Brian Ballsun-Stanton,Tim Amos,Richard Miller",
+    "end_date": "2019-09-12",
+    "url": "https://denubis.github.io/2019-09-10-RezbazSyd-IntroPython/",
+    "country": "AU",
+    "curriculum": "swc-other,swc-python",
+    "venue": "ResBaz Sydney (Python)",
+    "longitude": 151.2291353,
+    "slug": "2019-09-10-RezbazSyd-IntroPython",
+    "tag_name": "SWC",
+    "helpers": "Fiona Jones,Matthias Liffers,Nishen Naidoo,Wilfred Gee",
+    "host_name": "University of New South Wales",
+    "latitude": -33.916223,
+    "start_date": "2019-09-10"
+  },
+  {
     "instructors": "Evan Matthews,Richard Miller,Belinda Fabian",
     "end_date": "2019-09-11",
     "url": "https://jematthews1.github.io/2019-09-10-RezbazSyd-IntroR/",
