@@ -45,6 +45,21 @@
     "start_date": "2019-09-15"
   },
   {
+    "instructors": "Raniere Silva,Tshiamo Motshegwa",
+    "end_date": "2019-09-19",
+    "url": "https://tmotshegwa.github.io/Univeristy-of-Botswana-SAIS-UIG/",
+    "country": "BW",
+    "curriculum": "swc-python",
+    "venue": "University of Botswana",
+    "longitude": 25.930910100000006,
+    "slug": "2019-09-16-Univeristy-of-Botswana-SAIS-UIG",
+    "tag_name": "SWC",
+    "helpers": "Badisa Mosesane",
+    "host_name": "University of Botswana",
+    "latitude": 24.6605903,
+    "start_date": "2019-09-16"
+  },
+  {
     "instructors": "Arjun Biddanda,Nicholas Knoblauch,Briana Mittleman,Zach Miller",
     "end_date": "2019-09-20",
     "url": "https://aabiddanda.github.io/2019-09-19-uchicago/",
@@ -58,6 +73,21 @@
     "host_name": "University of Chicago",
     "latitude": 41.788609,
     "start_date": "2019-09-19"
+  },
+  {
+    "instructors": "Daniel Kerchner,Laura Wrubel",
+    "end_date": "2019-09-24",
+    "url": "https://gwu-libraries.github.io/2019-09-23-gwu/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "George Washington University",
+    "longitude": -77.048386,
+    "slug": "2019-09-23-gwu",
+    "tag_name": "SWC",
+    "helpers": "Jason Hurlburt,Marco Suarez",
+    "host_name": "George Washington University",
+    "latitude": 38.899233,
+    "start_date": "2019-09-23"
   },
   {
     "instructors": "Nicolas Dintzner,Renato Alves",
@@ -133,6 +163,21 @@
     "host_name": "The University of Queensland",
     "latitude": -27.496559,
     "start_date": "2019-09-30"
+  },
+  {
+    "instructors": "Kairsten Fay,Meredith Rawls",
+    "end_date": "2019-10-04",
+    "url": "https://uwescience.github.io/2019-10-01-uw/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "The University of Washington",
+    "longitude": -122.332071,
+    "slug": "2019-10-01-uw",
+    "tag_name": "SWC",
+    "helpers": "Anthony Valente,Meredith Rawls,Jaime Schatz",
+    "host_name": "University of Washington",
+    "latitude": 47.606209,
+    "start_date": "2019-10-01"
   },
   {
     "instructors": "Francis Gacenga,Richard Young",
@@ -373,5 +418,20 @@
     "host_name": "Griffith University",
     "latitude": -27.552941,
     "start_date": "2019-11-20"
+  },
+  {
+    "instructors": "Inigo Aldazabal Mensa,Andrés Díaz-Gil,Alfonso Nunez,Bryan Zaldivar",
+    "end_date": "2019-11-29",
+    "url": "https://marcosjerez.github.io/2019-11-27-cftmat",
+    "country": "ES",
+    "curriculum": "swc-other,swc-python",
+    "venue": "Centro de Física Teórica y Matemáticas",
+    "longitude": -3.687608,
+    "slug": "2019-11-27-cftmat",
+    "tag_name": "SWC",
+    "helpers": "Marcos Ramírez,Emilio Ambite,Eduardo de Cordoba",
+    "host_name": "The Centro de Física Teórica y Matemáticas (CFTMAT)",
+    "latitude": 40.549532,
+    "start_date": "2019-11-27"
   }
 ]

@@ -114,13 +114,13 @@
     "longitude": 6.91646,
     "slug": "2019-09-03-Software-Carpentry-Cologne",
     "tag_name": "SWC",
-    "helpers": "Eva Seidlmayer",
+    "helpers": "Eva Seidlmayer,Klaus Lippert",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.92465,
     "start_date": "2019-09-03"
   },
   {
-    "instructors": "Maristella Feustle,Kristy Phillips,Manuel (Gio) Gottardi,Lauren Ko",
+    "instructors": "Maristella Feustle,Manuel (Gio) Gottardi,Lauren Ko,Jason Ellis",
     "end_date": "2019-09-04",
     "url": "https://unt-carpentries.github.io/2019-09-03-unt-swc/",
     "country": "US",
@@ -174,7 +174,7 @@
     "longitude": -73.193864,
     "slug": "2019-08-29-vermont",
     "tag_name": "SWC",
-    "helpers": "Emily Malcolm-White",
+    "helpers": "Emily Malcolm-White,Emily Beasley,Anoob Prakash",
     "host_name": "University of Vermont",
     "latitude": 44.475666,
     "start_date": "2019-08-29"
