@@ -60,6 +60,21 @@
     "start_date": "2019-09-09"
   },
   {
+    "instructors": "Seyedeh Ayda Mirsalehi,Farah Shamma,kristopher row,Balan Ramesh,Anna Williford",
+    "end_date": "2019-09-14",
+    "url": "https://utacarpentries.github.io/2019-09-07-UTA/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of Texas at Arlington",
+    "longitude": -97.113086,
+    "slug": "2019-09-07-UTA",
+    "tag_name": "SWC",
+    "helpers": "Isaac Williams,Mohammed Adnan Qureshi",
+    "host_name": "University of Texas Arlington",
+    "latitude": 32.729769,
+    "start_date": "2019-09-07"
+  },
+  {
     "instructors": "Allison Gofman,Kyle Monahan,Kristin Lee",
     "end_date": "2019-09-07",
     "url": "https://tufts-carpentries.github.io/2019-09-06-tuftsUEP/",
