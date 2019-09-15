@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "David Pugh",
+    "end_date": "2019-09-15",
+    "url": "https://kaust-vislab.github.io/2019-09-15-kaust-vislab/",
+    "country": "SA",
+    "curriculum": "swc-other",
+    "venue": "KAUST Visualization Core Lab",
+    "longitude": 39.105358,
+    "slug": "2019-09-15-kaust-vislab",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "King Abdullah University of Science and Technology",
+    "latitude": 22.307807,
+    "start_date": "2019-09-15"
+  },
+  {
     "instructors": "Brian Ballsun-Stanton,Tim Amos,Richard Miller",
     "end_date": "2019-09-12",
     "url": "https://denubis.github.io/2019-09-10-RezbazSyd-IntroPython/",
