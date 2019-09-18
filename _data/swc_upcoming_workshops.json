@@ -195,6 +195,21 @@
     "start_date": "2019-10-03"
   },
   {
+    "instructors": "Kim Keogh,Brett Parker",
+    "end_date": "2019-10-10",
+    "url": "https://bio-swc-bne.github.io/2019-10-08-GriffithUni-Python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Griffith University",
+    "longitude": 153.381324,
+    "slug": "2019-10-08-GriffithUni-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.962539,
+    "start_date": "2019-10-08"
+  },
+  {
     "instructors": "Kees den Heijer,Heather Andrews",
     "end_date": "2019-10-09",
     "url": "https://4turesearchdata-carpentries.github.io/2019-10-08-delft/",
