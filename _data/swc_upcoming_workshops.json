@@ -15,21 +15,6 @@
     "start_date": "2019-09-11"
   },
   {
-    "instructors": "Raniere Silva,Tshiamo Motshegwa",
-    "end_date": "2019-09-19",
-    "url": "https://tmotshegwa.github.io/Univeristy-of-Botswana-SAIS-UIG/",
-    "country": "BW",
-    "curriculum": "swc-python",
-    "venue": "University of Botswana",
-    "longitude": 25.930910100000006,
-    "slug": "2019-09-16-Univeristy-of-Botswana-SAIS-UIG",
-    "tag_name": "SWC",
-    "helpers": "Badisa Mosesane",
-    "host_name": "University of Botswana",
-    "latitude": 24.6605903,
-    "start_date": "2019-09-16"
-  },
-  {
     "instructors": "Arjun Biddanda,Nicholas Knoblauch,Briana Mittleman,Zach Miller",
     "end_date": "2019-09-20",
     "url": "https://aabiddanda.github.io/2019-09-19-uchicago/",
@@ -238,6 +223,21 @@
     "host_name": "Carnegie Mellon University",
     "latitude": null,
     "start_date": "2019-10-09"
+  },
+  {
+    "instructors": "Ye Li,Julie Goldman",
+    "end_date": "2019-10-12",
+    "url": "https://yelibrarian.github.io/2019-10-11-mit/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Massachusetts Institute of Technology",
+    "longitude": -71.090542,
+    "slug": "2019-10-11-mit",
+    "tag_name": "SWC",
+    "helpers": "Ece Turnator",
+    "host_name": "Massachusetts Institute of Technology",
+    "latitude": 42.359689,
+    "start_date": "2019-10-11"
   },
   {
     "instructors": "David Pugh",

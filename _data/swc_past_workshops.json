@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Raniere Silva,Tshiamo Motshegwa",
+    "end_date": "2019-09-19",
+    "url": "https://tmotshegwa.github.io/Univeristy-of-Botswana-SAIS-UIG/",
+    "country": "BW",
+    "curriculum": "swc-python",
+    "venue": "University of Botswana",
+    "longitude": 25.930910100000006,
+    "slug": "2019-09-16-Univeristy-of-Botswana-SAIS-UIG",
+    "tag_name": "SWC",
+    "helpers": "Badisa Mosesane",
+    "host_name": "University of Botswana",
+    "latitude": 24.6605903,
+    "start_date": "2019-09-16"
+  },
+  {
     "instructors": "David Pugh",
     "end_date": "2019-09-15",
     "url": "https://kaust-vislab.github.io/2019-09-15-kaust-vislab/",
