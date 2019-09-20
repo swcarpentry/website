@@ -15,21 +15,6 @@
     "start_date": "2019-09-11"
   },
   {
-    "instructors": "Arjun Biddanda,Nicholas Knoblauch,Briana Mittleman,Zach Miller",
-    "end_date": "2019-09-20",
-    "url": "https://aabiddanda.github.io/2019-09-19-uchicago/",
-    "country": "US",
-    "curriculum": "swc-r",
-    "venue": "University of Chicago",
-    "longitude": -87.598717,
-    "slug": "2019-09-19-uchicago",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Chicago",
-    "latitude": 41.788609,
-    "start_date": "2019-09-19"
-  },
-  {
     "instructors": "Ana Beatriz (Bia) Villas Boas,Guilherme Castelão",
     "end_date": "2019-09-24",
     "url": "https://sio-carpentries.github.io/2019-09-23-SIO/",
@@ -180,6 +165,36 @@
     "start_date": "2019-10-03"
   },
   {
+    "instructors": "Cheyenne Payne,Kristin Lee",
+    "end_date": "2019-10-04",
+    "url": "https://nesclic.github.io/2019-10-03-whoi/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Woods Hole Oceanographic Institution",
+    "longitude": -70.6478,
+    "slug": "2019-10-03-whoi",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Woods Hole Oceanographic Institute",
+    "latitude": 41.5349,
+    "start_date": "2019-10-03"
+  },
+  {
+    "instructors": "Jon Wheeler,Brett Lord-Castillo",
+    "end_date": "2019-10-08",
+    "url": "https://jonathanwheeler01.github.io/2019-10-07-missouri/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Missouri, Columbia",
+    "longitude": -92.326505,
+    "slug": "2019-10-07-missouri",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 38.944623,
+    "start_date": "2019-10-07"
+  },
+  {
     "instructors": "Kim Keogh,Brett Parker",
     "end_date": "2019-10-10",
     "url": "https://bio-swc-bne.github.io/2019-10-08-GriffithUni-Python/",
@@ -216,12 +231,12 @@
     "country": "US",
     "curriculum": "swc-python",
     "venue": "Carnegie Mellon Software Carpentry Workshop: Intro to Python/Git/Unix for Research",
-    "longitude": null,
+    "longitude": -79.951057,
     "slug": "2019-10-09-carnegie",
     "tag_name": "SWC",
     "helpers": null,
     "host_name": "Carnegie Mellon University",
-    "latitude": null,
+    "latitude": 40.446088,
     "start_date": "2019-10-09"
   },
   {

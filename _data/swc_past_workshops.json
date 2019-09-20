@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Arjun Biddanda,Nicholas Knoblauch,Briana Mittleman,Zach Miller",
+    "end_date": "2019-09-20",
+    "url": "https://aabiddanda.github.io/2019-09-19-uchicago/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of Chicago",
+    "longitude": -87.598717,
+    "slug": "2019-09-19-uchicago",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Chicago",
+    "latitude": 41.788609,
+    "start_date": "2019-09-19"
+  },
+  {
     "instructors": "Raniere Silva,Tshiamo Motshegwa",
     "end_date": "2019-09-19",
     "url": "https://tmotshegwa.github.io/Univeristy-of-Botswana-SAIS-UIG/",
