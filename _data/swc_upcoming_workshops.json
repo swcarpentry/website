@@ -360,6 +360,21 @@
     "start_date": "2019-10-21"
   },
   {
+    "instructors": "Yuka Takemon,Bruno Grande",
+    "end_date": "2019-10-23",
+    "url": "https://ytakemon.github.io/2019-10-22-R-BCCRC/",
+    "country": "CA",
+    "curriculum": "swc-reproducible-science",
+    "venue": "BC Cancer Research Centre",
+    "longitude": -123.11872,
+    "slug": "2019-10-22-R-BCCRC",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "British Columbia Cancer Research Centre",
+    "latitude": 49.26258,
+    "start_date": "2019-10-22"
+  },
+  {
     "instructors": "Luke Johnston,Kristian Tylén",
     "end_date": "2019-10-23",
     "url": "https://au-cru.github.io/2019-10-22-aarhus/",
