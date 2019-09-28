@@ -15,21 +15,6 @@
     "start_date": "2019-09-11"
   },
   {
-    "instructors": "Geoffrey Boushey,David Brown",
-    "end_date": "2019-09-28",
-    "url": "https://srhilz.github.io/2019-09-27-UCSF-Python/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "University of California, San Francisco",
-    "longitude": -122.390344,
-    "slug": "2019-09-27-UCSF-Python",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of California San Francisco",
-    "latitude": 37.767411,
-    "start_date": "2019-09-27"
-  },
-  {
     "instructors": "David Pugh",
     "end_date": "2019-09-29",
     "url": "https://kaust-vislab.github.io/2019-09-29-kaust-vislab/",
