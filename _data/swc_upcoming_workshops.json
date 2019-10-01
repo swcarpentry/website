@@ -15,21 +15,6 @@
     "start_date": "2019-09-11"
   },
   {
-    "instructors": "Stéphane Guillou,Roy Costilla",
-    "end_date": "2019-10-01",
-    "url": "https://stragu.github.io/2019-09-30-UQ-R/",
-    "country": "AU",
-    "curriculum": "swc-r",
-    "venue": "The University of Queensland",
-    "longitude": 153.014374,
-    "slug": "2019-09-30-UQ-R",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "The University of Queensland",
-    "latitude": -27.496559,
-    "start_date": "2019-09-30"
-  },
-  {
     "instructors": "Kairsten Fay,Meredith Rawls",
     "end_date": "2019-10-04",
     "url": "https://uwescience.github.io/2019-10-01-uw/",

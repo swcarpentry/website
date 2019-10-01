@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Stéphane Guillou,Roy Costilla",
+    "end_date": "2019-10-01",
+    "url": "https://stragu.github.io/2019-09-30-UQ-R/",
+    "country": "AU",
+    "curriculum": "swc-r",
+    "venue": "The University of Queensland",
+    "longitude": 153.014374,
+    "slug": "2019-09-30-UQ-R",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "The University of Queensland",
+    "latitude": -27.496559,
+    "start_date": "2019-09-30"
+  },
+  {
     "instructors": "David Pugh",
     "end_date": "2019-09-29",
     "url": "https://kaust-vislab.github.io/2019-09-29-kaust-vislab/",
@@ -525,7 +540,7 @@
     "start_date": "2019-08-20"
   },
   {
-    "instructors": "Andre Geldenhuis,Wes Harrell",
+    "instructors": "Andre Geldenhuis,Wes Harrell,Caroline Johnston",
     "end_date": "2019-08-20",
     "url": "https://vuw-research-computing.github.io/2019-08-19-vuw/",
     "country": "NZ",
