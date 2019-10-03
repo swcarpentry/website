@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Francis Gacenga,Richard Young",
+    "end_date": "2019-10-03",
+    "url": "https://fgacenga.github.io/2019-10-02-usq/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "University of Southern Queensland",
+    "longitude": 152.907227,
+    "slug": "2019-10-02-usq",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Southern Queensland",
+    "latitude": -27.68401,
+    "start_date": "2019-10-02"
+  },
+  {
+    "instructors": "Sean McCartney,Brendan McAndrew",
+    "end_date": "2019-10-02",
+    "url": "https://seanemccartney.github.io/2019-10-01-DEVELOP-Goddard/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "NASA Goddard Space Flight Center",
+    "longitude": -76.839594,
+    "slug": "2019-10-01-DEVELOP-Goddard",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "NASA (National Aeronautics and Space Administration)",
+    "latitude": 38.992541,
+    "start_date": "2019-10-01"
+  },
+  {
     "instructors": "Stéphane Guillou,Roy Costilla",
     "end_date": "2019-10-01",
     "url": "https://stragu.github.io/2019-09-30-UQ-R/",
@@ -30,7 +60,7 @@
     "start_date": "2019-09-29"
   },
   {
-    "instructors": "Geoffrey Boushey,David Brown",
+    "instructors": "Geoffrey Boushey,David Brown,Stephanie Hilz,Angelo Pelonero",
     "end_date": "2019-09-28",
     "url": "https://srhilz.github.io/2019-09-27-UCSF-Python/",
     "country": "US",
@@ -39,7 +69,7 @@
     "longitude": -122.390344,
     "slug": "2019-09-27-UCSF-Python",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Ariel Deardorff,Lohith Madireddy,Rebecca Jaszczak",
     "host_name": "University of California San Francisco",
     "latitude": 37.767411,
     "start_date": "2019-09-27"
@@ -69,7 +99,7 @@
     "longitude": 5.489574,
     "slug": "2019-09-25-eindhoven",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Barbara Vreede,Santosh Ilamparuthi,Heather Andrews,Jan Dvorak",
     "host_name": "Delft Univeristy of Technology",
     "latitude": 51.447497,
     "start_date": "2019-09-25"
@@ -114,7 +144,7 @@
     "longitude": -77.048386,
     "slug": "2019-09-23-gwu",
     "tag_name": "SWC",
-    "helpers": "Jason Hurlburt,Marco Suarez",
+    "helpers": "Jason Hurlburt,Marco Suarez,Liem Nguyen,Monica Rigucci",
     "host_name": "George Washington University",
     "latitude": 38.899233,
     "start_date": "2019-09-23"
@@ -234,7 +264,7 @@
     "longitude": -97.113086,
     "slug": "2019-09-07-UTA",
     "tag_name": "SWC",
-    "helpers": "Isaac Williams,Mohammed Adnan Qureshi,Peace Ossom Williamson,Ebrahim Bharmal,Muhammad Khan,Fatema Begum Ruma",
+    "helpers": "Isaac Williams,Mohammed Adnan Qureshi,Peace Ossom Williamson,hammad Khan,Fatema Begum Ruma",
     "host_name": "University of Texas Arlington",
     "latitude": 32.729769,
     "start_date": "2019-09-07"
