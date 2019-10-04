@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Frances Wong,Amin Banihashemi,Ashwin Srinath,Elliott Sales de Andrade",
+    "end_date": "2019-10-04",
+    "url": "https://uoftcoders.github.io/2019-10-03-utoronto/",
+    "country": "CA",
+    "curriculum": "swc-python",
+    "venue": "University of Toronto",
+    "longitude": -79.393965,
+    "slug": "2019-10-03-utoronto",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Toronto",
+    "latitude": 43.662195,
+    "start_date": "2019-10-03"
+  },
+  {
+    "instructors": "Cheyenne Payne,Kristin Lee",
+    "end_date": "2019-10-04",
+    "url": "https://nesclic.github.io/2019-10-03-whoi/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Woods Hole Oceanographic Institution",
+    "longitude": -70.6478,
+    "slug": "2019-10-03-whoi",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Woods Hole Oceanographic Institute",
+    "latitude": 41.5349,
+    "start_date": "2019-10-03"
+  },
+  {
     "instructors": "Francis Gacenga,Richard Young",
     "end_date": "2019-10-03",
     "url": "https://fgacenga.github.io/2019-10-02-usq/",
@@ -27,6 +57,21 @@
     "helpers": null,
     "host_name": "NASA (National Aeronautics and Space Administration)",
     "latitude": 38.992541,
+    "start_date": "2019-10-01"
+  },
+  {
+    "instructors": "Kairsten Fay,Meredith Rawls",
+    "end_date": "2019-10-04",
+    "url": "https://uwescience.github.io/2019-10-01-uw/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "The University of Washington",
+    "longitude": -122.332071,
+    "slug": "2019-10-01-uw",
+    "tag_name": "SWC",
+    "helpers": "Anthony Valente,Meredith Rawls,Jaime Schatz",
+    "host_name": "University of Washington",
+    "latitude": 47.606209,
     "start_date": "2019-10-01"
   },
   {
