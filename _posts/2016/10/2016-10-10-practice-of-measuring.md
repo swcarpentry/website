@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Beth Duckles on the Practice of Measuring"
 date: 2016-10-10
 time: "00:15:30"
-category: ["Community", "Assessment"]
+tags: ["Community", "Assessment"]
 ---
 
 Dr. Beth Duckles,

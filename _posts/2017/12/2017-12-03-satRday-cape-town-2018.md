@@ -4,7 +4,7 @@ authors: ["Jon Calder"]
 title: "satRday Cape Town 2018"
 date: 2017-12-03
 time: "06:00:00"
-category: ["conferences", "workshops", "r", "satRday"]
+tags: ["conferences", "workshops", "r", "satRday"]
 ---
 
 satRdays are community-led, regional conferences to support collaboration, networking and innovation within the R community.

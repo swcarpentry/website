@@ -4,7 +4,7 @@ authors: ["Leo Browning"]
 title: "SWC: First Impressions"
 date: 2016-09-28
 time: "12:00:00"
-category: ["Workshops", "New Zealand"]
+tags: ["Workshops", "New Zealand"]
 ---
 
 This post is a simple telling of the beginning of my experience with SWC and hopefully first of many encounters with SWC as a community as well as a learning experience.

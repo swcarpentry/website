@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "CarpentryCon 2018 - Website is Live!"
 date: 2017-12-07
 time: "17:00:00"
-category: ["CarpentryCon", "Conferences", "Community Building"]
+tags: ["CarpentryCon", "Conferences", "Community Building"]
 ---
 
 We are excited to announce that our website for **CarpentryCon 2018** is [live](http://www.carpentrycon.org/).

@@ -4,7 +4,7 @@ authors: ["Anelda van der Walt", "Aleksandra Pawlik"]
 title: "Software and Data Carpentry Instructor Training Comes to Africa"
 date: 2016-03-18
 time: "18:00:00"
-category: ["Instructor Training", "South Africa"]
+tags: ["Instructor Training", "South Africa"]
 ---
 
 [North-West University eResearch](http://wwww.nwu.ac.za/eresearch), [UCT eResearch](http://www.eresearch.uct.ac.za), and [Talarify](http://www.talarify.co.za) are excited to announce that a Software & Data Carpentry Instructor Training event will take place in Potchefstroom, North-West Province, South Africa from 17 - 20 April 2016.

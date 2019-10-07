@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Library Carpentry Governance - An Update"
 date: 2018-02-20
 time: "00:00:00"
-category: [ "Library Carpentry", "Governance", "Community Building"]
+tags: [ "Library Carpentry", "Governance", "Community Building"]
 ---
 
 Eight of us from Australia, the UK, the US, Canada, and South Africa met last week via zoom to discuss taking 

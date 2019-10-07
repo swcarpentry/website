@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "New Book: Tidy Text Mining with R"
 date: 2016-10-29
 time: "00:12:30"
-category: ["Community"]
+tags: ["Community"]
 ---
 
 A new online book has recently been published that may be of interest to our community:

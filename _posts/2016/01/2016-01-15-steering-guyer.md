@@ -4,7 +4,7 @@ authors: ["Jonathan Guyer"]
 title: "2016 Election: Jonathan Guyer"
 date: 2016-01-15
 time: "16:00:00"
-category: ["Steering Committee", "Election 2016", "Software Carpentry Foundation"]
+tags: ["Steering Committee", "Election 2016", "Software Carpentry Foundation"]
 ---
 
 ##Background

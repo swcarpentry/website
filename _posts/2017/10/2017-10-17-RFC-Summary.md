@@ -4,7 +4,7 @@ authors: ["Kate Hertweck", "Karen Cranston"]
 title: "RFCs and lessons learned"
 date: 2017-10-17
 time: "12:00:00"
-category: [ "Community", "Steering Committee"]
+tags: [ "Community", "Steering Committee"]
 ---
 
 Thanks to everyone for sharing questions and comments on our recent 

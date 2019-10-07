@@ -4,7 +4,7 @@ authors: ["Lauren Michael"]
 title: "Carpentries Career Pathways Panel: Raniere Silva, Geneviève Smith, Tiffany Timbers"
 date: 2017-01-20
 time: "08:00:00"
-category: ["Community"]
+tags: ["Community"]
 ---
 
 **Tuesday, January 24, 7am PST / 10am EST / 3pm UTC / 2am AEST (next day)**  

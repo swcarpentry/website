@@ -4,7 +4,7 @@ authors: ["Marianne Corvellec", "Karen Word"]
 title: "Webinar with Rochelle Tractenberg: Debrief"
 date: 2018-03-20
 time: "08:00:00"
-category: [ "webinars", "Assessment", "Assessment network"]
+tags: [ "webinars", "Assessment", "Assessment network"]
 ---
 
 On February 2, the [Assessment Network](https://docs.carpentries.org/topic_folders/assessment/assessment-network.html) held a well-attended webinar with [Rochelle Tractenberg](https://blogs.commons.georgetown.edu/crom/rochelle-e-tractenberg/).

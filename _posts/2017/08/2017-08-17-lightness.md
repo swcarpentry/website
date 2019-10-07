@@ -4,7 +4,7 @@ authors: ["Juliane Schneider"]
 title: "The Totally Bearable Lightness of Being an Instructor ... So Finish that Training!"
 date: 2017-08-17
 time: "00:00"
-category: ["Instructor training"]
+tags: ["Instructor training"]
 ---
 
 Also, there's this [thing at UCLA](https://ucla-data-archive.github.io/2017-09-08-ucla/) going on September 7-8 ...

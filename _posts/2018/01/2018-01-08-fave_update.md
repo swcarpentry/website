@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Fourteen and Counting - People's Favorite Tools"
 date: 2018-01-08
 time: "09:00:00"
-category: ["Python", "IPython", "Jupyter", "Teaching", "R", "Git", "GitHub", "Videoconferencing", "emacs", "RStudio", "rasterio", "GIS", "Coding"]
+tags: ["Python", "IPython", "Jupyter", "Teaching", "R", "Git", "GitHub", "Videoconferencing", "emacs", "RStudio", "rasterio", "GIS", "Coding"]
 ---
 
 Thank you to all the people who have sent in short posts about their favourite tools. We are up to fourteen now, and the variety

@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Library Carpentry is One Year Old"
 date: 2016-10-22
 time: "12:00:00"
-category: ["Library Carpentry"]
+tags: ["Library Carpentry"]
 ---
 
 The indefatigable [James Baker](https://twitter.com/j_w_baker)

@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "What Are Your Favorite Cartoons?"
 date: 2016-01-18
 time: "02:00:00"
-category: ["Lessons"]
+tags: ["Lessons"]
 ---
 As we're updating our lessons this year,
 I'd like to add a few more cartoons that relate directly to what we teach.

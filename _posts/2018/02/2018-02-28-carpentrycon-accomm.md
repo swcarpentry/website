@@ -4,7 +4,7 @@ authors: ["Belinda Weaver", "Fotis Psomopoulos"]
 title: "CarpentryCon - Hotel Accommodation Options"
 date: 2018-02-28
 time: "0:00:00"
-category: [ "CarpentryCon", "Accommodation", "Conferences"]
+tags: [ "CarpentryCon", "Accommodation", "Conferences"]
 ---
 
 ## Hotel Accommodation for CarpentryCon 2018

@@ -4,7 +4,7 @@ authors: ["Chris Hamm"]
 title: "Teaching at the Board"
 date: 2016-09-20
 time: "00:08:00"
-category: ["Teaching"]
+tags: ["Teaching"]
 ---
 
 

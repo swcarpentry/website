@@ -4,7 +4,7 @@ authors: ["Marian Schmidt", "Jamie Hadwin"]
 title: "Work first-hand on developing our ever growing instructor community"
 date: 2017-11-20
 time: "10:12:00"
-category: [ "Mentoring "]
+tags: [ "Mentoring "]
 ---
 How would you like to work first-hand on developing our ever growing instructor community? A Mentoring Subcommittee Co-Chair position has just opened!
 

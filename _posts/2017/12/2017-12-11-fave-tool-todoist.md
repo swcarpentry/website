@@ -4,7 +4,7 @@ authors: ["Auriel Fournier"]
 title: "My Favorite Tool - Todoist"
 date: 2017-12-11
 time: "00:00:00"
-category: [ "Favorites", "Research Tools", "Task Managers", "Community"]
+tags: [ "Favorites", "Research Tools", "Task Managers", "Community"]
 ---
 
 My favorite tool is [Todoist](https://en.todoist.com/), a task manager.

@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Good Enough Practices in Scientific Computing"
 date: 2017-06-22
 time: "10:00:00"
-category: ["Publications"]
+tags: ["Publications"]
 ---
 
 We are pleased to announce the publication of

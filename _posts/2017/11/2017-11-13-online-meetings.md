@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Running effective online meetings with Zoom (or Google Hangouts, or ...)"
 date: 2017-11-08
 time: "00:00:13"
-category: ["Online meetings", "Zoom"]
+tags: ["Online meetings", "Zoom"]
 ---
  
 Online meetings are a fact of life for most of us in the Carpentries and other distributed projects. So how do we make them as effective as we can?

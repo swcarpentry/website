@@ -4,7 +4,7 @@ authors: ["Martin Callaghan"]
 title: "Martin Callaghan: Nomination for 2018 Steering Committee"
 date: 2017-11-16
 time: "09:00:00"
-category: ["Steering Committee"]
+tags: ["Steering Committee"]
 ---
 
 ## 2018 Election: Martin Callaghan

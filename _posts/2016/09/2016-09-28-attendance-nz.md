@@ -4,7 +4,7 @@ authors: ["Tom Kelly", "Mik Black", "Sung Bae", "Wolfgang Hayek", "Aleksandra Pa
 title: "Software Carpentry Workshop Attendance: a New Zealand Perspective"
 date: 2016-09-28
 time: "00:00:01"
-category: ["Attendance", "Workshops"]
+tags: ["Attendance", "Workshops"]
 ---
 
 Having taught and helped at a series of workshop over the past few months Tom Kelly, PhD Candidate in Genetics at the [University of Otago](http://www.otago.ac.nz/), wrote up some of his reflections on the issues related to workshop attendance. This spurred further discussion via email among the New Zealand instructors. We decided to put these thoughts together in hope that this could help other sites struggling with the attendance problems.  

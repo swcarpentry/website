@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "First Analysis of Instructor Training Data"
 date: 2016-05-20
 time: "06:30:00"
-category: ["Instructor Training"]
+tags: ["Instructor Training"]
 ---
 Following up on [Wednesday's post about instructor training stats]({{site.baseurl}}/blog/2016/05/looking-for-a-model.html),
 Erin Becker (Data Carpentry's new Associate Director) has [posted an analysis](http://www.datacarpentry.org/blog/instructor-metrics/).

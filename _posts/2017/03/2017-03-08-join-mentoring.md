@@ -4,7 +4,7 @@ authors: ["Christina Koch"]
 title: "Get Involved With Mentoring"
 date: 2017-03-08
 time: "23:00:00"
-category: ["Community"]
+tags: ["Community"]
 ---
 
 Are you a new Software or Data Carpentry instructor?  Do you 

@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Valerie Aurora to Keynote at CarpentryCon 2018"
 date: 2018-02-14
 time: "00:00:00"
-category: [ "CarpentryCon", "Diversity", "Inclusion", "Ally Skills", "Unconscious Bias"]
+tags: [ "CarpentryCon", "Diversity", "Inclusion", "Ally Skills", "Unconscious Bias"]
 ---
 
 ![Valerie Aurora](http://valerieaurora.org/pix/val_circle.png "Valerie Aurora")

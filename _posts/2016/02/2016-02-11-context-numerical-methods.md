@@ -4,7 +4,7 @@ authors: ["Ian Hawke"]
 title: "Context when teaching Numerical Methods"
 date: 2016-02-11
 time: "00:30:00"
-category: ["Teaching"]
+tags: ["Teaching"]
 ---
 As a director of the [Centre for Doctoral Training in Next Generation Computational Modelling](http://ngcm.soton.ac.uk/) I spend plenty of time thinking about, working with, and particularly teaching Numerical Methods. The [general intro course](https://github.com/IanHawke/NumericalMethods) I give is Maths focussed, has around 100 participants, has about 50 contact hours over 12 weeks, and gets a range of interested students from Maths, Physics and Engineering.
 

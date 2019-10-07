@@ -4,7 +4,7 @@ authors: ["Belinda Weaver", "Toby Hodges", "Anelda van der Walt"]
 title: "Running workshops on limited budgets"
 date: 2018-04-13
 time: "00:00:00"
-category: ["Workshops", "Funding"]
+tags: ["Workshops", "Funding"]
 ---
 
 Anelda van der Walt and co-host Toby Hodges ran the first themed discussion session in March to brainstorm ideas 

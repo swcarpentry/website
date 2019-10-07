@@ -3,7 +3,7 @@ layout: post
 title: "A Year to Build a Software and Data Carpentry Community at the University of Florida - The Impact of a Local Instructor Training Workshop on Building Computing Capacity"
 date: 2017-02-22
 time: 14:50
-category: ["Instructors", "Community"]
+tags: ["Instructors", "Community"]
 authors: ["Matthew Collins", "François Michonneau", "Brian Stucky", "Ethan White"]
 ---
 

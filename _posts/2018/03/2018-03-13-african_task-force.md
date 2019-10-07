@@ -4,7 +4,7 @@ authors: ["Caroline Ajilogba", "Mesfin Diro", "Erika Mias", "Lactatia Motsuku", 
 title: "Revival of the African Task Force"
 date: 2018-03-13
 time: "08:00:00"
-category: ["Community", "Africa", "Task Forces"]
+tags: ["Community", "Africa", "Task Forces"]
 ---
 
 Over the past five years, the Carpentries have gained considerable traction in Africa. Since the first online instructor training in 

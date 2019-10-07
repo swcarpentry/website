@@ -4,7 +4,7 @@ authors: ["Erin Becker"]
 title: "Moving Forward"
 date: 2017-01-31
 time: "13:40:00"
-category: ["Instructor Training", "Community"]
+tags: ["Instructor Training", "Community"]
 ---
 
 As of January 30th, Greg Wilson has stepped down from his role as Director of Instructor Training to start a new position as 

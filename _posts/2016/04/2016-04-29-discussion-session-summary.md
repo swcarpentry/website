@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Summarizing Our Lesson Discussion Sessions"
 date: 2016-04-29
 time: "05:30:00"
-category: ["Instructor Training", "Community"]
+tags: ["Instructor Training", "Community"]
 ---
 
 For the first four months of this year, we ran hour-long lesson

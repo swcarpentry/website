@@ -4,7 +4,7 @@ authors: ["Colin Sauze"]
 title: "My Favorite Tool - Midnight Commander"
 date: 2018-01-14
 time: "00:00:00"
-category: [ "Research tools", "Text", "Text editors"]
+tags: [ "Research tools", "Text", "Text editors"]
 ---
 
 ### What kind of tool is it?

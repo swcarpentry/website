@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "New Community Development Lead"
 date: 2017-06-06
 time: "00:00:00"
-category: ["Community"]
+tags: ["Community"]
 ---
 
 I am very pleased to be starting as the new Community Development Lead for Software and Data Carpentry. Building communities, 

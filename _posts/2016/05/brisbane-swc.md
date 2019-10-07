@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Software Carpentry in Brisbane"
 date: 2016-05-12
 time: "00:00:01"
-category: ["Workshops"]
+tags: ["Workshops"]
 ---
 
 Brisbane Software Carpentry sputtered into life some time in 2014 when scattered local supporters finally met and began to form a group. 

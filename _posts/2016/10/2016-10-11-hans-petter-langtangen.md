@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "In Memoriam: Hans Petter Langtangen"
 date: 2016-10-11
 time: "00:07:30"
-category: ["Community"]
+tags: ["Community"]
 ---
 
 Hans Petter Langtangen's books

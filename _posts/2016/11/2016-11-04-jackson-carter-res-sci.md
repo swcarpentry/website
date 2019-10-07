@@ -4,7 +4,7 @@ authors: ["Sue McClatchy"]
 title: "Research Scientist Position at The Jackson Laboratory"
 date: 2016-11-04
 time: "11:15:00"
-category: ["Jobs"]
+tags: ["Jobs"]
 ---
 
 The Carter Lab at The Jackson Laboratory is seeking an Associate Research Scientist in the genetics of Alzheimer’s

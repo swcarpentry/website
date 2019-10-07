@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Close Cousins"
 date: 2016-10-30
 time: "07:00:00"
-category: ["Community", "Programming Historian"]
+tags: ["Community", "Programming Historian"]
 ---
 
 Our process for developing and maintaining lessons has grown and changed over time.

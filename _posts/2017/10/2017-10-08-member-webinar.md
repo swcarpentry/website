@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "All about Membership"
 date: 2017-10-08
 time: "00:00:00"
-category: ["Membership"]
+tags: ["Membership"]
 ---
 
 We are fortunate in the Carpentries to have many [member organizations](https://software-carpentry.org/scf/partners/) who support our work. However, if we are to continue reaching out to new disciplines and to build communities in under-served countries, we need a broader and more diverse membership base.  

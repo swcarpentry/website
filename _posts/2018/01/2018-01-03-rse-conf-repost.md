@@ -4,7 +4,7 @@ authors: ["Tania Sanchez"]
 title: "A Successful 2nd RSE Conference"
 date: 2018-01-03
 time: "00:00:00"
-category: ["Conferences", "Research Software Engineers", "RSE", "Research Software"]
+tags: ["Conferences", "Research Software Engineers", "RSE", "Research Software"]
 ---
 
 ![RSE Sheffield in the 2nd RSE conference](http://rse.shef.ac.uk/images/RSE17.jpg)

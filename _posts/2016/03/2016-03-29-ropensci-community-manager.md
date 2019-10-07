@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "rOpenSci is Looking for a Community Manager"
 date: 2016-03-29
 time: "12:30:00"
-category: ["rOpenSci", "Jobs"]
+tags: ["rOpenSci", "Jobs"]
 ---
 
 Thanks to their recent funding,

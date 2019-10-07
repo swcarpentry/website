@@ -4,7 +4,7 @@ authors: ["Rayna Harris"]
 title: "My Favourite Tool - Videoconferencing"
 date: 2017-11-13
 time: "00:00:00"
-category: ["Videoconferencing", "Zoom", "Online Meetings", "Google Hangouts"]
+tags: ["Videoconferencing", "Zoom", "Online Meetings", "Google Hangouts"]
 ---
 
 My favorite tool: Videoconferencing

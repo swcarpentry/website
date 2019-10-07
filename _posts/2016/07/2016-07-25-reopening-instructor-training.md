@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Reopening Instructor Training"
 date: 2016-07-25
 time: "00:04:00"
-category: ["Instructor Training"]
+tags: ["Instructor Training"]
 ---
 
 For the last ten months,

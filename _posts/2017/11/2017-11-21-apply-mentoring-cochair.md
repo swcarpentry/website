@@ -4,7 +4,7 @@ authors: ["Marian Schmidt", "Jamie Hadwin"]
 title: "Call for Applicants: Mentoring Subcommittee Co-Chair"
 date: 2017-11-21
 time: "hh:mm:00"
-category: [ "Mentoring", "Subcommittees"]
+tags: [ "Mentoring", "Subcommittees"]
 ---
 
 Dear Carpentries Community,

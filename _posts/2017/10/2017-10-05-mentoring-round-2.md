@@ -4,7 +4,7 @@ authors: ["Kari L. Jordan", "Belinda Weaver"]
 title: "Mentoring is Back! Round Two of the Carpentries Mentoring Program begins October 25th"
 date: "2017-10-05"
 time: "06:00:00"
-category: ["Mentoring", "Champions", "Community Building"]
+tags: ["Mentoring", "Champions", "Community Building"]
 
 ---
 

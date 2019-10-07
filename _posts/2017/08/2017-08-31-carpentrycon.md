@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "All About CarpentryCon"
 date: 2017-08-30
 time: "00:00:00"
-category: [ "Community", "Community Building", "Conferences"]
+tags: [ "Community", "Community Building", "Conferences"]
 ---
 
 ### What is CarpentryCon?

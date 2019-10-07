@@ -4,7 +4,7 @@ authors: ["Sue McClatchy"]
 title: "Systems Biology Postdoc Position with The Jackson Laboratory"
 date: 2016-09-19
 time: "19:00:00"
-category: ["Jobs"]
+tags: ["Jobs"]
 ---
 
 The [Carter Lab](https://www.jax.org/research-and-faculty/research-labs/the-carter-lab) at 

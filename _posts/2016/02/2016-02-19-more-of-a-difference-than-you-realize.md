@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "More of a Difference Than You Realize"
 date: 2016-02-19
 time: "04:00:00"
-category: ["Workshops"]
+tags: ["Workshops"]
 ---
 We received this after an online instructor training workshop earlier this week,
 which reminded me that small differences for some people

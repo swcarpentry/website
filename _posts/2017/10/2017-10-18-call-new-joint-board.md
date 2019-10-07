@@ -4,7 +4,7 @@ authors: ["Karen Cranston"]
 title: "Call for Nominations to Joint Board"
 date: 2017-10-18
 time: "18:00:00"
-category: ["Carpentries", "Merger", "Steering Committee", "Board"] 
+tags: ["Carpentries", "Merger", "Steering Committee", "Board"] 
 ---
 
 ### EDITED 2017-11-07: Board of Directors is a legal term and can't be used for a sponsored project. Changed to "Steering Committee"

@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Blogging for the Carpentries - We Want to Hear From You"
 date: 2017-10-16
 time: "00:00:00"
-category: [ "Community", "Tools", "Knowledge Sharing"]
+tags: [ "Community", "Tools", "Knowledge Sharing"]
 ---
 
 This is an open invitation to our community members to share their knowledge.

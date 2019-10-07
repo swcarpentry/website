@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Foundations and Funders: Why Should You Sponsor CarpentryCon 2018?"
 date: 2018-01-23
 time: "00:00:00"
-category: ["CarpentryCon", "Sponsorship", "Community Building"]
+tags: ["CarpentryCon", "Sponsorship", "Community Building"]
 ---
 
 [CarpentryCon 2018](http://www.carpentrycon.org/) planning is now well underway. 

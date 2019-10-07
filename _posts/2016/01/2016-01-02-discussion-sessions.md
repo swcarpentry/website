@@ -4,7 +4,7 @@ authors: ["Raniere Silva"]
 title: "Discussion Sessions"
 date: 2016-01-02
 time: "10:00:00"
-category: ["Instructor Training"]
+tags: ["Instructor Training"]
 ---
 At the end of last year
 [we announced a new checkout procedure for instructor training]({{site.baseurl}}/blog/2015/12/instructor-training-checkout-procedure.html).

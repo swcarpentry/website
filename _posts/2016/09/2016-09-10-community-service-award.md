@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Community Service Awards"
 date: 2016-09-10
 time: "08:00:00"
-category: ["Community", "Software Carpentry Foundation"]
+tags: ["Community", "Software Carpentry Foundation"]
 ---
 
 The Software Carpentry Foundation relies on volunteer efforts to

@@ -4,7 +4,7 @@ authors: ["Martin Dreyer"]
 title: "1 -16 August, 2016:  Assessment Deputy Director, Policy Subcommittee, Code of Conduct, Workshop Resources,  Bug BBQ, and Vacancies."
 date: 2016-08-15
 time: "23:00:00"
-category: ["Community"]
+tags: ["Community"]
 ---
 
 ##Highlights

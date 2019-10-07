@@ -4,7 +4,7 @@ authors: ["Eleanor Lutz"]
 title: "Making art with Python: Projects after Software Carpentry"
 date: 2016-12-08
 time: "00:10:00"
-category: ["Community", "Art"]
+tags: ["Community", "Art"]
 ---
 
 This March I signed up for a Software Carpentry class and learned Python for the first time. I had a great time at the workshop, and I wanted to share one of the first Python projects I completed thanks to Software Carpentry. 

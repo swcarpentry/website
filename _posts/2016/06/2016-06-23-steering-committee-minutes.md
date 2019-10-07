@@ -4,7 +4,7 @@ authors: ["Raniere Silva"]
 title: "Minutes of Steering Committee Meeting"
 date: 2016-06-23
 time: "16:00:00"
-category: ["Steering Committee"]
+tags: ["Steering Committee"]
 ---
 The Steering Committee informs that the minutes of their last meeting held last week
 are now available on [GitHub](https://github.com/swcarpentry/board/blob/master/minutes/minutes-2016-06-16.md).

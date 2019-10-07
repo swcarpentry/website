@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Should We Combine Debriefing and Lesson Discussion?"
 date: 2016-03-08
 time: "10:00:00"
-category: ["Instructor Training", "Mentoring"]
+tags: ["Instructor Training", "Mentoring"]
 ---
 Belinda Weaver recently posted
 [a proposal for helping instructor trainees finish]({{site.baseurl}}/blog/2016/03/proposal-instructor-trainees.html).

@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Teaching Library Carpentry"
 date: 2016-06-22
 time: "00:00:01"
-category: ["Workshops", "Library Carpentry"]
+tags: ["Workshops", "Library Carpentry"]
 ---
 ## Teaching Library Carpentry 
 

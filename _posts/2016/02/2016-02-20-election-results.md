@@ -4,7 +4,7 @@ authors: ["Jonah Duckles"]
 title: "Welcome to the 2016 Steering Committee!"
 date: 2016-02-20
 time: "14:04:00"
-category: ["Community","Steering Committee"]
+tags: ["Community","Steering Committee"]
 ---
 
 The results are in. Your 2016 steering committee, in alphabetical order by last name is:

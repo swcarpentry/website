@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Two Pages of Evidence"
 date: 2016-02-02
 time: "06:30:00"
-category: ["Noticed"]
+tags: ["Noticed"]
 ---
 Andreas Stefik and his colleagues have written
 [a two-page summary](http://quorumlanguage.com/evidence/evidence.pdf)

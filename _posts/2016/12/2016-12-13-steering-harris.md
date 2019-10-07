@@ -4,7 +4,7 @@ authors: ["Rayna Harris"]
 title: "2017 Election: Rayna Harris"
 date: 2016-12-19
 time: "20:10:00"
-category: ["Steering Committee", "Software Carpentry Foundation", "Election 2017"]
+tags: ["Steering Committee", "Software Carpentry Foundation", "Election 2017"]
 ---
 I am really excited to stand in election for the 2017 Software Carpentry (SWC) Steering Committee so that I can continue to serve this amazing community.
 

@@ -4,7 +4,7 @@ authors: ["John Blischak"]
 title: "Maintaining a Lesson"
 date: 2016-04-04
 time: "11:00:00"
-category: ["Lessons", "R"]
+tags: ["Lessons", "R"]
 ---
 
 After two years as a Software Carpentry lesson maintainer of [r-novice-inflammation][],

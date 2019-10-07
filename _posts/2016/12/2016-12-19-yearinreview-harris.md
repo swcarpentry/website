@@ -4,7 +4,7 @@ authors: ["Rayna Harris"]
 title: "Rayna Harris's Year in Summary 2016"
 date: 2016-12-19
 time: "20:10:00"
-category: ["Steering Committee", "Software Carpentry Foundation", "Election 2016"]
+tags: ["Steering Committee", "Software Carpentry Foundation", "Election 2016"]
 ---
 
 # A year in review 

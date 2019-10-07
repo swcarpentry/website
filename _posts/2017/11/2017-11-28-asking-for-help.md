@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "My Favorite Tool - Asking for Help"
 date: 2017-11-28
 time: "08:00:00"
-category: ["Community", "Tools"]
+tags: ["Community", "Tools"]
 ---
 
 My favorite tool is asking for help.

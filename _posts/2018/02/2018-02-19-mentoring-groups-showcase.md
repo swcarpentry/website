@@ -4,7 +4,7 @@ authors: ["Kari L. Jordan"]
 title: "Mentoring Groups Showcase their Accomplishments"
 date: 2018-02-19
 time: "00:00:00"
-category: ["Community", "Mentoring"]
+tags: ["Community", "Mentoring"]
 ---
 
 We just finished our second round of mentoring groups and had an amazing showcase of their work and ideas. In this round, we were more specific and focused on multiple topic areas. There were groups on community building, lesson maintenance, and preparing for instructor checkout.

@@ -4,7 +4,7 @@ authors: ["Karin Lagesen"]
 title: "2016 Election: Karin Lagesen"
 date: 2016-01-14
 time: "11:00:00"
-category: ["Software Carpentry Foundation", "Election 2016"]
+tags: ["Software Carpentry Foundation", "Election 2016"]
 ---
 ﻿For the past year, I have served as the Software Carpentry Steering Committee’s secretary.
 My involvement with the SCF started in 2012, when I attended a workshop in Oslo, Norway.

@@ -4,7 +4,7 @@ authors: ["Karen Word"]
 title: "Trainer Training Announcement"
 date: 2017-10-03
 time: "00:00:00"
-category: ["Trainers", "Training"] 
+tags: ["Trainers", "Training"] 
 ---
 
 As the Carpentry community continues to grow, our instructor training is increasingly in demand! In September,

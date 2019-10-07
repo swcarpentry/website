@@ -4,7 +4,7 @@ authors: ["Juliane Schneider"]
 title: "My Favourite Tool: OpenRefine"
 date: 2017-10-30
 time: "18:00:00"
-category: ["Data cleaning", "OpenRefine", "Tools"]
+tags: ["Data cleaning", "OpenRefine", "Tools"]
 ---
 
 #### My favorite tool is [OpenRefine](http://openrefine.org/).

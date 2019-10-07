@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "A New Version of 'Lessons Learned'"
 date: 2016-01-28
 time: "07:00:00"
-category: ["Research"]
+tags: ["Research"]
 ---
 A new version of "Software Carpentry: Lessons Learned" is
 [now available on F1000](http://f1000research.com/articles/3-62/v2).

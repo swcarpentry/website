@@ -4,7 +4,7 @@ authors: ["Christian T. Jacobs", "Gerard J. Gorman", "Huw E. Rees", "Lorraine E.
 title: "Teaching Python to undergraduate geoscientists: A summary of our approaches and experiences over the years"
 date: 2016-06-18
 time: "00:00:01"
-category: ["Teaching", "Python", "Education", "Jupyter"]
+tags: ["Teaching", "Python", "Education", "Jupyter"]
 ---
 
 In 2010, a [new course](http://ggorman.github.io/Introduction-to-programming-for-geoscientists/) commenced at [Imperial College London](http://www.imperial.ac.uk/engineering/departments/earth-science/) that aimed to teach undergraduate geoscience students how to program in Python. Over the course of five years (2010 to 2014 inclusive) our teaching methodology evolved significantly in response to student feedback and examination performance. The course lecturers ([Gerard Gorman](http://www.imperial.ac.uk/people/g.gorman) and myself, [Christian Jacobs](http://christianjacobs.uk)) along with several of our Teaching Assistants also undertook Software Carpentry instructor training which offered a fantastic pedagogical insight into how to effectively teach novices how to program. As a result, many of our teaching techniques were influenced by this which helped to greatly improve our course. **In this blog post we summarise what we changed throughout the five years and why**, in the hope that this will benefit other instructors currently offering, or planning to offer, an undergraduate computer programming course.

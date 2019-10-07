@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "NumFOCUS Project Director"
 date: 2016-08-02
 time: "00:02:00"
-category: ["Jobs"]
+tags: ["Jobs"]
 ---
 
 [NumFOCUS](http://numfocus.org) (the organization which shelters

@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "A New Lesson on GAP"
 date: 2016-02-09
 time: "01:00:00"
-category: ["Lessons"]
+tags: ["Lessons"]
 ---
 We are pleased to announce that
 [Alex Konovalov](http://blogs.cs.st-andrews.ac.uk/alexk/) and his colleagues

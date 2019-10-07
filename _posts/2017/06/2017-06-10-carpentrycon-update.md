@@ -4,7 +4,7 @@ authors: ["Fotis Psomopoulos"]
 title: "The road to CarpentryCon 2018"
 date: 2017-06-10
 time: "16:00"
-category: ["CarpentryCon", "Community"]
+tags: ["CarpentryCon", "Community"]
 ---
 
 Imagine a global community event where Carpentries members and aficionados come together for a short period to exchange experiences, discuss lessons and debate teaching practices. Visualize a space where keynote speeches are closely complemented by community-driven lightning talks, and round-table panels are supported with ad-hoc informal meetings to share stories about challenges and successes. Finally, to complete the picture, consider a number of satellite events, such as social gatherings, carpentry workshops and new lesson developments. Well, this is our vision for CarpentryCon 2018!

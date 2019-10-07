@@ -4,7 +4,7 @@ authors: ["Kate Hertweck, Rayna Harris"]
 title: "Beginning the conversation: Potential merger with Data Carpentry"
 date: 2017-02-22
 time: "14:30"
-category: ["Community"]
+tags: ["Community"]
 ---
 
 Newcomers to our community frequently request clarification regarding the 

@@ -4,7 +4,7 @@ authors: ["Martin Dreyer"]
 title: "17 August-12 September, 2016: Steering Committee, Google Summer of Code, rOpenSci, Small Teaching, Ten Simple rules."
 date: 2016-09-09
 time: "23:00:00"
-category: ["Community"]
+tags: ["Community"]
 ---
 
 ##Highlights

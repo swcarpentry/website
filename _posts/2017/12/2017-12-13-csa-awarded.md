@@ -4,7 +4,7 @@ authors: ["Christina Koch", "Kate Hertweck"]
 title: "Our 2017 Community Service Award winner: Anelda van der Walt"
 date: 2017-12-13
 time: "00:00:00"
-category: ["Community Service Award", "Community Building", "South Africa", "Capacity Building", "Workshops"]
+tags: ["Community Service Award", "Community Building", "South Africa", "Capacity Building", "Workshops"]
 ---
 
 The Carpentries are happy to honor [Anelda van der Walt]( https://twitter.com/aneldavdw) as our 2017 Community Service Award winner. We received seven independent nominations for Anelda this year, which is a testament to her commitment to both individual people and the broader community.

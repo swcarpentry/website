@@ -4,7 +4,7 @@ authors: ["Tracy Teal", "Jonah Duckles"]
 title: "New Joint Partnerships with Data Carpentry"
 date: 2016-05-02
 time: "15:25:00"
-category: ["Partnerships"]
+tags: ["Partnerships"]
 ---
 
 We've been hearing of the interest of organizations to build local capacity for training and to be able run both [Data]({{site.dc_url}}) and [Software Carpentry]({{site.url}}) workshops. **We are excited to announce that Data Carpentry and Software Carpentry are now offering joint partnerships!** These partnerships will give member organizations the benefits of running workshops from either the Software Carpentry or Data Carpentry community. At the Silver and above tiers there will also be instructor training and capacity building services provided.

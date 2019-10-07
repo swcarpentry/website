@@ -4,7 +4,7 @@ authors: ["Amy Hodge"]
 title: "Amy Hodge: Nomination for 2018 Steering Committee"
 date: 2017-11-20
 time: "00:00:00"
-category: ["Governance", "Steering Committee"]
+tags: ["Governance", "Steering Committee"]
 ---
 
 ### 2018 Election : Amy Hodge

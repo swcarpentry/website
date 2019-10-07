@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "OpenCon in Berlin - Impressions"
 date: 2017-11-30
 time: "hh:mm:00"
-category: [ "Conferences", "Open Access"]
+tags: [ "Conferences", "Open Access"]
 ---
 
 Along with fellow Software Carpenters [Rayna Harris](https://twitter.com/raynamharris/) and [Paula Martinez](https://twitter.com/orchid00/), I attended [OpenCon 2017](http://www.opencon2017.org/) held over the weekend of 11-13 November, 2017 in Berlin. The conference was held in the Harnack Haus in Dahlem, the home of the Max Planck Society, where the friendly ghosts of Einstein, Heisenberg and other stellar scientists smiled on our endeavours to promote open access, open education and open data.

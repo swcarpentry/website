@@ -4,7 +4,7 @@ authors: ["Sarah Stevens"]
 title: "Installation Video Tutorials"
 date: 2016-04-12
 time: "13:40:00"
-category: ["Workshops"]
+tags: ["Workshops"]
 ---
 I recently created videos for installing the software needed for most Software Carpentry workshops.
 Links for these videos are now added to the lessons template for a workshop and listed below.

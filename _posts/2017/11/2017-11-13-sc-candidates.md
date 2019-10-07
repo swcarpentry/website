@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Nominating for 2018 Steering Committee"
 date: 2017-11-13
 time: "00:00:00"
-category: ["Steering Committee", "Candidates"]
+tags: ["Steering Committee", "Candidates"]
 ---
 
 Three nominations have come in so far for the new 2018 Steering Committee of the merged Carpentries.
