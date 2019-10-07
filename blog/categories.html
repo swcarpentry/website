@@ -1,17 +1,17 @@
 ---
 layout: page-fullwidth
-title: "Blog Post by Category"
+title: "Blog Post by Tag"
 permalink: "/blog/categories/"
 ---
-{% assign catnames = site.categories | sort %}
+{% assign tagnames = site.tags | sort %}
 
 <table class="table table-striped" width="100%">
-{% for category in catnames %}
+{% for tag in tagnames %}
   {% cycle '<tr width="25%">', '', '', '' %}
-    <td><a href="#{{ category | first | slugify}}">{{ category | first}}</a></td>
+    <td><a href="#{{ tag | first | slugify}}">{{ tag | first}}</a></td>
   {% cycle '', '', '', '</tr>' %}
 {% endfor %}
-{% assign width = catnames.size|modulo: 4 %}
+{% assign width = tagnames.size|modulo: 4 %}
 {% unless width == 4 %}
   {% for i in (width..3) %}
     <td>&nbsp;</td>
@@ -22,10 +22,10 @@ permalink: "/blog/categories/"
 
 <hr/>
 
-{% for category in catnames %}
-  <h2><a name="{{ category | first | slugify}}">{{ category | first}}</a></h2>
+{% for tag in tagnames %}
+  <h2><a name="{{ tag | first | slugify}}">{{ tag | first}}</a></h2>
   <table class="table table-striped" width="100%">
-  {% for posts in category %}
+  {% for posts in tag %}
     {% for p in posts %}
       {% if p.authors and p.date and p.title %}
       <tr>
