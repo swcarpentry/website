@@ -4,7 +4,7 @@ authors: ["Sue McClatchy"]
 title: "Systems Biology Postdoc Position with The Jackson Laboratory"
 date: 2016-11-04
 time: "10:10:00"
-category: ["Jobs"]
+tags: ["Jobs"]
 ---
 
 The [Churchill Lab] (http://churchill-lab.jax.org/website/) at The Jackson Laboratory is seeking a Postdoctoral

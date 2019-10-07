@@ -4,7 +4,7 @@ authors: ["Auriel Fournier"]
 title: "Auriel Fournier: Nomination for 2018 Steering Committee"
 date: 2017-11-09
 time: "00:00:00"
-category: ["Steering Committee"]
+tags: ["Steering Committee"]
 ---
 
 ### 2018 Election: Auriel Fournier

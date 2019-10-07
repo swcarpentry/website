@@ -4,7 +4,7 @@ authors: ["Anelda van der Walt", "Bryan Johnston"]
 title: "Software Carpentry Introduces Mauritian HPC Users to Tools for Data Analysis"
 date: 2017-09-10
 time: "00:00:00"
-category: [ "Africa", "Mauritius", "HPC"]
+tags: [ "Africa", "Mauritius", "HPC"]
 ---
 
 The Square Kilometre Array (SKA) has been branded as one of the biggest scientific projects to date and spans not only country borders but also continents. Although the SKA’s primary aim is to address many of the questions around our universe, the spin-offs of this project will touch people from all research disciplines as well as communities around the SKA sites.

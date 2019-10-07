@@ -4,7 +4,7 @@ authors: ["Ariel Rokem"]
 title: "Applications due March 1st: 2016 eScience Data Science for Social Good summer program"
 date: 2016-02-26
 time: "10:00:00"
-category: ["Jobs"]
+tags: ["Jobs"]
 ---
 
 The [University of Washington eScience Institute](http://escience.washington.edu/), in collaboration with

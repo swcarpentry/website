@@ -4,7 +4,7 @@ authors: ["Bill Mills"]
 title: "Save the Date: Software Carpentry Lab Meeting May 10"
 date: 2016-05-03
 time: "15:25:00"
-category: ["Community"]
+tags: ["Community"]
 ---
 
 Software Carpentry's next Lab Meeting calls will be at **14:00 UTC and 23:00 UTC, May 10th**; all are welcome to join in to discuss what's new and upcoming in the Software Carpentry community. Connection details are on the [Lab Meeting Etherpad](http://pad.software-carpentry.org/swc-lab-meeting-2016-05-10).

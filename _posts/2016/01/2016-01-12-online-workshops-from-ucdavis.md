@@ -4,7 +4,7 @@ authors: ["C. Titus Brown"]
 title: "Online Workshops from UC Davis"
 date: 2016-01-12
 time: "01:00:00"
-category: ["UC Davis", "Teaching", "Online"]
+tags: ["UC Davis", "Teaching", "Online"]
 ---
 We have been experimenting with half-day workshops on specialized topics
 that are broadcast over the web.

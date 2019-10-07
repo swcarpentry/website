@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Designing Lessons Collaboratively"
 date: 2016-02-15
 time: "00:30:00"
-category: ["Community", "Lessons"]
+tags: ["Community", "Lessons"]
 issues: "https://github.com/swcarpentry/python-novice-gapminder/issues"
 ---
 A few days ago,

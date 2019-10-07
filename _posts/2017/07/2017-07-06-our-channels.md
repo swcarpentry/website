@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Open Channels"
 date: 2017-07-06
 time: "06:00:00"
-category: [ "Outreach", "Community-Building"]
+tags: [ "Outreach", "Community-Building"]
 ---
 
 I was writing a talk about [community building in the Carpentries](http://www.ands.org.au/partners-and-communities/ands-communities/tech-talks#Skills_and_Community_Engagement_7_Jul_2017-1)

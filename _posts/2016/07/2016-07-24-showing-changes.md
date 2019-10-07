@@ -4,7 +4,7 @@ authors: ["Robin Wilson"]
 title: "Showing Changes When Teaching"
 date: 2016-07-25
 time: "00:07:00"
-category: ["Teaching"]
+tags: ["Teaching"]
 ---
 
 A key - but challenging - part of learning to program is moving from

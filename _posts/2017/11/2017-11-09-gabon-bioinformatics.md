@@ -4,7 +4,7 @@ authors: ["Nicola Anthony", "Katy Morgan", "Courtney Miller", "Anelda van der Wa
 title: "CAB-Alliance Bioinformatics Workshop in Franceville, Gabon"
 date: 2017-11-09
 time: "09:00:00"
-category: ["Gabon", "Africa", "Bioinformatics", "Workshop"]
+tags: ["Gabon", "Africa", "Bioinformatics", "Workshop"]
 ---
 
 Over the past five years, researchers from the University of New Orleans (UNO) in the USA and the Université des Sciences et 

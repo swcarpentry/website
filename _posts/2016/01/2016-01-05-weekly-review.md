@@ -4,7 +4,7 @@ authors: ["Anelda van der Walt"]
 title: "17 December,2015 - 5 January, 2016:Steering Committee Election, New Website, Updated Assessment Forms, Mentoring Meetings, Instructor Training, and First Lab Meeting For 2016"
 date: 2016-01-04
 time: "16:00:00"
-category: ["Community"]
+tags: ["Community"]
 ---
 
 ####Highlights

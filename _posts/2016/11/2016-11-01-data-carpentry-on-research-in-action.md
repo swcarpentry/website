@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Tracy Teal on Research in Action"
 date: 2016-11-01
 time: "00:09:00"
-category: ["Community", "Noticed", "Data Carpentry"]
+tags: ["Community", "Noticed", "Data Carpentry"]
 ---
 
 The [latest podcast from Research in Action](http://ecampus.oregonstate.edu/research/podcast/e31/)

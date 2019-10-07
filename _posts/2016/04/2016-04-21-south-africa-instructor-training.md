@@ -4,7 +4,7 @@ authors: ["Aleksandra Pawlik"]
 title: "Instructor Training in South Africa"
 date: 2016-04-21
 time: "18:00:00"
-category: ["Instructor Training"]
+tags: ["Instructor Training"]
 ---
 Thanks a lot of hard work from Anelda van der Walt and the support from the [North-West University](http://www.nwu.ac.za/), [University of Cape Town](http://www.uct.ac.za/) and [Talarify](http://www.talarify.co.za/)
 we were able to run the first face-to-face instructor training in South Africa. We trained 23 new instructors

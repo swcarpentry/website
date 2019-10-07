@@ -4,7 +4,7 @@ authors: ["Jonah Duckles"]
 title: "Software Carpentry Steering Committee Candidates 2017"
 date: 2017-01-15
 time: "18:00:00"
-category: ["Software Carpentry Foundation", "Election 2017", "Steering Committee"]
+tags: ["Software Carpentry Foundation", "Election 2017", "Steering Committee"]
 ---
 
 # 2017 Steering Committee elections and January Community Call

@@ -4,7 +4,7 @@ authors: ["Elizabeth Wickes"]
 title: "Elizabeth Wickes: Nomination for 2018 Steering Committee"
 date: 2017-11-12
 time: "00:00:00"
-category: ["Steering Committee"]
+tags: ["Steering Committee"]
 ---
 
 ### 2018 Election: Nomination by Elizabeth Wickes

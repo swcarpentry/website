@@ -4,7 +4,7 @@ authors: ["Jonah Duckles"]
 title: "Communities: The Foundation of Impactful Workshops"
 date: 2016-03-01
 time: "17:12:00"
-category: ["Community"]
+tags: ["Community"]
 ---
 
 I spend a good deal of my time trying to communicate with member

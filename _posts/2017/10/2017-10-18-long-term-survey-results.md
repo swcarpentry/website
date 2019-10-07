@@ -4,7 +4,7 @@ authors: ["Kari L. Jordan", "Tracy Teal", "Erin Becker", "Karen Word"]
 title: "Our long-term assessment results are in!"
 date: 2017-10-18
 time: "00:00:00"
-category: [ "Assessment", "Surveys"]
+tags: [ "Assessment", "Surveys"]
 
 ---
 

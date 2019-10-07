@@ -4,7 +4,7 @@ authors: ["Jamie Hadwin"]
 title: "Software Carpentry at Oklahoma State"
 date: 2016-10-19
 time: "11:59:30"
-category: ["Oklahoma State", "Workshops"]
+tags: ["Oklahoma State", "Workshops"]
 ---
 
 I recently instructed Git for the third time at a self-organized

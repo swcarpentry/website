@@ -4,7 +4,7 @@ authors: ["Karen Word", "Erin Becker"]
 title: "Welcome to New Trainers"
 date: 2018-03-14
 time: "08:00:00"
-category: [ "Trainers", "Instructors"]
+tags: [ "Trainers", "Instructors"]
 ---
 
 We are excited to welcome seventeen newly badged Trainers to our community. The group recently finished their program with Karen Word and are now certified to teach new Carpentry Instructors.

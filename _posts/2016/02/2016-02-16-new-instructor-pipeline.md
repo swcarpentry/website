@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Our New Instructor Pipeline"
 date: 2016-02-16
 time: "06:00:00"
-category: ["Instructor Training"]
+tags: ["Instructor Training"]
 ---
 Last fall,
 we decided to [reboot]({{site.baseurl}}/blog/2015/09/rebooting-instructor-training.html)

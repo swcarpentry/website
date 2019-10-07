@@ -4,7 +4,7 @@ authors: ["Kate Hertweck"]
 title: "Software tools for unix shell: Survey and April community call"
 date: 2017-04-14
 time: "11:00:00"
-category: ["Community","Tools","Teaching"]
+tags: ["Community","Tools","Teaching"]
 ---
 
 The Software Carpentry [Code of Conduct](https://software-carpentry.org/conduct/) includes 

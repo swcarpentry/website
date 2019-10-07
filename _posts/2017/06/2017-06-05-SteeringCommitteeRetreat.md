@@ -4,7 +4,7 @@ authors: ["The 2017 Steering Committee"]
 title: "Summary of the 2017 Software Carpentry Steering Committee Retreat "
 date: 2017-05-31
 time: "10:00:00"
-category: ["Steering Committee", "Community", "Instructor Training"]
+tags: ["Steering Committee", "Community", "Instructor Training"]
 ---
 
 The Software Carpentry Steering Committee met in person on June 7-8 in Davis, California.   The committee members have unique journeys that brought them through the community to having a seat on the steering committee. Importantly, we have a unified vision for the future of the Software Carpentry Foundation and the roles of the steering committee. Below is a brief summary of the motions passes and detailed description of the five key areas over which the Steering Committee will continue to provide oversight. 

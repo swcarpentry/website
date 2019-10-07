@@ -4,7 +4,7 @@ authors: ["Anelda van der Walt"]
 title: "2016 Election: Anelda van der Walt"
 date: 2016-01-15
 time: "15:00:00"
-category: ["Software Carpentry Foundation", "Election 2016", "Steering Committee"]
+tags: ["Software Carpentry Foundation", "Election 2016", "Steering Committee"]
 ---
 ## Who am I?
 

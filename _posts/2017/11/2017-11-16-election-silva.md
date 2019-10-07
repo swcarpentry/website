@@ -4,7 +4,7 @@ authors: ["Raniere Silva"]
 title: "Raniere Silva: Nomination for 2018 Steering Committee"
 date: 2017-11-16
 time: "10:00:00"
-category: ["Steering Committee"]
+tags: ["Steering Committee"]
 ---
 
 ## Who am I?

@@ -4,7 +4,7 @@ authors: ["Leah Wasser"]
 title: "Hello, Spatio-temporal Data Carpentry"
 date: 2016-03-28
 time: "14:30:00"
-category: ["Data Carpentry", "GIS"]
+tags: ["Data Carpentry", "GIS"]
 ---
 
 [Data Carpentry]({{site.dc_url}}) have just announced the availability of

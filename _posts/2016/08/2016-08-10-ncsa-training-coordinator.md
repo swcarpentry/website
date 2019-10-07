@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Training Coordinator Position at NCSA"
 date: 2016-08-10
 time: "00:05:00"
-category: ["Jobs"]
+tags: ["Jobs"]
 ---
 
 The [Computational Science and Engineering](http://cse.illinois.edu/)

@@ -4,7 +4,7 @@ authors: ["Martin Dreyer"]
 title: "15 -  31 January, 2017:  JupyterCon, Steering Committee 2017, North West University, Programming skills ."
 date: 2017-01-31
 time: "23:00:00"
-category: ["Community"]
+tags: ["Community"]
 ---
 
 ##Highlights

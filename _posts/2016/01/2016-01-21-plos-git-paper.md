@@ -4,7 +4,7 @@ authors: ["John Blischak", "Emily Davenport", "Greg Wilson"]
 title: "Our Introduction to Git Has Been Published"
 date: 2016-01-21
 time: "05:00:00"
-category: ["Noticed"]
+tags: ["Noticed"]
 ---
 Our short paper
 "A Quick Introduction to Version Control with Git and GitHub"

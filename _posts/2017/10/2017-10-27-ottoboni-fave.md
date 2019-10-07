@@ -4,7 +4,7 @@ authors: ["Kellie Ottoboni"]
 title: "My Favourite Tool: IPython"
 date: 2017-10-27
 time: "08:00:00"
-category: ["Python", "iPython"]
+tags: ["Python", "iPython"]
 ---
 
 #### My favorite tool is ... IPython.

@@ -4,7 +4,7 @@ authors: ["Lex Nederbragt"]
 title: "10 tips and tricks for instructing and teaching by means of live coding"
 date: 2016-04-20
 time: "00:00:00"
-category: ["Education", "Instructor Training"]
+tags: ["Education", "Instructor Training"]
 ---
 
 One of the key teaching practices used at Software and Data Carpentry workshops is 'live coding': instructors don't use slides, but work through the lesson material, typing in the code or instructions, with the workshop participants following along. Learning how to teach using live-coding is best done in practice, with feedback from peers (this is why it is included in [instructor training]({{site.github_io_url}}/instructor-training/08-practices.html)). Nonetheless, this post lists ten tips and tricks to help you get started.

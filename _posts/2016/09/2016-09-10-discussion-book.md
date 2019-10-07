@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "The Discussion Book"
 date: 2016-09-10
 time: "06:30:00"
-category: ["Teaching"]
+tags: ["Teaching"]
 ---
 
 Hot on the heels of *[Small Teaching](https://www.amazon.com/Small-Teaching-Everyday-Lessons-Learning/dp/1118944496/)*

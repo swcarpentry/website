@@ -4,7 +4,7 @@ authors: ["Christina Koch"]
 title: "Maintaining Lessons - Community Perspectives"
 date: 2017-10-03
 time: "18:00:00"
-category: ["Community", "Lessons"] 
+tags: ["Community", "Lessons"] 
 ---
 
 Our [September community call](http://pad.software-carpentry.org/community-call-2017-09-20) on 

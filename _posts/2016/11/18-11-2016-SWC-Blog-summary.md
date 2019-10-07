@@ -4,7 +4,7 @@ authors: ["Martin Dreyer"]
 title: "1-15 November, 2016:  Research in Action, The Jackson Laboratory, Reproducability of Research, Announcement List, RStudio."
 date: 2016-11-18
 time: "23:00:00"
-category: ["Community"]
+tags: ["Community"]
 ---
 
 ##Highlights

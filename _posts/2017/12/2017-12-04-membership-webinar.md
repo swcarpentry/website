@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Upcoming Membership Webinar"
 date: 2017-12-04
 time: "00:00:00"
-category: [ "Webinars", "Membership"]
+tags: [ "Webinars", "Membership"]
 ---
 
 [Organizational memberships](https://software-carpentry.org/membership/) are a great way to build your local Carpentries' instructor community.

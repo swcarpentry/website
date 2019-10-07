@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Unveiling Our New Logo"
 date: 2018-02-07
 time: "00:00:00"
-category: [ "Logo", "Branding", "Identity"]
+tags: [ "Logo", "Branding", "Identity"]
 ---
 
 It must be the worst-kept secret in cyberspace - that the Carpentries have a new logo.

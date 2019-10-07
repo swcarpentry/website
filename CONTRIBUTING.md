@@ -80,7 +80,7 @@ title: "Analysis of Software Carpentry Workshop Impact"
 date: 2017-07-10
 time: "08:00:00"
 authors: ["Kari L. Jordan"]
-category: ["surveys", "workshops", "impact", "assessment"]
+tags: ["surveys", "workshops", "impact", "assessment"]
 ---
 ```
 

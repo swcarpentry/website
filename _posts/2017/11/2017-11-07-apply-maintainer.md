@@ -4,7 +4,7 @@ authors: ["Erin Becker"]
 title: "Apply to Become a Carpentry Maintainer"
 date: 2017-11-07
 time: "00:08:00"
-category: ["Community"]
+tags: ["Community"]
 ---
 
 Software and Data Carpentry are currently accepting applications to join the lesson Maintainer team. 

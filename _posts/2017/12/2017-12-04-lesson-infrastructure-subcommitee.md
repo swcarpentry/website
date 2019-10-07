@@ -4,7 +4,7 @@ authors: ["Raniere Silva"]
 title: "Lesson Infrastructure Subcommittee 2017 November meeting"
 date: 2017-12-04
 time: "10:00:00"
-category: ["Community", "Lesson Infrastructure Subcommittee"]
+tags: ["Community", "Lesson Infrastructure Subcommittee"]
 ---
 
 On 16 November 2017 at 15:00 UTC+0,

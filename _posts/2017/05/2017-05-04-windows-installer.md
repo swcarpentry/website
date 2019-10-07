@@ -4,7 +4,7 @@ authors: ["Raniere Silva"]
 title: "Plans for Windows Installer"
 date: 2017-05-04
 time: "16:00:00"
-category: ["Community","Tools","Teaching"]
+tags: ["Community","Tools","Teaching"]
 ---
 
 In March,

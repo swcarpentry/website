@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Green Stickies for 2017: Report from the Happy Holidays Green Sticky Party Calls"
 date: 2017-12-14
 time: "00:00:00"
-category: ["Community Calls", "Community Building"]
+tags: ["Community Calls", "Community Building"]
 ---
 
 When Carpentries' staff score a win, we call it a **#greensticky**. So for our

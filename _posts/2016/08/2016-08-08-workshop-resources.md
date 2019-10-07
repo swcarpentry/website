@@ -4,7 +4,7 @@ authors: ["Erin Becker"]
 title: "Resources for Running Workshops"
 date: 2016-08-08
 time: "00:08:00"
-category: ["Workshops"]
+tags: ["Workshops"]
 ---
 
 A successful workshop is the result of coordinated effort among many different types of participants,

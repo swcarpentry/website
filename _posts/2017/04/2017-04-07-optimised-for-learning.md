@@ -4,7 +4,7 @@ authors: ["Anelda van der Walt"]
 title: "Optimised for Learning"
 date: 2017-04-07
 time: "23:00:00"
-category: ["Community"]
+tags: ["Community"]
 ---
 In 2014 I fell in love with Software Carpentry. I wasn’t quite sure what it was that was *that* appealing about the workshops, but I knew we had to run more of these in South Africa.
 

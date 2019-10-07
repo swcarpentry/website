@@ -4,7 +4,7 @@ authors: ["Simon Hettrick"]
 title: "First Conference of Research Software Engineers: Call for Participation"
 date: 2016-05-10
 time: "00:05:00"
-category: ["Community"]
+tags: ["Community"]
 ---
 The [RSE Conference](http://www.rse.ac.uk/conf2016) on September 15-16, 2016, in Manchester
 will be the first conference to focus exclusively on the issues that affect people who write and use software in research.

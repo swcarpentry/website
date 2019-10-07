@@ -4,7 +4,7 @@ authors: ["Aleksandra Pawlik, Kari Jordan, Anelda van der Walt"]
 title: "Instructor Training in South Africa 2.0"
 date: 2017-05-09
 time: "23:00:00"
-category: ["Instructor Training"]
+tags: ["Instructor Training"]
 ---
 
 One of the main goals of our community is to make Software and Data Carpentry workshops accessible for all researchers from all disciplines and all regions of the world. In the past three years workshops in South Africa and other African countries have started gradually picking up and I think we may soon see exponential growth!

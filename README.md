@@ -82,7 +82,7 @@ authors: ["Your Name"]
 title: "A Title-Cased Title for the Post"
 date: YYYY-MM-DD
 time: "hh:mm:ss"
-category: ["Some Category", "Some Other Category"]
+tags: ["Some Category", "Some Other Category"]
 ---
 ~~~
 

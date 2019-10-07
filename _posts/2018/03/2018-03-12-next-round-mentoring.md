@@ -4,7 +4,7 @@ authors: ["Kari L. Jordan"]
 title: "Mentoring Groups are Back!"
 date: 2018-03-12
 time: "hh:mm:00"
-category: ["Community", "Mentoring"]
+tags: ["Community", "Mentoring"]
 ---
 
 In February, we held our mentoring groups [virtual showcase](http://www.datacarpentry.org/blog/Mentoring-Groups-Virtual-Showcase/), 

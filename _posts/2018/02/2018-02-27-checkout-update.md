@@ -4,7 +4,7 @@ authors: ["Erin Becker"]
 title: "State of the State: Instructor Checkout"
 date: 2018-02-27
 time: "00:00:00"
-category: ["Instructors", "Community"]
+tags: ["Instructors", "Community"]
 ---
 
 This blog post is the second in a series examining the roles and contributions of the different parts of the Carpentry community. In case you missed it - read the [first post](http://www.datacarpentry.org/blog/maintainer-report/) in this series, about Maintainers.

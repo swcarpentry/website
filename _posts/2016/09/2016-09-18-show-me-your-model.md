@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Show Me Your Model"
 date: 2016-09-18
 time: "00:08:00"
-category: ["Opinion", "Research"]
+tags: ["Opinion", "Research"]
 ---
 
 As far as I can tell,

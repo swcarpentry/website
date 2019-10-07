@@ -4,7 +4,7 @@ authors: ["Sue McClatchy"]
 title: "Software engineer position at The Jackson Laboratory"
 date: 2016-11-15
 time: "10:00:00"
-category: ["Jobs"]
+tags: ["Jobs"]
 ---
 
 A scientific software engineer position is available immediately at The [Jackson Laboratory](http://www.jax.org) in

@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Further Analysis of Instructor Training Data"
 date: 2016-05-31
 time: "08:30:00"
-category: ["Instructor Training"]
+tags: ["Instructor Training"]
 ---
 Following [Erin Becker's analysis of our instructor training data]({{site.baseurl}}/blog/2016/05/first-analysis.html),
 Byron Smith has done [another analysis](http://blog.byronjsmith.com/instructor-survival.html)

@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Data Carpentry is Hiring a Deputy Director of Assessment"
 date: 2016-04-24
 time: "08:00:00"
-category: ["Community", "Data Carpentry"]
+tags: ["Community", "Data Carpentry"]
 ---
 [Data Carpentry is hiring](http://www.datacarpentry.org/jobs/)!
 

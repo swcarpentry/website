@@ -4,7 +4,7 @@ authors: ["Karthik Ram"]
 title: "Post-doc Position with rOpenSci"
 date: 2016-09-07
 time: "08:00:00"
-category: ["rOpenSci", "Jobs"]
+tags: ["rOpenSci", "Jobs"]
 ---
 
 The [rOpenSci](http://ropensci.org/) project based at the University

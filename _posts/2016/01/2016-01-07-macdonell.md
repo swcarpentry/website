@@ -4,7 +4,7 @@ authors: ["Cam Macdonell"]
 title: "2016 Election: Cam Macdonell"
 date: 2016-01-08
 time: "08:00:00"
-category: ["Steering Committee", "Election 2016"]
+tags: ["Steering Committee", "Election 2016"]
 ---
 Background & SWC Involvement
 ----------

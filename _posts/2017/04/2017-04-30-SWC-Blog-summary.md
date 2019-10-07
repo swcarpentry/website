@@ -4,7 +4,7 @@ authors: ["Martin Dreyer"]
 title: "1 - 30 April, 2017: Library Carpentry, Instructor training, relevant to Learning."
 date: 2017-04-30
 time: "23:00:00"
-category: ["Community"]
+tags: ["Community"]
 ---
 
 ##Highlights

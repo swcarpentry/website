@@ -4,7 +4,7 @@ authors: ["Christina Koch"]
 title: "Software Carpentry: Considering the Future"
 date: 2018-03-23
 time: "08:00:00"
-category: ["Community", "Software Carpentry", "Steering Committee"]
+tags: ["Community", "Software Carpentry", "Steering Committee"]
 ---
 
 When Software Carpentry became part of the merged Carpentries this January, outgoing Software Carpentry steering committee members Rayna Harris and Christina Koch were tasked with continuing the work of the steering committee.  For the past several weeks, we've been working together with a small group to determine what Software Carpentry needs as a sub-community to grow and thrive in the future, and we have identified two primary goals.  

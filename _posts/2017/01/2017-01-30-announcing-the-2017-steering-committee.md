@@ -4,7 +4,7 @@ authors: ["Jonah Duckles"]
 title: "Announcing the 2017 Steering Committee"
 date: 2017-01-30
 time: "22:00:00"
-category: ["Steering Committee", "Election 2017", "Software Carpentry Foundation"]
+tags: ["Steering Committee", "Election 2017", "Software Carpentry Foundation"]
 ---
 
 I'm pleased to announce our new steering committee for 2017.

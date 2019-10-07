@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Workshop Satisfaction Survey"
 date: 2016-06-22
 time: "00:00:01"
-category: ["Surveys", "Workshops"]
+tags: ["Surveys", "Workshops"]
 ---
 ## Calling all Software Carpentry workshop attendees! 
 

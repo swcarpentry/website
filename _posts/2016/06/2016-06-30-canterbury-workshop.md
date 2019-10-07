@@ -4,7 +4,7 @@ authors: ["Richard Clare","Paul Gardner", "Constantine Zakkaroff"]
 title: "Software Carpentry workshop at the University of Canterbury, New Zealand"
 date: 2016-06-30
 time: "00:00:01"
-category: ["Workshops"]
+tags: ["Workshops"]
 ---
 
 A two day Software Carpentry course was hosted at the

@@ -4,7 +4,7 @@ authors: ["Kate Hertweck"]
 title: "May Community Call: Restructuring the Carpentries"
 date: 2017-05-14
 time: "10:00:00"
-category: ["Community","Software Carpentry Foundation","Steering Committee"]
+tags: ["Community","Software Carpentry Foundation","Steering Committee"]
 ---
 
 The Software Carpentry Steering Committee (SWC SC) announced 

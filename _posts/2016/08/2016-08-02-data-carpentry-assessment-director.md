@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Data Carpentry's New Deputy Director of Assessment"
 date: 2016-08-02
 time: "00:04:00"
-category: ["Data Carpentry", "Assessment"]
+tags: ["Data Carpentry", "Assessment"]
 ---
 
 Data Carpentry has just announced that

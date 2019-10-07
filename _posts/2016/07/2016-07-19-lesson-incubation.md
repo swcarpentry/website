@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Lesson Incubation"
 date: 2016-07-19
 time: "00:05:00"
-category: ["Lessons"]
+tags: ["Lessons"]
 ---
 
 The [Data Carpentry]({{site.dc_url}}) and [Software Carpentry]({{site.url}}) Steering Committees

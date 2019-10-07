@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Ten Ways to Turn Off Learners"
 date: 2016-08-19
 time: "00:11:00"
-category: ["Teaching"]
+tags: ["Teaching"]
 ---
 
 PLOS has published a very useful set of articles called [Ten Simple Rules](http://collections.plos.org/ten-simple-rules)

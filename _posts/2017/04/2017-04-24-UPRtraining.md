@@ -4,7 +4,7 @@ authors: ["Rayna Harris", "Sue McClatchy", "Tracy Teal"]
 title: "Instructor Training in Puerto Rico"
 date: 2017-04-24
 time: "09:00:00"
-category: ["Community","Instructor Training", "Data Carpentry"]
+tags: ["Community","Instructor Training", "Data Carpentry"]
 ---
 
 On March 24-25, Rayna Harris, Sue McClatchy, and Tracy Teal co-taught an instructor training workshop at the University of Puerto Rico (UPR). This was a very special workshop in many ways, and we are excited to share some of the highlights with you. 

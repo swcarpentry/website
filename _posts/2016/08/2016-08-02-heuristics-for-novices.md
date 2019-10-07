@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Heuristic Evaluation for Novice Programming Systems"
 date: 2016-08-02
 time: "00:01:00"
-category: ["Lessons", "Research"]
+tags: ["Lessons", "Research"]
 ---
 
 I have recently been reading and enjoying

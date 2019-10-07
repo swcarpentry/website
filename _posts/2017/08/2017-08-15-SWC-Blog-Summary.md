@@ -4,7 +4,7 @@ authors: ["Martin Dreyer"]
 title: "15 July -15 August, 2017: Writing a blog post, Instructor Training Curriculum, Merger, League of Champions."
 date: 2017-08-18
 time: "23:00:00"
-category: ["Community"]
+tags: ["Community"]
 ---
 
 ## Highlights

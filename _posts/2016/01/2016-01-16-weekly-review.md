@@ -4,7 +4,7 @@ authors: ["Anelda van der Walt"]
 title: "6 January - 16 January, 2016: Election Candidates, SCF Strategic Plan, New Book, Pre-Workshop Help Sessions, AMY Version 1.3, Mistakes, and Recorded Lessons"
 date: 2016-01-16
 time: "23:00:00"
-category: ["Community"]
+tags: ["Community"]
 ---
 
 ##Highlights: Steering Committee Election

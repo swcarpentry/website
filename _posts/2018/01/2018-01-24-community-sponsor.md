@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Be our Advocate"
 date: 2018-01-24
 time: "00:00:00"
-category: [ "Belinda Weaver"]
+tags: [ "Belinda Weaver"]
 ---
 
 Dear members of our community, we need your help.
