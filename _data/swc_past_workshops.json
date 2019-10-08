@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Jon Wheeler,Brett Lord-Castillo",
+    "end_date": "2019-10-08",
+    "url": "https://jonathanwheeler01.github.io/2019-10-07-missouri/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Missouri, Columbia",
+    "longitude": -92.326505,
+    "slug": "2019-10-07-missouri",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 38.944623,
+    "start_date": "2019-10-07"
+  },
+  {
     "instructors": "Frances Wong,Amin Banihashemi,Ashwin Srinath,Elliott Sales de Andrade",
     "end_date": "2019-10-04",
     "url": "https://uoftcoders.github.io/2019-10-03-utoronto/",
@@ -5338,21 +5353,6 @@
     "host_name": "University of Queensland",
     "latitude": -27.5014792,
     "start_date": "2018-06-28"
-  },
-  {
-    "instructors": "Aleksandra Taranov,Erin Becker,Daniel Hicks",
-    "end_date": "2018-06-28",
-    "url": "https://dib-lab.github.io/2018-06-27-DIBSI-SocialSci/",
-    "country": "US",
-    "curriculum": null,
-    "venue": "UC Davis - DIBSI Social Sciences Workshop",
-    "longitude": -121.7658964,
-    "slug": "2018-06-27-DIBSI-SocialSci",
-    "tag_name": "SWC",
-    "helpers": "Kat Fowler,Jane Park,Seth Frey,Seth Frey",
-    "host_name": "University of California Davis",
-    "latitude": 38.5328167,
-    "start_date": "2018-06-27"
   },
   {
     "instructors": "Emily Dolson,Becca Love",

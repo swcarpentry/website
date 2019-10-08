@@ -15,21 +15,6 @@
     "start_date": "2019-09-11"
   },
   {
-    "instructors": "Jon Wheeler,Brett Lord-Castillo",
-    "end_date": "2019-10-08",
-    "url": "https://jonathanwheeler01.github.io/2019-10-07-missouri/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "University of Missouri, Columbia",
-    "longitude": -92.326505,
-    "slug": "2019-10-07-missouri",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Missouri",
-    "latitude": 38.944623,
-    "start_date": "2019-10-07"
-  },
-  {
     "instructors": "Kim Keogh,Brett Parker",
     "end_date": "2019-10-10",
     "url": "https://bio-swc-bne.github.io/2019-10-08-GriffithUni-Python/",
@@ -193,6 +178,21 @@
     "host_name": "European Molecular Biology Laboratory",
     "latitude": 49.38406,
     "start_date": "2019-10-16"
+  },
+  {
+    "instructors": "Becca Love,David Welch",
+    "end_date": "2019-10-17",
+    "url": "https://dmwelch.github.io/2019-10-17-Chan_Zuckerberg/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "IIDA Conference Center",
+    "longitude": -87.62357,
+    "slug": "2019-10-17-Chan_Zuckerberg",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Chan Zuckerberg Biohub",
+    "latitude": 41.88768,
+    "start_date": "2019-10-17"
   },
   {
     "instructors": "Stephanie Pierce,Michael Gibbs",
