@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Tobin Magle,Lauren Michael,Sarah Stevens,Matt Stone",
-    "end_date": "2019-10-09",
-    "url": "https://uw-madison-datascience.github.io/2019-09-11-uwmadison-swc/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "Software Carpentry @ UW-Madison",
-    "longitude": -89.41338,
-    "slug": "2019-09-11-uwmadison-swc",
-    "tag_name": "SWC",
-    "helpers": "Trisha Adamus,David Hoese,Tobin Magle,Stephen Meyer,Lauren Michael,Baptiste Mouginot,Matt Stone",
-    "host_name": "University of Wisconsin - Madison",
-    "latitude": 43.07609,
-    "start_date": "2019-09-11"
-  },
-  {
     "instructors": "Kim Keogh,Brett Parker",
     "end_date": "2019-10-10",
     "url": "https://bio-swc-bne.github.io/2019-10-08-GriffithUni-Python/",
@@ -27,21 +12,6 @@
     "helpers": null,
     "host_name": "Griffith University",
     "latitude": -27.962539,
-    "start_date": "2019-10-08"
-  },
-  {
-    "instructors": "Kees den Heijer,Heather Andrews",
-    "end_date": "2019-10-09",
-    "url": "https://4turesearchdata-carpentries.github.io/2019-10-08-delft/",
-    "country": "NL",
-    "curriculum": "swc-python",
-    "venue": "October 2019 SWC workshop @TU Delft",
-    "longitude": 4.37524,
-    "slug": "2019-10-08-delft",
-    "tag_name": "SWC",
-    "helpers": "Esther Plomp,Nicolas Dintzner,Sobhan Omranian Khorasani,Santosh Ilamparuthi,Susan Branchett",
-    "host_name": "Delft Univeristy of Technology",
-    "latitude": 52.002677,
     "start_date": "2019-10-08"
   },
   {
@@ -225,6 +195,21 @@
     "start_date": "2019-10-21"
   },
   {
+    "instructors": "Silvia Di Giorgio,Konrad Förstner,Till Sauerwein",
+    "end_date": "2019-10-22",
+    "url": "https://zbmed.github.io/2019-10-21-Software-Carpentry-Cologne/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "ZB MED",
+    "longitude": 6.91646,
+    "slug": "2019-10-21-Software-Carpentry-Cologne",
+    "tag_name": "SWC",
+    "helpers": "Eva Seidlmayer,Klaus Lippert",
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.92465,
+    "start_date": "2019-10-21"
+  },
+  {
     "instructors": "Carrie Brown",
     "end_date": "2019-10-22",
     "url": "http://rcg.usd.edu/2019-10-21-USD/",
@@ -403,6 +388,21 @@
     "host_name": "Griffith University",
     "latitude": -27.552941,
     "start_date": "2019-11-20"
+  },
+  {
+    "instructors": "João Rodrigues,Jake Lever",
+    "end_date": "2019-11-21",
+    "url": "https://jakelever.github.io/2019-11-21-stanford_medicine/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Stanford University Medicine",
+    "longitude": -122.175812,
+    "slug": "2019-11-21-stanford_medicine",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Stanford University",
+    "latitude": 37.43185,
+    "start_date": "2019-11-21"
   },
   {
     "instructors": "Inigo Aldazabal Mensa,Andrés Díaz-Gil,Alfonso Nunez,Bryan Zaldivar",

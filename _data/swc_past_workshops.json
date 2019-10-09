@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Kees den Heijer,Heather Andrews",
+    "end_date": "2019-10-09",
+    "url": "https://4turesearchdata-carpentries.github.io/2019-10-08-delft/",
+    "country": "NL",
+    "curriculum": "swc-python",
+    "venue": "October 2019 SWC workshop @TU Delft",
+    "longitude": 4.37524,
+    "slug": "2019-10-08-delft",
+    "tag_name": "SWC",
+    "helpers": "Esther Plomp,Nicolas Dintzner,Sobhan Omranian Khorasani,Santosh Ilamparuthi,Susan Branchett",
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 52.002677,
+    "start_date": "2019-10-08"
+  },
+  {
     "instructors": "Jon Wheeler,Brett Lord-Castillo",
     "end_date": "2019-10-08",
     "url": "https://jonathanwheeler01.github.io/2019-10-07-missouri/",
@@ -13,6 +28,21 @@
     "host_name": "University of Missouri",
     "latitude": 38.944623,
     "start_date": "2019-10-07"
+  },
+  {
+    "instructors": "Mike Henry",
+    "end_date": "2019-10-06",
+    "url": "https://bsurc.github.io/2019-10-06-sc-workshop/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Hampton Inn",
+    "longitude": -116.2027835,
+    "slug": "2019-10-06-sc-workshop",
+    "tag_name": "SWC",
+    "helpers": "Kyle Shannon,Charlie Becker",
+    "host_name": "Boise State University",
+    "latitude": 43.6118896,
+    "start_date": "2019-10-06"
   },
   {
     "instructors": "Frances Wong,Amin Banihashemi,Ashwin Srinath,Elliott Sales de Andrade",
@@ -39,7 +69,7 @@
     "longitude": -70.6478,
     "slug": "2019-10-03-whoi",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Stace Beaulieu,Stewart Jamieson",
     "host_name": "Woods Hole Oceanographic Institute",
     "latitude": 41.5349,
     "start_date": "2019-10-03"
@@ -253,6 +283,21 @@
     "host_name": "King Abdullah University of Science and Technology",
     "latitude": 22.307807,
     "start_date": "2019-09-15"
+  },
+  {
+    "instructors": "Tobin Magle,Lauren Michael,Sarah Stevens,Matt Stone",
+    "end_date": "2019-10-09",
+    "url": "https://uw-madison-datascience.github.io/2019-09-11-uwmadison-swc/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Software Carpentry @ UW-Madison",
+    "longitude": -89.41338,
+    "slug": "2019-09-11-uwmadison-swc",
+    "tag_name": "SWC",
+    "helpers": "Trisha Adamus,David Hoese,Tobin Magle,Stephen Meyer,Lauren Michael,Baptiste Mouginot,Matt Stone",
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.07609,
+    "start_date": "2019-09-11"
   },
   {
     "instructors": "Brian Ballsun-Stanton,Tim Amos,Richard Miller",
