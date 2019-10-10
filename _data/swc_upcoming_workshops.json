@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Kim Keogh,Brett Parker",
-    "end_date": "2019-10-10",
-    "url": "https://bio-swc-bne.github.io/2019-10-08-GriffithUni-Python/",
-    "country": "AU",
-    "curriculum": "swc-python",
-    "venue": "Griffith University",
-    "longitude": 153.381324,
-    "slug": "2019-10-08-GriffithUni-Python",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Griffith University",
-    "latitude": -27.962539,
-    "start_date": "2019-10-08"
-  },
-  {
-    "instructors": "Nihan Pol,Paul Bloom",
-    "end_date": "2019-10-10",
-    "url": "https://pab2163.github.io/2019-10-09-carnegie/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "Carnegie Mellon Software Carpentry Workshop: Intro to Python/Git/Unix for Research",
-    "longitude": -79.951057,
-    "slug": "2019-10-09-carnegie",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Carnegie Mellon University",
-    "latitude": 40.446088,
-    "start_date": "2019-10-09"
-  },
-  {
     "instructors": "Ye Li,Julie Goldman",
     "end_date": "2019-10-12",
     "url": "https://yelibrarian.github.io/2019-10-11-mit/",
@@ -103,21 +73,6 @@
     "host_name": "University of Michigan",
     "latitude": 42.276616,
     "start_date": "2019-10-14"
-  },
-  {
-    "instructors": "James Desjardins,Tim Ribaric,Daniel Brett",
-    "end_date": "2019-10-16",
-    "url": "https://brockdsl.github.io/2019-10-15-BrockU/",
-    "country": "CA",
-    "curriculum": "swc-python",
-    "venue": "Brock Digital Scholarship Lab",
-    "longitude": -79.242897,
-    "slug": "2019-10-15-BrockU",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Brock University",
-    "latitude": 43.11747,
-    "start_date": "2019-10-15"
   },
   {
     "instructors": "Amanda Miotto",

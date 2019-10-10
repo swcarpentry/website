@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Nihan Pol,Paul Bloom",
+    "end_date": "2019-10-10",
+    "url": "https://pab2163.github.io/2019-10-09-carnegie/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Carnegie Mellon Software Carpentry Workshop: Intro to Python/Git/Unix for Research",
+    "longitude": -79.951057,
+    "slug": "2019-10-09-carnegie",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Carnegie Mellon University",
+    "latitude": 40.446088,
+    "start_date": "2019-10-09"
+  },
+  {
+    "instructors": "Kim Keogh,Brett Parker",
+    "end_date": "2019-10-10",
+    "url": "https://bio-swc-bne.github.io/2019-10-08-GriffithUni-Python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Griffith University",
+    "longitude": 153.381324,
+    "slug": "2019-10-08-GriffithUni-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.962539,
+    "start_date": "2019-10-08"
+  },
+  {
     "instructors": "Kees den Heijer,Heather Andrews",
     "end_date": "2019-10-09",
     "url": "https://4turesearchdata-carpentries.github.io/2019-10-08-delft/",
@@ -99,13 +129,13 @@
     "longitude": -76.839594,
     "slug": "2019-10-01-DEVELOP-Goddard",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Callum Wayman",
     "host_name": "NASA (National Aeronautics and Space Administration)",
     "latitude": 38.992541,
     "start_date": "2019-10-01"
   },
   {
-    "instructors": "Kairsten Fay,Meredith Rawls",
+    "instructors": "Kairsten Fay,Meredith Rawls,John Huddleston,Shervin Sahba",
     "end_date": "2019-10-04",
     "url": "https://uwescience.github.io/2019-10-01-uw/",
     "country": "US",
@@ -114,7 +144,7 @@
     "longitude": -122.332071,
     "slug": "2019-10-01-uw",
     "tag_name": "SWC",
-    "helpers": "Anthony Valente,Meredith Rawls,Jaime Schatz",
+    "helpers": "Anthony Valente,Meredith Rawls,John Huddleston,Kairsten Fay,Chad Curtis,Alicia Clark",
     "host_name": "University of Washington",
     "latitude": 47.606209,
     "start_date": "2019-10-01"
