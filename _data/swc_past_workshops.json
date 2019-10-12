@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Ye Li,Julie Goldman",
+    "end_date": "2019-10-12",
+    "url": "https://yelibrarian.github.io/2019-10-11-mit/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Massachusetts Institute of Technology",
+    "longitude": -71.090542,
+    "slug": "2019-10-11-mit",
+    "tag_name": "SWC",
+    "helpers": "Ece Turnator",
+    "host_name": "Massachusetts Institute of Technology",
+    "latitude": 42.359689,
+    "start_date": "2019-10-11"
+  },
+  {
     "instructors": "Nihan Pol,Paul Bloom",
     "end_date": "2019-10-10",
     "url": "https://pab2163.github.io/2019-10-09-carnegie/",
