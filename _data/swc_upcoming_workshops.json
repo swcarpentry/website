@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "David Pugh",
-    "end_date": "2019-10-13",
-    "url": "https://kaust-vislab.github.io/2019-10-13-kaust-vislab/",
-    "country": "SA",
-    "curriculum": "swc-other",
-    "venue": "KAUST Visualization Core Lab",
-    "longitude": 39.105358,
-    "slug": "2019-10-13-kaust-vislab",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "King Abdullah University of Science and Technology",
-    "latitude": 22.307807,
-    "start_date": "2019-10-13"
-  },
-  {
     "instructors": "Christine Swanson,Katherine Simeon",
     "end_date": "2019-10-14",
     "url": "https://thatsciencegal.github.io/2019-10-13-stonybrook/",
