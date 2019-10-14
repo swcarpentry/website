@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Christine Swanson,Katherine Simeon",
-    "end_date": "2019-10-14",
-    "url": "https://thatsciencegal.github.io/2019-10-13-stonybrook/",
-    "country": "US",
-    "curriculum": "swc-r",
-    "venue": "Stony Brook University Institute for Advanced Computational Science",
-    "longitude": -73.11632,
-    "slug": "2019-10-13-stonybrook",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Stony Brook University",
-    "latitude": 40.9138,
-    "start_date": "2019-10-13"
-  },
-  {
     "instructors": "Thor Wikfeldt,Martin Moche",
     "end_date": "2019-10-15",
     "url": "https://mochma.github.io/2019-10-14_KI/",
