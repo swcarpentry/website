@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Becca Love,David Welch",
+    "end_date": "2019-10-17",
+    "url": "https://dmwelch.github.io/2019-10-17-Chan_Zuckerberg/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "IIDA Conference Center",
+    "longitude": -87.62357,
+    "slug": "2019-10-17-Chan_Zuckerberg",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Chan Zuckerberg Biohub",
+    "latitude": 41.88768,
+    "start_date": "2019-10-17"
+  },
+  {
+    "instructors": "Amanda Miotto",
+    "end_date": "2019-10-17",
+    "url": "https://bio-swc-bne.github.io/2019-10-16-GriffithUni-R/",
+    "country": "AU",
+    "curriculum": "swc-r",
+    "venue": "Griffith University",
+    "longitude": 153.378868,
+    "slug": "2019-10-16-Griffith",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.960345,
+    "start_date": "2019-10-16"
+  },
+  {
     "instructors": "Thor Wikfeldt,Martin Moche",
     "end_date": "2019-10-15",
     "url": "https://mochma.github.io/2019-10-14_KI/",
@@ -84,7 +114,7 @@
     "longitude": -79.951057,
     "slug": "2019-10-09-carnegie",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Hannah Gunderman,Huajin Wang,Sarah Young,Ann Marie Mesco",
     "host_name": "Carnegie Mellon University",
     "latitude": 40.446088,
     "start_date": "2019-10-09"
@@ -114,7 +144,7 @@
     "longitude": 4.37524,
     "slug": "2019-10-08-delft",
     "tag_name": "SWC",
-    "helpers": "Esther Plomp,Nicolas Dintzner,Sobhan Omranian Khorasani,Santosh Ilamparuthi,Susan Branchett",
+    "helpers": "Esther Plomp,Nicolas Dintzner,Sobhan Omranian Khorasani,Santosh Ilamparuthi,Susan Branchett,Yan Wang,Yasemin Türkyilmaz-van der Velden,Lena Karvovskaya,Ashutosh Kumar,James Van Leuven",
     "host_name": "Delft Univeristy of Technology",
     "latitude": 52.002677,
     "start_date": "2019-10-08"
@@ -129,7 +159,7 @@
     "longitude": -92.326505,
     "slug": "2019-10-07-missouri",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Denice Adkins,Philip Redmon",
     "host_name": "University of Missouri",
     "latitude": 38.944623,
     "start_date": "2019-10-07"
@@ -174,7 +204,7 @@
     "longitude": -70.6478,
     "slug": "2019-10-03-whoi",
     "tag_name": "SWC",
-    "helpers": "Stace Beaulieu,Stewart Jamieson",
+    "helpers": "Stace Beaulieu,Stewart Jamieson,Amber York,Karen Soenen,Stewart Jamieson",
     "host_name": "Woods Hole Oceanographic Institute",
     "latitude": 41.5349,
     "start_date": "2019-10-03"
@@ -264,7 +294,7 @@
     "longitude": -122.390344,
     "slug": "2019-09-27-UCSF-Python",
     "tag_name": "SWC",
-    "helpers": "Ariel Deardorff,Lohith Madireddy,Rebecca Jaszczak",
+    "helpers": "Ariel Deardorff,Lohith Madireddy,Rebecca Jaszczak,Sarah Ngo",
     "host_name": "University of California San Francisco",
     "latitude": 37.767411,
     "start_date": "2019-09-27"
@@ -294,7 +324,7 @@
     "longitude": 5.489574,
     "slug": "2019-09-25-eindhoven",
     "tag_name": "SWC",
-    "helpers": "Barbara Vreede,Santosh Ilamparuthi,Heather Andrews,Jan Dvorak",
+    "helpers": "Barbara Vreede,Santosh Ilamparuthi,Heather Andrews,Jan Dvorak,Peder Isager,Aliaksei Vasilevich,Koen Graat",
     "host_name": "Delft Univeristy of Technology",
     "latitude": 51.447497,
     "start_date": "2019-09-25"
@@ -324,7 +354,7 @@
     "longitude": -117.2510532,
     "slug": "2019-09-23-SIO",
     "tag_name": "SWC",
-    "helpers": "André Palóczy",
+    "helpers": "André Palóczy,Saulo Soares,Luke Colosi",
     "host_name": "University of California San Diego",
     "latitude": 32.8690716,
     "start_date": "2019-09-23"
@@ -345,6 +375,21 @@
     "start_date": "2019-09-23"
   },
   {
+    "instructors": "Alexander Konovalov,Peter Cock,Patrick McCann,Michael Torpey",
+    "end_date": "2019-09-24",
+    "url": "https://starescomp.github.io/2019-09-23-standrews/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "University of St Andrews",
+    "longitude": -2.793957,
+    "slug": "2019-09-23-standrews",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of St. Andrews",
+    "latitude": 56.339308,
+    "start_date": "2019-09-23"
+  },
+  {
     "instructors": "Arjun Biddanda,Nicholas Knoblauch,Briana Mittleman,Zach Miller",
     "end_date": "2019-09-20",
     "url": "https://aabiddanda.github.io/2019-09-19-uchicago/",
@@ -354,7 +399,7 @@
     "longitude": -87.598717,
     "slug": "2019-09-19-uchicago",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Katie Dixon,Anthony Hung,Haley Randolph",
     "host_name": "University of Chicago",
     "latitude": 41.788609,
     "start_date": "2019-09-19"
@@ -759,7 +804,7 @@
     "longitude": -76.300612,
     "slug": "2019-08-21-odu",
     "tag_name": "SWC",
-    "helpers": "Austin Abbott,Courtney Klepac,Ivan Lopez,Kathleen Yeater",
+    "helpers": "Austin Abbott,Courtney Klepac,Ivan Lopez,Kathleen Yeater,Michelle Rodio",
     "host_name": "Old Dominion University",
     "latitude": 36.884672,
     "start_date": "2019-08-21"
@@ -3918,7 +3963,7 @@
     "instructors": "Raphaël Grolimund,Jérôme Chaptinel,Antoine Masson,Mathilde Panes",
     "end_date": "2018-11-29",
     "url": "https://epfllibrary.github.io/2018-11-20-epfl/",
-    "country": "",
+    "country": "CH",
     "curriculum": null,
     "venue": "EPFL Library - Ecole Polytechnique Fédérale de Lausanne",
     "longitude": 6.568269,

@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Amanda Miotto",
-    "end_date": "2019-10-17",
-    "url": "https://bio-swc-bne.github.io/2019-10-16-GriffithUni-R/",
-    "country": "AU",
-    "curriculum": "swc-r",
-    "venue": "Griffith University",
-    "longitude": 153.378868,
-    "slug": "2019-10-16-Griffith",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Griffith University",
-    "latitude": -27.960345,
-    "start_date": "2019-10-16"
-  },
-  {
     "instructors": "Malvika Sharan,Toby Hodges,Thomas Schwarzl,Mike Smith,Holger Dinkel,Frank Thommen",
     "end_date": "2019-10-18",
     "url": "https://malvikasharan.github.io/2019-10-16-heidelberg/",
@@ -28,21 +13,6 @@
     "host_name": "European Molecular Biology Laboratory",
     "latitude": 49.38406,
     "start_date": "2019-10-16"
-  },
-  {
-    "instructors": "Becca Love,David Welch",
-    "end_date": "2019-10-17",
-    "url": "https://dmwelch.github.io/2019-10-17-Chan_Zuckerberg/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "IIDA Conference Center",
-    "longitude": -87.62357,
-    "slug": "2019-10-17-Chan_Zuckerberg",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Chan Zuckerberg Biohub",
-    "latitude": 41.88768,
-    "start_date": "2019-10-17"
   },
   {
     "instructors": "Stephanie Pierce,Michael Gibbs",
@@ -118,6 +88,21 @@
     "host_name": "University of Oslo",
     "latitude": 63.43457,
     "start_date": "2019-10-21"
+  },
+  {
+    "instructors": "José Ignacio Lucas Lledó",
+    "end_date": "2019-10-23",
+    "url": "https://ignasilucas.github.io/2019-10-22-ICBiBE/",
+    "country": "ES",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Institut Cavanilles de Biodiversitat i Biologia Evolutiva",
+    "longitude": -0.42511,
+    "slug": "2019-10-22-ICBiBE",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Universitat de València",
+    "latitude": 39.514449,
+    "start_date": "2019-10-22"
   },
   {
     "instructors": "Yuka Takemon,Bruno Grande",
@@ -253,6 +238,51 @@
     "host_name": "University of Minnesota",
     "latitude": 44.97173,
     "start_date": "2019-11-07"
+  },
+  {
+    "instructors": "Maristella Feustle,Kristy Phillips,Lauren Ko,Mark Phillips",
+    "end_date": "2019-11-12",
+    "url": "https://unt-carpentries.github.io/2019-11-11-unt-swc/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "University of North Texas",
+    "longitude": -97.148954,
+    "slug": "2019-11-11-unt-swc",
+    "tag_name": "SWC",
+    "helpers": "Sarah Fisher,Madhulika Bayyavarapu",
+    "host_name": "University of North Texas",
+    "latitude": 33.210068,
+    "start_date": "2019-11-11"
+  },
+  {
+    "instructors": "Susan Branchett,Nicolas Dintzner",
+    "end_date": "2019-11-14",
+    "url": "https://4turesearchdata-carpentries.github.io/2019-11-13-delft/",
+    "country": "NL",
+    "curriculum": "swc-python",
+    "venue": "November 2019 SWC workshop @TU/Delft",
+    "longitude": 4.37524,
+    "slug": "2019-11-13-delft",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 52.002677,
+    "start_date": "2019-11-13"
+  },
+  {
+    "instructors": "Matthias Bussonnier,Sarvani Chadalapaka",
+    "end_date": "2019-11-15",
+    "url": "https://ucmerced.github.io/2019-11-14-ucmerced/.",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "UC Merced",
+    "longitude": -120.424369,
+    "slug": "2019-11-14-ucmerced",
+    "tag_name": "SWC",
+    "helpers": "Jasper Field",
+    "host_name": "University of California Merced",
+    "latitude": 37.3664,
+    "start_date": "2019-11-14"
   },
   {
     "instructors": "Amanda Miotto",
