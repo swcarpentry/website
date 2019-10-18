@@ -30,6 +30,21 @@
     "start_date": "2019-10-16"
   },
   {
+    "instructors": "Malvika Sharan,Toby Hodges,Thomas Schwarzl,Mike Smith,Holger Dinkel,Frank Thommen",
+    "end_date": "2019-10-18",
+    "url": "https://malvikasharan.github.io/2019-10-16-heidelberg/",
+    "country": "DE",
+    "curriculum": "swc-other,swc-python",
+    "venue": "Computing Skills For Reproducible Research: Software Carpentry - EMBL, Heidelberg",
+    "longitude": 8.710757,
+    "slug": "2019-10-16-heidelberg",
+    "tag_name": "SWC",
+    "helpers": "Thea Van Rossum,Georg Zeller",
+    "host_name": "European Molecular Biology Laboratory",
+    "latitude": 49.38406,
+    "start_date": "2019-10-16"
+  },
+  {
     "instructors": "Thor Wikfeldt,Martin Moche",
     "end_date": "2019-10-15",
     "url": "https://mochma.github.io/2019-10-14_KI/",
@@ -2328,7 +2343,7 @@
     "instructors": "Jon Jablonski,Ian Lessing,Greg Janée,Sharon Solis,Mary Donovan,Yuan Wu",
     "end_date": "2019-04-12",
     "url": "https://UCSBCarpentry.github.io/2019-04-11-UCSB-SW-Workshop",
-    "country": "",
+    "country": "US",
     "curriculum": "swc-r",
     "venue": "UCSB Library Software Carpentry Workshop &quot;R&quot;, Git and Bash",
     "longitude": -119.845506,
