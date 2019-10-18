@@ -1,6 +1,6 @@
 ---
 layout: post
-authors: ["Karen R. Word"]
+authors: ["Karen Word"]
 title: "When Do Workshops Work? A Response to the 'Null Effects' paper from Feldon et al."
 date: 2017-12-11
 time: "00:00:00"

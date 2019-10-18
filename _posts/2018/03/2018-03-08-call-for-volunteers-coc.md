@@ -1,6 +1,6 @@
 ---
 layout: post
-authors: ["Kari L. Jordan, Tracy Teal, Erin Becker"]
+authors: ["Kari L. Jordan", "Tracy Teal", "Erin Becker"]
 title: "Call for Code of Conduct Committee Volunteers "
 date: 2018-03-08
 time: "09:12:00"
