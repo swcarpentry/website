@@ -1,5 +1,65 @@
 [
   {
+    "instructors": "José Ignacio Lucas Lledó",
+    "end_date": "2019-10-23",
+    "url": "https://ignasilucas.github.io/2019-10-22-ICBiBE/",
+    "country": "ES",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Institut Cavanilles de Biodiversitat i Biologia Evolutiva",
+    "longitude": -0.42511,
+    "slug": "2019-10-22-ICBiBE",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Universitat de València",
+    "latitude": 39.514449,
+    "start_date": "2019-10-22"
+  },
+  {
+    "instructors": "Yuka Takemon,Bruno Grande",
+    "end_date": "2019-10-23",
+    "url": "https://ytakemon.github.io/2019-10-22-R-BCCRC/",
+    "country": "CA",
+    "curriculum": "swc-reproducible-science",
+    "venue": "BC Cancer Research Centre",
+    "longitude": -123.11872,
+    "slug": "2019-10-22-R-BCCRC",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "British Columbia Cancer Research Centre",
+    "latitude": 49.26258,
+    "start_date": "2019-10-22"
+  },
+  {
+    "instructors": "Luke Johnston,Kristian Tylén",
+    "end_date": "2019-10-23",
+    "url": "https://au-cru.github.io/2019-10-22-aarhus/",
+    "country": "DK",
+    "curriculum": "swc-r",
+    "venue": "Aarhus University",
+    "longitude": 10.190455,
+    "slug": "2019-10-22-aarhus",
+    "tag_name": "SWC",
+    "helpers": "oana vuculescu",
+    "host_name": "Aarhus University",
+    "latitude": 56.172332,
+    "start_date": "2019-10-22"
+  },
+  {
+    "instructors": "Ashar Malik",
+    "end_date": "2019-10-23",
+    "url": "https://proteinmechanic.github.io/2019-10-21-BioinformaticsInstitute/",
+    "country": "SG",
+    "curriculum": "swc-other",
+    "venue": "The Bioinformatics Institute, A*STAR",
+    "longitude": 103.792545,
+    "slug": "2019-10-21-BioinformaticsInstitute",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "The Bioinformatics Institute",
+    "latitude": 1.303419,
+    "start_date": "2019-10-21"
+  },
+  {
     "instructors": "Silvia Di Giorgio,Konrad Förstner,Till Sauerwein",
     "end_date": "2019-10-22",
     "url": "https://zbmed.github.io/2019-10-21-Software-Carpentry-Cologne/",
@@ -69,7 +129,7 @@
     "longitude": -87.62357,
     "slug": "2019-10-17-Chan_Zuckerberg",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Jeremy Freeman,Nick Sofroniev,Ambrose Carr,Sidney Bell",
     "host_name": "Chan Zuckerberg Biohub",
     "latitude": 41.88768,
     "start_date": "2019-10-17"
@@ -129,7 +189,7 @@
     "longitude": -83.73823,
     "slug": "2019-10-14-umich",
     "tag_name": "SWC",
-    "helpers": "Sarah Tomkovich,Nick Lesniak",
+    "helpers": "Sarah Tomkovich,Nick Lesniak,Julie Boulanger",
     "host_name": "University of Michigan",
     "latitude": 42.276616,
     "start_date": "2019-10-14"
@@ -165,7 +225,7 @@
     "start_date": "2019-10-13"
   },
   {
-    "instructors": "Ye Li,Julie Goldman",
+    "instructors": "Ye Li,Julie Goldman,Rajarshi Guha,Mike Fortunato",
     "end_date": "2019-10-12",
     "url": "https://yelibrarian.github.io/2019-10-11-mit/",
     "country": "US",
@@ -174,7 +234,7 @@
     "longitude": -71.090542,
     "slug": "2019-10-11-mit",
     "tag_name": "SWC",
-    "helpers": "Ece Turnator",
+    "helpers": "Ece Turnator,Madeline Wrable,Daniel Sheehan",
     "host_name": "Massachusetts Institute of Technology",
     "latitude": 42.359689,
     "start_date": "2019-10-11"
@@ -373,6 +433,21 @@
     "host_name": "University of California San Francisco",
     "latitude": 37.767411,
     "start_date": "2019-09-27"
+  },
+  {
+    "instructors": "Antonia May,Valentina Erastova,Claire Hobday",
+    "end_date": "2019-09-27",
+    "url": "https://edcarp.github.io/2019-09-26-edinburgh-swc/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "School of Chemistry: Python and Unix Shell",
+    "longitude": -3.173591,
+    "slug": "2019-09-26-edinburgh-swc",
+    "tag_name": "SWC",
+    "helpers": "Salomé Llabres,Jenke Scheen,Sofia Bariami,David McKain,Mario Antonioletti",
+    "host_name": "Edinburgh Parallel Computing Centre",
+    "latitude": 55.921711,
+    "start_date": "2019-09-26"
   },
   {
     "instructors": "Katie Dejwakh,Makhan Virdi",
@@ -630,7 +705,7 @@
     "start_date": "2019-09-05"
   },
   {
-    "instructors": "David McKain",
+    "instructors": "David McKain,Ruairidh Macleod,Antonia May,Chris Wood",
     "end_date": "2019-09-05",
     "url": "https://edcarp.github.io/2019-09-04-edinburgh-swc/",
     "country": "GB",
@@ -8250,7 +8325,7 @@
     "start_date": "2017-10-17"
   },
   {
-    "instructors": "Toby Hodges,Malvika Sharan,Luis Pedro Coelho,Frank Thommen,Georg Zeller,Bérénice Batut",
+    "instructors": "Toby Hodges,Malvika Sharan,Luis Pedro Coelho,Frank Thommen,Georg Zeller,Bérénice Batut,Thomas Schwarzl",
     "end_date": "2017-10-20",
     "url": "https://tobyhodges.github.io/2017-10-17-heidelberg/",
     "country": "DE",
@@ -11970,7 +12045,7 @@
     "start_date": "2016-09-19"
   },
   {
-    "instructors": "Toby Hodges,Luis Pedro Coelho,Malvika Sharan,Frank Thommen",
+    "instructors": "Toby Hodges,Luis Pedro Coelho,Malvika Sharan,Frank Thommen,Thomas Schwarzl",
     "end_date": "2016-09-21",
     "url": "http://tobyhodges.github.io/2016-09-19-heidelberg/",
     "country": "DE",
