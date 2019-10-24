@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Ed Bennett,Mark Dawson",
-    "end_date": "2019-10-24",
-    "url": "https://sa2c.github.io/2019-10-23-swansea",
-    "country": "GB",
-    "curriculum": "swc-python",
-    "venue": "Singleton Campus, Swansea University",
-    "longitude": -3.97837,
-    "slug": "2019-10-23-swansea",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Swansea University",
-    "latitude": 51.609069,
-    "start_date": "2019-10-23"
-  },
-  {
     "instructors": "yectli huerta,Elena Auer,Caitlin Bakker",
     "end_date": "2019-10-25",
     "url": "https://chaochihl.github.io/2019-10-24-umntc/",
@@ -57,6 +42,21 @@
     "helpers": "Cristian Palacios,Fernando Rios",
     "host_name": "University of Arizona",
     "latitude": 32.231901,
+    "start_date": "2019-10-26"
+  },
+  {
+    "instructors": "Nihan Pol,Denny Hood",
+    "end_date": "2019-10-27",
+    "url": "https://ncf0003.github.io/2019-10-26-wvu/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "West Virginia University (Basic Python Workshop)",
+    "longitude": -79.954247,
+    "slug": "2019-10-26-wvu",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "West Virginia University",
+    "latitude": 39.63321,
     "start_date": "2019-10-26"
   },
   {
@@ -223,5 +223,20 @@
     "host_name": "The Centro de Física Teórica y Matemáticas (CFTMAT)",
     "latitude": 40.549532,
     "start_date": "2019-11-28"
+  },
+  {
+    "instructors": "Bret Alexander Beheim",
+    "end_date": "2019-12-11",
+    "url": "https://hbec-mpi-eva.github.io/2019-12-09-leipzig/",
+    "country": "DE",
+    "curriculum": "swc-r",
+    "venue": "Max Planck Institute for Evolutionary Anthropology",
+    "longitude": 12.3950214,
+    "slug": "2019-12-09-leipzig",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Max Planck Institute for Evolutionary Anthropology",
+    "latitude": 51.3211759,
+    "start_date": "2019-12-09"
   }
 ]
