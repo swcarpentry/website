@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "yectli huerta,Elena Auer,Caitlin Bakker",
-    "end_date": "2019-10-25",
-    "url": "https://chaochihl.github.io/2019-10-24-umntc/",
-    "country": "US",
-    "curriculum": "swc-r",
-    "venue": "University of Minnesota",
-    "longitude": -93.24285,
-    "slug": "2019-10-24-umntc",
-    "tag_name": "SWC",
-    "helpers": "Cody Hennesy,yectli huerta,Elena Auer,Caitlin Bakker,Jon Badalamenti,David Naughton",
-    "host_name": "University of Minnesota",
-    "latitude": 44.97348,
-    "start_date": "2019-10-24"
-  },
-  {
-    "instructors": "Daniel Stubbs,Nikolai Sergueev",
-    "end_date": "2019-10-25",
-    "url": "https://computecanada.github.io/2019-10-24-umontreal/",
-    "country": "CA",
-    "curriculum": "swc-python",
-    "venue": "Université de Montréal",
-    "longitude": -73.617541,
-    "slug": "2019-10-24-umontreal",
-    "tag_name": "SWC",
-    "helpers": "Pier-Luc St-Onge,Bart Oldeman",
-    "host_name": "Universite de Montreal",
-    "latitude": 45.502277,
-    "start_date": "2019-10-24"
-  },
-  {
     "instructors": "Uwe Hilgert,Xue Pan,Sateesh Peri,Travis Struck",
     "end_date": "2019-10-27",
     "url": "https://UA-Carpentries-Workshops.github.io/2019-10-26-Tucson",
