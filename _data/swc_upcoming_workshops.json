@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Uwe Hilgert,Xue Pan,Sateesh Peri,Travis Struck",
-    "end_date": "2019-10-27",
-    "url": "https://UA-Carpentries-Workshops.github.io/2019-10-26-Tucson",
-    "country": "US",
-    "curriculum": "swc-reproducible-science",
-    "venue": "University of Arizona",
-    "longitude": -110.9495,
-    "slug": "2019-10-26-Tucson",
-    "tag_name": "SWC",
-    "helpers": "Cristian Palacios,Fernando Rios",
-    "host_name": "University of Arizona",
-    "latitude": 32.231901,
-    "start_date": "2019-10-26"
-  },
-  {
-    "instructors": "Nihan Pol,Denny Hood",
-    "end_date": "2019-10-27",
-    "url": "https://ncf0003.github.io/2019-10-26-wvu/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "West Virginia University (Basic Python Workshop)",
-    "longitude": -79.954247,
-    "slug": "2019-10-26-wvu",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "West Virginia University",
-    "latitude": 39.63321,
-    "start_date": "2019-10-26"
-  },
-  {
     "instructors": "Kevin Dyke,Peter Hoyt",
     "end_date": "2019-11-22",
     "url": "https://osu-carpentry.github.io/2019-11-01-okstate/",
