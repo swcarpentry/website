@@ -540,6 +540,21 @@
     "start_date": "2019-09-25"
   },
   {
+    "instructors": "David Perez-Suarez,Mian Ahmad,Anastasis Georgoulas,Ben Waugh",
+    "end_date": "2019-09-26",
+    "url": "http://rits.github-pages.ucl.ac.uk/2019-09-25-UCL_software_carpentry/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "University College London",
+    "longitude": -0.133241,
+    "slug": "2019-09-25-UCL_software_carpentry",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University College London",
+    "latitude": 51.525435,
+    "start_date": "2019-09-25"
+  },
+  {
     "instructors": "Nicolas Dintzner,Renato Alves",
     "end_date": "2019-09-26",
     "url": "https://4turesearchdata-carpentries.github.io/2019-09-25-eindhoven/",
