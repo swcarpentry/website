@@ -7,6 +7,7 @@ header:
  image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
+tags: [ "Community", "Feedback", "Assessment" ]
 comments: true
 show_meta: true
 authors: ["Kari L. Jordan"]
@@ -16,8 +17,8 @@ Dr. Kari L. Jordan, Data Carpentry’s Deputy Director of Assessment, will be sp
 
 [Community Call Information](http://pad.software-carpentry.org/community-call-2016-10-20)
 
-First meeting  
+First meeting
 7am Pacific / 10am Eastern / 2pm UTC / 1am (Oct 21) Sydney
 
-Second meeting  
+Second meeting
 4pm Pacific / 7pm Eastern / 11pm UTC / 10am (Oct 21) Sydney

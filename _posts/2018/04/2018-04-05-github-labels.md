@@ -4,6 +4,7 @@ title: "Developing GitHub labels for The Carpentries lessons"
 teaser: "The process of developing GitHub labels for our lessons."
 categories:
     - blog
+tags: ["Maintainers", "Contributing"]
 comments: true
 show_meta: true
 authors: ["François Michonneau"]
@@ -17,11 +18,11 @@ As our Maintainers [have told us](http://www.datacarpentry.org/blog/maintainer-r
 
 The number and diversity of issues and pull requests that Maintainers receive can sometimes be overwhelming. Both Maintainers and contributors have said that better issue labeling would make it easier to maintain and contribute to lessons. Being able to categorize contributions would help Maintainers to think through the type of issues being reported, and allow them to identify suitable next steps to address them.  Issue labels are also useful for facilitating communication among Maintainers.
 
-Especially for new contributors, issue labels can make contribution easier by signaling what is available to work on, and the type of expertise needed. 
+Especially for new contributors, issue labels can make contribution easier by signaling what is available to work on, and the type of expertise needed.
 
 The default set of labels provided by GitHub is not well-suited for our purpose, and Maintainers have expressed the need to have more options to describe the type of issues. For instance, the "bug" label is appropriate for a repository that only contains code, but our repositories contain both code and text and what qualifies as a bug is not always obvious. We also need to accommodate discussions that often take place as issues, and with other situations with which the standard set of GitHub label doesn't deal well.
 
-In the past, have modified the default set of labels to include the following:: "bug", "discussion", "enhancement", "help-wanted", "instructor-training", "newcomer-friendly", "question", "template-and-tools", "work-in-progress". However, while these labels are better suited to our lessons than the default set of labels provided by GitHub, use of these labels has not been standard across all lesson repos, with many repos introducing new labels. This indicates a need for a more robust set of labels to cover different scenarios faced in our lessons. 
+In the past, have modified the default set of labels to include the following:: "bug", "discussion", "enhancement", "help-wanted", "instructor-training", "newcomer-friendly", "question", "template-and-tools", "work-in-progress". However, while these labels are better suited to our lessons than the default set of labels provided by GitHub, use of these labels has not been standard across all lesson repos, with many repos introducing new labels. This indicates a need for a more robust set of labels to cover different scenarios faced in our lessons.
 
 Beyond the type of issues, we also want to signal the progress status to both contributors and Maintainers. Contributors should be able to tell from the list of issues the ones that are available to be worked on, and Maintainers should be able to identify issues that are being worked on by contributors. For this reason, we worked with the Maintainer community to propose a new set of issue labels, including two main categories: the **type** labels, and the **status** labels. We include these words as prefixes so Maintainers can easily filter on them when assigning them to issues.
 
@@ -47,10 +48,10 @@ The feedback from Maintainers of these pilot repositories was positive, and the 
 - The distinction between "needs contributor" and "help wanted" was not clear;
 - The definition of some labels needed to be clarified.
 
-We’re very grateful to the Maintainer community for their thoughtful feedback on this proposal. . With the comments that we received, and the testing that was done by Maintainers for the five pilot repositories, we gained valuable information about the usefulness of these issue labels. We are now ready to move into a beta-test. We will test these labels for at least one month, and will solicit feedback from Maintainers and survey how they are being used across our repositories during this time. This information will be used to guide any modifications to the issue labels and ensure that they are maximally useful to our Maintainer and contributor communities. 
+We’re very grateful to the Maintainer community for their thoughtful feedback on this proposal. . With the comments that we received, and the testing that was done by Maintainers for the five pilot repositories, we gained valuable information about the usefulness of these issue labels. We are now ready to move into a beta-test. We will test these labels for at least one month, and will solicit feedback from Maintainers and survey how they are being used across our repositories during this time. This information will be used to guide any modifications to the issue labels and ensure that they are maximally useful to our Maintainer and contributor communities.
 
 For more detailed information about the labels and their definitions in available in [The Carpentries handbook](http://docs.carpentries.org/topic_folders/maintainers/github_labels.html).
 
-The goal for these new issue labels is to provide tools and options to make the Maintainer role easier and help new contributors know where they can be more useful. With these issue tags, when a contributor opens the issue list for a lesson, they’ll know which issues can be addressed or are already being worked on. To this end, we recommend that each issue be labeled with both a "type" and a "status" issue, and that they are updated as work on the issue progresses. 
+The goal for these new issue labels is to provide tools and options to make the Maintainer role easier and help new contributors know where they can be more useful. With these issue tags, when a contributor opens the issue list for a lesson, they’ll know which issues can be addressed or are already being worked on. To this end, we recommend that each issue be labeled with both a "type" and a "status" issue, and that they are updated as work on the issue progresses.
 
 Thank you to all the Maintainers who have tested, reviewed, and modified the initial proposed set of labels. We hope they will make lesson maintenance and contributions easier, and ultimately improve the quality of our teaching materials. As with everything in The Carpentries, the process of deciding how to label our issues is iterative and open to changes based on feedback from community members. Let us know how they work for you! If you have comments or suggestions about issue labeling for our lessons, please add your thoughts to [this issue](https://github.com/carpentries/lesson-infrastructure/issues/1).
