@@ -180,6 +180,36 @@
     "start_date": "2019-11-21"
   },
   {
+    "instructors": "David Nicholson,Stephanie Prince,Sena Agezo",
+    "end_date": "2019-11-24",
+    "url": "https://data-science-for-scientists-atl.github.io/2019-11-23-emory/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Emory University",
+    "longitude": -84.3214501,
+    "slug": "2019-11-23-emory",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Emory University",
+    "latitude": 33.79434,
+    "start_date": "2019-11-23"
+  },
+  {
+    "instructors": "Katrin Leinweber,Tobias Weiß,Marc Hanisch,Maximilian Dolling,Peter Evans,Bezaye Tesfaye,Stefan Lüdtke,Berry Boessenkool,Michael Dietze",
+    "end_date": "2019-11-27",
+    "url": "http://swc-bb.gitext.gfz-potsdam.de/pages/2019-11-26-Potsdam-Berlin/",
+    "country": "DE",
+    "curriculum": "swc-r",
+    "venue": "Albert Einstein Science Park, Potsdam, Germany",
+    "longitude": 13.064298,
+    "slug": "2019-11-26-Potsdam-Berlin",
+    "tag_name": "SWC",
+    "helpers": "Knut Günther,Matthias Rüster,Nils Brinckmann,Norman Ziegner,Vivien Stender,Gesa Petersen,Tabea Rettelbach,Heidrun Matthes,Phillip Tiburtius",
+    "host_name": "GFZ Potsdam",
+    "latitude": 52.382214,
+    "start_date": "2019-11-26"
+  },
+  {
     "instructors": "Inigo Aldazabal Mensa,Andrés Díaz-Gil,Alfonso Nunez,Bryan Zaldivar",
     "end_date": "2019-11-29",
     "url": "https://marcosjerez.github.io/2019-11-27-cftmat",

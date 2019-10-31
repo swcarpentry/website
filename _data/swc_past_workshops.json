@@ -24,10 +24,25 @@
     "longitude": -79.954247,
     "slug": "2019-10-26-wvu",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Vivian Guetler,Joshua Hernandez",
     "host_name": "West Virginia University",
     "latitude": 39.63321,
     "start_date": "2019-10-26"
+  },
+  {
+    "instructors": "Jason Black,Will Trimble",
+    "end_date": "2019-10-26",
+    "url": "https://wltrimbl.github.io/2019-10-25-FAMU/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Florida A&M University",
+    "longitude": -84.2886957,
+    "slug": "2019-10-25-FAMU",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Florida Agricultural and Mechanical University",
+    "latitude": 30.42895,
+    "start_date": "2019-10-25"
   },
   {
     "instructors": "yectli huerta,Elena Auer,Caitlin Bakker",
@@ -39,7 +54,7 @@
     "longitude": -93.24285,
     "slug": "2019-10-24-umntc",
     "tag_name": "SWC",
-    "helpers": "Cody Hennesy,yectli huerta,Elena Auer,Caitlin Bakker,Jon Badalamenti,David Naughton",
+    "helpers": "Cody Hennesy,yectli huerta,Elena Auer,Caitlin Bakker,Jon Badalamenti,David Naughton,Brian Smith",
     "host_name": "University of Minnesota",
     "latitude": 44.97348,
     "start_date": "2019-10-24"
@@ -99,7 +114,7 @@
     "longitude": -0.42511,
     "slug": "2019-10-22-ICBiBE",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Cristina Llopis Belenguer,Quentin Corbel",
     "host_name": "Universitat de València",
     "latitude": 39.514449,
     "start_date": "2019-10-22"
@@ -129,7 +144,7 @@
     "longitude": 10.190455,
     "slug": "2019-10-22-aarhus",
     "tag_name": "SWC",
-    "helpers": "oana vuculescu,Antonio Rivero Ostoic",
+    "helpers": "oana vuculescu,Antonio Rivero Ostoic,Sara Tomiolo,Maria Izabel Cavassim Alves,Petra Hermankova",
     "host_name": "Aarhus University",
     "latitude": 56.172332,
     "start_date": "2019-10-22"
@@ -144,7 +159,7 @@
     "longitude": 103.792545,
     "slug": "2019-10-21-BioinformaticsInstitute",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Akshita Kumar,Nguyen Thanh,Shilpa Yadahalli",
     "host_name": "The Bioinformatics Institute",
     "latitude": 1.303419,
     "start_date": "2019-10-21"
@@ -174,7 +189,7 @@
     "longitude": -96.923922,
     "slug": "2019-10-21-USD",
     "tag_name": "SWC",
-    "helpers": "Ryan Johnson",
+    "helpers": "Ryan Johnson,Adison Kleinsasser,Bill Conn",
     "host_name": "University of Nebraska",
     "latitude": 42.785553,
     "start_date": "2019-10-21"
@@ -189,7 +204,7 @@
     "longitude": 10.39844,
     "slug": "2019-10-21-swc-ntnu",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Håvard Eilertsen",
     "host_name": "University of Oslo",
     "latitude": 63.43457,
     "start_date": "2019-10-21"
