@@ -7,6 +7,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["François Michonneau"]
+tags: [ "Maintainers", "GitHub", "Labels"]
 ---
 
 

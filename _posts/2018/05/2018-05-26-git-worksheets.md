@@ -4,7 +4,7 @@ authors: ["Pariksheet Nanda"]
 title: "Git lesson using worksheets"
 date: 2018-05-26
 time: "11:39:00"
-tags: ["Workshops", "Teaching", "Git"]
+tags: ["Workshops", "Teaching", "Git", "Software Carpentry"]
 ---
 
 I attended my first Software Carpentry workshop in 2015 as a helper and was
