@@ -8,7 +8,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["François Michonneau"]
-tags: ["Software Carpentry"]
+tags: ["Bug BBQ"]
 ---
 
 ## Remind me...
