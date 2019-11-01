@@ -7,7 +7,8 @@ categories:
     - blog
 comments: true
 show_meta: true
-authors: ["Tracy Teal", "Maneesha Sane", "Belinda Weaver", "Software Carpentry"]
+authors: ["Tracy Teal", "Maneesha Sane", "Belinda Weaver"]
+tags: ["Communications"]
 ---
 
 As The Carpentries, we're excited to announce that we have consolidated and updated many
