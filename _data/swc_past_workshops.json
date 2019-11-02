@@ -3570,6 +3570,21 @@
     "start_date": "2019-01-23"
   },
   {
+    "instructors": "Anthony Etuk,Alice Minotto,Nicola Soranzo",
+    "end_date": "2019-01-23",
+    "url": "https://tgac.github.io/2019-01-23-earlham/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "Earlham Institute",
+    "longitude": 1.218987,
+    "slug": "2019-01-22-SWC",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Earlham Institute",
+    "latitude": 52.621741,
+    "start_date": "2019-01-22"
+  },
+  {
     "instructors": "Kate Hertweck",
     "end_date": "2019-01-25",
     "url": "https://fredhutchio.github.io/2019-01-22-fredhutch/",
@@ -3582,21 +3597,6 @@
     "helpers": "Michael Gutteridge,Dane Gellerup,John Huddleston,Zach Romer",
     "host_name": "Fred Hutchinson Cancer Research Center",
     "latitude": 47.628251,
-    "start_date": "2019-01-22"
-  },
-  {
-    "instructors": "Anthony Etuk,Alice Minotto,Nicola Soranzo",
-    "end_date": "2019-01-23",
-    "url": "https://tgac.github.io/2019-01-23-earlham/",
-    "country": "GB",
-    "curriculum": null,
-    "venue": "Earlham Institute",
-    "longitude": 1.218987,
-    "slug": "2019-01-23-SWC",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Earlham Institute",
-    "latitude": 52.621741,
     "start_date": "2019-01-22"
   },
   {
