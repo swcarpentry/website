@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "David Pugh",
+    "end_date": "2019-11-03",
+    "url": "https://kaust-vislab.github.io/2019-11-03-kaust-vislab/",
+    "country": "SA",
+    "curriculum": "swc-other",
+    "venue": "KAUST Visualization Lab",
+    "longitude": 39.105358,
+    "slug": "2019-11-03-kaust-vislab",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "King Abdullah University of Science and Technology",
+    "latitude": 22.307807,
+    "start_date": "2019-11-03"
+  },
+  {
     "instructors": "Uwe Hilgert,Xue Pan,Sateesh Peri,Travis Struck",
     "end_date": "2019-10-27",
     "url": "https://UA-Carpentries-Workshops.github.io/2019-10-26-Tucson",
@@ -240,7 +255,7 @@
     "start_date": "2019-10-17"
   },
   {
-    "instructors": "Amanda Miotto",
+    "instructors": "Amanda Miotto,Kim Keogh,Brett Parker",
     "end_date": "2019-10-17",
     "url": "https://bio-swc-bne.github.io/2019-10-16-GriffithUni-R/",
     "country": "AU",
@@ -249,7 +264,7 @@
     "longitude": 153.378868,
     "slug": "2019-10-16-Griffith",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Sharron Stapleton",
     "host_name": "Griffith University",
     "latitude": -27.960345,
     "start_date": "2019-10-16"

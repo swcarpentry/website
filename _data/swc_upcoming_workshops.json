@@ -15,21 +15,6 @@
     "start_date": "2019-11-01"
   },
   {
-    "instructors": "David Pugh",
-    "end_date": "2019-11-03",
-    "url": "https://kaust-vislab.github.io/2019-11-03-kaust-vislab/",
-    "country": "SA",
-    "curriculum": "swc-other",
-    "venue": "KAUST Visualization Lab",
-    "longitude": 39.105358,
-    "slug": "2019-11-03-kaust-vislab",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "King Abdullah University of Science and Technology",
-    "latitude": 22.307807,
-    "start_date": "2019-11-03"
-  },
-  {
     "instructors": "Tim Spain,Tuomas Koskela,Stef Piatek,Vilma Agalioti Sgompou",
     "end_date": "2019-11-05",
     "url": "http://rits.github-pages.ucl.ac.uk/2019-11-04-UCL_software_carpentry/",
@@ -283,6 +268,21 @@
     "host_name": "University of Georgia",
     "latitude": 33.931532,
     "start_date": "2019-12-04"
+  },
+  {
+    "instructors": "Jason Bell",
+    "end_date": "2019-12-06",
+    "url": "https://qcif-training.github.io/2019-12-05-CQUni-Python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "CQUniversity Australia",
+    "longitude": 150.51893,
+    "slug": "2019-12-05-CQUni-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "self-organized",
+    "latitude": -23.326813,
+    "start_date": "2019-12-05"
   },
   {
     "instructors": "Bret Alexander Beheim",
