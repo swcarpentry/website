@@ -1,6 +1,21 @@
 [
   {
     "instructors": "David Pugh",
+    "end_date": "2019-11-04",
+    "url": "https://kaust-vislab.github.io/2019-11-04-kaust-vislab/",
+    "country": "SA",
+    "curriculum": "swc-other",
+    "venue": "KAUST Visualization Lab",
+    "longitude": 39.105358,
+    "slug": "2019-11-04-kaust-vislab",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "King Abdullah University of Science and Technology",
+    "latitude": 22.307807,
+    "start_date": "2019-11-04"
+  },
+  {
+    "instructors": "David Pugh",
     "end_date": "2019-11-03",
     "url": "https://kaust-vislab.github.io/2019-11-03-kaust-vislab/",
     "country": "SA",
