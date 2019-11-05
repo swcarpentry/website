@@ -9,6 +9,7 @@ tags: ["Contributing", "Community", "Bug BBQ"]
 comments: true
 show_meta: true
 authors: ["François Michonneau"]
+tags: ["Bug BBQ"]
 ---
 
 ## Remind me...
