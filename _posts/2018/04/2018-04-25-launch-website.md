@@ -4,7 +4,7 @@ authors: ["Tracy Teal", "Belinda Weaver"]
 title: "Launching The Carpentries Website"
 date: 2018-04-25
 time: "09:00:00"
-tags: [ "Website"]
+tags: [ "Website", "Merger"]
 ---
 
 ### Website Launch
