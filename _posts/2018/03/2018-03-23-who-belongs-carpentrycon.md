@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Who Belongs at CarpentryCon 2018? You Do!"
 date: 2018-03-23
 time: "00:00:00"
-tags: [ "Conferences", "Community Building", "CarpentryCon"]
+tags: [ "Events", "Community", "CarpentryCon"]
 ---
 
 [CarpentryCon 2018](http://www.carpentrycon.org/) will be the key community building event in the Carpentries' annual calendar. To 
