@@ -7,6 +7,7 @@ categories:
 comments: true
 show_meta: true
 authors: ["François Michonneau"]
+tags: [ "Carpentries Maintainers", "Skillshare"]
 ---
 
 
