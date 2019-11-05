@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Tim Spain,Tuomas Koskela,Stef Piatek,Vilma Agalioti Sgompou",
+    "end_date": "2019-11-05",
+    "url": "http://rits.github-pages.ucl.ac.uk/2019-11-04-UCL_software_carpentry/",
+    "country": "GB",
+    "curriculum": "swc-r",
+    "venue": "UCL",
+    "longitude": -0.13263,
+    "slug": "2019-11-04-UCL_software_carpentry",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University College London",
+    "latitude": 51.52245,
+    "start_date": "2019-11-04"
+  },
+  {
     "instructors": "David Pugh",
     "end_date": "2019-11-04",
     "url": "https://kaust-vislab.github.io/2019-11-04-kaust-vislab/",
@@ -390,6 +405,21 @@
     "start_date": "2019-10-09"
   },
   {
+    "instructors": "Mario Antonioletti",
+    "end_date": "2019-10-09",
+    "url": "https://edcarp.github.io/2019-10-09-edinburgh-igmm-git/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "IGMM, The University of Edinburgh",
+    "longitude": -3.233449,
+    "slug": "2019-10-09-edinburgh-igmm-git",
+    "tag_name": "SWC",
+    "helpers": "Ewan McDowall,John Ireland",
+    "host_name": "University of Edinburgh",
+    "latitude": 55.96219,
+    "start_date": "2019-10-09"
+  },
+  {
     "instructors": "Kim Keogh,Brett Parker",
     "end_date": "2019-10-10",
     "url": "https://bio-swc-bne.github.io/2019-10-08-GriffithUni-Python/",
@@ -580,7 +610,7 @@
     "slug": "2019-09-26-edinburgh-swc",
     "tag_name": "SWC",
     "helpers": "Salomé Llabres,Jenke Scheen,Sofia Bariami,David McKain,Mario Antonioletti",
-    "host_name": "Edinburgh Parallel Computing Centre",
+    "host_name": "University of Edinburgh",
     "latitude": 55.921711,
     "start_date": "2019-09-26"
   },
