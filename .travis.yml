@@ -3,6 +3,8 @@ language: ruby
 rvm:
 - 2.5.3
 
+cache: bundler
+
 before_install:
   - travis_apt_get_update
   - sudo apt-get install -y python3.5 python3-pip
