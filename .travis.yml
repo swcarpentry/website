@@ -3,6 +3,10 @@ language: ruby
 rvm:
 - 2.5.3
 
+before_install:
+  - travis_apt_get_update
+  - sudo apt-get install -y python3.5 python3-pip
+
 install:
   - gem install yaml-lint
   - python3 -m pip install --upgrade pip
