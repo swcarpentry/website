@@ -36,3 +36,14 @@ branches:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+
+before_deploy:
+  - pip install --user awscli
+  - export PATH=$PATH:$HOME/.local/bin
+
+deploy:
+  skip_cleanup: true
+  provider: script
+  script: aws s3 sync --quiet --delete --acl public-read _site/ s3://software-carpentry.org/
+  on:
+    branch: gh-pages
