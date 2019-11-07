@@ -9,7 +9,7 @@ before_install:
 
 install:
   - gem install yaml-lint
-  - python3 -m pip install --upgrade pip
+  - python3 -m pip install --upgrade pip setuptools wheel
   - python3 -m pip install PyGitHub
 
 before_script:
