@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "James Mickley,Jonathan Borrelli",
+    "end_date": "2019-11-07",
+    "url": "https://mickley.github.io/2019-11-05-nature_conservancy/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "New York Nature Conservancy",
+    "longitude": -73.864729,
+    "slug": "2019-11-05-nature_conservancy",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "The Nature Conservancy in New York",
+    "latitude": 42.718642,
+    "start_date": "2019-11-06"
+  },
+  {
     "instructors": "Tim Spain,Tuomas Koskela,Stef Piatek,Vilma Agalioti Sgompou",
     "end_date": "2019-11-05",
     "url": "http://rits.github-pages.ucl.ac.uk/2019-11-04-UCL_software_carpentry/",

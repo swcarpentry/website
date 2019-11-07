@@ -15,21 +15,6 @@
     "start_date": "2019-11-01"
   },
   {
-    "instructors": "James Mickley,Jonathan Borrelli",
-    "end_date": "2019-11-07",
-    "url": "https://mickley.github.io/2019-11-05-nature_conservancy/",
-    "country": "US",
-    "curriculum": "swc-r",
-    "venue": "New York Nature Conservancy",
-    "longitude": -73.864729,
-    "slug": "2019-11-05-nature_conservancy",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "The Nature Conservancy in New York",
-    "latitude": 42.718642,
-    "start_date": "2019-11-06"
-  },
-  {
     "instructors": "Chaochih Liu,Cody Hennesy,Nicholas Dunn",
     "end_date": "2019-11-08",
     "url": "https://chaochihl.github.io/2019-11-07-umntc/",
@@ -165,6 +150,21 @@
     "start_date": "2019-11-21"
   },
   {
+    "instructors": "Luca Di Stasio,MONAH ABOU ALEZZ",
+    "end_date": "2019-11-22",
+    "url": "https://swc-unistuttgart.github.io/2019-11-21-stuttgart/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "Universität Stuttgart",
+    "longitude": 9.182932,
+    "slug": "2019-11-21-stuttgart",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Stuttgart",
+    "latitude": 48.775845,
+    "start_date": "2019-11-21"
+  },
+  {
     "instructors": "David Nicholson,Stephanie Prince,Sena Agezo",
     "end_date": "2019-11-24",
     "url": "https://data-science-for-scientists-atl.github.io/2019-11-23-emory/",
@@ -193,6 +193,21 @@
     "host_name": "GFZ Potsdam",
     "latitude": 52.382214,
     "start_date": "2019-11-26"
+  },
+  {
+    "instructors": "Renato Alves,Toby Hodges",
+    "end_date": "2019-11-29",
+    "url": "https://unode.github.io/2019-11-27-upr/",
+    "country": "CH",
+    "curriculum": "swc-python",
+    "venue": "CERN",
+    "longitude": -1,
+    "slug": "2019-11-27-upr",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Princeton University",
+    "latitude": 45,
+    "start_date": "2019-11-27"
   },
   {
     "instructors": "Inigo Aldazabal Mensa,Andrés Díaz-Gil,Alfonso Nunez,Bryan Zaldivar",
