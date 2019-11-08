@@ -156,14 +156,11 @@ records:
     updated: '2019-09-03', url: 'https://github.com/swcarpentry/shell-novice/issues/1029'}
   - {number: 1024, title: further developing Windows shell setup instructor guidance,
     updated: '2019-09-10', url: 'https://github.com/swcarpentry/shell-novice/issues/1024'}
-  - {number: 1034, title: Invalid command for Copy with Multiple Filenames exercise,
-    updated: '2019-09-17', url: 'https://github.com/swcarpentry/shell-novice/issues/1034'}
   - {number: 1032, title: Move "moving to the current folder" exercise in 03, updated: '2019-09-17',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1032'}
   - {number: 1022, title: Setup is in the wrong order, updated: '2019-09-17', url: 'https://github.com/swcarpentry/shell-novice/issues/1022'}
   - {number: 1027, title: 'Episode 4: Don''t introduce `sort -r` when teaching piping',
     updated: '2019-09-18', url: 'https://github.com/swcarpentry/shell-novice/issues/1027'}
-  - {number: 1036, title: Post-Teaching Demo feedback, updated: '2019-09-19', url: 'https://github.com/swcarpentry/shell-novice/issues/1036'}
   - {number: 928, title: Set realistic timings for episodes, updated: '2019-09-26',
     url: 'https://github.com/swcarpentry/shell-novice/issues/928'}
   - {number: 802, title: 'Suggestion: less changing of data files?', updated: '2019-10-04',
@@ -177,6 +174,7 @@ records:
   - {number: 978, title: MacOS will now default to ZSH, updated: '2019-10-31', url: 'https://github.com/swcarpentry/shell-novice/issues/978'}
   - {number: 1053, title: Various scenarios of using unix shell should be demonstrated
       in the first section, updated: '2019-11-05', url: 'https://github.com/swcarpentry/shell-novice/issues/1053'}
+  - {number: 1036, title: Post-Teaching Demo feedback, updated: '2019-11-08', url: 'https://github.com/swcarpentry/shell-novice/issues/1036'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -186,11 +184,6 @@ records:
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
   - {number: 992, title: Made changes and added General Syntax episode., updated: '2019-08-04',
     url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
-  - {number: 1045, title: Simpler example to mv files to a new directory, updated: '2019-10-25',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/1045'}
-  - {number: 1051, title: Update template, updated: '2019-11-01', url: 'https://github.com/swcarpentry/shell-novice/pull/1051'}
-  - {number: 1049, title: 'Adding simple checks for default shell, adjusting Mac instructions
-      to…', updated: '2019-11-06', url: 'https://github.com/swcarpentry/shell-novice/pull/1049'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -555,8 +548,6 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/663'}
   - {number: 671, title: 'Lesson 5 - minima add up to zero ', updated: '2019-07-24',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/671'}
-  - {number: 675, title: Lesson 10 - numpy.mean(data) and data.mean, updated: '2019-07-25',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/675'}
   - {number: 692, title: Issue in 'Defensive Programming', updated: '2019-08-16',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/692'}
   - {number: 687, title: ' Missed opportunity to talk about indentation in "Programming
@@ -569,8 +560,6 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/725'}
   - {number: 730, title: '08-defensive.md: "Testing Assertions" exercise inconsistency',
     updated: '2019-10-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/730'}
-  - {number: 731, title: 'Defensive Programming: Inconsistent line numbers', updated: '2019-10-29',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/731'}
   - {number: 716, title: 'Remove paragraph about %matplotlib inline magic ', updated: '2019-11-03',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/716'}
   - {number: 735, title: Clarification needed for python environment usage, updated: '2019-11-06',
@@ -639,10 +628,6 @@ records:
   - {number: 729, title: Update some docstring sections to use numpy standard., updated: '2019-11-04',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/729'}
   - {number: 734, title: Loop variable names, updated: '2019-11-05', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/734'}
-  - {number: 732, title: Update line numbers in normalize_rectangle, updated: '2019-11-05',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/732'}
-  - {number: 736, title: Change mean method in readings_03.py, updated: '2019-11-06',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/736'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -972,29 +957,32 @@ records:
   - {number: 1557, title: Provide more control for visibility of curricula, updated: '2019-10-08',
     url: 'https://github.com/carpentries/amy/issues/1557'}
   - {number: 1558, title: Error in running AMY locally, updated: '2019-10-13', url: 'https://github.com/carpentries/amy/issues/1558'}
-  - {number: 1561, title: 'Workshop Request Form: Not Adding all Tags Automatically',
-    updated: '2019-10-18', url: 'https://github.com/carpentries/amy/issues/1561'}
-  - {number: 1560, title: 'Workshop Request Form: Adding Host Tasks for SWC Submissions',
-    updated: '2019-10-18', url: 'https://github.com/carpentries/amy/issues/1560'}
-  - {number: 1563, title: TTT events - open/member seats for learners only, updated: '2019-10-21',
-    url: 'https://github.com/carpentries/amy/issues/1563'}
-  - {number: 1562, title: TTT Open applications - check by default, updated: '2019-10-21',
-    url: 'https://github.com/carpentries/amy/issues/1562'}
-  - {number: 1559, title: Bug with editing Person, updated: '2019-10-21', url: 'https://github.com/carpentries/amy/issues/1559'}
-  - {number: 1564, title: Feature Request- Add task = add person, updated: '2019-10-22',
-    url: 'https://github.com/carpentries/amy/issues/1564'}
   - {number: 1567, title: Add "Do not publish" checkbox to AMY, updated: '2019-10-25',
     url: 'https://github.com/carpentries/amy/issues/1567'}
-  - {number: 1566, title: 'Feature Request: Bulk add learners to TTT event', updated: '2019-10-25',
+  - {number: 1573, title: Workshop request details page - additional contacts aren't
+      displayed in an user-friendly manner, updated: '2019-11-07', url: 'https://github.com/carpentries/amy/issues/1573'}
+  - {number: 1572, title: Amy Event URL Validation, updated: '2019-11-07', url: 'https://github.com/carpentries/amy/issues/1572'}
+  - {number: 1570, title: Workshop Request Form - Membership Affiliation, updated: '2019-11-07',
+    url: 'https://github.com/carpentries/amy/issues/1570'}
+  - {number: 1568, title: Update Contact Field in AMY Events, updated: '2019-11-07',
+    url: 'https://github.com/carpentries/amy/issues/1568'}
+  - {number: 1566, title: 'Feature Request: Bulk add learners to TTT event', updated: '2019-11-07',
     url: 'https://github.com/carpentries/amy/issues/1566'}
   - {number: 1565, title: 'Feature request: Bulk add Instructor training progress',
-    updated: '2019-10-25', url: 'https://github.com/carpentries/amy/issues/1565'}
-  - {number: 1568, title: Update Contact Field in AMY Events, updated: '2019-10-30',
-    url: 'https://github.com/carpentries/amy/issues/1568'}
-  - {number: 1571, title: Connecting Membership Organisation and Workshops, updated: '2019-11-06',
+    updated: '2019-11-07', url: 'https://github.com/carpentries/amy/issues/1565'}
+  - {number: 1564, title: Feature Request- Add task = add person, updated: '2019-11-07',
+    url: 'https://github.com/carpentries/amy/issues/1564'}
+  - {number: 1563, title: TTT events - open/member seats for learners only, updated: '2019-11-07',
+    url: 'https://github.com/carpentries/amy/issues/1563'}
+  - {number: 1562, title: TTT Open applications - check by default, updated: '2019-11-07',
+    url: 'https://github.com/carpentries/amy/issues/1562'}
+  - {number: 1561, title: 'Workshop Request Form: Not Adding all Tags Automatically',
+    updated: '2019-11-07', url: 'https://github.com/carpentries/amy/issues/1561'}
+  - {number: 1560, title: 'Workshop Request Form: Adding Host Tasks for SWC Submissions',
+    updated: '2019-11-07', url: 'https://github.com/carpentries/amy/issues/1560'}
+  - {number: 1559, title: Bug with editing Person, updated: '2019-11-07', url: 'https://github.com/carpentries/amy/issues/1559'}
+  - {number: 1571, title: Connecting Membership Organisation and Workshops, updated: '2019-11-08',
     url: 'https://github.com/carpentries/amy/issues/1571'}
-  - {number: 1570, title: Workshop Request Form - Membership Affiliation, updated: '2019-11-06',
-    url: 'https://github.com/carpentries/amy/issues/1570'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1010,4 +998,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-11-07T14:41:24Z'
+timestamp: '2019-11-08T14:42:14Z'
