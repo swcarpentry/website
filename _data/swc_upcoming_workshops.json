@@ -15,21 +15,6 @@
     "start_date": "2019-11-01"
   },
   {
-    "instructors": "Chaochih Liu,Cody Hennesy,Nicholas Dunn",
-    "end_date": "2019-11-08",
-    "url": "https://chaochihl.github.io/2019-11-07-umntc/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "University of Minnesota",
-    "longitude": -93.23136,
-    "slug": "2019-11-07-umntc",
-    "tag_name": "SWC",
-    "helpers": "Cody Hennesy,Caitlin Bakker,Nicholas Dunn,Elena Auer,David Naughton",
-    "host_name": "University of Minnesota",
-    "latitude": 44.97173,
-    "start_date": "2019-11-07"
-  },
-  {
     "instructors": "Maristella Feustle,Kristy Phillips,Lauren Ko,Mark Phillips",
     "end_date": "2019-11-12",
     "url": "https://unt-carpentries.github.io/2019-11-11-unt-swc/",
@@ -282,6 +267,21 @@
     "helpers": null,
     "host_name": "self-organized",
     "latitude": -23.326813,
+    "start_date": "2019-12-05"
+  },
+  {
+    "instructors": "Christian Darabos,Stephen Gaughan,Lora Leligdon",
+    "end_date": "2019-12-06",
+    "url": "https://nesclic.github.io/2019-12-05-dartmouth/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "Dartmouth College",
+    "longitude": -1,
+    "slug": "2019-12-05-dartmouth",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Dartmouth College",
+    "latitude": 45,
     "start_date": "2019-12-05"
   },
   {

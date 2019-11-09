@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Chaochih Liu,Cody Hennesy,Nicholas Dunn",
+    "end_date": "2019-11-08",
+    "url": "https://chaochihl.github.io/2019-11-07-umntc/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Minnesota",
+    "longitude": -93.23136,
+    "slug": "2019-11-07-umntc",
+    "tag_name": "SWC",
+    "helpers": "Cody Hennesy,Caitlin Bakker,Nicholas Dunn,Elena Auer,David Naughton",
+    "host_name": "University of Minnesota",
+    "latitude": 44.97173,
+    "start_date": "2019-11-07"
+  },
+  {
     "instructors": "James Mickley,Jonathan Borrelli",
     "end_date": "2019-11-07",
     "url": "https://mickley.github.io/2019-11-05-nature_conservancy/",
@@ -60,7 +75,7 @@
     "start_date": "2019-11-03"
   },
   {
-    "instructors": "Uwe Hilgert,Xue Pan,Sateesh Peri,Travis Struck",
+    "instructors": "Uwe Hilgert,Xue Pan,Sateesh Peri,Travis Struck,Kelsey Gonzalez,Marnee Dearman,Noah Nelson",
     "end_date": "2019-10-27",
     "url": "https://UA-Carpentries-Workshops.github.io/2019-10-26-Tucson",
     "country": "US",
@@ -69,7 +84,7 @@
     "longitude": -110.9495,
     "slug": "2019-10-26-Tucson",
     "tag_name": "SWC",
-    "helpers": "Cristian Palacios,Fernando Rios",
+    "helpers": "Cristian Palacios,Fernando Rios,Drake Asberry,Brian Bell,Jennifer Kadowaki,Torbet McNeil,Cesar Medina,Upendra Kumar Devisetty,Adriana Picoral,Austin Rutherford,David LeBauer,Saren Seeley",
     "host_name": "University of Arizona",
     "latitude": 32.231901,
     "start_date": "2019-10-26"
@@ -645,7 +660,7 @@
     "start_date": "2019-09-25"
   },
   {
-    "instructors": "David Perez-Suarez,Mian Ahmad,Anastasis Georgoulas,Ben Waugh",
+    "instructors": "David Perez-Suarez,Mian Asbat Ahmad,Anastasis Georgoulas,Ben Waugh",
     "end_date": "2019-09-26",
     "url": "http://rits.github-pages.ucl.ac.uk/2019-09-25-UCL_software_carpentry/",
     "country": "GB",
@@ -1449,7 +1464,7 @@
     "longitude": -0.132574,
     "slug": "2019-07-15-UCL_software_carpentry",
     "tag_name": "SWC",
-    "helpers": "Kenan Direk,Tom Couch,Jeremy Stein,Mian Ahmad,Matthew Gillman",
+    "helpers": "Kenan Direk,Tom Couch,Jeremy Stein,Mian Asbat Ahmad,Matthew Gillman",
     "host_name": "University College London",
     "latitude": 51.525256,
     "start_date": "2019-07-15"
@@ -4332,6 +4347,21 @@
     "helpers": "Peter Smyth,Aleksandra Nenadic,Daniel Nisbet",
     "host_name": "University of Manchester",
     "latitude": 53.4640904,
+    "start_date": "2018-11-19"
+  },
+  {
+    "instructors": "André Palóczy,Stephanie Labou,Reid Otsuji",
+    "end_date": "2018-11-20",
+    "url": "https://ucsdlib.github.io/2019-11-19-UCSD/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "UC San Diego Library",
+    "longitude": -117.237224,
+    "slug": "2019-11-19-UCSD",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California San Diego",
+    "latitude": 32.875527,
     "start_date": "2018-11-19"
   },
   {
@@ -11445,6 +11475,21 @@
     "start_date": "2017-01-12"
   },
   {
+    "instructors": "Leighton Pritchard,David Martin,Chris Cole",
+    "end_date": "2017-01-10",
+    "url": "https://widdowquinn.github.io/2017-01-09-dundee/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "University of Dundee",
+    "longitude": -2.981928,
+    "slug": "2017-01-09-dundee",
+    "tag_name": "SWC",
+    "helpers": "Bettina Meier,Roger Leigh,Fabio Madeira,Lourdes Jimenez",
+    "host_name": "University of Dundee",
+    "latitude": 56.459409,
+    "start_date": "2017-01-09"
+  },
+  {
     "instructors": "Philip Fowler,Iain Emsley",
     "end_date": "2017-01-10",
     "url": "https://rroxford.github.io/2017-01-09-oxford/",
@@ -12148,6 +12193,21 @@
     "host_name": "Pycon South Africa",
     "latitude": -33.93395,
     "start_date": "2016-10-05"
+  },
+  {
+    "instructors": "Linh Ngo,Ashwin Srinath,Marcin Ziolkowski,Jeffrey Denton",
+    "end_date": "2016-10-05",
+    "url": "https://clemsonciti.github.io/2016-10-04-clemson/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Clemson University",
+    "longitude": -82.835256,
+    "slug": "2016-10-04-clemson",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Clemson University",
+    "latitude": 34.674915,
+    "start_date": "2016-10-04"
   },
   {
     "instructors": "Fotis Psomopoulos,Kyriakos Chatzidimitriou,Athanassios Kintsakis",
@@ -13002,21 +13062,6 @@
     "helpers": "Grace Cox,Andrew Walker,Jon Mound,Josh Crinall,Jamie Roberts",
     "host_name": "University of Leeds",
     "latitude": 53.805495,
-    "start_date": "2016-06-27"
-  },
-  {
-    "instructors": "Linh Ngo,Ashwin Srinath,Marcin Ziolkowski,Jeffrey Denton",
-    "end_date": "2016-06-28",
-    "url": "https://clemsonciti.github.io/2016-10-04-clemson/",
-    "country": "US",
-    "curriculum": null,
-    "venue": "Clemson University",
-    "longitude": -82.835256,
-    "slug": "2016-10-04-clemson",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Clemson University",
-    "latitude": 34.674915,
     "start_date": "2016-06-27"
   },
   {
@@ -13977,7 +14022,7 @@
     "helpers": null,
     "host_name": "University of Melbourne",
     "latitude": -37.803975,
-    "start_date": "2016-03-29"
+    "start_date": "2016-03-30"
   },
   {
     "instructors": "John Gosset,Alejandro Mantero",
@@ -14010,6 +14055,21 @@
     "start_date": "2016-03-28"
   },
   {
+    "instructors": "Matthew Collins,Henry Senyondo,Brian Stucky,Allison Jai O'Dell,François Michonneau",
+    "end_date": "2016-03-25",
+    "url": "http://weecology.github.io/2016-03-24-UFII-SWC/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "University of Florida Informatics Institute",
+    "longitude": -82.34431,
+    "slug": "2016-03-24-UFII-SWC",
+    "tag_name": "SWC",
+    "helpers": "Elise Morrison",
+    "host_name": "University of Florida",
+    "latitude": 29.648179,
+    "start_date": "2016-03-24"
+  },
+  {
     "instructors": "Emmanouil Farsarakis,Robert Beagrie",
     "end_date": "2016-03-24",
     "url": "http://hpcarcher.github.io/2016-03-23-Imperial/",
@@ -14022,21 +14082,6 @@
     "helpers": "Alexandra Simperler,Katerina Michalickova",
     "host_name": "Imperial College London",
     "latitude": 51.4988,
-    "start_date": "2016-03-23"
-  },
-  {
-    "instructors": "Matthew Collins,Henry Senyondo,Brian Stucky,Allison Jai O'Dell,François Michonneau",
-    "end_date": "2016-03-24",
-    "url": "http://weecology.github.io/2016-03-24-UFII-SWC/",
-    "country": "US",
-    "curriculum": null,
-    "venue": "University of Florida Informatics Institute",
-    "longitude": -82.34431,
-    "slug": "2016-03-24-UFII-SWC",
-    "tag_name": "SWC",
-    "helpers": "Elise Morrison",
-    "host_name": "University of Florida",
-    "latitude": 29.648179,
     "start_date": "2016-03-23"
   },
   {
@@ -14757,21 +14802,6 @@
     "helpers": "Brendan Smithyman,Mohamed Elsakhawy,Baolai Ge,Jose Luis",
     "host_name": "Western University",
     "latitude": 43.00979,
-    "start_date": "2016-01-09"
-  },
-  {
-    "instructors": "Leighton Pritchard,David Martin,Chris Cole",
-    "end_date": "2016-01-10",
-    "url": "https://widdowquinn.github.io/2017-01-09-dundee/",
-    "country": "GB",
-    "curriculum": null,
-    "venue": "University of Dundee",
-    "longitude": -2.981928,
-    "slug": "2017-01-09-dundee",
-    "tag_name": "SWC",
-    "helpers": "Bettina Meier,Roger Leigh,Fabio Madeira,Lourdes Jimenez",
-    "host_name": "University of Dundee",
-    "latitude": 56.459409,
     "start_date": "2016-01-09"
   },
   {
@@ -16125,6 +16155,21 @@
     "start_date": "2015-09-03"
   },
   {
+    "instructors": "Filipe Fernandes",
+    "end_date": "2015-09-01",
+    "url": "https://ocefpaf.github.io/2015-08-31-UFBA/",
+    "country": "BR",
+    "curriculum": null,
+    "venue": "Universidade Federal da Bahia, Salvador",
+    "longitude": -38.508954,
+    "slug": "2015-08-31-UFBA",
+    "tag_name": "SWC",
+    "helpers": "Juliana Leonel",
+    "host_name": "Universidade Federal da Bahia, Salvador",
+    "latitude": -13.001854,
+    "start_date": "2015-08-31"
+  },
+  {
     "instructors": "Cam Macdonell",
     "end_date": "2015-08-28",
     "url": "https://cmacdonell.github.io/2015-08-27-ualberta/",
@@ -16227,21 +16272,6 @@
     "helpers": "Matt Plummer,Roman Klapaukh,Al Abenoja,Walter Langelaar,Birgit Bachler",
     "host_name": "Victoria University of Wellington",
     "latitude": -41.290528,
-    "start_date": "2015-08-24"
-  },
-  {
-    "instructors": "Filipe Fernandes",
-    "end_date": "2015-08-26",
-    "url": "https://ocefpaf.github.io/2015-08-31-UFBA/",
-    "country": "BR",
-    "curriculum": null,
-    "venue": "Universidade Federal da Bahia, Salvador",
-    "longitude": -38.508954,
-    "slug": "2015-08-31-UFBA",
-    "tag_name": "SWC",
-    "helpers": "Juliana Leonel",
-    "host_name": "Universidade Federal da Bahia, Salvador",
-    "latitude": -13.001854,
     "start_date": "2015-08-24"
   },
   {
@@ -20685,21 +20715,6 @@
     "start_date": "2013-07-27"
   },
   {
-    "instructors": "Ben Morris,David Tarboton,Ethan White",
-    "end_date": "2013-07-26",
-    "url": "https://swcarpentry.github.io/2013-07-16-cuahsi/",
-    "country": "US",
-    "curriculum": null,
-    "venue": "CUAHSI Water Data Center",
-    "longitude": -111.81416,
-    "slug": "2013-07-16-cuahsi",
-    "tag_name": "SWC",
-    "helpers": "Ayman AlAfifi",
-    "host_name": "Utah State University",
-    "latitude": 41.7408,
-    "start_date": "2013-07-25"
-  },
-  {
     "instructors": "Randy Olson,Will Trimble",
     "end_date": "2013-07-19",
     "url": "https://swcarpentry.github.io/2013-07-18-notredame/",
@@ -20728,6 +20743,21 @@
     "host_name": "University of Washington",
     "latitude": 47.655,
     "start_date": "2013-07-18"
+  },
+  {
+    "instructors": "Ben Morris,David Tarboton,Ethan White",
+    "end_date": "2013-07-17",
+    "url": "https://swcarpentry.github.io/2013-07-16-cuahsi/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "CUAHSI Water Data Center",
+    "longitude": -111.81416,
+    "slug": "2013-07-16-cuahsi",
+    "tag_name": "SWC",
+    "helpers": "Ayman AlAfifi",
+    "host_name": "Utah State University",
+    "latitude": 41.7408,
+    "start_date": "2013-07-16"
   },
   {
     "instructors": "Mike Jackson,Christopher Woods",
@@ -20851,7 +20881,7 @@
   },
   {
     "instructors": "Dhavide Aruliah,Jessica Kerr,Bill Punch",
-    "end_date": "2013-06-10",
+    "end_date": "2013-06-11",
     "url": "https://swcarpentry.github.io/2013-06-10-salk/",
     "country": "US",
     "curriculum": null,
@@ -20862,7 +20892,7 @@
     "helpers": "Karmel Allison,Preston Holmes,Gabriel Pratt",
     "host_name": "Salk Institute",
     "latitude": 32.887151,
-    "start_date": "2013-06-09"
+    "start_date": "2013-06-10"
   },
   {
     "instructors": "Dethe Elza,Julia Gustavsen,Ted Hart,Bernhard Konrad,Lynne Williams",
@@ -21208,6 +21238,21 @@
     "host_name": "University of California Berkeley",
     "latitude": 37.8695,
     "start_date": "2013-04-13"
+  },
+  {
+    "instructors": "Mike Jackson",
+    "end_date": "2013-04-11",
+    "url": "https://swcarpentry.github.io/2013-04-11-egi/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "EGI Forum, Manchester",
+    "longitude": -2.233958,
+    "slug": "2013-04-11-egi",
+    "tag_name": "SWC",
+    "helpers": "Neil Chue Hong,Stephen Crouch,Bjoern Hagemeier,Tim Parkinson,Aleksandra Pawlik,Shoaib Sufi",
+    "host_name": "European Grid Infrastructure",
+    "latitude": 53.467102,
+    "start_date": "2013-04-11"
   },
   {
     "instructors": "Aron Ahmadia,Stéfan van der Walt",

@@ -169,9 +169,6 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1044'}
   - {number: 1010, title: Unix Shell setup suggestion - Video link and instructions
       on set up could be helpful, updated: '2019-10-23', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
-  - {number: 1033, title: Making sure you are on a Bash shell, updated: '2019-10-31',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/1033'}
-  - {number: 978, title: MacOS will now default to ZSH, updated: '2019-10-31', url: 'https://github.com/swcarpentry/shell-novice/issues/978'}
   - {number: 1053, title: Various scenarios of using unix shell should be demonstrated
       in the first section, updated: '2019-11-05', url: 'https://github.com/swcarpentry/shell-novice/issues/1053'}
   - {number: 1036, title: Post-Teaching Demo feedback, updated: '2019-11-08', url: 'https://github.com/swcarpentry/shell-novice/issues/1036'}
@@ -560,8 +557,6 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/725'}
   - {number: 730, title: '08-defensive.md: "Testing Assertions" exercise inconsistency',
     updated: '2019-10-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/730'}
-  - {number: 716, title: 'Remove paragraph about %matplotlib inline magic ', updated: '2019-11-03',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/716'}
   - {number: 735, title: Clarification needed for python environment usage, updated: '2019-11-06',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/735'}
   pulls:
@@ -616,18 +611,14 @@ records:
   - {number: 695, title: 'Update 01-numpy.md: clarifying text for axis=0,1 when averaging',
     updated: '2019-08-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/695'}
   - {number: 693, title: Update 08-defensive.md, updated: '2019-08-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/693'}
-  - {number: 715, title: Update 03-lists.md, updated: '2019-09-23', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/715'}
   - {number: 718, title: specify line color to blue, updated: '2019-10-01', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/718'}
   - {number: 726, title: Update 02-loop.md, updated: '2019-10-15', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/726'}
-  - {number: 721, title: 'README.md: add notes about SWC and The Carpentries', updated: '2019-10-24',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/721'}
   - {number: 728, title: Added exercise on using isinstance(), updated: '2019-10-26',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/728'}
-  - {number: 733, title: '01-numpy.md: Remove paragraph about ''%matplotlib inline''
-      magic', updated: '2019-11-03', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/733'}
   - {number: 729, title: Update some docstring sections to use numpy standard., updated: '2019-11-04',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/729'}
-  - {number: 734, title: Loop variable names, updated: '2019-11-05', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/734'}
+  - {number: 734, title: Loop variable names, updated: '2019-11-08', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/734'}
+  - {number: 715, title: Update 03-lists.md, updated: '2019-11-08', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/715'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -806,6 +797,8 @@ records:
       analyses, updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/572'}
   - {number: 570, title: Use pivot_longer() and pivot_wider() instead of gather()
       and spread(), updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/570'}
+  - {number: 582, title: Creating Publication-Quality Graphics with ggplot2 - Challenge
+      5, updated: '2019-11-08', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/582'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -853,6 +846,8 @@ records:
     url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/202'}
   - {number: 221, title: Add else statements to True and False Execise, updated: '2019-06-26',
     url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/221'}
+  - {number: 225, title: 'Ep5: Use a properly named script in place of temp.m', updated: '2019-11-08',
+    url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/225'}
   pulls: []
   url: https://github.com/swcarpentry/matlab-novice-inflammation
 - description: Make
@@ -981,6 +976,8 @@ records:
   - {number: 1560, title: 'Workshop Request Form: Adding Host Tasks for SWC Submissions',
     updated: '2019-11-07', url: 'https://github.com/carpentries/amy/issues/1560'}
   - {number: 1559, title: Bug with editing Person, updated: '2019-11-07', url: 'https://github.com/carpentries/amy/issues/1559'}
+  - {number: 1574, title: Move "Circuits" Tag up on the list, updated: '2019-11-08',
+    url: 'https://github.com/carpentries/amy/issues/1574'}
   - {number: 1571, title: Connecting Membership Organisation and Workshops, updated: '2019-11-08',
     url: 'https://github.com/carpentries/amy/issues/1571'}
   pulls:
@@ -998,4 +995,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-11-08T14:42:14Z'
+timestamp: '2019-11-09T14:43:14Z'
