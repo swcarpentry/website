@@ -596,8 +596,6 @@ records:
   - {number: 657, title: '01-numpy.md: Loading data: update introductory text', updated: '2019-07-22',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/657'}
   - {number: 659, title: Add list type under variables, updated: '2019-07-31', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/659'}
-  - {number: 691, title: Remove the word "simple" from 06-func.md, updated: '2019-08-14',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/691'}
   - {number: 702, title: 'Update 07-errors.md: exercise time', updated: '2019-08-26',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/702'}
   - {number: 700, title: 'Update 02-loop.md: exercise time', updated: '2019-08-26',
@@ -619,6 +617,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/729'}
   - {number: 734, title: Loop variable names, updated: '2019-11-08', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/734'}
   - {number: 715, title: Update 03-lists.md, updated: '2019-11-08', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/715'}
+  - {number: 691, title: Remove the word "simple" from 06-func.md, updated: '2019-11-10',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/691'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -956,7 +956,6 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1567'}
   - {number: 1573, title: Workshop request details page - additional contacts aren't
       displayed in an user-friendly manner, updated: '2019-11-07', url: 'https://github.com/carpentries/amy/issues/1573'}
-  - {number: 1572, title: Amy Event URL Validation, updated: '2019-11-07', url: 'https://github.com/carpentries/amy/issues/1572'}
   - {number: 1570, title: Workshop Request Form - Membership Affiliation, updated: '2019-11-07',
     url: 'https://github.com/carpentries/amy/issues/1570'}
   - {number: 1568, title: Update Contact Field in AMY Events, updated: '2019-11-07',
@@ -980,6 +979,7 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1574'}
   - {number: 1571, title: Connecting Membership Organisation and Workshops, updated: '2019-11-08',
     url: 'https://github.com/carpentries/amy/issues/1571'}
+  - {number: 1572, title: Amy Event URL Validation, updated: '2019-11-10', url: 'https://github.com/carpentries/amy/issues/1572'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -995,4 +995,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-11-09T14:43:14Z'
+timestamp: '2019-11-10T14:43:25Z'
