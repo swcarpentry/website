@@ -171,7 +171,14 @@ records:
       on set up could be helpful, updated: '2019-10-23', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
   - {number: 1053, title: Various scenarios of using unix shell should be demonstrated
       in the first section, updated: '2019-11-05', url: 'https://github.com/swcarpentry/shell-novice/issues/1053'}
-  - {number: 1036, title: Post-Teaching Demo feedback, updated: '2019-11-08', url: 'https://github.com/swcarpentry/shell-novice/issues/1036'}
+  - {number: 1057, title: 'Ep7: Clarification to "Matching and Subtracting" exercise',
+    updated: '2019-11-11', url: 'https://github.com/swcarpentry/shell-novice/issues/1057'}
+  - {number: 1056, title: Llayout of text in Output boxes, updated: '2019-11-11',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/1056'}
+  - {number: 1055, title: separation of Input and Output boxes breaks down (ep2),
+    updated: '2019-11-11', url: 'https://github.com/swcarpentry/shell-novice/issues/1055'}
+  - {number: 1054, title: 'Ep1: reword "Introducing the Shell: Background"', updated: '2019-11-11',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/1054'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -613,12 +620,35 @@ records:
   - {number: 726, title: Update 02-loop.md, updated: '2019-10-15', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/726'}
   - {number: 728, title: Added exercise on using isinstance(), updated: '2019-10-26',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/728'}
-  - {number: 729, title: Update some docstring sections to use numpy standard., updated: '2019-11-04',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/729'}
   - {number: 734, title: Loop variable names, updated: '2019-11-08', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/734'}
   - {number: 715, title: Update 03-lists.md, updated: '2019-11-08', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/715'}
+  - {number: 754, title: Update loop variable names in code file, updated: '2019-11-10',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/754'}
+  - {number: 753, title: Update loop variable names in code file, updated: '2019-11-10',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/753'}
+  - {number: 752, title: Update loop variable names in code file, updated: '2019-11-10',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/752'}
+  - {number: 751, title: Update loop variable names, updated: '2019-11-10', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/751'}
+  - {number: 750, title: Update loop variable names in code file, updated: '2019-11-10',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/750'}
+  - {number: 749, title: Update loop variable names in code file, updated: '2019-11-10',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/749'}
+  - {number: 748, title: Update loop variable names in code file, updated: '2019-11-10',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/748'}
+  - {number: 747, title: Update loop variable names for code file, updated: '2019-11-10',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/747'}
+  - {number: 746, title: Update loop variable names in code file, updated: '2019-11-10',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/746'}
+  - {number: 745, title: Update loop variable names in code files, updated: '2019-11-10',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/745'}
+  - {number: 744, title: Update loop variable names in code files, updated: '2019-11-10',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/744'}
+  - {number: 743, title: Loop var names ep10, updated: '2019-11-10', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/743'}
+  - {number: 737, title: Split the first episode, updated: '2019-11-10', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/737'}
   - {number: 691, title: Remove the word "simple" from 06-func.md, updated: '2019-11-10',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/691'}
+  - {number: 729, title: Update some docstring sections to use numpy standard., updated: '2019-11-11',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/729'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -995,4 +1025,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-11-10T14:43:25Z'
+timestamp: '2019-11-11T14:43:20Z'
