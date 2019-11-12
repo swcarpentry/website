@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Maristella Feustle,Kristy Phillips,Lauren Ko,Mark Phillips",
+    "end_date": "2019-11-12",
+    "url": "https://unt-carpentries.github.io/2019-11-11-unt-swc/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "University of North Texas",
+    "longitude": -97.148954,
+    "slug": "2019-11-11-unt-swc",
+    "tag_name": "SWC",
+    "helpers": "Sarah Fisher,Madhulika Bayyavarapu",
+    "host_name": "University of North Texas",
+    "latitude": 33.210068,
+    "start_date": "2019-11-11"
+  },
+  {
     "instructors": "Chaochih Liu,Cody Hennesy,Nicholas Dunn",
     "end_date": "2019-11-08",
     "url": "https://chaochihl.github.io/2019-11-07-umntc/",
@@ -24,7 +39,7 @@
     "longitude": -73.864729,
     "slug": "2019-11-05-nature_conservancy",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Michael Treglia,Adam Starke",
     "host_name": "The Nature Conservancy in New York",
     "latitude": 42.718642,
     "start_date": "2019-11-06"
@@ -399,7 +414,7 @@
     "longitude": -73.11632,
     "slug": "2019-10-13-stonybrook",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Alan Calder",
     "host_name": "Stony Brook University",
     "latitude": 40.9138,
     "start_date": "2019-10-13"

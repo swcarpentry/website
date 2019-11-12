@@ -15,18 +15,18 @@
     "start_date": "2019-11-01"
   },
   {
-    "instructors": "Maristella Feustle,Kristy Phillips,Lauren Ko,Mark Phillips",
-    "end_date": "2019-11-12",
-    "url": "https://unt-carpentries.github.io/2019-11-11-unt-swc/",
-    "country": "US",
-    "curriculum": "swc-reproducible-science",
-    "venue": "University of North Texas",
-    "longitude": -97.148954,
-    "slug": "2019-11-11-unt-swc",
+    "instructors": "David Pugh",
+    "end_date": "2019-11-15",
+    "url": "https://davidrpugh.github.io/2019-11-11-aperc",
+    "country": "JP",
+    "curriculum": "swc-python",
+    "venue": "Asia-Pacific Energy Research Centre (APERC)",
+    "longitude": 139.775282,
+    "slug": "2019-11-11-aperc",
     "tag_name": "SWC",
-    "helpers": "Sarah Fisher,Madhulika Bayyavarapu",
-    "host_name": "University of North Texas",
-    "latitude": 33.210068,
+    "helpers": "David Wogan",
+    "host_name": "Asia-Pacfic Energy Research Centre (APERC)",
+    "latitude": 35.660753,
     "start_date": "2019-11-11"
   },
   {
@@ -69,7 +69,7 @@
     "longitude": -88.224894,
     "slug": "2019-11-14-nanomfg",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Dean Karres",
     "host_name": "University of Illinois",
     "latitude": 40.115,
     "start_date": "2019-11-14"
@@ -141,12 +141,12 @@
     "country": "DE",
     "curriculum": "swc-python",
     "venue": "Universität Stuttgart",
-    "longitude": 9.182932,
+    "longitude": 9.107231,
     "slug": "2019-11-21-stuttgart",
     "tag_name": "SWC",
     "helpers": null,
     "host_name": "University of Stuttgart",
-    "latitude": 48.775845,
+    "latitude": 48.746643,
     "start_date": "2019-11-21"
   },
   {

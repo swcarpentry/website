@@ -171,8 +171,6 @@ records:
       on set up could be helpful, updated: '2019-10-23', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
   - {number: 1053, title: Various scenarios of using unix shell should be demonstrated
       in the first section, updated: '2019-11-05', url: 'https://github.com/swcarpentry/shell-novice/issues/1053'}
-  - {number: 1057, title: 'Ep7: Clarification to "Matching and Subtracting" exercise',
-    updated: '2019-11-11', url: 'https://github.com/swcarpentry/shell-novice/issues/1057'}
   - {number: 1056, title: Llayout of text in Output boxes, updated: '2019-11-11',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1056'}
   - {number: 1055, title: separation of Input and Output boxes breaks down (ep2),
@@ -305,6 +303,8 @@ records:
     updated: '2019-10-03', url: 'https://github.com/swcarpentry/git-novice/pull/683'}
   - {number: 697, title: '07-github.com: introduce branches, improve wording', updated: '2019-10-15',
     url: 'https://github.com/swcarpentry/git-novice/pull/697'}
+  - {number: 698, title: Exemplify more Carpentries-relevant code style tools, updated: '2019-11-11',
+    url: 'https://github.com/swcarpentry/git-novice/pull/698'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -620,35 +620,29 @@ records:
   - {number: 726, title: Update 02-loop.md, updated: '2019-10-15', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/726'}
   - {number: 728, title: Added exercise on using isinstance(), updated: '2019-10-26',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/728'}
-  - {number: 734, title: Loop variable names, updated: '2019-11-08', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/734'}
   - {number: 715, title: Update 03-lists.md, updated: '2019-11-08', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/715'}
-  - {number: 754, title: Update loop variable names in code file, updated: '2019-11-10',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/754'}
-  - {number: 753, title: Update loop variable names in code file, updated: '2019-11-10',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/753'}
-  - {number: 752, title: Update loop variable names in code file, updated: '2019-11-10',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/752'}
-  - {number: 751, title: Update loop variable names, updated: '2019-11-10', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/751'}
-  - {number: 750, title: Update loop variable names in code file, updated: '2019-11-10',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/750'}
-  - {number: 749, title: Update loop variable names in code file, updated: '2019-11-10',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/749'}
-  - {number: 748, title: Update loop variable names in code file, updated: '2019-11-10',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/748'}
-  - {number: 747, title: Update loop variable names for code file, updated: '2019-11-10',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/747'}
-  - {number: 746, title: Update loop variable names in code file, updated: '2019-11-10',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/746'}
-  - {number: 745, title: Update loop variable names in code files, updated: '2019-11-10',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/745'}
-  - {number: 744, title: Update loop variable names in code files, updated: '2019-11-10',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/744'}
-  - {number: 743, title: Loop var names ep10, updated: '2019-11-10', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/743'}
-  - {number: 737, title: Split the first episode, updated: '2019-11-10', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/737'}
-  - {number: 691, title: Remove the word "simple" from 06-func.md, updated: '2019-11-10',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/691'}
   - {number: 729, title: Update some docstring sections to use numpy standard., updated: '2019-11-11',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/729'}
+  - {number: 691, title: Remove the word "simple" from 06-func.md, updated: '2019-11-11',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/691'}
+  - {number: 752, title: Update loop variable names in code file, updated: '2019-11-12',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/752'}
+  - {number: 751, title: Update loop variable names, updated: '2019-11-12', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/751'}
+  - {number: 750, title: Update loop variable names in code file, updated: '2019-11-12',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/750'}
+  - {number: 749, title: Update loop variable names in code file, updated: '2019-11-12',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/749'}
+  - {number: 748, title: Update loop variable names in code file, updated: '2019-11-12',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/748'}
+  - {number: 747, title: Update loop variable names for code file, updated: '2019-11-12',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/747'}
+  - {number: 746, title: Update loop variable names in code file, updated: '2019-11-12',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/746'}
+  - {number: 745, title: Update loop variable names in code files, updated: '2019-11-12',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/745'}
+  - {number: 744, title: Update loop variable names in code files, updated: '2019-11-12',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/744'}
+  - {number: 737, title: Split the first episode, updated: '2019-11-12', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/737'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -697,10 +691,10 @@ records:
   - {number: 452, title: Setting directories with tab auto-complete, updated: '2019-10-22',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/452'}
   - {number: 455, title: Command Line Programs, updated: '2019-10-29', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/455'}
-  - {number: 456, title: 'Episode 4 and 5: Function Error', updated: '2019-10-30',
-    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/456'}
   - {number: 343, title: 'Packaging: refer to other resources', updated: '2019-11-06',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/343'}
+  - {number: 456, title: 'Episode 4 and 5: Function Error', updated: '2019-11-12',
+    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/456'}
   pulls:
   - {number: 437, title: 'Update styles to gh-pages:6d015fe', updated: '2019-08-20',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/437'}
@@ -710,6 +704,10 @@ records:
     updated: '2019-10-29', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/421'}
   - {number: 458, title: Updated lesson 2 exercise to include all solutions, updated: '2019-11-05',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/458'}
+  - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
+    url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/460'}
+  - {number: 459, title: adding a link to rOpenSci guidelines to episode 8, updated: '2019-11-12',
+    url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/459'}
   url: https://github.com/swcarpentry/r-novice-inflammation
 - description: R (Gapminder Data - Español)
   ident: swcarpentry/r-novice-gapminder
@@ -825,10 +823,10 @@ records:
   - {number: 575, title: 'Missing solution?', updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/575'}
   - {number: 572, title: File missing in lesson 4 of R for reproducible scientific
       analyses, updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/572'}
-  - {number: 570, title: Use pivot_longer() and pivot_wider() instead of gather()
-      and spread(), updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/570'}
   - {number: 582, title: Creating Publication-Quality Graphics with ggplot2 - Challenge
       5, updated: '2019-11-08', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/582'}
+  - {number: 570, title: Use pivot_longer() and pivot_wider() instead of gather()
+      and spread(), updated: '2019-11-12', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/570'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -843,6 +841,8 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/566'}
   - {number: 573, title: Added tip on adjusting RStudio's layout and syntax highligting,
     updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/573'}
+  - {number: 583, title: Update tidyr's gather() & spread() to pivot_longer() & pivot_wider()
+      functions, updated: '2019-11-12', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/583'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1009,7 +1009,7 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1574'}
   - {number: 1571, title: Connecting Membership Organisation and Workshops, updated: '2019-11-08',
     url: 'https://github.com/carpentries/amy/issues/1571'}
-  - {number: 1572, title: Amy Event URL Validation, updated: '2019-11-10', url: 'https://github.com/carpentries/amy/issues/1572'}
+  - {number: 1572, title: Amy Event URL Validation, updated: '2019-11-12', url: 'https://github.com/carpentries/amy/issues/1572'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1025,4 +1025,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-11-11T14:43:20Z'
+timestamp: '2019-11-12T14:44:36Z'
