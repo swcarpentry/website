@@ -258,10 +258,10 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/692'}
   - {number: 693, title: Images on the all-in-one page are broken, updated: '2019-09-28',
     url: 'https://github.com/swcarpentry/git-novice/issues/693'}
-  - {number: 691, title: 'Consider replacing "checkout" with "switch" and "restore",
-      if widely available in the future', updated: '2019-10-14', url: 'https://github.com/swcarpentry/git-novice/issues/691'}
   - {number: 695, title: 'Incomplete output from `cat` in Episode 4, "Committing Multiple
       Files"', updated: '2019-10-24', url: 'https://github.com/swcarpentry/git-novice/issues/695'}
+  - {number: 691, title: 'Consider replacing "checkout" with "switch" and "restore",
+      if widely available in the future', updated: '2019-11-13', url: 'https://github.com/swcarpentry/git-novice/issues/691'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -621,28 +621,11 @@ records:
   - {number: 728, title: Added exercise on using isinstance(), updated: '2019-10-26',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/728'}
   - {number: 715, title: Update 03-lists.md, updated: '2019-11-08', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/715'}
-  - {number: 729, title: Update some docstring sections to use numpy standard., updated: '2019-11-11',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/729'}
   - {number: 691, title: Remove the word "simple" from 06-func.md, updated: '2019-11-11',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/691'}
-  - {number: 752, title: Update loop variable names in code file, updated: '2019-11-12',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/752'}
-  - {number: 751, title: Update loop variable names, updated: '2019-11-12', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/751'}
-  - {number: 750, title: Update loop variable names in code file, updated: '2019-11-12',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/750'}
-  - {number: 749, title: Update loop variable names in code file, updated: '2019-11-12',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/749'}
-  - {number: 748, title: Update loop variable names in code file, updated: '2019-11-12',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/748'}
-  - {number: 747, title: Update loop variable names for code file, updated: '2019-11-12',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/747'}
-  - {number: 746, title: Update loop variable names in code file, updated: '2019-11-12',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/746'}
-  - {number: 745, title: Update loop variable names in code files, updated: '2019-11-12',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/745'}
-  - {number: 744, title: Update loop variable names in code files, updated: '2019-11-12',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/744'}
   - {number: 737, title: Split the first episode, updated: '2019-11-12', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/737'}
+  - {number: 729, title: Update some docstring sections to use numpy standard., updated: '2019-11-12',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/729'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -843,6 +826,8 @@ records:
     updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/573'}
   - {number: 583, title: Update tidyr's gather() & spread() to pivot_longer() & pivot_wider()
       functions, updated: '2019-11-12', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/583'}
+  - {number: 584, title: '- issue #580: don''t repeat the challenge text', updated: '2019-11-13',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/584'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -906,6 +891,7 @@ records:
   - {number: 18, title: Add testing for raised exception, updated: '2018-02-09', url: 'https://github.com/katyhuff/python-testing/issues/18'}
   pulls:
   - {number: 11, title: introduce unittest, updated: '2017-05-04', url: 'https://github.com/katyhuff/python-testing/pull/11'}
+  - {number: 30, title: Contributions back from cs491tc, updated: '2019-11-12', url: 'https://github.com/katyhuff/python-testing/pull/30'}
   url: https://github.com/katyhuff/python-testing
 - description: Data Management in the Ocean, Weather and Climate Sciences
   ident: DamienIrving/capstone-oceanography
@@ -1025,4 +1011,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-11-12T14:44:36Z'
+timestamp: '2019-11-13T14:44:45Z'
