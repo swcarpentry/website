@@ -260,6 +260,8 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/693'}
   - {number: 695, title: 'Incomplete output from `cat` in Episode 4, "Committing Multiple
       Files"', updated: '2019-10-24', url: 'https://github.com/swcarpentry/git-novice/issues/695'}
+  - {number: 701, title: Suggestions on git large file system and submodule, updated: '2019-11-13',
+    url: 'https://github.com/swcarpentry/git-novice/issues/701'}
   - {number: 691, title: 'Consider replacing "checkout" with "switch" and "restore",
       if widely available in the future', updated: '2019-11-13', url: 'https://github.com/swcarpentry/git-novice/issues/691'}
   pulls:
@@ -621,11 +623,7 @@ records:
   - {number: 728, title: Added exercise on using isinstance(), updated: '2019-10-26',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/728'}
   - {number: 715, title: Update 03-lists.md, updated: '2019-11-08', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/715'}
-  - {number: 691, title: Remove the word "simple" from 06-func.md, updated: '2019-11-11',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/691'}
-  - {number: 737, title: Split the first episode, updated: '2019-11-12', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/737'}
-  - {number: 729, title: Update some docstring sections to use numpy standard., updated: '2019-11-12',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/729'}
+  - {number: 737, title: Split the first episode, updated: '2019-11-14', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/737'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -807,9 +805,7 @@ records:
   - {number: 572, title: File missing in lesson 4 of R for reproducible scientific
       analyses, updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/572'}
   - {number: 582, title: Creating Publication-Quality Graphics with ggplot2 - Challenge
-      5, updated: '2019-11-08', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/582'}
-  - {number: 570, title: Use pivot_longer() and pivot_wider() instead of gather()
-      and spread(), updated: '2019-11-12', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/570'}
+      5, updated: '2019-11-13', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/582'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -824,9 +820,9 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/566'}
   - {number: 573, title: Added tip on adjusting RStudio's layout and syntax highligting,
     updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/573'}
-  - {number: 583, title: Update tidyr's gather() & spread() to pivot_longer() & pivot_wider()
-      functions, updated: '2019-11-12', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/583'}
-  - {number: 584, title: '- issue #580: don''t repeat the challenge text', updated: '2019-11-13',
+  - {number: 585, title: 'Issue #578: remove duplicate sentence', updated: '2019-11-14',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/585'}
+  - {number: 584, title: '- issue #580: don''t repeat the challenge text', updated: '2019-11-14',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/584'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
@@ -976,8 +972,6 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1570'}
   - {number: 1568, title: Update Contact Field in AMY Events, updated: '2019-11-07',
     url: 'https://github.com/carpentries/amy/issues/1568'}
-  - {number: 1566, title: 'Feature Request: Bulk add learners to TTT event', updated: '2019-11-07',
-    url: 'https://github.com/carpentries/amy/issues/1566'}
   - {number: 1565, title: 'Feature request: Bulk add Instructor training progress',
     updated: '2019-11-07', url: 'https://github.com/carpentries/amy/issues/1565'}
   - {number: 1564, title: Feature Request- Add task = add person, updated: '2019-11-07',
@@ -996,6 +990,8 @@ records:
   - {number: 1571, title: Connecting Membership Organisation and Workshops, updated: '2019-11-08',
     url: 'https://github.com/carpentries/amy/issues/1571'}
   - {number: 1572, title: Amy Event URL Validation, updated: '2019-11-12', url: 'https://github.com/carpentries/amy/issues/1572'}
+  - {number: 1566, title: 'Feature Request: Bulk add learners to TTT event', updated: '2019-11-13',
+    url: 'https://github.com/carpentries/amy/issues/1566'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1011,4 +1007,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-11-13T14:44:45Z'
+timestamp: '2019-11-14T14:46:57Z'

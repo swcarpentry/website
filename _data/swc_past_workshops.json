@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Susan Branchett,Nicolas Dintzner",
+    "end_date": "2019-11-14",
+    "url": "https://4turesearchdata-carpentries.github.io/2019-11-13-delft/",
+    "country": "NL",
+    "curriculum": "swc-python",
+    "venue": "November 2019 SWC workshop @TU/Delft",
+    "longitude": 4.37524,
+    "slug": "2019-11-13-delft",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 52.002677,
+    "start_date": "2019-11-13"
+  },
+  {
     "instructors": "Maristella Feustle,Kristy Phillips,Lauren Ko,Mark Phillips",
     "end_date": "2019-11-12",
     "url": "https://unt-carpentries.github.io/2019-11-11-unt-swc/",
