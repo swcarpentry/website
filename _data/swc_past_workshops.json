@@ -1,5 +1,50 @@
 [
   {
+    "instructors": "Maxim Belkin,Neal Davis,Elizabeth Wickes",
+    "end_date": "2019-11-15",
+    "url": "https://swc-uiuc.github.io/2019-11-14-nanomfg/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Illinois",
+    "longitude": -88.224894,
+    "slug": "2019-11-14-nanomfg",
+    "tag_name": "SWC",
+    "helpers": "Dean Karres",
+    "host_name": "University of Illinois",
+    "latitude": 40.115,
+    "start_date": "2019-11-14"
+  },
+  {
+    "instructors": "Hugh Cross,Ludovic Dutoit,Murray Cadzow,Amara Shaukat,Greg Gimenez",
+    "end_date": "2019-11-15",
+    "url": "https://otagocarpentries.github.io/2019-11-14-otago",
+    "country": "NZ",
+    "curriculum": "swc-python",
+    "venue": "University of Otago",
+    "longitude": 170.5137455,
+    "slug": "2019-11-14-otago",
+    "tag_name": "SWC",
+    "helpers": "Matt Bixley",
+    "host_name": "University of Otago",
+    "latitude": -45.8664726,
+    "start_date": "2019-11-14"
+  },
+  {
+    "instructors": "Matthias Bussonnier,Sarvani Chadalapaka",
+    "end_date": "2019-11-15",
+    "url": "https://ucmerced.github.io/2019-11-14-ucmerced/.",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "UC Merced",
+    "longitude": -120.424369,
+    "slug": "2019-11-14-ucmerced",
+    "tag_name": "SWC",
+    "helpers": "Jasper Field",
+    "host_name": "University of California Merced",
+    "latitude": 37.3664,
+    "start_date": "2019-11-14"
+  },
+  {
     "instructors": "Susan Branchett,Nicolas Dintzner",
     "end_date": "2019-11-14",
     "url": "https://4turesearchdata-carpentries.github.io/2019-11-13-delft/",
@@ -13,6 +58,21 @@
     "host_name": "Delft Univeristy of Technology",
     "latitude": 52.002677,
     "start_date": "2019-11-13"
+  },
+  {
+    "instructors": "David Pugh",
+    "end_date": "2019-11-15",
+    "url": "https://davidrpugh.github.io/2019-11-11-aperc",
+    "country": "JP",
+    "curriculum": "swc-python",
+    "venue": "Asia-Pacific Energy Research Centre (APERC)",
+    "longitude": 139.775282,
+    "slug": "2019-11-11-aperc",
+    "tag_name": "SWC",
+    "helpers": "David Wogan",
+    "host_name": "Asia-Pacfic Energy Research Centre (APERC)",
+    "latitude": 35.660753,
+    "start_date": "2019-11-11"
   },
   {
     "instructors": "Maristella Feustle,Kristy Phillips,Lauren Ko,Mark Phillips",

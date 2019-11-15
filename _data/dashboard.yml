@@ -623,7 +623,6 @@ records:
   - {number: 728, title: Added exercise on using isinstance(), updated: '2019-10-26',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/728'}
   - {number: 715, title: Update 03-lists.md, updated: '2019-11-08', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/715'}
-  - {number: 737, title: Split the first episode, updated: '2019-11-14', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/737'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -797,15 +796,15 @@ records:
   - {number: 565, title: Subscript and superscript formatting not rendered correctly,
     updated: '2019-10-02', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/565'}
   - {number: 581, title: Unclear diagrams, updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/581'}
-  - {number: 580, title: Missing solution text, updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/580'}
-  - {number: 578, title: Duplicate sentence, updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/578'}
   - {number: 577, title: Error in grammar, updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/577'}
   - {number: 576, title: Not all solution present, updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/576'}
   - {number: 575, title: 'Missing solution?', updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/575'}
   - {number: 572, title: File missing in lesson 4 of R for reproducible scientific
       analyses, updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/572'}
+  - {number: 586, title: Add explanatory text to challenge answers in ggplot lesson
+      (episode 8), updated: '2019-11-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/586'}
   - {number: 582, title: Creating Publication-Quality Graphics with ggplot2 - Challenge
-      5, updated: '2019-11-13', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/582'}
+      5, updated: '2019-11-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/582'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -820,10 +819,7 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/566'}
   - {number: 573, title: Added tip on adjusting RStudio's layout and syntax highligting,
     updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/573'}
-  - {number: 585, title: 'Issue #578: remove duplicate sentence', updated: '2019-11-14',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/585'}
-  - {number: 584, title: '- issue #580: don''t repeat the challenge text', updated: '2019-11-14',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/584'}
+  - {number: 588, title: challange 5 - boxplot, updated: '2019-11-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/588'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1007,4 +1003,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-11-14T14:46:57Z'
+timestamp: '2019-11-15T14:46:14Z'
