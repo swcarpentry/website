@@ -568,6 +568,7 @@ records:
     updated: '2019-10-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/730'}
   - {number: 735, title: Clarification needed for python environment usage, updated: '2019-11-06',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/735'}
+  - {number: 756, title: 'Ep. 11: Issues with numpy', updated: '2019-11-15', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/756'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -1003,4 +1004,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-11-15T14:46:14Z'
+timestamp: '2019-11-16T14:47:15Z'
