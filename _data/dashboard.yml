@@ -687,7 +687,7 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/458'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/460'}
-  - {number: 459, title: adding a link to rOpenSci guidelines to episode 8, updated: '2019-11-12',
+  - {number: 459, title: adding a link to rOpenSci guidelines to episode 8, updated: '2019-11-17',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/459'}
   url: https://github.com/swcarpentry/r-novice-inflammation
 - description: R (Gapminder Data - Español)
@@ -1004,4 +1004,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-11-16T14:47:15Z'
+timestamp: '2019-11-17T14:48:16Z'
