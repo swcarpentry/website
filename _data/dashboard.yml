@@ -147,13 +147,9 @@ records:
   - {number: 234, title: lesson rearrangement, updated: '2019-08-19', url: 'https://github.com/swcarpentry/shell-novice/issues/234'}
   - {number: 1001, title: '[email feedback] move and copy cheatsheet', updated: '2019-08-20',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1001'}
-  - {number: 1009, title: Standardize use of quotation marks in lesson, updated: '2019-08-21',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/1009'}
   - {number: 810, title: Ep4 `sort -n` has different behaviour on Mac and git bash
       vs linux, updated: '2019-08-26', url: 'https://github.com/swcarpentry/shell-novice/issues/810'}
   - {number: 1021, title: Customising Git Bash, updated: '2019-08-30', url: 'https://github.com/swcarpentry/shell-novice/issues/1021'}
-  - {number: 1029, title: 'Typo in The Unix Shell: Navigating Files and Directories ',
-    updated: '2019-09-03', url: 'https://github.com/swcarpentry/shell-novice/issues/1029'}
   - {number: 1024, title: further developing Windows shell setup instructor guidance,
     updated: '2019-09-10', url: 'https://github.com/swcarpentry/shell-novice/issues/1024'}
   - {number: 1032, title: Move "moving to the current folder" exercise in 03, updated: '2019-09-17',
@@ -169,13 +165,13 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1044'}
   - {number: 1010, title: Unix Shell setup suggestion - Video link and instructions
       on set up could be helpful, updated: '2019-10-23', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
-  - {number: 1053, title: Various scenarios of using unix shell should be demonstrated
-      in the first section, updated: '2019-11-05', url: 'https://github.com/swcarpentry/shell-novice/issues/1053'}
-  - {number: 1054, title: 'Ep1: reword "Introducing the Shell: Background"', updated: '2019-11-11',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/1054'}
+  - {number: 1062, title: Output of `tree` command without introducing it to students.,
+    updated: '2019-11-18', url: 'https://github.com/swcarpentry/shell-novice/issues/1062'}
   - {number: 1056, title: Layout of text in Output boxes, updated: '2019-11-18', url: 'https://github.com/swcarpentry/shell-novice/issues/1056'}
   - {number: 1055, title: Separation of Input and Output boxes breaks down (ep2),
     updated: '2019-11-18', url: 'https://github.com/swcarpentry/shell-novice/issues/1055'}
+  - {number: 1009, title: Standardize use of quotation marks in lesson, updated: '2019-11-18',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/1009'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -262,7 +258,7 @@ records:
   - {number: 701, title: Suggestions on git large file system and submodule, updated: '2019-11-13',
     url: 'https://github.com/swcarpentry/git-novice/issues/701'}
   - {number: 691, title: 'Consider replacing "checkout" with "switch" and "restore",
-      if widely available in the future', updated: '2019-11-13', url: 'https://github.com/swcarpentry/git-novice/issues/691'}
+      if widely available in the future', updated: '2019-11-18', url: 'https://github.com/swcarpentry/git-novice/issues/691'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -620,11 +616,9 @@ records:
   - {number: 693, title: Update 08-defensive.md, updated: '2019-08-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/693'}
   - {number: 718, title: specify line color to blue, updated: '2019-10-01', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/718'}
   - {number: 726, title: Update 02-loop.md, updated: '2019-10-15', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/726'}
-  - {number: 728, title: Added exercise on using isinstance(), updated: '2019-10-26',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/728'}
   - {number: 715, title: Update 03-lists.md, updated: '2019-11-08', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/715'}
-  - {number: 757, title: Fix 'Computing the Value of a Polynomial' exercise, updated: '2019-11-18',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/757'}
+  - {number: 728, title: Added exercise on using isinstance(), updated: '2019-11-18',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/728'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1005,4 +999,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-11-18T14:47:55Z'
+timestamp: '2019-11-18T16:05:42Z'
