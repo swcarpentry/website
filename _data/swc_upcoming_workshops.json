@@ -30,21 +30,6 @@
     "start_date": "2019-11-12"
   },
   {
-    "instructors": "Ann Gledson,Nilani Ganeshwaran,Kamilla Kopec-Harding",
-    "end_date": "2019-11-19",
-    "url": "https://uomresearchit.github.io/2019-11-18-manchester/",
-    "country": "GB",
-    "curriculum": "swc-python",
-    "venue": "University of Manchester",
-    "longitude": -2.230456,
-    "slug": "2019-11-18-manchester",
-    "tag_name": "SWC",
-    "helpers": "Anja Le Blanc",
-    "host_name": "University of Manchester",
-    "latitude": 53.464003,
-    "start_date": "2019-11-18"
-  },
-  {
     "instructors": "Amanda Miotto",
     "end_date": "2019-11-22",
     "url": "https://bio-swc-bne.github.io/2019-11-20-GriffithUni-Python/",
@@ -90,6 +75,21 @@
     "start_date": "2019-11-21"
   },
   {
+    "instructors": "Andrew McDonald,Timothee Poisot",
+    "end_date": "2019-11-24",
+    "url": "https://aammd.github.io/2019-11-23-UdeM/",
+    "country": "CA",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Université de Montréal",
+    "longitude": -73.619067,
+    "slug": "2019-11-23-UdeM",
+    "tag_name": "SWC",
+    "helpers": "Mathilde Besson,Gabriel Dansereau,Francis Banville,Gracielle Higino",
+    "host_name": "Universite de Montreal",
+    "latitude": 45.52273,
+    "start_date": "2019-11-23"
+  },
+  {
     "instructors": "David Nicholson,Stephanie Prince,Sena Agezo",
     "end_date": "2019-11-24",
     "url": "https://data-science-for-scientists-atl.github.io/2019-11-23-emory/",
@@ -103,6 +103,21 @@
     "host_name": "Emory University",
     "latitude": 33.79434,
     "start_date": "2019-11-23"
+  },
+  {
+    "instructors": "Matthias Liffers,Jamiu Ekundayo,Behrouz Khabbaz Beheshti",
+    "end_date": "2019-11-26",
+    "url": "https://annbackhaus.github.io/2019-11-25-pawsey/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Pawsey Supercomputing Centre",
+    "longitude": 115.883684,
+    "slug": "2019-11-25-pawsey",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Pawsey Supercomputing Centre",
+    "latitude": -31.992676,
+    "start_date": "2019-11-25"
   },
   {
     "instructors": "Katrin Leinweber,Tobias Weiß,Marc Hanisch,Maximilian Dolling,Peter Evans,Bezaye Tesfaye,Stefan Lüdtke,Berry Boessenkool,Michael Dietze",

@@ -165,6 +165,8 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1044'}
   - {number: 1010, title: Unix Shell setup suggestion - Video link and instructions
       on set up could be helpful, updated: '2019-10-23', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
+  - {number: 1063, title: Alt text is not descriptive for images in "Navigating Files
+      and Directories", updated: '2019-11-18', url: 'https://github.com/swcarpentry/shell-novice/issues/1063'}
   - {number: 1062, title: Output of `tree` command without introducing it to students.,
     updated: '2019-11-18', url: 'https://github.com/swcarpentry/shell-novice/issues/1062'}
   - {number: 1056, title: Layout of text in Output boxes, updated: '2019-11-18', url: 'https://github.com/swcarpentry/shell-novice/issues/1056'}
@@ -181,6 +183,7 @@ records:
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
   - {number: 992, title: Made changes and added General Syntax episode., updated: '2019-08-04',
     url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
+  - {number: 1064, title: Update 04-pipefilter.md, updated: '2019-11-19', url: 'https://github.com/swcarpentry/shell-novice/pull/1064'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -249,8 +252,6 @@ records:
       in Ignoring Things, Episode 6', updated: '2019-08-20', url: 'https://github.com/swcarpentry/git-novice/issues/687'}
   - {number: 606, title: '"forge" is a word many people don''t know, especially non-native
       english speakers', updated: '2019-09-24', url: 'https://github.com/swcarpentry/git-novice/issues/606'}
-  - {number: 692, title: Consistently format output of `git status`, updated: '2019-09-27',
-    url: 'https://github.com/swcarpentry/git-novice/issues/692'}
   - {number: 693, title: Images on the all-in-one page are broken, updated: '2019-09-28',
     url: 'https://github.com/swcarpentry/git-novice/issues/693'}
   - {number: 695, title: 'Incomplete output from `cat` in Episode 4, "Committing Multiple
@@ -300,7 +301,7 @@ records:
     updated: '2019-10-03', url: 'https://github.com/swcarpentry/git-novice/pull/683'}
   - {number: 697, title: '07-github.com: introduce branches, improve wording', updated: '2019-10-15',
     url: 'https://github.com/swcarpentry/git-novice/pull/697'}
-  - {number: 698, title: Exemplify more Carpentries-relevant code style tools, updated: '2019-11-11',
+  - {number: 698, title: Exemplify more Carpentries-relevant code style tools, updated: '2019-11-19',
     url: 'https://github.com/swcarpentry/git-novice/pull/698'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
@@ -563,7 +564,7 @@ records:
     updated: '2019-10-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/730'}
   - {number: 735, title: Clarification needed for python environment usage, updated: '2019-11-06',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/735'}
-  - {number: 756, title: 'Ep. 11: Issues with numpy', updated: '2019-11-15', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/756'}
+  - {number: 756, title: 'Ep. 11: Issues with numpy', updated: '2019-11-18', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/756'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -999,4 +1000,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-11-18T16:05:42Z'
+timestamp: '2019-11-19T14:49:05Z'

@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Ann Gledson,Nilani Ganeshwaran,Kamilla Kopec-Harding",
+    "end_date": "2019-11-19",
+    "url": "https://uomresearchit.github.io/2019-11-18-manchester/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "University of Manchester",
+    "longitude": -2.230456,
+    "slug": "2019-11-18-manchester",
+    "tag_name": "SWC",
+    "helpers": "Anja Le Blanc",
+    "host_name": "University of Manchester",
+    "latitude": 53.464003,
+    "start_date": "2019-11-18"
+  },
+  {
     "instructors": "Maxim Belkin,Neal Davis,Elizabeth Wickes",
     "end_date": "2019-11-15",
     "url": "https://swc-uiuc.github.io/2019-11-14-nanomfg/",
