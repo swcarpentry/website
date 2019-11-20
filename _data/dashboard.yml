@@ -149,7 +149,6 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1001'}
   - {number: 810, title: Ep4 `sort -n` has different behaviour on Mac and git bash
       vs linux, updated: '2019-08-26', url: 'https://github.com/swcarpentry/shell-novice/issues/810'}
-  - {number: 1021, title: Customising Git Bash, updated: '2019-08-30', url: 'https://github.com/swcarpentry/shell-novice/issues/1021'}
   - {number: 1024, title: further developing Windows shell setup instructor guidance,
     updated: '2019-09-10', url: 'https://github.com/swcarpentry/shell-novice/issues/1024'}
   - {number: 1032, title: Move "moving to the current folder" exercise in 03, updated: '2019-09-17',
@@ -165,15 +164,15 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1044'}
   - {number: 1010, title: Unix Shell setup suggestion - Video link and instructions
       on set up could be helpful, updated: '2019-10-23', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
-  - {number: 1063, title: Alt text is not descriptive for images in "Navigating Files
-      and Directories", updated: '2019-11-18', url: 'https://github.com/swcarpentry/shell-novice/issues/1063'}
-  - {number: 1062, title: Output of `tree` command without introducing it to students.,
-    updated: '2019-11-18', url: 'https://github.com/swcarpentry/shell-novice/issues/1062'}
   - {number: 1056, title: Layout of text in Output boxes, updated: '2019-11-18', url: 'https://github.com/swcarpentry/shell-novice/issues/1056'}
   - {number: 1055, title: Separation of Input and Output boxes breaks down (ep2),
     updated: '2019-11-18', url: 'https://github.com/swcarpentry/shell-novice/issues/1055'}
   - {number: 1009, title: Standardize use of quotation marks in lesson, updated: '2019-11-18',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1009'}
+  - {number: 1063, title: Alt text is not descriptive for images in "Navigating Files
+      and Directories", updated: '2019-11-20', url: 'https://github.com/swcarpentry/shell-novice/issues/1063'}
+  - {number: 1062, title: Output of `tree` command without introducing it to students.,
+    updated: '2019-11-20', url: 'https://github.com/swcarpentry/shell-novice/issues/1062'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -295,14 +294,14 @@ records:
       (issue #685)', updated: '2019-08-14', url: 'https://github.com/swcarpentry/git-novice/pull/686'}
   - {number: 668, title: Adding an objective covered in the lesson, updated: '2019-09-27',
     url: 'https://github.com/swcarpentry/git-novice/pull/668'}
-  - {number: 694, title: 'aio: Update image links', updated: '2019-09-28', url: 'https://github.com/swcarpentry/git-novice/pull/694'}
   - {number: 696, title: Feature/improve objectives, updated: '2019-10-03', url: 'https://github.com/swcarpentry/git-novice/pull/696'}
   - {number: 683, title: Update lesson 03 motivatingexample.png with correct planets,
     updated: '2019-10-03', url: 'https://github.com/swcarpentry/git-novice/pull/683'}
-  - {number: 697, title: '07-github.com: introduce branches, improve wording', updated: '2019-10-15',
-    url: 'https://github.com/swcarpentry/git-novice/pull/697'}
   - {number: 698, title: Exemplify more Carpentries-relevant code style tools, updated: '2019-11-19',
     url: 'https://github.com/swcarpentry/git-novice/pull/698'}
+  - {number: 697, title: '07-github.com: introduce branches, improve wording', updated: '2019-11-19',
+    url: 'https://github.com/swcarpentry/git-novice/pull/697'}
+  - {number: 694, title: 'aio: Update image links', updated: '2019-11-19', url: 'https://github.com/swcarpentry/git-novice/pull/694'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -817,6 +816,8 @@ records:
   - {number: 573, title: Added tip on adjusting RStudio's layout and syntax highligting,
     updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/573'}
   - {number: 588, title: challange 5 - boxplot, updated: '2019-11-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/588'}
+  - {number: 589, title: 'Spell check and apply consistent code style (close #548) ',
+    updated: '2019-11-20', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1000,4 +1001,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-11-19T14:49:05Z'
+timestamp: '2019-11-20T14:49:43Z'

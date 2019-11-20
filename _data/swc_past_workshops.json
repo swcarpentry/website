@@ -60,7 +60,7 @@
     "start_date": "2019-11-14"
   },
   {
-    "instructors": "Susan Branchett,Nicolas Dintzner",
+    "instructors": "Susan Branchett,Nicolas Dintzner,Kees den Heijer",
     "end_date": "2019-11-14",
     "url": "https://4turesearchdata-carpentries.github.io/2019-11-13-delft/",
     "country": "NL",
@@ -73,6 +73,21 @@
     "host_name": "Delft Univeristy of Technology",
     "latitude": 52.002677,
     "start_date": "2019-11-13"
+  },
+  {
+    "instructors": "Evgenij Belikov,Mike Wallis",
+    "end_date": "2019-11-20",
+    "url": "https://edcarp.github.io/2019-11-12-edinburgh-sbs/",
+    "country": "GB",
+    "curriculum": "swc-other",
+    "venue": "JCMB, King's Buildings (various rooms)",
+    "longitude": -3.17441,
+    "slug": "2019-11-12-edinburgh-sbs",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.921864,
+    "start_date": "2019-11-12"
   },
   {
     "instructors": "David Pugh",

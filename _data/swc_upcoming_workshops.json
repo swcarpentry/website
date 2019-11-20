@@ -15,21 +15,6 @@
     "start_date": "2019-11-01"
   },
   {
-    "instructors": "Evgenij Belikov,Mike Wallis",
-    "end_date": "2019-11-20",
-    "url": "https://edcarp.github.io/2019-11-12-edinburgh-sbs/",
-    "country": "GB",
-    "curriculum": "swc-other",
-    "venue": "JCMB, King's Buildings (various rooms)",
-    "longitude": -3.17441,
-    "slug": "2019-11-12-edinburgh-sbs",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Edinburgh",
-    "latitude": 55.921864,
-    "start_date": "2019-11-12"
-  },
-  {
     "instructors": "Amanda Miotto",
     "end_date": "2019-11-22",
     "url": "https://bio-swc-bne.github.io/2019-11-20-GriffithUni-Python/",
@@ -165,6 +150,21 @@
     "start_date": "2019-11-28"
   },
   {
+    "instructors": "Timothy Norris,Cameron Riopelle",
+    "end_date": "2019-12-03",
+    "url": "https://criopelle.github.io/2019-12-02_RSMAS/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of Miami RSMAS",
+    "longitude": -80.162508,
+    "slug": "2019-12-02-RSMAS",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Miami",
+    "latitude": 25.732647,
+    "start_date": "2019-12-02"
+  },
+  {
     "instructors": "Silvia Di Giorgio,Sarah Peter,Konrad Förstner,Till Sauerwein",
     "end_date": "2019-12-03",
     "url": "https://zbmed.github.io/2019-12-02-Software-Carpentry-Cologne/",
@@ -268,5 +268,35 @@
     "host_name": "Max Planck Institute for Evolutionary Anthropology",
     "latitude": 51.3211759,
     "start_date": "2019-12-09"
+  },
+  {
+    "instructors": "Lisa Abernathy-Close,Samuel Hansen,William Close",
+    "end_date": "2019-12-13",
+    "url": "https://umswc.github.io/2019-12-12-umich/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Michigan",
+    "longitude": -83.73366,
+    "slug": "2019-12-12-umich",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Michigan",
+    "latitude": 42.28316,
+    "start_date": "2019-12-12"
+  },
+  {
+    "instructors": "Christine Wells",
+    "end_date": "2020-01-16",
+    "url": "https://ucla-data-archive.github.io/2020-01-15-ucla/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "UCLA",
+    "longitude": -118.4448593,
+    "slug": "2020-01-15-ucla",
+    "tag_name": "SWC",
+    "helpers": "Tim Dennis",
+    "host_name": "University of California Los Angeles",
+    "latitude": 34.069479,
+    "start_date": "2020-01-15"
   }
 ]
