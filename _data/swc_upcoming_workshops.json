@@ -1,6 +1,6 @@
 [
   {
-    "instructors": "Kevin Dyke,Peter Hoyt",
+    "instructors": "Kevin Dyke,Madison Chartier,Dave Lampert,Rajendra Maharjan",
     "end_date": "2019-11-22",
     "url": "https://osu-carpentry.github.io/2019-11-01-okstate/",
     "country": "US",
@@ -9,7 +9,7 @@
     "longitude": -97.069612,
     "slug": "2019-11-01-okstate",
     "tag_name": "SWC",
-    "helpers": "Hua Lin",
+    "helpers": "Peter Hoyt,Hua Lin,Kay BJornen,Phillip Doehle",
     "host_name": "Oklahoma State University",
     "latitude": 36.122987,
     "start_date": "2019-11-01"
@@ -28,21 +28,6 @@
     "host_name": "Griffith University",
     "latitude": -27.552941,
     "start_date": "2019-11-20"
-  },
-  {
-    "instructors": "João Rodrigues,Jake Lever",
-    "end_date": "2019-11-21",
-    "url": "https://jakelever.github.io/2019-11-21-stanford_medicine/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "Stanford University Medicine",
-    "longitude": -122.175812,
-    "slug": "2019-11-21-stanford_medicine",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Stanford University",
-    "latitude": 37.43185,
-    "start_date": "2019-11-21"
   },
   {
     "instructors": "Luca Di Stasio,MONAH ABOU ALEZZ",

@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "João Rodrigues,Jake Lever",
+    "end_date": "2019-11-21",
+    "url": "https://jakelever.github.io/2019-11-21-stanford_medicine/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Stanford University Medicine",
+    "longitude": -122.175812,
+    "slug": "2019-11-21-stanford_medicine",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Stanford University",
+    "latitude": 37.43185,
+    "start_date": "2019-11-21"
+  },
+  {
     "instructors": "Ann Gledson,Nilani Ganeshwaran,Kamilla Kopec-Harding",
     "end_date": "2019-11-19",
     "url": "https://uomresearchit.github.io/2019-11-18-manchester/",
@@ -45,7 +60,7 @@
     "start_date": "2019-11-14"
   },
   {
-    "instructors": "Matthias Bussonnier,Sarvani Chadalapaka",
+    "instructors": "Matthias Bussonnier,Sarvani Chadalapaka,Derek Devnich",
     "end_date": "2019-11-15",
     "url": "https://ucmerced.github.io/2019-11-14-ucmerced/.",
     "country": "US",
@@ -54,7 +69,7 @@
     "longitude": -120.424369,
     "slug": "2019-11-14-ucmerced",
     "tag_name": "SWC",
-    "helpers": "Jasper Field",
+    "helpers": "Jasper Field,Lesley Lopez,Luna Luisa Sanchez Reyes",
     "host_name": "University of California Merced",
     "latitude": 37.3664,
     "start_date": "2019-11-14"
@@ -69,7 +84,7 @@
     "longitude": 4.37524,
     "slug": "2019-11-13-delft",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Jacques Flores,Andre van der Kraan,Mark Schenk,Sobhan Omranian Khorasani,Lena Karvovskaya,Kees den Heijer,Heather Andrews,Esther Plomp,Yasemin Turkyilmaz,Santosh Ilamparuthi",
     "host_name": "Delft Univeristy of Technology",
     "latitude": 52.002677,
     "start_date": "2019-11-13"
@@ -88,6 +103,21 @@
     "host_name": "University of Edinburgh",
     "latitude": 55.921864,
     "start_date": "2019-11-12"
+  },
+  {
+    "instructors": "Timothy Norris,Cameron Riopelle",
+    "end_date": "2019-11-12",
+    "url": "https://tibbben.github.io/2019-11-11_Miller-School-of-Medicine/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Miami Miller School of Medicine",
+    "longitude": -80.2107,
+    "slug": "2019-11-11-Miller-School-of-Medicine",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Miami",
+    "latitude": 25.790351,
+    "start_date": "2019-11-11"
   },
   {
     "instructors": "David Pugh",
@@ -345,7 +375,7 @@
     "start_date": "2019-10-22"
   },
   {
-    "instructors": "Ashar Malik",
+    "instructors": "Ashar Malik,Akshita Kumar,Lauren Reid,Lee Hwee Kuan,Lee Xiong An,Roland Huber",
     "end_date": "2019-10-23",
     "url": "https://proteinmechanic.github.io/2019-10-21-BioinformaticsInstitute/",
     "country": "SG",
@@ -354,7 +384,7 @@
     "longitude": 103.792545,
     "slug": "2019-10-21-BioinformaticsInstitute",
     "tag_name": "SWC",
-    "helpers": "Akshita Kumar,Nguyen Thanh,Shilpa Yadahalli",
+    "helpers": "Nguyen Thanh,Shilpa Yadahalli,Wang Dong",
     "host_name": "The Bioinformatics Institute",
     "latitude": 1.303419,
     "start_date": "2019-10-21"
@@ -375,7 +405,7 @@
     "start_date": "2019-10-21"
   },
   {
-    "instructors": "Carrie Brown",
+    "instructors": "Carrie Brown,Joshua Herr",
     "end_date": "2019-10-22",
     "url": "http://rcg.usd.edu/2019-10-21-USD/",
     "country": "US",
@@ -1734,7 +1764,7 @@
     "longitude": -83.73823,
     "slug": "2019-07-01-umich",
     "tag_name": "SWC",
-    "helpers": "Ariangela Kozik,Katherine McLean,Dana King",
+    "helpers": "Ariangela Kozik,Katherine McLean,Dana King,Eric Bastien",
     "host_name": "University of Michigan",
     "latitude": 42.276616,
     "start_date": "2019-07-01"
