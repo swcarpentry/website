@@ -15,6 +15,36 @@
     "start_date": "2019-11-21"
   },
   {
+    "instructors": "Luca Di Stasio,MONAH ABOU ALEZZ",
+    "end_date": "2019-11-22",
+    "url": "https://swc-unistuttgart.github.io/2019-11-21-stuttgart/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "Universität Stuttgart",
+    "longitude": 9.107231,
+    "slug": "2019-11-21-stuttgart",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Stuttgart",
+    "latitude": 48.746643,
+    "start_date": "2019-11-21"
+  },
+  {
+    "instructors": "Amanda Miotto",
+    "end_date": "2019-11-22",
+    "url": "https://bio-swc-bne.github.io/2019-11-20-GriffithUni-Python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Griffith University",
+    "longitude": 153.052425,
+    "slug": "2019-11-20-Griffith",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.552941,
+    "start_date": "2019-11-20"
+  },
+  {
     "instructors": "Ann Gledson,Nilani Ganeshwaran,Kamilla Kopec-Harding",
     "end_date": "2019-11-19",
     "url": "https://uomresearchit.github.io/2019-11-18-manchester/",
@@ -225,6 +255,21 @@
     "start_date": "2019-11-03"
   },
   {
+    "instructors": "Kevin Dyke,Madison Chartier,Dave Lampert,Rajendra Maharjan",
+    "end_date": "2019-11-22",
+    "url": "https://osu-carpentry.github.io/2019-11-01-okstate/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Oklahoma State University",
+    "longitude": -97.069612,
+    "slug": "2019-11-01-okstate",
+    "tag_name": "SWC",
+    "helpers": "Peter Hoyt,Hua Lin,Kay BJornen,Phillip Doehle",
+    "host_name": "Oklahoma State University",
+    "latitude": 36.122987,
+    "start_date": "2019-11-01"
+  },
+  {
     "instructors": "Uwe Hilgert,Xue Pan,Sateesh Peri,Travis Struck,Kelsey Gonzalez,Marnee Dearman,Noah Nelson",
     "end_date": "2019-10-27",
     "url": "https://UA-Carpentries-Workshops.github.io/2019-10-26-Tucson",
@@ -399,7 +444,7 @@
     "longitude": 6.91646,
     "slug": "2019-10-21-Software-Carpentry-Cologne",
     "tag_name": "SWC",
-    "helpers": "Eva Seidlmayer,Klaus Lippert",
+    "helpers": "eva Seidlmayer,Klaus Lippert",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.92465,
     "start_date": "2019-10-21"
@@ -1089,7 +1134,7 @@
     "longitude": 6.91646,
     "slug": "2019-09-03-Software-Carpentry-Cologne",
     "tag_name": "SWC",
-    "helpers": "Eva Seidlmayer,Klaus Lippert",
+    "helpers": "eva Seidlmayer,Klaus Lippert",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.92465,
     "start_date": "2019-09-03"
@@ -2889,7 +2934,7 @@
     "longitude": 6.91646,
     "slug": "2019-04-09-Software-Carpentry-Cologne",
     "tag_name": "SWC",
-    "helpers": "Christian Kurrat,Eva Seidlmayer",
+    "helpers": "Christian Kurrat,eva Seidlmayer",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.92465,
     "start_date": "2019-04-09"

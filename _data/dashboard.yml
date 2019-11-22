@@ -982,6 +982,8 @@ records:
   - {number: 1572, title: Amy Event URL Validation, updated: '2019-11-12', url: 'https://github.com/carpentries/amy/issues/1572'}
   - {number: 1566, title: 'Feature Request: Bulk add learners to TTT event', updated: '2019-11-13',
     url: 'https://github.com/carpentries/amy/issues/1566'}
+  - {number: 1575, title: Additional Contacts in Submission, updated: '2019-11-22',
+    url: 'https://github.com/carpentries/amy/issues/1575'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -997,4 +999,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-11-21T14:50:05Z'
+timestamp: '2019-11-22T14:51:48Z'
