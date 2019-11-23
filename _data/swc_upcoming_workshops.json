@@ -30,6 +30,21 @@
     "start_date": "2019-11-23"
   },
   {
+    "instructors": "Logan Cox,Brent Tweedy",
+    "end_date": "2019-11-26",
+    "url": "https://oulib-swc.github.io/2019-11-25-ou-swc-tulsa/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Oklahoma Schusterman Library, Tulsa",
+    "longitude": -95.922955,
+    "slug": "2019-11-25-ou-swc-tulsa",
+    "tag_name": "SWC",
+    "helpers": "Toni Hoberecht,Krista Kezbers",
+    "host_name": "University of Oklahoma",
+    "latitude": 36.101228,
+    "start_date": "2019-11-25"
+  },
+  {
     "instructors": "Matthias Liffers,Jamiu Ekundayo,Behrouz Khabbaz Beheshti",
     "end_date": "2019-11-26",
     "url": "https://annbackhaus.github.io/2019-11-25-pawsey/",

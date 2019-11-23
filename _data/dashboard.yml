@@ -614,6 +614,8 @@ records:
   - {number: 715, title: Update 03-lists.md, updated: '2019-11-08', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/715'}
   - {number: 728, title: Added exercise on using isinstance(), updated: '2019-11-18',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/728'}
+  - {number: 758, title: '02-numpy.md: Remove array arithmetic', updated: '2019-11-23',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/758'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -814,6 +816,8 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/590'}
   - {number: 589, title: 'Spell check and apply consistent code style (close #548) ',
     updated: '2019-11-20', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
+  - {number: 591, title: Follow-up to pivot_longer/_wider() update, updated: '2019-11-23',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/591'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -999,4 +1003,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-11-22T14:51:48Z'
+timestamp: '2019-11-23T14:52:39Z'
