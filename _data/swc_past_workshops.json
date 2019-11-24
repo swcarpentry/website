@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Andrew McDonald,Timothee Poisot",
+    "end_date": "2019-11-24",
+    "url": "https://aammd.github.io/2019-11-23-UdeM/",
+    "country": "CA",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Université de Montréal",
+    "longitude": -73.619067,
+    "slug": "2019-11-23-UdeM",
+    "tag_name": "SWC",
+    "helpers": "Mathilde Besson,Gabriel Dansereau,Francis Banville,Gracielle Higino",
+    "host_name": "Universite de Montreal",
+    "latitude": 45.52273,
+    "start_date": "2019-11-23"
+  },
+  {
+    "instructors": "David Nicholson,Stephanie Prince,Sena Agezo",
+    "end_date": "2019-11-24",
+    "url": "https://data-science-for-scientists-atl.github.io/2019-11-23-emory/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Emory University",
+    "longitude": -84.3214501,
+    "slug": "2019-11-23-emory",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Emory University",
+    "latitude": 33.79434,
+    "start_date": "2019-11-23"
+  },
+  {
     "instructors": "João Rodrigues,Jake Lever",
     "end_date": "2019-11-21",
     "url": "https://jakelever.github.io/2019-11-21-stanford_medicine/",
@@ -210,7 +240,7 @@
     "start_date": "2019-11-06"
   },
   {
-    "instructors": "Tim Spain,Tuomas Koskela,Stef Piatek,Vilma Agalioti Sgompou",
+    "instructors": "Timothy Spain,Tuomas Koskela,Stef Piatek,Vilma Agalioti Sgompou",
     "end_date": "2019-11-05",
     "url": "http://rits.github-pages.ucl.ac.uk/2019-11-04-UCL_software_carpentry/",
     "country": "GB",
@@ -1650,7 +1680,7 @@
     "start_date": "2019-07-22"
   },
   {
-    "instructors": "Roland Guichard,Roman Klapaukh,Tim Spain,Mosè Giordano",
+    "instructors": "Roland Guichard,Roman Klapaukh,Timothy Spain,Mosè Giordano",
     "end_date": "2019-07-16",
     "url": "http://rits.github-pages.ucl.ac.uk/2019-07-15-UCL_software_carpentry/",
     "country": "GB",

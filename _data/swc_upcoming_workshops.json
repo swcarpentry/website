@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Andrew McDonald,Timothee Poisot",
-    "end_date": "2019-11-24",
-    "url": "https://aammd.github.io/2019-11-23-UdeM/",
-    "country": "CA",
-    "curriculum": "swc-reproducible-science",
-    "venue": "Université de Montréal",
-    "longitude": -73.619067,
-    "slug": "2019-11-23-UdeM",
-    "tag_name": "SWC",
-    "helpers": "Mathilde Besson,Gabriel Dansereau,Francis Banville,Gracielle Higino",
-    "host_name": "Universite de Montreal",
-    "latitude": 45.52273,
-    "start_date": "2019-11-23"
-  },
-  {
-    "instructors": "David Nicholson,Stephanie Prince,Sena Agezo",
-    "end_date": "2019-11-24",
-    "url": "https://data-science-for-scientists-atl.github.io/2019-11-23-emory/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "Emory University",
-    "longitude": -84.3214501,
-    "slug": "2019-11-23-emory",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Emory University",
-    "latitude": 33.79434,
-    "start_date": "2019-11-23"
-  },
-  {
     "instructors": "Logan Cox,Brent Tweedy",
     "end_date": "2019-11-26",
     "url": "https://oulib-swc.github.io/2019-11-25-ou-swc-tulsa/",
