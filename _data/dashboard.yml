@@ -559,6 +559,9 @@ records:
   - {number: 735, title: Clarification needed for python environment usage, updated: '2019-11-06',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/735'}
   - {number: 756, title: 'Ep. 11: Issues with numpy', updated: '2019-11-18', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/756'}
+  - {number: 759, title: Ep2 section "Not All Functions Have Input" should be removed,
+    updated: '2019-11-24', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/759'}
+  - {number: 761, title: 'Why should we be suspicious?', updated: '2019-11-25', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/761'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -618,6 +621,7 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/758'}
   - {number: 721, title: 'README.md: add notes about SWC and The Carpentries', updated: '2019-11-24',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/721'}
+  - {number: 760, title: Clarification of 1.0 v 1., updated: '2019-11-25', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/760'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -799,6 +803,8 @@ records:
       (episode 8), updated: '2019-11-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/586'}
   - {number: 582, title: Creating Publication-Quality Graphics with ggplot2 - Challenge
       5, updated: '2019-11-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/582'}
+  - {number: 592, title: gif to explain pipelines with Mario, updated: '2019-11-25',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/592'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -820,6 +826,8 @@ records:
     updated: '2019-11-20', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
   - {number: 591, title: Follow-up to pivot_longer/_wider() update, updated: '2019-11-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/591'}
+  - {number: 593, title: Update ggplot2 docu & cheatsheet links, updated: '2019-11-25',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/593'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1005,4 +1013,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-11-24T14:52:34Z'
+timestamp: '2019-11-25T14:53:22Z'
