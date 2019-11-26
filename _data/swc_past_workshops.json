@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Logan Cox,Brent Tweedy",
+    "end_date": "2019-11-26",
+    "url": "https://oulib-swc.github.io/2019-11-25-ou-swc-tulsa/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Oklahoma Schusterman Library, Tulsa",
+    "longitude": -95.922955,
+    "slug": "2019-11-25-ou-swc-tulsa",
+    "tag_name": "SWC",
+    "helpers": "Toni Hoberecht,Krista Kezbers",
+    "host_name": "University of Oklahoma",
+    "latitude": 36.101228,
+    "start_date": "2019-11-25"
+  },
+  {
+    "instructors": "Matthias Liffers,Jamiu Ekundayo,Behrouz Khabbaz Beheshti",
+    "end_date": "2019-11-26",
+    "url": "https://annbackhaus.github.io/2019-11-25-pawsey/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Pawsey Supercomputing Centre",
+    "longitude": 115.883684,
+    "slug": "2019-11-25-pawsey",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Pawsey Supercomputing Centre",
+    "latitude": -31.992676,
+    "start_date": "2019-11-25"
+  },
+  {
     "instructors": "Andrew McDonald,Timothee Poisot",
     "end_date": "2019-11-24",
     "url": "https://aammd.github.io/2019-11-23-UdeM/",

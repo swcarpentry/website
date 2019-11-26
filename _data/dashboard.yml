@@ -405,6 +405,7 @@ records:
   - {number: 267, title: More fixes, updated: '2019-10-25', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/267'}
   - {number: 302, title: 'Best practice: Use explicit column names with INSERT', updated: '2019-10-28',
     url: 'https://github.com/swcarpentry/sql-novice-survey/pull/302'}
+  - {number: 304, title: Correct typo, updated: '2019-11-26', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/304'}
   url: https://github.com/swcarpentry/sql-novice-survey
 - description: Python
   ident: swcarpentry/python-novice-inflammation
@@ -561,6 +562,8 @@ records:
   - {number: 756, title: 'Ep. 11: Issues with numpy', updated: '2019-11-18', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/756'}
   - {number: 759, title: Ep2 section "Not All Functions Have Input" should be removed,
     updated: '2019-11-24', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/759'}
+  - {number: 762, title: Programming with Python Episode 3 Example Suggestion, updated: '2019-11-25',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/762'}
   - {number: 761, title: 'Why should we be suspicious?', updated: '2019-11-25', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/761'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
@@ -617,11 +620,8 @@ records:
   - {number: 715, title: Update 03-lists.md, updated: '2019-11-08', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/715'}
   - {number: 728, title: Added exercise on using isinstance(), updated: '2019-11-18',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/728'}
-  - {number: 758, title: '02-numpy.md: Remove array arithmetic', updated: '2019-11-23',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/758'}
-  - {number: 721, title: 'README.md: add notes about SWC and The Carpentries', updated: '2019-11-24',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/721'}
   - {number: 760, title: Clarification of 1.0 v 1., updated: '2019-11-25', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/760'}
+  - {number: 763, title: Update 04-lists.md, updated: '2019-11-26', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/763'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -794,7 +794,6 @@ records:
   - {number: 565, title: Subscript and superscript formatting not rendered correctly,
     updated: '2019-10-02', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/565'}
   - {number: 581, title: Unclear diagrams, updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/581'}
-  - {number: 577, title: Error in grammar, updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/577'}
   - {number: 576, title: Not all solution present, updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/576'}
   - {number: 575, title: 'Missing solution?', updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/575'}
   - {number: 572, title: File missing in lesson 4 of R for reproducible scientific
@@ -803,6 +802,8 @@ records:
       (episode 8), updated: '2019-11-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/586'}
   - {number: 582, title: Creating Publication-Quality Graphics with ggplot2 - Challenge
       5, updated: '2019-11-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/582'}
+  - {number: 594, title: Revise language around pivot_longer and pivot_wider, updated: '2019-11-25',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/594'}
   - {number: 592, title: gif to explain pipelines with Mario, updated: '2019-11-25',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/592'}
   pulls:
@@ -815,19 +816,10 @@ records:
   - {number: 552, title: Make gentler intro for ggplot2 lesson, updated: '2019-08-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/552'}
   - {number: 551, title: update links, updated: '2019-08-24', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/551'}
-  - {number: 566, title: Added tip on R's build-in ifelse() function!, updated: '2019-10-10',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/566'}
   - {number: 573, title: Added tip on adjusting RStudio's layout and syntax highligting,
     updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/573'}
-  - {number: 588, title: challange 5 - boxplot, updated: '2019-11-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/588'}
-  - {number: 590, title: Update scale_x_log10 docu to match code, updated: '2019-11-20',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/590'}
   - {number: 589, title: 'Spell check and apply consistent code style (close #548) ',
-    updated: '2019-11-20', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
-  - {number: 591, title: Follow-up to pivot_longer/_wider() update, updated: '2019-11-23',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/591'}
-  - {number: 593, title: Update ggplot2 docu & cheatsheet links, updated: '2019-11-25',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/593'}
+    updated: '2019-11-25', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1009,8 +1001,9 @@ records:
   issues:
   - {number: 1086, title: The Carpentries Tagathon - Suggest Relevant Tags for Blog
       Posts, updated: '2019-10-24', url: 'https://github.com/swcarpentry/website/issues/1086'}
+  - {number: 1164, title: Lesson table issue, updated: '2019-11-25', url: 'https://github.com/swcarpentry/website/issues/1164'}
   pulls:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-11-25T14:53:22Z'
+timestamp: '2019-11-26T14:53:12Z'
