@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Katrin Leinweber,Tobias Weiß,Marc Hanisch,Maximilian Dolling,Peter Evans,Bezaye Tesfaye,Stefan Lüdtke,Berry Boessenkool,Michael Dietze",
-    "end_date": "2019-11-27",
-    "url": "http://swc-bb.gitext.gfz-potsdam.de/pages/2019-11-26-Potsdam-Berlin/",
-    "country": "DE",
-    "curriculum": "swc-r",
-    "venue": "Albert Einstein Science Park, Potsdam, Germany",
-    "longitude": 13.064298,
-    "slug": "2019-11-26-Potsdam-Berlin",
-    "tag_name": "SWC",
-    "helpers": "Knut Günther,Matthias Rüster,Nils Brinckmann,Norman Ziegner,Vivien Stender,Gesa Petersen,Tabea Rettelbach,Heidrun Matthes,Phillip Tiburtius",
-    "host_name": "GFZ Potsdam",
-    "latitude": 52.382214,
-    "start_date": "2019-11-26"
-  },
-  {
     "instructors": "Renato Alves,Toby Hodges",
     "end_date": "2019-11-29",
     "url": "https://unode.github.io/2019-11-27-upr/",
@@ -193,5 +178,65 @@
     "host_name": "University of California Los Angeles",
     "latitude": 34.069479,
     "start_date": "2020-01-15"
+  },
+  {
+    "instructors": "Rafi Ullah,Timothy Warren",
+    "end_date": "2020-01-17",
+    "url": "https://rraffiu.github.io/2020-01-16-rutgers/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Software Carpentry Workshp at Rutgers University",
+    "longitude": -74.18979,
+    "slug": "2020-01-16-rutgers",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Rutgers University",
+    "latitude": 40.741173,
+    "start_date": "2020-01-16"
+  },
+  {
+    "instructors": "Anthony Valente,Daniel McCloy",
+    "end_date": "2020-01-29",
+    "url": "https://drammock.github.io/2020-01-28-benaroya_research/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Benaroya Research Institute (Room 4 North)",
+    "longitude": -122.330276,
+    "slug": "2019-01-28-benaroya_research",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Benaroya Research Institute",
+    "latitude": 47.60323,
+    "start_date": "2020-01-28"
+  },
+  {
+    "instructors": "Amanda Stahlke,Breanna Sipley",
+    "end_date": "2020-01-31",
+    "url": "http://astahlke.github.io/2020-01-30-uidaho",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Idaho",
+    "longitude": -117.01093,
+    "slug": "2020-01-30-uidaho",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Idaho",
+    "latitude": 46.72696,
+    "start_date": "2020-01-30"
+  },
+  {
+    "instructors": "Hamid Mokhtarzadeh,Cian Wilson",
+    "end_date": "2020-02-14",
+    "url": "https://cianwilson.github.io/2020-02-13-rice/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Rice University",
+    "longitude": -95.401833,
+    "slug": "2020-02-13-rice",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Rice University",
+    "latitude": 29.717394,
+    "start_date": "2020-02-13"
   }
 ]

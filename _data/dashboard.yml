@@ -162,17 +162,15 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/802'}
   - {number: 1044, title: Ep.2  ls capitalisation example, updated: '2019-10-10',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1044'}
-  - {number: 1010, title: Unix Shell setup suggestion - Video link and instructions
-      on set up could be helpful, updated: '2019-10-23', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
   - {number: 1056, title: Layout of text in Output boxes, updated: '2019-11-18', url: 'https://github.com/swcarpentry/shell-novice/issues/1056'}
   - {number: 1055, title: Separation of Input and Output boxes breaks down (ep2),
     updated: '2019-11-18', url: 'https://github.com/swcarpentry/shell-novice/issues/1055'}
-  - {number: 1009, title: Standardize use of quotation marks in lesson, updated: '2019-11-18',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/1009'}
-  - {number: 1063, title: Alt text is not descriptive for images in "Navigating Files
-      and Directories", updated: '2019-11-20', url: 'https://github.com/swcarpentry/shell-novice/issues/1063'}
   - {number: 1062, title: Output of `tree` command without introducing it to students.,
-    updated: '2019-11-20', url: 'https://github.com/swcarpentry/shell-novice/issues/1062'}
+    updated: '2019-11-27', url: 'https://github.com/swcarpentry/shell-novice/issues/1062'}
+  - {number: 1010, title: Unix Shell setup suggestion - Video link and instructions
+      on set up could be helpful, updated: '2019-11-27', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
+  - {number: 1009, title: Standardize use of quotation marks in lesson, updated: '2019-11-27',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/1009'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -384,6 +382,10 @@ records:
   - {number: 286, title: Add Binder Button for JupyterLab and RStudio Server, updated: '2019-10-08',
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/286'}
   - {number: 297, title: A database manager is a person, updated: '2019-10-09', url: 'https://github.com/swcarpentry/sql-novice-survey/issues/297'}
+  - {number: 306, title: 'Ep 4: Major site identifiers suggestion', updated: '2019-11-26',
+    url: 'https://github.com/swcarpentry/sql-novice-survey/issues/306'}
+  - {number: 305, title: 'Ep. 6: Explanation of count() could be improved.', updated: '2019-11-26',
+    url: 'https://github.com/swcarpentry/sql-novice-survey/issues/305'}
   pulls:
   - {number: 193, title: rec modification to use newsurvey database so users can run
       sql commands, updated: '2018-06-11', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/193'}
@@ -565,6 +567,10 @@ records:
   - {number: 762, title: Programming with Python Episode 3 Example Suggestion, updated: '2019-11-25',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/762'}
   - {number: 761, title: 'Why should we be suspicious?', updated: '2019-11-25', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/761'}
+  - {number: 764, title: 'Episode 11 - command line, keypoints', updated: '2019-11-26',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/764'}
+  - {number: 765, title: '09-defensive.md: Incorrect Error blocks for some assert
+      statements', updated: '2019-11-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/765'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -620,8 +626,8 @@ records:
   - {number: 715, title: Update 03-lists.md, updated: '2019-11-08', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/715'}
   - {number: 728, title: Added exercise on using isinstance(), updated: '2019-11-18',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/728'}
-  - {number: 760, title: Clarification of 1.0 v 1., updated: '2019-11-25', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/760'}
   - {number: 763, title: Update 04-lists.md, updated: '2019-11-26', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/763'}
+  - {number: 760, title: Clarification of 1.0 v 1., updated: '2019-11-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/760'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -819,7 +825,8 @@ records:
   - {number: 573, title: Added tip on adjusting RStudio's layout and syntax highligting,
     updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/573'}
   - {number: 589, title: 'Spell check and apply consistent code style (close #548) ',
-    updated: '2019-11-25', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
+    updated: '2019-11-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
+  - {number: 595, title: Update 08-plot-ggplot2.Rmd, updated: '2019-11-27', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/595'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1006,4 +1013,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-11-26T14:53:12Z'
+timestamp: '2019-11-27T14:53:41Z'

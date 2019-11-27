@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Katrin Leinweber,Tobias Weiß,Marc Hanisch,Maximilian Dolling,Peter Evans,Bezaye Tesfaye,Stefan Lüdtke,Berry Boessenkool,Michael Dietze",
+    "end_date": "2019-11-27",
+    "url": "http://swc-bb.gitext.gfz-potsdam.de/pages/2019-11-26-Potsdam-Berlin/",
+    "country": "DE",
+    "curriculum": "swc-r",
+    "venue": "Albert Einstein Science Park, Potsdam, Germany",
+    "longitude": 13.064298,
+    "slug": "2019-11-26-Potsdam-Berlin",
+    "tag_name": "SWC",
+    "helpers": "Knut Günther,Matthias Rüster,Nils Brinckmann,Norman Ziegner,Vivien Stender,Gesa Petersen,Tabea Rettelbach,Heidrun Matthes,Phillip Tiburtius",
+    "host_name": "GFZ Potsdam",
+    "latitude": 52.382214,
+    "start_date": "2019-11-26"
+  },
+  {
     "instructors": "Logan Cox,Brent Tweedy",
     "end_date": "2019-11-26",
     "url": "https://oulib-swc.github.io/2019-11-25-ou-swc-tulsa/",
@@ -849,7 +864,7 @@
     "longitude": 153.014374,
     "slug": "2019-09-30-UQ-R",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Paula Andrea Martinez",
     "host_name": "The University of Queensland",
     "latitude": -27.496559,
     "start_date": "2019-09-30"
@@ -1782,6 +1797,21 @@
     "helpers": "Conrad Leonard,Catherine Kim,Paula Andrea Martinez",
     "host_name": "Queensland University of Technology",
     "latitude": -27.4773522,
+    "start_date": "2019-07-09"
+  },
+  {
+    "instructors": "Mirian Tieko Nunes Tsuchiya,Jen Hammock,Jennifer Giaccai,Mike Trizna,Luis Villanueva",
+    "end_date": "2019-07-10",
+    "url": "https://smithsonianworkshops.github.io/2019-07-09-castle-interns/",
+    "country": "US",
+    "curriculum": "swc-es-r",
+    "venue": "Data Carpentry Workshop for Smithsonian Interns",
+    "longitude": -77.025991,
+    "slug": "2019-07-09-castle-interns",
+    "tag_name": "SWC",
+    "helpers": "Rebecca Dikow,Vanessa Gonzalez,Matthew Kweskin,Susan (Sue) Zwicker",
+    "host_name": "Smithsonian Institution",
+    "latitude": 38.888778,
     "start_date": "2019-07-09"
   },
   {
