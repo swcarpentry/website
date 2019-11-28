@@ -827,6 +827,9 @@ records:
   - {number: 589, title: 'Spell check and apply consistent code style (close #548) ',
     updated: '2019-11-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
   - {number: 595, title: Update 08-plot-ggplot2.Rmd, updated: '2019-11-27', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/595'}
+  - {number: 597, title: Update 03-seeking-help.Rmd, updated: '2019-11-28', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/597'}
+  - {number: 596, title: Explicit mention of as.character for chapter 5 challenge
+      1, updated: '2019-11-28', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/596'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1013,4 +1016,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-11-27T14:53:41Z'
+timestamp: '2019-11-28T14:54:53Z'
