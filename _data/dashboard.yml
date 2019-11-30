@@ -287,11 +287,11 @@ records:
       (issue #685)', updated: '2019-08-14', url: 'https://github.com/swcarpentry/git-novice/pull/686'}
   - {number: 668, title: Adding an objective covered in the lesson, updated: '2019-09-27',
     url: 'https://github.com/swcarpentry/git-novice/pull/668'}
-  - {number: 698, title: Exemplify more Carpentries-relevant code style tools, updated: '2019-11-19',
+  - {number: 698, title: Exemplify more Carpentries-relevant code style tools, updated: '2019-11-29',
     url: 'https://github.com/swcarpentry/git-novice/pull/698'}
-  - {number: 697, title: '07-github.com: introduce branches, improve wording', updated: '2019-11-19',
+  - {number: 697, title: '07-github.com: introduce branches, improve wording', updated: '2019-11-29',
     url: 'https://github.com/swcarpentry/git-novice/pull/697'}
-  - {number: 696, title: Feature/improve objectives, updated: '2019-11-28', url: 'https://github.com/swcarpentry/git-novice/pull/696'}
+  - {number: 696, title: Feature/improve objectives, updated: '2019-11-29', url: 'https://github.com/swcarpentry/git-novice/pull/696'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -1013,4 +1013,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-11-29T14:55:15Z'
+timestamp: '2019-11-30T14:56:06Z'
