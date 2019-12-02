@@ -178,6 +178,7 @@ records:
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
   - {number: 992, title: Made changes and added General Syntax episode., updated: '2019-08-04',
     url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
+  - {number: 1067, title: cd command out of place, updated: '2019-12-02', url: 'https://github.com/swcarpentry/shell-novice/pull/1067'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -625,6 +626,7 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/728'}
   - {number: 763, title: Update 04-lists.md, updated: '2019-11-26', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/763'}
   - {number: 760, title: Clarification of 1.0 v 1., updated: '2019-11-29', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/760'}
+  - {number: 766, title: New fundamentals exercise, updated: '2019-12-01', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/766'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1013,4 +1015,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-12-01T14:56:33Z'
+timestamp: '2019-12-02T14:57:34Z'
