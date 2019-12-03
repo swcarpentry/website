@@ -1,5 +1,50 @@
 [
   {
+    "instructors": "Timothy Norris,Cameron Riopelle",
+    "end_date": "2019-12-03",
+    "url": "https://criopelle.github.io/2019-12-02_RSMAS/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of Miami RSMAS",
+    "longitude": -80.162508,
+    "slug": "2019-12-02-RSMAS",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Miami",
+    "latitude": 25.732647,
+    "start_date": "2019-12-02"
+  },
+  {
+    "instructors": "Silvia Di Giorgio,Sarah Peter,Konrad Förstner,Till Sauerwein",
+    "end_date": "2019-12-03",
+    "url": "https://zbmed.github.io/2019-12-02-Software-Carpentry-Cologne/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "ZB MED",
+    "longitude": 6.91646,
+    "slug": "2019-12-02-Software-Carpentry-Cologne",
+    "tag_name": "SWC",
+    "helpers": "eva Seidlmayer,Klaus Lippert",
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.92465,
+    "start_date": "2019-12-02"
+  },
+  {
+    "instructors": "Like Fokkens,Marc Galland",
+    "end_date": "2019-12-03",
+    "url": "https://scienceparkstudygroup.github.io/2019-12-03-SWC-Amsterdam/",
+    "country": "NL",
+    "curriculum": "swc-python",
+    "venue": "University  of Amsterdam",
+    "longitude": 4.91259,
+    "slug": "2019-12-03-SWC-Amsterdam",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Amsterdam",
+    "latitude": 52.36321,
+    "start_date": "2019-12-02"
+  },
+  {
     "instructors": "Inigo Aldazabal Mensa,Andrés Díaz-Gil,Alfonso Nunez,Bryan Zaldivar",
     "end_date": "2019-11-29",
     "url": "https://marcosjerez.github.io/2019-11-27-cftmat",
@@ -9,7 +54,7 @@
     "longitude": -3.687608,
     "slug": "2019-11-27-cftmat",
     "tag_name": "SWC",
-    "helpers": "Marcos Ramírez,Emilio Ambite,Eduardo de Cordoba",
+    "helpers": "Marcos Ramírez,Emilio Ambite,Eduardo de Cordoba,Nadir Samos",
     "host_name": "The Centro de Física Teórica y Matemáticas (CFTMAT)",
     "latitude": 40.549532,
     "start_date": "2019-11-28"
@@ -30,7 +75,7 @@
     "start_date": "2019-11-28"
   },
   {
-    "instructors": "Renato Alves,Toby Hodges",
+    "instructors": "Renato Alves,Toby Hodges,Emma Torro Pastor,Mason Louis Proffitt,Oksana Shadura",
     "end_date": "2019-11-29",
     "url": "https://unode.github.io/2019-11-27-upr/",
     "country": "CH",
@@ -39,7 +84,7 @@
     "longitude": -1,
     "slug": "2019-11-27-upr",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Ben Couturier,Ben Krikler,Adam Parker,Sebastien Ponce,Eduardo Rodrigues,Tibor Šimko,Graeme Stewart,James Walder",
     "host_name": "Princeton University",
     "latitude": 45,
     "start_date": "2019-11-27"
@@ -105,7 +150,7 @@
     "start_date": "2019-11-23"
   },
   {
-    "instructors": "David Nicholson,Stephanie Prince,Sena Agezo",
+    "instructors": "David Nicholson,Stephanie Prince,Sena Agezo,Nadia Harerimana",
     "end_date": "2019-11-24",
     "url": "https://data-science-for-scientists-atl.github.io/2019-11-23-emory/",
     "country": "US",
@@ -114,7 +159,7 @@
     "longitude": -84.3214501,
     "slug": "2019-11-23-emory",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Raveena Chibber,Jeremy Harris,David Hercules,Pearl Ryder,Robert Thorstad,Eli Schultz,Surekha Surendran,Yunmiao Wang,Dmitri Zaras",
     "host_name": "Emory University",
     "latitude": 33.79434,
     "start_date": "2019-11-23"
@@ -144,7 +189,7 @@
     "longitude": 9.107231,
     "slug": "2019-11-21-stuttgart",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Sibylle Hermann,Dorothea Iglezakis,Ralf Diestelkämper,Michael Stegmüller,Anett Seeland",
     "host_name": "University of Stuttgart",
     "latitude": 48.746643,
     "start_date": "2019-11-21"
@@ -4680,7 +4725,7 @@
     "start_date": "2018-11-19"
   },
   {
-    "instructors": "André Palóczy,Stephanie Labou,Reid Otsuji",
+    "instructors": "André Palóczy,Reid Otsuji,Justin Shaffer",
     "end_date": "2018-11-20",
     "url": "https://ucsdlib.github.io/2019-11-19-UCSD/",
     "country": "US",
@@ -4689,7 +4734,7 @@
     "longitude": -117.237224,
     "slug": "2019-11-19-UCSD",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Stephanie Labou,Ryan Johnson,Tamara Bozich",
     "host_name": "University of California San Diego",
     "latitude": 32.875527,
     "start_date": "2018-11-19"
@@ -9840,7 +9885,7 @@
     "start_date": "2017-07-27"
   },
   {
-    "instructors": "Martha Robinson,Daniel Buchan,Samantha Ahern",
+    "instructors": "Martha Robinson,Daniel Buchan,Samantha Ahern,Vilma Agalioti Sgompou",
     "end_date": "2017-07-26",
     "url": "http://rits.github-pages.ucl.ac.uk/2017-07-25-UCL_software_carpentry/",
     "country": "GB",
@@ -9849,7 +9894,7 @@
     "longitude": -0.132574,
     "slug": "2017-07-25-UCL_software_carpentry",
     "tag_name": "SWC",
-    "helpers": "Stuart Grieve,Roman Klapaukh",
+    "helpers": "Stuart Grieve,Roman Klapaukh,Stef Piatek,Ilektra Christidi",
     "host_name": "University College London",
     "latitude": 51.525256,
     "start_date": "2017-07-26"

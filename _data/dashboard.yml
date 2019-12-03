@@ -169,6 +169,8 @@ records:
       on set up could be helpful, updated: '2019-11-27', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
   - {number: 1009, title: Standardize use of quotation marks in lesson, updated: '2019-11-27',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1009'}
+  - {number: 1069, title: Audit use of keyboard combinations in lesson, updated: '2019-12-03',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/1069'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -178,7 +180,8 @@ records:
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
   - {number: 992, title: Made changes and added General Syntax episode., updated: '2019-08-04',
     url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
-  - {number: 1067, title: cd command out of place, updated: '2019-12-02', url: 'https://github.com/swcarpentry/shell-novice/pull/1067'}
+  - {number: 1068, title: Fixing capitalization of Ctrl-r and adding more detailed
+      explanation, updated: '2019-12-03', url: 'https://github.com/swcarpentry/shell-novice/pull/1068'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -253,6 +256,8 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/701'}
   - {number: 691, title: 'Consider replacing "checkout" with "switch" and "restore",
       if widely available in the future', updated: '2019-11-18', url: 'https://github.com/swcarpentry/git-novice/issues/691'}
+  - {number: 703, title: 'Improve episode 5 "Exploring History" ', updated: '2019-12-02',
+    url: 'https://github.com/swcarpentry/git-novice/issues/703'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -292,7 +297,13 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/pull/698'}
   - {number: 697, title: '07-github.com: introduce branches, improve wording', updated: '2019-11-29',
     url: 'https://github.com/swcarpentry/git-novice/pull/697'}
-  - {number: 696, title: Feature/improve objectives, updated: '2019-11-29', url: 'https://github.com/swcarpentry/git-novice/pull/696'}
+  - {number: 707, title: Apply minor edits to text in 04, updated: '2019-12-03', url: 'https://github.com/swcarpentry/git-novice/pull/707'}
+  - {number: 706, title: Reword section describing git init, updated: '2019-12-03',
+    url: 'https://github.com/swcarpentry/git-novice/pull/706'}
+  - {number: 705, title: Update objectives to include learning about the .git folder,
+    updated: '2019-12-03', url: 'https://github.com/swcarpentry/git-novice/pull/705'}
+  - {number: 704, title: 'Replace sub-directory with subdirectory, which is the recognized
+      word', updated: '2019-12-03', url: 'https://github.com/swcarpentry/git-novice/pull/704'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -357,10 +368,6 @@ records:
     updated: '2018-06-11', url: 'https://github.com/swcarpentry/sql-novice-survey/issues/178'}
   - {number: 170, title: _episodes/01-select Objectives suggestions, updated: '2018-06-11',
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/170'}
-  - {number: 122, title: 'Is there any reason to not use Date as a type for dates?',
-    updated: '2018-06-11', url: 'https://github.com/swcarpentry/sql-novice-survey/issues/122'}
-  - {number: 256, title: explanation of UNION vs UNION ALL, updated: '2019-05-14',
-    url: 'https://github.com/swcarpentry/sql-novice-survey/issues/256'}
   - {number: 255, title: Broken exercise requiring a subquery, updated: '2019-05-14',
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/255'}
   - {number: 236, title: 'Data Hygiene: Naming being a poor example.', updated: '2019-05-14',
@@ -385,12 +392,6 @@ records:
   - {number: 305, title: 'Ep. 6: Explanation of count() could be improved.', updated: '2019-11-26',
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/305'}
   pulls:
-  - {number: 193, title: rec modification to use newsurvey database so users can run
-      sql commands, updated: '2018-06-11', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/193'}
-  - {number: 159, title: A few small fixes + new SELECT challenge, updated: '2018-06-11',
-    url: 'https://github.com/swcarpentry/sql-novice-survey/pull/159'}
-  - {number: 268, title: Promoted SQL's set-based advantages, updated: '2018-10-30',
-    url: 'https://github.com/swcarpentry/sql-novice-survey/pull/268'}
   - {number: 274, title: adding a solution of a challange (Ordering When Concatenating),
     updated: '2018-12-13', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/274'}
   - {number: 289, title: Simplification + solution for group concatenation exercise,
@@ -402,10 +403,14 @@ records:
       on the SQLite course, updated: '2019-10-22', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/301'}
   - {number: 300, title: Added quiz to 1st lesson on SELECT, updated: '2019-10-22',
     url: 'https://github.com/swcarpentry/sql-novice-survey/pull/300'}
-  - {number: 267, title: More fixes, updated: '2019-10-25', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/267'}
-  - {number: 302, title: 'Best practice: Use explicit column names with INSERT', updated: '2019-10-28',
+  - {number: 304, title: Correct typo, updated: '2019-12-02', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/304'}
+  - {number: 302, title: 'Best practice: Use explicit column names with INSERT', updated: '2019-12-02',
     url: 'https://github.com/swcarpentry/sql-novice-survey/pull/302'}
-  - {number: 304, title: Correct typo, updated: '2019-11-26', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/304'}
+  - {number: 268, title: Promoted SQL's set-based advantages, updated: '2019-12-02',
+    url: 'https://github.com/swcarpentry/sql-novice-survey/pull/268'}
+  - {number: 267, title: More fixes, updated: '2019-12-02', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/267'}
+  - {number: 193, title: rec modification to use newsurvey database so users can run
+      sql commands, updated: '2019-12-02', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/193'}
   url: https://github.com/swcarpentry/sql-novice-survey
 - description: Python
   ident: swcarpentry/python-novice-inflammation
@@ -565,10 +570,10 @@ records:
   - {number: 762, title: Programming with Python Episode 3 Example Suggestion, updated: '2019-11-25',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/762'}
   - {number: 761, title: 'Why should we be suspicious?', updated: '2019-11-25', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/761'}
-  - {number: 764, title: 'Episode 11 - command line, keypoints', updated: '2019-11-26',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/764'}
   - {number: 765, title: '09-defensive.md: Incorrect Error blocks for some assert
-      statements', updated: '2019-11-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/765'}
+      statements', updated: '2019-12-02', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/765'}
+  - {number: 764, title: 'Episode 11 - command line, keypoints', updated: '2019-12-03',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/764'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -624,9 +629,12 @@ records:
   - {number: 715, title: Update 03-lists.md, updated: '2019-11-08', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/715'}
   - {number: 728, title: Added exercise on using isinstance(), updated: '2019-11-18',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/728'}
-  - {number: 763, title: Update 04-lists.md, updated: '2019-11-26', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/763'}
-  - {number: 760, title: Clarification of 1.0 v 1., updated: '2019-11-29', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/760'}
   - {number: 766, title: New fundamentals exercise, updated: '2019-12-01', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/766'}
+  - {number: 767, title: Update 02-numpy.md, updated: '2019-12-02', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/767'}
+  - {number: 763, title: Update 04-lists.md, updated: '2019-12-02', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/763'}
+  - {number: 768, title: '11-cmdline.md: remove keypoint referring to stdout', updated: '2019-12-03',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/768'}
+  - {number: 760, title: Clarification of 1.0 v 1., updated: '2019-12-03', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/760'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -679,6 +687,8 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/343'}
   - {number: 456, title: 'Episode 4 and 5: Function Error', updated: '2019-11-12',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/456'}
+  - {number: 461, title: Phrasing suggestion for 01-starting-with-data.Rmd, updated: '2019-12-02',
+    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/461'}
   pulls:
   - {number: 437, title: 'Update styles to gh-pages:6d015fe', updated: '2019-08-20',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/437'}
@@ -1015,4 +1025,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-12-02T14:57:34Z'
+timestamp: '2019-12-03T14:57:28Z'

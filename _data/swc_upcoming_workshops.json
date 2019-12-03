@@ -1,50 +1,5 @@
 [
   {
-    "instructors": "Timothy Norris,Cameron Riopelle",
-    "end_date": "2019-12-03",
-    "url": "https://criopelle.github.io/2019-12-02_RSMAS/",
-    "country": "US",
-    "curriculum": "swc-r",
-    "venue": "University of Miami RSMAS",
-    "longitude": -80.162508,
-    "slug": "2019-12-02-RSMAS",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Miami",
-    "latitude": 25.732647,
-    "start_date": "2019-12-02"
-  },
-  {
-    "instructors": "Silvia Di Giorgio,Sarah Peter,Konrad Förstner,Till Sauerwein",
-    "end_date": "2019-12-03",
-    "url": "https://zbmed.github.io/2019-12-02-Software-Carpentry-Cologne/",
-    "country": "DE",
-    "curriculum": "swc-python",
-    "venue": "ZB MED",
-    "longitude": 6.91646,
-    "slug": "2019-12-02-Software-Carpentry-Cologne",
-    "tag_name": "SWC",
-    "helpers": "eva Seidlmayer,Klaus Lippert",
-    "host_name": "ZB Med Information Centre for Life Sciences",
-    "latitude": 50.92465,
-    "start_date": "2019-12-02"
-  },
-  {
-    "instructors": "Like Fokkens,Marc Galland",
-    "end_date": "2019-12-03",
-    "url": "https://scienceparkstudygroup.github.io/2019-12-03-SWC-Amsterdam/",
-    "country": "NL",
-    "curriculum": "swc-python",
-    "venue": "University  of Amsterdam",
-    "longitude": 4.91259,
-    "slug": "2019-12-03-SWC-Amsterdam",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Amsterdam",
-    "latitude": 52.36321,
-    "start_date": "2019-12-02"
-  },
-  {
     "instructors": "Richard Miller,James Tocknell,Nishen Naidoo,Grant Sayer",
     "end_date": "2019-12-04",
     "url": "https://mq-software-carpentry.github.io/2019-12-03-intro-to-python/",
@@ -135,6 +90,21 @@
     "start_date": "2019-12-12"
   },
   {
+    "instructors": "Claire Curry,Katy Felkner,Mark Laufersweiler,Amanda Schilling",
+    "end_date": "2019-12-19",
+    "url": "https://oulib-swc.github.io/2019-12-18-ou-swc/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of Oklahoma",
+    "longitude": -97.445845,
+    "slug": "2019-12-18-ou-swc",
+    "tag_name": "SWC",
+    "helpers": "Theo Acker,Hyacinthe Aboudja,Mahbobeh Lesani,Dawn Nekorchuk",
+    "host_name": "University of Oklahoma",
+    "latitude": 35.207982,
+    "start_date": "2019-12-18"
+  },
+  {
     "instructors": "Christine Wells",
     "end_date": "2020-01-16",
     "url": "https://ucla-data-archive.github.io/2020-01-15-ucla/",
@@ -163,6 +133,21 @@
     "host_name": "Rutgers University",
     "latitude": 40.741173,
     "start_date": "2020-01-16"
+  },
+  {
+    "instructors": "Mark Matney,Geno Sanchez",
+    "end_date": "2020-01-23",
+    "url": "https://ucla-data-archive.github.io/2020-01-22-ucla/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "UCLA",
+    "longitude": -118.4411,
+    "slug": "2020-01-22-ucla",
+    "tag_name": "SWC",
+    "helpers": "Tim Dennis",
+    "host_name": "University of California Los Angeles",
+    "latitude": 34.0751,
+    "start_date": "2020-01-22"
   },
   {
     "instructors": "Anthony Valente,Daniel McCloy",
