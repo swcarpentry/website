@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Richard Miller,James Tocknell,Nishen Naidoo,Grant Sayer",
-    "end_date": "2019-12-04",
-    "url": "https://mq-software-carpentry.github.io/2019-12-03-intro-to-python/",
-    "country": "AU",
-    "curriculum": "swc-python",
-    "venue": "Macquarie University",
-    "longitude": 151.114766,
-    "slug": "2019-12-03-intro-to-python",
-    "tag_name": "SWC",
-    "helpers": "Rhiannon Rasins",
-    "host_name": "Macquarie University",
-    "latitude": -33.774056,
-    "start_date": "2019-12-03"
-  },
-  {
     "instructors": "Jason Wallace",
     "end_date": "2019-12-05",
     "url": "https://uga-carpentries.github.io/2019-12-04-uga/",
