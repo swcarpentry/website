@@ -297,8 +297,6 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/pull/697'}
   - {number: 706, title: Reword section describing git init, updated: '2019-12-04',
     url: 'https://github.com/swcarpentry/git-novice/pull/706'}
-  - {number: 705, title: Update objectives to include learning about the .git folder,
-    updated: '2019-12-04', url: 'https://github.com/swcarpentry/git-novice/pull/705'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -567,6 +565,8 @@ records:
   - {number: 761, title: 'Why should we be suspicious?', updated: '2019-11-25', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/761'}
   - {number: 765, title: '09-defensive.md: Incorrect Error blocks for some assert
       statements', updated: '2019-12-02', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/765'}
+  - {number: 769, title: Move "mystery functions in IPython" box to earlier in lesson,
+    updated: '2019-12-04', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/769'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -800,7 +800,6 @@ records:
     updated: '2019-10-02', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/565'}
   - {number: 581, title: Unclear diagrams, updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/581'}
   - {number: 576, title: Not all solution present, updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/576'}
-  - {number: 575, title: 'Missing solution?', updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/575'}
   - {number: 572, title: File missing in lesson 4 of R for reproducible scientific
       analyses, updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/572'}
   - {number: 586, title: Add explanatory text to challenge answers in ggplot lesson
@@ -825,10 +824,8 @@ records:
     updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/573'}
   - {number: 589, title: 'Spell check and apply consistent code style (close #548) ',
     updated: '2019-11-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
-  - {number: 595, title: Update 08-plot-ggplot2.Rmd, updated: '2019-11-27', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/595'}
-  - {number: 597, title: Update 03-seeking-help.Rmd, updated: '2019-11-28', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/597'}
-  - {number: 596, title: Explicit mention of as.character for chapter 5 challenge
-      1, updated: '2019-11-28', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/596'}
+  - {number: 595, title: Update 08-plot-ggplot2.Rmd, updated: '2019-12-04', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/595'}
+  - {number: 597, title: Update 03-seeking-help.Rmd, updated: '2019-12-05', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/597'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1004,6 +1001,8 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1203'}
   - {number: 1569, title: Bump pillow from 5.3.0 to 6.2.0, updated: '2019-11-06',
     url: 'https://github.com/carpentries/amy/pull/1569'}
+  - {number: 1576, title: Bump django from 2.2.5 to 2.2.8, updated: '2019-12-04',
+    url: 'https://github.com/carpentries/amy/pull/1576'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1015,4 +1014,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-12-04T14:57:35Z'
+timestamp: '2019-12-05T14:58:10Z'
