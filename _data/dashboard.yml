@@ -178,7 +178,9 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/491'}
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
-  - {number: 992, title: Made changes and added General Syntax episode., updated: '2019-08-04',
+  - {number: 1070, title: Fix formatting of keyboard key combinations, updated: '2019-12-06',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/1070'}
+  - {number: 992, title: Made changes and added General Syntax episode., updated: '2019-12-06',
     url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
@@ -293,10 +295,10 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/pull/668'}
   - {number: 698, title: Exemplify more Carpentries-relevant code style tools, updated: '2019-11-29',
     url: 'https://github.com/swcarpentry/git-novice/pull/698'}
-  - {number: 697, title: '07-github.com: introduce branches, improve wording', updated: '2019-11-29',
-    url: 'https://github.com/swcarpentry/git-novice/pull/697'}
   - {number: 706, title: Reword section describing git init, updated: '2019-12-04',
     url: 'https://github.com/swcarpentry/git-novice/pull/706'}
+  - {number: 697, title: '07-github.com: introduce branches, improve wording', updated: '2019-12-05',
+    url: 'https://github.com/swcarpentry/git-novice/pull/697'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -825,7 +827,6 @@ records:
   - {number: 589, title: 'Spell check and apply consistent code style (close #548) ',
     updated: '2019-11-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
   - {number: 595, title: Update 08-plot-ggplot2.Rmd, updated: '2019-12-04', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/595'}
-  - {number: 597, title: Update 03-seeking-help.Rmd, updated: '2019-12-05', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/597'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1001,7 +1002,7 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1203'}
   - {number: 1569, title: Bump pillow from 5.3.0 to 6.2.0, updated: '2019-11-06',
     url: 'https://github.com/carpentries/amy/pull/1569'}
-  - {number: 1576, title: Bump django from 2.2.5 to 2.2.8, updated: '2019-12-04',
+  - {number: 1576, title: Bump django from 2.2.5 to 2.2.8, updated: '2019-12-06',
     url: 'https://github.com/carpentries/amy/pull/1576'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
@@ -1014,4 +1015,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-12-05T14:58:10Z'
+timestamp: '2019-12-06T14:58:32Z'

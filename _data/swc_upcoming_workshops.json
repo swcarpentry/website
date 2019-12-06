@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Jason Bell",
-    "end_date": "2019-12-06",
-    "url": "https://qcif-training.github.io/2019-12-05-CQUni-Python/",
-    "country": "AU",
-    "curriculum": "swc-python",
-    "venue": "CQUniversity Australia",
-    "longitude": 150.51893,
-    "slug": "2019-12-05-CQUni-Python",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "self-organized",
-    "latitude": -23.326813,
-    "start_date": "2019-12-05"
-  },
-  {
-    "instructors": "Christian Darabos,Lora Leligdon,Stephen Gaughan",
-    "end_date": "2019-12-06",
-    "url": "https://nesclic.github.io/2019-12-05-dartmouth/",
-    "country": "US",
-    "curriculum": "swc-plotting",
-    "venue": "Dartmouth College",
-    "longitude": -1,
-    "slug": "2019-12-05-dartmouth",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Dartmouth College",
-    "latitude": 45,
-    "start_date": "2019-12-05"
-  },
-  {
     "instructors": "Bret Alexander Beheim",
     "end_date": "2019-12-11",
     "url": "https://hbec-mpi-eva.github.io/2019-12-09-leipzig/",
@@ -238,6 +208,21 @@
     "host_name": "Rice University",
     "latitude": 29.717394,
     "start_date": "2020-02-13"
+  },
+  {
+    "instructors": "Jarno Rantaharju,João da Silva,Richard Darst",
+    "end_date": "2020-03-20",
+    "url": "https://rantahar.github.io/2020-03-19-Helsinki/",
+    "country": "FI",
+    "curriculum": "swc-python",
+    "venue": "Kumpula Campus",
+    "longitude": 24.96475,
+    "slug": "2020-03-19-Helsinki",
+    "tag_name": "SWC",
+    "helpers": "Kerstin Lenk",
+    "host_name": "University of Helsinki",
+    "latitude": 60.20911,
+    "start_date": "2020-03-19"
   },
   {
     "instructors": null,
