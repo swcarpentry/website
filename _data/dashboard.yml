@@ -182,6 +182,10 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/1070'}
   - {number: 992, title: Made changes and added General Syntax episode., updated: '2019-12-06',
     url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
+  - {number: 1072, title: Added image of shell command anatomy., updated: '2019-12-07',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/1072'}
+  - {number: 1071, title: small change to specify that the "molecules" directory is
+      in the main data-shell directory, updated: '2019-12-07', url: 'https://github.com/swcarpentry/shell-novice/pull/1071'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -1015,4 +1019,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-12-07T14:59:29Z'
+timestamp: '2019-12-08T14:59:20Z'
