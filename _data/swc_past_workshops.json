@@ -30,7 +30,7 @@
     "start_date": "2019-12-05"
   },
   {
-    "instructors": "Jason Wallace",
+    "instructors": "Jason Wallace,Michael Francis,Tito Peña Montenegro,Saber Soleymani",
     "end_date": "2019-12-05",
     "url": "https://uga-carpentries.github.io/2019-12-04-uga/",
     "country": "US",
@@ -39,7 +39,7 @@
     "longitude": -83.36203,
     "slug": "2019-12-04-uga",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Amanda Hulse-Kemp,Shannon Quinn,Dung Tran,Hallie Wright,Davis Gimode,Lynsey Kovar",
     "host_name": "University of Georgia",
     "latitude": 33.931532,
     "start_date": "2019-12-04"

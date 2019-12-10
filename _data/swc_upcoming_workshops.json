@@ -30,6 +30,21 @@
     "start_date": "2019-12-12"
   },
   {
+    "instructors": "Inigo Aldazabal Mensa,Tineke Van den Berg,Sonia Olaechea Lázaro,Ainhoa Oliden Sanchez",
+    "end_date": "2020-01-16",
+    "url": "http://iamc.eu/2019-12-16-cfm/",
+    "country": "ES",
+    "curriculum": "swc-python",
+    "venue": "Centro de Física de Materiales (CSIC-UPV/EHU)",
+    "longitude": -2.009502,
+    "slug": "2019-12-16-cfm",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "CENTRO DE FÍSICA DE MATERIALES",
+    "latitude": 43.305667,
+    "start_date": "2019-12-16"
+  },
+  {
     "instructors": null,
     "end_date": "2019-12-17",
     "url": "https://punama.github.io/2019-12-16-london-kcl/",
@@ -73,6 +88,21 @@
     "host_name": "University of Oklahoma",
     "latitude": 35.207982,
     "start_date": "2019-12-18"
+  },
+  {
+    "instructors": "Zena Lapp,Stephanie Thiede,Kelly Sovacool",
+    "end_date": "2020-01-07",
+    "url": "https://umswc.github.io/2020-01-06-UMich-WISE/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "University of Michigan",
+    "longitude": -83.73348,
+    "slug": "2020-01-06-UMich-WISE",
+    "tag_name": "SWC",
+    "helpers": "Emily Benedict,Sarah Tomkovich",
+    "host_name": "University of Michigan",
+    "latitude": 42.28023,
+    "start_date": "2020-01-06"
   },
   {
     "instructors": null,
