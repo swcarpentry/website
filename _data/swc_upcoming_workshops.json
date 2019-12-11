@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Bret Alexander Beheim",
-    "end_date": "2019-12-11",
-    "url": "https://hbec-mpi-eva.github.io/2019-12-09-leipzig/",
-    "country": "DE",
-    "curriculum": "swc-r",
-    "venue": "Max Planck Institute for Evolutionary Anthropology",
-    "longitude": 12.3950214,
-    "slug": "2019-12-09-leipzig",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Max Planck Institute for Evolutionary Anthropology",
-    "latitude": 51.3211759,
-    "start_date": "2019-12-09"
-  },
-  {
     "instructors": "William Close,Lisa Abernathy-Close,Samuel Hansen",
     "end_date": "2019-12-13",
     "url": "https://umswc.github.io/2019-12-12-umich/",
@@ -39,7 +24,7 @@
     "longitude": -2.009502,
     "slug": "2019-12-16-cfm",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Unai Aseguinolaza,Xiang Xu,Abel Carreras,Meritxell Garcia Perea,Mikel Iraola,Alvaro Nodar",
     "host_name": "CENTRO DE FÍSICA DE MATERIALES",
     "latitude": 43.305667,
     "start_date": "2019-12-16"
@@ -120,6 +105,36 @@
     "start_date": "2020-01-08"
   },
   {
+    "instructors": "Kendra Maas,Pariksheet Nanda,Timothy Moore,Jeremy Teitelbaum",
+    "end_date": "2020-01-14",
+    "url": "https://carpentries-uconn.github.io/2020-01-13-uconn",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Connecticut",
+    "longitude": -72.2,
+    "slug": "2020-01-13-uconn",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Connecticut",
+    "latitude": 41.8,
+    "start_date": "2020-01-13"
+  },
+  {
+    "instructors": "Tami Albin,Elizabeth Everman",
+    "end_date": "2020-01-16",
+    "url": "https://kulibraries.github.io/2020-01-15-ku/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "University of Kansas",
+    "longitude": -95.25463,
+    "slug": "2020-01-15-ku",
+    "tag_name": "SWC",
+    "helpers": "Jamene Brooks-Kieffer,Samantha Thomas,Casey Russell,Matthew Deakyne",
+    "host_name": "University of Kansas",
+    "latitude": 38.95703,
+    "start_date": "2020-01-15"
+  },
+  {
     "instructors": "Christine Wells",
     "end_date": "2020-01-16",
     "url": "https://ucla-data-archive.github.io/2020-01-15-ucla/",
@@ -150,6 +165,21 @@
     "start_date": "2020-01-16"
   },
   {
+    "instructors": "Emilie Geissinger,Asher Hudson",
+    "end_date": "2020-01-17",
+    "url": "https://aihudson.github.io/2020-01-16-ucmerced/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "UC Merced",
+    "longitude": -120.4257,
+    "slug": "2020-01-16-ucmerced",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California Merced",
+    "latitude": 37.363087,
+    "start_date": "2020-01-16"
+  },
+  {
     "instructors": null,
     "end_date": "2020-01-22",
     "url": "https://tgac.github.io/2020-01-21-earlham/",
@@ -162,6 +192,21 @@
     "helpers": null,
     "host_name": "Earlham Institute",
     "latitude": 52.621887,
+    "start_date": "2020-01-21"
+  },
+  {
+    "instructors": "Ariel Rokem,Meg Drouhard",
+    "end_date": "2020-01-24",
+    "url": "https://uwescience.github.io/2020-01-21-uw/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "The University of Washington eScience Institute",
+    "longitude": -122.3140595,
+    "slug": "2020-01-21-uw",
+    "tag_name": "SWC",
+    "helpers": "Ariel Rokem,Meg Drouhard,Eleanor Lutz",
+    "host_name": "University of Washington",
+    "latitude": 47.6533827,
     "start_date": "2020-01-21"
   },
   {
@@ -210,7 +255,7 @@
     "start_date": "2020-01-30"
   },
   {
-    "instructors": null,
+    "instructors": "Mark Phillips,Kristy Phillips,Manuel (Gio) Gottardi,Maristella Feustle",
     "end_date": "2020-02-05",
     "url": "https://unt-carpentries.github.io/2020-02-04-unt-swc/",
     "country": "US",
@@ -219,7 +264,7 @@
     "longitude": -97.148954,
     "slug": "2020-02-04-unt-swc",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Lauren Ko,Madhulika Bayyavarapu",
     "host_name": "University of North Texas",
     "latitude": 33.210068,
     "start_date": "2020-02-04"
