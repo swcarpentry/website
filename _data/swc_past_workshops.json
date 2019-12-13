@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "William Close,Lisa Abernathy-Close,Samuel Hansen",
+    "end_date": "2019-12-13",
+    "url": "https://umswc.github.io/2019-12-12-umich/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Michigan",
+    "longitude": -83.73366,
+    "slug": "2019-12-12-umich",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Michigan",
+    "latitude": 42.28316,
+    "start_date": "2019-12-12"
+  },
+  {
     "instructors": "Bret Alexander Beheim",
     "end_date": "2019-12-11",
     "url": "https://hbec-mpi-eva.github.io/2019-12-09-leipzig/",
@@ -285,7 +300,7 @@
     "start_date": "2019-11-21"
   },
   {
-    "instructors": "Amanda Miotto",
+    "instructors": "Amanda Miotto,Kim Keogh,Brett Parker,Ashley Vidulich",
     "end_date": "2019-11-22",
     "url": "https://bio-swc-bne.github.io/2019-11-20-GriffithUni-Python/",
     "country": "AU",
@@ -294,7 +309,7 @@
     "longitude": 153.052425,
     "slug": "2019-11-20-Griffith",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Masami Yamaguchi",
     "host_name": "Griffith University",
     "latitude": -27.552941,
     "start_date": "2019-11-20"

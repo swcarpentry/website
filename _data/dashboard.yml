@@ -169,6 +169,8 @@ records:
   - {number: 927, title: POSIX compliance, updated: '2019-12-11', url: 'https://github.com/swcarpentry/shell-novice/issues/927'}
   - {number: 1009, title: Standardize use of quotation marks in lesson, updated: '2019-12-12',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1009'}
+  - {number: 1075, title: Episode 2 include full path for ls data-shell, updated: '2019-12-13',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/1075'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -297,10 +299,10 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/pull/668'}
   - {number: 698, title: Exemplify more Carpentries-relevant code style tools, updated: '2019-11-29',
     url: 'https://github.com/swcarpentry/git-novice/pull/698'}
-  - {number: 697, title: '07-github.com: introduce branches, improve wording', updated: '2019-12-11',
-    url: 'https://github.com/swcarpentry/git-novice/pull/697'}
   - {number: 710, title: Clarifying defining the .gitignore file in Ep.6 Ignoring
       things, updated: '2019-12-12', url: 'https://github.com/swcarpentry/git-novice/pull/710'}
+  - {number: 697, title: '07-github.com: introduce branches, improve wording', updated: '2019-12-12',
+    url: 'https://github.com/swcarpentry/git-novice/pull/697'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -977,8 +979,6 @@ records:
       displayed in an user-friendly manner, updated: '2019-11-07', url: 'https://github.com/carpentries/amy/issues/1573'}
   - {number: 1570, title: Workshop Request Form - Membership Affiliation, updated: '2019-11-07',
     url: 'https://github.com/carpentries/amy/issues/1570'}
-  - {number: 1568, title: Update Contact Field in AMY Events, updated: '2019-11-07',
-    url: 'https://github.com/carpentries/amy/issues/1568'}
   - {number: 1565, title: 'Feature request: Bulk add Instructor training progress',
     updated: '2019-11-07', url: 'https://github.com/carpentries/amy/issues/1565'}
   - {number: 1564, title: Feature Request- Add task = add person, updated: '2019-11-07',
@@ -1006,6 +1006,8 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1587'}
   - {number: 1586, title: Error while running `make dev_database`, updated: '2019-12-12',
     url: 'https://github.com/carpentries/amy/issues/1586'}
+  - {number: 1568, title: Update Contact Field in AMY Events, updated: '2019-12-12',
+    url: 'https://github.com/carpentries/amy/issues/1568'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1020,6 +1022,8 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1585'}
   - {number: 1588, title: Adds text to note email & GH id can't be edited by user,
     updated: '2019-12-12', url: 'https://github.com/carpentries/amy/pull/1588'}
+  - {number: 1589, title: 'AMY dashboard: Demo Session Etherpad Link', updated: '2019-12-13',
+    url: 'https://github.com/carpentries/amy/pull/1589'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1031,4 +1035,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-12-12T15:01:04Z'
+timestamp: '2019-12-13T15:02:02Z'

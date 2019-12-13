@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "William Close,Lisa Abernathy-Close,Samuel Hansen",
-    "end_date": "2019-12-13",
-    "url": "https://umswc.github.io/2019-12-12-umich/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "University of Michigan",
-    "longitude": -83.73366,
-    "slug": "2019-12-12-umich",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Michigan",
-    "latitude": 42.28316,
-    "start_date": "2019-12-12"
-  },
-  {
     "instructors": "Inigo Aldazabal Mensa,Tineke Van den Berg,Sonia Olaechea Lázaro,Ainhoa Oliden Sanchez",
     "end_date": "2020-01-16",
     "url": "http://iamc.eu/2019-12-16-cfm/",
