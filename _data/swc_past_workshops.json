@@ -1,5 +1,35 @@
 [
   {
+    "instructors": null,
+    "end_date": "2019-12-17",
+    "url": "https://punama.github.io/2019-12-16-london-kcl/",
+    "country": "GB",
+    "curriculum": "swc-r",
+    "venue": "Kings College London",
+    "longitude": -0.11896,
+    "slug": "2019-12-16-london-kcl",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "King's College London",
+    "latitude": 51.51159,
+    "start_date": "2019-12-16"
+  },
+  {
+    "instructors": null,
+    "end_date": "2019-12-17",
+    "url": "https://southampton-rsg.github.io/2019-12-16-southampton-swc/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "B32/3077, Highfield Campus",
+    "longitude": null,
+    "slug": "2019-12-16-southampton-swc",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Southampton",
+    "latitude": null,
+    "start_date": "2019-12-16"
+  },
+  {
     "instructors": "William Close,Lisa Abernathy-Close,Samuel Hansen",
     "end_date": "2019-12-13",
     "url": "https://umswc.github.io/2019-12-12-umich/",
@@ -13,6 +43,21 @@
     "host_name": "University of Michigan",
     "latitude": 42.28316,
     "start_date": "2019-12-12"
+  },
+  {
+    "instructors": null,
+    "end_date": "2019-12-12",
+    "url": "https://gboushey.github.io/2019-12-09-UCSF-R/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of California, San Francisco",
+    "longitude": -122.3906,
+    "slug": "2019-12-09-UCSF-R",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California San Francisco",
+    "latitude": 37.7675,
+    "start_date": "2019-12-09"
   },
   {
     "instructors": "Bret Alexander Beheim",
@@ -45,7 +90,7 @@
     "start_date": "2019-12-05"
   },
   {
-    "instructors": "Christian Darabos,Lora Leligdon,Stephen Gaughan",
+    "instructors": "Christian Darabos,Lora Leligdon,Stephen Gaughan,Arnold Song",
     "end_date": "2019-12-06",
     "url": "https://nesclic.github.io/2019-12-05-dartmouth/",
     "country": "US",
@@ -1389,7 +1434,7 @@
     "longitude": -97.113086,
     "slug": "2019-09-07-UTA",
     "tag_name": "SWC",
-    "helpers": "Mohammed Adnan Qureshi,Isaac Williams,Peace Ossom Williamson,hammad Khan,Fatema Begum Ruma",
+    "helpers": "Mohammed Adnan Qureshi,Isaac Williams,Peace Ossom Williamson,Hammad Khan,Fatema Begum Ruma",
     "host_name": "University of Texas Arlington",
     "latitude": 32.729769,
     "start_date": "2019-09-07"
@@ -7740,7 +7785,7 @@
     "start_date": "2018-04-05"
   },
   {
-    "instructors": "David McGaughey,Abhijit Dasgupta,Doug Joubert",
+    "instructors": "David McGaughey,Abhijit Dasgupta,Douglas Joubert",
     "end_date": "2018-04-05",
     "url": "https://webbedfeet.github.io/2018-04-04-NIH/",
     "country": "US",
