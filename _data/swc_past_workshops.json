@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Mark Laufersweiler,Claire Curry,Katy Felkner,Amanda Schilling",
+    "end_date": "2019-12-19",
+    "url": "https://oulib-swc.github.io/2019-12-18-ou-swc/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of Oklahoma",
+    "longitude": -97.445845,
+    "slug": "2019-12-18-ou-swc",
+    "tag_name": "SWC",
+    "helpers": "Dawn Nekorchuk,Theo Acker,Mahbobeh Lesani,Hyacinthe Aboudja",
+    "host_name": "University of Oklahoma",
+    "latitude": 35.207982,
+    "start_date": "2019-12-18"
+  },
+  {
     "instructors": null,
     "end_date": "2019-12-17",
     "url": "https://punama.github.io/2019-12-16-london-kcl/",

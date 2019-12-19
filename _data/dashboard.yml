@@ -146,8 +146,6 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1001'}
   - {number: 810, title: Ep4 `sort -n` has different behaviour on Mac and git bash
       vs linux, updated: '2019-08-26', url: 'https://github.com/swcarpentry/shell-novice/issues/810'}
-  - {number: 1024, title: further developing Windows shell setup instructor guidance,
-    updated: '2019-09-10', url: 'https://github.com/swcarpentry/shell-novice/issues/1024'}
   - {number: 1032, title: Move "moving to the current folder" exercise in 03, updated: '2019-09-17',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1032'}
   - {number: 1022, title: Setup is in the wrong order, updated: '2019-09-17', url: 'https://github.com/swcarpentry/shell-novice/issues/1022'}
@@ -164,6 +162,8 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1056'}
   - {number: 996, title: Recursive option different between commands, updated: '2019-12-16',
     url: 'https://github.com/swcarpentry/shell-novice/issues/996'}
+  - {number: 1024, title: further developing Windows shell setup instructor guidance,
+    updated: '2019-12-19', url: 'https://github.com/swcarpentry/shell-novice/issues/1024'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -624,7 +624,7 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/697'}
   - {number: 657, title: '01-numpy.md: Loading data: update introductory text', updated: '2019-12-13',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/657'}
-  - {number: 771, title: Split 02-numpy.md, updated: '2019-12-17', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/771'}
+  - {number: 771, title: Split 02-numpy.md, updated: '2019-12-18', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/771'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -695,6 +695,7 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/460'}
   - {number: 459, title: adding a link to rOpenSci guidelines to episode 8, updated: '2019-11-29',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/459'}
+  - {number: 464, title: Update 04-cond.Rmd, updated: '2019-12-19', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/464'}
   url: https://github.com/swcarpentry/r-novice-inflammation
 - description: R (Gapminder Data - Español)
   ident: swcarpentry/r-novice-gapminder
@@ -1028,4 +1029,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-12-18T15:04:18Z'
+timestamp: '2019-12-19T15:04:49Z'
