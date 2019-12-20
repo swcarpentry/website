@@ -163,7 +163,7 @@ records:
   - {number: 996, title: Recursive option different between commands, updated: '2019-12-16',
     url: 'https://github.com/swcarpentry/shell-novice/issues/996'}
   - {number: 1024, title: further developing Windows shell setup instructor guidance,
-    updated: '2019-12-19', url: 'https://github.com/swcarpentry/shell-novice/issues/1024'}
+    updated: '2019-12-20', url: 'https://github.com/swcarpentry/shell-novice/issues/1024'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -624,7 +624,9 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/697'}
   - {number: 657, title: '01-numpy.md: Loading data: update introductory text', updated: '2019-12-13',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/657'}
-  - {number: 771, title: Split 02-numpy.md, updated: '2019-12-18', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/771'}
+  - {number: 772, title: Clarification on using group plots in jupyter notebook, updated: '2019-12-20',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/772'}
+  - {number: 771, title: Split 02-numpy.md, updated: '2019-12-20', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/771'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1029,4 +1031,4 @@ records:
   - {number: 1089, title: file added, updated: '2019-10-17', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-12-19T15:04:49Z'
+timestamp: '2019-12-20T15:05:45Z'
