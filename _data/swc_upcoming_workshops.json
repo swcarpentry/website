@@ -30,6 +30,21 @@
     "start_date": "2020-01-06"
   },
   {
+    "instructors": "Mark Laufersweiler,Claire Curry,Katy Felkner",
+    "end_date": "2020-01-08",
+    "url": "https://oulib-swc.github.io/2020-01-07-ou-swc/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "University of Oklahoma",
+    "longitude": -97.445845,
+    "slug": "2020-01-07-ou-swc",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Oklahoma",
+    "latitude": 35.207982,
+    "start_date": "2020-01-07"
+  },
+  {
     "instructors": null,
     "end_date": "2020-01-09",
     "url": "https://sa2c.github.io/2020-01-08-swansea",
@@ -180,6 +195,21 @@
     "start_date": "2020-01-16"
   },
   {
+    "instructors": "Mike Renfro",
+    "end_date": "2020-01-17",
+    "url": "https://www.hpc.tntech.edu/workshop-2020-01-16/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Tennessee Tech University",
+    "longitude": -85.5080787,
+    "slug": "2020-01-16-tntech",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Tennessee Tech University",
+    "latitude": 36.17537,
+    "start_date": "2020-01-16"
+  },
+  {
     "instructors": "Emilie Geissinger,Asher Hudson",
     "end_date": "2020-01-17",
     "url": "https://aihudson.github.io/2020-01-16-ucmerced/",
@@ -193,6 +223,21 @@
     "host_name": "University of California Merced",
     "latitude": 37.363087,
     "start_date": "2020-01-16"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-01-19",
+    "url": "https://ucla-hacky-hours.gitlab.io/2020-01-18-SWC/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "UCLA",
+    "longitude": -118.441609,
+    "slug": "2020-01-18-SWC",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California Los Angeles",
+    "latitude": 34.066471,
+    "start_date": "2020-01-18"
   },
   {
     "instructors": null,
