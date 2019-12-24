@@ -691,15 +691,10 @@ records:
   - {number: 437, title: 'Update styles to gh-pages:6d015fe', updated: '2019-08-20',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/437'}
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
-  - {number: 421, title: 'Upgrade 06-best-practices with more references or even practices?',
-    updated: '2019-10-29', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/421'}
-  - {number: 458, title: Updated lesson 2 exercise to include all solutions, updated: '2019-11-05',
-    url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/458'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/460'}
-  - {number: 459, title: adding a link to rOpenSci guidelines to episode 8, updated: '2019-11-29',
-    url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/459'}
-  - {number: 464, title: Update 04-cond.Rmd, updated: '2019-12-19', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/464'}
+  - {number: 421, title: 'Upgrade 06-best-practices with more references or even practices?',
+    updated: '2019-12-24', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/421'}
   url: https://github.com/swcarpentry/r-novice-inflammation
 - description: R (Gapminder Data - Español)
   ident: swcarpentry/r-novice-gapminder
@@ -1022,6 +1017,7 @@ records:
     updated: '2019-12-12', url: 'https://github.com/carpentries/amy/pull/1588'}
   - {number: 1590, title: 'Readme instructions to createcachetable ', updated: '2019-12-17',
     url: 'https://github.com/carpentries/amy/pull/1590'}
+  - {number: 1592, title: Update to Django v2.2.9, updated: '2019-12-24', url: 'https://github.com/carpentries/amy/pull/1592'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1033,4 +1029,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-12-23T15:07:16Z'
+timestamp: '2019-12-24T15:08:08Z'
