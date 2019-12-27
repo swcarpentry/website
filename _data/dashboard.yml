@@ -256,6 +256,8 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/701'}
   - {number: 711, title: 'Lesson 2: More information about vim (insert mode)', updated: '2019-12-17',
     url: 'https://github.com/swcarpentry/git-novice/issues/711'}
+  - {number: 712, title: Episode 12 - More general information on citation format,
+    updated: '2019-12-26', url: 'https://github.com/swcarpentry/git-novice/issues/712'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -1029,4 +1031,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-12-26T15:09:47Z'
+timestamp: '2019-12-27T15:10:04Z'
