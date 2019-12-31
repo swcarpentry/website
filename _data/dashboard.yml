@@ -953,7 +953,6 @@ records:
   - {number: 1512, title: Use DataTables in all tabular data views, updated: '2019-09-15',
     url: 'https://github.com/carpentries/amy/issues/1512'}
   - {number: 1484, title: Track changed metadata, updated: '2019-09-15', url: 'https://github.com/carpentries/amy/issues/1484'}
-  - {number: 1450, title: allow multiple email addresses, updated: '2019-09-15', url: 'https://github.com/carpentries/amy/issues/1450'}
   - {number: 1422, title: Add functionality to verify if learner has previously filled
       out Instructor Training Request Form, updated: '2019-09-15', url: 'https://github.com/carpentries/amy/issues/1422'}
   - {number: 1534, title: Remove deprecated features of AMY, updated: '2019-09-21',
@@ -984,12 +983,12 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1567'}
   - {number: 1568, title: Update Contact Field in AMY Events, updated: '2019-12-28',
     url: 'https://github.com/carpentries/amy/issues/1568'}
+  - {number: 1598, title: 'Database is locked: queries sent massively by Django-Compressor
+      (cache)', updated: '2019-12-30', url: 'https://github.com/carpentries/amy/issues/1598'}
   - {number: 1575, title: Additional Contacts in Submission, updated: '2019-12-30',
     url: 'https://github.com/carpentries/amy/issues/1575'}
   - {number: 1574, title: Move "Circuits" Tag up on the list, updated: '2019-12-30',
     url: 'https://github.com/carpentries/amy/issues/1574'}
-  - {number: 1526, title: Changing options for gender question, updated: '2019-12-30',
-    url: 'https://github.com/carpentries/amy/issues/1526'}
   - {number: 1509, title: Not recognizing trainees eligible for certification as Library
       Carpentry Instructors, updated: '2019-12-30', url: 'https://github.com/carpentries/amy/issues/1509'}
   pulls:
@@ -1017,4 +1016,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2019-12-30T15:11:44Z'
+timestamp: '2019-12-31T15:12:50Z'
