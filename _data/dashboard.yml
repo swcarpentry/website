@@ -631,7 +631,6 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/657'}
   - {number: 772, title: Clarification on using group plots in jupyter notebook, updated: '2019-12-20',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/772'}
-  - {number: 771, title: Split 02-numpy.md, updated: '2019-12-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/771'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -811,10 +810,10 @@ records:
       analyses, updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/572'}
   - {number: 582, title: Creating Publication-Quality Graphics with ggplot2 - Challenge
       5, updated: '2019-11-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/582'}
-  - {number: 594, title: Revise language around pivot_longer and pivot_wider, updated: '2019-11-25',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/594'}
   - {number: 592, title: gif to explain pipelines with Mario, updated: '2019-11-25',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/592'}
+  - {number: 594, title: Revise language around pivot_longer and pivot_wider, updated: '2020-01-02',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/594'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -1003,6 +1002,7 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1580'}
   - {number: 1596, title: 'Additional contact - styling, field widget bugs', updated: '2020-01-01',
     url: 'https://github.com/carpentries/amy/pull/1596'}
+  - {number: 1601, title: update code of conduct, updated: '2020-01-02', url: 'https://github.com/carpentries/amy/pull/1601'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1014,4 +1014,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-01-02T15:12:59Z'
+timestamp: '2020-01-03T15:13:48Z'
