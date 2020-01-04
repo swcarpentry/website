@@ -300,6 +300,7 @@ records:
       things, updated: '2019-12-12', url: 'https://github.com/swcarpentry/git-novice/pull/710'}
   - {number: 697, title: '07-github.com: introduce branches, improve wording', updated: '2019-12-13',
     url: 'https://github.com/swcarpentry/git-novice/pull/697'}
+  - {number: 713, title: Add files via upload, updated: '2020-01-04', url: 'https://github.com/swcarpentry/git-novice/pull/713'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -1014,4 +1015,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-01-03T15:13:48Z'
+timestamp: '2020-01-04T15:14:20Z'
