@@ -116,7 +116,7 @@ which is used to generate the site's pull-down navigation menu.
 
 <a name="workshop"></a>
 To **add a workshop**,
-fill in the [workshop request form](https://amy.software-carpentry.org/workshops/swc/request/) online.
+fill in the [workshop request form](https://amy.carpentries.org/workshops/swc/request/) online.
 You should fill in this form even for self-organized workshops in order to get your workshop into our database.
 
 Do *not* edit the YAML in `_data/amy.yml`:
@@ -132,7 +132,7 @@ each of which is rebuilt by `make`:
 *   `make amy` regenerates `_data/amy.yml`,
     which contains information about upcoming workshops, instructors' locations, and so on
     that is fetched from [our online workshop management tool](https://github.com/swcarpentry/amy/).
-    You must be logged in to [AMY](http://amy.software-carpentry.org) in order to run this.
+    You must be logged in to [AMY](http://amy.carpentries.org) in order to run this.
 
 *   `make dashboard` generates `_data/dashboard.yml`,
     which contains information about the state of our GitHub repositories.

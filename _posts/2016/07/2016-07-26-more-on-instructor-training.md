@@ -42,7 +42,7 @@ and will update this post as others arrive.
     previous teaching experience,
     ability to commit time to teaching and mentorship,
     and all of the other factors in
-    [the application form](https://amy.software-carpentry.org/workshops/request_training/).
+    [the application form](https://amy.carpentries.org/workshops/request_training/).
 
 **When will selections be made?**
 :   We will start notifying people in a few weeks
