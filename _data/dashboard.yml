@@ -175,7 +175,6 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/1072'}
   - {number: 491, title: 'Episode 7: Add grep -r exercise', updated: '2019-12-17',
     url: 'https://github.com/swcarpentry/shell-novice/pull/491'}
-  - {number: 1080, title: Edited wildcard exercise, updated: '2019-12-28', url: 'https://github.com/swcarpentry/shell-novice/pull/1080'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -1015,4 +1014,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-01-05T15:14:21Z'
+timestamp: '2020-01-06T15:14:51Z'
