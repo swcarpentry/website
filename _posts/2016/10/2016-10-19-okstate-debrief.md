@@ -109,7 +109,7 @@ do the normal 9am-4pm schedule for Day Two.
 self-organized workshops, I helped a team member who was going to be
 more active with the coordination duties get this workshop set
 up. Once he filled out the
-[SWC workshop request form](https://amy.software-carpentry.org/workshops/swc/request/),
+[SWC workshop request form](https://amy.carpentries.org/workshops/swc/request/),
 I helped him get an EventBrite registration page set up and recorded
 registrant information in a shared spreadsheet, while he worked on
 building the workshop webpage and Etherpad and communicated with

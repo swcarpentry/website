@@ -26,7 +26,7 @@ If you wish to apply to take part
 in one of the two open-enrollment classes we will offer this fall,
 please fill in the form at:
 
-<https://amy.software-carpentry.org/workshops/request_training/>
+<https://amy.carpentries.org/workshops/request_training/>
 
 to tell us about yourself,
 what excites you about teaching,
