@@ -297,11 +297,12 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/pull/698'}
   - {number: 697, title: '07-github.com: introduce branches, improve wording', updated: '2019-12-13',
     url: 'https://github.com/swcarpentry/git-novice/pull/697'}
-  - {number: 713, title: Add files via upload, updated: '2020-01-06', url: 'https://github.com/swcarpentry/git-novice/pull/713'}
   - {number: 710, title: Clarifying defining the .gitignore file in Ep.6 Ignoring
       things, updated: '2020-01-06', url: 'https://github.com/swcarpentry/git-novice/pull/710'}
   - {number: 714, title: Fix GitHub render of linked images and in-repo file sections,
     updated: '2020-01-07', url: 'https://github.com/swcarpentry/git-novice/pull/714'}
+  - {number: 715, title: Update the objectives in episode 1, updated: '2020-01-08',
+    url: 'https://github.com/swcarpentry/git-novice/pull/715'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -814,10 +815,12 @@ records:
       5, updated: '2019-11-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/582'}
   - {number: 592, title: gif to explain pipelines with Mario, updated: '2019-11-25',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/592'}
-  - {number: 598, title: 'minor suggestions [received by email]', updated: '2020-01-06',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/598'}
   - {number: 594, title: Revise language around pivot_longer and pivot_wider, updated: '2020-01-06',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/594'}
+  - {number: 600, title: Add information about opening projects in RStudio, updated: '2020-01-07',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/600'}
+  - {number: 599, title: Clarification in Intro to R/RStudio lesson, updated: '2020-01-07',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/599'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -832,6 +835,8 @@ records:
     updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/573'}
   - {number: 589, title: 'Spell check and apply consistent code style (close #548) ',
     updated: '2019-11-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
+  - {number: 601, title: 'WIP: revise pivot_*() language  (closes #594)', updated: '2020-01-08',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/601'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1012,4 +1017,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-01-07T15:15:22Z'
+timestamp: '2020-01-08T15:16:00Z'

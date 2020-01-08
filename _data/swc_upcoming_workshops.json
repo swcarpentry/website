@@ -15,21 +15,6 @@
     "start_date": "2019-12-16"
   },
   {
-    "instructors": "Mark Laufersweiler,Claire Curry,Katy Felkner",
-    "end_date": "2020-01-08",
-    "url": "https://oulib-swc.github.io/2020-01-07-ou-swc/",
-    "country": "US",
-    "curriculum": "swc-plotting",
-    "venue": "University of Oklahoma",
-    "longitude": -97.445845,
-    "slug": "2020-01-07-ou-swc",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Oklahoma",
-    "latitude": 35.207982,
-    "start_date": "2020-01-07"
-  },
-  {
     "instructors": null,
     "end_date": "2020-01-09",
     "url": "https://sa2c.github.io/2020-01-08-swansea",
