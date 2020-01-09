@@ -690,7 +690,7 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/462'}
   - {number: 463, title: File commadec.txt missing from r-novice-inflammation-data.zip,
     updated: '2019-12-16', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/463'}
-  - {number: 447, title: List this lesson on CRAN.R-project.org/other-docs.html, updated: '2020-01-06',
+  - {number: 447, title: List this lesson on CRAN.R-project.org/other-docs.html, updated: '2020-01-09',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/447'}
   pulls:
   - {number: 437, title: 'Update styles to gh-pages:6d015fe', updated: '2019-08-20',
@@ -815,8 +815,6 @@ records:
       5, updated: '2019-11-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/582'}
   - {number: 592, title: gif to explain pipelines with Mario, updated: '2019-11-25',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/592'}
-  - {number: 594, title: Revise language around pivot_longer and pivot_wider, updated: '2020-01-06',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/594'}
   - {number: 600, title: Add information about opening projects in RStudio, updated: '2020-01-07',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/600'}
   - {number: 599, title: Clarification in Intro to R/RStudio lesson, updated: '2020-01-07',
@@ -835,8 +833,6 @@ records:
     updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/573'}
   - {number: 589, title: 'Spell check and apply consistent code style (close #548) ',
     updated: '2019-11-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
-  - {number: 601, title: 'WIP: revise pivot_*() language  (closes #594)', updated: '2020-01-08',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/601'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1017,4 +1013,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-01-08T15:16:00Z'
+timestamp: '2020-01-09T15:15:59Z'

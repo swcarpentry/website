@@ -1,5 +1,20 @@
 [
   {
+    "instructors": null,
+    "end_date": "2020-01-09",
+    "url": "https://sa2c.github.io/2020-01-08-swansea",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "Bay Campus, Swansea University",
+    "longitude": -3.880897,
+    "slug": "2020-01-08-swansea",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Swansea University",
+    "latitude": 51.617903,
+    "start_date": "2020-01-08"
+  },
+  {
     "instructors": "Mark Laufersweiler,Claire Curry,Katy Felkner",
     "end_date": "2020-01-08",
     "url": "https://oulib-swc.github.io/2020-01-07-ou-swc/",
@@ -28,6 +43,21 @@
     "host_name": "University of Michigan",
     "latitude": 42.28023,
     "start_date": "2020-01-06"
+  },
+  {
+    "instructors": "Azalee Bostroem",
+    "end_date": "2020-01-04",
+    "url": "https://abostroem.github.io/2020-01-04-aas",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Hawai‘i Convention Center",
+    "longitude": -157.83582,
+    "slug": "2020-01-04-aas",
+    "tag_name": "SWC",
+    "helpers": "Rodolfo Montez",
+    "host_name": "University of California Davis",
+    "latitude": 21.28999,
+    "start_date": "2020-01-04"
   },
   {
     "instructors": "Mark Laufersweiler,Claire Curry,Katy Felkner,Amanda Schilling",

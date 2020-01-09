@@ -15,21 +15,6 @@
     "start_date": "2019-12-16"
   },
   {
-    "instructors": null,
-    "end_date": "2020-01-09",
-    "url": "https://sa2c.github.io/2020-01-08-swansea",
-    "country": "GB",
-    "curriculum": "swc-python",
-    "venue": "Bay Campus, Swansea University",
-    "longitude": -3.880897,
-    "slug": "2020-01-08-swansea",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Swansea University",
-    "latitude": 51.617903,
-    "start_date": "2020-01-08"
-  },
-  {
     "instructors": "Ye Li,Ece Turnator,Mike Fortunato,Madeline Wrable,Daniel Sheehan",
     "end_date": "2020-01-10",
     "url": "https://yelibrarian.github.io/2020-01-09-mit/",
@@ -298,6 +283,21 @@
     "host_name": "University of North Texas",
     "latitude": 33.210068,
     "start_date": "2020-02-04"
+  },
+  {
+    "instructors": "Michael Francis,Tito Peña Montenegro",
+    "end_date": "2020-02-07",
+    "url": "https://uga-carpentries.github.io/2020-02-07-uga/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "University of Georgia",
+    "longitude": -83.37608,
+    "slug": "2020-02-07-uga",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Georgia",
+    "latitude": 33.951663,
+    "start_date": "2020-02-07"
   },
   {
     "instructors": "Hamid Mokhtarzadeh,Cian Wilson",
