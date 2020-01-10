@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Ye Li,Ece Turnator,Mike Fortunato,Madeline Wrable,Daniel Sheehan",
+    "end_date": "2020-01-10",
+    "url": "https://yelibrarian.github.io/2020-01-09-mit/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "SWC @ Massachusetts Institute of Technology: Intro to UnixShell/Python/Git",
+    "longitude": -71.090542,
+    "slug": "2020-01-09-mit",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Massachusetts Institute of Technology",
+    "latitude": 42.359689,
+    "start_date": "2020-01-09"
+  },
+  {
     "instructors": null,
     "end_date": "2020-01-09",
     "url": "https://sa2c.github.io/2020-01-08-swansea",

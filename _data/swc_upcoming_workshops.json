@@ -15,21 +15,6 @@
     "start_date": "2019-12-16"
   },
   {
-    "instructors": "Ye Li,Ece Turnator,Mike Fortunato,Madeline Wrable,Daniel Sheehan",
-    "end_date": "2020-01-10",
-    "url": "https://yelibrarian.github.io/2020-01-09-mit/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "SWC @ Massachusetts Institute of Technology: Intro to UnixShell/Python/Git",
-    "longitude": -71.090542,
-    "slug": "2020-01-09-mit",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Massachusetts Institute of Technology",
-    "latitude": 42.359689,
-    "start_date": "2020-01-09"
-  },
-  {
     "instructors": "Kendra Maas,Pariksheet Nanda,Timothy Moore,Jeremy Teitelbaum",
     "end_date": "2020-01-14",
     "url": "https://carpentries-uconn.github.io/2020-01-13-uconn",
@@ -72,6 +57,21 @@
     "helpers": "Tim Dennis",
     "host_name": "University of California Los Angeles",
     "latitude": 34.069479,
+    "start_date": "2020-01-15"
+  },
+  {
+    "instructors": "Matti Juvonen,Chris MacMackin,Qingfeng Xia",
+    "end_date": "2020-01-30",
+    "url": "https://ukaea-rse-training.github.io/2020-01-15-ukaea-swcarpentry",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "UK Atomic Energy Authority",
+    "longitude": -1.23,
+    "slug": "2020-01-15-ukaea-swcarpentry",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "UK Atomic Energy Authority",
+    "latitude": 51.657,
     "start_date": "2020-01-15"
   },
   {
@@ -300,6 +300,21 @@
     "start_date": "2020-02-07"
   },
   {
+    "instructors": "Amanda Miotto",
+    "end_date": "2020-02-11",
+    "url": "https://gu-eresearch.github.io/2020-02-10-GriffithUni-R/",
+    "country": "AU",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Gold Coast Campus, G11_3.56",
+    "longitude": 153.378868,
+    "slug": "2020-02-10-GriffithUni-R",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.960345,
+    "start_date": "2020-02-10"
+  },
+  {
     "instructors": "Hamid Mokhtarzadeh,Cian Wilson",
     "end_date": "2020-02-14",
     "url": "https://cianwilson.github.io/2020-02-13-rice/",
@@ -330,6 +345,21 @@
     "start_date": "2020-03-19"
   },
   {
+    "instructors": "Amanda Miotto",
+    "end_date": "2020-03-25",
+    "url": "https://gu-eresearch.github.io/2020-03-23-GriffithUni-Python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Nathan Campus, N78_1.19",
+    "longitude": -27.552941,
+    "slug": "2020-03-23-GriffithUni-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.552941,
+    "start_date": "2020-03-23"
+  },
+  {
     "instructors": null,
     "end_date": "2020-05-21",
     "url": "https://sa2c.github.io/2020-05-20-swansea",
@@ -343,5 +373,50 @@
     "host_name": "Swansea University",
     "latitude": 51.609054,
     "start_date": "2020-05-20"
+  },
+  {
+    "instructors": "Amanda Miotto",
+    "end_date": "2020-05-28",
+    "url": "https://gu-eresearch.github.io/2020-05-26-GriffithUni-Python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Gold Coast Campus, G42_2.15",
+    "longitude": -27.552941,
+    "slug": "2020-05-26-GriffithUni-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.552941,
+    "start_date": "2020-05-26"
+  },
+  {
+    "instructors": "Amanda Miotto",
+    "end_date": "2020-07-08",
+    "url": "https://gu-eresearch.github.io/2020-07-06-GriffithUni-Python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Gold Coast Campus, G34_1.05/1.06",
+    "longitude": -27.552941,
+    "slug": "2020-07-06-GriffithUni-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.552941,
+    "start_date": "2020-07-06"
+  },
+  {
+    "instructors": "Amanda Miotto",
+    "end_date": "2020-08-19",
+    "url": "https://gu-eresearch.github.io/2020-08-17-GriffithUni-Python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Nathan Campus, N78_1.19",
+    "longitude": -27.552941,
+    "slug": "2020-08-17-GriffithUni-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.552941,
+    "start_date": "2020-08-17"
   }
 ]
