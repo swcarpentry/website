@@ -564,8 +564,6 @@ records:
   - {number: 756, title: 'Ep. 11: Issues with numpy', updated: '2019-11-18', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/756'}
   - {number: 759, title: Ep2 section "Not All Functions Have Input" should be removed,
     updated: '2019-11-24', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/759'}
-  - {number: 762, title: Programming with Python Episode 3 Example Suggestion, updated: '2019-11-25',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/762'}
   - {number: 761, title: 'Why should we be suspicious?', updated: '2019-11-25', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/761'}
   - {number: 769, title: Move "mystery functions in IPython" box to earlier in lesson,
     updated: '2019-12-04', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/769'}
@@ -573,10 +571,12 @@ records:
       statements', updated: '2019-12-11', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/765'}
   - {number: 770, title: Describe/Document 'sorted' function, updated: '2019-12-16',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/770'}
-  - {number: 773, title: 'Defensive Programming: replacing assertions with exceptions ',
-    updated: '2019-12-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/773'}
   - {number: 663, title: Lesson 1 - add info about variable names, updated: '2019-12-31',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/663'}
+  - {number: 773, title: 'Defensive Programming: replacing assertions with exceptions ',
+    updated: '2020-01-10', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/773'}
+  - {number: 762, title: Programming with Python Episode 3 Example Suggestion, updated: '2020-01-10',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/762'}
   - {number: 633, title: 'Episode 02-loop.md: Improving visualization of the "for
       loop"', updated: '2020-01-10', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/633'}
   pulls:
@@ -692,8 +692,6 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/462'}
   - {number: 463, title: File commadec.txt missing from r-novice-inflammation-data.zip,
     updated: '2019-12-16', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/463'}
-  - {number: 447, title: List this lesson on CRAN.R-project.org/other-docs.html, updated: '2020-01-10',
-    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/447'}
   pulls:
   - {number: 437, title: 'Update styles to gh-pages:6d015fe', updated: '2019-08-20',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/437'}
@@ -952,8 +950,6 @@ records:
   - {number: 1462, title: Allow admin user to edit membership variants, updated: '2019-09-12',
     url: 'https://github.com/carpentries/amy/issues/1462'}
   - {number: 1527, title: Google Analytics tracking code, updated: '2019-09-15', url: 'https://github.com/carpentries/amy/issues/1527'}
-  - {number: 1422, title: Add functionality to verify if learner has previously filled
-      out Instructor Training Request Form, updated: '2019-09-15', url: 'https://github.com/carpentries/amy/issues/1422'}
   - {number: 1534, title: Remove deprecated features of AMY, updated: '2019-09-21',
     url: 'https://github.com/carpentries/amy/issues/1534'}
   - {number: 1557, title: Provide more control for visibility of curricula, updated: '2019-10-08',
@@ -1009,4 +1005,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-01-10T15:16:44Z'
+timestamp: '2020-01-11T15:17:05Z'
