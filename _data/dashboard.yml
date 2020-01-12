@@ -809,8 +809,6 @@ records:
     updated: '2019-10-02', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/565'}
   - {number: 581, title: Unclear diagrams, updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/581'}
   - {number: 576, title: Not all solution present, updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/576'}
-  - {number: 572, title: File missing in lesson 4 of R for reproducible scientific
-      analyses, updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/572'}
   - {number: 582, title: Creating Publication-Quality Graphics with ggplot2 - Challenge
       5, updated: '2019-11-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/582'}
   - {number: 592, title: gif to explain pipelines with Mario, updated: '2019-11-25',
@@ -819,6 +817,10 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/600'}
   - {number: 599, title: Clarification in Intro to R/RStudio lesson, updated: '2020-01-07',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/599'}
+  - {number: 572, title: File missing in lesson 4 of R for reproducible scientific
+      analyses, updated: '2020-01-11', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/572'}
+  - {number: 603, title: 'Episode 7 (control flow), Challenge 1', updated: '2020-01-12',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/603'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -833,6 +835,8 @@ records:
     updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/573'}
   - {number: 589, title: 'Spell check and apply consistent code style (close #548) ',
     updated: '2019-11-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
+  - {number: 602, title: Update 04-data-structures-part1.Rmd, updated: '2020-01-11',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/602'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -978,13 +982,13 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1567'}
   - {number: 1568, title: Update Contact Field in AMY Events, updated: '2019-12-28',
     url: 'https://github.com/carpentries/amy/issues/1568'}
-  - {number: 1516, title: Update "published" requirements, updated: '2020-01-10',
-    url: 'https://github.com/carpentries/amy/issues/1516'}
   - {number: 1515, title: All queries should be exportable, updated: '2020-01-10',
     url: 'https://github.com/carpentries/amy/issues/1515'}
   - {number: 1512, title: Use DataTables in all tabular data views, updated: '2020-01-10',
     url: 'https://github.com/carpentries/amy/issues/1512'}
   - {number: 1484, title: Track changed metadata, updated: '2020-01-10', url: 'https://github.com/carpentries/amy/issues/1484'}
+  - {number: 1516, title: Update "published" requirements, updated: '2020-01-12',
+    url: 'https://github.com/carpentries/amy/issues/1516'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1005,4 +1009,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-01-11T15:17:05Z'
+timestamp: '2020-01-12T15:17:44Z'
