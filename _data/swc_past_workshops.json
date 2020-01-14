@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Kendra Maas,Pariksheet Nanda,Timothy Moore,Jeremy Teitelbaum",
+    "end_date": "2020-01-14",
+    "url": "https://carpentries-uconn.github.io/2020-01-13-uconn",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Connecticut",
+    "longitude": -72.2,
+    "slug": "2020-01-13-uconn",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Connecticut",
+    "latitude": 41.8,
+    "start_date": "2020-01-13"
+  },
+  {
     "instructors": "Ye Li,Ece Turnator,Mike Fortunato,Madeline Wrable,Daniel Sheehan",
     "end_date": "2020-01-10",
     "url": "https://yelibrarian.github.io/2020-01-09-mit/",

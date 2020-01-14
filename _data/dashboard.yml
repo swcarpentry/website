@@ -164,6 +164,8 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/996'}
   - {number: 1024, title: further developing Windows shell setup instructor guidance,
     updated: '2019-12-20', url: 'https://github.com/swcarpentry/shell-novice/issues/1024'}
+  - {number: 1082, title: Be more explicit about which environments lack which help
+      options (Ep. 2), updated: '2020-01-14', url: 'https://github.com/swcarpentry/shell-novice/issues/1082'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -175,6 +177,8 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/1072'}
   - {number: 491, title: 'Episode 7: Add grep -r exercise', updated: '2019-12-17',
     url: 'https://github.com/swcarpentry/shell-novice/pull/491'}
+  - {number: 1081, title: 'edit in command not found message, in case tool is not
+      installed', updated: '2020-01-13', url: 'https://github.com/swcarpentry/shell-novice/pull/1081'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -397,10 +401,6 @@ records:
     updated: '2018-12-13', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/274'}
   - {number: 289, title: Simplification + solution for group concatenation exercise,
     updated: '2019-09-18', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/289'}
-  - {number: 301, title: Added a quiz on SELECT and information on how to use PRAGMA
-      on the SQLite course, updated: '2019-10-22', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/301'}
-  - {number: 300, title: Added quiz to 1st lesson on SELECT, updated: '2019-10-22',
-    url: 'https://github.com/swcarpentry/sql-novice-survey/pull/300'}
   - {number: 304, title: Correct typo, updated: '2019-12-02', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/304'}
   - {number: 302, title: 'Best practice: Use explicit column names with INSERT', updated: '2019-12-02',
     url: 'https://github.com/swcarpentry/sql-novice-survey/pull/302'}
@@ -838,6 +838,8 @@ records:
     updated: '2019-11-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
   - {number: 602, title: Update 04-data-structures-part1.Rmd, updated: '2020-01-11',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/602'}
+  - {number: 605, title: Remove blank lines breaking challenge formatting, updated: '2020-01-14',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/605'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -959,16 +961,10 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1534'}
   - {number: 1557, title: Provide more control for visibility of curricula, updated: '2019-10-08',
     url: 'https://github.com/carpentries/amy/issues/1557'}
-  - {number: 1570, title: Workshop Request Form - Membership Affiliation, updated: '2019-11-07',
-    url: 'https://github.com/carpentries/amy/issues/1570'}
   - {number: 1565, title: 'Feature request: Bulk add Instructor training progress',
     updated: '2019-11-07', url: 'https://github.com/carpentries/amy/issues/1565'}
-  - {number: 1564, title: Feature Request- Add task = add person, updated: '2019-11-07',
-    url: 'https://github.com/carpentries/amy/issues/1564'}
   - {number: 1563, title: TTT events - open/member seats for learners only, updated: '2019-11-07',
     url: 'https://github.com/carpentries/amy/issues/1563'}
-  - {number: 1562, title: TTT Open applications - check by default, updated: '2019-11-07',
-    url: 'https://github.com/carpentries/amy/issues/1562'}
   - {number: 1561, title: 'Workshop Request Form: Not Adding all Tags Automatically',
     updated: '2019-11-07', url: 'https://github.com/carpentries/amy/issues/1561'}
   - {number: 1560, title: 'Workshop Request Form: Adding Host Tasks for SWC Submissions',
@@ -976,7 +972,6 @@ records:
   - {number: 1559, title: Bug with editing Person, updated: '2019-11-07', url: 'https://github.com/carpentries/amy/issues/1559'}
   - {number: 1571, title: Connecting Membership Organisation and Workshops, updated: '2019-11-08',
     url: 'https://github.com/carpentries/amy/issues/1571'}
-  - {number: 1572, title: Amy Event URL Validation, updated: '2019-11-12', url: 'https://github.com/carpentries/amy/issues/1572'}
   - {number: 1566, title: 'Feature Request: Bulk add learners to TTT event', updated: '2019-11-13',
     url: 'https://github.com/carpentries/amy/issues/1566'}
   - {number: 1567, title: Add "Do not publish" checkbox to events, updated: '2019-12-13',
@@ -994,6 +989,13 @@ records:
     updated: '2020-01-13', url: 'https://github.com/carpentries/amy/issues/1608'}
   - {number: 1607, title: Remove Lessons Covered from the Workshops Event Page, updated: '2020-01-13',
     url: 'https://github.com/carpentries/amy/issues/1607'}
+  - {number: 1572, title: Amy Event URL Validation, updated: '2020-01-14', url: 'https://github.com/carpentries/amy/issues/1572'}
+  - {number: 1570, title: Workshop Request Form - Membership Affiliation, updated: '2020-01-14',
+    url: 'https://github.com/carpentries/amy/issues/1570'}
+  - {number: 1564, title: Feature Request- Add task = add person, updated: '2020-01-14',
+    url: 'https://github.com/carpentries/amy/issues/1564'}
+  - {number: 1562, title: TTT Open applications - check by default, updated: '2020-01-14',
+    url: 'https://github.com/carpentries/amy/issues/1562'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1014,4 +1016,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-01-13T15:18:06Z'
+timestamp: '2020-01-14T15:19:25Z'

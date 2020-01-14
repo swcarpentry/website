@@ -15,21 +15,6 @@
     "start_date": "2019-12-16"
   },
   {
-    "instructors": "Kendra Maas,Pariksheet Nanda,Timothy Moore,Jeremy Teitelbaum",
-    "end_date": "2020-01-14",
-    "url": "https://carpentries-uconn.github.io/2020-01-13-uconn",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "University of Connecticut",
-    "longitude": -72.2,
-    "slug": "2020-01-13-uconn",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Connecticut",
-    "latitude": 41.8,
-    "start_date": "2020-01-13"
-  },
-  {
     "instructors": "Tami Albin,Elizabeth Everman",
     "end_date": "2020-01-16",
     "url": "https://kulibraries.github.io/2020-01-15-ku/",
