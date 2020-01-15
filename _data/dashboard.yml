@@ -309,6 +309,8 @@ records:
     updated: '2020-01-07', url: 'https://github.com/swcarpentry/git-novice/pull/714'}
   - {number: 715, title: Update the objectives in episode 1, updated: '2020-01-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/715'}
+  - {number: 717, title: Correct error on counting commits in episode 05, updated: '2020-01-14',
+    url: 'https://github.com/swcarpentry/git-novice/pull/717'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -817,11 +819,9 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/600'}
   - {number: 599, title: Clarification in Intro to R/RStudio lesson, updated: '2020-01-07',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/599'}
-  - {number: 572, title: File missing in lesson 4 of R for reproducible scientific
-      analyses, updated: '2020-01-11', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/572'}
   - {number: 603, title: 'Episode 7 (control flow), Challenge 1', updated: '2020-01-12',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/603'}
-  - {number: 604, title: Consistent code styling, updated: '2020-01-13', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/604'}
+  - {number: 604, title: Consistent code styling, updated: '2020-01-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/604'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -836,10 +836,6 @@ records:
     updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/573'}
   - {number: 589, title: 'Spell check and apply consistent code style (close #548) ',
     updated: '2019-11-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
-  - {number: 602, title: Update 04-data-structures-part1.Rmd, updated: '2020-01-11',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/602'}
-  - {number: 605, title: Remove blank lines breaking challenge formatting, updated: '2020-01-14',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/605'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1016,4 +1012,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-01-14T15:19:25Z'
+timestamp: '2020-01-15T15:20:08Z'
