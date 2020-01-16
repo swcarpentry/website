@@ -241,8 +241,6 @@ records:
       Episode, updated: '2019-08-11', url: 'https://github.com/swcarpentry/git-novice/issues/607'}
   - {number: 399, title: Mention of copyright on licensing page, updated: '2019-08-12',
     url: 'https://github.com/swcarpentry/git-novice/issues/399'}
-  - {number: 685, title: 'Episode 3 suggests to use git status before initializing
-      a repo, but does not show that', updated: '2019-08-14', url: 'https://github.com/swcarpentry/git-novice/issues/685'}
   - {number: 687, title: 'Relocate directories and .gitkeep, Episode 4 to .gitignore
       in Ignoring Things, Episode 6', updated: '2019-08-20', url: 'https://github.com/swcarpentry/git-novice/issues/687'}
   - {number: 606, title: '"forge" is a word many people don''t know, especially non-native
@@ -264,6 +262,10 @@ records:
     updated: '2019-12-26', url: 'https://github.com/swcarpentry/git-novice/issues/712'}
   - {number: 716, title: 'Is using "origin master" really necessary?', updated: '2020-01-10',
     url: 'https://github.com/swcarpentry/git-novice/issues/716'}
+  - {number: 718, title: Episode 14 - Challenge solution should be in R, updated: '2020-01-15',
+    url: 'https://github.com/swcarpentry/git-novice/issues/718'}
+  - {number: 685, title: 'Episode 3 suggests to use git status before initializing
+      a repo, but does not show that', updated: '2020-01-16', url: 'https://github.com/swcarpentry/git-novice/issues/685'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -295,8 +297,6 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/pull/677'}
   - {number: 675, title: minor changes to and solution for **Reverting A Commit**
       challenge, updated: '2019-08-07', url: 'https://github.com/swcarpentry/git-novice/pull/675'}
-  - {number: 686, title: 'Make it clear that git status is introduced in Episode 3
-      (issue #685)', updated: '2019-08-14', url: 'https://github.com/swcarpentry/git-novice/pull/686'}
   - {number: 668, title: Adding an objective covered in the lesson, updated: '2019-09-27',
     url: 'https://github.com/swcarpentry/git-novice/pull/668'}
   - {number: 698, title: Exemplify more Carpentries-relevant code style tools, updated: '2019-11-29',
@@ -309,8 +309,8 @@ records:
     updated: '2020-01-07', url: 'https://github.com/swcarpentry/git-novice/pull/714'}
   - {number: 715, title: Update the objectives in episode 1, updated: '2020-01-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/715'}
-  - {number: 717, title: Correct error on counting commits in episode 05, updated: '2020-01-14',
-    url: 'https://github.com/swcarpentry/git-novice/pull/717'}
+  - {number: 686, title: 'Make it clear that git status is introduced in Episode 3
+      (issue #685)', updated: '2020-01-15', url: 'https://github.com/swcarpentry/git-novice/pull/686'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -815,13 +815,13 @@ records:
       5, updated: '2019-11-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/582'}
   - {number: 592, title: gif to explain pipelines with Mario, updated: '2019-11-25',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/592'}
-  - {number: 600, title: Add information about opening projects in RStudio, updated: '2020-01-07',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/600'}
   - {number: 599, title: Clarification in Intro to R/RStudio lesson, updated: '2020-01-07',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/599'}
   - {number: 603, title: 'Episode 7 (control flow), Challenge 1', updated: '2020-01-12',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/603'}
   - {number: 604, title: Consistent code styling, updated: '2020-01-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/604'}
+  - {number: 600, title: Add information about opening projects in RStudio, updated: '2020-01-15',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/600'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -1012,4 +1012,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-01-15T15:20:08Z'
+timestamp: '2020-01-16T15:20:19Z'
