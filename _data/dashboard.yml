@@ -177,8 +177,8 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/1072'}
   - {number: 491, title: 'Episode 7: Add grep -r exercise', updated: '2019-12-17',
     url: 'https://github.com/swcarpentry/shell-novice/pull/491'}
-  - {number: 1081, title: 'edit in command not found message, in case tool is not
-      installed', updated: '2020-01-13', url: 'https://github.com/swcarpentry/shell-novice/pull/1081'}
+  - {number: 1081, title: 'Edit in command not found message, in case the command
+      you want is not installed', updated: '2020-01-17', url: 'https://github.com/swcarpentry/shell-novice/pull/1081'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -310,7 +310,7 @@ records:
   - {number: 715, title: Update the objectives in episode 1, updated: '2020-01-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/715'}
   - {number: 686, title: 'Make it clear that git status is introduced in Episode 3
-      (issue #685)', updated: '2020-01-15', url: 'https://github.com/swcarpentry/git-novice/pull/686'}
+      (issue #685)', updated: '2020-01-16', url: 'https://github.com/swcarpentry/git-novice/pull/686'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -577,10 +577,10 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/663'}
   - {number: 773, title: 'Defensive Programming: replacing assertions with exceptions ',
     updated: '2020-01-10', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/773'}
-  - {number: 762, title: Programming with Python Episode 3 Example Suggestion, updated: '2020-01-10',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/762'}
   - {number: 633, title: 'Episode 02-loop.md: Improving visualization of the "for
       loop"', updated: '2020-01-10', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/633'}
+  - {number: 762, title: Programming with Python Episode 3 Example Suggestion, updated: '2020-01-16',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/762'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -820,7 +820,7 @@ records:
   - {number: 603, title: 'Episode 7 (control flow), Challenge 1', updated: '2020-01-12',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/603'}
   - {number: 604, title: Consistent code styling, updated: '2020-01-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/604'}
-  - {number: 600, title: Add information about opening projects in RStudio, updated: '2020-01-15',
+  - {number: 600, title: Add information about opening projects in RStudio, updated: '2020-01-16',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/600'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
@@ -836,6 +836,7 @@ records:
     updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/573'}
   - {number: 589, title: 'Spell check and apply consistent code style (close #548) ',
     updated: '2019-11-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
+  - {number: 606, title: Navigating to .Rproj files, updated: '2020-01-16', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/606'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -983,8 +984,6 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1516'}
   - {number: 1608, title: 500 Server error when 'manual attendance' field is not set,
     updated: '2020-01-13', url: 'https://github.com/carpentries/amy/issues/1608'}
-  - {number: 1607, title: Remove Lessons Covered from the Workshops Event Page, updated: '2020-01-13',
-    url: 'https://github.com/carpentries/amy/issues/1607'}
   - {number: 1572, title: Amy Event URL Validation, updated: '2020-01-14', url: 'https://github.com/carpentries/amy/issues/1572'}
   - {number: 1570, title: Workshop Request Form - Membership Affiliation, updated: '2020-01-14',
     url: 'https://github.com/carpentries/amy/issues/1570'}
@@ -992,6 +991,10 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1564'}
   - {number: 1562, title: TTT Open applications - check by default, updated: '2020-01-14',
     url: 'https://github.com/carpentries/amy/issues/1562'}
+  - {number: 1607, title: Remove Lessons Covered from the Workshops Event Page, updated: '2020-01-16',
+    url: 'https://github.com/carpentries/amy/issues/1607'}
+  - {number: 1609, title: Accepting WRF - Administrator Field (Removing unused options),
+    updated: '2020-01-17', url: 'https://github.com/carpentries/amy/issues/1609'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1012,4 +1015,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-01-16T15:20:19Z'
+timestamp: '2020-01-17T15:20:58Z'
