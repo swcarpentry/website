@@ -240,6 +240,21 @@
     "start_date": "2020-02-27"
   },
   {
+    "instructors": "Lihong Zhao,Amanda Culley",
+    "end_date": "2020-02-28",
+    "url": "https://dearmint.github.io/2020-02-27-uidaho/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "University of Idaho",
+    "longitude": -117.024304,
+    "slug": "2020-02-27-uidaho",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Idaho",
+    "latitude": 46.727284,
+    "start_date": "2020-02-27"
+  },
+  {
     "instructors": "Jarno Rantaharju,João da Silva,Richard Darst",
     "end_date": "2020-03-20",
     "url": "https://rantahar.github.io/2020-03-19-Helsinki/",
