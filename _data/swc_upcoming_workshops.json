@@ -15,21 +15,6 @@
     "start_date": "2020-01-15"
   },
   {
-    "instructors": "Gaurav Kandlikar,Madeline Cowen",
-    "end_date": "2020-01-19",
-    "url": "https://ucla-hacky-hours.gitlab.io/2020-01-18-SWC/",
-    "country": "US",
-    "curriculum": "swc-reproducible-science",
-    "venue": "UCLA",
-    "longitude": -118.441609,
-    "slug": "2020-01-18-SWC",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of California Los Angeles",
-    "latitude": 34.066471,
-    "start_date": "2020-01-18"
-  },
-  {
     "instructors": "Alice Harpole,Sebastian Dick",
     "end_date": "2020-01-21",
     "url": "https://semodi.github.io/2020-01-20-stonybrook/",

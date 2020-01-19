@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Gaurav Kandlikar,Madeline Cowen",
+    "end_date": "2020-01-19",
+    "url": "https://ucla-hacky-hours.gitlab.io/2020-01-18-SWC/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "UCLA",
+    "longitude": -118.441609,
+    "slug": "2020-01-18-SWC",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California Los Angeles",
+    "latitude": 34.066471,
+    "start_date": "2020-01-18"
+  },
+  {
     "instructors": "Rob Lane,Teddy Thomas,Alan Crosswell",
     "end_date": "2020-01-17",
     "url": "https://columbiaswc.github.io/2020-01-16-columbia-section-1",
