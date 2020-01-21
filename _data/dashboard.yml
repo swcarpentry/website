@@ -577,8 +577,10 @@ records:
   - {number: 762, title: Programming with Python Episode 3 Example Suggestion, updated: '2020-01-16',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/762'}
   - {number: 494, title: Clean up SVG figures, updated: '2020-01-17', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/494'}
+  - {number: 774, title: 'Call for Contributions: visuals (images, figures, plots,
+      charts, etc.)', updated: '2020-01-20', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/774'}
   - {number: 63, title: 'Perhaps we shouldn''t have readings-01.py, readings-02.py
-      etc?', updated: '2020-01-17', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/63'}
+      etc?', updated: '2020-01-20', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/63'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -636,6 +638,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/657'}
   - {number: 772, title: Clarification on using group plots in jupyter notebook, updated: '2019-12-20',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/772'}
+  - {number: 775, title: 'Moved data description to lesson 2. ', updated: '2020-01-20',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/775'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -980,19 +984,21 @@ records:
   - {number: 1484, title: Track changed metadata, updated: '2020-01-10', url: 'https://github.com/carpentries/amy/issues/1484'}
   - {number: 1516, title: Update "published" requirements, updated: '2020-01-12',
     url: 'https://github.com/carpentries/amy/issues/1516'}
-  - {number: 1608, title: 500 Server error when 'manual attendance' field is not set,
-    updated: '2020-01-13', url: 'https://github.com/carpentries/amy/issues/1608'}
   - {number: 1572, title: Amy Event URL Validation, updated: '2020-01-14', url: 'https://github.com/carpentries/amy/issues/1572'}
   - {number: 1570, title: Workshop Request Form - Membership Affiliation, updated: '2020-01-14',
     url: 'https://github.com/carpentries/amy/issues/1570'}
-  - {number: 1562, title: TTT Open applications - check by default, updated: '2020-01-14',
-    url: 'https://github.com/carpentries/amy/issues/1562'}
-  - {number: 1607, title: Remove Lessons Covered from the Workshops Event Page, updated: '2020-01-16',
-    url: 'https://github.com/carpentries/amy/issues/1607'}
   - {number: 1609, title: Accepting WRF - Administrator Field (Removing unused options),
     updated: '2020-01-17', url: 'https://github.com/carpentries/amy/issues/1609'}
-  - {number: 1564, title: Feature Request- Add task = add person, updated: '2020-01-17',
+  - {number: 1608, title: 500 Server error when 'manual attendance' field is not set,
+    updated: '2020-01-20', url: 'https://github.com/carpentries/amy/issues/1608'}
+  - {number: 1607, title: Remove Lessons Covered from the Workshops Event Page, updated: '2020-01-20',
+    url: 'https://github.com/carpentries/amy/issues/1607'}
+  - {number: 1564, title: Feature Request- Add task = add person, updated: '2020-01-20',
     url: 'https://github.com/carpentries/amy/issues/1564'}
+  - {number: 1562, title: TTT Open applications - check by default, updated: '2020-01-20',
+    url: 'https://github.com/carpentries/amy/issues/1562'}
+  - {number: 1610, title: 'Venue, address and latlong info not picked up from workshop
+      URL', updated: '2020-01-21', url: 'https://github.com/carpentries/amy/issues/1610'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1013,4 +1019,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-01-20T15:23:27Z'
+timestamp: '2020-01-21T15:23:32Z'

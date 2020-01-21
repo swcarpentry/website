@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Alice Harpole,Sebastian Dick",
+    "end_date": "2020-01-21",
+    "url": "https://semodi.github.io/2020-01-20-stonybrook/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "Institute for Advanced Computational Science, Stony Brook",
+    "longitude": -73.12188,
+    "slug": "2020-01-20-stonybrook",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Stony Brook University",
+    "latitude": 40.91152,
+    "start_date": "2020-01-20"
+  },
+  {
     "instructors": "Gaurav Kandlikar,Madeline Cowen",
     "end_date": "2020-01-19",
     "url": "https://ucla-hacky-hours.gitlab.io/2020-01-18-SWC/",
@@ -1230,7 +1245,7 @@
     "start_date": "2019-10-11"
   },
   {
-    "instructors": "Anat Melamed,Antonio Berlanga,Elzbieta Lauzikaite,Andrew McArdle",
+    "instructors": "Anat Melamed,Antonio Berlanga,Elze Lauzikaite,Andrew McArdle",
     "end_date": "2019-10-11",
     "url": "https://kmichali.github.io/2019-10-10-Imperial/",
     "country": "GB",
@@ -3385,7 +3400,7 @@
     "slug": "2019-04-25-rosario",
     "tag_name": "SWC",
     "helpers": "Laura Angelone ,Florencia Mascali,Silvina Gonzalez-Beltran",
-    "host_name": "The Doctoral Training Programme in Environmental Research of the University of Oxford",
+    "host_name": "University of Oxford",
     "latitude": -32.944244,
     "start_date": "2019-04-25"
   },
@@ -3495,7 +3510,7 @@
     "start_date": "2019-04-15"
   },
   {
-    "instructors": "Margarita Cariolou,Anat Melamed,Kiana West,Elzbieta Lauzikaite",
+    "instructors": "Margarita Cariolou,Anat Melamed,Kiana West,Elze Lauzikaite",
     "end_date": "2019-04-16",
     "url": "https://kmichali.github.io/2019-04-15-Imperial/",
     "country": "GB",
@@ -9640,7 +9655,7 @@
     "slug": "2017-11-08-southampton-swc",
     "tag_name": "SWC",
     "helpers": "James Graham,Dan Locke,James Richings",
-    "host_name": "SSI Software Sustainability Institute",
+    "host_name": "University of Southampton",
     "latitude": 51.074874,
     "start_date": "2017-11-08"
   },
@@ -12340,7 +12355,7 @@
     "slug": "2017-03-02-manchester",
     "tag_name": "SWC",
     "helpers": null,
-    "host_name": "EPSRC & MRC Centre for Doctoral Training (CDT) in Regenerative Medicine",
+    "host_name": "University of Manchester",
     "latitude": 53.475809,
     "start_date": "2017-03-02"
   },
@@ -16315,7 +16330,7 @@
     "slug": "2016-03-10-CDT-reg-medicine",
     "tag_name": "SWC",
     "helpers": null,
-    "host_name": "EPSRC & MRC Centre for Doctoral Training (CDT) in Regenerative Medicine",
+    "host_name": "University of Manchester",
     "latitude": 53.47614,
     "start_date": "2016-03-10"
   },
@@ -18205,7 +18220,7 @@
     "slug": "2015-09-28-oxford",
     "tag_name": "SWC",
     "helpers": "Duncan Watson-Parris,Sebastian Engelstaedter",
-    "host_name": "The Doctoral Training Programme in Environmental Research of the University of Oxford",
+    "host_name": "University of Oxford",
     "latitude": 51.7590106,
     "start_date": "2015-09-28"
   },
@@ -20470,7 +20485,7 @@
     "slug": "2015-02-03-CDT-reg-medicine",
     "tag_name": "SWC",
     "helpers": null,
-    "host_name": "EPSRC & MRC Centre for Doctoral Training (CDT) in Regenerative Medicine",
+    "host_name": "University of Manchester",
     "latitude": 53.4773,
     "start_date": "2015-02-03"
   },
