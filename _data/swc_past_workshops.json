@@ -1,5 +1,20 @@
 [
   {
+    "instructors": null,
+    "end_date": "2020-01-22",
+    "url": "https://tgac.github.io/2020-01-21-earlham/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "Earlham Institute",
+    "longitude": 1.218976,
+    "slug": "2020-01-21-earlham",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Earlham Institute",
+    "latitude": 52.621887,
+    "start_date": "2020-01-21"
+  },
+  {
     "instructors": "Alice Harpole,Sebastian Dick",
     "end_date": "2020-01-21",
     "url": "https://semodi.github.io/2020-01-20-stonybrook/",
@@ -39,7 +54,7 @@
     "longitude": -73.96333,
     "slug": "2020-01-16-columbia-section-1",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Axinia Radeva,Andres Montes,Rahim Hashim,Madiha Choksi",
     "host_name": "Columbia University",
     "latitude": 40.80618,
     "start_date": "2020-01-16"
@@ -54,7 +69,7 @@
     "longitude": -73.96333,
     "slug": "2020-01-16-columbia-section-2",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Brian Luna Lucero,Jonathan Reeve,Sydney Bolim Son,Alex Gil,Dustin King,Aaron Limoges",
     "host_name": "Columbia University",
     "latitude": 40.80618,
     "start_date": "2020-01-16"
@@ -69,7 +84,7 @@
     "longitude": -73.96333,
     "slug": "2020-01-16-columbia-section-3",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "David Balducci,Eric Vlach,Dali Plavsic,Shanice Bailey,Mengzhen Sun,Richard Warren",
     "host_name": "Columbia University",
     "latitude": 40.80618,
     "start_date": "2020-01-16"
@@ -84,7 +99,7 @@
     "longitude": -73.96333,
     "slug": "2020-01-16-columbia-section-4",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Wei Yin,Cesar Arias,Andres Montes,Sydney Bolim Son,Aratrika Mustafi",
     "host_name": "Columbia University",
     "latitude": 40.80618,
     "start_date": "2020-01-16"
@@ -99,13 +114,13 @@
     "longitude": -74.18979,
     "slug": "2020-01-16-rutgers",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Courtney Veilleux,Jihae Shin",
     "host_name": "Rutgers University",
     "latitude": 40.741173,
     "start_date": "2020-01-16"
   },
   {
-    "instructors": "Mike Renfro",
+    "instructors": "Mike Renfro,Ania Jennings",
     "end_date": "2020-01-17",
     "url": "https://www.hpc.tntech.edu/workshop-2020-01-16/",
     "country": "US",
@@ -114,7 +129,7 @@
     "longitude": -85.5080787,
     "slug": "2020-01-16-tntech",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Mehedi Hasan,Travis Lee,Nathan Martindale",
     "host_name": "Tennessee Tech University",
     "latitude": 36.17537,
     "start_date": "2020-01-16"
@@ -129,7 +144,7 @@
     "longitude": -120.4257,
     "slug": "2020-01-16-ucmerced",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Matthias Bussonnier,Elizabeth Salmon,Derek Devnich,Dan Hicks,Derek Solberger",
     "host_name": "University of California Merced",
     "latitude": 37.363087,
     "start_date": "2020-01-16"
@@ -144,13 +159,13 @@
     "longitude": -95.25463,
     "slug": "2020-01-15-ku",
     "tag_name": "SWC",
-    "helpers": "Jamene Brooks-Kieffer,Samantha Thomas,Casey Russell,Matthew Deakyne",
+    "helpers": "Jamene Brooks-Kieffer,Greta Valentine,Samantha Thomas,Casey Russell,Matthew Deakyne,Chris Bohling",
     "host_name": "University of Kansas",
     "latitude": 38.95703,
     "start_date": "2020-01-15"
   },
   {
-    "instructors": "Christine Wells",
+    "instructors": "Dave George,Scott Gruber,Christine Wells",
     "end_date": "2020-01-16",
     "url": "https://ucla-data-archive.github.io/2020-01-15-ucla/",
     "country": "US",
@@ -159,13 +174,13 @@
     "longitude": -118.4448593,
     "slug": "2020-01-15-ucla",
     "tag_name": "SWC",
-    "helpers": "Tim Dennis",
+    "helpers": "Tim Dennis,Jamie Jamison,Kristian Allen,Lisa McAulay,Ibraheem Ali",
     "host_name": "University of California Los Angeles",
     "latitude": 34.069479,
     "start_date": "2020-01-15"
   },
   {
-    "instructors": "Kendra Maas,Pariksheet Nanda,Timothy Moore,Jeremy Teitelbaum",
+    "instructors": "Kendra Maas,James Mickley,Pariksheet Nanda,Timothy Moore,Cera Fisher,Jeremy Teitelbaum,Dyanna Louyakis",
     "end_date": "2020-01-14",
     "url": "https://carpentries-uconn.github.io/2020-01-13-uconn",
     "country": "US",
@@ -174,7 +189,7 @@
     "longitude": -72.2,
     "slug": "2020-01-13-uconn",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Mahdi Fallahi,Damir Dzafarov",
     "host_name": "University of Connecticut",
     "latitude": 41.8,
     "start_date": "2020-01-13"
@@ -195,7 +210,7 @@
     "start_date": "2020-01-09"
   },
   {
-    "instructors": "Ye Li,Ece Turnator,Mike Fortunato,Madeline Wrable,Daniel Sheehan",
+    "instructors": "Ye Li,Ece Turnator,Mike Fortunato,Madeline Wrable,Daniel Sheehan,Christine Malinowski",
     "end_date": "2020-01-10",
     "url": "https://yelibrarian.github.io/2020-01-09-mit/",
     "country": "US",
@@ -204,7 +219,7 @@
     "longitude": -71.090542,
     "slug": "2020-01-09-mit",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Phoebe Ayers",
     "host_name": "Massachusetts Institute of Technology",
     "latitude": 42.359689,
     "start_date": "2020-01-09"
@@ -249,7 +264,7 @@
     "longitude": -83.73348,
     "slug": "2020-01-06-UMich-WISE",
     "tag_name": "SWC",
-    "helpers": "Lisa Abernathy-Close,Emily Benedict,Sarah Tomkovich",
+    "helpers": "Lisa Abernathy-Close,Emily Benedict,Sarah Tomkovich,Catherine Barnier",
     "host_name": "University of Michigan",
     "latitude": 42.28023,
     "start_date": "2020-01-06"
@@ -279,7 +294,7 @@
     "longitude": -97.445845,
     "slug": "2019-12-18-ou-swc",
     "tag_name": "SWC",
-    "helpers": "Dawn Nekorchuk,Theo Acker,Mahbobeh Lesani,Hyacinthe Aboudja",
+    "helpers": "Dawn Nekorchuk,Theo Acker,Mahbobeh Lesani,Hyacinthe Aboudja,Rebekah Silverstein,Andrea Hess",
     "host_name": "University of Oklahoma",
     "latitude": 35.207982,
     "start_date": "2019-12-18"
@@ -339,7 +354,7 @@
     "longitude": -83.73366,
     "slug": "2019-12-12-umich",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Matt Schnizlein,Emily Crossette",
     "host_name": "University of Michigan",
     "latitude": 42.28316,
     "start_date": "2019-12-12"
@@ -369,7 +384,7 @@
     "longitude": 12.3950214,
     "slug": "2019-12-09-leipzig",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Han Tran,Daniel Redhead,Jeff Andrews,Natalia Fedorova,Ilaria Pretelli,Dieter Lukas",
     "host_name": "Max Planck Institute for Evolutionary Anthropology",
     "latitude": 51.3211759,
     "start_date": "2019-12-09"
@@ -459,7 +474,7 @@
     "longitude": -80.162508,
     "slug": "2019-12-02-RSMAS",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "James Sobczak,Jorge Quintela",
     "host_name": "University of Miami",
     "latitude": 25.732647,
     "start_date": "2019-12-02"
@@ -474,13 +489,13 @@
     "longitude": 6.91646,
     "slug": "2019-12-02-Software-Carpentry-Cologne",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Sibylle Hedtke",
     "host_name": "ZB Med Information Centre for Life Sciences",
     "latitude": 50.92465,
     "start_date": "2019-12-02"
   },
   {
-    "instructors": "Marc Galland,Like Fokkens",
+    "instructors": "Marc Galland,Like Fokkens,Frans van der Kloet",
     "end_date": "2019-12-03",
     "url": "https://scienceparkstudygroup.github.io/2019-12-03-SWC-Amsterdam/",
     "country": "NL",
@@ -489,7 +504,7 @@
     "longitude": 4.91259,
     "slug": "2019-12-03-SWC-Amsterdam",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Mara de Sain,Misha Paauw,Evelien Jongepier",
     "host_name": "University of Amsterdam",
     "latitude": 52.36321,
     "start_date": "2019-12-02"
@@ -564,7 +579,7 @@
     "longitude": -95.922955,
     "slug": "2019-11-25-ou-swc-tulsa",
     "tag_name": "SWC",
-    "helpers": "Toni Hoberecht,Krista Kezbers (Olson is legal last name)",
+    "helpers": "Toni Hoberecht,Krista Kezbers (Olson is legal last name),Emrys Moreau,Alyssa Migdalsk",
     "host_name": "University of Oklahoma",
     "latitude": 36.101228,
     "start_date": "2019-11-25"

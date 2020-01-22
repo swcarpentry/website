@@ -266,6 +266,10 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/718'}
   - {number: 685, title: 'Episode 3 suggests to use git status before initializing
       a repo, but does not show that', updated: '2020-01-16', url: 'https://github.com/swcarpentry/git-novice/issues/685'}
+  - {number: 721, title: Multiple warnings from make lesson-check, updated: '2020-01-22',
+    url: 'https://github.com/swcarpentry/git-novice/issues/721'}
+  - {number: 720, title: 'Lesson 3: revise instructions for using rm', updated: '2020-01-22',
+    url: 'https://github.com/swcarpentry/git-novice/issues/720'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -570,8 +574,6 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/770'}
   - {number: 663, title: Lesson 1 - add info about variable names, updated: '2019-12-31',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/663'}
-  - {number: 773, title: 'Defensive Programming: replacing assertions with exceptions ',
-    updated: '2020-01-10', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/773'}
   - {number: 633, title: 'Episode 02-loop.md: Improving visualization of the "for
       loop"', updated: '2020-01-10', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/633'}
   - {number: 762, title: Programming with Python Episode 3 Example Suggestion, updated: '2020-01-16',
@@ -581,6 +583,10 @@ records:
       charts, etc.)', updated: '2020-01-20', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/774'}
   - {number: 63, title: 'Perhaps we shouldn''t have readings-01.py, readings-02.py
       etc?', updated: '2020-01-20', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/63'}
+  - {number: 773, title: 'Defensive Programming: replacing assertions with exceptions ',
+    updated: '2020-01-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/773'}
+  - {number: 776, title: 'Analyzing Data from multiple files: generate composite statistics
+      example', updated: '2020-01-22', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/776'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -840,7 +846,6 @@ records:
     updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/573'}
   - {number: 589, title: 'Spell check and apply consistent code style (close #548) ',
     updated: '2019-11-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
-  - {number: 608, title: Update 01-rstudio-intro.Rmd, updated: '2020-01-18', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/608'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1019,4 +1024,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-01-21T15:23:32Z'
+timestamp: '2020-01-22T15:23:46Z'
