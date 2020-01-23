@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Geno Sanchez,Mark Matney",
+    "end_date": "2020-01-23",
+    "url": "https://ucla-data-archive.github.io/2020-01-22-ucla/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "UCLA",
+    "longitude": -118.4411,
+    "slug": "2020-01-22-ucla",
+    "tag_name": "SWC",
+    "helpers": "Tim Dennis",
+    "host_name": "University of California Los Angeles",
+    "latitude": 34.0751,
+    "start_date": "2020-01-22"
+  },
+  {
     "instructors": null,
     "end_date": "2020-01-22",
     "url": "https://tgac.github.io/2020-01-21-earlham/",
@@ -249,7 +264,7 @@
     "longitude": -97.445845,
     "slug": "2020-01-07-ou-swc",
     "tag_name": "SWC",
-    "helpers": "Tyler Pearson,Jim Ferguson,Amanda Schilling,Theo Acker,Mahbobeh Lesani",
+    "helpers": "Tyler Pearson,Jim Ferguson,Amanda Schilling,Theo Acker,mahbobeh lesani",
     "host_name": "University of Oklahoma",
     "latitude": 35.207982,
     "start_date": "2020-01-07"
@@ -294,7 +309,7 @@
     "longitude": -97.445845,
     "slug": "2019-12-18-ou-swc",
     "tag_name": "SWC",
-    "helpers": "Dawn Nekorchuk,Theo Acker,Mahbobeh Lesani,Hyacinthe Aboudja,Rebekah Silverstein,Andrea Hess",
+    "helpers": "Dawn Nekorchuk,Theo Acker,mahbobeh lesani,Hyacinthe Aboudja,Rebekah Silverstein,Andrea Hess",
     "host_name": "University of Oklahoma",
     "latitude": 35.207982,
     "start_date": "2019-12-18"
@@ -1620,7 +1635,7 @@
     "start_date": "2019-09-23"
   },
   {
-    "instructors": "Nicholas Knoblauch,Arjun Biddanda,Briana Mittleman,Zach Miller",
+    "instructors": "Nicholas Knoblauch,Arjun Biddanda,Briana Mittleman,Zachary Miller",
     "end_date": "2019-09-20",
     "url": "https://aabiddanda.github.io/2019-09-19-uchicago/",
     "country": "US",
@@ -1740,7 +1755,7 @@
     "start_date": "2019-09-09"
   },
   {
-    "instructors": "Anna Williford,Seyedeh Ayda Mirsalehi,kristopher row,Farah Shamma,Balan Ramesh,Feroz Ahmed",
+    "instructors": "Anna Williford,Seyedeh Ayda Mirsalehi,kristopher row,Farah Shamma,Balan Ramesh,FEROZ AHMED",
     "end_date": "2019-09-14",
     "url": "https://utacarpentries.github.io/2019-09-07-UTA/",
     "country": "US",
@@ -1914,7 +1929,7 @@
     "longitude": -73.9626,
     "slug": "2019-08-26-columbia-section-2",
     "tag_name": "SWC",
-    "helpers": "Brian Luna Lucero,Monica Thieu,Matt Harrington",
+    "helpers": "Brian Luna Lucero,Monica Thieu,Matthew Harrington",
     "host_name": "Columbia University",
     "latitude": 40.8075,
     "start_date": "2019-08-26"
@@ -2244,7 +2259,7 @@
     "longitude": -97.494256,
     "slug": "2019-07-29-ou-swc-ouhsc",
     "tag_name": "SWC",
-    "helpers": "Rebecca Silver,Amanda Schilling,Mahbobeh Lesani,Hyacinthe Aboudja,Josh Garton,Blaine Mooers,Sean Reim,Clayton Sandel",
+    "helpers": "Rebecca Silver,Amanda Schilling,mahbobeh lesani,Hyacinthe Aboudja,Josh Garton,Blaine Mooers,Sean Reim,Clayton Sandel",
     "host_name": "University of Oklahoma",
     "latitude": 35.479536,
     "start_date": "2019-07-29"
@@ -3189,7 +3204,7 @@
     "longitude": -97.445848,
     "slug": "2019-05-15-ou-swc",
     "tag_name": "SWC",
-    "helpers": "Fred Reiss,Horst Severini,Michael Malahy,Mahbobeh Lesani",
+    "helpers": "Fred Reiss,Horst Severini,Michael Malahy,mahbobeh lesani",
     "host_name": "University of Oklahoma",
     "latitude": 35.208275,
     "start_date": "2019-05-15"
@@ -4614,7 +4629,7 @@
     "longitude": -87.602679,
     "slug": "2019-01-12-chicago",
     "tag_name": "SWC",
-    "helpers": "Peter Carbonetto,Maryn Carlson,Ankeeta Shah,Zach Miller,Rahul Subramanian",
+    "helpers": "Peter Carbonetto,Maryn Carlson,Ankeeta Shah,Zachary Miller,Rahul Subramanian",
     "host_name": "University of Chicago",
     "latitude": 41.791836,
     "start_date": "2019-01-20"
@@ -6234,7 +6249,7 @@
     "longitude": -87.602679,
     "slug": "2018-09-20-chicago",
     "tag_name": "SWC",
-    "helpers": "Peter Carbonetto,Maryn Carlson,Ankeeta Shah,Zach Miller,Rahul Subramanian",
+    "helpers": "Peter Carbonetto,Maryn Carlson,Ankeeta Shah,Zachary Miller,Rahul Subramanian",
     "host_name": "University of Chicago",
     "latitude": 41.791836,
     "start_date": "2018-09-20"

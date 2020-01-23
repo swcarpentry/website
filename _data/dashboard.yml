@@ -165,7 +165,7 @@ records:
   - {number: 1024, title: further developing Windows shell setup instructor guidance,
     updated: '2019-12-20', url: 'https://github.com/swcarpentry/shell-novice/issues/1024'}
   - {number: 1082, title: Be more explicit about which environments lack which help
-      options (Ep. 2), updated: '2020-01-14', url: 'https://github.com/swcarpentry/shell-novice/issues/1082'}
+      options (Ep. 2), updated: '2020-01-23', url: 'https://github.com/swcarpentry/shell-novice/issues/1082'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -177,8 +177,9 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/1072'}
   - {number: 491, title: 'Episode 7: Add grep -r exercise', updated: '2019-12-17',
     url: 'https://github.com/swcarpentry/shell-novice/pull/491'}
-  - {number: 1081, title: 'Edit in command not found message, in case the command
-      you want is not installed', updated: '2020-01-17', url: 'https://github.com/swcarpentry/shell-novice/pull/1081'}
+  - {number: 1081, title: 'Edit in command not found message, in case the program
+      corresponding to that command is not installed or mis-typed.', updated: '2020-01-23',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/1081'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -832,6 +833,8 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/600'}
   - {number: 607, title: Update .gitattributes so repository appears as R (not Python),
     updated: '2020-01-17', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/607'}
+  - {number: 611, title: 'Challenges 4b and 5 in http://swcarpentry.github.io/r-novice-gapminder/08-plot-ggplot2/index.html
+      has different style', updated: '2020-01-23', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/611'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -1024,4 +1027,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-01-22T15:23:46Z'
+timestamp: '2020-01-23T15:24:19Z'

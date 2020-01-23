@@ -30,21 +30,6 @@
     "start_date": "2020-01-21"
   },
   {
-    "instructors": "Geno Sanchez,Mark Matney",
-    "end_date": "2020-01-23",
-    "url": "https://ucla-data-archive.github.io/2020-01-22-ucla/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "UCLA",
-    "longitude": -118.4411,
-    "slug": "2020-01-22-ucla",
-    "tag_name": "SWC",
-    "helpers": "Tim Dennis",
-    "host_name": "University of California Los Angeles",
-    "latitude": 34.0751,
-    "start_date": "2020-01-22"
-  },
-  {
     "instructors": "Gaurav Vaidya,Saber Soleymani",
     "end_date": "2020-01-26",
     "url": "https://ncf0003.github.io/2020-01-25-wvu/",
@@ -73,6 +58,21 @@
     "host_name": "Benaroya Research Institute",
     "latitude": 47.60323,
     "start_date": "2020-01-28"
+  },
+  {
+    "instructors": "Samniqueka Halsey",
+    "end_date": "2020-01-31",
+    "url": "https://swc-mizzou.github.io/2020-01-30-mizzou/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Missouri",
+    "longitude": -92.32859,
+    "slug": "2020-01-30-mizzou",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 38.95155,
+    "start_date": "2020-01-30"
   },
   {
     "instructors": "Amanda Stahlke,Breanna Sipley",
