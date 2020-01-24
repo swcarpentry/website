@@ -15,21 +15,6 @@
     "start_date": "2020-01-15"
   },
   {
-    "instructors": "Ariel Rokem,Meg Drouhard",
-    "end_date": "2020-01-24",
-    "url": "https://uwescience.github.io/2020-01-21-uw/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "The University of Washington eScience Institute",
-    "longitude": -122.3140595,
-    "slug": "2020-01-21-uw",
-    "tag_name": "SWC",
-    "helpers": "Ariel Rokem,Meg Drouhard,Eleanor Lutz",
-    "host_name": "University of Washington",
-    "latitude": 47.6533827,
-    "start_date": "2020-01-21"
-  },
-  {
     "instructors": "Gaurav Vaidya,Saber Soleymani",
     "end_date": "2020-01-26",
     "url": "https://ncf0003.github.io/2020-01-25-wvu/",

@@ -30,6 +30,21 @@
     "start_date": "2020-01-21"
   },
   {
+    "instructors": "Ariel Rokem,Meg Drouhard",
+    "end_date": "2020-01-24",
+    "url": "https://uwescience.github.io/2020-01-21-uw/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "The University of Washington eScience Institute",
+    "longitude": -122.3140595,
+    "slug": "2020-01-21-uw",
+    "tag_name": "SWC",
+    "helpers": "Ariel Rokem,Meg Drouhard,Eleanor Lutz",
+    "host_name": "University of Washington",
+    "latitude": 47.6533827,
+    "start_date": "2020-01-21"
+  },
+  {
     "instructors": "Alice Harpole,Sebastian Dick",
     "end_date": "2020-01-21",
     "url": "https://semodi.github.io/2020-01-20-stonybrook/",

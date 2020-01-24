@@ -162,10 +162,11 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1056'}
   - {number: 996, title: Recursive option different between commands, updated: '2019-12-16',
     url: 'https://github.com/swcarpentry/shell-novice/issues/996'}
-  - {number: 1024, title: further developing Windows shell setup instructor guidance,
-    updated: '2019-12-20', url: 'https://github.com/swcarpentry/shell-novice/issues/1024'}
+  - {number: 1084, title: 'Add Header to Episode 02 ', updated: '2020-01-23', url: 'https://github.com/swcarpentry/shell-novice/issues/1084'}
   - {number: 1082, title: Be more explicit about which environments lack which help
       options (Ep. 2), updated: '2020-01-23', url: 'https://github.com/swcarpentry/shell-novice/issues/1082'}
+  - {number: 1024, title: further developing Windows shell setup instructor guidance,
+    updated: '2020-01-24', url: 'https://github.com/swcarpentry/shell-novice/issues/1024'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -403,6 +404,8 @@ records:
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/306'}
   - {number: 305, title: 'Ep. 6: Explanation of count() could be improved.', updated: '2019-12-03',
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/305'}
+  - {number: 309, title: Reference links broken on episode 1, updated: '2020-01-24',
+    url: 'https://github.com/swcarpentry/sql-novice-survey/issues/309'}
   pulls:
   - {number: 274, title: adding a solution of a challange (Ordering When Concatenating),
     updated: '2018-12-13', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/274'}
@@ -647,6 +650,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/772'}
   - {number: 775, title: 'Moved data description to lesson 2. ', updated: '2020-01-20',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/775'}
+  - {number: 777, title: '02-numpy: clarify numpy.diff() part', updated: '2020-01-24',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/777'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -995,8 +1000,6 @@ records:
   - {number: 1572, title: Amy Event URL Validation, updated: '2020-01-14', url: 'https://github.com/carpentries/amy/issues/1572'}
   - {number: 1570, title: Workshop Request Form - Membership Affiliation, updated: '2020-01-14',
     url: 'https://github.com/carpentries/amy/issues/1570'}
-  - {number: 1609, title: Accepting WRF - Administrator Field (Removing unused options),
-    updated: '2020-01-17', url: 'https://github.com/carpentries/amy/issues/1609'}
   - {number: 1608, title: 500 Server error when 'manual attendance' field is not set,
     updated: '2020-01-20', url: 'https://github.com/carpentries/amy/issues/1608'}
   - {number: 1607, title: Remove Lessons Covered from the Workshops Event Page, updated: '2020-01-20',
@@ -1007,6 +1010,8 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1562'}
   - {number: 1610, title: 'Venue, address and latlong info not picked up from workshop
       URL', updated: '2020-01-21', url: 'https://github.com/carpentries/amy/issues/1610'}
+  - {number: 1609, title: Accepting WRF - Administrator Field (Removing unused options),
+    updated: '2020-01-24', url: 'https://github.com/carpentries/amy/issues/1609'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1016,6 +1021,10 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1577'}
   - {number: 1605, title: Bump djangorestframework from 3.9.4 to 3.11.0, updated: '2020-01-10',
     url: 'https://github.com/carpentries/amy/pull/1605'}
+  - {number: 1611, title: add link to submit self org wkshp, updated: '2020-01-23',
+    url: 'https://github.com/carpentries/amy/pull/1611'}
+  - {number: 1612, title: add help text to both email fields, updated: '2020-01-24',
+    url: 'https://github.com/carpentries/amy/pull/1612'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1027,4 +1036,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-01-23T15:24:19Z'
+timestamp: '2020-01-24T15:24:47Z'
