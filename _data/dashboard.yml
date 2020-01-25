@@ -650,6 +650,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/772'}
   - {number: 775, title: 'Moved data description to lesson 2. ', updated: '2020-01-20',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/775'}
+  - {number: 778, title: 'setup.md: reorganize and update', updated: '2020-01-24',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/778'}
   - {number: 777, title: '02-numpy: clarify numpy.diff() part', updated: '2020-01-24',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/777'}
   url: https://github.com/swcarpentry/python-novice-inflammation
@@ -1021,10 +1023,6 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1577'}
   - {number: 1605, title: Bump djangorestframework from 3.9.4 to 3.11.0, updated: '2020-01-10',
     url: 'https://github.com/carpentries/amy/pull/1605'}
-  - {number: 1611, title: add link to submit self org wkshp, updated: '2020-01-23',
-    url: 'https://github.com/carpentries/amy/pull/1611'}
-  - {number: 1612, title: add help text to both email fields, updated: '2020-01-24',
-    url: 'https://github.com/carpentries/amy/pull/1612'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1036,4 +1034,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-01-24T15:24:47Z'
+timestamp: '2020-01-25T15:24:51Z'
