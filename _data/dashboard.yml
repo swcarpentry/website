@@ -166,7 +166,7 @@ records:
   - {number: 1082, title: Be more explicit about which environments lack which help
       options (Ep. 2), updated: '2020-01-23', url: 'https://github.com/swcarpentry/shell-novice/issues/1082'}
   - {number: 1024, title: further developing Windows shell setup instructor guidance,
-    updated: '2020-01-24', url: 'https://github.com/swcarpentry/shell-novice/issues/1024'}
+    updated: '2020-01-27', url: 'https://github.com/swcarpentry/shell-novice/issues/1024'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -406,6 +406,8 @@ records:
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/305'}
   - {number: 309, title: Reference links broken on episode 1, updated: '2020-01-24',
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/309'}
+  - {number: 310, title: 'Episode 2 has 3 questions for the data, but only answers
+      2', updated: '2020-01-27', url: 'https://github.com/swcarpentry/sql-novice-survey/issues/310'}
   pulls:
   - {number: 274, title: adding a solution of a challange (Ordering When Concatenating),
     updated: '2018-12-13', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/274'}
@@ -590,7 +592,7 @@ records:
   - {number: 773, title: 'Defensive Programming: replacing assertions with exceptions ',
     updated: '2020-01-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/773'}
   - {number: 776, title: 'Analyzing Data from multiple files: generate composite statistics
-      example', updated: '2020-01-22', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/776'}
+      example', updated: '2020-01-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/776'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -654,6 +656,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/778'}
   - {number: 777, title: '02-numpy: clarify numpy.diff() part', updated: '2020-01-24',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/777'}
+  - {number: 779, title: update exercise "generate composite statistics", updated: '2020-01-27',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/779'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1034,4 +1038,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-01-26T15:24:55Z'
+timestamp: '2020-01-27T15:25:44Z'
