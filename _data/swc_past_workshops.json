@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Daniel McCloy,Anthony Valente",
+    "end_date": "2020-01-29",
+    "url": "https://drammock.github.io/2020-01-28-benaroya_research/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Benaroya Research Institute (Room 4 North)",
+    "longitude": -122.330276,
+    "slug": "2019-01-28-benaroya_research",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Benaroya Research Institute",
+    "latitude": 47.60323,
+    "start_date": "2020-01-28"
+  },
+  {
     "instructors": "Gaurav Vaidya,Saber Soleymani",
     "end_date": "2020-01-26",
     "url": "https://ncf0003.github.io/2020-01-25-wvu/",
@@ -9,13 +24,13 @@
     "longitude": -79.954247,
     "slug": "2020-01-25-wvu",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Nihan Pol,Nicolas Frazee,Vivian Guetler",
     "host_name": "West Virginia University",
     "latitude": 39.63321,
     "start_date": "2020-01-25"
   },
   {
-    "instructors": "Geno Sanchez,Mark Matney",
+    "instructors": "Tim Dennis,Geno Sanchez,Mark Matney",
     "end_date": "2020-01-23",
     "url": "https://ucla-data-archive.github.io/2020-01-22-ucla/",
     "country": "US",
@@ -24,7 +39,7 @@
     "longitude": -118.4411,
     "slug": "2020-01-22-ucla",
     "tag_name": "SWC",
-    "helpers": "Tim Dennis",
+    "helpers": "Tim Dennis,Kristian Allen,Leigh Phan",
     "host_name": "University of California Los Angeles",
     "latitude": 34.0751,
     "start_date": "2020-01-22"
@@ -45,7 +60,7 @@
     "start_date": "2020-01-21"
   },
   {
-    "instructors": "Ariel Rokem,Meg Drouhard",
+    "instructors": "Meg Drouhard,Daniela Huppenkothen",
     "end_date": "2020-01-24",
     "url": "https://uwescience.github.io/2020-01-21-uw/",
     "country": "US",
@@ -54,7 +69,7 @@
     "longitude": -122.3140595,
     "slug": "2020-01-21-uw",
     "tag_name": "SWC",
-    "helpers": "Ariel Rokem,Meg Drouhard,Eleanor Lutz",
+    "helpers": "Samuel White,Meg Drouhard,Tony Cannistra,Eleanor Lutz,Hyeon Jeong Kim,Anthony Valente",
     "host_name": "University of Washington",
     "latitude": 47.6533827,
     "start_date": "2020-01-21"

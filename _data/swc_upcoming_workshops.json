@@ -15,21 +15,6 @@
     "start_date": "2020-01-15"
   },
   {
-    "instructors": "Daniel McCloy,Anthony Valente",
-    "end_date": "2020-01-29",
-    "url": "https://drammock.github.io/2020-01-28-benaroya_research/",
-    "country": "US",
-    "curriculum": null,
-    "venue": "Benaroya Research Institute (Room 4 North)",
-    "longitude": -122.330276,
-    "slug": "2019-01-28-benaroya_research",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Benaroya Research Institute",
-    "latitude": 47.60323,
-    "start_date": "2020-01-28"
-  },
-  {
     "instructors": "Samniqueka Halsey",
     "end_date": "2020-01-31",
     "url": "https://swc-mizzou.github.io/2020-01-30-mizzou/",
@@ -148,6 +133,21 @@
     "host_name": "Boise State University",
     "latitude": 43.604172,
     "start_date": "2020-02-11"
+  },
+  {
+    "instructors": "Raphaël Grolimund,Antoine Masson,Mathilde Panes",
+    "end_date": "2020-02-14",
+    "url": "https://epfllibrary.github.io/2020-02-13-epfl/",
+    "country": "CH",
+    "curriculum": "swc-python",
+    "venue": "Ecole Polytechnique Fédérale de Lausanne",
+    "longitude": 6.566414,
+    "slug": "2020-02-13-epfl",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "École polytechnique fédérale de Lausanne",
+    "latitude": 46.518619,
+    "start_date": "2020-02-13"
   },
   {
     "instructors": "Hamid Mokhtarzadeh,Cian Wilson",

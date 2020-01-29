@@ -155,18 +155,19 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/928'}
   - {number: 802, title: 'Suggestion: less changing of data files?', updated: '2019-10-04',
     url: 'https://github.com/swcarpentry/shell-novice/issues/802'}
-  - {number: 1010, title: Unix Shell setup suggestion - Video link and instructions
-      on set up could be helpful, updated: '2019-11-27', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
   - {number: 927, title: POSIX compliance, updated: '2019-12-11', url: 'https://github.com/swcarpentry/shell-novice/issues/927'}
   - {number: 1056, title: Standardize layout of text in Output boxes, updated: '2019-12-16',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1056'}
   - {number: 996, title: Recursive option different between commands, updated: '2019-12-16',
     url: 'https://github.com/swcarpentry/shell-novice/issues/996'}
-  - {number: 1084, title: 'Add Header to Episode 02 ', updated: '2020-01-23', url: 'https://github.com/swcarpentry/shell-novice/issues/1084'}
   - {number: 1082, title: Be more explicit about which environments lack which help
       options (Ep. 2), updated: '2020-01-23', url: 'https://github.com/swcarpentry/shell-novice/issues/1082'}
+  - {number: 1086, title: 'Setup procedure for Windows: which one to follow?', updated: '2020-01-29',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/1086'}
   - {number: 1024, title: further developing Windows shell setup instructor guidance,
-    updated: '2020-01-28', url: 'https://github.com/swcarpentry/shell-novice/issues/1024'}
+    updated: '2020-01-29', url: 'https://github.com/swcarpentry/shell-novice/issues/1024'}
+  - {number: 1010, title: Unix Shell setup suggestion - Video link and instructions
+      on set up could be helpful, updated: '2020-01-29', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -650,10 +651,10 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/772'}
   - {number: 775, title: 'Moved data description to lesson 2. ', updated: '2020-01-20',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/775'}
-  - {number: 777, title: '02-numpy: clarify numpy.diff() part', updated: '2020-01-24',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/777'}
-  - {number: 778, title: 'setup.md: reorganize and update', updated: '2020-01-27',
+  - {number: 778, title: 'setup.md: reorganize and update', updated: '2020-01-28',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/778'}
+  - {number: 777, title: '02-numpy: clarify numpy.diff() part', updated: '2020-01-29',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/777'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -898,8 +899,6 @@ records:
   issues:
   - {number: 48, title: 'Any interest in changing scripts from python to bash?', updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/make-novice/issues/48'}
-  - {number: 152, title: '[Question] How are the png files for the DAGs in the lessons
-      generated?', updated: '2019-07-08', url: 'https://github.com/swcarpentry/make-novice/issues/152'}
   pulls:
   - {number: 74, title: wordcount.sh, updated: '2019-04-16', url: 'https://github.com/swcarpentry/make-novice/pull/74'}
   url: https://github.com/swcarpentry/make-novice
@@ -1014,6 +1013,10 @@ records:
       URL', updated: '2020-01-27', url: 'https://github.com/carpentries/amy/issues/1610'}
   - {number: 1609, title: Accepting WRF - Administrator Field (Removing unused options),
     updated: '2020-01-27', url: 'https://github.com/carpentries/amy/issues/1609'}
+  - {number: 1615, title: Import Trainee checkout contribution to AMY, updated: '2020-01-28',
+    url: 'https://github.com/carpentries/amy/issues/1615'}
+  - {number: 1614, title: 'Import Training Event Registration and Attendance ', updated: '2020-01-28',
+    url: 'https://github.com/carpentries/amy/issues/1614'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1023,6 +1026,8 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1577'}
   - {number: 1605, title: Bump djangorestframework from 3.9.4 to 3.11.0, updated: '2020-01-10',
     url: 'https://github.com/carpentries/amy/pull/1605'}
+  - {number: 1613, title: Event form - restricting administrator field, updated: '2020-01-28',
+    url: 'https://github.com/carpentries/amy/pull/1613'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1034,4 +1039,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-01-28T15:26:43Z'
+timestamp: '2020-01-29T15:26:54Z'
