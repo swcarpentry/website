@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Matti Juvonen,Chris MacMackin,Qingfeng Xia",
-    "end_date": "2020-01-30",
-    "url": "https://ukaea-rse-training.github.io/2020-01-15-ukaea-swcarpentry",
-    "country": "GB",
-    "curriculum": "swc-python",
-    "venue": "UK Atomic Energy Authority",
-    "longitude": -1.23,
-    "slug": "2020-01-15-ukaea-swcarpentry",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "UK Atomic Energy Authority",
-    "latitude": 51.657,
-    "start_date": "2020-01-15"
-  },
-  {
     "instructors": "Samniqueka Halsey",
     "end_date": "2020-01-31",
     "url": "https://swc-mizzou.github.io/2020-01-30-mizzou/",

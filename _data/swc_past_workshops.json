@@ -129,7 +129,7 @@
     "longitude": -73.96333,
     "slug": "2020-01-16-columbia-section-2",
     "tag_name": "SWC",
-    "helpers": "Brian Luna Lucero,Jonathan Reeve,Sydney Bolim Son,Alex Gil,Dustin King,Aaron Limoges",
+    "helpers": "Brian Luna Lucero,Jonathan Reeve,Alex Gil,Dustin King,Aaron Limoges,Sydney Bolim Son",
     "host_name": "Columbia University",
     "latitude": 40.80618,
     "start_date": "2020-01-16"
@@ -159,7 +159,7 @@
     "longitude": -73.96333,
     "slug": "2020-01-16-columbia-section-4",
     "tag_name": "SWC",
-    "helpers": "Wei Yin,Cesar Arias,Andres Montes,Sydney Bolim Son,Aratrika Mustafi",
+    "helpers": "Wei Yin,Cesar Arias,Andres Montes,Aratrika Mustafi,Sydney Bolim Son",
     "host_name": "Columbia University",
     "latitude": 40.80618,
     "start_date": "2020-01-16"
@@ -237,6 +237,21 @@
     "helpers": "Tim Dennis,Jamie Jamison,Kristian Allen,Lisa McAulay,Ibraheem Ali",
     "host_name": "University of California Los Angeles",
     "latitude": 34.069479,
+    "start_date": "2020-01-15"
+  },
+  {
+    "instructors": "Matti Juvonen,Chris MacMackin,Qingfeng Xia",
+    "end_date": "2020-01-30",
+    "url": "https://ukaea-rse-training.github.io/2020-01-15-ukaea-swcarpentry",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "UK Atomic Energy Authority",
+    "longitude": -1.23,
+    "slug": "2020-01-15-ukaea-swcarpentry",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "UK Atomic Energy Authority",
+    "latitude": 51.657,
     "start_date": "2020-01-15"
   },
   {
@@ -639,7 +654,7 @@
     "longitude": -95.922955,
     "slug": "2019-11-25-ou-swc-tulsa",
     "tag_name": "SWC",
-    "helpers": "Toni Hoberecht,Krista Kezbers (Olson is legal last name),Emrys Moreau,Alyssa Migdalsk",
+    "helpers": "Toni Hoberecht,Krista Kezbers (Olson),Emrys Moreau,Alyssa Migdalsk",
     "host_name": "University of Oklahoma",
     "latitude": 36.101228,
     "start_date": "2019-11-25"
@@ -1512,6 +1527,21 @@
     "helpers": "Meredith Rawls,Alicia Clark,Chad Curtis,John Huddleston,Anthony Valente,Kairsten Fay",
     "host_name": "University of Washington",
     "latitude": 47.606209,
+    "start_date": "2019-10-01"
+  },
+  {
+    "instructors": "Sean McCartney,Brendan McAndrew,Callum Wayman",
+    "end_date": "2019-10-02",
+    "url": "https://seanemccartney.github.io/2020-02-05-DEVELOP-Goddard/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "swc",
+    "longitude": -76.839594,
+    "slug": "2020-02-05-DEVELOP-Goddard",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "NASA (National Aeronautics and Space Administration)",
+    "latitude": 38.992541,
     "start_date": "2019-10-01"
   },
   {
@@ -2934,7 +2964,7 @@
     "longitude": -95.922955,
     "slug": "2019-05-30-ou-swc-tulsa",
     "tag_name": "SWC",
-    "helpers": "Toni Hoberecht,Krista Kezbers (Olson is legal last name)",
+    "helpers": "Toni Hoberecht,Krista Kezbers (Olson)",
     "host_name": "University of Oklahoma",
     "latitude": 36.101228,
     "start_date": "2019-05-30"

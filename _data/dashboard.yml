@@ -162,12 +162,12 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/996'}
   - {number: 1082, title: Be more explicit about which environments lack which help
       options (Ep. 2), updated: '2020-01-23', url: 'https://github.com/swcarpentry/shell-novice/issues/1082'}
-  - {number: 1086, title: 'Setup procedure for Windows: which one to follow?', updated: '2020-01-29',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/1086'}
   - {number: 1024, title: further developing Windows shell setup instructor guidance,
     updated: '2020-01-29', url: 'https://github.com/swcarpentry/shell-novice/issues/1024'}
   - {number: 1010, title: Unix Shell setup suggestion - Video link and instructions
       on set up could be helpful, updated: '2020-01-29', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
+  - {number: 1086, title: 'Setup procedure for Windows: which one to follow?', updated: '2020-01-30',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/1086'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -651,9 +651,7 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/772'}
   - {number: 775, title: 'Moved data description to lesson 2. ', updated: '2020-01-20',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/775'}
-  - {number: 778, title: 'setup.md: reorganize and update', updated: '2020-01-28',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/778'}
-  - {number: 777, title: '02-numpy: clarify numpy.diff() part', updated: '2020-01-29',
+  - {number: 777, title: '02-numpy: clarify numpy.diff() part', updated: '2020-01-30',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/777'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
@@ -1039,4 +1037,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-01-29T15:26:54Z'
+timestamp: '2020-01-30T15:27:51Z'
