@@ -146,8 +146,6 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1001'}
   - {number: 810, title: Ep4 `sort -n` has different behaviour on Mac and git bash
       vs linux, updated: '2019-08-26', url: 'https://github.com/swcarpentry/shell-novice/issues/810'}
-  - {number: 1032, title: Move "moving to the current folder" exercise in 03, updated: '2019-09-17',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/1032'}
   - {number: 1022, title: Setup is in the wrong order, updated: '2019-09-17', url: 'https://github.com/swcarpentry/shell-novice/issues/1022'}
   - {number: 1027, title: 'Episode 4: Don''t introduce `sort -r` when teaching piping',
     updated: '2019-09-18', url: 'https://github.com/swcarpentry/shell-novice/issues/1027'}
@@ -168,6 +166,8 @@ records:
       on set up could be helpful, updated: '2020-01-29', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
   - {number: 1086, title: 'Setup procedure for Windows: which one to follow?', updated: '2020-01-30',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1086'}
+  - {number: 1032, title: Move "moving to the current folder" exercise in 03, updated: '2020-01-31',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/1032'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -182,6 +182,9 @@ records:
   - {number: 1081, title: 'Edit in command not found message, in case the program
       corresponding to that command is not installed or mis-typed.', updated: '2020-01-23',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1081'}
+  - {number: 1088, title: Insert clear terminal command, updated: '2020-01-31', url: 'https://github.com/swcarpentry/shell-novice/pull/1088'}
+  - {number: 1087, title: 'Episode 6: clarify "longest file" solution', updated: '2020-01-31',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/1087'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -579,10 +582,6 @@ records:
       statements', updated: '2019-12-11', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/765'}
   - {number: 770, title: Describe/Document 'sorted' function, updated: '2019-12-16',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/770'}
-  - {number: 663, title: Lesson 1 - add info about variable names, updated: '2019-12-31',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/663'}
-  - {number: 633, title: 'Episode 02-loop.md: Improving visualization of the "for
-      loop"', updated: '2020-01-10', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/633'}
   - {number: 762, title: Programming with Python Episode 3 Example Suggestion, updated: '2020-01-16',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/762'}
   - {number: 494, title: Clean up SVG figures, updated: '2020-01-17', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/494'}
@@ -592,6 +591,10 @@ records:
       etc?', updated: '2020-01-20', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/63'}
   - {number: 773, title: 'Defensive Programming: replacing assertions with exceptions ',
     updated: '2020-01-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/773'}
+  - {number: 663, title: Lesson 1 - add info about variable names, updated: '2020-01-30',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/663'}
+  - {number: 633, title: 'Episode 02-loop.md: Improving visualization of the "for
+      loop"', updated: '2020-01-31', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/633'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -651,7 +654,7 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/772'}
   - {number: 775, title: 'Moved data description to lesson 2. ', updated: '2020-01-20',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/775'}
-  - {number: 777, title: '02-numpy: clarify numpy.diff() part', updated: '2020-01-30',
+  - {number: 777, title: '02-numpy: clarify numpy.diff() part', updated: '2020-01-31',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/777'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
@@ -1009,8 +1012,6 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1562'}
   - {number: 1610, title: 'Venue, address and latlong info not picked up from workshop
       URL', updated: '2020-01-27', url: 'https://github.com/carpentries/amy/issues/1610'}
-  - {number: 1609, title: Accepting WRF - Administrator Field (Removing unused options),
-    updated: '2020-01-27', url: 'https://github.com/carpentries/amy/issues/1609'}
   - {number: 1615, title: Import Trainee checkout contribution to AMY, updated: '2020-01-28',
     url: 'https://github.com/carpentries/amy/issues/1615'}
   - {number: 1614, title: 'Import Training Event Registration and Attendance ', updated: '2020-01-28',
@@ -1024,8 +1025,8 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1577'}
   - {number: 1605, title: Bump djangorestframework from 3.9.4 to 3.11.0, updated: '2020-01-10',
     url: 'https://github.com/carpentries/amy/pull/1605'}
-  - {number: 1613, title: Event form - restricting administrator field, updated: '2020-01-28',
-    url: 'https://github.com/carpentries/amy/pull/1613'}
+  - {number: 1616, title: 'WIP: Email Automation project', updated: '2020-01-30',
+    url: 'https://github.com/carpentries/amy/pull/1616'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1037,4 +1038,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-01-30T15:27:51Z'
+timestamp: '2020-01-31T15:27:56Z'

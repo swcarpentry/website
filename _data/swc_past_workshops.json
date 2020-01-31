@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Samniqueka Halsey",
+    "end_date": "2020-01-31",
+    "url": "https://swc-mizzou.github.io/2020-01-30-mizzou/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Missouri",
+    "longitude": -92.32859,
+    "slug": "2020-01-30-mizzou",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 38.95155,
+    "start_date": "2020-01-30"
+  },
+  {
+    "instructors": "Amanda Stahlke,Breanna Sipley",
+    "end_date": "2020-01-31",
+    "url": "http://astahlke.github.io/2020-01-30-uidaho",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Idaho",
+    "longitude": -117.01093,
+    "slug": "2020-01-30-uidaho",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Idaho",
+    "latitude": 46.72696,
+    "start_date": "2020-01-30"
+  },
+  {
     "instructors": "Daniel McCloy,Anthony Valente",
     "end_date": "2020-01-29",
     "url": "https://drammock.github.io/2020-01-28-benaroya_research/",

@@ -1,33 +1,18 @@
 [
   {
-    "instructors": "Samniqueka Halsey",
-    "end_date": "2020-01-31",
-    "url": "https://swc-mizzou.github.io/2020-01-30-mizzou/",
-    "country": "US",
+    "instructors": "Konrad Förstner,Till Sauerwein,eva Seidlmayer,Rabea Müller",
+    "end_date": "2020-02-04",
+    "url": "https://zbmed.github.io/2020-02-03-Software-Carpentry-Cologne/",
+    "country": "DE",
     "curriculum": "swc-python",
-    "venue": "University of Missouri",
-    "longitude": -92.32859,
-    "slug": "2020-01-30-mizzou",
+    "venue": "Software Carpentry @ ZB MED",
+    "longitude": 6.91646,
+    "slug": "2020-02-03-Software-Carpentry-Cologne",
     "tag_name": "SWC",
     "helpers": null,
-    "host_name": "University of Missouri",
-    "latitude": 38.95155,
-    "start_date": "2020-01-30"
-  },
-  {
-    "instructors": "Amanda Stahlke,Breanna Sipley",
-    "end_date": "2020-01-31",
-    "url": "http://astahlke.github.io/2020-01-30-uidaho",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "University of Idaho",
-    "longitude": -117.01093,
-    "slug": "2020-01-30-uidaho",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Idaho",
-    "latitude": 46.72696,
-    "start_date": "2020-01-30"
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.92465,
+    "start_date": "2020-02-03"
   },
   {
     "instructors": "Mark Phillips,Kristy Phillips,Manuel (Gio) Gottardi,Maristella Feustle",
@@ -193,6 +178,21 @@
     "host_name": "University of Idaho",
     "latitude": 46.727284,
     "start_date": "2020-02-27"
+  },
+  {
+    "instructors": "Shervin Sahba,Kelsey Montgomery",
+    "end_date": "2020-03-14",
+    "url": "https://shervinsahba.github.io/2020-03-13-sdsu",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "San Diego State University",
+    "longitude": -117.07,
+    "slug": "2020-03-13-sdsu",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "San Diego State University",
+    "latitude": 32.78,
+    "start_date": "2020-03-13"
   },
   {
     "instructors": "Jarno Rantaharju,João da Silva,Richard Darst",
