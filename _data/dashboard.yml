@@ -204,8 +204,6 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/409'}
   - {number: 360, title: using gui editors for commit messages, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/issues/360'}
-  - {number: 357, title: 'Episode 1: "merging" graphics is misleading', updated: '2018-07-19',
-    url: 'https://github.com/swcarpentry/git-novice/issues/357'}
   - {number: 523, title: Make 01-basics objective broader, updated: '2018-09-12',
     url: 'https://github.com/swcarpentry/git-novice/issues/523'}
   - {number: 519, title: This description of the VCS concept is misleading for Git,
@@ -276,6 +274,8 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/721'}
   - {number: 720, title: 'Lesson 3: revise instructions for using rm', updated: '2020-01-22',
     url: 'https://github.com/swcarpentry/git-novice/issues/720'}
+  - {number: 357, title: 'Episode 1: "merging" graphics is misleading', updated: '2020-02-01',
+    url: 'https://github.com/swcarpentry/git-novice/issues/357'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -593,6 +593,8 @@ records:
     updated: '2020-01-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/773'}
   - {number: 663, title: Lesson 1 - add info about variable names, updated: '2020-01-30',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/663'}
+  - {number: 780, title: '02-numpy: use patient data for 1D array in Change In Inflammation
+      exercise ', updated: '2020-01-31', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/780'}
   - {number: 633, title: 'Episode 02-loop.md: Improving visualization of the "for
       loop"', updated: '2020-01-31', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/633'}
   pulls:
@@ -648,14 +650,10 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/766'}
   - {number: 697, title: 'Update 06-func.md: exercise time', updated: '2019-12-13',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/697'}
-  - {number: 657, title: '01-numpy.md: Loading data: update introductory text', updated: '2019-12-13',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/657'}
   - {number: 772, title: Clarification on using group plots in jupyter notebook, updated: '2019-12-20',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/772'}
   - {number: 775, title: 'Moved data description to lesson 2. ', updated: '2020-01-20',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/775'}
-  - {number: 777, title: '02-numpy: clarify numpy.diff() part', updated: '2020-01-31',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/777'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1025,7 +1023,7 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1577'}
   - {number: 1605, title: Bump djangorestframework from 3.9.4 to 3.11.0, updated: '2020-01-10',
     url: 'https://github.com/carpentries/amy/pull/1605'}
-  - {number: 1616, title: 'WIP: Email Automation project', updated: '2020-01-30',
+  - {number: 1616, title: 'WIP: Email Automation project', updated: '2020-01-31',
     url: 'https://github.com/carpentries/amy/pull/1616'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
@@ -1038,4 +1036,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-01-31T15:27:56Z'
+timestamp: '2020-02-01T15:28:29Z'
