@@ -321,6 +321,8 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/pull/715'}
   - {number: 686, title: 'Make it clear that git status is introduced in Episode 3
       (issue #685)', updated: '2020-01-16', url: 'https://github.com/swcarpentry/git-novice/pull/686'}
+  - {number: 722, title: 'Update the logic and colours of rows in figures, Fixes #357',
+    updated: '2020-02-01', url: 'https://github.com/swcarpentry/git-novice/pull/722'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -1010,9 +1012,11 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1562'}
   - {number: 1610, title: 'Venue, address and latlong info not picked up from workshop
       URL', updated: '2020-01-27', url: 'https://github.com/carpentries/amy/issues/1610'}
-  - {number: 1615, title: Import Trainee checkout contribution to AMY, updated: '2020-01-28',
+  - {number: 1617, title: Update verbiage on trainee dashboard, updated: '2020-02-01',
+    url: 'https://github.com/carpentries/amy/issues/1617'}
+  - {number: 1615, title: Import Trainee checkout contribution to AMY, updated: '2020-02-01',
     url: 'https://github.com/carpentries/amy/issues/1615'}
-  - {number: 1614, title: 'Import Training Event Registration and Attendance ', updated: '2020-01-28',
+  - {number: 1614, title: 'Import Training Event Registration and Attendance ', updated: '2020-02-01',
     url: 'https://github.com/carpentries/amy/issues/1614'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
@@ -1023,7 +1027,7 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1577'}
   - {number: 1605, title: Bump djangorestframework from 3.9.4 to 3.11.0, updated: '2020-01-10',
     url: 'https://github.com/carpentries/amy/pull/1605'}
-  - {number: 1616, title: 'WIP: Email Automation project', updated: '2020-01-31',
+  - {number: 1616, title: 'WIP: Email Automation project', updated: '2020-02-02',
     url: 'https://github.com/carpentries/amy/pull/1616'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
@@ -1036,4 +1040,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-02-01T15:28:29Z'
+timestamp: '2020-02-02T15:28:33Z'
