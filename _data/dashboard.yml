@@ -100,8 +100,6 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/911'}
   - {number: 924, title: 'Ep3: Moving to the current folder - use different file extensions?',
     updated: '2019-02-28', url: 'https://github.com/swcarpentry/shell-novice/issues/924'}
-  - {number: 861, title: 'Episode 5: Loops - suggested edit - Instructor checkout',
-    updated: '2019-03-18', url: 'https://github.com/swcarpentry/shell-novice/issues/861'}
   - {number: 948, title: '"Manual pages on the web" requires a caveat', updated: '2019-04-01',
     url: 'https://github.com/swcarpentry/shell-novice/issues/948'}
   - {number: 955, title: Wildcards content awkwardly split between episodes 3 and
@@ -168,6 +166,8 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1086'}
   - {number: 1032, title: Move "moving to the current folder" exercise in 03, updated: '2020-01-31',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1032'}
+  - {number: 861, title: 'Episode 5: Loops - suggested edit - Instructor checkout',
+    updated: '2020-02-03', url: 'https://github.com/swcarpentry/shell-novice/issues/861'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -807,8 +807,6 @@ records:
       dput function', updated: '2019-08-01', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/545'}
   - {number: 543, title: Specificity of learning objectives for data structures lesson,
     updated: '2019-08-02', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/543'}
-  - {number: 481, title: '[Suggestion] Replace the read.csv(data/gapminder.csv) with
-      library(gapminder)', updated: '2019-08-08', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/481'}
   - {number: 540, title: Remove plyr dependency, updated: '2019-08-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/540'}
   - {number: 542, title: Suggestion to add a gentler introduction for ggplot2, updated: '2019-08-16',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/542'}
@@ -844,6 +842,8 @@ records:
     updated: '2020-01-17', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/607'}
   - {number: 611, title: 'Challenges 4b and 5 in http://swcarpentry.github.io/r-novice-gapminder/08-plot-ggplot2/index.html
       has different style', updated: '2020-01-23', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/611'}
+  - {number: 481, title: '[Suggestion] Replace the read.csv(data/gapminder.csv) with
+      library(gapminder)', updated: '2020-02-03', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/481'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -858,6 +858,8 @@ records:
     updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/573'}
   - {number: 589, title: 'Spell check and apply consistent code style (close #548) ',
     updated: '2019-11-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
+  - {number: 612, title: hoping to fix style on challenges 4b and 5, updated: '2020-02-02',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/612'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1014,9 +1016,9 @@ records:
       URL', updated: '2020-01-27', url: 'https://github.com/carpentries/amy/issues/1610'}
   - {number: 1617, title: Update verbiage on trainee dashboard, updated: '2020-02-01',
     url: 'https://github.com/carpentries/amy/issues/1617'}
-  - {number: 1615, title: Import Trainee checkout contribution to AMY, updated: '2020-02-01',
+  - {number: 1615, title: Import Trainee checkout contribution to AMY, updated: '2020-02-03',
     url: 'https://github.com/carpentries/amy/issues/1615'}
-  - {number: 1614, title: 'Import Training Event Registration and Attendance ', updated: '2020-02-01',
+  - {number: 1614, title: 'Import Training Event Registration and Attendance ', updated: '2020-02-03',
     url: 'https://github.com/carpentries/amy/issues/1614'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
@@ -1040,4 +1042,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-02-02T15:28:33Z'
+timestamp: '2020-02-03T15:28:57Z'
