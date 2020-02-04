@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Konrad Förstner,Till Sauerwein,eva Seidlmayer,Rabea Müller",
+    "end_date": "2020-02-04",
+    "url": "https://zbmed.github.io/2020-02-03-Software-Carpentry-Cologne/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "Software Carpentry @ ZB MED",
+    "longitude": 6.91646,
+    "slug": "2020-02-03-Software-Carpentry-Cologne",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "ZB Med Information Centre for Life Sciences",
+    "latitude": 50.92465,
+    "start_date": "2020-02-03"
+  },
+  {
     "instructors": "Samniqueka Halsey",
     "end_date": "2020-01-31",
     "url": "https://swc-mizzou.github.io/2020-01-30-mizzou/",
@@ -37,7 +52,7 @@
     "curriculum": null,
     "venue": "Benaroya Research Institute (Room 4 North)",
     "longitude": -122.330276,
-    "slug": "2019-01-28-benaroya_research",
+    "slug": "2020-01-28-benaroya_research",
     "tag_name": "SWC",
     "helpers": null,
     "host_name": "Benaroya Research Institute",
@@ -330,7 +345,7 @@
     "start_date": "2020-01-09"
   },
   {
-    "instructors": null,
+    "instructors": "Ed Bennett,Mark Dawson,Chennakesava Kadapa,Michele Mesiti",
     "end_date": "2020-01-09",
     "url": "https://sa2c.github.io/2020-01-08-swansea",
     "country": "GB",
@@ -339,7 +354,7 @@
     "longitude": -3.880897,
     "slug": "2020-01-08-swansea",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Ben Thorpe",
     "host_name": "Swansea University",
     "latitude": 51.617903,
     "start_date": "2020-01-08"
@@ -420,7 +435,7 @@
     "start_date": "2019-12-16"
   },
   {
-    "instructors": null,
+    "instructors": "Punam Amratia,Kiana West,Varshita Sher",
     "end_date": "2019-12-17",
     "url": "https://punama.github.io/2019-12-16-london-kcl/",
     "country": "GB",
@@ -795,7 +810,7 @@
     "start_date": "2019-11-18"
   },
   {
-    "instructors": null,
+    "instructors": "Christopher Cave-Ayland,Lucy Whalley,Diego Alonso Álvarez,Iain Stenson,Chris Cooling",
     "end_date": "2019-11-15",
     "url": "https://kmichali.github.io/2019-11-14-Imperial/",
     "country": "GB",
@@ -804,7 +819,7 @@
     "longitude": -0.174877,
     "slug": "2019-11-14-Imperial",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Amit Mandal,John Pinney,Jeremy Cohen,Santiago Lacalle Puig",
     "host_name": "Imperial College London",
     "latitude": 51.4988,
     "start_date": "2019-11-14"
@@ -2865,7 +2880,7 @@
     "start_date": "2019-06-11"
   },
   {
-    "instructors": "Juan Herrera",
+    "instructors": "Mario Antonioletti,Juan Herrera",
     "end_date": "2019-06-11",
     "url": "https://hpcarcher.github.io/2019-06-10-york/",
     "country": "GB",
@@ -2874,7 +2889,7 @@
     "longitude": -1.046603,
     "slug": "2019-06-10-york",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Phil Hasnip,Killian Murphy,Peter Hill",
     "host_name": "University of York",
     "latitude": 53.9480435,
     "start_date": "2019-06-10"

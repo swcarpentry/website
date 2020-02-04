@@ -166,8 +166,6 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1086'}
   - {number: 1032, title: Move "moving to the current folder" exercise in 03, updated: '2020-01-31',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1032'}
-  - {number: 861, title: 'Episode 5: Loops - suggested edit - Instructor checkout',
-    updated: '2020-02-03', url: 'https://github.com/swcarpentry/shell-novice/issues/861'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -183,8 +181,7 @@ records:
       corresponding to that command is not installed or mis-typed.', updated: '2020-01-23',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1081'}
   - {number: 1088, title: Insert clear terminal command, updated: '2020-01-31', url: 'https://github.com/swcarpentry/shell-novice/pull/1088'}
-  - {number: 1087, title: 'Episode 6: clarify "longest file" solution', updated: '2020-01-31',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/1087'}
+  - {number: 1089, title: Update 02-filedir.md, updated: '2020-02-04', url: 'https://github.com/swcarpentry/shell-novice/pull/1089'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -595,10 +592,12 @@ records:
     updated: '2020-01-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/773'}
   - {number: 663, title: Lesson 1 - add info about variable names, updated: '2020-01-30',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/663'}
-  - {number: 780, title: '02-numpy: use patient data for 1D array in Change In Inflammation
-      exercise ', updated: '2020-01-31', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/780'}
   - {number: 633, title: 'Episode 02-loop.md: Improving visualization of the "for
       loop"', updated: '2020-01-31', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/633'}
+  - {number: 780, title: '02-numpy: use patient data for 1D array in Change In Inflammation
+      exercise ', updated: '2020-02-03', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/780'}
+  - {number: 781, title: 'Call for Contributions: image descriptions & titles', updated: '2020-02-04',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -1016,6 +1015,7 @@ records:
       URL', updated: '2020-01-27', url: 'https://github.com/carpentries/amy/issues/1610'}
   - {number: 1617, title: Update verbiage on trainee dashboard, updated: '2020-02-01',
     url: 'https://github.com/carpentries/amy/issues/1617'}
+  - {number: 1618, title: Match Secondary Email in WRF, updated: '2020-02-03', url: 'https://github.com/carpentries/amy/issues/1618'}
   - {number: 1615, title: Import Trainee checkout contribution to AMY, updated: '2020-02-03',
     url: 'https://github.com/carpentries/amy/issues/1615'}
   - {number: 1614, title: 'Import Training Event Registration and Attendance ', updated: '2020-02-03',
@@ -1042,4 +1042,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-02-03T15:28:57Z'
+timestamp: '2020-02-04T15:29:05Z'

@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Konrad Förstner,Till Sauerwein,eva Seidlmayer,Rabea Müller",
-    "end_date": "2020-02-04",
-    "url": "https://zbmed.github.io/2020-02-03-Software-Carpentry-Cologne/",
-    "country": "DE",
-    "curriculum": "swc-python",
-    "venue": "Software Carpentry @ ZB MED",
-    "longitude": 6.91646,
-    "slug": "2020-02-03-Software-Carpentry-Cologne",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "ZB Med Information Centre for Life Sciences",
-    "latitude": 50.92465,
-    "start_date": "2020-02-03"
-  },
-  {
     "instructors": "Mark Phillips,Kristy Phillips,Manuel (Gio) Gottardi,Maristella Feustle",
     "end_date": "2020-02-05",
     "url": "https://unt-carpentries.github.io/2020-02-04-unt-swc/",
@@ -135,6 +120,21 @@
     "start_date": "2020-02-13"
   },
   {
+    "instructors": "Samantha Ahern,Anastasis Georgoulas,Shikta Das,Aasiyah Rashan",
+    "end_date": "2020-02-19",
+    "url": "http://rits.github-pages.ucl.ac.uk/2020-02-18_UCL_software_carpentry/",
+    "country": "GB",
+    "curriculum": "swc-es-python",
+    "venue": "UCL",
+    "longitude": -0.132152,
+    "slug": "2020-02-18-UCL",
+    "tag_name": "SWC",
+    "helpers": "Matthew Gillman,Tuomas Koskela",
+    "host_name": "University College London",
+    "latitude": 51.525388,
+    "start_date": "2020-02-18"
+  },
+  {
     "instructors": "Mark Crowe",
     "end_date": "2020-02-19",
     "url": "https://qcif-training.github.io/2020-02-18-UQ-R/",
@@ -178,6 +178,36 @@
     "host_name": "University of Idaho",
     "latitude": 46.727284,
     "start_date": "2020-02-27"
+  },
+  {
+    "instructors": "Jacob Koehler,Trevor Burrows",
+    "end_date": "2020-03-08",
+    "url": "https://ncf0003.github.io/2020-03-07-wvu/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "West Virginia University (Basic R Workshop)",
+    "longitude": null,
+    "slug": "2020-03-07-wvu",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "West Virginia University",
+    "latitude": null,
+    "start_date": "2020-03-07"
+  },
+  {
+    "instructors": "Heather Ciallella,Liam Sharp,Sid Bhadra-Lobo",
+    "end_date": "2020-03-14",
+    "url": "https://lms464.github.io/2020-03-13-Rutgers-SWC/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Joint Health Sciences Center",
+    "longitude": -1,
+    "slug": "2020-03-13-Rutgers-SWC",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Rutgers University - Camden",
+    "latitude": 45,
+    "start_date": "2020-03-13"
   },
   {
     "instructors": "Shervin Sahba,Kelsey Montgomery",
@@ -298,6 +328,21 @@
     "host_name": "Griffith University",
     "latitude": -27.552941,
     "start_date": "2020-05-26"
+  },
+  {
+    "instructors": "Andrew Battista,Billy Broderick",
+    "end_date": "2020-05-29",
+    "url": "https://nyu-dataservices.github.io/2020-05-28-nyu/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "New York University",
+    "longitude": -73.999364,
+    "slug": "2020-05-28-nyu",
+    "tag_name": "SWC",
+    "helpers": "Vicky Steeves,Casey Hampsey",
+    "host_name": "New York University",
+    "latitude": 40.7294556,
+    "start_date": "2020-05-28"
   },
   {
     "instructors": "Amanda Miotto",
