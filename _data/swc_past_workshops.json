@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Mark Phillips,Kristy Phillips,Manuel (Gio) Gottardi,Maristella Feustle",
+    "end_date": "2020-02-05",
+    "url": "https://unt-carpentries.github.io/2020-02-04-unt-swc/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of North Texas",
+    "longitude": -97.148954,
+    "slug": "2020-02-04-unt-swc",
+    "tag_name": "SWC",
+    "helpers": "Lauren Ko,Madhulika Bayyavarapu",
+    "host_name": "University of North Texas",
+    "latitude": 33.210068,
+    "start_date": "2020-02-04"
+  },
+  {
     "instructors": "Konrad Förstner,Till Sauerwein,eva Seidlmayer,Rabea Müller",
     "end_date": "2020-02-04",
     "url": "https://zbmed.github.io/2020-02-03-Software-Carpentry-Cologne/",
@@ -15,7 +30,7 @@
     "start_date": "2020-02-03"
   },
   {
-    "instructors": "Samniqueka Halsey",
+    "instructors": "Samniqueka Halsey,Steven Pryor",
     "end_date": "2020-01-31",
     "url": "https://swc-mizzou.github.io/2020-01-30-mizzou/",
     "country": "US",
@@ -30,7 +45,7 @@
     "start_date": "2020-01-30"
   },
   {
-    "instructors": "Amanda Stahlke,Breanna Sipley",
+    "instructors": "Amanda Stahlke,Breanna Sipley,Chava Castaneda Barba,Clint Elg",
     "end_date": "2020-01-31",
     "url": "http://astahlke.github.io/2020-01-30-uidaho",
     "country": "US",
@@ -39,7 +54,7 @@
     "longitude": -117.01093,
     "slug": "2020-01-30-uidaho",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Conrad Mearns,Megan Ruffley",
     "host_name": "University of Idaho",
     "latitude": 46.72696,
     "start_date": "2020-01-30"
@@ -54,7 +69,7 @@
     "longitude": -122.330276,
     "slug": "2020-01-28-benaroya_research",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Kim Dill-McFarland,Ezgi Irmak Yucel,Hyeon Jeong Kim",
     "host_name": "Benaroya Research Institute",
     "latitude": 47.60323,
     "start_date": "2020-01-28"
@@ -69,7 +84,7 @@
     "longitude": -79.954247,
     "slug": "2020-01-25-wvu",
     "tag_name": "SWC",
-    "helpers": "Nihan Pol,Nicolas Frazee,Vivian Guetler",
+    "helpers": "Nihan Pol,Nicolas Frazee,Vivian Guetler,Ryan Jones",
     "host_name": "West Virginia University",
     "latitude": 39.63321,
     "start_date": "2020-01-25"
@@ -114,7 +129,7 @@
     "longitude": -122.3140595,
     "slug": "2020-01-21-uw",
     "tag_name": "SWC",
-    "helpers": "Samuel White,Meg Drouhard,Tony Cannistra,Eleanor Lutz,Hyeon Jeong Kim,Anthony Valente",
+    "helpers": "Samuel White,Meg Drouhard,Tony Cannistra,Eleanor Lutz,Hyeon Jeong Kim,Anthony Valente,Shervin Saba",
     "host_name": "University of Washington",
     "latitude": 47.6533827,
     "start_date": "2020-01-21"
@@ -144,7 +159,7 @@
     "longitude": -118.441609,
     "slug": "2020-01-18-SWC",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Rachel Turba,Nitika Sharma,Marcel Vaz,Daniel Chavez",
     "host_name": "University of California Los Angeles",
     "latitude": 34.066471,
     "start_date": "2020-01-18"

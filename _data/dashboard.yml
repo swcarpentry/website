@@ -584,8 +584,6 @@ records:
   - {number: 762, title: Programming with Python Episode 3 Example Suggestion, updated: '2020-01-16',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/762'}
   - {number: 494, title: Clean up SVG figures, updated: '2020-01-17', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/494'}
-  - {number: 774, title: 'Call for Contributions: visuals (images, figures, plots,
-      charts, etc.)', updated: '2020-01-20', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/774'}
   - {number: 63, title: 'Perhaps we shouldn''t have readings-01.py, readings-02.py
       etc?', updated: '2020-01-20', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/63'}
   - {number: 773, title: 'Defensive Programming: replacing assertions with exceptions ',
@@ -594,10 +592,12 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/663'}
   - {number: 633, title: 'Episode 02-loop.md: Improving visualization of the "for
       loop"', updated: '2020-01-31', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/633'}
-  - {number: 780, title: '02-numpy: use patient data for 1D array in Change In Inflammation
-      exercise ', updated: '2020-02-03', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/780'}
   - {number: 781, title: 'Call for Contributions: image descriptions & titles', updated: '2020-02-04',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
+  - {number: 780, title: '02-numpy: use patient data for 1D array in Change In Inflammation
+      exercise ', updated: '2020-02-04', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/780'}
+  - {number: 774, title: 'Call for Contributions: visuals (images, figures, plots,
+      charts, etc.)', updated: '2020-02-04', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/774'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -655,6 +655,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/772'}
   - {number: 775, title: 'Moved data description to lesson 2. ', updated: '2020-01-20',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/775'}
+  - {number: 782, title: Updating 02-numpy numpy.diff example to use patient data,
+    updated: '2020-02-04', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/782'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -857,8 +859,6 @@ records:
     updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/573'}
   - {number: 589, title: 'Spell check and apply consistent code style (close #548) ',
     updated: '2019-11-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
-  - {number: 612, title: hoping to fix style on challenges 4b and 5, updated: '2020-02-02',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/612'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1042,4 +1042,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-02-04T15:29:05Z'
+timestamp: '2020-02-05T15:29:37Z'

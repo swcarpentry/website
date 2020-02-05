@@ -1,18 +1,18 @@
 [
   {
-    "instructors": "Mark Phillips,Kristy Phillips,Manuel (Gio) Gottardi,Maristella Feustle",
-    "end_date": "2020-02-05",
-    "url": "https://unt-carpentries.github.io/2020-02-04-unt-swc/",
+    "instructors": "Katie Dejwakh,Makhan Virdi,Kenton Ross",
+    "end_date": "2020-02-06",
+    "url": "https://kdottiemo.github.io/2020-02-05-DEVELOP-LaRC/",
     "country": "US",
     "curriculum": "swc-python",
-    "venue": "University of North Texas",
-    "longitude": -97.148954,
-    "slug": "2020-02-04-unt-swc",
+    "venue": "NASA LaRC, Bldg. 2102 (IESB), Rooms 265-266",
+    "longitude": -76.383465,
+    "slug": "2020-02-05-DEVELOP-LaRC",
     "tag_name": "SWC",
-    "helpers": "Lauren Ko,Madhulika Bayyavarapu",
-    "host_name": "University of North Texas",
-    "latitude": 33.210068,
-    "start_date": "2020-02-04"
+    "helpers": "Daniel Mangosing",
+    "host_name": "NASA (National Aeronautics and Space Administration)",
+    "latitude": 37.090303,
+    "start_date": "2020-02-05"
   },
   {
     "instructors": "Phillip Doehle",
