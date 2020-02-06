@@ -700,8 +700,6 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/392'}
   - {number: 438, title: 'Setup / Prerequisites Suggestions -- Remedial Links or Assessments?',
     updated: '2019-08-11', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/438'}
-  - {number: 452, title: Setting directories with tab auto-complete, updated: '2019-10-22',
-    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/452'}
   - {number: 455, title: Command Line Programs, updated: '2019-10-29', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/455'}
   - {number: 343, title: 'Packaging: refer to other resources', updated: '2019-11-06',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/343'}
@@ -845,6 +843,8 @@ records:
       has different style', updated: '2020-01-23', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/611'}
   - {number: 481, title: '[Suggestion] Replace the read.csv(data/gapminder.csv) with
       library(gapminder)', updated: '2020-02-03', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/481'}
+  - {number: 613, title: 'Episode 2 Challenge 4: Shell solution has "R" label.', updated: '2020-02-06',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/613'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -1042,4 +1042,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-02-05T15:29:37Z'
+timestamp: '2020-02-06T15:30:19Z'
