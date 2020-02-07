@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Phillip Doehle",
-    "end_date": "2020-02-07",
-    "url": "https://osu-carpentry.github.io/2020-02-06-okstate/",
-    "country": "US",
-    "curriculum": "swc-plotting",
-    "venue": "Oklahoma State University",
-    "longitude": -97.069743,
-    "slug": "2020-02-06-okstate",
-    "tag_name": "SWC",
-    "helpers": "Kay BJornen",
-    "host_name": "Oklahoma State University",
-    "latitude": 36.122951,
-    "start_date": "2020-02-06"
-  },
-  {
-    "instructors": "Michael Francis,Tito Peña Montenegro",
-    "end_date": "2020-02-07",
-    "url": "https://uga-carpentries.github.io/2020-02-07-uga/",
-    "country": "US",
-    "curriculum": "swc-reproducible-science",
-    "venue": "University of Georgia",
-    "longitude": -83.37608,
-    "slug": "2020-02-07-uga",
-    "tag_name": "SWC",
-    "helpers": "Dung Tran,Hallie Wright,Shiva Makaju,Davis Gimode,Lynsey Kovar,Anna Willoughby",
-    "host_name": "University of Georgia",
-    "latitude": 33.951663,
-    "start_date": "2020-02-07"
-  },
-  {
     "instructors": "Nihan Pol,Brian Powell",
     "end_date": "2020-02-08",
     "url": "https://ncf0003.github.io/2020-02-08-wvu/",
@@ -208,6 +178,21 @@
     "host_name": "San Diego State University",
     "latitude": 32.78,
     "start_date": "2020-03-13"
+  },
+  {
+    "instructors": "Joey Bernard,Serguei Vassiliev",
+    "end_date": "2020-03-17",
+    "url": "https://ssvassiliev.github.io/2020-03-17-unb/",
+    "country": "CA",
+    "curriculum": "swc-plotting",
+    "venue": "Programming with Python - University of New Brunswick",
+    "longitude": null,
+    "slug": "2020-03-17-unb",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of New Brunswick",
+    "latitude": null,
+    "start_date": "2020-03-17"
   },
   {
     "instructors": "Jarno Rantaharju,João da Silva,Richard Darst",

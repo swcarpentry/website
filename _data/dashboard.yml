@@ -656,7 +656,7 @@ records:
   - {number: 775, title: 'Moved data description to lesson 2. ', updated: '2020-01-20',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/775'}
   - {number: 782, title: Updating 02-numpy numpy.diff example to use patient data,
-    updated: '2020-02-04', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/782'}
+    updated: '2020-02-06', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/782'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -843,8 +843,6 @@ records:
       has different style', updated: '2020-01-23', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/611'}
   - {number: 481, title: '[Suggestion] Replace the read.csv(data/gapminder.csv) with
       library(gapminder)', updated: '2020-02-03', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/481'}
-  - {number: 613, title: 'Episode 2 Challenge 4: Shell solution has "R" label.', updated: '2020-02-06',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/613'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -1029,7 +1027,9 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1577'}
   - {number: 1605, title: Bump djangorestframework from 3.9.4 to 3.11.0, updated: '2020-01-10',
     url: 'https://github.com/carpentries/amy/pull/1605'}
-  - {number: 1616, title: 'WIP: Email Automation project', updated: '2020-02-02',
+  - {number: 1619, title: 'Training Request form: Add missing email context', updated: '2020-02-07',
+    url: 'https://github.com/carpentries/amy/pull/1619'}
+  - {number: 1616, title: 'WIP: Email Automation project', updated: '2020-02-07',
     url: 'https://github.com/carpentries/amy/pull/1616'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
@@ -1042,4 +1042,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-02-06T15:30:19Z'
+timestamp: '2020-02-07T15:30:45Z'
