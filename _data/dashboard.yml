@@ -645,7 +645,6 @@ records:
     updated: '2019-08-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/695'}
   - {number: 693, title: Update 08-defensive.md, updated: '2019-08-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/693'}
   - {number: 718, title: specify line color to blue, updated: '2019-10-01', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/718'}
-  - {number: 726, title: Update 02-loop.md, updated: '2019-10-15', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/726'}
   - {number: 715, title: Update 03-lists.md, updated: '2019-11-08', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/715'}
   - {number: 766, title: '01-intro.md: New fundamentals exercise', updated: '2019-12-13',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/766'}
@@ -1014,10 +1013,10 @@ records:
   - {number: 1617, title: Update verbiage on trainee dashboard, updated: '2020-02-01',
     url: 'https://github.com/carpentries/amy/issues/1617'}
   - {number: 1618, title: Match Secondary Email in WRF, updated: '2020-02-03', url: 'https://github.com/carpentries/amy/issues/1618'}
-  - {number: 1615, title: Import Trainee checkout contribution to AMY, updated: '2020-02-03',
-    url: 'https://github.com/carpentries/amy/issues/1615'}
   - {number: 1614, title: 'Import Training Event Registration and Attendance ', updated: '2020-02-03',
     url: 'https://github.com/carpentries/amy/issues/1614'}
+  - {number: 1615, title: Import Trainee checkout contribution to AMY, updated: '2020-02-07',
+    url: 'https://github.com/carpentries/amy/issues/1615'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1029,7 +1028,7 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1605'}
   - {number: 1619, title: 'Training Request form: Add missing email context', updated: '2020-02-07',
     url: 'https://github.com/carpentries/amy/pull/1619'}
-  - {number: 1616, title: 'WIP: Email Automation project', updated: '2020-02-07',
+  - {number: 1616, title: 'WIP: Email Automation project', updated: '2020-02-08',
     url: 'https://github.com/carpentries/amy/pull/1616'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
@@ -1042,4 +1041,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-02-07T15:30:45Z'
+timestamp: '2020-02-08T15:31:43Z'

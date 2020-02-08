@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Nihan Pol,Brian Powell",
+    "end_date": "2020-02-08",
+    "url": "https://ncf0003.github.io/2020-02-08-wvu/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "West Virginia University (Intermediate Python Workshop)",
+    "longitude": -79.954247,
+    "slug": "2020-02-08-wvu",
+    "tag_name": "SWC",
+    "helpers": "Nicolas Frazee",
+    "host_name": "West Virginia University",
+    "latitude": 39.63321,
+    "start_date": "2020-02-08"
+  },
+  {
     "instructors": "Michael Francis,Tito Peña Montenegro",
     "end_date": "2020-02-07",
     "url": "https://uga-carpentries.github.io/2020-02-07-uga/",

@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Nihan Pol,Brian Powell",
-    "end_date": "2020-02-08",
-    "url": "https://ncf0003.github.io/2020-02-08-wvu/",
-    "country": "US",
-    "curriculum": "swc-plotting",
-    "venue": "West Virginia University (Intermediate Python Workshop)",
-    "longitude": -79.954247,
-    "slug": "2020-02-08-wvu",
-    "tag_name": "SWC",
-    "helpers": "Nicolas Frazee",
-    "host_name": "West Virginia University",
-    "latitude": 39.63321,
-    "start_date": "2020-02-08"
-  },
-  {
     "instructors": "Amanda Miotto",
     "end_date": "2020-02-11",
     "url": "https://gu-eresearch.github.io/2020-02-10-GriffithUni-R/",
@@ -27,6 +12,21 @@
     "helpers": null,
     "host_name": "Griffith University",
     "latitude": -27.960345,
+    "start_date": "2020-02-10"
+  },
+  {
+    "instructors": "Jonathan Pelham,Malvika Sharan",
+    "end_date": "2020-02-11",
+    "url": "https://alan-turing-institute.github.io/2020-02-10-turing/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "The Alan Turing Institute",
+    "longitude": -0.1271,
+    "slug": "2020-02-10-turing",
+    "tag_name": "SWC",
+    "helpers": "James Robinson,Louise Bowler,Kasra Hosseini",
+    "host_name": "Alan Turing Institute",
+    "latitude": 51.5302,
     "start_date": "2020-02-10"
   },
   {
