@@ -598,6 +598,8 @@ records:
       exercise ', updated: '2020-02-04', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/780'}
   - {number: 774, title: 'Call for Contributions: visuals (images, figures, plots,
       charts, etc.)', updated: '2020-02-04', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/774'}
+  - {number: 783, title: Dictionaries not introduced but used in exercise in "Error
+      and Exceptions" - & suggestiong, updated: '2020-02-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/783'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -1041,4 +1043,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-02-08T15:31:43Z'
+timestamp: '2020-02-09T15:31:51Z'
