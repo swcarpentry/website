@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Amanda Miotto",
-    "end_date": "2020-02-11",
-    "url": "https://gu-eresearch.github.io/2020-02-10-GriffithUni-R/",
-    "country": "AU",
-    "curriculum": "swc-reproducible-science",
-    "venue": "Griffith University",
-    "longitude": 153.378868,
-    "slug": "2020-02-10-GriffithUni-R",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Griffith University",
-    "latitude": -27.960345,
-    "start_date": "2020-02-10"
-  },
-  {
-    "instructors": "Jonathan Pelham,Malvika Sharan",
-    "end_date": "2020-02-11",
-    "url": "https://alan-turing-institute.github.io/2020-02-10-turing/",
-    "country": "GB",
-    "curriculum": "swc-python",
-    "venue": "The Alan Turing Institute",
-    "longitude": -0.1271,
-    "slug": "2020-02-10-turing",
-    "tag_name": "SWC",
-    "helpers": "James Robinson,Louise Bowler,Kasra Hosseini",
-    "host_name": "Alan Turing Institute",
-    "latitude": 51.5302,
-    "start_date": "2020-02-10"
-  },
-  {
     "instructors": "Eric Jankowski,Dylan Mikesell,Mike Henry,Brian Jackson,Matt Clark,Kendra Kaiser,Charlie Becker,Neale Ellyson",
     "end_date": "2020-02-12",
     "url": "https://bsurc.github.io/2020-02-11-rc-days/",
@@ -238,6 +208,21 @@
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
     "start_date": "2020-03-23"
+  },
+  {
+    "instructors": "Nelly Sélem",
+    "end_date": "2020-05-14",
+    "url": "https://nselem.github.io/2020-04-14-posgraduados-campeche/",
+    "country": "MX",
+    "curriculum": "swc-python",
+    "venue": "Colegio de Postgraduados Campus Campeche",
+    "longitude": -90.54,
+    "slug": "2020-04-14-posgraduados-campeche",
+    "tag_name": "SWC",
+    "helpers": "Abraham Avelar",
+    "host_name": "Langebio",
+    "latitude": 19.49,
+    "start_date": "2020-04-14"
   },
   {
     "instructors": "Stéphane Guillou,Mark Crowe",

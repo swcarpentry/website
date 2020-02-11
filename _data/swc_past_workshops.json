@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Amanda Miotto",
+    "end_date": "2020-02-11",
+    "url": "https://gu-eresearch.github.io/2020-02-10-GriffithUni-R/",
+    "country": "AU",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Griffith University",
+    "longitude": 153.378868,
+    "slug": "2020-02-10-GriffithUni-R",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.960345,
+    "start_date": "2020-02-10"
+  },
+  {
+    "instructors": "Jonathan Pelham,Malvika Sharan",
+    "end_date": "2020-02-11",
+    "url": "https://alan-turing-institute.github.io/2020-02-10-turing/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "The Alan Turing Institute",
+    "longitude": -0.1271,
+    "slug": "2020-02-10-turing",
+    "tag_name": "SWC",
+    "helpers": "James Robinson,Louise Bowler,Kasra Hosseini",
+    "host_name": "Alan Turing Institute",
+    "latitude": 51.5302,
+    "start_date": "2020-02-10"
+  },
+  {
     "instructors": "Nihan Pol,Brian Powell",
     "end_date": "2020-02-08",
     "url": "https://ncf0003.github.io/2020-02-08-wvu/",
@@ -30,7 +60,7 @@
     "start_date": "2020-02-07"
   },
   {
-    "instructors": "Phillip Doehle",
+    "instructors": "Phillip Doehle,Dave Lampert,Clarke Iakovakis,Max Prud'homme",
     "end_date": "2020-02-07",
     "url": "https://osu-carpentry.github.io/2020-02-06-okstate/",
     "country": "US",
@@ -43,6 +73,21 @@
     "host_name": "Oklahoma State University",
     "latitude": 36.122951,
     "start_date": "2020-02-06"
+  },
+  {
+    "instructors": "Nelly Sélem",
+    "end_date": "2020-02-10",
+    "url": "https://nselem.github.io/2020-01-10-langebio/",
+    "country": "MX",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Langebio Cinvestav",
+    "longitude": -101,
+    "slug": "2020-01-10-langebio",
+    "tag_name": "SWC",
+    "helpers": "Erik Diaz,Daniel Diaz,Dulce Valdivia",
+    "host_name": "Langebio",
+    "latitude": 20,
+    "start_date": "2020-02-05"
   },
   {
     "instructors": "Katie Dejwakh,Makhan Virdi,Kenton Ross",

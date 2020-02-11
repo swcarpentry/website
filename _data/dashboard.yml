@@ -166,8 +166,6 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1086'}
   - {number: 1032, title: Move "moving to the current folder" exercise in 03, updated: '2020-01-31',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1032'}
-  - {number: 1091, title: Introduce "clear" command in Ep4 Pipes and filters, updated: '2020-02-09',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/1091'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -714,6 +712,8 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/462'}
   - {number: 463, title: File commadec.txt missing from r-novice-inflammation-data.zip,
     updated: '2019-12-16', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/463'}
+  - {number: 466, title: 'Episode 1: "Printing with Parentheses"', updated: '2020-02-11',
+    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/466'}
   pulls:
   - {number: 437, title: 'Update styles to gh-pages:6d015fe', updated: '2019-08-20',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/437'}
@@ -844,8 +844,6 @@ records:
     updated: '2020-01-17', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/607'}
   - {number: 481, title: '[Suggestion] Replace the read.csv(data/gapminder.csv) with
       library(gapminder)', updated: '2020-02-03', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/481'}
-  - {number: 611, title: 'Challenges 4b and 5 in http://swcarpentry.github.io/r-novice-gapminder/08-plot-ggplot2/index.html
-      has different style', updated: '2020-02-10', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/611'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -860,7 +858,6 @@ records:
     updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/573'}
   - {number: 589, title: 'Spell check and apply consistent code style (close #548) ',
     updated: '2019-11-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
-  - {number: 614, title: Fix typos, updated: '2020-02-10', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/614'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1046,4 +1043,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-02-10T15:32:40Z'
+timestamp: '2020-02-11T15:33:06Z'
