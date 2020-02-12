@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Eric Jankowski,Dylan Mikesell,Mike Henry,Brian Jackson,Matt Clark,Kendra Kaiser,Charlie Becker,Neale Ellyson",
+    "end_date": "2020-02-12",
+    "url": "https://bsurc.github.io/2020-02-11-rc-days/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "Boise State University",
+    "longitude": -116.209994,
+    "slug": "2020-02-11-rc-days",
+    "tag_name": "SWC",
+    "helpers": "Kyle Shannon,Dhanush Kumar Ratakonda,Elisabeth Shook,Olga Goulko",
+    "host_name": "Boise State University",
+    "latitude": 43.604172,
+    "start_date": "2020-02-11"
+  },
+  {
     "instructors": "Amanda Miotto",
     "end_date": "2020-02-11",
     "url": "https://gu-eresearch.github.io/2020-02-10-GriffithUni-R/",
@@ -20,7 +35,7 @@
     "url": "https://alan-turing-institute.github.io/2020-02-10-turing/",
     "country": "GB",
     "curriculum": "swc-python",
-    "venue": "The Alan Turing Institute",
+    "venue": "Software Carpentry Workshop, The Alan Turing Institute",
     "longitude": -0.1271,
     "slug": "2020-02-10-turing",
     "tag_name": "SWC",

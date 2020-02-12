@@ -166,6 +166,8 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1086'}
   - {number: 1032, title: Move "moving to the current folder" exercise in 03, updated: '2020-01-31',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1032'}
+  - {number: 1092, title: Difficulty navigating to 'data-shell' in Setup, updated: '2020-02-12',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/1092'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -712,7 +714,7 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/462'}
   - {number: 463, title: File commadec.txt missing from r-novice-inflammation-data.zip,
     updated: '2019-12-16', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/463'}
-  - {number: 466, title: 'Episode 1: "Printing with Parentheses"', updated: '2020-02-11',
+  - {number: 466, title: 'Episode 1: "Printing with Parentheses"', updated: '2020-02-12',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/466'}
   pulls:
   - {number: 437, title: 'Update styles to gh-pages:6d015fe', updated: '2019-08-20',
@@ -1030,7 +1032,9 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1605'}
   - {number: 1619, title: 'Training Request form: Add missing email context', updated: '2020-02-07',
     url: 'https://github.com/carpentries/amy/pull/1619'}
-  - {number: 1616, title: 'WIP: Email Automation project', updated: '2020-02-08',
+  - {number: 1620, title: Bump django from 2.2.9 to 2.2.10, updated: '2020-02-11',
+    url: 'https://github.com/carpentries/amy/pull/1620'}
+  - {number: 1616, title: 'WIP: Email Automation project', updated: '2020-02-11',
     url: 'https://github.com/carpentries/amy/pull/1616'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
@@ -1043,4 +1047,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-02-11T15:33:06Z'
+timestamp: '2020-02-12T15:33:30Z'

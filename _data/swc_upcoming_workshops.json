@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Eric Jankowski,Dylan Mikesell,Mike Henry,Brian Jackson,Matt Clark,Kendra Kaiser,Charlie Becker,Neale Ellyson",
-    "end_date": "2020-02-12",
-    "url": "https://bsurc.github.io/2020-02-11-rc-days/",
-    "country": "US",
-    "curriculum": "swc-plotting",
-    "venue": "Boise State University",
-    "longitude": -116.209994,
-    "slug": "2020-02-11-rc-days",
-    "tag_name": "SWC",
-    "helpers": "Kyle Shannon,Dhanush Kumar Ratakonda,Elisabeth Shook,Olga Goulko",
-    "host_name": "Boise State University",
-    "latitude": 43.604172,
-    "start_date": "2020-02-11"
-  },
-  {
     "instructors": "Raphaël Grolimund,Antoine Masson,Mathilde Panes",
     "end_date": "2020-02-14",
     "url": "https://epfllibrary.github.io/2020-02-13-epfl/",
@@ -54,7 +39,7 @@
     "longitude": -0.132152,
     "slug": "2020-02-18-UCL",
     "tag_name": "SWC",
-    "helpers": "Matthew Gillman,Tuomas Koskela",
+    "helpers": "Steve Broderick,Stef Piatek,Matthew Gillman,Tuomas Koskela,Alessandro Felder,Maria Lock,Nana Mensah",
     "host_name": "University College London",
     "latitude": 51.525388,
     "start_date": "2020-02-18"
