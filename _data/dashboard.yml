@@ -666,9 +666,6 @@ records:
   issues:
   - {number: 250, title: For loops and conditions vs. apply and logical subsetting,
     updated: '2018-08-02', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/250'}
-  - {number: 387, title: 'Reading and Writing CSV Files in R: Introduce na.strings
-      argument and explain how to read CSV file by providing a filename only', updated: '2018-08-20',
-    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/387'}
   - {number: 342, title: 'Can teaching class(), dim(), nrow() and ncol() be merged
       to teach str()?', updated: '2018-08-20', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/342'}
   - {number: 324, title: improving the documentation / packaging episodes for both
@@ -710,12 +707,13 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/456'}
   - {number: 461, title: Phrasing suggestion for 01-starting-with-data.Rmd, updated: '2019-12-02',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/461'}
-  - {number: 462, title: Understanding Factors- Clarifiation, updated: '2019-12-15',
-    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/462'}
   - {number: 463, title: File commadec.txt missing from r-novice-inflammation-data.zip,
     updated: '2019-12-16', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/463'}
-  - {number: 466, title: 'Episode 1: "Printing with Parentheses"', updated: '2020-02-12',
-    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/466'}
+  - {number: 462, title: Understanding Factors- Clarifiation, updated: '2020-02-12',
+    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/462'}
+  - {number: 387, title: 'Reading and Writing CSV Files in R: Introduce na.strings
+      argument and explain how to read CSV file by providing a filename only', updated: '2020-02-12',
+    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/387'}
   pulls:
   - {number: 437, title: 'Update styles to gh-pages:6d015fe', updated: '2019-08-20',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/437'}
@@ -1047,4 +1045,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-02-12T15:33:30Z'
+timestamp: '2020-02-13T15:33:53Z'
