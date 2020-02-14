@@ -709,11 +709,11 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/461'}
   - {number: 463, title: File commadec.txt missing from r-novice-inflammation-data.zip,
     updated: '2019-12-16', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/463'}
-  - {number: 462, title: Understanding Factors- Clarifiation, updated: '2020-02-12',
-    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/462'}
   - {number: 387, title: 'Reading and Writing CSV Files in R: Introduce na.strings
       argument and explain how to read CSV file by providing a filename only', updated: '2020-02-12',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/387'}
+  - {number: 462, title: Understanding Factors- Clarifiation, updated: '2020-02-14',
+    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/462'}
   pulls:
   - {number: 437, title: 'Update styles to gh-pages:6d015fe', updated: '2019-08-20',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/437'}
@@ -893,7 +893,8 @@ records:
     url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/221'}
   - {number: 225, title: 'Ep5: Use a properly named script in place of temp.m', updated: '2019-11-08',
     url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/225'}
-  pulls: []
+  pulls:
+  - {number: 227, title: 'Episode 02-Arrays.md ', updated: '2020-02-14', url: 'https://github.com/swcarpentry/matlab-novice-inflammation/pull/227'}
   url: https://github.com/swcarpentry/matlab-novice-inflammation
 - description: Make
   ident: swcarpentry/make-novice
@@ -1032,7 +1033,7 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1619'}
   - {number: 1620, title: Bump django from 2.2.9 to 2.2.10, updated: '2020-02-11',
     url: 'https://github.com/carpentries/amy/pull/1620'}
-  - {number: 1616, title: 'WIP: Email Automation project', updated: '2020-02-11',
+  - {number: 1616, title: 'WIP: Email Automation project', updated: '2020-02-14',
     url: 'https://github.com/carpentries/amy/pull/1616'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
@@ -1045,4 +1046,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-02-13T15:33:53Z'
+timestamp: '2020-02-14T15:33:49Z'

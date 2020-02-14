@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Raphaël Grolimund,Antoine Masson,Mathilde Panes",
-    "end_date": "2020-02-14",
-    "url": "https://epfllibrary.github.io/2020-02-13-epfl/",
-    "country": "CH",
-    "curriculum": "swc-python",
-    "venue": "Ecole Polytechnique Fédérale de Lausanne",
-    "longitude": 6.566414,
-    "slug": "2020-02-13-epfl",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "École polytechnique fédérale de Lausanne",
-    "latitude": 46.518619,
-    "start_date": "2020-02-13"
-  },
-  {
-    "instructors": "Hamid Mokhtarzadeh,Cian Wilson",
-    "end_date": "2020-02-14",
-    "url": "https://cianwilson.github.io/2020-02-13-rice/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "Rice University",
-    "longitude": -95.401833,
-    "slug": "2020-02-13-rice",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Rice University",
-    "latitude": 29.717394,
-    "start_date": "2020-02-13"
-  },
-  {
     "instructors": "Samantha Ahern,Anastasis Georgoulas,Shikta Das,Aasiyah Rashan",
     "end_date": "2020-02-19",
     "url": "http://rits.github-pages.ucl.ac.uk/2020-02-18_UCL_software_carpentry/",
@@ -208,6 +178,21 @@
     "host_name": "Langebio",
     "latitude": 19.49,
     "start_date": "2020-04-14"
+  },
+  {
+    "instructors": "Kathryn Napier",
+    "end_date": "2020-04-23",
+    "url": "https://curtinic.github.io/2020-04-21-curtin/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Curtin University",
+    "longitude": 115.894011,
+    "slug": "2020-04-21-curtin",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Curtin University",
+    "latitude": -32.007068,
+    "start_date": "2020-04-21"
   },
   {
     "instructors": "Stéphane Guillou,Mark Crowe",
