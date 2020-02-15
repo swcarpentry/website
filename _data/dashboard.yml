@@ -429,6 +429,7 @@ records:
   - {number: 298, title: Rename database manager to database engine, updated: '2019-12-03',
     url: 'https://github.com/swcarpentry/sql-novice-survey/pull/298'}
   - {number: 295, title: Update  README.md, updated: '2019-12-11', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/295'}
+  - {number: 311, title: 'Issue #310', updated: '2020-02-14', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/311'}
   url: https://github.com/swcarpentry/sql-novice-survey
 - description: Python
   ident: swcarpentry/python-novice-inflammation
@@ -1045,5 +1046,7 @@ records:
   pulls:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
+  - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-02-14',
+    url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-02-14T15:33:49Z'
+timestamp: '2020-02-15T15:34:00Z'
