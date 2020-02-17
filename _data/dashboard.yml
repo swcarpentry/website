@@ -661,6 +661,9 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/775'}
   - {number: 782, title: Updating 02-numpy numpy.diff example to use patient data,
     updated: '2020-02-06', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/782'}
+  - {number: 788, title: Fixing small typo, updated: '2020-02-17', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/788'}
+  - {number: 787, title: Clarifying info on average inflammation, updated: '2020-02-17',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/787'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -894,8 +897,7 @@ records:
     url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/221'}
   - {number: 225, title: 'Ep5: Use a properly named script in place of temp.m', updated: '2019-11-08',
     url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/225'}
-  pulls:
-  - {number: 227, title: 'Episode 02-Arrays.md ', updated: '2020-02-14', url: 'https://github.com/swcarpentry/matlab-novice-inflammation/pull/227'}
+  pulls: []
   url: https://github.com/swcarpentry/matlab-novice-inflammation
 - description: Make
   ident: swcarpentry/make-novice
@@ -1049,4 +1051,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-02-14',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-02-16T15:34:17Z'
+timestamp: '2020-02-17T15:34:28Z'
