@@ -45,7 +45,7 @@
     "start_date": "2020-02-11"
   },
   {
-    "instructors": "Amanda Miotto",
+    "instructors": "Kim Keogh,Brett Parker",
     "end_date": "2020-02-11",
     "url": "https://gu-eresearch.github.io/2020-02-10-GriffithUni-R/",
     "country": "AU",
@@ -54,7 +54,7 @@
     "longitude": 153.378868,
     "slug": "2020-02-10-GriffithUni-R",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Liz Ryan",
     "host_name": "Griffith University",
     "latitude": -27.960345,
     "start_date": "2020-02-10"

@@ -225,8 +225,6 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/411'}
   - {number: 610, title: Additional note on saving file in Nano, updated: '2019-04-16',
     url: 'https://github.com/swcarpentry/git-novice/issues/610'}
-  - {number: 277, title: 'Should we change the story behind the lesson?', updated: '2019-04-17',
-    url: 'https://github.com/swcarpentry/git-novice/issues/277'}
   - {number: 579, title: '"config --edit" to both check editor config & configure
       more conveniently', updated: '2019-06-27', url: 'https://github.com/swcarpentry/git-novice/issues/579'}
   - {number: 493, title: Instructor Notes - reset instructions, updated: '2019-07-03',
@@ -275,6 +273,8 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/720'}
   - {number: 357, title: 'Episode 1: "merging" graphics is misleading', updated: '2020-02-01',
     url: 'https://github.com/swcarpentry/git-novice/issues/357'}
+  - {number: 277, title: 'Should we change the story behind the lesson?', updated: '2020-02-18',
+    url: 'https://github.com/swcarpentry/git-novice/issues/277'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -413,6 +413,8 @@ records:
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/309'}
   - {number: 310, title: 'Episode 2 has 3 questions for the data, but only answers
       2', updated: '2020-01-27', url: 'https://github.com/swcarpentry/sql-novice-survey/issues/310'}
+  - {number: 312, title: Use explicit column names with INSERT, updated: '2020-02-18',
+    url: 'https://github.com/swcarpentry/sql-novice-survey/issues/312'}
   pulls:
   - {number: 274, title: adding a solution of a challange (Ordering When Concatenating),
     updated: '2018-12-13', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/274'}
@@ -429,7 +431,7 @@ records:
   - {number: 298, title: Rename database manager to database engine, updated: '2019-12-03',
     url: 'https://github.com/swcarpentry/sql-novice-survey/pull/298'}
   - {number: 295, title: Update  README.md, updated: '2019-12-11', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/295'}
-  - {number: 311, title: 'Issue #310', updated: '2020-02-14', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/311'}
+  - {number: 311, title: 'Issue #310', updated: '2020-02-18', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/311'}
   url: https://github.com/swcarpentry/sql-novice-survey
 - description: Python
   ident: swcarpentry/python-novice-inflammation
@@ -661,9 +663,6 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/775'}
   - {number: 782, title: Updating 02-numpy numpy.diff example to use patient data,
     updated: '2020-02-06', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/782'}
-  - {number: 788, title: Fixing small typo, updated: '2020-02-17', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/788'}
-  - {number: 787, title: Clarifying info on average inflammation, updated: '2020-02-17',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/787'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1051,4 +1050,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-02-14',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-02-17T15:34:28Z'
+timestamp: '2020-02-18T15:34:30Z'
