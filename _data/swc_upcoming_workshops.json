@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Samantha Ahern,Anastasis Georgoulas,Shikta Das,Aasiyah Rashan",
-    "end_date": "2020-02-19",
-    "url": "http://rits.github-pages.ucl.ac.uk/2020-02-18_UCL_software_carpentry/",
-    "country": "GB",
-    "curriculum": "swc-es-python",
-    "venue": "UCL",
-    "longitude": -0.132152,
-    "slug": "2020-02-18-UCL",
-    "tag_name": "SWC",
-    "helpers": "Steve Broderick,Stef Piatek,Matthew Gillman,Tuomas Koskela,Alessandro Felder,Maria Lock,Nana Mensah",
-    "host_name": "University College London",
-    "latitude": 51.525388,
-    "start_date": "2020-02-18"
-  },
-  {
-    "instructors": "Mark Crowe",
-    "end_date": "2020-02-19",
-    "url": "https://qcif-training.github.io/2020-02-18-UQ-R/",
-    "country": "AU",
-    "curriculum": "swc-reproducible-science",
-    "venue": "University of Queensland",
-    "longitude": 153.012741,
-    "slug": "2020-02-18-UQ-R",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Queensland Cyber Infrastructure Foundation",
-    "latitude": -27.497082,
-    "start_date": "2020-02-18"
-  },
-  {
     "instructors": "Pariksheet Nanda",
     "end_date": "2020-02-28",
     "url": "https://smcclatchy.github.io/2020-02-27-jacksonLab/",

@@ -605,6 +605,7 @@ records:
       charts, etc.)', updated: '2020-02-04', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/774'}
   - {number: 783, title: Dictionaries not introduced but used in exercise in "Error
       and Exceptions" - & suggestiong, updated: '2020-02-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/783'}
+  - {number: 789, title: Adding PDB to the debug lesson, updated: '2020-02-19', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/789'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -847,6 +848,8 @@ records:
     updated: '2020-01-17', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/607'}
   - {number: 481, title: '[Suggestion] Replace the read.csv(data/gapminder.csv) with
       library(gapminder)', updated: '2020-02-03', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/481'}
+  - {number: 615, title: 'Typos in "R for Reproducible Scientific Analysis" lesson,
+      in "Introduction to R and RStudio" episode', updated: '2020-02-19', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/615'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -1050,4 +1053,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-02-14',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-02-18T15:34:30Z'
+timestamp: '2020-02-19T15:35:24Z'

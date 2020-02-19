@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Samantha Ahern,Anastasis Georgoulas,Shikta Das,Aasiyah Rashan",
+    "end_date": "2020-02-19",
+    "url": "http://rits.github-pages.ucl.ac.uk/2020-02-18_UCL_software_carpentry/",
+    "country": "GB",
+    "curriculum": "swc-es-python",
+    "venue": "UCL",
+    "longitude": -0.132152,
+    "slug": "2020-02-18-UCL",
+    "tag_name": "SWC",
+    "helpers": "Steve Broderick,Stef Piatek,Matthew Gillman,Tuomas Koskela,Alessandro Felder,Maria Lock,Nana Mensah",
+    "host_name": "University College London",
+    "latitude": 51.525388,
+    "start_date": "2020-02-18"
+  },
+  {
+    "instructors": "Mark Crowe",
+    "end_date": "2020-02-19",
+    "url": "https://qcif-training.github.io/2020-02-18-UQ-R/",
+    "country": "AU",
+    "curriculum": "swc-reproducible-science",
+    "venue": "University of Queensland",
+    "longitude": 153.012741,
+    "slug": "2020-02-18-UQ-R",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.497082,
+    "start_date": "2020-02-18"
+  },
+  {
     "instructors": "Raphaël Grolimund,Antoine Masson,Mathilde Panes",
     "end_date": "2020-02-14",
     "url": "https://epfllibrary.github.io/2020-02-13-epfl/",
@@ -1344,7 +1374,7 @@
     "longitude": 10.190455,
     "slug": "2019-10-22-aarhus",
     "tag_name": "SWC",
-    "helpers": "Antonio Rivero Ostoic,oana vuculescu,Sara Tomiolo,Maria Izabel Cavassim Alves,Petra Hermankova",
+    "helpers": "Antonio Rivero Ostoic,Petra Heřmánková,oana vuculescu,Sara Tomiolo,Maria Izabel Cavassim Alves",
     "host_name": "Aarhus University",
     "latitude": 56.172332,
     "start_date": "2019-10-22"
