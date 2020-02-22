@@ -599,8 +599,6 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/663'}
   - {number: 633, title: 'Episode 02-loop.md: Improving visualization of the "for
       loop"', updated: '2020-01-31', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/633'}
-  - {number: 780, title: '02-numpy: use patient data for 1D array in Change In Inflammation
-      exercise ', updated: '2020-02-04', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/780'}
   - {number: 774, title: 'Call for Contributions: visuals (images, figures, plots,
       charts, etc.)', updated: '2020-02-04', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/774'}
   - {number: 783, title: Dictionaries not introduced but used in exercise in "Error
@@ -667,8 +665,6 @@ records:
   - {number: 775, title: 'Moved data description to lesson 2. ', updated: '2020-01-20',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/775'}
   - {number: 791, title: Feature/image alt text, updated: '2020-02-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/791'}
-  - {number: 782, title: Updating 02-numpy numpy.diff example to use patient data,
-    updated: '2020-02-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/782'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1043,7 +1039,7 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1619'}
   - {number: 1620, title: Bump django from 2.2.9 to 2.2.10, updated: '2020-02-11',
     url: 'https://github.com/carpentries/amy/pull/1620'}
-  - {number: 1616, title: 'WIP: Email Automation project', updated: '2020-02-20',
+  - {number: 1616, title: 'WIP: Email Automation project', updated: '2020-02-21',
     url: 'https://github.com/carpentries/amy/pull/1616'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
@@ -1058,4 +1054,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-02-14',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-02-21T15:36:41Z'
+timestamp: '2020-02-22T15:37:01Z'

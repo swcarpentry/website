@@ -240,6 +240,21 @@
     "start_date": "2020-01-30"
   },
   {
+    "instructors": null,
+    "end_date": "2020-01-30",
+    "url": "https://edcarp.github.io/2020-01-29-edinburgh-geo-swc/",
+    "country": "GB",
+    "curriculum": "swc-plotting",
+    "venue": "University of Edinburgh",
+    "longitude": -3.185788,
+    "slug": "2020-01-29-edinburgh",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.947331,
+    "start_date": "2020-01-29"
+  },
+  {
     "instructors": "Daniel McCloy,Anthony Valente",
     "end_date": "2020-01-29",
     "url": "https://drammock.github.io/2020-01-28-benaroya_research/",

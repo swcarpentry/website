@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Ed Bennett,Mark Dawson",
+    "end_date": "2020-02-26",
+    "url": "https://edbennett.github.io/2020-02-25-cardiff",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "Cardiff",
+    "longitude": -3.167152,
+    "slug": "2020-02-25-cardiff",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Swansea University",
+    "latitude": 51.483926,
+    "start_date": "2020-02-25"
+  },
+  {
     "instructors": "Pariksheet Nanda",
     "end_date": "2020-02-28",
     "url": "https://smcclatchy.github.io/2020-02-27-jacksonLab/",
