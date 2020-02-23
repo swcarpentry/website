@@ -604,10 +604,10 @@ records:
   - {number: 783, title: Dictionaries not introduced but used in exercise in "Error
       and Exceptions" - & suggestiong, updated: '2020-02-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/783'}
   - {number: 789, title: Adding PDB to the debug lesson, updated: '2020-02-20', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/789'}
-  - {number: 790, title: Adding type hints example to functions, updated: '2020-02-21',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/790'}
   - {number: 781, title: 'Call for Contributions: image descriptions & titles', updated: '2020-02-21',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
+  - {number: 790, title: Adding type hints example to functions, updated: '2020-02-23',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/790'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -664,7 +664,20 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/772'}
   - {number: 775, title: 'Moved data description to lesson 2. ', updated: '2020-01-20',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/775'}
-  - {number: 791, title: Feature/image alt text, updated: '2020-02-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/791'}
+  - {number: 798, title: provide detailed alt text to intro image 03., updated: '2020-02-23',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/798'}
+  - {number: 797, title: provide detailed alt text to numpy image 01 - Zero Index
+      ., updated: '2020-02-23', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/797'}
+  - {number: 796, title: provide detailed alt text to func image 01., updated: '2020-02-23',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/796'}
+  - {number: 795, title: provide detailed alt text to cond image 01., updated: '2020-02-23',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/795'}
+  - {number: 794, title: provide detailed alt text to numpy image 02., updated: '2020-02-23',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/794'}
+  - {number: 793, title: provide detailed alt text to intro image 02., updated: '2020-02-23',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/793'}
+  - {number: 792, title: provide detailed alt text to intro image 01., updated: '2020-02-23',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/792'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1039,7 +1052,7 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1619'}
   - {number: 1620, title: Bump django from 2.2.9 to 2.2.10, updated: '2020-02-11',
     url: 'https://github.com/carpentries/amy/pull/1620'}
-  - {number: 1616, title: 'WIP: Email Automation project', updated: '2020-02-21',
+  - {number: 1616, title: 'WIP: Email Automation project', updated: '2020-02-23',
     url: 'https://github.com/carpentries/amy/pull/1616'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
@@ -1054,4 +1067,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-02-14',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-02-22T15:37:01Z'
+timestamp: '2020-02-23T15:37:16Z'
