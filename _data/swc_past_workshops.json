@@ -30,6 +30,21 @@
     "start_date": "2020-02-18"
   },
   {
+    "instructors": "Mik Black,Murray Cadzow,Matt Bixley,Ngonidzashe Faya,Tanya Major",
+    "end_date": "2020-02-18",
+    "url": "https://otagocarpentries.github.io/2020-02-17-otago",
+    "country": "NZ",
+    "curriculum": "swc-plotting",
+    "venue": "University of Otago",
+    "longitude": 170.513082,
+    "slug": "2020-02-17-otago",
+    "tag_name": "SWC",
+    "helpers": "Justin Farquhar,XinYue Wang",
+    "host_name": "University of Otago",
+    "latitude": -45.863838,
+    "start_date": "2020-02-17"
+  },
+  {
     "instructors": "Raphaël Grolimund,Antoine Masson,Mathilde Panes",
     "end_date": "2020-02-14",
     "url": "https://epfllibrary.github.io/2020-02-13-epfl/",

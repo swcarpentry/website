@@ -275,6 +275,8 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/357'}
   - {number: 277, title: 'Should we change the story behind the lesson?', updated: '2020-02-18',
     url: 'https://github.com/swcarpentry/git-novice/issues/277'}
+  - {number: 724, title: Episode 8 - No notifications in Github after inviting collaborator,
+    updated: '2020-02-24', url: 'https://github.com/swcarpentry/git-novice/issues/724'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -1012,48 +1014,36 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1567'}
   - {number: 1568, title: Update Contact Field in AMY Events, updated: '2019-12-28',
     url: 'https://github.com/carpentries/amy/issues/1568'}
-  - {number: 1515, title: All queries should be exportable, updated: '2020-01-10',
-    url: 'https://github.com/carpentries/amy/issues/1515'}
-  - {number: 1512, title: Use DataTables in all tabular data views, updated: '2020-01-10',
-    url: 'https://github.com/carpentries/amy/issues/1512'}
-  - {number: 1484, title: Track changed metadata, updated: '2020-01-10', url: 'https://github.com/carpentries/amy/issues/1484'}
-  - {number: 1516, title: Update "published" requirements, updated: '2020-01-12',
-    url: 'https://github.com/carpentries/amy/issues/1516'}
   - {number: 1572, title: Amy Event URL Validation, updated: '2020-01-14', url: 'https://github.com/carpentries/amy/issues/1572'}
   - {number: 1570, title: Workshop Request Form - Membership Affiliation, updated: '2020-01-14',
     url: 'https://github.com/carpentries/amy/issues/1570'}
-  - {number: 1608, title: 500 Server error when 'manual attendance' field is not set,
-    updated: '2020-01-20', url: 'https://github.com/carpentries/amy/issues/1608'}
   - {number: 1607, title: Remove Lessons Covered from the Workshops Event Page, updated: '2020-01-20',
     url: 'https://github.com/carpentries/amy/issues/1607'}
-  - {number: 1564, title: Feature Request- Add task = add person, updated: '2020-01-20',
-    url: 'https://github.com/carpentries/amy/issues/1564'}
-  - {number: 1562, title: TTT Open applications - check by default, updated: '2020-01-20',
-    url: 'https://github.com/carpentries/amy/issues/1562'}
   - {number: 1610, title: 'Venue, address and latlong info not picked up from workshop
       URL', updated: '2020-01-27', url: 'https://github.com/carpentries/amy/issues/1610'}
-  - {number: 1617, title: Update verbiage on trainee dashboard, updated: '2020-02-01',
-    url: 'https://github.com/carpentries/amy/issues/1617'}
   - {number: 1618, title: Match Secondary Email in WRF, updated: '2020-02-03', url: 'https://github.com/carpentries/amy/issues/1618'}
   - {number: 1614, title: 'Import Training Event Registration and Attendance ', updated: '2020-02-03',
     url: 'https://github.com/carpentries/amy/issues/1614'}
   - {number: 1615, title: Import Trainee checkout contribution to AMY, updated: '2020-02-07',
     url: 'https://github.com/carpentries/amy/issues/1615'}
+  - {number: 1564, title: Feature Request- Add task = add person, updated: '2020-02-24',
+    url: 'https://github.com/carpentries/amy/issues/1564'}
+  - {number: 1562, title: TTT Open applications - check by default, updated: '2020-02-24',
+    url: 'https://github.com/carpentries/amy/issues/1562'}
+  - {number: 1516, title: Update "published" requirements, updated: '2020-02-24',
+    url: 'https://github.com/carpentries/amy/issues/1516'}
+  - {number: 1515, title: All queries should be exportable, updated: '2020-02-24',
+    url: 'https://github.com/carpentries/amy/issues/1515'}
+  - {number: 1512, title: Use DataTables in all tabular data views, updated: '2020-02-24',
+    url: 'https://github.com/carpentries/amy/issues/1512'}
+  - {number: 1484, title: Track changed metadata, updated: '2020-02-24', url: 'https://github.com/carpentries/amy/issues/1484'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
   - {number: 1578, title: Bump bootstrap from 4.1.3 to 4.3.1, updated: '2019-12-08',
     url: 'https://github.com/carpentries/amy/pull/1578'}
-  - {number: 1577, title: Bump requests from 2.19.1 to 2.20.0, updated: '2020-01-06',
-    url: 'https://github.com/carpentries/amy/pull/1577'}
   - {number: 1605, title: Bump djangorestframework from 3.9.4 to 3.11.0, updated: '2020-01-10',
     url: 'https://github.com/carpentries/amy/pull/1605'}
-  - {number: 1619, title: 'Training Request form: Add missing email context', updated: '2020-02-07',
-    url: 'https://github.com/carpentries/amy/pull/1619'}
-  - {number: 1620, title: Bump django from 2.2.9 to 2.2.10, updated: '2020-02-11',
-    url: 'https://github.com/carpentries/amy/pull/1620'}
-  - {number: 1616, title: 'WIP: Email Automation project', updated: '2020-02-23',
-    url: 'https://github.com/carpentries/amy/pull/1616'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1067,4 +1057,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-02-14',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-02-23T15:37:16Z'
+timestamp: '2020-02-24T15:38:08Z'
