@@ -15,6 +15,21 @@
     "start_date": "2020-02-25"
   },
   {
+    "instructors": "Timothy Norris,Cameron Riopelle",
+    "end_date": "2020-02-28",
+    "url": "https://tibbben.github.io/2020-02-27-RSMAS/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Software Carpentry - Python: RSMAS",
+    "longitude": -80.162627,
+    "slug": "2020-02-27-RSMAS",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Miami",
+    "latitude": 25.732846,
+    "start_date": "2020-02-27"
+  },
+  {
     "instructors": "Pariksheet Nanda",
     "end_date": "2020-02-28",
     "url": "https://smcclatchy.github.io/2020-02-27-jacksonLab/",
@@ -45,6 +60,21 @@
     "start_date": "2020-02-27"
   },
   {
+    "instructors": "Samniqueka Halsey,Steven Pryor",
+    "end_date": "2020-03-06",
+    "url": "https://swc-mizzou.github.io/2020-03-05-mizzou",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Missouri",
+    "longitude": -92.32859,
+    "slug": "2020-03-05-mizzou",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 38.95155,
+    "start_date": "2020-03-05"
+  },
+  {
     "instructors": "Jacob Koehler,Trevor Burrows",
     "end_date": "2020-03-08",
     "url": "https://ncf0003.github.io/2020-03-07-wvu/",
@@ -58,6 +88,36 @@
     "host_name": "West Virginia University",
     "latitude": null,
     "start_date": "2020-03-07"
+  },
+  {
+    "instructors": "Lauren Ko,Kristy Phillips,Madhulika Bayyavarapu",
+    "end_date": "2020-03-11",
+    "url": "https://unt-carpentries.github.io/2020-03-10-unt-swc/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "University of North Texas",
+    "longitude": -97.148824,
+    "slug": "2020-03-10-unt-swc",
+    "tag_name": "SWC",
+    "helpers": "Manuel Gottardi",
+    "host_name": "University of North Texas",
+    "latitude": 33.213194,
+    "start_date": "2020-03-10"
+  },
+  {
+    "instructors": "Toni Hoberecht,Krista Kezbers (Olson)",
+    "end_date": "2020-03-13",
+    "url": "https://ouschusterlib.github.io/2020-03-12-swc-tulsa/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "Schusterman Library at OU-Tulsa",
+    "longitude": -95.922969,
+    "slug": "2020-03-12-swc-tulsa",
+    "tag_name": "SWC",
+    "helpers": "Emrys Moreau,Alyssa Migdalsk",
+    "host_name": "University of Oklahoma",
+    "latitude": 36.101411,
+    "start_date": "2020-03-12"
   },
   {
     "instructors": "Heather Ciallella,Liam Sharp,Sid Bhadra-Lobo",
@@ -148,6 +208,36 @@
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
     "start_date": "2020-03-23"
+  },
+  {
+    "instructors": "Max Czapanskiy,Zac Painter,Jake Lever",
+    "end_date": "2020-03-24",
+    "url": "https://jakelever.github.io/2020-03-23-stanford/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "Stanford University",
+    "longitude": -122.1749,
+    "slug": "2020-03-23-stanford",
+    "tag_name": "SWC",
+    "helpers": "Magdalena Matusiak",
+    "host_name": "Stanford University",
+    "latitude": 37.432447,
+    "start_date": "2020-03-23"
+  },
+  {
+    "instructors": "Raphaël Grolimund,Antoine Masson,Mathilde Panes",
+    "end_date": "2020-03-31",
+    "url": "https://epfllibrary.github.io/2020-03-30-epfl",
+    "country": "CH",
+    "curriculum": "swc-plotting",
+    "venue": "Ecole Polytechnique Fédérale de Lausanne",
+    "longitude": 6.566414,
+    "slug": "2020-03-30-epfl",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "École polytechnique fédérale de Lausanne",
+    "latitude": 46.518619,
+    "start_date": "2020-03-30"
   },
   {
     "instructors": "Nelly Sélem",

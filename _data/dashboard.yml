@@ -184,6 +184,8 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/1081'}
   - {number: 1088, title: Insert clear terminal command, updated: '2020-01-31', url: 'https://github.com/swcarpentry/shell-novice/pull/1088'}
   - {number: 1089, title: Update 02-filedir.md, updated: '2020-02-04', url: 'https://github.com/swcarpentry/shell-novice/pull/1089'}
+  - {number: 1093, title: Modified redirects and pipes image to SVG format, updated: '2020-02-25',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/1093'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -275,6 +277,8 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/357'}
   - {number: 277, title: 'Should we change the story behind the lesson?', updated: '2020-02-18',
     url: 'https://github.com/swcarpentry/git-novice/issues/277'}
+  - {number: 725, title: Episode 8 - Github UI for adding collaborators has changed,
+    updated: '2020-02-24', url: 'https://github.com/swcarpentry/git-novice/issues/725'}
   - {number: 724, title: Episode 8 - No notifications in Github after inviting collaborator,
     updated: '2020-02-24', url: 'https://github.com/swcarpentry/git-novice/issues/724'}
   pulls:
@@ -326,6 +330,8 @@ records:
     updated: '2020-02-01', url: 'https://github.com/swcarpentry/git-novice/pull/722'}
   - {number: 723, title: Change head command option to support macOS, updated: '2020-02-19',
     url: 'https://github.com/swcarpentry/git-novice/pull/723'}
+  - {number: 726, title: 'Update text and image for Github UI changes #725', updated: '2020-02-24',
+    url: 'https://github.com/swcarpentry/git-novice/pull/726'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -415,8 +421,6 @@ records:
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/305'}
   - {number: 309, title: Reference links broken on episode 1, updated: '2020-01-24',
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/309'}
-  - {number: 310, title: 'Episode 2 has 3 questions for the data, but only answers
-      2', updated: '2020-01-27', url: 'https://github.com/swcarpentry/sql-novice-survey/issues/310'}
   - {number: 312, title: Use explicit column names with INSERT, updated: '2020-02-18',
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/312'}
   pulls:
@@ -435,7 +439,6 @@ records:
   - {number: 298, title: Rename database manager to database engine, updated: '2019-12-03',
     url: 'https://github.com/swcarpentry/sql-novice-survey/pull/298'}
   - {number: 295, title: Update  README.md, updated: '2019-12-11', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/295'}
-  - {number: 311, title: 'Issue #310', updated: '2020-02-18', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/311'}
   url: https://github.com/swcarpentry/sql-novice-survey
 - description: Python
   ident: swcarpentry/python-novice-inflammation
@@ -610,6 +613,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
   - {number: 790, title: Adding type hints example to functions, updated: '2020-02-23',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/790'}
+  - {number: 800, title: Suggestion to Introduce Type Conversion, updated: '2020-02-25',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/800'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -1026,6 +1031,8 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1614'}
   - {number: 1615, title: Import Trainee checkout contribution to AMY, updated: '2020-02-07',
     url: 'https://github.com/carpentries/amy/issues/1615'}
+  - {number: 1623, title: Update Validation for WRF Person Recognition, updated: '2020-02-24',
+    url: 'https://github.com/carpentries/amy/issues/1623'}
   - {number: 1564, title: Feature Request- Add task = add person, updated: '2020-02-24',
     url: 'https://github.com/carpentries/amy/issues/1564'}
   - {number: 1562, title: TTT Open applications - check by default, updated: '2020-02-24',
@@ -1057,4 +1064,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-02-14',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-02-24T15:38:08Z'
+timestamp: '2020-02-25T15:38:25Z'
