@@ -615,6 +615,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/790'}
   - {number: 800, title: Suggestion to Introduce Type Conversion, updated: '2020-02-25',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/800'}
+  - {number: 801, title: 'Episode 5 - Unnecessary cultural reference?', updated: '2020-02-26',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/801'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -673,17 +675,19 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/775'}
   - {number: 798, title: provide detailed alt text to intro image 03., updated: '2020-02-23',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/798'}
+  - {number: 802, title: '#781 Provide alt text for most episodes', updated: '2020-02-26',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/802'}
   - {number: 797, title: provide detailed alt text to numpy image 01 - Zero Index
-      ., updated: '2020-02-23', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/797'}
-  - {number: 796, title: provide detailed alt text to func image 01., updated: '2020-02-23',
+      ., updated: '2020-02-26', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/797'}
+  - {number: 796, title: provide detailed alt text to func image 01., updated: '2020-02-26',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/796'}
-  - {number: 795, title: provide detailed alt text to cond image 01., updated: '2020-02-23',
+  - {number: 795, title: provide detailed alt text to cond image 01., updated: '2020-02-26',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/795'}
-  - {number: 794, title: provide detailed alt text to numpy image 02., updated: '2020-02-23',
+  - {number: 794, title: provide detailed alt text to numpy image 02., updated: '2020-02-26',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/794'}
-  - {number: 793, title: provide detailed alt text to intro image 02., updated: '2020-02-23',
+  - {number: 793, title: provide detailed alt text to intro image 02., updated: '2020-02-26',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/793'}
-  - {number: 792, title: provide detailed alt text to intro image 01., updated: '2020-02-23',
+  - {number: 792, title: provide detailed alt text to intro image 01., updated: '2020-02-26',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/792'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
@@ -1031,8 +1035,6 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1614'}
   - {number: 1615, title: Import Trainee checkout contribution to AMY, updated: '2020-02-07',
     url: 'https://github.com/carpentries/amy/issues/1615'}
-  - {number: 1623, title: Update Validation for WRF Person Recognition, updated: '2020-02-24',
-    url: 'https://github.com/carpentries/amy/issues/1623'}
   - {number: 1564, title: Feature Request- Add task = add person, updated: '2020-02-24',
     url: 'https://github.com/carpentries/amy/issues/1564'}
   - {number: 1562, title: TTT Open applications - check by default, updated: '2020-02-24',
@@ -1064,4 +1066,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-02-14',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-02-25T15:38:25Z'
+timestamp: '2020-02-26T15:39:09Z'

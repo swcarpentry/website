@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Ed Bennett,Mark Dawson",
+    "end_date": "2020-02-26",
+    "url": "https://edbennett.github.io/2020-02-25-cardiff",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "Cardiff",
+    "longitude": -3.167152,
+    "slug": "2020-02-25-cardiff",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Swansea University",
+    "latitude": 51.483926,
+    "start_date": "2020-02-25"
+  },
+  {
     "instructors": "Samniqueka Halsey,Steven Pryor",
     "end_date": "2020-02-21",
     "url": "https://swc-mizzou.github.io/2020-02-20-mizzou/",
@@ -69,7 +84,7 @@
     "longitude": 6.566414,
     "slug": "2020-02-13-epfl",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Didem Dede,Robin Denhardt-Eriksson,Nicholas Morgan,Po-Jen Tseng",
     "host_name": "École polytechnique fédérale de Lausanne",
     "latitude": 46.518619,
     "start_date": "2020-02-13"
@@ -84,13 +99,13 @@
     "longitude": -95.401833,
     "slug": "2020-02-13-rice",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Clinton Heider,Miaomiao Rimmer,Amy Ferguson,Lisa Spiro,Dave Erlandson,John Mulligan",
     "host_name": "Rice University",
     "latitude": 29.717394,
     "start_date": "2020-02-13"
   },
   {
-    "instructors": "Eric Jankowski,Dylan Mikesell,Mike Henry,Brian Jackson,Matt Clark,Kendra Kaiser,Charlie Becker,Neale Ellyson",
+    "instructors": "Eric Jankowski,Dylan Mikesell,Mike Henry,Brian Jackson,Matt Clark,Kendra Kaiser,AMRINA FERDOUS,Charlie Becker",
     "end_date": "2020-02-12",
     "url": "https://bsurc.github.io/2020-02-11-rc-days/",
     "country": "US",
@@ -99,7 +114,7 @@
     "longitude": -116.209994,
     "slug": "2020-02-11-rc-days",
     "tag_name": "SWC",
-    "helpers": "Kyle Shannon,Dhanush Kumar Ratakonda,Elisabeth Shook,Olga Goulko",
+    "helpers": "Kyle Shannon,Dhanush Kumar Ratakonda,Elisabeth Shook,Olga Goulko,Neale Ellyson,Rezvan Joshaghani,Mike Ramshaw",
     "host_name": "Boise State University",
     "latitude": 43.604172,
     "start_date": "2020-02-11"
@@ -270,7 +285,7 @@
     "start_date": "2020-01-30"
   },
   {
-    "instructors": null,
+    "instructors": "Oliver Brown,Magnus Hagdorn,Antonia May,Chris Wood",
     "end_date": "2020-01-30",
     "url": "https://edcarp.github.io/2020-01-29-edinburgh-geo-swc/",
     "country": "GB",
@@ -3294,7 +3309,7 @@
     "longitude": -106.619838,
     "slug": "2019-05-30-unm",
     "tag_name": "SWC",
-    "helpers": "Renee Brown,Nitin Bhandari,Matthew Fricke",
+    "helpers": "Renee F. Brown,Nitin Bhandari,Matthew Fricke",
     "host_name": "University of New Mexico",
     "latitude": 35.085714,
     "start_date": "2019-05-30"
@@ -3534,7 +3549,7 @@
     "longitude": -77.048386,
     "slug": "2019-05-16-gwu",
     "tag_name": "SWC",
-    "helpers": "Jason Hurlburt,Marco Suarez,Liem Nguyen,Monica Rigucci,Mengqi Ji,Steve Cherry,Zifan Huang",
+    "helpers": "Jason Hurlburt,Marco Suarez,Liem Nguyen,William Bonnett,Monica Rigucci,Mengqi Ji,Steve Cherry,Zifan Huang",
     "host_name": "George Washington University",
     "latitude": 38.899233,
     "start_date": "2019-05-16"
