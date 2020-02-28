@@ -263,8 +263,6 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/711'}
   - {number: 712, title: Episode 12 - More general information on citation format,
     updated: '2019-12-26', url: 'https://github.com/swcarpentry/git-novice/issues/712'}
-  - {number: 716, title: 'Is using "origin master" really necessary?', updated: '2020-01-10',
-    url: 'https://github.com/swcarpentry/git-novice/issues/716'}
   - {number: 718, title: Episode 14 - Challenge solution should be in R, updated: '2020-01-15',
     url: 'https://github.com/swcarpentry/git-novice/issues/718'}
   - {number: 685, title: 'Episode 3 suggests to use git status before initializing
@@ -281,6 +279,8 @@ records:
     updated: '2020-02-24', url: 'https://github.com/swcarpentry/git-novice/issues/725'}
   - {number: 724, title: Episode 8 - No notifications in Github after inviting collaborator,
     updated: '2020-02-24', url: 'https://github.com/swcarpentry/git-novice/issues/724'}
+  - {number: 716, title: 'Is using "origin master" really necessary?', updated: '2020-02-27',
+    url: 'https://github.com/swcarpentry/git-novice/issues/716'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -609,14 +609,14 @@ records:
   - {number: 783, title: Dictionaries not introduced but used in exercise in "Error
       and Exceptions" - & suggestiong, updated: '2020-02-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/783'}
   - {number: 789, title: Adding PDB to the debug lesson, updated: '2020-02-20', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/789'}
-  - {number: 781, title: 'Call for Contributions: image descriptions & titles', updated: '2020-02-21',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
   - {number: 790, title: Adding type hints example to functions, updated: '2020-02-23',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/790'}
-  - {number: 800, title: Suggestion to Introduce Type Conversion, updated: '2020-02-25',
+  - {number: 800, title: Suggestion to Introduce Type Conversion, updated: '2020-02-26',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/800'}
-  - {number: 801, title: 'Episode 5 - Unnecessary cultural reference?', updated: '2020-02-26',
+  - {number: 801, title: 'Episode 5 - Unnecessary cultural reference?', updated: '2020-02-27',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/801'}
+  - {number: 781, title: 'Call for Contributions: image descriptions & titles', updated: '2020-02-28',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -665,30 +665,27 @@ records:
   - {number: 693, title: Update 08-defensive.md, updated: '2019-08-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/693'}
   - {number: 718, title: specify line color to blue, updated: '2019-10-01', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/718'}
   - {number: 715, title: Update 03-lists.md, updated: '2019-11-08', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/715'}
-  - {number: 766, title: '01-intro.md: New fundamentals exercise', updated: '2019-12-13',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/766'}
   - {number: 697, title: 'Update 06-func.md: exercise time', updated: '2019-12-13',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/697'}
   - {number: 772, title: Clarification on using group plots in jupyter notebook, updated: '2019-12-20',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/772'}
   - {number: 775, title: 'Moved data description to lesson 2. ', updated: '2020-01-20',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/775'}
-  - {number: 798, title: provide detailed alt text to intro image 03., updated: '2020-02-23',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/798'}
-  - {number: 802, title: '#781 Provide alt text for most episodes', updated: '2020-02-26',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/802'}
   - {number: 797, title: provide detailed alt text to numpy image 01 - Zero Index
       ., updated: '2020-02-26', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/797'}
   - {number: 796, title: provide detailed alt text to func image 01., updated: '2020-02-26',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/796'}
-  - {number: 795, title: provide detailed alt text to cond image 01., updated: '2020-02-26',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/795'}
-  - {number: 794, title: provide detailed alt text to numpy image 02., updated: '2020-02-26',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/794'}
-  - {number: 793, title: provide detailed alt text to intro image 02., updated: '2020-02-26',
+  - {number: 808, title: Add alt-text to 10-defensive overlapping_ranges, updated: '2020-02-27',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/808'}
+  - {number: 807, title: Add alt-text 06-files image loop_49_5, updated: '2020-02-27',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/807'}
+  - {number: 806, title: Add alt-text 06-files loop_49_3, updated: '2020-02-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/806'}
+  - {number: 805, title: Add alt-text 06_files loop_49_1, updated: '2020-02-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/805'}
+  - {number: 803, title: Add alt-text to 05-lists, updated: '2020-02-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/803'}
+  - {number: 793, title: provide detailed alt text to intro image 02., updated: '2020-02-28',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/793'}
-  - {number: 792, title: provide detailed alt text to intro image 01., updated: '2020-02-26',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/792'}
+  - {number: 766, title: '01-intro.md: New fundamentals exercise', updated: '2020-02-28',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/766'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -873,8 +870,8 @@ records:
     updated: '2020-01-17', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/607'}
   - {number: 481, title: '[Suggestion] Replace the read.csv(data/gapminder.csv) with
       library(gapminder)', updated: '2020-02-03', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/481'}
-  - {number: 615, title: 'Typos in "R for Reproducible Scientific Analysis" lesson,
-      in "Introduction to R and RStudio" episode', updated: '2020-02-19', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/615'}
+  - {number: 617, title: Occasional usage of "simply" in a few episodes, updated: '2020-02-26',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/617'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -1046,6 +1043,8 @@ records:
   - {number: 1512, title: Use DataTables in all tabular data views, updated: '2020-02-24',
     url: 'https://github.com/carpentries/amy/issues/1512'}
   - {number: 1484, title: Track changed metadata, updated: '2020-02-24', url: 'https://github.com/carpentries/amy/issues/1484'}
+  - {number: 1624, title: Name matching on workshop request forms, updated: '2020-02-26',
+    url: 'https://github.com/carpentries/amy/issues/1624'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1066,4 +1065,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-02-14',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-02-26T15:39:09Z'
+timestamp: '2020-02-28T15:40:22Z'
