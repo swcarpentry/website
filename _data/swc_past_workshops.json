@@ -405,6 +405,21 @@
     "start_date": "2020-01-21"
   },
   {
+    "instructors": null,
+    "end_date": "2020-02-18",
+    "url": "https://edcarp.github.io/2020-01-21-edinburgh-swc/",
+    "country": "GB",
+    "curriculum": "swc-plotting",
+    "venue": "University of Edinburgh",
+    "longitude": -3.179406,
+    "slug": "2020-01-21-edinburgh-swc",
+    "tag_name": "SWC",
+    "helpers": "Mario Antonioletti",
+    "host_name": "University of Edinburgh",
+    "latitude": 55.924386,
+    "start_date": "2020-01-21"
+  },
+  {
     "instructors": "Meg Drouhard,Daniela Huppenkothen",
     "end_date": "2020-01-24",
     "url": "https://uwescience.github.io/2020-01-21-uw/",
@@ -14805,7 +14820,7 @@
     "start_date": "2016-08-29"
   },
   {
-    "instructors": "Cam Macdonell,Juan Steyn",
+    "instructors": "Cam Macdonell,Juan (Zacharias Jacobus) Steyn",
     "end_date": "2016-09-01",
     "url": "https://nwu-eresearch.github.io/2016-08-29-nwu-mafikeng/",
     "country": "ZA",

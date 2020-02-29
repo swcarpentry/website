@@ -598,8 +598,6 @@ records:
   - {number: 494, title: Clean up SVG figures, updated: '2020-01-17', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/494'}
   - {number: 63, title: 'Perhaps we shouldn''t have readings-01.py, readings-02.py
       etc?', updated: '2020-01-20', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/63'}
-  - {number: 773, title: 'Defensive Programming: replacing assertions with exceptions ',
-    updated: '2020-01-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/773'}
   - {number: 663, title: Lesson 1 - add info about variable names, updated: '2020-01-30',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/663'}
   - {number: 633, title: 'Episode 02-loop.md: Improving visualization of the "for
@@ -617,6 +615,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/801'}
   - {number: 781, title: 'Call for Contributions: image descriptions & titles', updated: '2020-02-28',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
+  - {number: 773, title: 'Defensive Programming: replacing assertions with exceptions ',
+    updated: '2020-02-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/773'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -682,10 +682,10 @@ records:
   - {number: 806, title: Add alt-text 06-files loop_49_3, updated: '2020-02-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/806'}
   - {number: 805, title: Add alt-text 06_files loop_49_1, updated: '2020-02-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/805'}
   - {number: 803, title: Add alt-text to 05-lists, updated: '2020-02-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/803'}
-  - {number: 793, title: provide detailed alt text to intro image 02., updated: '2020-02-28',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/793'}
   - {number: 766, title: '01-intro.md: New fundamentals exercise', updated: '2020-02-28',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/766'}
+  - {number: 793, title: provide detailed alt text to intro image 02., updated: '2020-02-29',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/793'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1028,8 +1028,6 @@ records:
   - {number: 1610, title: 'Venue, address and latlong info not picked up from workshop
       URL', updated: '2020-01-27', url: 'https://github.com/carpentries/amy/issues/1610'}
   - {number: 1618, title: Match Secondary Email in WRF, updated: '2020-02-03', url: 'https://github.com/carpentries/amy/issues/1618'}
-  - {number: 1614, title: 'Import Training Event Registration and Attendance ', updated: '2020-02-03',
-    url: 'https://github.com/carpentries/amy/issues/1614'}
   - {number: 1615, title: Import Trainee checkout contribution to AMY, updated: '2020-02-07',
     url: 'https://github.com/carpentries/amy/issues/1615'}
   - {number: 1564, title: Feature Request- Add task = add person, updated: '2020-02-24',
@@ -1045,6 +1043,8 @@ records:
   - {number: 1484, title: Track changed metadata, updated: '2020-02-24', url: 'https://github.com/carpentries/amy/issues/1484'}
   - {number: 1624, title: Name matching on workshop request forms, updated: '2020-02-26',
     url: 'https://github.com/carpentries/amy/issues/1624'}
+  - {number: 1614, title: 'Import Training Event Registration and Attendance ', updated: '2020-02-28',
+    url: 'https://github.com/carpentries/amy/issues/1614'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1065,4 +1065,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-02-14',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-02-28T15:40:22Z'
+timestamp: '2020-02-29T15:41:04Z'

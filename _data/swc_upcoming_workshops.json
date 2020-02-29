@@ -39,7 +39,7 @@
     "longitude": null,
     "slug": "2020-03-07-wvu",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Nicolas Frazee",
     "host_name": "West Virginia University",
     "latitude": null,
     "start_date": "2020-03-07"
@@ -210,6 +210,36 @@
     "start_date": "2020-03-23"
   },
   {
+    "instructors": "James Adams,Lora Leligdon,Christian Darabos",
+    "end_date": "2020-03-27",
+    "url": "https://nesclic.github.io/2020-03-26-Dartmouth/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Dartmouth College",
+    "longitude": -72.289135,
+    "slug": "2020-03-26-Dartmouth",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Dartmouth College",
+    "latitude": 43.705859,
+    "start_date": "2020-03-26"
+  },
+  {
+    "instructors": "Daniel Kerchner,Dolsy Smith",
+    "end_date": "2020-03-27",
+    "url": "https://gwu-libraries.github.io/2020-03-26-carpentry/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "George Washington University",
+    "longitude": -77.048386,
+    "slug": "2020-03-26-carpentry",
+    "tag_name": "SWC",
+    "helpers": "Laura Wrubel,Megan Potterbusch,William Bonnett,Leah Richardson",
+    "host_name": "George Washington University",
+    "latitude": 38.899233,
+    "start_date": "2020-03-26"
+  },
+  {
     "instructors": "Raphaël Grolimund,Antoine Masson,Mathilde Panes",
     "end_date": "2020-03-31",
     "url": "https://epfllibrary.github.io/2020-03-30-epfl",
@@ -238,6 +268,21 @@
     "host_name": "Langebio",
     "latitude": 19.49,
     "start_date": "2020-04-14"
+  },
+  {
+    "instructors": "Maximilian Dolling,Bezaye Tesfaye Belayneh",
+    "end_date": "2020-04-21",
+    "url": "http://swc-bb.gitext.gfz-potsdam.de/swc-pages/2020-04-20-Potsdam-Berlin/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "Albert Einstein Science Park, Potsdam, Germany",
+    "longitude": 13.064298,
+    "slug": "2020-04-20-Potsdam-Berlin",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "GFZ Potsdam",
+    "latitude": 52.382214,
+    "start_date": "2020-04-20"
   },
   {
     "instructors": "Kathryn Napier",
