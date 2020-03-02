@@ -604,8 +604,6 @@ records:
       loop"', updated: '2020-01-31', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/633'}
   - {number: 774, title: 'Call for Contributions: visuals (images, figures, plots,
       charts, etc.)', updated: '2020-02-04', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/774'}
-  - {number: 783, title: Dictionaries not introduced but used in exercise in "Error
-      and Exceptions" - & suggestiong, updated: '2020-02-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/783'}
   - {number: 789, title: Adding PDB to the debug lesson, updated: '2020-02-20', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/789'}
   - {number: 790, title: Adding type hints example to functions, updated: '2020-02-23',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/790'}
@@ -617,6 +615,8 @@ records:
     updated: '2020-02-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/773'}
   - {number: 781, title: 'Call for Contributions: image descriptions & titles', updated: '2020-03-01',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
+  - {number: 783, title: Dictionaries not introduced but used in exercise in "Error
+      and Exceptions" - & suggestiong, updated: '2020-03-02', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/783'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -684,6 +684,8 @@ records:
   - {number: 803, title: Add alt-text to 05-lists, updated: '2020-02-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/803'}
   - {number: 766, title: '01-intro.md: New fundamentals exercise', updated: '2020-02-28',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/766'}
+  - {number: 809, title: Briefly introduce dictionaries before using them in the exercise,
+    updated: '2020-03-02', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/809'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1064,4 +1066,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-02-14',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-03-01T15:41:18Z'
+timestamp: '2020-03-02T15:42:23Z'
