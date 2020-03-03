@@ -30,7 +30,7 @@
     "start_date": "2020-02-27"
   },
   {
-    "instructors": "Lihong Zhao,Amanda Culley",
+    "instructors": "James Van Leuven,Lihong Zhao,Amanda Culley",
     "end_date": "2020-02-28",
     "url": "https://dearmint.github.io/2020-02-27-uidaho/",
     "country": "US",
@@ -39,7 +39,7 @@
     "longitude": -117.024304,
     "slug": "2020-02-27-uidaho",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Travis Seaborn,Julia Piaskowski,Breanna Sipley,Ellie Bayat,Ben Ridenhour,Yesol Sapozhnikov,Janet Williams",
     "host_name": "University of Idaho",
     "latitude": 46.727284,
     "start_date": "2020-02-27"
@@ -405,7 +405,7 @@
     "start_date": "2020-01-21"
   },
   {
-    "instructors": null,
+    "instructors": "Ruairidh Macleod,David McKain,Antonia Mey",
     "end_date": "2020-02-18",
     "url": "https://edcarp.github.io/2020-01-21-edinburgh-swc/",
     "country": "GB",
@@ -414,7 +414,7 @@
     "longitude": -3.179406,
     "slug": "2020-01-21-edinburgh-swc",
     "tag_name": "SWC",
-    "helpers": "Mario Antonioletti",
+    "helpers": "Mario Antonioletti,Sofia Bariami,Wilson Wu,Ezra Kitson,Rafal Szabla,Jordi Juarez Jimenez,Bianca Prodan,Fiona Bissett,Jen Daub,Holly Judge",
     "host_name": "University of Edinburgh",
     "latitude": 55.924386,
     "start_date": "2020-01-21"

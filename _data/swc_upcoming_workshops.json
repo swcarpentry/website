@@ -120,6 +120,21 @@
     "start_date": "2020-03-13"
   },
   {
+    "instructors": "Santosh Ilamparuthi,Susan Branchett",
+    "end_date": "2020-03-17",
+    "url": "https://4turesearchdata-carpentries.github.io/2020-03-16-delft/",
+    "country": "NL",
+    "curriculum": "swc-python",
+    "venue": "March 2020 SWC Workshop @TU Delft",
+    "longitude": 4.37524,
+    "slug": "2020-03-16-delft",
+    "tag_name": "SWC",
+    "helpers": "Kees den Heijer,Heather Andrews,Nicolas Dintzner,Esther Plomp,Marcel van den Broek,Mark Schenk,Masha Rudneva",
+    "host_name": "Delft Univeristy of Technology",
+    "latitude": 52.002677,
+    "start_date": "2020-03-16"
+  },
+  {
     "instructors": "Alice Harpole,Makhan Virdi",
     "end_date": "2020-03-17",
     "url": "https://harpolea.github.io/2020-03-16-stonybrook/",
