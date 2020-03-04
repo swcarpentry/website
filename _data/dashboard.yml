@@ -168,6 +168,8 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1032'}
   - {number: 1092, title: Difficulty navigating to 'data-shell' in Setup, updated: '2020-02-12',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1092'}
+  - {number: 1095, title: '[submitted via email] possible mistake in solution for
+      challenge "tracking a species"', updated: '2020-03-04', url: 'https://github.com/swcarpentry/shell-novice/issues/1095'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -673,17 +675,19 @@ records:
       ., updated: '2020-02-26', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/797'}
   - {number: 796, title: provide detailed alt text to func image 01., updated: '2020-02-26',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/796'}
-  - {number: 808, title: Add alt-text to 10-defensive overlapping_ranges, updated: '2020-02-27',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/808'}
   - {number: 807, title: Add alt-text 06-files image loop_49_5, updated: '2020-02-27',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/807'}
   - {number: 806, title: Add alt-text 06-files loop_49_3, updated: '2020-02-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/806'}
-  - {number: 805, title: Add alt-text 06_files loop_49_1, updated: '2020-02-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/805'}
   - {number: 803, title: Add alt-text to 05-lists, updated: '2020-02-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/803'}
   - {number: 766, title: '01-intro.md: New fundamentals exercise', updated: '2020-02-28',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/766'}
   - {number: 809, title: Briefly introduce dictionaries before using them in the exercise,
     updated: '2020-03-02', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/809'}
+  - {number: 810, title: added more detail to alt text of image inflammation-01-imshow.svg,
+    updated: '2020-03-03', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/810'}
+  - {number: 808, title: Add alt-text to 10-defensive overlapping_ranges, updated: '2020-03-04',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/808'}
+  - {number: 805, title: Add alt-text 06_files loop_49_1, updated: '2020-03-04', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/805'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1064,4 +1068,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-02-14',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-03-03T15:43:03Z'
+timestamp: '2020-03-04T15:43:26Z'

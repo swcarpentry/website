@@ -165,16 +165,16 @@
     "start_date": "2020-03-17"
   },
   {
-    "instructors": "Jarno Rantaharju,João da Silva,Richard Darst",
+    "instructors": "Jarno Rantaharju,João da Silva,Juho Lehtonen,Richard Darst",
     "end_date": "2020-03-20",
     "url": "https://rantahar.github.io/2020-03-19-Helsinki/",
     "country": "FI",
     "curriculum": "swc-python",
-    "venue": "Kumpula Campus",
+    "venue": "Kumpula Campus, Exactum CK107",
     "longitude": 24.96475,
     "slug": "2020-03-19-Helsinki",
     "tag_name": "SWC",
-    "helpers": "Kerstin Lenk",
+    "helpers": null,
     "host_name": "University of Helsinki",
     "latitude": 60.20911,
     "start_date": "2020-03-19"
