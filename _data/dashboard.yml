@@ -186,7 +186,7 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/1081'}
   - {number: 1088, title: Insert clear terminal command, updated: '2020-01-31', url: 'https://github.com/swcarpentry/shell-novice/pull/1088'}
   - {number: 1089, title: Update 02-filedir.md, updated: '2020-02-04', url: 'https://github.com/swcarpentry/shell-novice/pull/1089'}
-  - {number: 1093, title: Modified redirects and pipes image to SVG format, updated: '2020-02-25',
+  - {number: 1093, title: Modified redirects and pipes image to SVG format, updated: '2020-03-05',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1093'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
@@ -252,8 +252,6 @@ records:
       english speakers', updated: '2019-09-24', url: 'https://github.com/swcarpentry/git-novice/issues/606'}
   - {number: 695, title: 'Incomplete output from `cat` in Episode 4, "Committing Multiple
       Files"', updated: '2019-10-24', url: 'https://github.com/swcarpentry/git-novice/issues/695'}
-  - {number: 691, title: 'Consider replacing "checkout" with "switch" and "restore",
-      if widely available in the future', updated: '2019-11-18', url: 'https://github.com/swcarpentry/git-novice/issues/691'}
   - {number: 703, title: 'Improve episode 5 "Exploring History" ', updated: '2019-12-02',
     url: 'https://github.com/swcarpentry/git-novice/issues/703'}
   - {number: 708, title: Exercise submission, updated: '2019-12-08', url: 'https://github.com/swcarpentry/git-novice/issues/708'}
@@ -285,6 +283,8 @@ records:
       than laconic, updated: '2020-03-03', url: 'https://github.com/swcarpentry/git-novice/issues/727'}
   - {number: 724, title: Episode 8 - No notifications in Github after inviting collaborator,
     updated: '2020-03-03', url: 'https://github.com/swcarpentry/git-novice/issues/724'}
+  - {number: 691, title: 'Consider replacing "checkout" with "switch" and "restore",
+      if widely available in the future', updated: '2020-03-04', url: 'https://github.com/swcarpentry/git-novice/issues/691'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -409,8 +409,6 @@ records:
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/285'}
   - {number: 288, title: Ordering When Concatenating exercise in aggregation section
       has no solution, updated: '2019-07-24', url: 'https://github.com/swcarpentry/sql-novice-survey/issues/288'}
-  - {number: 287, title: 'Does the Citation need to change?', updated: '2019-07-25',
-    url: 'https://github.com/swcarpentry/sql-novice-survey/issues/287'}
   - {number: 139, title: Check/remove unexpected images, updated: '2019-08-05', url: 'https://github.com/swcarpentry/sql-novice-survey/issues/139'}
   - {number: 286, title: Add Binder Button for JupyterLab and RStudio Server, updated: '2019-10-08',
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/286'}
@@ -421,24 +419,17 @@ records:
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/305'}
   - {number: 309, title: Reference links broken on episode 1, updated: '2020-01-24',
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/309'}
-  - {number: 312, title: Use explicit column names with INSERT, updated: '2020-02-18',
-    url: 'https://github.com/swcarpentry/sql-novice-survey/issues/312'}
   pulls:
   - {number: 274, title: adding a solution of a challange (Ordering When Concatenating),
     updated: '2018-12-13', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/274'}
   - {number: 289, title: Simplification + solution for group concatenation exercise,
     updated: '2019-09-18', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/289'}
   - {number: 304, title: Correct typo, updated: '2019-12-02', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/304'}
-  - {number: 302, title: 'Best practice: Use explicit column names with INSERT', updated: '2019-12-02',
-    url: 'https://github.com/swcarpentry/sql-novice-survey/pull/302'}
   - {number: 268, title: Promoted SQL's set-based advantages, updated: '2019-12-02',
     url: 'https://github.com/swcarpentry/sql-novice-survey/pull/268'}
   - {number: 267, title: More fixes, updated: '2019-12-02', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/267'}
   - {number: 193, title: rec modification to use newsurvey database so users can run
       sql commands, updated: '2019-12-02', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/193'}
-  - {number: 298, title: Rename database manager to database engine, updated: '2019-12-03',
-    url: 'https://github.com/swcarpentry/sql-novice-survey/pull/298'}
-  - {number: 295, title: Update  README.md, updated: '2019-12-11', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/295'}
   url: https://github.com/swcarpentry/sql-novice-survey
 - description: Python
   ident: swcarpentry/python-novice-inflammation
@@ -613,10 +604,10 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/801'}
   - {number: 773, title: 'Defensive Programming: replacing assertions with exceptions ',
     updated: '2020-02-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/773'}
-  - {number: 781, title: 'Call for Contributions: image descriptions & titles', updated: '2020-03-01',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
   - {number: 783, title: Dictionaries not introduced but used in exercise in "Error
       and Exceptions" - & suggestiong, updated: '2020-03-02', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/783'}
+  - {number: 781, title: 'Call for Contributions: image descriptions & titles', updated: '2020-03-04',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -673,8 +664,6 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/775'}
   - {number: 797, title: provide detailed alt text to numpy image 01 - Zero Index
       ., updated: '2020-02-26', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/797'}
-  - {number: 796, title: provide detailed alt text to func image 01., updated: '2020-02-26',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/796'}
   - {number: 807, title: Add alt-text 06-files image loop_49_5, updated: '2020-02-27',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/807'}
   - {number: 806, title: Add alt-text 06-files loop_49_3, updated: '2020-02-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/806'}
@@ -685,9 +674,9 @@ records:
     updated: '2020-03-02', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/809'}
   - {number: 810, title: added more detail to alt text of image inflammation-01-imshow.svg,
     updated: '2020-03-03', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/810'}
-  - {number: 808, title: Add alt-text to 10-defensive overlapping_ranges, updated: '2020-03-04',
+  - {number: 808, title: Add alt-text to 10-defensive overlapping_ranges, updated: '2020-03-05',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/808'}
-  - {number: 805, title: Add alt-text 06_files loop_49_1, updated: '2020-03-04', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/805'}
+  - {number: 805, title: Add alt-text 06_files loop_49_1, updated: '2020-03-05', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/805'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1068,4 +1057,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-02-14',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-03-04T15:43:26Z'
+timestamp: '2020-03-05T15:43:54Z'
