@@ -417,7 +417,7 @@ records:
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/306'}
   - {number: 305, title: 'Ep. 6: Explanation of count() could be improved.', updated: '2019-12-03',
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/305'}
-  - {number: 309, title: Reference links broken on episode 1, updated: '2020-01-24',
+  - {number: 309, title: Reference links broken on episode 1, updated: '2020-03-05',
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/309'}
   pulls:
   - {number: 274, title: adding a solution of a challange (Ordering When Concatenating),
@@ -606,7 +606,7 @@ records:
     updated: '2020-02-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/773'}
   - {number: 783, title: Dictionaries not introduced but used in exercise in "Error
       and Exceptions" - & suggestiong, updated: '2020-03-02', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/783'}
-  - {number: 781, title: 'Call for Contributions: image descriptions & titles', updated: '2020-03-04',
+  - {number: 781, title: 'Call for Contributions: image descriptions & titles', updated: '2020-03-06',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
@@ -667,16 +667,15 @@ records:
   - {number: 807, title: Add alt-text 06-files image loop_49_5, updated: '2020-02-27',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/807'}
   - {number: 806, title: Add alt-text 06-files loop_49_3, updated: '2020-02-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/806'}
-  - {number: 803, title: Add alt-text to 05-lists, updated: '2020-02-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/803'}
-  - {number: 766, title: '01-intro.md: New fundamentals exercise', updated: '2020-02-28',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/766'}
   - {number: 809, title: Briefly introduce dictionaries before using them in the exercise,
     updated: '2020-03-02', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/809'}
   - {number: 810, title: added more detail to alt text of image inflammation-01-imshow.svg,
-    updated: '2020-03-03', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/810'}
+    updated: '2020-03-05', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/810'}
   - {number: 808, title: Add alt-text to 10-defensive overlapping_ranges, updated: '2020-03-05',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/808'}
   - {number: 805, title: Add alt-text 06_files loop_49_1, updated: '2020-03-05', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/805'}
+  - {number: 766, title: '01-intro.md: New fundamentals exercise', updated: '2020-03-05',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/766'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1057,4 +1056,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-02-14',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-03-05T15:43:54Z'
+timestamp: '2020-03-06T15:43:51Z'

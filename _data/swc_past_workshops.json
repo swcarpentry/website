@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Samniqueka Halsey,Steven Pryor",
+    "end_date": "2020-03-06",
+    "url": "https://swc-mizzou.github.io/2020-03-05-mizzou",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "University of Missouri",
+    "longitude": -92.32859,
+    "slug": "2020-03-05-mizzou",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 38.95155,
+    "start_date": "2020-03-05"
+  },
+  {
     "instructors": "Timothy Norris,Cameron Riopelle",
     "end_date": "2020-02-28",
     "url": "https://tibbben.github.io/2020-02-27-RSMAS/",
