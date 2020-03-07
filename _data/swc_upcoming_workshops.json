@@ -210,6 +210,21 @@
     "start_date": "2020-03-23"
   },
   {
+    "instructors": "Shu Liu,Danielle Kane,Madelynn Dickerson,Mitchell Brown",
+    "end_date": "2020-03-25",
+    "url": "https://uci-libraries.github.io/2020-03-24-UCI/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "UC Irvine Libraries",
+    "longitude": -117.8411,
+    "slug": "2020-03-24-UCI",
+    "tag_name": "SWC",
+    "helpers": "Shu Liu,Danielle Kane,Madelynn Dickerson,Mitchell Brown",
+    "host_name": "University of California Irvine",
+    "latitude": 33.647111,
+    "start_date": "2020-03-24"
+  },
+  {
     "instructors": "James Adams,Lora Leligdon,Christian Darabos",
     "end_date": "2020-03-27",
     "url": "https://nesclic.github.io/2020-03-26-Dartmouth/",
@@ -253,6 +268,21 @@
     "host_name": "École polytechnique fédérale de Lausanne",
     "latitude": 46.518619,
     "start_date": "2020-03-30"
+  },
+  {
+    "instructors": "Peter Steinbach,Tobias Huste,Fredo Erxleben",
+    "end_date": "2020-04-01",
+    "url": "https://hifis.gitlab.io/2020-03-31-hzdr/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "Helmholtz-Zentrum Dresden-Rossendorf",
+    "longitude": 13.949722,
+    "slug": "2020-03-31-hzdr",
+    "tag_name": "SWC",
+    "helpers": "Christian Huser",
+    "host_name": "Helmholtz-Zentrum Dresden-Rossendorf",
+    "latitude": 51.063611,
+    "start_date": "2020-03-31"
   },
   {
     "instructors": "Nelly Sélem",
@@ -373,6 +403,21 @@
     "host_name": "New York University",
     "latitude": 40.7294556,
     "start_date": "2020-05-28"
+  },
+  {
+    "instructors": "Chandler Becker,Randal McDermott,Andrew Reid,Andrea Medina-Smith",
+    "end_date": "2020-06-01",
+    "url": "https://pages.nist.gov/2020-05-29-nist/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "NIST",
+    "longitude": -77.216351,
+    "slug": "2020-05-29-nist",
+    "tag_name": "SWC",
+    "helpers": "Daniel Wheeler",
+    "host_name": "National Institute of Standards and Technology",
+    "latitude": 39.1322,
+    "start_date": "2020-05-29"
   },
   {
     "instructors": "Amanda Miotto",
