@@ -595,9 +595,6 @@ records:
       loop"', updated: '2020-01-31', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/633'}
   - {number: 774, title: 'Call for Contributions: visuals (images, figures, plots,
       charts, etc.)', updated: '2020-02-04', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/774'}
-  - {number: 789, title: Adding PDB to the debug lesson, updated: '2020-02-20', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/789'}
-  - {number: 790, title: Adding type hints example to functions, updated: '2020-02-23',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/790'}
   - {number: 800, title: Suggestion to Introduce Type Conversion, updated: '2020-02-26',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/800'}
   - {number: 801, title: 'Episode 5 - Unnecessary cultural reference?', updated: '2020-02-27',
@@ -1058,4 +1055,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-02-14',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-03-07T15:44:24Z'
+timestamp: '2020-03-08T15:44:45Z'

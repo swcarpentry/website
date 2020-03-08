@@ -15,21 +15,6 @@
     "start_date": "2020-03-03"
   },
   {
-    "instructors": "Jacob Koehler,Trevor Burrows",
-    "end_date": "2020-03-08",
-    "url": "https://ncf0003.github.io/2020-03-07-wvu/",
-    "country": "US",
-    "curriculum": "swc-r",
-    "venue": "West Virginia University (Basic R Workshop)",
-    "longitude": null,
-    "slug": "2020-03-07-wvu",
-    "tag_name": "SWC",
-    "helpers": "Nicolas Frazee",
-    "host_name": "West Virginia University",
-    "latitude": null,
-    "start_date": "2020-03-07"
-  },
-  {
     "instructors": "Eric Chu",
     "end_date": "2020-03-24",
     "url": "https://echu113.github.io/2020-03-10-pythonecoscope/",
