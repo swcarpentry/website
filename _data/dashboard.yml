@@ -860,6 +860,10 @@ records:
       library(gapminder)', updated: '2020-02-03', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/481'}
   - {number: 617, title: Occasional usage of "simply" in a few episodes, updated: '2020-02-26',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/617'}
+  - {number: 621, title: challenge 4b and 5 in 08-plot-ggplot2.Rmd render wrong, updated: '2020-03-09',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/621'}
+  - {number: 619, title: '"By running these commands in the shell:" followed by "R"',
+    updated: '2020-03-09', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/619'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -874,6 +878,7 @@ records:
     updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/573'}
   - {number: 589, title: 'Spell check and apply consistent code style (close #548) ',
     updated: '2019-11-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
+  - {number: 620, title: typofix, updated: '2020-03-09', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/620'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1055,4 +1060,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-02-14',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-03-08T15:44:45Z'
+timestamp: '2020-03-09T15:44:46Z'
