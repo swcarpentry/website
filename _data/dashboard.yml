@@ -275,8 +275,6 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/357'}
   - {number: 277, title: 'Should we change the story behind the lesson?', updated: '2020-02-18',
     url: 'https://github.com/swcarpentry/git-novice/issues/277'}
-  - {number: 716, title: 'Is using "origin master" really necessary?', updated: '2020-02-27',
-    url: 'https://github.com/swcarpentry/git-novice/issues/716'}
   - {number: 728, title: 'Should we show an automatically resolvable merge conflict
       first?', updated: '2020-03-03', url: 'https://github.com/swcarpentry/git-novice/issues/728'}
   - {number: 727, title: Should text in "conflicts" examples be representative rather
@@ -285,6 +283,8 @@ records:
     updated: '2020-03-03', url: 'https://github.com/swcarpentry/git-novice/issues/724'}
   - {number: 691, title: 'Consider replacing "checkout" with "switch" and "restore",
       if widely available in the future', updated: '2020-03-04', url: 'https://github.com/swcarpentry/git-novice/issues/691'}
+  - {number: 716, title: 'Is using "origin master" really necessary?', updated: '2020-03-09',
+    url: 'https://github.com/swcarpentry/git-novice/issues/716'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -424,12 +424,20 @@ records:
     updated: '2018-12-13', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/274'}
   - {number: 289, title: Simplification + solution for group concatenation exercise,
     updated: '2019-09-18', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/289'}
-  - {number: 304, title: Correct typo, updated: '2019-12-02', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/304'}
   - {number: 268, title: Promoted SQL's set-based advantages, updated: '2019-12-02',
     url: 'https://github.com/swcarpentry/sql-novice-survey/pull/268'}
-  - {number: 267, title: More fixes, updated: '2019-12-02', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/267'}
   - {number: 193, title: rec modification to use newsurvey database so users can run
-      sql commands, updated: '2019-12-02', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/193'}
+      sql commands, updated: '2020-03-09', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/193'}
+  - {number: 317, title: 'Ep 9: Move exercise that requires Python knowledge to ep
+      10', updated: '2020-03-10', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/317'}
+  - {number: 316, title: 'Ep 6: Remove exercise "Ordering When Concatenating"', updated: '2020-03-10',
+    url: 'https://github.com/swcarpentry/sql-novice-survey/pull/316'}
+  - {number: 315, title: 'Ep 6: Add solution to exercise "What Does This Query Do?"',
+    updated: '2020-03-10', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/315'}
+  - {number: 314, title: 'Ep 5: Add solution to the exercise "NULL in a Set"', updated: '2020-03-10',
+    url: 'https://github.com/swcarpentry/sql-novice-survey/pull/314'}
+  - {number: 304, title: Correct typo, updated: '2020-03-10', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/304'}
+  - {number: 267, title: More fixes, updated: '2020-03-10', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/267'}
   url: https://github.com/swcarpentry/sql-novice-survey
 - description: Python
   ident: swcarpentry/python-novice-inflammation
@@ -673,6 +681,7 @@ records:
   - {number: 805, title: Add alt-text 06_files loop_49_1, updated: '2020-03-05', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/805'}
   - {number: 766, title: '01-intro.md: New fundamentals exercise', updated: '2020-03-05',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/766'}
+  - {number: 812, title: Update 07-cond.md, updated: '2020-03-10', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/812'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -862,8 +871,6 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/617'}
   - {number: 621, title: challenge 4b and 5 in 08-plot-ggplot2.Rmd render wrong, updated: '2020-03-09',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/621'}
-  - {number: 619, title: '"By running these commands in the shell:" followed by "R"',
-    updated: '2020-03-09', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/619'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -878,7 +885,7 @@ records:
     updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/573'}
   - {number: 589, title: 'Spell check and apply consistent code style (close #548) ',
     updated: '2019-11-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
-  - {number: 620, title: typofix, updated: '2020-03-09', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/620'}
+  - {number: 622, title: typo fix, updated: '2020-03-10', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/622'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1039,7 +1046,7 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1615'}
   - {number: 1625, title: Update form fill/validation when creating AMY Events from
       submissions, updated: '2020-03-06', url: 'https://github.com/carpentries/amy/issues/1625'}
-  - {number: 1572, title: Amy Event URL Validation, updated: '2020-03-06', url: 'https://github.com/carpentries/amy/issues/1572'}
+  - {number: 1572, title: Amy Event URL Validation, updated: '2020-03-10', url: 'https://github.com/carpentries/amy/issues/1572'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1047,6 +1054,7 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1578'}
   - {number: 1605, title: Bump djangorestframework from 3.9.4 to 3.11.0, updated: '2020-01-10',
     url: 'https://github.com/carpentries/amy/pull/1605'}
+  - {number: 1626, title: Fix Github OAuth2 warning, updated: '2020-03-10', url: 'https://github.com/carpentries/amy/pull/1626'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1060,4 +1068,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-02-14',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-03-09T15:44:46Z'
+timestamp: '2020-03-10T15:45:23Z'
