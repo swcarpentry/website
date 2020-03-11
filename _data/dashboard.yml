@@ -156,8 +156,6 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1056'}
   - {number: 996, title: Recursive option different between commands, updated: '2019-12-16',
     url: 'https://github.com/swcarpentry/shell-novice/issues/996'}
-  - {number: 1082, title: Be more explicit about which environments lack which help
-      options (Ep. 2), updated: '2020-01-23', url: 'https://github.com/swcarpentry/shell-novice/issues/1082'}
   - {number: 1024, title: further developing Windows shell setup instructor guidance,
     updated: '2020-01-29', url: 'https://github.com/swcarpentry/shell-novice/issues/1024'}
   - {number: 1010, title: Unix Shell setup suggestion - Video link and instructions
@@ -168,8 +166,8 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1032'}
   - {number: 1092, title: Difficulty navigating to 'data-shell' in Setup, updated: '2020-02-12',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1092'}
-  - {number: 1095, title: '[submitted via email] possible mistake in solution for
-      challenge "tracking a species"', updated: '2020-03-04', url: 'https://github.com/swcarpentry/shell-novice/issues/1095'}
+  - {number: 1082, title: Be more explicit about which environments lack which help
+      options (Ep. 2), updated: '2020-03-10', url: 'https://github.com/swcarpentry/shell-novice/issues/1082'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -332,6 +330,8 @@ records:
       (issue #685)', updated: '2020-01-16', url: 'https://github.com/swcarpentry/git-novice/pull/686'}
   - {number: 722, title: 'Update the logic and colours of rows in figures, Fixes #357',
     updated: '2020-02-01', url: 'https://github.com/swcarpentry/git-novice/pull/722'}
+  - {number: 729, title: Remove confusing `rm` text in episode 3, updated: '2020-03-11',
+    url: 'https://github.com/swcarpentry/git-novice/pull/729'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -430,14 +430,8 @@ records:
       sql commands, updated: '2020-03-09', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/193'}
   - {number: 317, title: 'Ep 9: Move exercise that requires Python knowledge to ep
       10', updated: '2020-03-10', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/317'}
-  - {number: 316, title: 'Ep 6: Remove exercise "Ordering When Concatenating"', updated: '2020-03-10',
-    url: 'https://github.com/swcarpentry/sql-novice-survey/pull/316'}
-  - {number: 315, title: 'Ep 6: Add solution to exercise "What Does This Query Do?"',
-    updated: '2020-03-10', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/315'}
   - {number: 314, title: 'Ep 5: Add solution to the exercise "NULL in a Set"', updated: '2020-03-10',
     url: 'https://github.com/swcarpentry/sql-novice-survey/pull/314'}
-  - {number: 304, title: Correct typo, updated: '2020-03-10', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/304'}
-  - {number: 267, title: More fixes, updated: '2020-03-10', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/267'}
   url: https://github.com/swcarpentry/sql-novice-survey
 - description: Python
   ident: swcarpentry/python-novice-inflammation
@@ -672,8 +666,6 @@ records:
   - {number: 807, title: Add alt-text 06-files image loop_49_5, updated: '2020-02-27',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/807'}
   - {number: 806, title: Add alt-text 06-files loop_49_3, updated: '2020-02-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/806'}
-  - {number: 809, title: Briefly introduce dictionaries before using them in the exercise,
-    updated: '2020-03-02', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/809'}
   - {number: 810, title: added more detail to alt text of image inflammation-01-imshow.svg,
     updated: '2020-03-05', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/810'}
   - {number: 808, title: Add alt-text to 10-defensive overlapping_ranges, updated: '2020-03-05',
@@ -681,7 +673,8 @@ records:
   - {number: 805, title: Add alt-text 06_files loop_49_1, updated: '2020-03-05', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/805'}
   - {number: 766, title: '01-intro.md: New fundamentals exercise', updated: '2020-03-05',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/766'}
-  - {number: 812, title: Update 07-cond.md, updated: '2020-03-10', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/812'}
+  - {number: 809, title: Briefly introduce dictionaries before using them in the exercise,
+    updated: '2020-03-10', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/809'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1055,6 +1048,8 @@ records:
   - {number: 1605, title: Bump djangorestframework from 3.9.4 to 3.11.0, updated: '2020-01-10',
     url: 'https://github.com/carpentries/amy/pull/1605'}
   - {number: 1626, title: Fix Github OAuth2 warning, updated: '2020-03-10', url: 'https://github.com/carpentries/amy/pull/1626'}
+  - {number: 1627, title: Non-transactional DB error when matching Training Request
+      with existing Person, updated: '2020-03-11', url: 'https://github.com/carpentries/amy/pull/1627'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1068,4 +1063,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-02-14',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-03-10T15:45:23Z'
+timestamp: '2020-03-11T15:45:15Z'

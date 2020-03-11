@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Lauren Ko,Kristy Phillips,Madhulika Bayyavarapu",
+    "end_date": "2020-03-11",
+    "url": "https://unt-carpentries.github.io/2020-03-10-unt-swc/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "University of North Texas",
+    "longitude": -97.148824,
+    "slug": "2020-03-10-unt-swc",
+    "tag_name": "SWC",
+    "helpers": "Manuel Gottardi",
+    "host_name": "University of North Texas",
+    "latitude": 33.213194,
+    "start_date": "2020-03-10"
+  },
+  {
     "instructors": "Jacob Koehler,Trevor Burrows",
     "end_date": "2020-03-08",
     "url": "https://ncf0003.github.io/2020-03-07-wvu/",
@@ -88,6 +103,21 @@
     "host_name": "Swansea University",
     "latitude": 51.483926,
     "start_date": "2020-02-25"
+  },
+  {
+    "instructors": "Alexander Konovalov,Samuel Lelièvre,Fredrik Strömberg",
+    "end_date": "2020-02-22",
+    "url": "https://ccp-codima.github.io/2020-02-20-lancaster/",
+    "country": "GB",
+    "curriculum": "",
+    "venue": "Lancaster University",
+    "longitude": -2.789279,
+    "slug": "2020-02-20-lancaster",
+    "tag_name": "SWC",
+    "helpers": "Awss Al-Ogaidi",
+    "host_name": "CCP CoDiMa",
+    "latitude": 54.012121,
+    "start_date": "2020-02-21"
   },
   {
     "instructors": "Samniqueka Halsey,Steven Pryor",
@@ -823,6 +853,21 @@
     "host_name": "University of Michigan",
     "latitude": 42.28316,
     "start_date": "2019-12-12"
+  },
+  {
+    "instructors": "Evgenij Belikov,Matthew Hamilton",
+    "end_date": "2019-12-11",
+    "url": "https://edcarp.github.io/2019-12-10-heriotwatt/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "Heriot Watt University (Riccarton campus; GRID building)",
+    "longitude": -3.26227,
+    "slug": "2019-12-10-heriotwatt",
+    "tag_name": "SWC",
+    "helpers": "Dave Howcroft,Peter McCallum",
+    "host_name": "Heriot Watt University",
+    "latitude": 55.92261,
+    "start_date": "2019-12-10"
   },
   {
     "instructors": null,
