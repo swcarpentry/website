@@ -597,16 +597,14 @@ records:
       loop"', updated: '2020-01-31', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/633'}
   - {number: 774, title: 'Call for Contributions: visuals (images, figures, plots,
       charts, etc.)', updated: '2020-02-04', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/774'}
-  - {number: 800, title: Suggestion to Introduce Type Conversion, updated: '2020-02-26',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/800'}
-  - {number: 801, title: 'Episode 5 - Unnecessary cultural reference?', updated: '2020-02-27',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/801'}
   - {number: 773, title: 'Defensive Programming: replacing assertions with exceptions ',
     updated: '2020-02-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/773'}
   - {number: 783, title: Dictionaries not introduced but used in exercise in "Error
       and Exceptions" - & suggestiong, updated: '2020-03-02', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/783'}
   - {number: 781, title: 'Call for Contributions: image descriptions & titles', updated: '2020-03-06',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
+  - {number: 800, title: Suggestion to Introduce Type Conversion, updated: '2020-03-11',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/800'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -731,8 +729,6 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/462'}
   - {number: 468, title: A better way to begin Lesson 3, updated: '2020-02-29', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/468'}
   pulls:
-  - {number: 437, title: 'Update styles to gh-pages:6d015fe', updated: '2019-08-20',
-    url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/437'}
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/460'}
@@ -1019,7 +1015,6 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1607'}
   - {number: 1610, title: 'Venue, address and latlong info not picked up from workshop
       URL', updated: '2020-01-27', url: 'https://github.com/carpentries/amy/issues/1610'}
-  - {number: 1618, title: Match Secondary Email in WRF, updated: '2020-02-03', url: 'https://github.com/carpentries/amy/issues/1618'}
   - {number: 1564, title: Feature Request- Add task = add person, updated: '2020-02-24',
     url: 'https://github.com/carpentries/amy/issues/1564'}
   - {number: 1562, title: TTT Open applications - check by default, updated: '2020-02-24',
@@ -1031,8 +1026,6 @@ records:
   - {number: 1512, title: Use DataTables in all tabular data views, updated: '2020-02-24',
     url: 'https://github.com/carpentries/amy/issues/1512'}
   - {number: 1484, title: Track changed metadata, updated: '2020-02-24', url: 'https://github.com/carpentries/amy/issues/1484'}
-  - {number: 1624, title: Name matching on workshop request forms, updated: '2020-02-26',
-    url: 'https://github.com/carpentries/amy/issues/1624'}
   - {number: 1614, title: 'Import Training Event Registration and Attendance ', updated: '2020-02-28',
     url: 'https://github.com/carpentries/amy/issues/1614'}
   - {number: 1615, title: Import Trainee checkout progress to AMY, updated: '2020-03-03',
@@ -1040,6 +1033,9 @@ records:
   - {number: 1625, title: Update form fill/validation when creating AMY Events from
       submissions, updated: '2020-03-06', url: 'https://github.com/carpentries/amy/issues/1625'}
   - {number: 1572, title: Amy Event URL Validation, updated: '2020-03-10', url: 'https://github.com/carpentries/amy/issues/1572'}
+  - {number: 1624, title: Name matching on workshop request forms, updated: '2020-03-12',
+    url: 'https://github.com/carpentries/amy/issues/1624'}
+  - {number: 1618, title: Match Secondary Email in WRF, updated: '2020-03-12', url: 'https://github.com/carpentries/amy/issues/1618'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1048,8 +1044,8 @@ records:
   - {number: 1605, title: Bump djangorestframework from 3.9.4 to 3.11.0, updated: '2020-01-10',
     url: 'https://github.com/carpentries/amy/pull/1605'}
   - {number: 1626, title: Fix Github OAuth2 warning, updated: '2020-03-10', url: 'https://github.com/carpentries/amy/pull/1626'}
-  - {number: 1627, title: Non-transactional DB error when matching Training Request
-      with existing Person, updated: '2020-03-11', url: 'https://github.com/carpentries/amy/pull/1627'}
+  - {number: 1629, title: Match TrainingReq. with person on secondary email, updated: '2020-03-12',
+    url: 'https://github.com/carpentries/amy/pull/1629'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1063,4 +1059,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-02-14',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-03-11T15:45:15Z'
+timestamp: '2020-03-12T15:46:14Z'

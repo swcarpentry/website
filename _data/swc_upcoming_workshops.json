@@ -69,7 +69,7 @@
     "longitude": -117.07,
     "slug": "2020-03-13-sdsu",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Karen Robinett",
     "host_name": "San Diego State University",
     "latitude": 32.78,
     "start_date": "2020-03-13"
@@ -90,7 +90,7 @@
     "start_date": "2020-03-16"
   },
   {
-    "instructors": "Alice Harpole,Makhan Virdi",
+    "instructors": "Alice Harpole",
     "end_date": "2020-03-17",
     "url": "https://harpolea.github.io/2020-03-16-stonybrook/",
     "country": "US",
@@ -102,6 +102,21 @@
     "helpers": null,
     "host_name": "Stony Brook University",
     "latitude": 40.91152,
+    "start_date": "2020-03-16"
+  },
+  {
+    "instructors": "Ania Jennings",
+    "end_date": "2020-03-17",
+    "url": "https://www.hpc.tntech.edu/workshop-2020-03-16/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Tennessee Tech University",
+    "longitude": -85.506699,
+    "slug": "2020-03-16-tntech",
+    "tag_name": "SWC",
+    "helpers": "Travis Lee",
+    "host_name": "Tennessee Tech University",
+    "latitude": 36.17514,
     "start_date": "2020-03-16"
   },
   {
@@ -180,21 +195,6 @@
     "start_date": "2020-03-23"
   },
   {
-    "instructors": "Shu Liu,Danielle Kane,Madelynn Dickerson,Mitchell Brown",
-    "end_date": "2020-03-25",
-    "url": "https://uci-libraries.github.io/2020-03-24-UCI/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "UC Irvine Libraries",
-    "longitude": -117.8411,
-    "slug": "2020-03-24-UCI",
-    "tag_name": "SWC",
-    "helpers": "Shu Liu,Danielle Kane,Madelynn Dickerson,Mitchell Brown",
-    "host_name": "University of California Irvine",
-    "latitude": 33.647111,
-    "start_date": "2020-03-24"
-  },
-  {
     "instructors": "James Adams,Lora Leligdon,Christian Darabos",
     "end_date": "2020-03-27",
     "url": "https://nesclic.github.io/2020-03-26-Dartmouth/",
@@ -268,6 +268,21 @@
     "host_name": "Karolinska Institutet",
     "latitude": 59.219701,
     "start_date": "2020-04-01"
+  },
+  {
+    "instructors": "Sarah Murphy,Michael Meyer,Nicholas Potter,Alex Kappes",
+    "end_date": "2020-04-14",
+    "url": "https://mbrousil.github.io/2020-04-13-wsu/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Washington State University",
+    "longitude": -117.155013,
+    "slug": "2020-04-13-wsu",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Washington State University",
+    "latitude": 46.72944,
+    "start_date": "2020-04-13"
   },
   {
     "instructors": "Nelly Sélem",
@@ -403,6 +418,21 @@
     "host_name": "National Institute of Standards and Technology",
     "latitude": 39.1322,
     "start_date": "2020-05-29"
+  },
+  {
+    "instructors": "Kristina Hettne,Matthijs de Zwaan,Alice Doek",
+    "end_date": "2020-06-09",
+    "url": "https://mtthsdzwn.github.io/2020-06-08-leiden/",
+    "country": "NL",
+    "curriculum": "",
+    "venue": "Universitaire bibliotheken Leiden",
+    "longitude": 4.48145,
+    "slug": "2020-06-08-leiden",
+    "tag_name": "SWC",
+    "helpers": "Henriette Reerink",
+    "host_name": "Vrije Universiteit",
+    "latitude": 52.15731,
+    "start_date": "2020-06-08"
   },
   {
     "instructors": "Amanda Miotto",

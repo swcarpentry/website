@@ -255,6 +255,21 @@
     "start_date": "2020-02-10"
   },
   {
+    "instructors": "Thomas Guignard,Ahmed Hasan,Deena Yanofsky,Mike Serafin",
+    "end_date": "2020-02-11",
+    "url": "https://mikeserafin.github.io/2020-02-10-utm/",
+    "country": "CA",
+    "curriculum": "swc-python,dc-socsci-r,dc-socsci-python,swc-r,swc-plotting,swc-reproducible-science",
+    "venue": "University of Toronto Mississauga",
+    "longitude": -79.6657487,
+    "slug": "2020-02-10-utm",
+    "tag_name": "SWC",
+    "helpers": "Elizabeth Parke,Deborah (Debbie) Buehler,Katy Czajkowski",
+    "host_name": "University of Toronto (Mississauga)",
+    "latitude": 43.5511869,
+    "start_date": "2020-02-10"
+  },
+  {
     "instructors": "Nihan Pol,Brian Powell",
     "end_date": "2020-02-08",
     "url": "https://ncf0003.github.io/2020-02-08-wvu/",
@@ -1185,6 +1200,36 @@
     "start_date": "2019-11-20"
   },
   {
+    "instructors": "Colin Sauze",
+    "end_date": "2019-11-20",
+    "url": "https://scw-aberystwyth.github.io/2019-11-19-aberystwyth/",
+    "country": "GB",
+    "curriculum": "",
+    "venue": "Aberystwyth University",
+    "longitude": -4.08817,
+    "slug": "2019-11-19-aberystwyth",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Aberystwyth",
+    "latitude": 52.41459,
+    "start_date": "2019-11-19"
+  },
+  {
+    "instructors": null,
+    "end_date": "2019-11-19",
+    "url": "https://southampton-rsg.github.io/2019-11-19-southampton-swc/",
+    "country": "GB",
+    "curriculum": "",
+    "venue": "Astronomy & Astrophysics",
+    "longitude": -1.39595,
+    "slug": "2019-11-19-southampton-swc",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Southampton",
+    "latitude": 50.93463,
+    "start_date": "2019-11-19"
+  },
+  {
     "instructors": "Kamilla Kopec-Harding,Nilani Ganeshwaran,Ann Gledson",
     "end_date": "2019-11-19",
     "url": "https://uomresearchit.github.io/2019-11-18-manchester/",
@@ -1362,6 +1407,21 @@
     "helpers": "Michael Treglia,Adam Starke",
     "host_name": "The Nature Conservancy in New York",
     "latitude": 42.718642,
+    "start_date": "2019-11-06"
+  },
+  {
+    "instructors": "Colin Sauze",
+    "end_date": "2019-11-13",
+    "url": "https://scw-aberystwyth.github.io/2019-11-06-aberystwyth/",
+    "country": "GB",
+    "curriculum": "",
+    "venue": "Aberystwyth University",
+    "longitude": -4.06713,
+    "slug": "2019-11-06-aberystwyth",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Aberystwyth",
+    "latitude": 52.41704,
     "start_date": "2019-11-06"
   },
   {
@@ -1872,6 +1932,21 @@
     "helpers": "Denice Adkins,Philip Redmon",
     "host_name": "University of Missouri",
     "latitude": 38.944623,
+    "start_date": "2019-10-07"
+  },
+  {
+    "instructors": "Graeme Grimes",
+    "end_date": "2019-10-07",
+    "url": "https://ggrimes.github.io/2019-10-07-unixshell/",
+    "country": "GB",
+    "curriculum": "",
+    "venue": "Medical Education Centre, Computing Lab",
+    "longitude": -3.234058,
+    "slug": "2019-10-07-unixshell",
+    "tag_name": "SWC",
+    "helpers": "John Ireland,Ewan McDowall",
+    "host_name": "University of Edinburgh",
+    "latitude": 55.962345,
     "start_date": "2019-10-07"
   },
   {
@@ -2655,7 +2730,7 @@
     "start_date": "2019-08-19"
   },
   {
-    "instructors": null,
+    "instructors": "Eric Appelt,Jamen McGranahan,Charreau Bell,Joshua Borycz",
     "end_date": "2019-08-20",
     "url": "https://vanderbilt-data-science.github.io/2020-03-05-vanderbilt/",
     "country": "US",
@@ -2664,7 +2739,7 @@
     "longitude": -86.8047542,
     "slug": "2020-03-05-vanderbilt",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Jesse Spencer-Smith,Sarah Swanz,Joshua Borycz,Andy Wesolek",
     "host_name": "Vanderbilt University",
     "latitude": 36.1458157,
     "start_date": "2019-08-19"
