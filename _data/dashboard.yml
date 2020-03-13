@@ -603,7 +603,8 @@ records:
       and Exceptions" - & suggestiong, updated: '2020-03-02', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/783'}
   - {number: 781, title: 'Call for Contributions: image descriptions & titles', updated: '2020-03-06',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
-  - {number: 800, title: Suggestion to Introduce Type Conversion, updated: '2020-03-11',
+  - {number: 813, title: Thonny XXL, updated: '2020-03-12', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/813'}
+  - {number: 800, title: Suggestion to Introduce Type Conversion, updated: '2020-03-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/800'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
@@ -1059,4 +1060,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-02-14',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-03-12T15:46:14Z'
+timestamp: '2020-03-13T15:46:44Z'

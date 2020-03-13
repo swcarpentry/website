@@ -30,21 +30,6 @@
     "start_date": "2020-03-10"
   },
   {
-    "instructors": "Toni Hoberecht,Krista Kezbers (Olson)",
-    "end_date": "2020-03-13",
-    "url": "https://ouschusterlib.github.io/2020-03-12-swc-tulsa/",
-    "country": "US",
-    "curriculum": "swc-r",
-    "venue": "Schusterman Library at OU-Tulsa",
-    "longitude": -95.922969,
-    "slug": "2020-03-12-swc-tulsa",
-    "tag_name": "SWC",
-    "helpers": "Emrys Moreau,Alyssa Migdalsk",
-    "host_name": "University of Oklahoma",
-    "latitude": 36.101411,
-    "start_date": "2020-03-12"
-  },
-  {
     "instructors": "Heather Ciallella,Liam Sharp,Sid Bhadra-Lobo",
     "end_date": "2020-03-14",
     "url": "https://lms464.github.io/2020-03-13-Rutgers-SWC/",
@@ -73,6 +58,21 @@
     "host_name": "San Diego State University",
     "latitude": 32.78,
     "start_date": "2020-03-13"
+  },
+  {
+    "instructors": "Michael Weisner,Jonathan Reeve,Monica Thieu,Paul Bloom,Frederic Duby,Matthew Harrington,Dustin King,Rahim Hashim",
+    "end_date": "2020-03-17",
+    "url": "https://columbiaswc.github.io/2020-03-16-columbia-remote/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "Columbia University",
+    "longitude": -73.96333,
+    "slug": "2020-03-16-columbia-remote",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Columbia University",
+    "latitude": 40.80618,
+    "start_date": "2020-03-16"
   },
   {
     "instructors": "Santosh Ilamparuthi,Susan Branchett",
@@ -133,21 +133,6 @@
     "host_name": "University of New Brunswick",
     "latitude": null,
     "start_date": "2020-03-17"
-  },
-  {
-    "instructors": "Jarno Rantaharju,João da Silva,Juho Lehtonen,Richard Darst",
-    "end_date": "2020-03-20",
-    "url": "https://rantahar.github.io/2020-03-19-Helsinki/",
-    "country": "FI",
-    "curriculum": "swc-python",
-    "venue": "Kumpula Campus, Exactum CK107",
-    "longitude": 24.96475,
-    "slug": "2020-03-19-Helsinki",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Helsinki",
-    "latitude": 60.20911,
-    "start_date": "2020-03-19"
   },
   {
     "instructors": "Amanda Miotto",

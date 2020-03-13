@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Toni Hoberecht,Krista Kezbers (Olson)",
+    "end_date": "2020-03-13",
+    "url": "https://ouschusterlib.github.io/2020-03-12-swc-tulsa/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "Schusterman Library at OU-Tulsa",
+    "longitude": -95.922969,
+    "slug": "2020-03-12-swc-tulsa",
+    "tag_name": "SWC",
+    "helpers": "Emrys Moreau,Alyssa Migdalsk",
+    "host_name": "University of Oklahoma",
+    "latitude": 36.101411,
+    "start_date": "2020-03-12"
+  },
+  {
     "instructors": "Lauren Ko,Kristy Phillips,Madhulika Bayyavarapu",
     "end_date": "2020-03-11",
     "url": "https://unt-carpentries.github.io/2020-03-10-unt-swc/",
