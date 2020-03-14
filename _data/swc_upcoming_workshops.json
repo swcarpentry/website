@@ -30,36 +30,6 @@
     "start_date": "2020-03-10"
   },
   {
-    "instructors": "Heather Ciallella,Liam Sharp,Sid Bhadra-Lobo",
-    "end_date": "2020-03-14",
-    "url": "https://lms464.github.io/2020-03-13-Rutgers-SWC/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "Joint Health Sciences Center",
-    "longitude": -1,
-    "slug": "2020-03-13-Rutgers-SWC",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Rutgers University - Camden",
-    "latitude": 45,
-    "start_date": "2020-03-13"
-  },
-  {
-    "instructors": "Shervin Sahba,Kelsey Montgomery",
-    "end_date": "2020-03-14",
-    "url": "https://shervinsahba.github.io/2020-03-13-sdsu",
-    "country": "US",
-    "curriculum": "swc-reproducible-science",
-    "venue": "San Diego State University",
-    "longitude": -117.07,
-    "slug": "2020-03-13-sdsu",
-    "tag_name": "SWC",
-    "helpers": "Karen Robinett",
-    "host_name": "San Diego State University",
-    "latitude": 32.78,
-    "start_date": "2020-03-13"
-  },
-  {
     "instructors": "Michael Weisner,Jonathan Reeve,Monica Thieu,Paul Bloom,Frederic Duby,Matthew Harrington,Dustin King,Rahim Hashim",
     "end_date": "2020-03-17",
     "url": "https://columbiaswc.github.io/2020-03-16-columbia-remote/",
@@ -72,21 +42,6 @@
     "helpers": null,
     "host_name": "Columbia University",
     "latitude": 40.80618,
-    "start_date": "2020-03-16"
-  },
-  {
-    "instructors": "Santosh Ilamparuthi,Susan Branchett",
-    "end_date": "2020-03-17",
-    "url": "https://4turesearchdata-carpentries.github.io/2020-03-16-delft/",
-    "country": "NL",
-    "curriculum": "swc-python",
-    "venue": "March 2020 SWC Workshop @TU Delft",
-    "longitude": 4.37524,
-    "slug": "2020-03-16-delft",
-    "tag_name": "SWC",
-    "helpers": "Kees den Heijer,Heather Andrews,Nicolas Dintzner,Esther Plomp,Marcel van den Broek,Mark Schenk,Masha Rudneva",
-    "host_name": "Delft Univeristy of Technology",
-    "latitude": 52.002677,
     "start_date": "2020-03-16"
   },
   {
@@ -178,21 +133,6 @@
     "host_name": "Stanford University",
     "latitude": 37.432447,
     "start_date": "2020-03-23"
-  },
-  {
-    "instructors": "James Adams,Lora Leligdon,Christian Darabos",
-    "end_date": "2020-03-27",
-    "url": "https://nesclic.github.io/2020-03-26-Dartmouth/",
-    "country": "US",
-    "curriculum": "swc-reproducible-science",
-    "venue": "Dartmouth College",
-    "longitude": -72.289135,
-    "slug": "2020-03-26-Dartmouth",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Dartmouth College",
-    "latitude": 43.705859,
-    "start_date": "2020-03-26"
   },
   {
     "instructors": "Daniel Kerchner,Dolsy Smith",

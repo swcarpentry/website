@@ -601,11 +601,11 @@ records:
     updated: '2020-02-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/773'}
   - {number: 783, title: Dictionaries not introduced but used in exercise in "Error
       and Exceptions" - & suggestiong, updated: '2020-03-02', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/783'}
-  - {number: 781, title: 'Call for Contributions: image descriptions & titles', updated: '2020-03-06',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
   - {number: 813, title: Thonny XXL, updated: '2020-03-12', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/813'}
   - {number: 800, title: Suggestion to Introduce Type Conversion, updated: '2020-03-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/800'}
+  - {number: 781, title: 'Call for Contributions: image descriptions & titles', updated: '2020-03-14',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -674,6 +674,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/766'}
   - {number: 809, title: Briefly introduce dictionaries before using them in the exercise,
     updated: '2020-03-10', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/809'}
+  - {number: 814, title: Added an image description for loops_image.png, updated: '2020-03-14',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/814'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -861,6 +863,8 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/617'}
   - {number: 621, title: challenge 4b and 5 in 08-plot-ggplot2.Rmd render wrong, updated: '2020-03-09',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/621'}
+  - {number: 623, title: 'Episode 1 Intro to R & RStudio, managing environment ',
+    updated: '2020-03-13', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/623'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -1060,4 +1064,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-02-14',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-03-13T15:46:44Z'
+timestamp: '2020-03-14T15:46:48Z'
