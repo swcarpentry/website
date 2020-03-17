@@ -864,7 +864,7 @@ records:
   - {number: 621, title: challenge 4b and 5 in 08-plot-ggplot2.Rmd render wrong, updated: '2020-03-09',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/621'}
   - {number: 623, title: 'Episode 1 Intro to R & RStudio, managing environment ',
-    updated: '2020-03-13', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/623'}
+    updated: '2020-03-16', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/623'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -1064,4 +1064,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-16',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-03-16T15:47:28Z'
+timestamp: '2020-03-17T15:47:21Z'
