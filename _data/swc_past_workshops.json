@@ -255,7 +255,7 @@
     "start_date": "2020-02-18"
   },
   {
-    "instructors": "Mark Crowe",
+    "instructors": "Kasia Koziara,Mark Crowe",
     "end_date": "2020-02-19",
     "url": "https://qcif-training.github.io/2020-02-18-UQ-R/",
     "country": "AU",
@@ -264,7 +264,7 @@
     "longitude": 153.012741,
     "slug": "2020-02-18-UQ-R",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "David Green,Liz Ryan,Nicko Matigian",
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.497082,
     "start_date": "2020-02-18"

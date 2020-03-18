@@ -283,6 +283,8 @@ records:
       if widely available in the future', updated: '2020-03-04', url: 'https://github.com/swcarpentry/git-novice/issues/691'}
   - {number: 716, title: 'Is using "origin master" really necessary?', updated: '2020-03-09',
     url: 'https://github.com/swcarpentry/git-novice/issues/716'}
+  - {number: 730, title: 'Episode 5 - Exploring History: Explain state "detached HEAD"
+      and how to handle it.', updated: '2020-03-18', url: 'https://github.com/swcarpentry/git-novice/issues/730'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -1064,4 +1066,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-16',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-03-17T15:47:21Z'
+timestamp: '2020-03-18T15:47:56Z'
