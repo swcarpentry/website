@@ -90,21 +90,6 @@
     "start_date": "2020-03-26"
   },
   {
-    "instructors": "Raphaël Grolimund,Antoine Masson,Mathilde Panes",
-    "end_date": "2020-03-31",
-    "url": "https://epfllibrary.github.io/2020-03-30-epfl",
-    "country": "CH",
-    "curriculum": "swc-plotting",
-    "venue": "Ecole Polytechnique Fédérale de Lausanne",
-    "longitude": 6.566414,
-    "slug": "2020-03-30-epfl",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "École polytechnique fédérale de Lausanne",
-    "latitude": 46.518619,
-    "start_date": "2020-03-30"
-  },
-  {
     "instructors": "Peter Steinbach,Tobias Huste,Fredo Erxleben",
     "end_date": "2020-04-01",
     "url": "https://hifis.gitlab.io/2020-03-31-hzdr/",
@@ -118,21 +103,6 @@
     "host_name": "Helmholtz-Zentrum Dresden-Rossendorf",
     "latitude": 51.063611,
     "start_date": "2020-03-31"
-  },
-  {
-    "instructors": "Rosa Lönneborg,Joakim Philipson,Thomas Lind,Lina Andrén",
-    "end_date": "2020-04-02",
-    "url": "https://ghaya.github.io/2020-04-01-working-with-data/",
-    "country": "",
-    "curriculum": "",
-    "venue": "Karolinska Institutet University Library Flemingsberg",
-    "longitude": 17.940939,
-    "slug": "2020-04-01-working-with-data",
-    "tag_name": "SWC",
-    "helpers": "Glenn Haya",
-    "host_name": "Karolinska Institutet",
-    "latitude": 59.219701,
-    "start_date": "2020-04-01"
   },
   {
     "instructors": "Sarah Murphy,Michael Meyer,Nicholas Potter,Alex Kappes",
