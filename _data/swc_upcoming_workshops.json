@@ -99,7 +99,7 @@
     "longitude": 13.949722,
     "slug": "2020-03-31-hzdr",
     "tag_name": "SWC",
-    "helpers": "Christian Huser",
+    "helpers": null,
     "host_name": "Helmholtz-Zentrum Dresden-Rossendorf",
     "latitude": 51.063611,
     "start_date": "2020-03-31"
@@ -135,7 +135,7 @@
     "start_date": "2020-04-14"
   },
   {
-    "instructors": "Maximilian Dolling,Bezaye Tesfaye",
+    "instructors": "Maximilian Dolling",
     "end_date": "2020-04-21",
     "url": "http://swc-bb.gitext.gfz-potsdam.de/swc-pages/2020-04-20-Potsdam-Berlin/",
     "country": "DE",

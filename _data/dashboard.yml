@@ -674,10 +674,10 @@ records:
   - {number: 805, title: Add alt-text 06_files loop_49_1, updated: '2020-03-05', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/805'}
   - {number: 766, title: '01-intro.md: New fundamentals exercise', updated: '2020-03-05',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/766'}
-  - {number: 809, title: Briefly introduce dictionaries before using them in the exercise,
-    updated: '2020-03-10', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/809'}
   - {number: 814, title: Added an image description for loops_image.png, updated: '2020-03-14',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/814'}
+  - {number: 809, title: Briefly introduce dictionaries before using them in the exercise,
+    updated: '2020-03-19', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/809'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1065,4 +1065,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-16',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-03-19T15:48:11Z'
+timestamp: '2020-03-20T15:48:46Z'
