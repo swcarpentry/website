@@ -1062,7 +1062,7 @@ records:
   pulls:
   - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
-  - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-16',
+  - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-03-22T15:50:30Z'
+timestamp: '2020-03-23T15:50:32Z'
