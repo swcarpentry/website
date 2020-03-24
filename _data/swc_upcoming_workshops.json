@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Oliver Stueker,Oihane Cereceda,Emilie Geissinger,Grace Fishbein",
-    "end_date": "2020-03-24",
-    "url": "https://mun-swc-hub.github.io/2020-03-03-mun/",
-    "country": "CA",
-    "curriculum": "swc-plotting",
-    "venue": "Memorial University of Newfoundland",
-    "longitude": -52.733243,
-    "slug": "2020-03-03-mun",
-    "tag_name": "SWC",
-    "helpers": "Danielle Quinn,Abdula Abulaban",
-    "host_name": "Memorial University",
-    "latitude": 47.571708,
-    "start_date": "2020-03-03"
-  },
-  {
-    "instructors": "Eric Chu",
-    "end_date": "2020-03-24",
-    "url": "https://echu113.github.io/2020-03-10-pythonecoscope/",
-    "country": "CA",
-    "curriculum": ",swc-plotting",
-    "venue": "Leonard S. Klinck Building, University of British Columbia",
-    "longitude": -123.254913,
-    "slug": "2020-03-10-pythonecoscope",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of British Columbia",
-    "latitude": 49.2658,
-    "start_date": "2020-03-10"
-  },
-  {
     "instructors": "Amanda Miotto",
     "end_date": "2020-03-25",
     "url": "https://gu-eresearch.github.io/2020-03-23-GriffithUni-Python/",
@@ -42,36 +12,6 @@
     "helpers": null,
     "host_name": "Griffith University",
     "latitude": -27.552941,
-    "start_date": "2020-03-23"
-  },
-  {
-    "instructors": "Thom Cuddihy,Stéphane Guillou",
-    "end_date": "2020-03-24",
-    "url": "https://qcif-training.github.io/2020-03-23-UQ-Python/",
-    "country": "AU",
-    "curriculum": "swc-plotting",
-    "venue": "University of Queensland",
-    "longitude": 153.014713,
-    "slug": "2020-03-23-UQ-Python",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Queensland Cyber Infrastructure Foundation",
-    "latitude": -27.499226,
-    "start_date": "2020-03-23"
-  },
-  {
-    "instructors": "Max Czapanskiy,Zac Painter,Jake Lever",
-    "end_date": "2020-03-24",
-    "url": "https://jakelever.github.io/2020-03-23-stanford/",
-    "country": "US",
-    "curriculum": "swc-r",
-    "venue": "Stanford University",
-    "longitude": -122.1749,
-    "slug": "2020-03-23-stanford",
-    "tag_name": "SWC",
-    "helpers": "Magdalena Matusiak",
-    "host_name": "Stanford University",
-    "latitude": 37.432447,
     "start_date": "2020-03-23"
   },
   {

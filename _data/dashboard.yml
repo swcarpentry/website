@@ -186,6 +186,8 @@ records:
   - {number: 1089, title: Update 02-filedir.md, updated: '2020-02-04', url: 'https://github.com/swcarpentry/shell-novice/pull/1089'}
   - {number: 1093, title: Modified redirects and pipes image to SVG format, updated: '2020-03-05',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1093'}
+  - {number: 1096, title: Update 04-pipefilter.md to remove abelist language "sanity
+      check", updated: '2020-03-24', url: 'https://github.com/swcarpentry/shell-novice/pull/1096'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -608,6 +610,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/800'}
   - {number: 781, title: 'Call for Contributions: image descriptions & titles', updated: '2020-03-14',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
+  - {number: 815, title: Add flowchart illustration for for loops, updated: '2020-03-23',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/815'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -674,10 +678,11 @@ records:
   - {number: 805, title: Add alt-text 06_files loop_49_1, updated: '2020-03-05', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/805'}
   - {number: 766, title: '01-intro.md: New fundamentals exercise', updated: '2020-03-05',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/766'}
-  - {number: 814, title: Added an image description for loops_image.png, updated: '2020-03-14',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/814'}
   - {number: 809, title: Briefly introduce dictionaries before using them in the exercise,
     updated: '2020-03-19', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/809'}
+  - {number: 814, title: Added an image description for loops_image.png, updated: '2020-03-23',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/814'}
+  - {number: 816, title: Add notebook to references, updated: '2020-03-24', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/816'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1052,6 +1057,7 @@ records:
   - {number: 1626, title: Fix Github OAuth2 warning, updated: '2020-03-10', url: 'https://github.com/carpentries/amy/pull/1626'}
   - {number: 1629, title: Match TrainingReq. with person on secondary email, updated: '2020-03-12',
     url: 'https://github.com/carpentries/amy/pull/1629'}
+  - {number: 1630, title: Change text for self org msg, updated: '2020-03-23', url: 'https://github.com/carpentries/amy/pull/1630'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1065,4 +1071,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-03-23T15:50:32Z'
+timestamp: '2020-03-24T15:51:22Z'
