@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Amanda Miotto",
-    "end_date": "2020-03-25",
-    "url": "https://gu-eresearch.github.io/2020-03-23-GriffithUni-Python/",
-    "country": "AU",
-    "curriculum": "swc-python",
-    "venue": "Griffith University",
-    "longitude": -27.552941,
-    "slug": "2020-03-23-GriffithUni-Python",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Griffith University",
-    "latitude": -27.552941,
-    "start_date": "2020-03-23"
-  },
-  {
     "instructors": "Daniel Kerchner,Dolsy Smith",
     "end_date": "2020-03-27",
     "url": "https://gwu-libraries.github.io/2020-03-26-carpentry/",

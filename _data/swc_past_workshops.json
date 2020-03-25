@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Amanda Miotto",
+    "end_date": "2020-03-25",
+    "url": "https://gu-eresearch.github.io/2020-03-23-GriffithUni-Python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Griffith University",
+    "longitude": -27.552941,
+    "slug": "2020-03-23-GriffithUni-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.552941,
+    "start_date": "2020-03-23"
+  },
+  {
     "instructors": "Thom Cuddihy,Stéphane Guillou",
     "end_date": "2020-03-24",
     "url": "https://qcif-training.github.io/2020-03-23-UQ-Python/",
@@ -57,21 +72,6 @@
     "helpers": "Cesar Arias,Shanice Bailey,Sydney Bolim Son",
     "host_name": "Columbia University",
     "latitude": 40.80618,
-    "start_date": "2020-03-16"
-  },
-  {
-    "instructors": "Alice Harpole",
-    "end_date": "2020-03-17",
-    "url": "https://harpolea.github.io/2020-03-16-stonybrook/",
-    "country": "US",
-    "curriculum": "swc-plotting",
-    "venue": "Institute for Advanced Computational Science, Stony Brook University",
-    "longitude": -73.12188,
-    "slug": "2020-03-16-stonybrook",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Stony Brook University",
-    "latitude": 40.91152,
     "start_date": "2020-03-16"
   },
   {
