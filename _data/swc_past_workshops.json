@@ -105,21 +105,6 @@
     "start_date": "2020-03-13"
   },
   {
-    "instructors": "Shervin Sahba,Kelsey Montgomery",
-    "end_date": "2020-03-14",
-    "url": "https://shervinsahba.github.io/2020-03-13-sdsu",
-    "country": "US",
-    "curriculum": "swc-reproducible-science",
-    "venue": "San Diego State University",
-    "longitude": -117.07,
-    "slug": "2020-03-13-sdsu",
-    "tag_name": "SWC",
-    "helpers": "Karen Robinett",
-    "host_name": "San Diego State University",
-    "latitude": 32.78,
-    "start_date": "2020-03-13"
-  },
-  {
     "instructors": "Toni Hoberecht,Krista Kezbers (Olson)",
     "end_date": "2020-03-13",
     "url": "https://ouschusterlib.github.io/2020-03-12-swc-tulsa/",

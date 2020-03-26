@@ -167,7 +167,7 @@ records:
   - {number: 1092, title: Difficulty navigating to 'data-shell' in Setup, updated: '2020-02-12',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1092'}
   - {number: 1082, title: Be more explicit about which environments lack which help
-      options (Ep. 2), updated: '2020-03-10', url: 'https://github.com/swcarpentry/shell-novice/issues/1082'}
+      options (Ep. 2), updated: '2020-03-25', url: 'https://github.com/swcarpentry/shell-novice/issues/1082'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -584,8 +584,6 @@ records:
   - {number: 759, title: Ep2 section "Not All Functions Have Input" should be removed,
     updated: '2019-11-24', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/759'}
   - {number: 761, title: 'Why should we be suspicious?', updated: '2019-11-25', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/761'}
-  - {number: 769, title: Move "mystery functions in IPython" box to earlier in lesson,
-    updated: '2019-12-04', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/769'}
   - {number: 765, title: '09-defensive.md: Incorrect Error blocks for some assert
       statements', updated: '2019-12-11', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/765'}
   - {number: 770, title: Describe/Document 'sorted' function, updated: '2019-12-16',
@@ -612,6 +610,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
   - {number: 815, title: Add flowchart illustration for for loops, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/815'}
+  - {number: 769, title: Move "mystery functions in IPython" box to earlier in lesson,
+    updated: '2020-03-26', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/769'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -738,6 +738,8 @@ records:
   - {number: 462, title: Understanding Factors- Clarifiation, updated: '2020-02-14',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/462'}
   - {number: 468, title: A better way to begin Lesson 3, updated: '2020-02-29', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/468'}
+  - {number: 469, title: Use of par(mfrow) and grid.arrange, updated: '2020-03-25',
+    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/469'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
@@ -1071,4 +1073,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-03-25T15:52:09Z'
+timestamp: '2020-03-26T15:52:42Z'
