@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Daniel Kerchner,Dolsy Smith",
+    "end_date": "2020-03-27",
+    "url": "https://gwu-libraries.github.io/2020-03-26-carpentry/",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "George Washington University",
+    "longitude": -77.048386,
+    "slug": "2020-03-26-carpentry",
+    "tag_name": "SWC",
+    "helpers": "Laura Wrubel,Megan Potterbusch,William Bonnett,Leah Richardson",
+    "host_name": "George Washington University",
+    "latitude": 38.899233,
+    "start_date": "2020-03-26"
+  },
+  {
     "instructors": "Amanda Miotto",
     "end_date": "2020-03-25",
     "url": "https://gu-eresearch.github.io/2020-03-23-GriffithUni-Python/",
