@@ -170,6 +170,8 @@ records:
       options (Ep. 2), updated: '2020-03-26', url: 'https://github.com/swcarpentry/shell-novice/issues/1082'}
   - {number: 1098, title: 'Episode 2: Getting help: Add third option `info` command ',
     updated: '2020-03-27', url: 'https://github.com/swcarpentry/shell-novice/issues/1098'}
+  - {number: 1099, title: Episode 2 - clarify wording around Desktop directory, updated: '2020-03-31',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/1099'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -685,7 +687,6 @@ records:
   - {number: 814, title: Added an image description for loops_image.png, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/814'}
   - {number: 817, title: Update 03-matplotlib.md, updated: '2020-03-30', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/817'}
-  - {number: 816, title: Add notebook to references, updated: '2020-03-30', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/816'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1060,7 +1061,9 @@ records:
   - {number: 1605, title: Bump djangorestframework from 3.9.4 to 3.11.0, updated: '2020-01-10',
     url: 'https://github.com/carpentries/amy/pull/1605'}
   - {number: 1626, title: Fix Github OAuth2 warning, updated: '2020-03-10', url: 'https://github.com/carpentries/amy/pull/1626'}
-  - {number: 1631, title: Update from URL when `slug` is missing, updated: '2020-03-30',
+  - {number: 1632, title: 'Regression fix: Instructors Over Time, badge not iterable',
+    updated: '2020-03-31', url: 'https://github.com/carpentries/amy/pull/1632'}
+  - {number: 1631, title: Update from URL when `slug` is missing, updated: '2020-03-31',
     url: 'https://github.com/carpentries/amy/pull/1631'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
@@ -1075,4 +1078,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-03-30T15:55:11Z'
+timestamp: '2020-03-31T15:55:58Z'

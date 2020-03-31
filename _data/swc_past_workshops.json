@@ -45,21 +45,6 @@
     "start_date": "2020-03-23"
   },
   {
-    "instructors": "Max Czapanskiy,Zac Painter,Jake Lever",
-    "end_date": "2020-03-24",
-    "url": "https://jakelever.github.io/2020-03-23-stanford/",
-    "country": "US",
-    "curriculum": "swc-r",
-    "venue": "Stanford University",
-    "longitude": -122.1749,
-    "slug": "2020-03-23-stanford",
-    "tag_name": "SWC",
-    "helpers": "Magdalena Matusiak",
-    "host_name": "Stanford University",
-    "latitude": 37.432447,
-    "start_date": "2020-03-23"
-  },
-  {
     "instructors": "Joey Bernard,Serguei Vassiliev",
     "end_date": "2020-03-17",
     "url": "https://ssvassiliev.github.io/2020-03-17-unb/",
@@ -345,7 +330,7 @@
     "start_date": "2020-02-17"
   },
   {
-    "instructors": "Raphaël Grolimund,Antoine Masson,Mathilde Panes",
+    "instructors": "Raphaël Grolimund,antoine masson,Mathilde Panes",
     "end_date": "2020-02-14",
     "url": "https://epfllibrary.github.io/2020-02-13-epfl/",
     "country": "CH",
@@ -1245,7 +1230,7 @@
     "start_date": "2019-11-27"
   },
   {
-    "instructors": "Peter Evans,Stefan Lüdtke,Berry Boessenkool,Katrin Leinweber,Michael Dietze,Tobias Weiß,Marc Hanisch,Maximilian Dolling",
+    "instructors": "Peter Evans,Stefan Lüdtke,Berry Boessenkool,Katrin Leinweber,Michael Dietze,Tobias Weiß,Marc Hanisch,Maximilian Dolling,Bezaye Tesfaye",
     "end_date": "2019-11-27",
     "url": "http://swc-bb.gitext.gfz-potsdam.de/pages/2019-11-26-Potsdam-Berlin/",
     "country": "DE",
@@ -3570,7 +3555,7 @@
     "start_date": "2019-06-05"
   },
   {
-    "instructors": "Raphaël Grolimund,Jérôme Chaptinel,Antoine Masson,Mathilde Panes",
+    "instructors": "Raphaël Grolimund,Jérôme Chaptinel,antoine masson,Mathilde Panes",
     "end_date": "2019-06-05",
     "url": "https://epfllibrary.github.io/2019-06-04-epfl",
     "country": "CH",
@@ -6090,7 +6075,7 @@
     "start_date": "2018-11-21"
   },
   {
-    "instructors": "Raphaël Grolimund,Jérôme Chaptinel,Antoine Masson,Mathilde Panes",
+    "instructors": "Raphaël Grolimund,Jérôme Chaptinel,antoine masson,Mathilde Panes",
     "end_date": "2018-11-29",
     "url": "https://epfllibrary.github.io/2018-11-20-epfl/",
     "country": "CH",
