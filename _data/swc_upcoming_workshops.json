@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Peter Steinbach,Tobias Huste,Fredo Erxleben",
-    "end_date": "2020-04-01",
-    "url": "https://hifis.gitlab.io/2020-03-31-hzdr/",
-    "country": "DE",
-    "curriculum": "swc-python",
-    "venue": "Helmholtz-Zentrum Dresden-Rossendorf",
-    "longitude": 13.949722,
-    "slug": "2020-03-31-hzdr",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Helmholtz-Zentrum Dresden-Rossendorf",
-    "latitude": 51.063611,
-    "start_date": "2020-03-31"
-  },
-  {
     "instructors": "Sarah Murphy,Michael Meyer,Nicholas Potter,Alex Kappes",
     "end_date": "2020-04-14",
     "url": "https://mbrousil.github.io/2020-04-13-wsu/",

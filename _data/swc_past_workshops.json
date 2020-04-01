@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Peter Steinbach,Tobias Huste,Fredo Erxleben",
+    "end_date": "2020-04-01",
+    "url": "https://hifis.gitlab.io/2020-03-31-hzdr/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "Helmholtz-Zentrum Dresden-Rossendorf",
+    "longitude": 13.949722,
+    "slug": "2020-03-31-hzdr",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Helmholtz-Zentrum Dresden-Rossendorf",
+    "latitude": 51.063611,
+    "start_date": "2020-03-31"
+  },
+  {
     "instructors": "Daniel Kerchner,Dolsy Smith",
     "end_date": "2020-03-27",
     "url": "https://gwu-libraries.github.io/2020-03-26-carpentry/",
