@@ -172,6 +172,7 @@ records:
     updated: '2020-03-27', url: 'https://github.com/swcarpentry/shell-novice/issues/1098'}
   - {number: 1099, title: Episode 2 - clarify wording around Desktop directory, updated: '2020-03-31',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1099'}
+  - {number: 1101, title: Abbreviation, updated: '2020-04-02', url: 'https://github.com/swcarpentry/shell-novice/issues/1101'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -687,6 +688,8 @@ records:
   - {number: 814, title: Added an image description for loops_image.png, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/814'}
   - {number: 817, title: Update 03-matplotlib.md, updated: '2020-03-30', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/817'}
+  - {number: 818, title: update explanation of the slicing element string, updated: '2020-04-02',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/818'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -872,8 +875,6 @@ records:
     updated: '2020-01-17', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/607'}
   - {number: 481, title: '[Suggestion] Replace the read.csv(data/gapminder.csv) with
       library(gapminder)', updated: '2020-02-03', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/481'}
-  - {number: 617, title: Occasional usage of "simply" in a few episodes, updated: '2020-02-26',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/617'}
   - {number: 621, title: challenge 4b and 5 in 08-plot-ggplot2.Rmd render wrong, updated: '2020-03-09',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/621'}
   - {number: 623, title: 'Episode 1 Intro to R & RStudio, managing environment ',
@@ -892,6 +893,7 @@ records:
     updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/573'}
   - {number: 589, title: 'Spell check and apply consistent code style (close #548) ',
     updated: '2019-11-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
+  - {number: 624, title: Instructor Training Checkout, updated: '2020-04-01', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/624'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1044,8 +1046,6 @@ records:
   - {number: 1512, title: Use DataTables in all tabular data views, updated: '2020-02-24',
     url: 'https://github.com/carpentries/amy/issues/1512'}
   - {number: 1484, title: Track changed metadata, updated: '2020-02-24', url: 'https://github.com/carpentries/amy/issues/1484'}
-  - {number: 1614, title: 'Import Training Event Registration and Attendance ', updated: '2020-02-28',
-    url: 'https://github.com/carpentries/amy/issues/1614'}
   - {number: 1615, title: Import Trainee checkout progress to AMY, updated: '2020-03-03',
     url: 'https://github.com/carpentries/amy/issues/1615'}
   - {number: 1572, title: Amy Event URL Validation, updated: '2020-03-10', url: 'https://github.com/carpentries/amy/issues/1572'}
@@ -1053,6 +1053,8 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1624'}
   - {number: 1610, title: 'Venue, address and latlong info not picked up from workshop
       URL', updated: '2020-03-28', url: 'https://github.com/carpentries/amy/issues/1610'}
+  - {number: 1614, title: 'Import Training Event Registration and Attendance ', updated: '2020-04-01',
+    url: 'https://github.com/carpentries/amy/issues/1614'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1078,4 +1080,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-04-01T15:56:40Z'
+timestamp: '2020-04-02T15:57:01Z'
