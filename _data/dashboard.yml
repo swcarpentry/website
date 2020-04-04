@@ -686,8 +686,6 @@ records:
   - {number: 814, title: Added an image description for loops_image.png, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/814'}
   - {number: 817, title: Update 03-matplotlib.md, updated: '2020-03-30', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/817'}
-  - {number: 818, title: update explanation of the slicing element string, updated: '2020-04-03',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/818'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1071,4 +1069,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-04-03T15:57:34Z'
+timestamp: '2020-04-04T15:57:40Z'
