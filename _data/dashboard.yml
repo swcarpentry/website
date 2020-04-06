@@ -1056,6 +1056,8 @@ records:
   - {number: 1605, title: Bump djangorestframework from 3.9.4 to 3.11.0, updated: '2020-01-10',
     url: 'https://github.com/carpentries/amy/pull/1605'}
   - {number: 1626, title: Fix Github OAuth2 warning, updated: '2020-03-10', url: 'https://github.com/carpentries/amy/pull/1626'}
+  - {number: 1633, title: PostWorkshopAction in "accept and create event" views, updated: '2020-04-05',
+    url: 'https://github.com/carpentries/amy/pull/1633'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1069,4 +1071,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-04-05T15:58:25Z'
+timestamp: '2020-04-06T15:59:29Z'
