@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Sarah Murphy,Michael Meyer,Nicholas Potter,Alex Kappes",
+    "end_date": "2020-04-14",
+    "url": "https://mbrousil.github.io/2020-04-13-wsu/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Washington State University",
+    "longitude": -117.155013,
+    "slug": "2020-04-13-wsu",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Washington State University",
+    "latitude": 46.72944,
+    "start_date": "2020-04-13"
+  },
+  {
+    "instructors": "Jonathan Guyer,Dilip Banerjee,Arlin Stoltzfus,Zachary Trautt,Justin Senseney,Trevor Keller,Joshua Taillon",
+    "end_date": "2020-04-11",
+    "url": "https://pages.nist.gov/2020-04-10-nist-git/",
+    "country": "W3",
+    "curriculum": "mix-and-match",
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-04-10-nist-git",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "National Institute of Standards and Technology",
+    "latitude": -48.876667,
+    "start_date": "2020-04-10"
+  },
+  {
     "instructors": "Peter Steinbach,Tobias Huste,Fredo Erxleben",
     "end_date": "2020-04-01",
     "url": "https://hifis.gitlab.io/2020-03-31-hzdr/",

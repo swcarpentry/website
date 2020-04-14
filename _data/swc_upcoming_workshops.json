@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Sarah Murphy,Michael Meyer,Nicholas Potter,Alex Kappes",
-    "end_date": "2020-04-14",
-    "url": "https://mbrousil.github.io/2020-04-13-wsu/",
-    "country": "US",
-    "curriculum": "swc-reproducible-science",
-    "venue": "Washington State University",
-    "longitude": -117.155013,
-    "slug": "2020-04-13-wsu",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Washington State University",
-    "latitude": 46.72944,
-    "start_date": "2020-04-13"
-  },
-  {
     "instructors": "Johan Hidding,Faruk Diblen",
     "end_date": "2020-04-17",
     "url": "https://escience-academy.github.io/2020-04-14-SWC-online/",

@@ -1059,6 +1059,8 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1605'}
   - {number: 1633, title: PostWorkshopAction in "accept and create event" views, updated: '2020-04-05',
     url: 'https://github.com/carpentries/amy/pull/1633'}
+  - {number: 1638, title: help text for self org. online workshop slug, updated: '2020-04-13',
+    url: 'https://github.com/carpentries/amy/pull/1638'}
   - {number: 1637, title: 'PostWorkshopAction: link to survey results', updated: '2020-04-13',
     url: 'https://github.com/carpentries/amy/pull/1637'}
   url: https://github.com/carpentries/amy
@@ -1074,4 +1076,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-04-13T16:05:00Z'
+timestamp: '2020-04-14T16:05:03Z'
