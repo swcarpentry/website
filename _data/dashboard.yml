@@ -59,7 +59,6 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/775'}
   - {number: 782, title: macOS file system vs Linux file system, updated: '2018-05-11',
     url: 'https://github.com/swcarpentry/shell-novice/issues/782'}
-  - {number: 784, title: Clear Command, updated: '2018-05-17', url: 'https://github.com/swcarpentry/shell-novice/issues/784'}
   - {number: 758, title: Links to V4 lesson, updated: '2018-06-08', url: 'https://github.com/swcarpentry/shell-novice/issues/758'}
   - {number: 748, title: '"Pipes and Filters" episode, `Sort` example.', updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/shell-novice/issues/748'}
@@ -170,7 +169,8 @@ records:
       options (Ep. 2), updated: '2020-03-26', url: 'https://github.com/swcarpentry/shell-novice/issues/1082'}
   - {number: 1098, title: 'Episode 2: Getting help: Add third option `info` command ',
     updated: '2020-03-27', url: 'https://github.com/swcarpentry/shell-novice/issues/1098'}
-  - {number: 1101, title: Abbreviation, updated: '2020-04-02', url: 'https://github.com/swcarpentry/shell-novice/issues/1101'}
+  - {number: 1101, title: Explain `ls` abbreviation on first use, updated: '2020-04-15',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/1101'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -178,19 +178,10 @@ records:
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
   - {number: 992, title: Made changes and added General Syntax episode., updated: '2019-12-06',
     url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
-  - {number: 1072, title: Added image of shell command anatomy., updated: '2019-12-09',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/1072'}
   - {number: 491, title: 'Episode 7: Add grep -r exercise', updated: '2019-12-17',
     url: 'https://github.com/swcarpentry/shell-novice/pull/491'}
-  - {number: 1081, title: 'Edit in command not found message, in case the program
-      corresponding to that command is not installed or mis-typed.', updated: '2020-01-23',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/1081'}
-  - {number: 1088, title: Insert clear terminal command, updated: '2020-01-31', url: 'https://github.com/swcarpentry/shell-novice/pull/1088'}
-  - {number: 1089, title: Update 02-filedir.md, updated: '2020-02-04', url: 'https://github.com/swcarpentry/shell-novice/pull/1089'}
-  - {number: 1093, title: Modified redirects and pipes image to SVG format, updated: '2020-03-05',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/1093'}
-  - {number: 1096, title: Update 04-pipefilter.md to remove abelist language "sanity
-      check", updated: '2020-03-24', url: 'https://github.com/swcarpentry/shell-novice/pull/1096'}
+  - {number: 1072, title: Added image of shell command anatomy., updated: '2020-04-15',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/1072'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -1061,8 +1052,6 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1633'}
   - {number: 1638, title: help text for self org. online workshop slug, updated: '2020-04-13',
     url: 'https://github.com/carpentries/amy/pull/1638'}
-  - {number: 1637, title: 'PostWorkshopAction: link to survey results', updated: '2020-04-13',
-    url: 'https://github.com/carpentries/amy/pull/1637'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1076,4 +1065,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-04-14T16:05:03Z'
+timestamp: '2020-04-15T16:05:53Z'
