@@ -163,10 +163,6 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1086'}
   - {number: 1032, title: Move "moving to the current folder" exercise in 03, updated: '2020-01-31',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1032'}
-  - {number: 1092, title: Difficulty navigating to 'data-shell' in Setup, updated: '2020-02-12',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/1092'}
-  - {number: 1082, title: Be more explicit about which environments lack which help
-      options (Ep. 2), updated: '2020-03-26', url: 'https://github.com/swcarpentry/shell-novice/issues/1082'}
   - {number: 1098, title: 'Episode 2: Getting help: Add third option `info` command ',
     updated: '2020-03-27', url: 'https://github.com/swcarpentry/shell-novice/issues/1098'}
   - {number: 1101, title: Explain `ls` abbreviation on first use, updated: '2020-04-15',
@@ -182,6 +178,8 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/491'}
   - {number: 1072, title: Added image of shell command anatomy., updated: '2020-04-15',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1072'}
+  - {number: 1104, title: 1101 ls abbreviation on first use, updated: '2020-04-16',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/1104'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -918,9 +916,9 @@ records:
     url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/202'}
   - {number: 221, title: Add else statements to True and False Execise, updated: '2019-06-26',
     url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/221'}
-  - {number: 225, title: 'Ep5: Use a properly named script in place of temp.m', updated: '2019-11-08',
+  - {number: 228, title: csvread, updated: '2020-04-16', url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/228'}
+  - {number: 225, title: 'Ep5: Use a properly named script in place of temp.m', updated: '2020-04-16',
     url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/225'}
-  - {number: 228, title: csvread, updated: '2020-03-29', url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/228'}
   pulls: []
   url: https://github.com/swcarpentry/matlab-novice-inflammation
 - description: Make
@@ -1065,4 +1063,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-04-15T16:05:53Z'
+timestamp: '2020-04-16T16:06:24Z'
