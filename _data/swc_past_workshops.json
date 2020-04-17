@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Johan Hidding,Faruk Diblen",
+    "end_date": "2020-04-17",
+    "url": "https://escience-academy.github.io/2020-04-14-SWC-online/",
+    "country": "NL",
+    "curriculum": "swc-python",
+    "venue": "the Netherlands eScience Center",
+    "longitude": null,
+    "slug": "2020-04-14-SWC-online",
+    "tag_name": "SWC",
+    "helpers": "Heather Andrews,Nicolas Dintzner",
+    "host_name": "Netherlands eScience Center",
+    "latitude": null,
+    "start_date": "2020-04-14"
+  },
+  {
     "instructors": "Sarah Murphy,Michael Meyer,Nicholas Potter,Alex Kappes",
     "end_date": "2020-04-14",
     "url": "https://mbrousil.github.io/2020-04-13-wsu/",
@@ -120,22 +135,7 @@
     "start_date": "2020-03-26"
   },
   {
-    "instructors": "Amanda Miotto",
-    "end_date": "2020-03-25",
-    "url": "https://gu-eresearch.github.io/2020-03-23-GriffithUni-Python/",
-    "country": "AU",
-    "curriculum": "swc-python",
-    "venue": "Griffith University",
-    "longitude": -27.552941,
-    "slug": "2020-03-23-GriffithUni-Python",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Griffith University",
-    "latitude": -27.552941,
-    "start_date": "2020-03-23"
-  },
-  {
-    "instructors": "Thom Cuddihy,Stéphane Guillou",
+    "instructors": "Thom Cuddihy,Stéphane Guillou,Kasia Koziara",
     "end_date": "2020-03-24",
     "url": "https://qcif-training.github.io/2020-03-23-UQ-Python/",
     "country": "AU",
@@ -144,7 +144,7 @@
     "longitude": 153.014713,
     "slug": "2020-03-23-UQ-Python",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Toan Phung,Dattatreya Majumdar",
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
     "start_date": "2020-03-23"
@@ -3894,7 +3894,7 @@
     "longitude": -122.381991,
     "slug": "2019-05-22-genentech",
     "tag_name": "SWC",
-    "helpers": "Altaf Kassam,Kiran Mukhyala,Preethy Sasi",
+    "helpers": "Altaf Kassam,Kiran Mukhyala,Preethy Sasidharan Nair",
     "host_name": "Genentech",
     "latitude": 37.652106,
     "start_date": "2019-05-22"

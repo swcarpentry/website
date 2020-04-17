@@ -165,21 +165,17 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1032'}
   - {number: 1098, title: 'Episode 2: Getting help: Add third option `info` command ',
     updated: '2020-03-27', url: 'https://github.com/swcarpentry/shell-novice/issues/1098'}
-  - {number: 1101, title: Explain `ls` abbreviation on first use, updated: '2020-04-15',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/1101'}
   pulls:
-  - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
-      the username', updated: '2019-01-24', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
-  - {number: 992, title: Made changes and added General Syntax episode., updated: '2019-12-06',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
-  - {number: 491, title: 'Episode 7: Add grep -r exercise', updated: '2019-12-17',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/491'}
-  - {number: 1072, title: Added image of shell command anatomy., updated: '2020-04-15',
+  - {number: 1072, title: Added image of shell command anatomy., updated: '2020-04-17',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1072'}
-  - {number: 1104, title: 1101 ls abbreviation on first use, updated: '2020-04-16',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/1104'}
+  - {number: 992, title: Made changes and added General Syntax episode., updated: '2020-04-17',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
+  - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
+      the username', updated: '2020-04-17', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
+  - {number: 491, title: 'Episode 7: Add grep -r exercise', updated: '2020-04-17',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/491'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -914,11 +910,8 @@ records:
   - {number: 201, title: 'Ep4: No exercise on scripts', updated: '2019-02-05', url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/201'}
   - {number: 202, title: 'Ep 5: poorly motivated example', updated: '2019-02-07',
     url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/202'}
-  - {number: 221, title: Add else statements to True and False Execise, updated: '2019-06-26',
+  - {number: 221, title: Add else statements to True and False Execise, updated: '2020-04-17',
     url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/221'}
-  - {number: 228, title: csvread, updated: '2020-04-16', url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/228'}
-  - {number: 225, title: 'Ep5: Use a properly named script in place of temp.m', updated: '2020-04-16',
-    url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/225'}
   pulls: []
   url: https://github.com/swcarpentry/matlab-novice-inflammation
 - description: Make
@@ -1048,8 +1041,6 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1605'}
   - {number: 1633, title: PostWorkshopAction in "accept and create event" views, updated: '2020-04-05',
     url: 'https://github.com/carpentries/amy/pull/1633'}
-  - {number: 1638, title: help text for self org. online workshop slug, updated: '2020-04-13',
-    url: 'https://github.com/carpentries/amy/pull/1638'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1063,4 +1054,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-04-16T16:06:24Z'
+timestamp: '2020-04-17T16:07:05Z'

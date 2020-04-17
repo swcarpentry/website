@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Johan Hidding,Faruk Diblen",
-    "end_date": "2020-04-17",
-    "url": "https://escience-academy.github.io/2020-04-14-SWC-online/",
-    "country": "NL",
-    "curriculum": "swc-python",
-    "venue": "the Netherlands eScience Center",
-    "longitude": null,
-    "slug": "2020-04-14-SWC-online",
-    "tag_name": "SWC",
-    "helpers": "Heather Andrews,Nicolas Dintzner",
-    "host_name": "Netherlands eScience Center",
-    "latitude": null,
-    "start_date": "2020-04-14"
-  },
-  {
     "instructors": "Nelly Sélem",
     "end_date": "2020-05-14",
     "url": "https://nselem.github.io/2020-04-14-posgraduados-campeche/",
@@ -45,7 +30,22 @@
     "start_date": "2020-04-20"
   },
   {
-    "instructors": "Kathryn Napier",
+    "instructors": "Kim Keogh,Thom Cuddihy",
+    "end_date": "2020-04-21",
+    "url": "https://qcif-training.github.io/2020-04-20-QCIF-Python/",
+    "country": "AU",
+    "curriculum": "swc-plotting",
+    "venue": "QCIF online workshop",
+    "longitude": 153.381324,
+    "slug": "2020-04-20-QCIF-Python",
+    "tag_name": "SWC",
+    "helpers": "Toan Phung,Jiayong Kuang",
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.962539,
+    "start_date": "2020-04-20"
+  },
+  {
+    "instructors": "Rebecca Lange,Kathryn Napier",
     "end_date": "2020-04-23",
     "url": "https://curtinic.github.io/2020-04-21-curtin/",
     "country": "AU",
@@ -54,7 +54,7 @@
     "longitude": 115.894011,
     "slug": "2020-04-21-curtin",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Cara Kreck,Nancy Tippaya",
     "host_name": "Curtin University",
     "latitude": -32.007068,
     "start_date": "2020-04-21"
@@ -75,7 +75,22 @@
     "start_date": "2020-04-22"
   },
   {
-    "instructors": "Stéphane Guillou,Mark Crowe",
+    "instructors": "Kim Keogh",
+    "end_date": "2020-05-01",
+    "url": "https://gu-eresearch.github.io/2020-03-23-GriffithUni-Python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Griffith University",
+    "longitude": -27.552941,
+    "slug": "2020-03-23-GriffithUni-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.552941,
+    "start_date": "2020-04-27"
+  },
+  {
+    "instructors": "Erin Graham,Stéphane Guillou,Nicko Matigian,Kevin Bairos-Novak",
     "end_date": "2020-05-01",
     "url": "https://qcif-training.github.io/2020-04-30-QCIF-R/",
     "country": "AU",
