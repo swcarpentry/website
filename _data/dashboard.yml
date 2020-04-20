@@ -1041,6 +1041,8 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1605'}
   - {number: 1633, title: PostWorkshopAction in "accept and create event" views, updated: '2020-04-05',
     url: 'https://github.com/carpentries/amy/pull/1633'}
+  - {number: 1639, title: 'Job status, Django admin UI changes', updated: '2020-04-19',
+    url: 'https://github.com/carpentries/amy/pull/1639'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1054,4 +1056,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-04-19T16:08:15Z'
+timestamp: '2020-04-20T16:09:11Z'
