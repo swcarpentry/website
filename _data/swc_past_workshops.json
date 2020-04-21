@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Maximilian Dolling,Bezaye Tesfaye",
+    "end_date": "2020-04-21",
+    "url": "http://swc-bb.gitext.gfz-potsdam.de/swc-pages/2020-04-20-Potsdam-Berlin/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "Albert Einstein Science Park, Potsdam, Germany",
+    "longitude": 13.064298,
+    "slug": "2020-04-20-Potsdam-Berlin",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "GFZ Potsdam",
+    "latitude": 52.382214,
+    "start_date": "2020-04-20"
+  },
+  {
+    "instructors": "Kim Keogh,Thom Cuddihy",
+    "end_date": "2020-04-21",
+    "url": "https://qcif-training.github.io/2020-04-20-QCIF-Python/",
+    "country": "AU",
+    "curriculum": "swc-plotting",
+    "venue": "QCIF online workshop",
+    "longitude": 153.381324,
+    "slug": "2020-04-20-QCIF-Python",
+    "tag_name": "SWC",
+    "helpers": "Toan Phung,Jiayong Kuang",
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.962539,
+    "start_date": "2020-04-20"
+  },
+  {
     "instructors": "Johan Hidding,Faruk Diblen",
     "end_date": "2020-04-17",
     "url": "https://escience-academy.github.io/2020-04-14-SWC-online/",
