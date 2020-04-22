@@ -1011,8 +1011,6 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1566'}
   - {number: 1567, title: Add "Do not publish" checkbox to events, updated: '2019-12-13',
     url: 'https://github.com/carpentries/amy/issues/1567'}
-  - {number: 1568, title: Update Contact Field in AMY Events, updated: '2019-12-28',
-    url: 'https://github.com/carpentries/amy/issues/1568'}
   - {number: 1570, title: Workshop Request Form - Membership Affiliation, updated: '2020-01-14',
     url: 'https://github.com/carpentries/amy/issues/1570'}
   - {number: 1607, title: Remove Lessons Covered from the Workshops Event Page, updated: '2020-01-20',
@@ -1034,6 +1032,8 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1624'}
   - {number: 1614, title: 'Import Training Event Registration and Attendance ', updated: '2020-04-01',
     url: 'https://github.com/carpentries/amy/issues/1614'}
+  - {number: 1568, title: Update Contact Field in AMY Events, updated: '2020-04-21',
+    url: 'https://github.com/carpentries/amy/issues/1568'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1058,4 +1058,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-04-21T16:35:52Z'
+timestamp: '2020-04-22T16:09:58Z'
