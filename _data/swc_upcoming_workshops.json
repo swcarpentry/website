@@ -15,36 +15,6 @@
     "start_date": "2020-04-14"
   },
   {
-    "instructors": "Rebecca Lange,Kathryn Napier",
-    "end_date": "2020-04-23",
-    "url": "https://curtinic.github.io/2020-04-21-curtin/",
-    "country": "AU",
-    "curriculum": "swc-python",
-    "venue": "Curtin University",
-    "longitude": 115.894011,
-    "slug": "2020-04-21-curtin",
-    "tag_name": "SWC",
-    "helpers": "Cara Kreck,Nancy Tippaya",
-    "host_name": "Curtin University",
-    "latitude": -32.007068,
-    "start_date": "2020-04-21"
-  },
-  {
-    "instructors": "Peter Steinbach,Tobias Huste,Fredo Erxleben",
-    "end_date": "2020-04-23",
-    "url": "https://hifis.gitlab.io/2020-04-22-hzdr/",
-    "country": "DE",
-    "curriculum": "swc-python",
-    "venue": "Helmholtz-Zentrum Dresden-Rossendorf",
-    "longitude": 13.95057,
-    "slug": "2020-04-22-hzdr",
-    "tag_name": "SWC",
-    "helpers": "Norman Ziegner,Daniel Kotik",
-    "host_name": "Helmholtz-Zentrum Dresden-Rossendorf",
-    "latitude": 51.06284,
-    "start_date": "2020-04-22"
-  },
-  {
     "instructors": "Kim Keogh",
     "end_date": "2020-05-01",
     "url": "https://gu-eresearch.github.io/2020-03-23-GriffithUni-Python/",

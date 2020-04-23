@@ -159,12 +159,12 @@ records:
     updated: '2020-01-29', url: 'https://github.com/swcarpentry/shell-novice/issues/1024'}
   - {number: 1010, title: Unix Shell setup suggestion - Video link and instructions
       on set up could be helpful, updated: '2020-01-29', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
-  - {number: 1086, title: 'Setup procedure for Windows: which one to follow?', updated: '2020-01-30',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/1086'}
   - {number: 1032, title: Move "moving to the current folder" exercise in 03, updated: '2020-01-31',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1032'}
   - {number: 1098, title: 'Episode 2: Getting help: Add third option `info` command ',
     updated: '2020-03-27', url: 'https://github.com/swcarpentry/shell-novice/issues/1098'}
+  - {number: 1086, title: 'Setup procedure for Windows: which one to follow?', updated: '2020-04-23',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/1086'}
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
@@ -881,6 +881,8 @@ records:
   - {number: 589, title: 'Spell check and apply consistent code style (close #548) ',
     updated: '2019-11-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
   - {number: 624, title: Instructor Training Checkout, updated: '2020-04-01', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/624'}
+  - {number: 626, title: clarify feline-data_v2 or feline-data_v2.csv, updated: '2020-04-23',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/626'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1057,5 +1059,7 @@ records:
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
+  - {number: 1167, title: Removing my name from the Maintainer List, updated: '2020-04-22',
+    url: 'https://github.com/swcarpentry/website/pull/1167'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-04-22T16:09:58Z'
+timestamp: '2020-04-23T16:10:11Z'
