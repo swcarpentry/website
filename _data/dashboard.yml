@@ -880,9 +880,9 @@ records:
     updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/573'}
   - {number: 589, title: 'Spell check and apply consistent code style (close #548) ',
     updated: '2019-11-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
-  - {number: 624, title: Instructor Training Checkout, updated: '2020-04-01', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/624'}
-  - {number: 626, title: clarify feline-data_v2 or feline-data_v2.csv, updated: '2020-04-23',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/626'}
+  - {number: 624, title: Instructor Training Checkout, updated: '2020-04-23', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/624'}
+  - {number: 628, title: Rendering problem, updated: '2020-04-24', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/628'}
+  - {number: 627, title: Fix challenge formatting, updated: '2020-04-24', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/627'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1059,7 +1059,5 @@ records:
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
-  - {number: 1167, title: Removing my name from the Maintainer List, updated: '2020-04-22',
-    url: 'https://github.com/swcarpentry/website/pull/1167'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-04-23T16:10:11Z'
+timestamp: '2020-04-24T13:35:28Z'

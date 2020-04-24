@@ -60,7 +60,7 @@
     "start_date": "2020-04-20"
   },
   {
-    "instructors": "Johan Hidding,Faruk Diblen",
+    "instructors": "Johan Hidding,Faruk Diblen,Pablo Rodríguez Sánchez",
     "end_date": "2020-04-17",
     "url": "https://escience-academy.github.io/2020-04-14-SWC-online/",
     "country": "NL",
@@ -69,7 +69,7 @@
     "longitude": null,
     "slug": "2020-04-14-SWC-online",
     "tag_name": "SWC",
-    "helpers": "Heather Andrews,Nicolas Dintzner",
+    "helpers": "Heather Andrews,Nicolas Dintzner,Evert Rol,Sarah Alidoost,Jaro Camphuijsen",
     "host_name": "Netherlands eScience Center",
     "latitude": null,
     "start_date": "2020-04-14"
@@ -255,7 +255,7 @@
     "start_date": "2020-03-16"
   },
   {
-    "instructors": "Heather Ciallella,Liam Sharp,Sid Bhadra-Lobo",
+    "instructors": "Heather Ciallella,Liam Sharp,Siddharth Bhadra-Lobo",
     "end_date": "2020-03-14",
     "url": "https://lms464.github.io/2020-03-13-Rutgers-SWC/",
     "country": "US",
