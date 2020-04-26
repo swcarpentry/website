@@ -1033,7 +1033,11 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1624'}
   - {number: 1614, title: 'Import Training Event Registration and Attendance ', updated: '2020-04-01',
     url: 'https://github.com/carpentries/amy/issues/1614'}
-  - {number: 1568, title: Update Contact Field in AMY Events, updated: '2020-04-21',
+  - {number: 1641, title: Allow editing template of already scheduled emails, updated: '2020-04-26',
+    url: 'https://github.com/carpentries/amy/issues/1641'}
+  - {number: 1640, title: 'Login w/ GitHub, redirection doesn''t respect `?next=`
+      parameter', updated: '2020-04-26', url: 'https://github.com/carpentries/amy/issues/1640'}
+  - {number: 1568, title: Update Contact Field in AMY Events, updated: '2020-04-26',
     url: 'https://github.com/carpentries/amy/issues/1568'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
@@ -1042,10 +1046,9 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1578'}
   - {number: 1605, title: Bump djangorestframework from 3.9.4 to 3.11.0, updated: '2020-01-10',
     url: 'https://github.com/carpentries/amy/pull/1605'}
-  - {number: 1633, title: PostWorkshopAction in "accept and create event" views, updated: '2020-04-05',
-    url: 'https://github.com/carpentries/amy/pull/1633'}
-  - {number: 1639, title: 'Job status, Django admin UI changes', updated: '2020-04-19',
-    url: 'https://github.com/carpentries/amy/pull/1639'}
+  - {number: 1643, title: 'Add ?next= param for GitHub login', updated: '2020-04-26',
+    url: 'https://github.com/carpentries/amy/pull/1643'}
+  - {number: 1642, title: Contact meta tag - split by |, updated: '2020-04-26', url: 'https://github.com/carpentries/amy/pull/1642'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1059,4 +1062,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-04-25T16:11:10Z'
+timestamp: '2020-04-26T16:11:20Z'
