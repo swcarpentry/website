@@ -300,7 +300,7 @@
     "start_date": "2020-03-10"
   },
   {
-    "instructors": "Lauren Ko,Mark Phillips,Kristy Phillips,Madhulika Bayyavarapu",
+    "instructors": "Lauren Ko,Mark Phillips,Kristy Phillips,Sri Sudha Madhulika Bayyavarapu",
     "end_date": "2020-03-11",
     "url": "https://unt-carpentries.github.io/2020-03-10-unt-swc/",
     "country": "US",
@@ -669,7 +669,7 @@
     "longitude": -97.148954,
     "slug": "2020-02-04-unt-swc",
     "tag_name": "SWC",
-    "helpers": "Lauren Ko,Madhulika Bayyavarapu",
+    "helpers": "Lauren Ko,Sri Sudha Madhulika Bayyavarapu",
     "host_name": "University of North Texas",
     "latitude": 33.210068,
     "start_date": "2020-02-04"
@@ -1689,7 +1689,7 @@
     "longitude": -97.148954,
     "slug": "2019-11-11-unt-swc",
     "tag_name": "SWC",
-    "helpers": "Madhulika Bayyavarapu,Sarah Fisher",
+    "helpers": "Sri Sudha Madhulika Bayyavarapu,Sarah Lynn Fisher",
     "host_name": "University of North Texas",
     "latitude": 33.210068,
     "start_date": "2019-11-11"
@@ -2739,7 +2739,7 @@
     "longitude": -97.148954,
     "slug": "2019-09-03-unt-swc",
     "tag_name": "SWC",
-    "helpers": "Mark Phillips,Madhulika Bayyavarapu",
+    "helpers": "Mark Phillips,Sri Sudha Madhulika Bayyavarapu",
     "host_name": "University of North Texas",
     "latitude": 33.210068,
     "start_date": "2019-09-03"
@@ -3909,7 +3909,7 @@
     "longitude": -97.148954,
     "slug": "2019-05-28-unt-swc",
     "tag_name": "SWC",
-    "helpers": "Jason Ellis,Mark Phillips,Sarah Fisher,Chris Hergert",
+    "helpers": "Jason Ellis,Mark Phillips,Sarah Lynn Fisher,Chris Hergert",
     "host_name": "University of North Texas",
     "latitude": 33.210068,
     "start_date": "2019-05-28"
@@ -4929,7 +4929,7 @@
     "longitude": -97.148954,
     "slug": "2019-03-18-unt-swc",
     "tag_name": "SWC",
-    "helpers": "Lauren Ko,Madhulika Bayyavarapu",
+    "helpers": "Lauren Ko,Sri Sudha Madhulika Bayyavarapu",
     "host_name": "University of North Texas",
     "latitude": 33.210068,
     "start_date": "2019-03-18"
@@ -5469,7 +5469,7 @@
     "longitude": -97.148954,
     "slug": "2019-01-24-unt-swc",
     "tag_name": "SWC",
-    "helpers": "Manuel Gottardi,Pamela Andrews,Madhulika Bayyavarapu,Douglas Burns",
+    "helpers": "Manuel Gottardi,Pamela Andrews,Sri Sudha Madhulika Bayyavarapu,Douglas Burns",
     "host_name": "University of North Texas",
     "latitude": 33.210068,
     "start_date": "2019-01-24"
@@ -6594,7 +6594,7 @@
     "longitude": -97.148954,
     "slug": "2018-10-25-unt-swc",
     "tag_name": "SWC",
-    "helpers": "Lauren Ko,Mark Phillips,Madhulika Bayyavarapu,Douglas Burns,Maristella Feustle",
+    "helpers": "Lauren Ko,Mark Phillips,Sri Sudha Madhulika Bayyavarapu,Douglas Burns,Maristella Feustle",
     "host_name": "University of North Texas",
     "latitude": 33.210068,
     "start_date": "2018-10-25"
