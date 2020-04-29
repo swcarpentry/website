@@ -30,21 +30,6 @@
     "start_date": "2020-04-27"
   },
   {
-    "instructors": "Aleksandra Singer,Charles Guan",
-    "end_date": "2020-04-29",
-    "url": "https://charlesincharge.github.io/2020-04-28-genentech",
-    "country": "US",
-    "curriculum": "swc-plotting",
-    "venue": "Genentech",
-    "longitude": -122.377961,
-    "slug": "2020-04-28-genentech",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Genentech",
-    "latitude": 37.656769,
-    "start_date": "2020-04-28"
-  },
-  {
     "instructors": "Erin Graham,Stéphane Guillou,Nicko Matigian,Kevin Bairos-Novak",
     "end_date": "2020-05-01",
     "url": "https://qcif-training.github.io/2020-04-30-QCIF-R/",
