@@ -864,10 +864,12 @@ records:
       library(gapminder)', updated: '2020-02-03', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/481'}
   - {number: 621, title: challenge 4b and 5 in 08-plot-ggplot2.Rmd render wrong, updated: '2020-03-09',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/621'}
-  - {number: 623, title: 'Episode 1 Intro to R & RStudio, managing environment ',
-    updated: '2020-03-16', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/623'}
   - {number: 625, title: Suggestion of adding demo() to Seeking Help episode, updated: '2020-04-12',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/625'}
+  - {number: 623, title: 'Episode 1 Intro to R & RStudio, managing environment ',
+    updated: '2020-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/623'}
+  - {number: 630, title: 'Mention flexibility of variable selection in ''select''
+      function ', updated: '2020-04-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/630'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -1046,7 +1048,10 @@ records:
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
-  - {number: 1642, title: Contact meta tag - split by |, updated: '2020-04-26', url: 'https://github.com/carpentries/amy/pull/1642'}
+  - {number: 1646, title: Bump jquery from 3.4.1 to 3.5.0, updated: '2020-04-30',
+    url: 'https://github.com/carpentries/amy/pull/1646'}
+  - {number: 1645, title: RQJob template editing, updated: '2020-04-30', url: 'https://github.com/carpentries/amy/pull/1645'}
+  - {number: 1642, title: Contact meta tag - split by |, updated: '2020-04-30', url: 'https://github.com/carpentries/amy/pull/1642'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1060,4 +1065,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-04-29T16:14:00Z'
+timestamp: '2020-04-30T16:13:07Z'
