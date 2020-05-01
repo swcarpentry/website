@@ -161,8 +161,6 @@ records:
       on set up could be helpful, updated: '2020-01-29', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
   - {number: 1032, title: Move "moving to the current folder" exercise in 03, updated: '2020-01-31',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1032'}
-  - {number: 1098, title: 'Episode 2: Getting help: Add third option `info` command ',
-    updated: '2020-03-27', url: 'https://github.com/swcarpentry/shell-novice/issues/1098'}
   - {number: 1086, title: 'Setup procedure for Windows: which one to follow?', updated: '2020-04-23',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1086'}
   pulls:
@@ -668,11 +666,11 @@ records:
   - {number: 805, title: Add alt-text 06_files loop_49_1, updated: '2020-03-05', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/805'}
   - {number: 809, title: Briefly introduce dictionaries before using them in the exercise,
     updated: '2020-03-19', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/809'}
-  - {number: 814, title: Added an image description for loops_image.png, updated: '2020-03-23',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/814'}
   - {number: 817, title: Update 03-matplotlib.md, updated: '2020-03-30', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/817'}
   - {number: 766, title: '01-intro.md: New fundamentals exercise', updated: '2020-04-13',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/766'}
+  - {number: 814, title: Added an image description for loops_image.png, updated: '2020-05-01',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/814'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1039,19 +1037,15 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1624'}
   - {number: 1614, title: 'Import Training Event Registration and Attendance ', updated: '2020-04-01',
     url: 'https://github.com/carpentries/amy/issues/1614'}
-  - {number: 1641, title: Allow editing template of already scheduled emails, updated: '2020-04-26',
-    url: 'https://github.com/carpentries/amy/issues/1641'}
-  - {number: 1568, title: Update Contact Field in AMY Events, updated: '2020-04-26',
-    url: 'https://github.com/carpentries/amy/issues/1568'}
   - {number: 1644, title: Add date feature to Self-Organised Workshop Request Form,
     updated: '2020-04-27', url: 'https://github.com/carpentries/amy/issues/1644'}
+  - {number: 1647, title: Support event tags in email template for Email Automation,
+    updated: '2020-04-30', url: 'https://github.com/carpentries/amy/issues/1647'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
   - {number: 1646, title: Bump jquery from 3.4.1 to 3.5.0, updated: '2020-04-30',
     url: 'https://github.com/carpentries/amy/pull/1646'}
-  - {number: 1645, title: RQJob template editing, updated: '2020-04-30', url: 'https://github.com/carpentries/amy/pull/1645'}
-  - {number: 1642, title: Contact meta tag - split by |, updated: '2020-04-30', url: 'https://github.com/carpentries/amy/pull/1642'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1065,4 +1059,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-04-30T16:13:07Z'
+timestamp: '2020-05-01T16:13:38Z'

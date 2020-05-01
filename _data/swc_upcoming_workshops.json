@@ -15,36 +15,6 @@
     "start_date": "2020-04-14"
   },
   {
-    "instructors": "Kim Keogh",
-    "end_date": "2020-05-01",
-    "url": "https://gu-eresearch.github.io/2020-04-27-GriffithUni-Python/",
-    "country": "AU",
-    "curriculum": "swc-python",
-    "venue": "Griffith University",
-    "longitude": 153.054036,
-    "slug": "2020-04-27-GriffithUni-Python",
-    "tag_name": "SWC",
-    "helpers": "McKenna Buckley",
-    "host_name": "Griffith University",
-    "latitude": -27.552941,
-    "start_date": "2020-04-27"
-  },
-  {
-    "instructors": "Erin Graham,Stéphane Guillou,Nicko Matigian,Kevin Bairos-Novak",
-    "end_date": "2020-05-01",
-    "url": "https://qcif-training.github.io/2020-04-30-QCIF-R/",
-    "country": "AU",
-    "curriculum": "swc-reproducible-science",
-    "venue": "University of Queensland",
-    "longitude": 153.014486,
-    "slug": "2020-04-30-QCIF-R",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Queensland Cyber Infrastructure Foundation",
-    "latitude": -27.49649,
-    "start_date": "2020-04-30"
-  },
-  {
     "instructors": "Phillip Doehle",
     "end_date": "2020-05-12",
     "url": "https://osu-carpentry.github.io/2020-05-11-okstate/",
