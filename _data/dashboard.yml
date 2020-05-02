@@ -273,6 +273,8 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/716'}
   - {number: 730, title: 'Episode 5 - Exploring History: Explain state "detached HEAD"
       and how to handle it.', updated: '2020-03-19', url: 'https://github.com/swcarpentry/git-novice/issues/730'}
+  - {number: 733, title: Improve explanation on how merge conflicts occur, updated: '2020-05-02',
+    url: 'https://github.com/swcarpentry/git-novice/issues/733'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -522,7 +524,6 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/491'}
   - {number: 629, title: Install option 4, updated: '2019-04-23', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/629'}
   - {number: 543, title: 'Improving episode #1', updated: '2019-05-14', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/543'}
-  - {number: 529, title: Creating Functions - Explain +=, updated: '2019-05-14', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/529'}
   - {number: 506, title: Simple exercise to differentiate print vs return, updated: '2019-05-14',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/506'}
   - {number: 498, title: Long lines in lessons, updated: '2019-05-14', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/498'}
@@ -600,6 +601,7 @@ records:
     updated: '2020-03-26', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/769'}
   - {number: 819, title: Setup suggestion - Usage of Google Colab notebooks, updated: '2020-04-10',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/819'}
+  - {number: 529, title: Creating Functions - Explain +=, updated: '2020-05-01', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/529'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -828,8 +830,6 @@ records:
   - {number: 540, title: Remove plyr dependency, updated: '2019-08-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/540'}
   - {number: 542, title: Suggestion to add a gentler introduction for ggplot2, updated: '2019-08-16',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/542'}
-  - {number: 553, title: 'Include qplot() in ggplot lesson?', updated: '2019-08-19',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/553'}
   - {number: 488, title: Need to update contributing.md to reflect new master branch
       Travis system, updated: '2019-08-28', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/488'}
   - {number: 559, title: Install gapminder package and load library, updated: '2019-09-06',
@@ -843,7 +843,6 @@ records:
     updated: '2019-09-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/560'}
   - {number: 565, title: Subscript and superscript formatting not rendered correctly,
     updated: '2019-10-02', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/565'}
-  - {number: 581, title: Unclear diagrams, updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/581'}
   - {number: 576, title: Not all solution present, updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/576'}
   - {number: 582, title: Creating Publication-Quality Graphics with ggplot2 - Challenge
       5, updated: '2019-11-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/582'}
@@ -868,6 +867,9 @@ records:
     updated: '2020-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/623'}
   - {number: 630, title: 'Mention flexibility of variable selection in ''select''
       function ', updated: '2020-04-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/630'}
+  - {number: 553, title: 'Include qplot() in ggplot lesson?', updated: '2020-05-01',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/553'}
+  - {number: 581, title: Unclear diagrams, updated: '2020-05-02', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/581'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -886,6 +888,8 @@ records:
   - {number: 628, title: Rendering problem, updated: '2020-04-24', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/628'}
   - {number: 629, title: Explain object printing behavior, updated: '2020-04-29',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/629'}
+  - {number: 631, title: 'Issue #581 fix. Figures redrawn', updated: '2020-05-02',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/631'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1020,31 +1024,29 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1570'}
   - {number: 1607, title: Remove Lessons Covered from the Workshops Event Page, updated: '2020-01-20',
     url: 'https://github.com/carpentries/amy/issues/1607'}
-  - {number: 1564, title: Feature Request- Add task = add person, updated: '2020-02-24',
-    url: 'https://github.com/carpentries/amy/issues/1564'}
-  - {number: 1562, title: TTT Open applications - check by default, updated: '2020-02-24',
-    url: 'https://github.com/carpentries/amy/issues/1562'}
-  - {number: 1516, title: Update "published" requirements, updated: '2020-02-24',
-    url: 'https://github.com/carpentries/amy/issues/1516'}
-  - {number: 1515, title: All queries should be exportable, updated: '2020-02-24',
-    url: 'https://github.com/carpentries/amy/issues/1515'}
-  - {number: 1512, title: Use DataTables in all tabular data views, updated: '2020-02-24',
-    url: 'https://github.com/carpentries/amy/issues/1512'}
-  - {number: 1484, title: Track changed metadata, updated: '2020-02-24', url: 'https://github.com/carpentries/amy/issues/1484'}
   - {number: 1615, title: Import Trainee checkout progress to AMY, updated: '2020-03-03',
     url: 'https://github.com/carpentries/amy/issues/1615'}
-  - {number: 1624, title: Name matching on workshop request forms, updated: '2020-03-28',
-    url: 'https://github.com/carpentries/amy/issues/1624'}
   - {number: 1614, title: 'Import Training Event Registration and Attendance ', updated: '2020-04-01',
     url: 'https://github.com/carpentries/amy/issues/1614'}
   - {number: 1644, title: Add date feature to Self-Organised Workshop Request Form,
-    updated: '2020-04-27', url: 'https://github.com/carpentries/amy/issues/1644'}
-  - {number: 1647, title: Support event tags in email template for Email Automation,
-    updated: '2020-04-30', url: 'https://github.com/carpentries/amy/issues/1647'}
+    updated: '2020-05-02', url: 'https://github.com/carpentries/amy/issues/1644'}
+  - {number: 1624, title: Name matching on workshop request forms, updated: '2020-05-02',
+    url: 'https://github.com/carpentries/amy/issues/1624'}
+  - {number: 1564, title: Feature Request- Add task = add person, updated: '2020-05-02',
+    url: 'https://github.com/carpentries/amy/issues/1564'}
+  - {number: 1562, title: TTT Open applications - check by default, updated: '2020-05-02',
+    url: 'https://github.com/carpentries/amy/issues/1562'}
+  - {number: 1516, title: Update "published" requirements, updated: '2020-05-02',
+    url: 'https://github.com/carpentries/amy/issues/1516'}
+  - {number: 1515, title: All queries should be exportable, updated: '2020-05-02',
+    url: 'https://github.com/carpentries/amy/issues/1515'}
+  - {number: 1512, title: Use DataTables in all tabular data views, updated: '2020-05-02',
+    url: 'https://github.com/carpentries/amy/issues/1512'}
+  - {number: 1484, title: Track changed metadata, updated: '2020-05-02', url: 'https://github.com/carpentries/amy/issues/1484'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
-  - {number: 1646, title: Bump jquery from 3.4.1 to 3.5.0, updated: '2020-04-30',
+  - {number: 1646, title: Bump jquery from 3.4.1 to 3.5.0, updated: '2020-05-02',
     url: 'https://github.com/carpentries/amy/pull/1646'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
@@ -1059,4 +1061,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-01T16:13:38Z'
+timestamp: '2020-05-02T16:13:24Z'
