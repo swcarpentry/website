@@ -730,16 +730,12 @@ records:
   - {number: 469, title: Use of par(mfrow) and grid.arrange, updated: '2020-03-29',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/469'}
   - {number: 468, title: A better way to begin Lesson 3, updated: '2020-04-10', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/468'}
-  - {number: 470, title: addressing data by row names too in 10. Addressing data,
-    updated: '2020-04-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/470'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/460'}
   - {number: 421, title: 'Upgrade 06-best-practices with more references or even practices?',
     updated: '2019-12-24', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/421'}
-  - {number: 471, title: add addressing data by row names, updated: '2020-04-27',
-    url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/471'}
   url: https://github.com/swcarpentry/r-novice-inflammation
 - description: R (Gapminder Data - Español)
   ident: swcarpentry/r-novice-gapminder
@@ -1028,8 +1024,6 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1615'}
   - {number: 1614, title: 'Import Training Event Registration and Attendance ', updated: '2020-04-01',
     url: 'https://github.com/carpentries/amy/issues/1614'}
-  - {number: 1644, title: Add date feature to Self-Organised Workshop Request Form,
-    updated: '2020-05-02', url: 'https://github.com/carpentries/amy/issues/1644'}
   - {number: 1624, title: Name matching on workshop request forms, updated: '2020-05-02',
     url: 'https://github.com/carpentries/amy/issues/1624'}
   - {number: 1564, title: Feature Request- Add task = add person, updated: '2020-05-02',
@@ -1043,6 +1037,8 @@ records:
   - {number: 1512, title: Use DataTables in all tabular data views, updated: '2020-05-02',
     url: 'https://github.com/carpentries/amy/issues/1512'}
   - {number: 1484, title: Track changed metadata, updated: '2020-05-02', url: 'https://github.com/carpentries/amy/issues/1484'}
+  - {number: 1644, title: Add date feature to Self-Organised Workshop Request Form,
+    updated: '2020-05-03', url: 'https://github.com/carpentries/amy/issues/1644'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1061,4 +1057,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-02T16:13:24Z'
+timestamp: '2020-05-03T16:13:30Z'
