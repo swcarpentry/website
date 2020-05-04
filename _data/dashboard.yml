@@ -1039,6 +1039,8 @@ records:
   - {number: 1484, title: Track changed metadata, updated: '2020-05-02', url: 'https://github.com/carpentries/amy/issues/1484'}
   - {number: 1644, title: Add date feature to Self-Organised Workshop Request Form,
     updated: '2020-05-03', url: 'https://github.com/carpentries/amy/issues/1644'}
+  - {number: 1650, title: Adding an instructor for a workshop causes 500 Server Error,
+    updated: '2020-05-04', url: 'https://github.com/carpentries/amy/issues/1650'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1057,4 +1059,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-03T16:13:30Z'
+timestamp: '2020-05-04T16:14:27Z'
