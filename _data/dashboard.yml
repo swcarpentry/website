@@ -275,6 +275,8 @@ records:
       and how to handle it.', updated: '2020-03-19', url: 'https://github.com/swcarpentry/git-novice/issues/730'}
   - {number: 733, title: Improve explanation on how merge conflicts occur, updated: '2020-05-02',
     url: 'https://github.com/swcarpentry/git-novice/issues/733'}
+  - {number: 734, title: 'Episode 4: the staging area should be explained earlier',
+    updated: '2020-05-05', url: 'https://github.com/swcarpentry/git-novice/issues/734'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -599,9 +601,9 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/815'}
   - {number: 769, title: Move "mystery functions in IPython" box to earlier in lesson,
     updated: '2020-03-26', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/769'}
-  - {number: 819, title: Setup suggestion - Usage of Google Colab notebooks, updated: '2020-04-10',
+  - {number: 819, title: Setup suggestion - Usage of Google Colab notebooks, updated: '2020-05-04',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/819'}
-  - {number: 529, title: Creating Functions - Explain +=, updated: '2020-05-01', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/529'}
+  - {number: 529, title: Creating Functions - Explain +=, updated: '2020-05-04', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/529'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -730,6 +732,8 @@ records:
   - {number: 469, title: Use of par(mfrow) and grid.arrange, updated: '2020-03-29',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/469'}
   - {number: 468, title: A better way to begin Lesson 3, updated: '2020-04-10', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/468'}
+  - {number: 472, title: 'Typo in Episode 11, ''Reading and Writing CSV Files''',
+    updated: '2020-05-05', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/472'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
@@ -861,11 +865,11 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/625'}
   - {number: 623, title: 'Episode 1 Intro to R & RStudio, managing environment ',
     updated: '2020-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/623'}
-  - {number: 630, title: 'Mention flexibility of variable selection in ''select''
-      function ', updated: '2020-04-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/630'}
   - {number: 553, title: 'Include qplot() in ggplot lesson?', updated: '2020-05-01',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/553'}
   - {number: 581, title: Unclear diagrams, updated: '2020-05-02', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/581'}
+  - {number: 630, title: 'Mention flexibility of variable selection in ''select''
+      function ', updated: '2020-05-04', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/630'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -881,11 +885,11 @@ records:
   - {number: 589, title: 'Spell check and apply consistent code style (close #548) ',
     updated: '2019-11-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
   - {number: 624, title: Instructor Training Checkout, updated: '2020-04-23', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/624'}
-  - {number: 628, title: Rendering problem, updated: '2020-04-24', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/628'}
-  - {number: 629, title: Explain object printing behavior, updated: '2020-04-29',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/629'}
-  - {number: 631, title: 'Issue #581 fix. Figures redrawn', updated: '2020-05-02',
+  - {number: 631, title: 'Issue #581 fix. Figures redrawn', updated: '2020-05-04',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/631'}
+  - {number: 629, title: Explain object printing behavior, updated: '2020-05-04',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/629'}
+  - {number: 628, title: Rendering problem, updated: '2020-05-04', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/628'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1039,13 +1043,19 @@ records:
   - {number: 1484, title: Track changed metadata, updated: '2020-05-02', url: 'https://github.com/carpentries/amy/issues/1484'}
   - {number: 1644, title: Add date feature to Self-Organised Workshop Request Form,
     updated: '2020-05-03', url: 'https://github.com/carpentries/amy/issues/1644'}
-  - {number: 1650, title: Adding an instructor for a workshop causes 500 Server Error,
-    updated: '2020-05-04', url: 'https://github.com/carpentries/amy/issues/1650'}
+  - {number: 1651, title: Select2 Tag widget error when using on empty event form,
+    updated: '2020-05-04', url: 'https://github.com/carpentries/amy/issues/1651'}
+  - {number: 1650, title: TaskForm not working correctly due to prefix change, updated: '2020-05-04',
+    url: 'https://github.com/carpentries/amy/issues/1650'}
+  - {number: 1653, title: Workshops "Update from URL" not updating, updated: '2020-05-05',
+    url: 'https://github.com/carpentries/amy/issues/1653'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
   - {number: 1646, title: Bump jquery from 3.4.1 to 3.5.0, updated: '2020-05-02',
     url: 'https://github.com/carpentries/amy/pull/1646'}
+  - {number: 1652, title: Fix Select2TagWidget error when value is empty list, updated: '2020-05-04',
+    url: 'https://github.com/carpentries/amy/pull/1652'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1059,4 +1069,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-04T16:14:27Z'
+timestamp: '2020-05-05T16:15:22Z'

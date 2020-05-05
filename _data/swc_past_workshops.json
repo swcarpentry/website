@@ -9,25 +9,10 @@
     "longitude": 153.014486,
     "slug": "2020-04-30-QCIF-R",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Chantelle Pinnington,Legana Fingerhut",
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.49649,
     "start_date": "2020-04-30"
-  },
-  {
-    "instructors": "Aleksandra Singer,Charles Guan",
-    "end_date": "2020-04-29",
-    "url": "https://charlesincharge.github.io/2020-04-28-genentech",
-    "country": "US",
-    "curriculum": "swc-plotting",
-    "venue": "Genentech",
-    "longitude": -122.377961,
-    "slug": "2020-04-28-genentech",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Genentech",
-    "latitude": 37.656769,
-    "start_date": "2020-04-28"
   },
   {
     "instructors": "Kim Keogh",
@@ -72,6 +57,21 @@
     "helpers": "Cara Kreck,Nancy Tippaya",
     "host_name": "Curtin University",
     "latitude": -32.007068,
+    "start_date": "2020-04-21"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-04-21",
+    "url": "https://www.ucl.ac.uk/research-it-services/services/research-it-training/index.html",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "UCL",
+    "longitude": -0.1362288,
+    "slug": "2020-04-21-ucl-online",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University College London",
+    "latitude": 51.5245592,
     "start_date": "2020-04-21"
   },
   {
@@ -208,6 +208,21 @@
     "host_name": "National Institute of Standards and Technology",
     "latitude": -48.876667,
     "start_date": "2020-04-10"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-04-06",
+    "url": "https://www.ucl.ac.uk/research-it-services/services/research-it-training",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "UCL",
+    "longitude": -0.1362341,
+    "slug": "2020-04-06-ucl-online",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University College London",
+    "latitude": 51.5245592,
+    "start_date": "2020-04-06"
   },
   {
     "instructors": "Peter Steinbach,Tobias Huste,Fredo Erxleben",
