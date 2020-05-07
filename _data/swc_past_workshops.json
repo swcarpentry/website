@@ -789,7 +789,7 @@
     "longitude": -3.185788,
     "slug": "2020-01-29-edinburgh",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Mario Antonioletti,Jennifer Daub,Chris Hill,Mike Minneter",
     "host_name": "University of Edinburgh",
     "latitude": 55.947331,
     "start_date": "2020-01-29"
@@ -840,7 +840,7 @@
     "start_date": "2020-01-22"
   },
   {
-    "instructors": null,
+    "instructors": "Rob Davey,Nicola Soranzo,Anthony Etuk,Alice Minotto",
     "end_date": "2020-01-22",
     "url": "https://tgac.github.io/2020-01-21-earlham/",
     "country": "GB",
@@ -1212,21 +1212,6 @@
     "helpers": null,
     "host_name": "King's College London",
     "latitude": 51.51159,
-    "start_date": "2019-12-16"
-  },
-  {
-    "instructors": null,
-    "end_date": "2019-12-17",
-    "url": "https://southampton-rsg.github.io/2019-12-16-southampton-swc/",
-    "country": "GB",
-    "curriculum": "swc-python",
-    "venue": "B32/3077, Highfield Campus",
-    "longitude": null,
-    "slug": "2019-12-16-southampton-swc",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "University of Southampton",
-    "latitude": null,
     "start_date": "2019-12-16"
   },
   {

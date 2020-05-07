@@ -1066,6 +1066,8 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1652'}
   - {number: 1655, title: WIP - DNM - Online workshop question, updated: '2020-05-05',
     url: 'https://github.com/carpentries/amy/pull/1655'}
+  - {number: 1658, title: add links to online workshop resources to WRF automated
+      emails, updated: '2020-05-07', url: 'https://github.com/carpentries/amy/pull/1658'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1079,4 +1081,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-06T16:15:31Z'
+timestamp: '2020-05-07T16:17:19Z'
