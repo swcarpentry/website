@@ -15,6 +15,21 @@
     "start_date": "2020-04-30"
   },
   {
+    "instructors": "Donny Winston,Akshay Paropkari,Charles Guan,Rachel Lombardi",
+    "end_date": "2020-05-08",
+    "url": "https://charlesincharge.github.io/2020-04-28-genentech",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "Genentech",
+    "longitude": -122.377961,
+    "slug": "2020-04-28-genentech",
+    "tag_name": "SWC",
+    "helpers": "Altaf Kassam",
+    "host_name": "Genentech",
+    "latitude": 37.656769,
+    "start_date": "2020-04-29"
+  },
+  {
     "instructors": "Kim Keogh",
     "end_date": "2020-05-01",
     "url": "https://gu-eresearch.github.io/2020-04-27-GriffithUni-Python/",
@@ -1603,21 +1618,6 @@
     "host_name": "University of Manchester",
     "latitude": 53.464003,
     "start_date": "2019-11-18"
-  },
-  {
-    "instructors": "Christopher Cave-Ayland,Lucy Whalley,Diego Alonso Álvarez,Iain Stenson,Chris Cooling",
-    "end_date": "2019-11-15",
-    "url": "https://kmichali.github.io/2019-11-14-Imperial/",
-    "country": "GB",
-    "curriculum": "swc-plotting",
-    "venue": "Imperial College London",
-    "longitude": -0.174877,
-    "slug": "2019-11-14-Imperial",
-    "tag_name": "SWC",
-    "helpers": "Amit Mandal,John Pinney,Jeremy Cohen,Santiago Lacalle Puig",
-    "host_name": "Imperial College London",
-    "latitude": 51.4988,
-    "start_date": "2019-11-14"
   },
   {
     "instructors": "Neal Davis,Elizabeth Wickes,Maxim Belkin",

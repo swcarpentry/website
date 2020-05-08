@@ -15,21 +15,6 @@
     "start_date": "2020-04-14"
   },
   {
-    "instructors": "Donny Winston,Akshay Paropkari,Charles Guan",
-    "end_date": "2020-05-08",
-    "url": "https://charlesincharge.github.io/2020-04-28-genentech",
-    "country": "US",
-    "curriculum": "swc-plotting",
-    "venue": "Genentech",
-    "longitude": -122.377961,
-    "slug": "2020-04-28-genentech",
-    "tag_name": "SWC",
-    "helpers": "Altaf Kassam",
-    "host_name": "Genentech",
-    "latitude": 37.656769,
-    "start_date": "2020-04-29"
-  },
-  {
     "instructors": "Phillip Doehle",
     "end_date": "2020-05-12",
     "url": "https://osu-carpentry.github.io/2020-05-11-okstate/",

@@ -606,6 +606,8 @@ records:
   - {number: 819, title: Setup suggestion - Usage of Google Colab notebooks, updated: '2020-05-04',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/819'}
   - {number: 529, title: Creating Functions - Explain +=, updated: '2020-05-04', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/529'}
+  - {number: 821, title: '03-matplotlib, use matplotlib.pyplot.subplots instead of  matplotlib.pyplot.figure',
+    updated: '2020-05-07', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/821'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -865,13 +867,15 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/621'}
   - {number: 625, title: Suggestion of adding demo() to Seeking Help episode, updated: '2020-04-12',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/625'}
-  - {number: 623, title: 'Episode 1 Intro to R & RStudio, managing environment ',
-    updated: '2020-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/623'}
   - {number: 553, title: 'Include qplot() in ggplot lesson?', updated: '2020-05-01',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/553'}
   - {number: 581, title: Unclear diagrams, updated: '2020-05-02', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/581'}
   - {number: 630, title: 'Mention flexibility of variable selection in ''select''
       function ', updated: '2020-05-04', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/630'}
+  - {number: 632, title: Update figure generation scripts to automatically export
+      image files, updated: '2020-05-07', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/632'}
+  - {number: 633, title: 'Current release build broken - Rv4.0 incompatibilities?',
+    updated: '2020-05-08', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/633'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -889,8 +893,6 @@ records:
   - {number: 624, title: Instructor Training Checkout, updated: '2020-04-23', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/624'}
   - {number: 631, title: 'Issue #581 fix. Figures redrawn', updated: '2020-05-04',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/631'}
-  - {number: 629, title: Explain object printing behavior, updated: '2020-05-04',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/629'}
   - {number: 628, title: Rendering problem, updated: '2020-05-04', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/628'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
@@ -1067,7 +1069,7 @@ records:
   - {number: 1655, title: WIP - DNM - Online workshop question, updated: '2020-05-05',
     url: 'https://github.com/carpentries/amy/pull/1655'}
   - {number: 1658, title: add links to online workshop resources to WRF automated
-      emails, updated: '2020-05-07', url: 'https://github.com/carpentries/amy/pull/1658'}
+      emails, updated: '2020-05-08', url: 'https://github.com/carpentries/amy/pull/1658'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1081,4 +1083,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-07T16:17:19Z'
+timestamp: '2020-05-08T16:17:04Z'
