@@ -1059,6 +1059,8 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1654'}
   - {number: 1653, title: Workshops "Update from URL" not updating, updated: '2020-05-05',
     url: 'https://github.com/carpentries/amy/issues/1653'}
+  - {number: 1659, title: Remove "Lessons Covered" from Self Organized Submission
+      accept view, updated: '2020-05-08', url: 'https://github.com/carpentries/amy/issues/1659'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1083,4 +1085,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-08T16:17:04Z'
+timestamp: '2020-05-09T16:17:34Z'
