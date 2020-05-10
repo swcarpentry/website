@@ -744,6 +744,7 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/460'}
   - {number: 421, title: 'Upgrade 06-best-practices with more references or even practices?',
     updated: '2019-12-24', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/421'}
+  - {number: 473, title: Grammar correction in line 65, updated: '2020-05-09', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/473'}
   url: https://github.com/swcarpentry/r-novice-inflammation
 - description: R (Gapminder Data - Español)
   ident: swcarpentry/r-novice-gapminder
@@ -1045,33 +1046,25 @@ records:
   - {number: 1512, title: Use DataTables in all tabular data views, updated: '2020-05-02',
     url: 'https://github.com/carpentries/amy/issues/1512'}
   - {number: 1484, title: Track changed metadata, updated: '2020-05-02', url: 'https://github.com/carpentries/amy/issues/1484'}
-  - {number: 1644, title: Add date feature to Self-Organised Workshop Request Form,
-    updated: '2020-05-03', url: 'https://github.com/carpentries/amy/issues/1644'}
-  - {number: 1651, title: Select2 Tag widget error when using on empty event form,
-    updated: '2020-05-04', url: 'https://github.com/carpentries/amy/issues/1651'}
-  - {number: 1650, title: TaskForm not working correctly due to prefix change, updated: '2020-05-04',
-    url: 'https://github.com/carpentries/amy/issues/1650'}
-  - {number: 1657, title: Fixes needed to how lat/lon is treated, updated: '2020-05-05',
-    url: 'https://github.com/carpentries/amy/issues/1657'}
-  - {number: 1656, title: 'What is the purpose of git_version.py?', updated: '2020-05-05',
-    url: 'https://github.com/carpentries/amy/issues/1656'}
-  - {number: 1654, title: Add Workshop Type to Workshop Request Forms, updated: '2020-05-05',
-    url: 'https://github.com/carpentries/amy/issues/1654'}
-  - {number: 1653, title: Workshops "Update from URL" not updating, updated: '2020-05-05',
-    url: 'https://github.com/carpentries/amy/issues/1653'}
   - {number: 1659, title: Remove "Lessons Covered" from Self Organized Submission
-      accept view, updated: '2020-05-08', url: 'https://github.com/carpentries/amy/issues/1659'}
+      accept view, updated: '2020-05-10', url: 'https://github.com/carpentries/amy/issues/1659'}
+  - {number: 1657, title: Fixes needed to how lat/lon is treated, updated: '2020-05-10',
+    url: 'https://github.com/carpentries/amy/issues/1657'}
+  - {number: 1656, title: 'What is the purpose of git_version.py?', updated: '2020-05-10',
+    url: 'https://github.com/carpentries/amy/issues/1656'}
+  - {number: 1654, title: Add Workshop Type to Workshop Request Forms, updated: '2020-05-10',
+    url: 'https://github.com/carpentries/amy/issues/1654'}
+  - {number: 1653, title: Workshops "Update from URL" not updating, updated: '2020-05-10',
+    url: 'https://github.com/carpentries/amy/issues/1653'}
+  - {number: 1644, title: Add date feature to Self-Organised Workshop Request Form,
+    updated: '2020-05-10', url: 'https://github.com/carpentries/amy/issues/1644'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
   - {number: 1646, title: Bump jquery from 3.4.1 to 3.5.0, updated: '2020-05-02',
     url: 'https://github.com/carpentries/amy/pull/1646'}
-  - {number: 1652, title: Fix Select2TagWidget error when value is empty list, updated: '2020-05-04',
-    url: 'https://github.com/carpentries/amy/pull/1652'}
-  - {number: 1655, title: WIP - DNM - Online workshop question, updated: '2020-05-05',
+  - {number: 1655, title: WIP - DNM - Online workshop question, updated: '2020-05-10',
     url: 'https://github.com/carpentries/amy/pull/1655'}
-  - {number: 1658, title: add links to online workshop resources to WRF automated
-      emails, updated: '2020-05-08', url: 'https://github.com/carpentries/amy/pull/1658'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1085,4 +1078,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-09T16:17:34Z'
+timestamp: '2020-05-10T16:17:41Z'
