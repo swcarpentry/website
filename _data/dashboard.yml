@@ -744,7 +744,6 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/460'}
   - {number: 421, title: 'Upgrade 06-best-practices with more references or even practices?',
     updated: '2019-12-24', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/421'}
-  - {number: 473, title: Grammar correction in line 65, updated: '2020-05-09', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/473'}
   url: https://github.com/swcarpentry/r-novice-inflammation
 - description: R (Gapminder Data - Español)
   ident: swcarpentry/r-novice-gapminder
@@ -895,6 +894,10 @@ records:
   - {number: 631, title: 'Issue #581 fix. Figures redrawn', updated: '2020-05-04',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/631'}
   - {number: 628, title: Rendering problem, updated: '2020-05-04', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/628'}
+  - {number: 635, title: 'added updated screen shots, clarified language about variable
+      names, …', updated: '2020-05-11', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/635'}
+  - {number: 634, title: Do not conflate aesthetics and layers, updated: '2020-05-11',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/634'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1078,4 +1081,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-10T16:17:41Z'
+timestamp: '2020-05-11T16:18:36Z'
