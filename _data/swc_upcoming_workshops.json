@@ -15,21 +15,6 @@
     "start_date": "2020-04-14"
   },
   {
-    "instructors": "Phillip Doehle",
-    "end_date": "2020-05-12",
-    "url": "https://osu-carpentry.github.io/2020-05-11-okstate/",
-    "country": "US",
-    "curriculum": "swc-plotting",
-    "venue": "Oklahoma State University",
-    "longitude": -123.393333,
-    "slug": "2020-05-11-okstate",
-    "tag_name": "SWC",
-    "helpers": "Kay BJornen",
-    "host_name": "Oklahoma State University",
-    "latitude": -48.876667,
-    "start_date": "2020-05-11"
-  },
-  {
     "instructors": "Tommy Keswick,Thomas Morrell,Peter Collopy,Charles Guan",
     "end_date": "2020-05-15",
     "url": "https://caltechlibrary.github.io/2020-05-11-swc-online",
@@ -47,12 +32,12 @@
   {
     "instructors": "Bryna Hazelton,Scott Henderson,Anthony Valente",
     "end_date": "2020-05-14",
-    "url": "https://uwescience.github.io/2020-05-11-uw/",
+    "url": "https://uwescience.github.io/2020-05-11-uw-online/",
     "country": "US",
     "curriculum": "swc-python",
     "venue": "University of Washington",
     "longitude": -122.332071,
-    "slug": "2020-05-11-uw",
+    "slug": "2020-05-11-uw-online",
     "tag_name": "SWC",
     "helpers": "Meredith Rawls,Alicia Clark,Jennifer Sobeck,Anthony Valente",
     "host_name": "University of Washington",
@@ -148,6 +133,21 @@
     "host_name": "Vrije Universiteit",
     "latitude": 52.15731,
     "start_date": "2020-06-08"
+  },
+  {
+    "instructors": "Maximilian Dolling,Bezaye Tesfaye",
+    "end_date": "2020-06-23",
+    "url": "http://swc-bb.gitext.gfz-potsdam.de/swc-pages/2020-06-22-virtual/",
+    "country": "DE",
+    "curriculum": "swc-python",
+    "venue": "Albert Einstein Science Park, Potsdam, Germany",
+    "longitude": 13.064298,
+    "slug": "2020-06-22-virtual",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "GFZ Potsdam",
+    "latitude": 52.382214,
+    "start_date": "2020-06-22"
   },
   {
     "instructors": "Amanda Miotto",

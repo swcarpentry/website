@@ -279,6 +279,8 @@ records:
     updated: '2020-05-05', url: 'https://github.com/swcarpentry/git-novice/issues/734'}
   - {number: 735, title: Incorrect link to install instructions on setup page, updated: '2020-05-06',
     url: 'https://github.com/swcarpentry/git-novice/issues/735'}
+  - {number: 736, title: 'Episode 6 - Ignoring Things: Reference to other option for
+      ignoring files', updated: '2020-05-12', url: 'https://github.com/swcarpentry/git-novice/issues/736'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -607,7 +609,7 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/819'}
   - {number: 529, title: Creating Functions - Explain +=, updated: '2020-05-04', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/529'}
   - {number: 821, title: '03-matplotlib, use matplotlib.pyplot.subplots instead of  matplotlib.pyplot.figure',
-    updated: '2020-05-07', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/821'}
+    updated: '2020-05-12', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/821'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -1081,4 +1083,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-11T16:18:36Z'
+timestamp: '2020-05-12T16:18:44Z'
