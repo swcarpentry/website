@@ -4809,7 +4809,7 @@
     "longitude": -3.26227,
     "slug": "2019-03-28-heriotwatt",
     "tag_name": "SWC",
-    "helpers": "David McKain,Lucia Michielin,Matthew Hamilton,Evan Morgan,Hans-Nikolai Viessmann,Beatrice Alex,Clare Llewellyn",
+    "helpers": "Lucia Michielin,David McKain,Matthew Hamilton,Evan Morgan,Hans-Nikolai Viessmann,Beatrice Alex,Clare Llewellyn",
     "host_name": "Heriot Watt University",
     "latitude": 55.92261,
     "start_date": "2019-03-28"
@@ -9075,6 +9075,21 @@
     "start_date": "2018-04-09"
   },
   {
+    "instructors": "Rayna Harris,Julieta Arancio,Vladamir Avila,Cynthia Monastirsky,Paola Prieto",
+    "end_date": "2018-04-07",
+    "url": "https://raynamharris.github.io/2018-04-07-BuenosAires/",
+    "country": "AR",
+    "curriculum": null,
+    "venue": "R'lyeh Hacklab, Buenos Aires",
+    "longitude": -58.381592,
+    "slug": "2018-04-07-BuenosAires",
+    "tag_name": "SWC",
+    "helpers": "Julieta Arancio,Vladamir Avila,Cynthia Monastirsky,Paola Prieto",
+    "host_name": "R'lyeh Hacklab",
+    "latitude": -34.603722,
+    "start_date": "2018-04-07"
+  },
+  {
     "instructors": "Andy Kleinhesselink,Tim Dennis",
     "end_date": "2018-04-08",
     "url": "https://ucla-data-archive.github.io/2018-04-07-ucla-eeb/",
@@ -10078,6 +10093,21 @@
     "host_name": "University of Khartoum",
     "latitude": 15.609321,
     "start_date": "2018-01-12"
+  },
+  {
+    "instructors": "Dirk Eddelbuettel,Colin Morris",
+    "end_date": "2018-01-12",
+    "url": "https://eddelbuettel.github.io/2018-01-11-nber/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "National Bureau of Economic Research (NBER)",
+    "longitude": -71.112994,
+    "slug": "2018-01-11-NBER",
+    "tag_name": "SWC",
+    "helpers": "Jean Roth",
+    "host_name": "National Bureau of Economic Research",
+    "latitude": 42.369794,
+    "start_date": "2018-01-11"
   },
   {
     "instructors": "Ted Hart,Kellie Ottoboni",

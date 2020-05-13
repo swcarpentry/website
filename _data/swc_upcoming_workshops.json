@@ -90,21 +90,6 @@
     "start_date": "2020-05-28"
   },
   {
-    "instructors": "Chandler Becker,Randal McDermott,Andrew Reid,Andrea Medina-Smith",
-    "end_date": "2020-06-01",
-    "url": "https://pages.nist.gov/2020-05-29-nist/",
-    "country": "US",
-    "curriculum": "swc-plotting",
-    "venue": "NIST",
-    "longitude": -77.216351,
-    "slug": "2020-05-29-nist",
-    "tag_name": "SWC",
-    "helpers": "Daniel Wheeler",
-    "host_name": "National Institute of Standards and Technology",
-    "latitude": 39.1322,
-    "start_date": "2020-05-29"
-  },
-  {
     "instructors": "Eric Jankowski,Travis Seaborn,Erich Seamon,Mike Henry,James Van Leuven,Amanda Culley",
     "end_date": "2020-06-11",
     "url": "https://bsurc.github.io/2020-06-08-inl-bootcamp/",
