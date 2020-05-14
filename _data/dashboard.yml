@@ -681,6 +681,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/766'}
   - {number: 814, title: Added an image description for loops_image.png, updated: '2020-05-01',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/814'}
+  - {number: 822, title: Add a reference to the API documentation and introduce the
+      concept, updated: '2020-05-14', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/822'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1083,4 +1085,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-13T16:18:51Z'
+timestamp: '2020-05-14T16:19:21Z'

@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Nelly Sélem",
-    "end_date": "2020-05-14",
-    "url": "https://nselem.github.io/2020-04-14-posgraduados-campeche/",
-    "country": "MX",
-    "curriculum": "swc-python",
-    "venue": "Colegio de Postgraduados Campus Campeche",
-    "longitude": -90.54,
-    "slug": "2020-04-14-posgraduados-campeche",
-    "tag_name": "SWC",
-    "helpers": "Abraham Avelar",
-    "host_name": "Langebio",
-    "latitude": 19.49,
-    "start_date": "2020-04-14"
-  },
-  {
     "instructors": "Tommy Keswick,Thomas Morrell,Peter Collopy,Charles Guan",
     "end_date": "2020-05-15",
     "url": "https://caltechlibrary.github.io/2020-05-11-swc-online",
@@ -27,21 +12,6 @@
     "helpers": "Stephen Davison",
     "host_name": "California Institute of Technology",
     "latitude": -48.876667,
-    "start_date": "2020-05-11"
-  },
-  {
-    "instructors": "Bryna Hazelton,Scott Henderson,Anthony Valente",
-    "end_date": "2020-05-14",
-    "url": "https://uwescience.github.io/2020-05-11-uw-online/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "University of Washington",
-    "longitude": -122.332071,
-    "slug": "2020-05-11-uw-online",
-    "tag_name": "SWC",
-    "helpers": "Meredith Rawls,Alicia Clark,Jennifer Sobeck,Anthony Valente",
-    "host_name": "University of Washington",
-    "latitude": 47.606209,
     "start_date": "2020-05-11"
   },
   {
