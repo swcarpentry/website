@@ -163,6 +163,10 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1032'}
   - {number: 1086, title: 'Setup procedure for Windows: which one to follow?', updated: '2020-04-23',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1086'}
+  - {number: 1108, title: Entering and leaving directories, updated: '2020-05-15',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/1108'}
+  - {number: 1107, title: ' Episode 6:  Explicitly describe special variables $2 and
+      $3 upon introduction. ', updated: '2020-05-15', url: 'https://github.com/swcarpentry/shell-novice/issues/1107'}
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
@@ -898,8 +902,6 @@ records:
   - {number: 631, title: 'Issue #581 fix. Figures redrawn', updated: '2020-05-04',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/631'}
   - {number: 628, title: Rendering problem, updated: '2020-05-04', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/628'}
-  - {number: 635, title: 'added updated screen shots, clarified language about variable
-      names, …', updated: '2020-05-11', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/635'}
   - {number: 634, title: Do not conflate aesthetics and layers, updated: '2020-05-11',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/634'}
   url: https://github.com/swcarpentry/r-novice-gapminder
@@ -1034,8 +1036,6 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1567'}
   - {number: 1570, title: Workshop Request Form - Membership Affiliation, updated: '2020-01-14',
     url: 'https://github.com/carpentries/amy/issues/1570'}
-  - {number: 1607, title: Remove Lessons Covered from the Workshops Event Page, updated: '2020-01-20',
-    url: 'https://github.com/carpentries/amy/issues/1607'}
   - {number: 1615, title: Import Trainee checkout progress to AMY, updated: '2020-03-03',
     url: 'https://github.com/carpentries/amy/issues/1615'}
   - {number: 1614, title: 'Import Training Event Registration and Attendance ', updated: '2020-04-01',
@@ -1065,6 +1065,8 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1653'}
   - {number: 1644, title: Add date feature to Self-Organised Workshop Request Form,
     updated: '2020-05-10', url: 'https://github.com/carpentries/amy/issues/1644'}
+  - {number: 1607, title: Remove Lessons Covered from the Workshops Event Page, updated: '2020-05-14',
+    url: 'https://github.com/carpentries/amy/issues/1607'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1085,4 +1087,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-14T16:19:21Z'
+timestamp: '2020-05-15T16:19:28Z'

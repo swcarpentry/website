@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Tommy Keswick,Thomas Morrell,Peter Collopy,Charles Guan",
-    "end_date": "2020-05-15",
-    "url": "https://caltechlibrary.github.io/2020-05-11-swc-online",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "Caltech Library (online)",
-    "longitude": -123.393333,
-    "slug": "2020-05-11-swc-online",
-    "tag_name": "SWC",
-    "helpers": "Stephen Davison",
-    "host_name": "California Institute of Technology",
-    "latitude": -48.876667,
-    "start_date": "2020-05-11"
-  },
-  {
     "instructors": "Mark Dawson",
     "end_date": "2020-05-21",
     "url": "https://sa2c.github.io/2020-05-20-swansea",

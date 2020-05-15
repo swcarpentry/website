@@ -15,6 +15,21 @@
     "start_date": "2020-05-11"
   },
   {
+    "instructors": "Tommy Keswick,Thomas Morrell,Peter Collopy,Charles Guan",
+    "end_date": "2020-05-15",
+    "url": "https://caltechlibrary.github.io/2020-05-11-swc-online",
+    "country": "US",
+    "curriculum": "swc-python",
+    "venue": "Caltech Library (online)",
+    "longitude": -123.393333,
+    "slug": "2020-05-11-swc-online",
+    "tag_name": "SWC",
+    "helpers": "Stephen Davison",
+    "host_name": "California Institute of Technology",
+    "latitude": -48.876667,
+    "start_date": "2020-05-11"
+  },
+  {
     "instructors": "Bryna Hazelton,Scott Henderson,Anthony Valente",
     "end_date": "2020-05-14",
     "url": "https://uwescience.github.io/2020-05-11-uw-online/",
@@ -12765,7 +12780,7 @@
     "start_date": "2017-05-17"
   },
   {
-    "instructors": "Bala Desinghu,Emelie Harstad,Mats Rynge,Suchandra Thapa",
+    "instructors": "Balamurugan Desinghu,Emelie Harstad,Mats Rynge,Suchandra Thapa",
     "end_date": "2017-05-19",
     "url": "https://swc-osg-workshop.github.io/2017-05-17-JLAB/",
     "country": "US",
@@ -18225,7 +18240,7 @@
     "start_date": "2016-01-07"
   },
   {
-    "instructors": "David Champion,Bala Desinghu,Emelie Harstad,Mats Rynge,Suchandra Thapa,Lincoln Bryant",
+    "instructors": "David Champion,Balamurugan Desinghu,Emelie Harstad,Mats Rynge,Suchandra Thapa,Lincoln Bryant",
     "end_date": "2016-01-08",
     "url": "http://swc-osg-workshop.github.io/2016-01-06-UNL/",
     "country": "US",
@@ -18945,7 +18960,7 @@
     "start_date": "2015-10-27"
   },
   {
-    "instructors": "David Champion,Bala Desinghu,Emelie Harstad,Mats Rynge,Suchandra Thapa,Rob Gardner",
+    "instructors": "David Champion,Balamurugan Desinghu,Emelie Harstad,Mats Rynge,Suchandra Thapa,Rob Gardner",
     "end_date": "2015-10-29",
     "url": "https://swc-osg-workshop.github.io/2015-10-27-duke/",
     "country": "US",
@@ -21330,7 +21345,7 @@
     "start_date": "2015-03-05"
   },
   {
-    "instructors": "David Champion,Bala Desinghu,Emelie Harstad,Rob Quick,Mats Rynge,Suchandra Thapa",
+    "instructors": "David Champion,Balamurugan Desinghu,Emelie Harstad,Rob Quick,Mats Rynge,Suchandra Thapa",
     "end_date": "2015-03-05",
     "url": "https://swc-osg-workshop.github.io/2015-03-03-iupui/",
     "country": "US",
@@ -21945,7 +21960,7 @@
     "start_date": "2014-12-16"
   },
   {
-    "instructors": "David Champion,Bala Desinghu,Suchandra Thapa,Lincoln Bryant,Rob Gardner",
+    "instructors": "David Champion,Balamurugan Desinghu,Suchandra Thapa,Lincoln Bryant,Rob Gardner",
     "end_date": "2014-12-16",
     "url": "https://SWC-OSG-Workshop.github.io/2014-12-15-UChicago/",
     "country": "US",
@@ -22419,7 +22434,7 @@
     "longitude": -87.6007318,
     "slug": "2014-09-18-chicago",
     "tag_name": "SWC",
-    "helpers": "Bala Desinghu,Nicholas Knoblauch,Daniel Rabe,Suchandra Thapa",
+    "helpers": "Balamurugan Desinghu,Nicholas Knoblauch,Daniel Rabe,Suchandra Thapa",
     "host_name": "University of Chicago",
     "latitude": 41.7901128,
     "start_date": "2014-09-18"
