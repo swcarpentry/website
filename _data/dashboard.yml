@@ -163,8 +163,6 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1032'}
   - {number: 1086, title: 'Setup procedure for Windows: which one to follow?', updated: '2020-04-23',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1086'}
-  - {number: 1108, title: Entering and leaving directories, updated: '2020-05-15',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/1108'}
   - {number: 1107, title: ' Episode 6:  Explicitly describe special variables $2 and
       $3 upon introduction. ', updated: '2020-05-15', url: 'https://github.com/swcarpentry/shell-novice/issues/1107'}
   pulls:
@@ -1087,4 +1085,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-15T16:19:28Z'
+timestamp: '2020-05-16T16:19:53Z'
