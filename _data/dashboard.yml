@@ -176,6 +176,8 @@ records:
       the username', updated: '2020-04-17', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
   - {number: 491, title: 'Episode 7: Add grep -r exercise', updated: '2020-04-17',
     url: 'https://github.com/swcarpentry/shell-novice/pull/491'}
+  - {number: 1109, title: Clarify directory navigation terminology, updated: '2020-05-18',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/1109'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -282,7 +284,7 @@ records:
   - {number: 735, title: Incorrect link to install instructions on setup page, updated: '2020-05-06',
     url: 'https://github.com/swcarpentry/git-novice/issues/735'}
   - {number: 736, title: 'Episode 6 - Ignoring Things: Reference to other option for
-      ignoring files', updated: '2020-05-12', url: 'https://github.com/swcarpentry/git-novice/issues/736'}
+      ignoring files', updated: '2020-05-17', url: 'https://github.com/swcarpentry/git-novice/issues/736'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -603,8 +605,6 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/800'}
   - {number: 781, title: 'Call for Contributions: image descriptions & titles', updated: '2020-03-14',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
-  - {number: 815, title: Add flowchart illustration for for loops, updated: '2020-03-26',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/815'}
   - {number: 769, title: Move "mystery functions in IPython" box to earlier in lesson,
     updated: '2020-03-26', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/769'}
   - {number: 819, title: Setup suggestion - Usage of Google Colab notebooks, updated: '2020-05-04',
@@ -612,6 +612,8 @@ records:
   - {number: 529, title: Creating Functions - Explain +=, updated: '2020-05-04', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/529'}
   - {number: 821, title: '03-matplotlib, use matplotlib.pyplot.subplots instead of  matplotlib.pyplot.figure',
     updated: '2020-05-13', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/821'}
+  - {number: 815, title: Add flowchart illustration for for loops, updated: '2020-05-18',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/815'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -902,6 +904,8 @@ records:
   - {number: 628, title: Rendering problem, updated: '2020-05-04', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/628'}
   - {number: 634, title: Do not conflate aesthetics and layers, updated: '2020-05-11',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/634'}
+  - {number: 636, title: 'added updated screen shots, clarified language about variable
+      names, …', updated: '2020-05-18', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/636'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1053,8 +1057,6 @@ records:
   - {number: 1484, title: Track changed metadata, updated: '2020-05-02', url: 'https://github.com/carpentries/amy/issues/1484'}
   - {number: 1659, title: Remove "Lessons Covered" from Self Organized Submission
       accept view, updated: '2020-05-10', url: 'https://github.com/carpentries/amy/issues/1659'}
-  - {number: 1657, title: Fixes needed to how lat/lon is treated, updated: '2020-05-10',
-    url: 'https://github.com/carpentries/amy/issues/1657'}
   - {number: 1656, title: 'What is the purpose of git_version.py?', updated: '2020-05-10',
     url: 'https://github.com/carpentries/amy/issues/1656'}
   - {number: 1654, title: Add Workshop Type to Workshop Request Forms, updated: '2020-05-10',
@@ -1065,6 +1067,8 @@ records:
     updated: '2020-05-10', url: 'https://github.com/carpentries/amy/issues/1644'}
   - {number: 1607, title: Remove Lessons Covered from the Workshops Event Page, updated: '2020-05-14',
     url: 'https://github.com/carpentries/amy/issues/1607'}
+  - {number: 1657, title: Fixes needed to how lat/lon is treated, updated: '2020-05-18',
+    url: 'https://github.com/carpentries/amy/issues/1657'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1072,6 +1076,8 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1646'}
   - {number: 1655, title: WIP - DNM - Online workshop question, updated: '2020-05-10',
     url: 'https://github.com/carpentries/amy/pull/1655'}
+  - {number: 1662, title: include redis/docker instructions in local setup, updated: '2020-05-18',
+    url: 'https://github.com/carpentries/amy/pull/1662'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1085,4 +1091,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-17T16:19:55Z'
+timestamp: '2020-05-18T16:20:32Z'
