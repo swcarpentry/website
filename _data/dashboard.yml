@@ -612,7 +612,7 @@ records:
   - {number: 529, title: Creating Functions - Explain +=, updated: '2020-05-04', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/529'}
   - {number: 821, title: '03-matplotlib, use matplotlib.pyplot.subplots instead of  matplotlib.pyplot.figure',
     updated: '2020-05-13', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/821'}
-  - {number: 815, title: Add flowchart illustration for for loops, updated: '2020-05-18',
+  - {number: 815, title: Add flowchart illustration for for loops, updated: '2020-05-19',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/815'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
@@ -686,7 +686,7 @@ records:
   - {number: 814, title: Added an image description for loops_image.png, updated: '2020-05-01',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/814'}
   - {number: 822, title: Add a reference to the API documentation and introduce the
-      concept, updated: '2020-05-14', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/822'}
+      concept, updated: '2020-05-19', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/822'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1057,8 +1057,6 @@ records:
   - {number: 1484, title: Track changed metadata, updated: '2020-05-02', url: 'https://github.com/carpentries/amy/issues/1484'}
   - {number: 1659, title: Remove "Lessons Covered" from Self Organized Submission
       accept view, updated: '2020-05-10', url: 'https://github.com/carpentries/amy/issues/1659'}
-  - {number: 1656, title: 'What is the purpose of git_version.py?', updated: '2020-05-10',
-    url: 'https://github.com/carpentries/amy/issues/1656'}
   - {number: 1654, title: Add Workshop Type to Workshop Request Forms, updated: '2020-05-10',
     url: 'https://github.com/carpentries/amy/issues/1654'}
   - {number: 1653, title: Workshops "Update from URL" not updating, updated: '2020-05-10',
@@ -1067,8 +1065,12 @@ records:
     updated: '2020-05-10', url: 'https://github.com/carpentries/amy/issues/1644'}
   - {number: 1607, title: Remove Lessons Covered from the Workshops Event Page, updated: '2020-05-14',
     url: 'https://github.com/carpentries/amy/issues/1607'}
+  - {number: 1664, title: 'Fixes to workshop summary in membership view ', updated: '2020-05-18',
+    url: 'https://github.com/carpentries/amy/issues/1664'}
   - {number: 1657, title: Fixes needed to how lat/lon is treated, updated: '2020-05-18',
     url: 'https://github.com/carpentries/amy/issues/1657'}
+  - {number: 1656, title: 'What is the purpose of git_version.py?', updated: '2020-05-18',
+    url: 'https://github.com/carpentries/amy/issues/1656'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1076,6 +1078,9 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1646'}
   - {number: 1655, title: WIP - DNM - Online workshop question, updated: '2020-05-10',
     url: 'https://github.com/carpentries/amy/pull/1655'}
+  - {number: 1665, title: removes git_version.py, updated: '2020-05-18', url: 'https://github.com/carpentries/amy/pull/1665'}
+  - {number: 1663, title: make Administrator field required, updated: '2020-05-18',
+    url: 'https://github.com/carpentries/amy/pull/1663'}
   - {number: 1662, title: include redis/docker instructions in local setup, updated: '2020-05-18',
     url: 'https://github.com/carpentries/amy/pull/1662'}
   url: https://github.com/carpentries/amy
@@ -1091,4 +1096,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-18T16:20:32Z'
+timestamp: '2020-05-19T16:22:56Z'

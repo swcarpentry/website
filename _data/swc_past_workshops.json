@@ -1,6 +1,6 @@
 [
   {
-    "instructors": "Phillip Doehle",
+    "instructors": "Phillip Doehle,Dave Lampert",
     "end_date": "2020-05-12",
     "url": "https://osu-carpentry.github.io/2020-05-11-okstate/",
     "country": "US",
@@ -9,7 +9,7 @@
     "longitude": -123.393333,
     "slug": "2020-05-11-okstate",
     "tag_name": "SWC",
-    "helpers": "Kay BJornen",
+    "helpers": "Evan Linde,Peter Hoyt,Nathalia Graf-Grachet,Kay BJornen,Damith Mahapatabendige,SURYA AYYALASOMAYAJULA,Hua Lin,Madison Chartier,Clarke Iakovakis,Rajendra Maharjan,Max Prud'homme,Jianan Zhao",
     "host_name": "Oklahoma State University",
     "latitude": -48.876667,
     "start_date": "2020-05-11"
@@ -24,13 +24,13 @@
     "longitude": -123.393333,
     "slug": "2020-05-11-swc-online",
     "tag_name": "SWC",
-    "helpers": "Stephen Davison",
+    "helpers": "Stephen Davison,Kristin Briney",
     "host_name": "California Institute of Technology",
     "latitude": -48.876667,
     "start_date": "2020-05-11"
   },
   {
-    "instructors": "Bryna Hazelton,Scott Henderson,Anthony Valente",
+    "instructors": "Bernease Herman,Bryna Hazelton,Scott Henderson,Anthony Valente",
     "end_date": "2020-05-14",
     "url": "https://uwescience.github.io/2020-05-11-uw-online/",
     "country": "US",
@@ -39,7 +39,7 @@
     "longitude": -122.332071,
     "slug": "2020-05-11-uw-online",
     "tag_name": "SWC",
-    "helpers": "Meredith Rawls,Alicia Clark,Jennifer Sobeck,Anthony Valente",
+    "helpers": "Valentina Staneva,Meredith Rawls,Alicia Clark,Jennifer Sobeck,Anthony Valente,Noah Benson",
     "host_name": "University of Washington",
     "latitude": 47.606209,
     "start_date": "2020-05-11"
@@ -1305,6 +1305,21 @@
     "start_date": "2019-12-16"
   },
   {
+    "instructors": "John Robinson,Sam Mangham,Adam Hill",
+    "end_date": "2019-12-17",
+    "url": "https://southampton-rsg.github.io/2019-12-16-southampton-swc/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "B32/3077, Highfield Campus",
+    "longitude": null,
+    "slug": "2019-12-16-southampton-swc",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Southampton",
+    "latitude": null,
+    "start_date": "2019-12-16"
+  },
+  {
     "instructors": "William Close,Lisa Abernathy-Close,Samuel Hansen",
     "end_date": "2019-12-13",
     "url": "https://umswc.github.io/2019-12-12-umich/",
@@ -1693,6 +1708,21 @@
     "host_name": "University of Manchester",
     "latitude": 53.464003,
     "start_date": "2019-11-18"
+  },
+  {
+    "instructors": "Christopher Cave-Ayland,Lucy Whalley,Diego Alonso Álvarez,Iain Stenson,Chris Cooling",
+    "end_date": "2019-11-15",
+    "url": "https://kmichali.github.io/2019-11-14-Imperial/",
+    "country": "GB",
+    "curriculum": "swc-plotting",
+    "venue": "Imperial College London",
+    "longitude": -0.174877,
+    "slug": "2019-11-14-Imperial",
+    "tag_name": "SWC",
+    "helpers": "Amit Mandal,John Pinney,Jeremy Cohen,Santiago Lacalle Puig",
+    "host_name": "Imperial College London",
+    "latitude": 51.4988,
+    "start_date": "2019-11-14"
   },
   {
     "instructors": "Neal Davis,Elizabeth Wickes,Maxim Belkin",
@@ -5190,6 +5220,21 @@
     "start_date": "2019-02-28"
   },
   {
+    "instructors": "Anthony Shaw,Mandes Schönherr",
+    "end_date": "2019-02-27",
+    "url": "https://mand35.github.io/2019-03-26-scion/",
+    "country": "NZ",
+    "curriculum": "swc-r",
+    "venue": "SCION Rotorua, NewZealand",
+    "longitude": 176.265073,
+    "slug": "2019-03-26-Scion",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Scion New Zealand",
+    "latitude": -38.160336,
+    "start_date": "2019-02-26"
+  },
+  {
     "instructors": "Blake Joyce,Kristina Riemer,Upendra Kumar Devisetty,Dawson Fairbanks,Chun Ly,Susan Miller",
     "end_date": "2019-02-24",
     "url": "https://UA-Carpentries-Workshops.github.io/2019-02-23-Tucson",
@@ -5668,6 +5713,21 @@
     "host_name": "University of Chicago",
     "latitude": 41.791836,
     "start_date": "2019-01-20"
+  },
+  {
+    "instructors": "Nelle Varoquaux,Scott Peterson,Nima Hejazi",
+    "end_date": "2019-01-18",
+    "url": "https://bids.github.io/2019-01-17-bids/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "Berkeley Institute for Data Science",
+    "longitude": -122.259556,
+    "slug": "2019-01-17-BIDS",
+    "tag_name": "SWC",
+    "helpers": "Daniela Ushizima",
+    "host_name": "Berkeley Institute for Data Science",
+    "latitude": 37.872495,
+    "start_date": "2019-01-17"
   },
   {
     "instructors": "John Pellman,Cesar Arias,David Balducci",
@@ -6358,6 +6418,21 @@
     "host_name": "University of Edinburgh",
     "latitude": 55.96286,
     "start_date": "2018-11-21"
+  },
+  {
+    "instructors": "Anthony Shaw,Olivia Burge,Chris Scott",
+    "end_date": "2018-11-21",
+    "url": "https://orb16.github.io/2018-11-20-manaakiWhenua/",
+    "country": "NZ",
+    "curriculum": "swc-r",
+    "venue": "Manaaki Whenua Auckland",
+    "longitude": 174.84854,
+    "slug": "2018-11-20-MWLR-AKL",
+    "tag_name": "SWC",
+    "helpers": "Nooriyah Lohani",
+    "host_name": "Manaaki Whenua Landcare Research",
+    "latitude": -36.88352,
+    "start_date": "2018-11-20"
   },
   {
     "instructors": "Raphaël Grolimund,Jérôme Chaptinel,antoine masson,Mathilde Panes",
@@ -7423,6 +7498,21 @@
     "host_name": "University of Edinburgh",
     "latitude": 55.921711,
     "start_date": "2018-09-11"
+  },
+  {
+    "instructors": "Raniere Silva",
+    "end_date": "2018-09-11",
+    "url": "https://rgaiacs.github.io/2018-09-10-labvis/",
+    "country": "BR",
+    "curriculum": null,
+    "venue": "Universidade Federal do Ceará",
+    "longitude": -38.57431,
+    "slug": "2018-09-10-labvis",
+    "tag_name": "SWC",
+    "helpers": "Raniere Silva",
+    "host_name": "Universidade Federal do Ceará",
+    "latitude": -3.74576,
+    "start_date": "2018-09-10"
   },
   {
     "instructors": "Samniqueka Halsey",
@@ -20205,6 +20295,21 @@
     "start_date": "2015-07-06"
   },
   {
+    "instructors": "Tom Remenyi,Michael Sumner",
+    "end_date": "2015-07-31",
+    "url": "https://datasciencehobart.github.io/2015-06-29-DataScienceHobart/",
+    "country": "AU",
+    "curriculum": null,
+    "venue": "IMAS",
+    "longitude": 147.3358,
+    "slug": "2015-06-29-DataScienceHobart",
+    "tag_name": "SWC",
+    "helpers": "Stuart Corney,Neal Young,Roland Warner",
+    "host_name": "Institute for Marine and Antarctic Studies",
+    "latitude": -42.8862,
+    "start_date": "2015-07-03"
+  },
+  {
     "instructors": "Areej Alsheikh-Hussain,Sam Hames,Paula Andrea Martinez,Amanda Miotto,Mitchell Stanton-Cook,Belinda Weaver",
     "end_date": "2015-07-03",
     "url": "https://bio-swc-bne.github.io/2015-07-02-UQ/",
@@ -20742,6 +20847,21 @@
     "helpers": null,
     "host_name": "Federal Reserve Board",
     "latitude": 38.896947,
+    "start_date": "2015-05-27"
+  },
+  {
+    "instructors": "Harriet Dashnow,Andrew Lonsdale,Juan Nunez-Iglesias,Scott Ritchie,Clare Sloggett",
+    "end_date": "2015-05-28",
+    "url": "https://combine-australia.github.io/2015-05-27-SWC-MCRI/",
+    "country": "AU",
+    "curriculum": null,
+    "venue": "Murdoch Childrens Research Institute",
+    "longitude": 144.948978,
+    "slug": "2015-05-27-SWC-MCRI",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Murdoch Childrens Research Institute",
+    "latitude": -37.793932,
     "start_date": "2015-05-27"
   },
   {
