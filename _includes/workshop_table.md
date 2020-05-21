@@ -17,9 +17,5 @@
 </td>
   </tr>
   {% endfor %}
-  <tr>
-<td>
-  <em><a href="{{site.baseurl}}/workshops/">See more...</a></em>
-</td>
-  </tr>
+
 </table>
