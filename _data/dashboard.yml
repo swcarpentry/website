@@ -281,10 +281,10 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/733'}
   - {number: 734, title: 'Episode 4: the staging area should be explained earlier',
     updated: '2020-05-05', url: 'https://github.com/swcarpentry/git-novice/issues/734'}
-  - {number: 735, title: Incorrect link to install instructions on setup page, updated: '2020-05-06',
-    url: 'https://github.com/swcarpentry/git-novice/issues/735'}
   - {number: 736, title: 'Episode 6 - Ignoring Things: Reference to other option for
       ignoring files', updated: '2020-05-17', url: 'https://github.com/swcarpentry/git-novice/issues/736'}
+  - {number: 735, title: Incorrect link to install instructions on setup page, updated: '2020-05-20',
+    url: 'https://github.com/swcarpentry/git-novice/issues/735'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -746,7 +746,7 @@ records:
   - {number: 468, title: A better way to begin Lesson 3, updated: '2020-04-10', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/468'}
   - {number: 472, title: 'Typo in Episode 11, ''Reading and Writing CSV Files''',
     updated: '2020-05-05', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/472'}
-  - {number: 474, title: Fluid Representations in Addressing Data, updated: '2020-05-20',
+  - {number: 474, title: Fluid Representations in Addressing Data, updated: '2020-05-21',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/474'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
@@ -885,7 +885,7 @@ records:
   - {number: 632, title: Update figure generation scripts to automatically export
       image files, updated: '2020-05-07', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/632'}
   - {number: 633, title: 'Current release build broken - Rv4.0 incompatibilities?',
-    updated: '2020-05-08', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/633'}
+    updated: '2020-05-20', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/633'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -1098,4 +1098,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-20T16:21:04Z'
+timestamp: '2020-05-21T16:21:50Z'

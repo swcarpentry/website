@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Mark Dawson",
+    "end_date": "2020-05-21",
+    "url": "https://sa2c.github.io/2020-05-20-swansea",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "Singleton Campus, Swansea University",
+    "longitude": -3.982323,
+    "slug": "2020-05-20-swansea",
+    "tag_name": "SWC",
+    "helpers": "Chennakesava Kadapa,Michele Mesiti,Ben Thorpe",
+    "host_name": "Swansea University",
+    "latitude": 51.609054,
+    "start_date": "2020-05-20"
+  },
+  {
     "instructors": "Phillip Doehle,Dave Lampert",
     "end_date": "2020-05-12",
     "url": "https://osu-carpentry.github.io/2020-05-11-okstate/",

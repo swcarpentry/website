@@ -1,17 +1,17 @@
 [
   {
-    "instructors": "Mark Dawson",
-    "end_date": "2020-05-21",
-    "url": "https://sa2c.github.io/2020-05-20-swansea",
-    "country": "GB",
-    "curriculum": "swc-python",
-    "venue": "Singleton Campus, Swansea University",
-    "longitude": -3.982323,
-    "slug": "2020-05-20-swansea",
+    "instructors": "Logan Cox,Mark Laufersweiler,Michael Malahy",
+    "end_date": "2020-06-10",
+    "url": "https://oulib-swc.github.io/2020-05-20-ou-swc-online/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "University of Oklahoma Libraries  (online)",
+    "longitude": -97.445845,
+    "slug": "2020-05-20-ou-swc-online",
     "tag_name": "SWC",
-    "helpers": "Chennakesava Kadapa,Michele Mesiti,Ben Thorpe",
-    "host_name": "Swansea University",
-    "latitude": 51.609054,
+    "helpers": "Mark Laufersweiler,Tyler Pearson,Claire Curry,Horst Severini,Jim Ferguson,Amanda Schilling,Toni Hoberecht,Krista Kezbers (Olson),Theo Acker,mahbobeh lesani",
+    "host_name": "University of Oklahoma",
+    "latitude": 35.207982,
     "start_date": "2020-05-20"
   },
   {
