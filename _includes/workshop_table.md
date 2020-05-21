@@ -1,5 +1,5 @@
 <table class="table table-striped workshops"  style="width: 100%;">
-  {% for w in site.data.swc_upcoming_workshops %}
+  {% for w in workshop_list %}
   <tr>
 <td>
   <img src="{{site.filesurl}}/flags/{{site.flag_size}}/{{w.country | downcase}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' ' | downcase}}" />
