@@ -39,26 +39,10 @@ excerpt: listing of all our past workshops
   {% endfor %}
 </div>
 
-<table class="table table-striped workshops" style="width: 100%;">
-  {% for w in site.data.swc_past_workshops %}
-  <tr>
-    <td>
-      {% if flag != "" %}
-      <img src="{{site.filesurl}}/flags/{{site.flag_size}}/{{w.country | downcase}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' '}}" style="max-width: inherit;" />
-      {% endif %}
-    </td>
-    <td class="link">
-      <a href="{{w.url}}">{{w.venue}}</a>
-      {% if w.instructors %}
-      <br/>
-      <b>Instructors:</b> {{ w.instructors | replace: ",", ", "}}
-      {% endif %}
-      {% if w.helpers %}
-      <br/>
-      <b>Helpers:</b> {{ w.helpers  | replace: ",", ", "}}
-      {% endif %}
-    </td>
-    <td class="date" style="width: 20%">{{w.start_date | date: "%b %-d"}} - {{w.end_date | date: "%b %-d, %Y"}}</td>
-  </tr>
-  {% endfor %}
-</table>
+<div class="row">
+  <div class="medium-12 columns">
+    <h3>Past Workshops</h3>
+    {% assign workshop_list = site.data.swc_past_workshops %}
+    {% include workshop_table.md %}
+  </div>
+</div><!--end of row-->
