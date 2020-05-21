@@ -29,7 +29,7 @@ excerpt: Teaching researchers the foundational computing skills they need to get
 </div> <!--end of row-->
 
 <div class="row">
-  <div class="medium-8 columns">
+  <div class="medium-12 columns">
     <h3>Recent Blog Posts</h3>
     <p>
       In addition of the posts below,
@@ -41,9 +41,12 @@ excerpt: Teaching researchers the foundational computing skills they need to get
     </p>
     {% include list-posts entries='10' %}
   </div>
-  <div class="medium-4 columns">
+</div>
+
+<div class="row">
+  <div class="medium-12 columns">
     <h3>Upcoming Workshops</h3>
-    <table class="table table-striped workshops">
+    <table class="table table-striped workshops"  style="width: 100%;">
       {% for w in site.data.swc_upcoming_workshops %}
       <tr>
 	<td>
