@@ -60,6 +60,21 @@
     "start_date": "2020-05-28"
   },
   {
+    "instructors": "Stéphane Guillou,Mark Crowe",
+    "end_date": "2020-06-02",
+    "url": "https://qcif-training.github.io/2020-06-01-QCIF-R/",
+    "country": "AU",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Queensland Cyber Infrastructure Foundation",
+    "longitude": 153.014713,
+    "slug": "2020-06-01-QCIF-R",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.499226,
+    "start_date": "2020-06-01"
+  },
+  {
     "instructors": "Eric Jankowski,Travis Seaborn,Erich Seamon,Mike Henry,James Van Leuven,Amanda Culley",
     "end_date": "2020-06-11",
     "url": "https://bsurc.github.io/2020-06-08-inl-bootcamp/",
@@ -118,6 +133,21 @@
     "host_name": "Griffith University",
     "latitude": -27.552941,
     "start_date": "2020-07-06"
+  },
+  {
+    "instructors": "Paula Andrea Martinez,Jason Bell,Catherine Kim,Kevin Bairos-Novak",
+    "end_date": "2020-07-09",
+    "url": "https://qcif-training.github.io/2020-07-08-QCIF-R/",
+    "country": "AU",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Queensland Cyber Infrastructure Foundation",
+    "longitude": 153.014713,
+    "slug": "2020-07-08-QCIF-R",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.499226,
+    "start_date": "2020-07-08"
   },
   {
     "instructors": "Amanda Miotto",

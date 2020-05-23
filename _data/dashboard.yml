@@ -334,6 +334,7 @@ records:
     updated: '2020-02-01', url: 'https://github.com/swcarpentry/git-novice/pull/722'}
   - {number: 729, title: Remove confusing `rm` text in episode 3, updated: '2020-03-11',
     url: 'https://github.com/swcarpentry/git-novice/pull/729'}
+  - {number: 739, title: Draft of new setup, updated: '2020-05-23', url: 'https://github.com/swcarpentry/git-novice/pull/739'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -1073,6 +1074,8 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1657'}
   - {number: 1656, title: 'What is the purpose of git_version.py?', updated: '2020-05-18',
     url: 'https://github.com/carpentries/amy/issues/1656'}
+  - {number: 1668, title: Update search matching to include secondary email, updated: '2020-05-22',
+    url: 'https://github.com/carpentries/amy/issues/1668'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1080,11 +1083,9 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1646'}
   - {number: 1655, title: WIP - DNM - Online workshop question, updated: '2020-05-10',
     url: 'https://github.com/carpentries/amy/pull/1655'}
-  - {number: 1665, title: removes git_version.py, updated: '2020-05-18', url: 'https://github.com/carpentries/amy/pull/1665'}
-  - {number: 1663, title: make Administrator field required, updated: '2020-05-18',
+  - {number: 1665, title: removes git_version.py, updated: '2020-05-22', url: 'https://github.com/carpentries/amy/pull/1665'}
+  - {number: 1663, title: make Administrator field required, updated: '2020-05-23',
     url: 'https://github.com/carpentries/amy/pull/1663'}
-  - {number: 1662, title: include redis/docker instructions in local setup, updated: '2020-05-19',
-    url: 'https://github.com/carpentries/amy/pull/1662'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1099,4 +1100,4 @@ records:
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   - {number: 1168, title: Online workshops, updated: '2020-05-22', url: 'https://github.com/swcarpentry/website/pull/1168'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-22T16:22:39Z'
+timestamp: '2020-05-23T16:23:04Z'
