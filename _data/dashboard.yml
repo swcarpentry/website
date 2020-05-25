@@ -136,8 +136,6 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/998'}
   - {number: 869, title: 'Include a non-.pdb file in ''molecules'' directory to better
       illustrate behaviour of wildcard in wc *.pdb  ', updated: '2019-07-28', url: 'https://github.com/swcarpentry/shell-novice/issues/869'}
-  - {number: 1014, title: Clarification of longest.sh script solution, updated: '2019-08-19',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/1014'}
   - {number: 234, title: lesson rearrangement, updated: '2019-08-19', url: 'https://github.com/swcarpentry/shell-novice/issues/234'}
   - {number: 1001, title: '[email feedback] move and copy cheatsheet', updated: '2019-08-20',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1001'}
@@ -168,16 +166,16 @@ records:
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
-  - {number: 1072, title: Added image of shell command anatomy., updated: '2020-04-17',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/1072'}
-  - {number: 992, title: Made changes and added General Syntax episode., updated: '2020-04-17',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2020-04-17', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
   - {number: 491, title: 'Episode 7: Add grep -r exercise', updated: '2020-04-17',
     url: 'https://github.com/swcarpentry/shell-novice/pull/491'}
   - {number: 1109, title: Clarify directory navigation terminology, updated: '2020-05-20',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1109'}
+  - {number: 1072, title: Added image of shell command anatomy., updated: '2020-05-24',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/1072'}
+  - {number: 992, title: Made changes and added General Syntax episode., updated: '2020-05-24',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -283,7 +281,7 @@ records:
     updated: '2020-05-05', url: 'https://github.com/swcarpentry/git-novice/issues/734'}
   - {number: 736, title: 'Episode 6 - Ignoring Things: Reference to other option for
       ignoring files', updated: '2020-05-17', url: 'https://github.com/swcarpentry/git-novice/issues/736'}
-  - {number: 735, title: Incorrect link to install instructions on setup page, updated: '2020-05-22',
+  - {number: 735, title: Incorrect link to install instructions on setup page, updated: '2020-05-25',
     url: 'https://github.com/swcarpentry/git-novice/issues/735'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
@@ -909,6 +907,8 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/634'}
   - {number: 636, title: 'added updated screen shots, clarified language about variable
       names, …', updated: '2020-05-18', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/636'}
+  - {number: 637, title: fix R version to use R old-release, updated: '2020-05-25',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/637'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1098,6 +1098,6 @@ records:
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
-  - {number: 1168, title: Online workshops, updated: '2020-05-22', url: 'https://github.com/swcarpentry/website/pull/1168'}
+  - {number: 1168, title: Online workshops, updated: '2020-05-25', url: 'https://github.com/swcarpentry/website/pull/1168'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-24T16:23:53Z'
+timestamp: '2020-05-25T16:24:00Z'
