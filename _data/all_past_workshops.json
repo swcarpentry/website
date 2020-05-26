@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD:_data/all_past_workshops.json
     "instructors": "Karen Soenen",
     "end_date": "2020-05-22",
     "url": "https://k-rns.github.io/2020-05-22-WHOI-online/",
@@ -30,6 +31,8 @@
     "start_date": "2020-05-21"
   },
   {
+=======
+>>>>>>> gh-pages:_data/swc_past_workshops.json
     "instructors": "Mark Dawson",
     "end_date": "2020-05-21",
     "url": "https://sa2c.github.io/2020-05-20-swansea",
@@ -45,6 +48,7 @@
     "start_date": "2020-05-20"
   },
   {
+<<<<<<< HEAD:_data/all_past_workshops.json
     "instructors": "Mateusz Kuzak,Malvika Sharan,Fotis Psomopoulos,Allegra Via",
     "end_date": "2020-05-20",
     "url": "https://mkuzak.github.io/2020-05-19-TtT-online-elixir/",
@@ -105,6 +109,8 @@
     "start_date": "2020-05-12"
   },
   {
+=======
+>>>>>>> gh-pages:_data/swc_past_workshops.json
     "instructors": "Phillip Doehle,Dave Lampert",
     "end_date": "2020-05-12",
     "url": "https://osu-carpentry.github.io/2020-05-11-okstate/",

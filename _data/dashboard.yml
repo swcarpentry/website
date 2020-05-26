@@ -136,8 +136,6 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/998'}
   - {number: 869, title: 'Include a non-.pdb file in ''molecules'' directory to better
       illustrate behaviour of wildcard in wc *.pdb  ', updated: '2019-07-28', url: 'https://github.com/swcarpentry/shell-novice/issues/869'}
-  - {number: 1014, title: Clarification of longest.sh script solution, updated: '2019-08-19',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/1014'}
   - {number: 234, title: lesson rearrangement, updated: '2019-08-19', url: 'https://github.com/swcarpentry/shell-novice/issues/234'}
   - {number: 1001, title: '[email feedback] move and copy cheatsheet', updated: '2019-08-20',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1001'}
@@ -168,16 +166,16 @@ records:
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
-  - {number: 1072, title: Added image of shell command anatomy., updated: '2020-04-17',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/1072'}
-  - {number: 992, title: Made changes and added General Syntax episode., updated: '2020-04-17',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2020-04-17', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
   - {number: 491, title: 'Episode 7: Add grep -r exercise', updated: '2020-04-17',
     url: 'https://github.com/swcarpentry/shell-novice/pull/491'}
   - {number: 1109, title: Clarify directory navigation terminology, updated: '2020-05-20',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1109'}
+  - {number: 1072, title: Added image of shell command anatomy., updated: '2020-05-24',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/1072'}
+  - {number: 992, title: Made changes and added General Syntax episode., updated: '2020-05-24',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -281,10 +279,10 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/733'}
   - {number: 734, title: 'Episode 4: the staging area should be explained earlier',
     updated: '2020-05-05', url: 'https://github.com/swcarpentry/git-novice/issues/734'}
-  - {number: 735, title: Incorrect link to install instructions on setup page, updated: '2020-05-06',
-    url: 'https://github.com/swcarpentry/git-novice/issues/735'}
   - {number: 736, title: 'Episode 6 - Ignoring Things: Reference to other option for
       ignoring files', updated: '2020-05-17', url: 'https://github.com/swcarpentry/git-novice/issues/736'}
+  - {number: 735, title: Incorrect link to install instructions on setup page, updated: '2020-05-25',
+    url: 'https://github.com/swcarpentry/git-novice/issues/735'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -334,6 +332,7 @@ records:
     updated: '2020-02-01', url: 'https://github.com/swcarpentry/git-novice/pull/722'}
   - {number: 729, title: Remove confusing `rm` text in episode 3, updated: '2020-03-11',
     url: 'https://github.com/swcarpentry/git-novice/pull/729'}
+  - {number: 739, title: Draft of new setup, updated: '2020-05-23', url: 'https://github.com/swcarpentry/git-novice/pull/739'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -746,7 +745,7 @@ records:
   - {number: 468, title: A better way to begin Lesson 3, updated: '2020-04-10', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/468'}
   - {number: 472, title: 'Typo in Episode 11, ''Reading and Writing CSV Files''',
     updated: '2020-05-05', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/472'}
-  - {number: 474, title: Fluid Representations in Addressing Data, updated: '2020-05-20',
+  - {number: 474, title: Fluid Representations in Addressing Data, updated: '2020-05-21',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/474'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
@@ -885,7 +884,7 @@ records:
   - {number: 632, title: Update figure generation scripts to automatically export
       image files, updated: '2020-05-07', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/632'}
   - {number: 633, title: 'Current release build broken - Rv4.0 incompatibilities?',
-    updated: '2020-05-08', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/633'}
+    updated: '2020-05-20', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/633'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -908,6 +907,8 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/634'}
   - {number: 636, title: 'added updated screen shots, clarified language about variable
       names, …', updated: '2020-05-18', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/636'}
+  - {number: 637, title: fix R version to use R old-release, updated: '2020-05-25',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/637'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1073,6 +1074,8 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1657'}
   - {number: 1656, title: 'What is the purpose of git_version.py?', updated: '2020-05-18',
     url: 'https://github.com/carpentries/amy/issues/1656'}
+  - {number: 1668, title: Update search matching to include secondary email, updated: '2020-05-22',
+    url: 'https://github.com/carpentries/amy/issues/1668'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1080,11 +1083,9 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1646'}
   - {number: 1655, title: WIP - DNM - Online workshop question, updated: '2020-05-10',
     url: 'https://github.com/carpentries/amy/pull/1655'}
-  - {number: 1665, title: removes git_version.py, updated: '2020-05-18', url: 'https://github.com/carpentries/amy/pull/1665'}
-  - {number: 1663, title: make Administrator field required, updated: '2020-05-18',
+  - {number: 1665, title: removes git_version.py, updated: '2020-05-22', url: 'https://github.com/carpentries/amy/pull/1665'}
+  - {number: 1663, title: make Administrator field required, updated: '2020-05-23',
     url: 'https://github.com/carpentries/amy/pull/1663'}
-  - {number: 1662, title: include redis/docker instructions in local setup, updated: '2020-05-19',
-    url: 'https://github.com/carpentries/amy/pull/1662'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1097,5 +1098,6 @@ records:
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
+  - {number: 1168, title: Online workshops, updated: '2020-05-25', url: 'https://github.com/swcarpentry/website/pull/1168'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-20T16:21:04Z'
+timestamp: '2020-05-25T16:24:00Z'
