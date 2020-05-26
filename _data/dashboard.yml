@@ -87,8 +87,6 @@ records:
   - {number: 822, title: Addition of contact information of senior instructors or
       video clips of well run workshops in instructor notes., updated: '2018-08-07',
     url: 'https://github.com/swcarpentry/shell-novice/issues/822'}
-  - {number: 840, title: 'Episode 5: Include explanation of "datafile"', updated: '2018-08-29',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/840'}
   - {number: 837, title: 'Has anyone considered using MobaXterm as a replacement for
       putty/bash etc.?', updated: '2018-08-29', url: 'https://github.com/swcarpentry/shell-novice/issues/837'}
   - {number: 847, title: 'Add ls -a example ', updated: '2018-09-27', url: 'https://github.com/swcarpentry/shell-novice/issues/847'}
@@ -163,6 +161,8 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1086'}
   - {number: 1107, title: ' Episode 6:  Explicitly describe special variables $2 and
       $3 upon introduction. ', updated: '2020-05-15', url: 'https://github.com/swcarpentry/shell-novice/issues/1107'}
+  - {number: 840, title: 'Episode 5: Include explanation of "datafile"', updated: '2020-05-26',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/840'}
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
@@ -176,6 +176,7 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/1072'}
   - {number: 992, title: Made changes and added General Syntax episode., updated: '2020-05-24',
     url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
+  - {number: 1110, title: fix-issue-840 instructor, updated: '2020-05-26', url: 'https://github.com/swcarpentry/shell-novice/pull/1110'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -608,11 +609,11 @@ records:
     updated: '2020-03-26', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/769'}
   - {number: 819, title: Setup suggestion - Usage of Google Colab notebooks, updated: '2020-05-04',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/819'}
-  - {number: 529, title: Creating Functions - Explain +=, updated: '2020-05-04', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/529'}
   - {number: 821, title: '03-matplotlib, use matplotlib.pyplot.subplots instead of  matplotlib.pyplot.figure',
     updated: '2020-05-13', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/821'}
   - {number: 815, title: Add flowchart illustration for for loops, updated: '2020-05-19',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/815'}
+  - {number: 529, title: Creating Functions - Explain +=, updated: '2020-05-26', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/529'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -1098,6 +1099,5 @@ records:
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
-  - {number: 1168, title: Online workshops, updated: '2020-05-25', url: 'https://github.com/swcarpentry/website/pull/1168'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-25T16:24:00Z'
+timestamp: '2020-05-26T15:58:12Z'
