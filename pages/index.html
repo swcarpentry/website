@@ -32,7 +32,7 @@ excerpt: Teaching researchers the foundational computing skills they need to get
 <div class="row">
   <div class="medium-12 columns">
     <h3>Upcoming Workshops</h3>
-    {% assign workshop_list = site.data.swc_upcoming_workshops %}
+    {% assign workshop_list = site.data.all_upcoming_workshops | where_exp: "item", "item.tag_name contains 'SWC'" %}
     {% include workshop_table.md %}
   </div>
 

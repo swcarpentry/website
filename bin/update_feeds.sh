@@ -8,7 +8,7 @@ GITHUB_PAT_USER=fmichonneau # user who generated the GITHUB PAT used here
 cd .. &&
     mkdir feed-data &&
     cd feed-data &&
-    curl --remote-name-all https://feeds.carpentries.org/swc_{past,upcoming}_workshops.json &&
+    curl --remote-name-all https://feeds.carpentries.org/all_{past,upcoming}_workshops.json &&
     find . -name '*.json' -exec cp {} ../"$REPO_NAME"/_data/ \;
 
 cd ../"$REPO_NAME"  || exit
