@@ -1,25 +1,15 @@
 <table class="table table-striped" style="width: 100%;">
 {% for w in workshop_list  %}
       {% if w.instructors %}
-
-     {% assign asterisks = "" %}
      
      {% assign tags = w.tag_name | split: "," | downcase %}
-     
-     {% if tags contains "ttt" %}
-         {% continue %}
-     {% elsif tags contains "swc" %}
-         {% assign workshop_type = "swc" %}
-     {% elsif tags contains "dc" %}
-         {% assign workshop_type = "dc" %}
-     {% elsif tags contains "lc" %}
-         {% assign workshop_type = "lc" %}
-     {% elsif tags contains "circuits" %}
-         {% assign workshop_type = "cp" %}
-         {% assign asterisks = " **" %}
-     {% else %}
-         {% assign workshop_type = "cp-unknown" %}
+
+     {% assign asterisks = "" %}
+     {% if tags contains "circuits" %}
+          {% assign asterisks = " **" %}
      {% endif %}
+
+
 
     <tr>
 
@@ -31,6 +21,8 @@
       {% if tags contains "online" %}
       <img src="{{site.filesurl}}/flags/{{site.flag_size}}/w3.png" title="Online" alt="globe image" class="flags"/>
       {% endif %}
+
+
 
       <a href="{{w.url}}">{{ w.venue | strip_html }}{{ asterisks }}</a>
       {% if w.instructors %}
