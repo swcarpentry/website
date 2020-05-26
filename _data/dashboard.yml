@@ -613,7 +613,6 @@ records:
     updated: '2020-05-13', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/821'}
   - {number: 815, title: Add flowchart illustration for for loops, updated: '2020-05-19',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/815'}
-  - {number: 529, title: Creating Functions - Explain +=, updated: '2020-05-26', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/529'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -644,8 +643,6 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/607'}
   - {number: 611, title: episode 05 - another way to get start of string, updated: '2019-02-17',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/611'}
-  - {number: 544, title: Explain += in Creating Functions - Issue#529, updated: '2019-05-03',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/544'}
   - {number: 649, title: Adding animated gif on for loop from pythontutor, updated: '2019-05-14',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/649'}
   - {number: 659, title: Add list type under variables, updated: '2019-07-31', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/659'}
@@ -1100,4 +1097,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-26T15:58:12Z'
+timestamp: '2020-05-26T16:23:56Z'
