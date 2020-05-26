@@ -28,8 +28,25 @@ excerpt: Teaching researchers the foundational computing skills they need to get
   </div>
 </div> <!--end of row-->
 
+
 <div class="row">
-  <div class="medium-8 columns">
+  <div class="medium-12 columns">
+    <h3>Upcoming Workshops</h3>
+    {% assign workshop_list = site.data.all_upcoming_workshops | where_exp: "item", "item.tag_name contains 'SWC'" %}
+    {% include workshop_table.md %}
+  </div>
+
+    <tr>
+<td>
+  <em><a href="{{site.baseurl}}/workshops/past/">See our past workshops</a></em>
+</td>
+  </tr>
+</div><!--end of row-->
+
+
+
+<div class="row">
+  <div class="medium-12 columns">
     <h3>Recent Blog Posts</h3>
     <p>
       In addition of the posts below,
@@ -41,32 +58,4 @@ excerpt: Teaching researchers the foundational computing skills they need to get
     </p>
     {% include list-posts entries='10' %}
   </div>
-  <div class="medium-4 columns">
-    <h3>Upcoming Workshops</h3>
-    <table class="table table-striped workshops">
-      {% for w in site.data.swc_upcoming_workshops %}
-      <tr>
-	<td>
-	  <img src="{{site.filesurl}}/flags/{{site.flag_size}}/{{w.country | downcase}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' ' | downcase}}" />
-	  <a href="{{w.url}}">{{w.venue}}</a>
-          <br/>
-	  {{w.start_date | date: "%b %-d"}} - {{w.end_date | date: "%b %-d, %Y"}}
-          {% if w.instructors %}
-          <br/>
-          <b>Instructors:</b> {{ w.instructors | replace: ",", ", "}}
-          {% endif %}
-          {% if w.helpers %}
-          <br/>
-          <b>Helpers:</b> {{ w.helpers  | replace: ",", ", "}}
-          {% endif %}
-	</td>
-      </tr>
-      {% endfor %}
-      <tr>
-	<td>
-	  <em><a href="{{site.baseurl}}/workshops/">See more...</a></em>
-	</td>
-      </tr>
-    </table>
-  </div>
-</div><!--end of row-->
+</div>

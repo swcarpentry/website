@@ -9,11 +9,11 @@ redirect_from:
 excerpt: listing of all our past workshops
 ---
 
-{% assign first_workshop_date = site.data.swc_past_workshops | group_by: "start_date" | sort: "name" | map: "name" | first %}
+{% assign first_workshop_date = site.data.all_past_workshops | where_exp: "item", "item.tag_name contains 'SWC'" | group_by: "start_date" | sort: "name" | map: "name" | first %}
 
-{% assign n_workshops = site.data.swc_past_workshops | size %}
+{% assign n_workshops = site.data.all_past_workshops | where_exp: "item", "item.tag_name contains 'SWC'" | size %}
 
-{% assign flags = site.data.swc_past_workshops | group_by: "country" | sort: "name" | map: "name"  %}
+{% assign flags = site.data.all_past_workshops | where_exp: "item", "item.tag_name contains 'SWC'" | group_by: "country" | sort: "name" | map: "name"  %}
 
 {% assign n_countries = flags | size %}
 
@@ -39,26 +39,10 @@ excerpt: listing of all our past workshops
   {% endfor %}
 </div>
 
-<table class="table table-striped workshops" style="width: 100%;">
-  {% for w in site.data.swc_past_workshops %}
-  <tr>
-    <td>
-      {% if flag != "" %}
-      <img src="{{site.filesurl}}/flags/{{site.flag_size}}/{{w.country | downcase}}.png" title="{{w.country | replace: '-', ' '}}" alt="{{w.country | replace: '-', ' '}}" style="max-width: inherit;" />
-      {% endif %}
-    </td>
-    <td class="link">
-      <a href="{{w.url}}">{{w.venue}}</a>
-      {% if w.instructors %}
-      <br/>
-      <b>Instructors:</b> {{ w.instructors | replace: ",", ", "}}
-      {% endif %}
-      {% if w.helpers %}
-      <br/>
-      <b>Helpers:</b> {{ w.helpers  | replace: ",", ", "}}
-      {% endif %}
-    </td>
-    <td class="date" style="width: 20%">{{w.start_date | date: "%b %-d"}} - {{w.end_date | date: "%b %-d, %Y"}}</td>
-  </tr>
-  {% endfor %}
-</table>
+<div class="row">
+  <div class="medium-12 columns">
+    <h3>Past Workshops</h3>
+    {% assign workshop_list = site.data.all_past_workshops | where_exp: "item", "item.tag_name contains 'SWC'" %}
+    {% include workshop_table.md %}
+  </div>
+</div><!--end of row-->
