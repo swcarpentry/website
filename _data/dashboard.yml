@@ -609,10 +609,14 @@ records:
     updated: '2020-03-26', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/769'}
   - {number: 819, title: Setup suggestion - Usage of Google Colab notebooks, updated: '2020-05-04',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/819'}
-  - {number: 821, title: '03-matplotlib, use matplotlib.pyplot.subplots instead of  matplotlib.pyplot.figure',
-    updated: '2020-05-13', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/821'}
   - {number: 815, title: Add flowchart illustration for for loops, updated: '2020-05-19',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/815'}
+  - {number: 824, title: '03-matplotlib: rename axes1 -> ax1', updated: '2020-05-26',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/824'}
+  - {number: 823, title: '02-numpy: inconsistent text/images for array indexing and
+      method calls', updated: '2020-05-26', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/823'}
+  - {number: 825, title: adding types of objects to lesson 1, updated: '2020-05-27',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/825'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -684,6 +688,10 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/814'}
   - {number: 822, title: Add a reference to the API documentation and introduce the
       concept, updated: '2020-05-19', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/822'}
+  - {number: 827, title: '[FIX] 02-numpy: update zero index image', updated: '2020-05-27',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/827'}
+  - {number: 826, title: '[FIX] 02-numpy: change method call to function call in images',
+    updated: '2020-05-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/826'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -964,6 +972,8 @@ records:
   issues:
   - {number: 15, title: 'Test parameterisation ', updated: '2017-09-02', url: 'https://github.com/katyhuff/python-testing/issues/15'}
   - {number: 18, title: Add testing for raised exception, updated: '2018-02-09', url: 'https://github.com/katyhuff/python-testing/issues/18'}
+  - {number: 31, title: 'Add this lesson to the Carpentries Incubator?', updated: '2020-05-26',
+    url: 'https://github.com/katyhuff/python-testing/issues/31'}
   pulls:
   - {number: 11, title: introduce unittest, updated: '2017-05-04', url: 'https://github.com/katyhuff/python-testing/pull/11'}
   - {number: 30, title: Contributions back from cs491tc, updated: '2019-11-12', url: 'https://github.com/katyhuff/python-testing/pull/30'}
@@ -1097,4 +1107,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-26T16:23:56Z'
+timestamp: '2020-05-27T16:24:12Z'

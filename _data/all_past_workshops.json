@@ -1,5 +1,20 @@
 [
   {
+    "instructors": null,
+    "end_date": "2020-05-27",
+    "url": "https://edcarp.github.io/2020-05-26-sfc-online/",
+    "country": "GB",
+    "curriculum": "dc-socsci-python",
+    "venue": "ONLINE",
+    "longitude": -3.187347,
+    "slug": "2020-05-26-sfc-online",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": 55.945358,
+    "start_date": "2020-05-26"
+  },
+  {
     "instructors": "Karen Soenen",
     "end_date": "2020-05-22",
     "url": "https://k-rns.github.io/2020-05-22-WHOI-online/",
@@ -42,6 +57,21 @@
     "helpers": "Chennakesava Kadapa,Michele Mesiti,Ben Thorpe",
     "host_name": "Swansea University",
     "latitude": 51.609054,
+    "start_date": "2020-05-20"
+  },
+  {
+    "instructors": "Lex Nederbragt,Annika Rockenberger",
+    "end_date": "2020-05-27",
+    "url": "https://uio-carpentry.github.io/2020-05-20-uio-online/",
+    "country": "NO",
+    "curriculum": "mix-and-match",
+    "venue": "University of Oslo",
+    "longitude": 10.7237,
+    "slug": "2020-05-20-uio-online",
+    "tag_name": "SWC,online,Circuits",
+    "helpers": "Kyrre Låberg,Dan Michael Heggø",
+    "host_name": "University of Oslo",
+    "latitude": 59.94003,
     "start_date": "2020-05-20"
   },
   {
