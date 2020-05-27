@@ -690,8 +690,6 @@ records:
       concept, updated: '2020-05-19', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/822'}
   - {number: 827, title: '[FIX] 02-numpy: update zero index image', updated: '2020-05-27',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/827'}
-  - {number: 826, title: '[FIX] 02-numpy: change method call to function call in images',
-    updated: '2020-05-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/826'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1107,4 +1105,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-27T16:24:12Z'
+timestamp: '2020-05-27T19:26:29Z'
