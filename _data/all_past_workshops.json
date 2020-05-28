@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Rebecca Lange,Cara Kreck",
+    "end_date": "2020-05-28",
+    "url": "https://curtinic.github.io/2020-05-27-Curtin/",
+    "country": "AU",
+    "curriculum": "dc-ecology-python",
+    "venue": "Curtin University",
+    "longitude": 115.892092,
+    "slug": "2020-05-27-Curtin",
+    "tag_name": "DC,online,Circuits",
+    "helpers": "Andrew Rohl,Kevin Chai,Behrouz Khabbaz Beheshti,Kathryn Napier,Rakib Hassan,Peter Krause",
+    "host_name": "Curtin University",
+    "latitude": -32.0069186,
+    "start_date": "2020-05-27"
+  },
+  {
+    "instructors": "Amanda Miotto",
+    "end_date": "2020-05-28",
+    "url": "https://gu-eresearch.github.io/2020-05-26-GriffithUni-Python/",
+    "country": "AU",
+    "curriculum": "swc-python",
+    "venue": "Griffith University",
+    "longitude": -27.552941,
+    "slug": "2020-05-26-GriffithUni-Python",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "Griffith University",
+    "latitude": -27.552941,
+    "start_date": "2020-05-26"
+  },
+  {
     "instructors": null,
     "end_date": "2020-05-27",
     "url": "https://edcarp.github.io/2020-05-26-sfc-online/",
@@ -12,6 +42,21 @@
     "helpers": null,
     "host_name": "University of Edinburgh",
     "latitude": 55.945358,
+    "start_date": "2020-05-26"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-05-28",
+    "url": "https://supercomputingwales.github.io/2020-05-26-supercomputingwales_unix/",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "Supercomputing Wales (online)",
+    "longitude": -3.766409,
+    "slug": "2020-05-26-supercomputingwales_unix",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "University of Aberystwyth",
+    "latitude": 52.33022,
     "start_date": "2020-05-26"
   },
   {

@@ -421,11 +421,11 @@ records:
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/305'}
   - {number: 309, title: Reference links broken on episode 1, updated: '2020-03-05',
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/309'}
+  - {number: 319, title: Update list of maintainers in README, updated: '2020-05-28',
+    url: 'https://github.com/swcarpentry/sql-novice-survey/issues/319'}
   pulls:
   - {number: 274, title: adding a solution of a challange (Ordering When Concatenating),
     updated: '2018-12-13', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/274'}
-  - {number: 289, title: Simplification + solution for group concatenation exercise,
-    updated: '2019-09-18', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/289'}
   - {number: 268, title: Promoted SQL's set-based advantages, updated: '2019-12-02',
     url: 'https://github.com/swcarpentry/sql-novice-survey/pull/268'}
   - {number: 193, title: rec modification to use newsurvey database so users can run
@@ -434,6 +434,8 @@ records:
       10', updated: '2020-03-10', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/317'}
   - {number: 314, title: 'Ep 5: Add solution to the exercise "NULL in a Set"', updated: '2020-03-10',
     url: 'https://github.com/swcarpentry/sql-novice-survey/pull/314'}
+  - {number: 289, title: Simplification + solution for group concatenation exercise,
+    updated: '2020-05-28', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/289'}
   url: https://github.com/swcarpentry/sql-novice-survey
 - description: Python
   ident: swcarpentry/python-novice-inflammation
@@ -749,7 +751,7 @@ records:
   - {number: 468, title: A better way to begin Lesson 3, updated: '2020-04-10', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/468'}
   - {number: 472, title: 'Typo in Episode 11, ''Reading and Writing CSV Files''',
     updated: '2020-05-05', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/472'}
-  - {number: 474, title: Fluid Representations in Addressing Data, updated: '2020-05-21',
+  - {number: 474, title: Fluid Representations in Addressing Data, updated: '2020-05-27',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/474'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
@@ -1105,4 +1107,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-27T19:26:29Z'
+timestamp: '2020-05-28T16:25:00Z'
