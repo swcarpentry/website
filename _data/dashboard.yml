@@ -170,13 +170,11 @@ records:
       the username', updated: '2020-04-17', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
   - {number: 491, title: 'Episode 7: Add grep -r exercise', updated: '2020-04-17',
     url: 'https://github.com/swcarpentry/shell-novice/pull/491'}
-  - {number: 1109, title: Clarify directory navigation terminology, updated: '2020-05-20',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/1109'}
   - {number: 1072, title: Added image of shell command anatomy., updated: '2020-05-24',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1072'}
   - {number: 992, title: Made changes and added General Syntax episode., updated: '2020-05-24',
     url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
-  - {number: 1110, title: fix-issue-840 instructor, updated: '2020-05-26', url: 'https://github.com/swcarpentry/shell-novice/pull/1110'}
+  - {number: 1110, title: fix-issue-840 instructor, updated: '2020-05-29', url: 'https://github.com/swcarpentry/shell-novice/pull/1110'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -692,6 +690,8 @@ records:
       concept, updated: '2020-05-19', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/822'}
   - {number: 827, title: '[FIX] 02-numpy: update zero index image', updated: '2020-05-27',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/827'}
+  - {number: 828, title: 'Update 12-cmdline.md: clarifying goals and some text', updated: '2020-05-28',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/828'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -891,6 +891,8 @@ records:
       image files, updated: '2020-05-07', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/632'}
   - {number: 633, title: 'Current release build broken - Rv4.0 incompatibilities?',
     updated: '2020-05-20', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/633'}
+  - {number: 639, title: Issue in appearance of lesson 'Exploring data frames' on
+      github.io, updated: '2020-05-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/639'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -915,6 +917,8 @@ records:
       names, …', updated: '2020-05-18', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/636'}
   - {number: 637, title: fix R version to use R old-release, updated: '2020-05-25',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/637'}
+  - {number: 638, title: 'To preserve decimals, adding `%>% as.data.frame`', updated: '2020-05-29',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/638'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1107,4 +1111,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-28T16:25:00Z'
+timestamp: '2020-05-29T16:25:31Z'
