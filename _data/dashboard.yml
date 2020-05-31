@@ -919,6 +919,8 @@ records:
       of help pane, updated: '2020-05-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/640'}
   - {number: 638, title: 'To preserve decimals, adding `%>% as.data.frame`', updated: '2020-05-29',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/638'}
+  - {number: 641, title: Adapt "Data structures part 2" to R >= 4.0, updated: '2020-05-31',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/641'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1111,4 +1113,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-05-30T16:25:17Z'
+timestamp: '2020-05-31T16:25:24Z'
