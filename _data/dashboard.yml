@@ -163,7 +163,7 @@ records:
       $3 upon introduction. ', updated: '2020-05-15', url: 'https://github.com/swcarpentry/shell-novice/issues/1107'}
   - {number: 840, title: 'Episode 5: Include explanation of "datafile"', updated: '2020-05-30',
     url: 'https://github.com/swcarpentry/shell-novice/issues/840'}
-  - {number: 1112, title: Reframing Nelle's Pipeline Narrative, updated: '2020-06-01',
+  - {number: 1112, title: Reframing Nelle's Pipeline Narrative, updated: '2020-06-02',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1112'}
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
@@ -260,8 +260,6 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/721'}
   - {number: 720, title: 'Lesson 3: revise instructions for using rm', updated: '2020-01-22',
     url: 'https://github.com/swcarpentry/git-novice/issues/720'}
-  - {number: 357, title: 'Episode 1: "merging" graphics is misleading', updated: '2020-02-01',
-    url: 'https://github.com/swcarpentry/git-novice/issues/357'}
   - {number: 277, title: 'Should we change the story behind the lesson?', updated: '2020-02-18',
     url: 'https://github.com/swcarpentry/git-novice/issues/277'}
   - {number: 728, title: 'Should we show an automatically resolvable merge conflict
@@ -329,8 +327,6 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/pull/715'}
   - {number: 686, title: 'Make it clear that git status is introduced in Episode 3
       (issue #685)', updated: '2020-01-16', url: 'https://github.com/swcarpentry/git-novice/pull/686'}
-  - {number: 722, title: 'Update the logic and colours of rows in figures, Fixes #357',
-    updated: '2020-02-01', url: 'https://github.com/swcarpentry/git-novice/pull/722'}
   - {number: 729, title: Remove confusing `rm` text in episode 3, updated: '2020-03-11',
     url: 'https://github.com/swcarpentry/git-novice/pull/729'}
   - {number: 739, title: Draft of new setup, updated: '2020-05-23', url: 'https://github.com/swcarpentry/git-novice/pull/739'}
@@ -751,10 +747,12 @@ records:
   - {number: 469, title: Use of par(mfrow) and grid.arrange, updated: '2020-03-29',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/469'}
   - {number: 468, title: A better way to begin Lesson 3, updated: '2020-04-10', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/468'}
-  - {number: 472, title: 'Typo in Episode 11, ''Reading and Writing CSV Files''',
-    updated: '2020-05-05', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/472'}
   - {number: 474, title: Fluid Representations in Addressing Data, updated: '2020-05-27',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/474'}
+  - {number: 477, title: Running "make serve" to create local html lessons, updated: '2020-06-02',
+    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/477'}
+  - {number: 472, title: 'Typo in Episode 11, ''Reading and Writing CSV Files''',
+    updated: '2020-06-02', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/472'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
@@ -891,10 +889,10 @@ records:
   - {number: 581, title: Unclear diagrams, updated: '2020-05-02', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/581'}
   - {number: 630, title: 'Mention flexibility of variable selection in ''select''
       function ', updated: '2020-05-04', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/630'}
-  - {number: 632, title: Update figure generation scripts to automatically export
-      image files, updated: '2020-05-07', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/632'}
   - {number: 633, title: 'Current release build broken - Rv4.0 incompatibilities?',
     updated: '2020-05-20', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/633'}
+  - {number: 632, title: Update figure generation scripts to automatically export
+      image files, updated: '2020-06-01', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/632'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -910,22 +908,17 @@ records:
   - {number: 589, title: 'Spell check and apply consistent code style (close #548) ',
     updated: '2019-11-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
   - {number: 624, title: Instructor Training Checkout, updated: '2020-04-23', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/624'}
-  - {number: 631, title: 'Issue #581 fix. Figures redrawn', updated: '2020-05-04',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/631'}
   - {number: 628, title: Rendering problem, updated: '2020-05-04', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/628'}
   - {number: 634, title: Do not conflate aesthetics and layers, updated: '2020-05-11',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/634'}
-  - {number: 637, title: fix R version to use R old-release, updated: '2020-05-25',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/637'}
-  - {number: 640, title: Standardize articles preceding '.R' and expand description
-      of help pane, updated: '2020-05-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/640'}
-  - {number: 638, title: 'To preserve decimals, adding `%>% as.data.frame`', updated: '2020-05-29',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/638'}
-  - {number: 641, title: Adapt "Data structures part 2" to R >= 4.0, updated: '2020-05-31',
+  - {number: 641, title: Adapt "Data structures part 2" to R >= 4.0, updated: '2020-06-01',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/641'}
-  - {number: 642, title: fixed screenshot filenames, updated: '2020-06-01', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/642'}
-  - {number: 636, title: 'added updated screen shots, clarified language about variable
-      names, …', updated: '2020-06-01', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/636'}
+  - {number: 638, title: 'To preserve decimals, adding `%>% as.data.frame`', updated: '2020-06-01',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/638'}
+  - {number: 631, title: 'Issue #581 fix. Figures redrawn', updated: '2020-06-01',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/631'}
+  - {number: 637, title: fix R version to use R old-release, updated: '2020-06-02',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/637'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1081,8 +1074,6 @@ records:
       accept view, updated: '2020-05-10', url: 'https://github.com/carpentries/amy/issues/1659'}
   - {number: 1654, title: Add Workshop Type to Workshop Request Forms, updated: '2020-05-10',
     url: 'https://github.com/carpentries/amy/issues/1654'}
-  - {number: 1653, title: Workshops "Update from URL" not updating, updated: '2020-05-10',
-    url: 'https://github.com/carpentries/amy/issues/1653'}
   - {number: 1644, title: Add date feature to Self-Organised Workshop Request Form,
     updated: '2020-05-10', url: 'https://github.com/carpentries/amy/issues/1644'}
   - {number: 1607, title: Remove Lessons Covered from the Workshops Event Page, updated: '2020-05-14',
@@ -1095,6 +1086,8 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1656'}
   - {number: 1668, title: Update search matching to include secondary email, updated: '2020-05-22',
     url: 'https://github.com/carpentries/amy/issues/1668'}
+  - {number: 1653, title: Workshops "Update from URL" not updating, updated: '2020-06-02',
+    url: 'https://github.com/carpentries/amy/issues/1653'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1118,4 +1111,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-06-01T16:25:35Z'
+timestamp: '2020-06-02T16:26:35Z'
