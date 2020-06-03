@@ -668,7 +668,7 @@
     "venue": "Zoom",
     "longitude": null,
     "slug": "2020-04-15-online",
-    "tag_name": "DC",
+    "tag_name": "DC,online",
     "helpers": null,
     "host_name": "Genomics Aotearoa",
     "latitude": null,
@@ -923,7 +923,7 @@
     "venue": "Online Genomics Data Carpentry",
     "longitude": null,
     "slug": "2020-03-31-online",
-    "tag_name": "DC",
+    "tag_name": "DC,online",
     "helpers": null,
     "host_name": "Genomics Aotearoa",
     "latitude": null,
@@ -15345,21 +15345,6 @@
     "start_date": "2018-08-23"
   },
   {
-    "instructors": "Mik Black,Jonah Duckles,Murray Cadzow",
-    "end_date": "2018-08-24",
-    "url": "https://otagocarpentries.github.io/2018-08-23-ttt-otago/",
-    "country": "NZ",
-    "curriculum": null,
-    "venue": "Otago Museum",
-    "longitude": null,
-    "slug": "2018-08-23-ttt-otago",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "University of Otago",
-    "latitude": null,
-    "start_date": "2018-08-23"
-  },
-  {
     "instructors": "Lauren Ko,Mark Phillips,Kristy Phillips,Pamela Andrews",
     "end_date": "2018-08-24",
     "url": "https://unt-carpentries.github.io/2018-08-23-unt-swc/",
@@ -16198,21 +16183,6 @@
     "host_name": "University of Otago",
     "latitude": -45.864683,
     "start_date": "2018-07-05"
-  },
-  {
-    "instructors": "Mik Black,Murray Cadzow,Greg Gimenez",
-    "end_date": "2018-07-05",
-    "url": "https://murraycadzow.github.io/2018-07-04-otago-dc/",
-    "country": "NZ",
-    "curriculum": null,
-    "venue": "St David St Lecture Theatre Seminar Rooms",
-    "longitude": 170.513837,
-    "slug": "2018-07-04-otago-dc",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Otago",
-    "latitude": -45.863448,
-    "start_date": "2018-07-04"
   },
   {
     "instructors": "Aidan Wilson,Weisi Chen,Madhura Killedar,Robert Woodward,Tim Keighley",
@@ -17199,7 +17169,7 @@
     "longitude": -77.20137,
     "slug": "2018-05-31-nist",
     "tag_name": "SWC,unresponsive",
-    "helpers": "Jonathan Guyer,Dilip Banerjee,Marcus Mendenhall,Gretchen Greene,Zachary Trautt,Randal McDermott,Andrew Reid,Jared Ragland,Zak Mohamoud",
+    "helpers": "Jonathan Guyer,Dilip Banerjee,Marcus Mendenhall,Gretchen Greene,Zachary Trautt,Randall McDermott,Andrew Reid,Jared Ragland,Zak Mohamoud",
     "host_name": "National Institute of Standards and Technology",
     "latitude": 39.143441,
     "start_date": "2018-05-31"
@@ -17952,21 +17922,6 @@
     "helpers": "Kasia Koziara,Dan Marrable",
     "host_name": "Curtin University",
     "latitude": -32.006195,
-    "start_date": "2018-04-23"
-  },
-  {
-    "instructors": "Jonah Duckles,Aleksandra Pawlik,Murray Cadzow",
-    "end_date": "2018-04-24",
-    "url": "https://apawlik.github.io/2018-04-23-ttt-nz/",
-    "country": "NZ",
-    "curriculum": null,
-    "venue": "Victoria University of Wellington",
-    "longitude": 174.768662,
-    "slug": "2018-04-23-ttt-nz",
-    "tag_name": "TTT",
-    "helpers": null,
-    "host_name": "Victoria University of Wellington",
-    "latitude": -41.290402,
     "start_date": "2018-04-23"
   },
   {
@@ -18804,7 +18759,7 @@
     "longitude": -76.928745,
     "slug": "2018-03-13-census",
     "tag_name": "SWC",
-    "helpers": "Daniel Wheeler,Philip Leclerc,Randal McDermott",
+    "helpers": "Daniel Wheeler,Philip Leclerc,Randall McDermott",
     "host_name": "National Institute of Standards and Technology",
     "latitude": 38.84591,
     "start_date": "2018-03-13"
@@ -19440,21 +19395,6 @@
     "start_date": "2018-02-15"
   },
   {
-    "instructors": "Sebastian Schmeier",
-    "end_date": "2018-02-15",
-    "url": "https://sschmeier.github.io/2018-02-14-Albany/",
-    "country": "NZ",
-    "curriculum": null,
-    "venue": "Massey University Auckland",
-    "longitude": 174.692639,
-    "slug": "2018-02-14-Albany",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Massey University",
-    "latitude": -36.734667,
-    "start_date": "2018-02-14"
-  },
-  {
     "instructors": "Sue McClatchy,Danielle Quinn",
     "end_date": "2018-02-14",
     "url": "https://daniellequinn.github.io/2018-02-13-ttt/",
@@ -19527,21 +19467,6 @@
     "helpers": null,
     "host_name": "Griffith University",
     "latitude": -27.962224,
-    "start_date": "2018-02-07"
-  },
-  {
-    "instructors": "Mik Black,Jonah Duckles,Paul Gardner,Aleksandra Pawlik,Murray Cadzow,Elizabeth Permina,David Eyers,Tanya Flynn,Riku Takei",
-    "end_date": "2018-02-09",
-    "url": "https://mikblack.github.io/2018-02-07-dunedin/",
-    "country": "NZ",
-    "curriculum": null,
-    "venue": "Software Carpentry Workshop: University of Otago & NeSI",
-    "longitude": 170.513167,
-    "slug": "2018-02-07-dunedin",
-    "tag_name": "SWC",
-    "helpers": "Amara Shaukat,Mandy Phipps-Green,Ruth Topless,John Williams,Denise Martini",
-    "host_name": "University of Otago",
-    "latitude": -45.866627,
     "start_date": "2018-02-07"
   },
   {
@@ -21084,7 +21009,7 @@
     "longitude": -77.20137,
     "slug": "2017-11-02-nist",
     "tag_name": "SWC",
-    "helpers": "Dilip Banerjee,Chandler Becker,Randal McDermott",
+    "helpers": "Dilip Banerjee,Chandler Becker,Randall McDermott",
     "host_name": "National Institute of Standards and Technology",
     "latitude": 39.143441,
     "start_date": "2017-11-02"

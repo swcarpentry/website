@@ -210,6 +210,36 @@
     "start_date": "2020-06-09"
   },
   {
+    "instructors": "Christina Koch,Trisha Adamus,Nancy Granda Duarte,Madison Youngblom",
+    "end_date": "2020-06-18",
+    "url": "https://uw-madison-datascience.github.io/2020-06-10-uwmadison-swc/",
+    "country": "US",
+    "curriculum": "swc-plotting",
+    "venue": "UW-Madison",
+    "longitude": -89.385239,
+    "slug": "2020-06-10-uwmadison-swc",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": "Cid Freitag,Casey Schacher,Iain McConnell,Jennifer Patino",
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.073929,
+    "start_date": "2020-06-10"
+  },
+  {
+    "instructors": "Sarah Stevens,Sailendharan Sudakaran,Clare Michaud",
+    "end_date": "2020-06-19",
+    "url": "https://uw-madison-datascience.github.io/2020-06-11-uwmadison-dc/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "UW-Madison",
+    "longitude": -89.385239,
+    "slug": "2020-06-11-uwmadison-dc",
+    "tag_name": "automated-email,DC,online",
+    "helpers": "Heather Shimon,Srikanth Aravamuthan,Casey Schacher,Jennifer Patino",
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.073929,
+    "start_date": "2020-06-11"
+  },
+  {
     "instructors": "Sarah Brown,Sher! Hurt",
     "end_date": "2020-06-16",
     "url": "https://brownsarahm.github.io/2020-06-15-ttt-online-CDT/",
@@ -223,6 +253,21 @@
     "host_name": "Instructor Training",
     "latitude": -48.876667,
     "start_date": "2020-06-15"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-06-19",
+    "url": "https://smithsonian.github.io/2020-06-16-SERC/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Smithsonian Institution",
+    "longitude": 0,
+    "slug": "2020-06-16-SERC",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "Smithsonian Institution",
+    "latitude": 0,
+    "start_date": "2020-06-16"
   },
   {
     "instructors": "Lucia Michielin",
@@ -268,6 +313,21 @@
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.073929,
     "start_date": "2020-06-16"
+  },
+  {
+    "instructors": "Jeffrey Oliver,Karen Word",
+    "end_date": "2020-06-18",
+    "url": "https://karenword.github.io/2020-06-17-ttt-online/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-06-17-ttt-online-PDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-06-17"
   },
   {
     "instructors": "Elizabeth Salmon,Sarvani Chadalapaka,Derek Devnich",
@@ -342,6 +402,21 @@
     "helpers": null,
     "host_name": "RMIT University",
     "latitude": -37.809218,
+    "start_date": "2020-06-29"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-07-03",
+    "url": "https://sadilar.github.io/2020-06-29-SA-ONLINE/",
+    "country": "ZA",
+    "curriculum": "dc-socsci-r",
+    "venue": "SADiLaR, South Africa",
+    "longitude": 0,
+    "slug": "2020-06-29-SA-ONLINE",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
+    "latitude": 0,
     "start_date": "2020-06-29"
   },
   {
