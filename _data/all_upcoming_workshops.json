@@ -15,21 +15,6 @@
     "start_date": "2020-05-18"
   },
   {
-    "instructors": "Timo Gnadt,Péter Király,Daniel Bangert,Najko Jahn,Claudia Engelhardt,Anne Hobert,Hanna Varachkina,Andreas Walker",
-    "end_date": "2020-06-04",
-    "url": "https://subugoe.github.io/2020-05-19-lc/",
-    "country": "DE",
-    "curriculum": "lc",
-    "venue": "SUB Göttingen",
-    "longitude": 9.935895,
-    "slug": "2020-05-19-lc",
-    "tag_name": "LC,online",
-    "helpers": "Birgit Schmidt,Astrid Orth",
-    "host_name": "University of Göttingen",
-    "latitude": 51.539741,
-    "start_date": "2020-05-19"
-  },
-  {
     "instructors": "Logan Cox,Mark Laufersweiler,Michael Malahy",
     "end_date": "2020-06-10",
     "url": "https://oulib-swc.github.io/2020-05-20-ou-swc-online/",
@@ -225,6 +210,21 @@
     "start_date": "2020-06-10"
   },
   {
+    "instructors": "Michelle Rodio",
+    "end_date": "2020-06-12",
+    "url": "https://mr0dio.github.io/NASALangleySummer2020/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "NASA",
+    "longitude": -76.38001,
+    "slug": "2020-06-11-NASALangleySummer2020",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "NASA (National Aeronautics and Space Administration)",
+    "latitude": 37.08258,
+    "start_date": "2020-06-11"
+  },
+  {
     "instructors": "Sarah Stevens,Sailendharan Sudakaran,Clare Michaud",
     "end_date": "2020-06-19",
     "url": "https://uw-madison-datascience.github.io/2020-06-11-uwmadison-dc/",
@@ -300,7 +300,7 @@
     "start_date": "2020-06-16"
   },
   {
-    "instructors": null,
+    "instructors": "Sarah Stevens,Tobin Magle,Trisha Adamus,Clare Michaud",
     "end_date": "2020-06-25",
     "url": "https://uw-madison-datascience.github.io/2020-06-16-uwmadison-dc/",
     "country": "US",
@@ -309,7 +309,7 @@
     "longitude": -89.385239,
     "slug": "2020-06-16-uwmadison-dc",
     "tag_name": "online,Circuits",
-    "helpers": null,
+    "helpers": "Erin Jonaitis",
     "host_name": "University of Wisconsin - Madison",
     "latitude": 43.073929,
     "start_date": "2020-06-16"
@@ -388,6 +388,21 @@
     "host_name": "GFZ Potsdam",
     "latitude": 52.382214,
     "start_date": "2020-06-22"
+  },
+  {
+    "instructors": "Jason Bell",
+    "end_date": "2020-06-26",
+    "url": "https://qcif-training.github.io/2020-06-25-CQU-R/",
+    "country": "AU",
+    "curriculum": "swc-reproducible-science",
+    "venue": "CQ University",
+    "longitude": 150.518952,
+    "slug": "2020-07-02-CQU-R",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "CQUniversity",
+    "latitude": -23.326427,
+    "start_date": "2020-06-25"
   },
   {
     "instructors": "Will Pitchers,Paul Harrison,Nick Wong",

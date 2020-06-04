@@ -417,7 +417,9 @@ records:
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/305'}
   - {number: 309, title: Reference links broken on episode 1, updated: '2020-03-05',
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/309'}
-  - {number: 319, title: Update list of maintainers in README, updated: '2020-05-28',
+  - {number: 320, title: Broken links on several episodes and unclear exercise, updated: '2020-06-04',
+    url: 'https://github.com/swcarpentry/sql-novice-survey/issues/320'}
+  - {number: 319, title: Update list of maintainers in README, updated: '2020-06-04',
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/319'}
   pulls:
   - {number: 274, title: adding a solution of a challange (Ordering When Concatenating),
@@ -426,10 +428,6 @@ records:
     url: 'https://github.com/swcarpentry/sql-novice-survey/pull/268'}
   - {number: 193, title: rec modification to use newsurvey database so users can run
       sql commands, updated: '2020-03-09', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/193'}
-  - {number: 317, title: 'Ep 9: Move exercise that requires Python knowledge to ep
-      10', updated: '2020-03-10', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/317'}
-  - {number: 314, title: 'Ep 5: Add solution to the exercise "NULL in a Set"', updated: '2020-03-10',
-    url: 'https://github.com/swcarpentry/sql-novice-survey/pull/314'}
   - {number: 289, title: Simplification + solution for group concatenation exercise,
     updated: '2020-05-28', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/289'}
   url: https://github.com/swcarpentry/sql-novice-survey
@@ -920,8 +918,6 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/638'}
   - {number: 631, title: 'Issue #581 fix. Figures redrawn', updated: '2020-06-01',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/631'}
-  - {number: 637, title: fix R version to use R old-release, updated: '2020-06-02',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/637'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1089,7 +1085,7 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1656'}
   - {number: 1668, title: Update search matching to include secondary email, updated: '2020-05-22',
     url: 'https://github.com/carpentries/amy/issues/1668'}
-  - {number: 1653, title: Workshops "Update from URL" not updating, updated: '2020-06-02',
+  - {number: 1653, title: Workshops "Update from URL" not updating, updated: '2020-06-03',
     url: 'https://github.com/carpentries/amy/issues/1653'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
@@ -1114,4 +1110,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-06-03T16:26:42Z'
+timestamp: '2020-06-04T16:26:57Z'
