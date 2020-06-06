@@ -887,15 +887,14 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/625'}
   - {number: 553, title: 'Include qplot() in ggplot lesson?', updated: '2020-05-01',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/553'}
-  - {number: 581, title: Unclear diagrams, updated: '2020-05-02', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/581'}
   - {number: 630, title: 'Mention flexibility of variable selection in ''select''
       function ', updated: '2020-05-04', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/630'}
   - {number: 633, title: 'Current release build broken - Rv4.0 incompatibilities?',
     updated: '2020-05-20', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/633'}
-  - {number: 632, title: Update figure generation scripts to automatically export
-      image files, updated: '2020-06-01', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/632'}
   - {number: 643, title: Exploring Data Frames- factor() and as.factor(), updated: '2020-06-03',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/643'}
+  - {number: 632, title: Update figure generation scripts to automatically export
+      image files, updated: '2020-06-05', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/632'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -918,8 +917,6 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/641'}
   - {number: 638, title: 'To preserve decimals, adding `%>% as.data.frame`', updated: '2020-06-01',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/638'}
-  - {number: 631, title: 'Issue #581 fix. Figures redrawn', updated: '2020-06-01',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/631'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1099,6 +1096,8 @@ records:
   - {number: 1665, title: removes git_version.py, updated: '2020-05-22', url: 'https://github.com/carpentries/amy/pull/1665'}
   - {number: 1663, title: make Administrator field required, updated: '2020-05-23',
     url: 'https://github.com/carpentries/amy/pull/1663'}
+  - {number: 1669, title: Bump django from 2.2.10 to 2.2.13, updated: '2020-06-05',
+    url: 'https://github.com/carpentries/amy/pull/1669'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1112,4 +1111,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-06-05T16:27:32Z'
+timestamp: '2020-06-06T16:28:26Z'
