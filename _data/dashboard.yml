@@ -1089,15 +1089,11 @@ records:
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
-  - {number: 1646, title: Bump jquery from 3.4.1 to 3.5.0, updated: '2020-05-02',
-    url: 'https://github.com/carpentries/amy/pull/1646'}
   - {number: 1655, title: WIP - DNM - Online workshop question, updated: '2020-05-10',
     url: 'https://github.com/carpentries/amy/pull/1655'}
   - {number: 1665, title: removes git_version.py, updated: '2020-05-22', url: 'https://github.com/carpentries/amy/pull/1665'}
-  - {number: 1663, title: make Administrator field required, updated: '2020-05-23',
-    url: 'https://github.com/carpentries/amy/pull/1663'}
-  - {number: 1669, title: Bump django from 2.2.10 to 2.2.13, updated: '2020-06-05',
-    url: 'https://github.com/carpentries/amy/pull/1669'}
+  - {number: 1670, title: Instructors and host introduction - email automation, updated: '2020-06-07',
+    url: 'https://github.com/carpentries/amy/pull/1670'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1111,4 +1107,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-06-06T16:28:26Z'
+timestamp: '2020-06-07T16:29:06Z'
