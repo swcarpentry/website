@@ -330,6 +330,12 @@ records:
   - {number: 729, title: Remove confusing `rm` text in episode 3, updated: '2020-03-11',
     url: 'https://github.com/swcarpentry/git-novice/pull/729'}
   - {number: 739, title: Draft of new setup, updated: '2020-05-23', url: 'https://github.com/swcarpentry/git-novice/pull/739'}
+  - {number: 742, title: 'episodes: proofread changes for instructor checkout', updated: '2020-06-09',
+    url: 'https://github.com/swcarpentry/git-novice/pull/742'}
+  - {number: 741, title: 'Conflicts: indicate who makes what changes', updated: '2020-06-09',
+    url: 'https://github.com/swcarpentry/git-novice/pull/741'}
+  - {number: 740, title: Mention cloning outside of one's own planets repo, updated: '2020-06-09',
+    url: 'https://github.com/swcarpentry/git-novice/pull/740'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -686,10 +692,10 @@ records:
       concept, updated: '2020-05-19', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/822'}
   - {number: 827, title: '[FIX] 02-numpy: update zero index image', updated: '2020-05-27',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/827'}
-  - {number: 828, title: 'Update 12-cmdline.md: clarifying goals and some text', updated: '2020-05-28',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/828'}
   - {number: 829, title: Update 10-defensive.md - Checkout, updated: '2020-06-05',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/829'}
+  - {number: 828, title: 'Update 12-cmdline.md: clarifying goals and some text', updated: '2020-06-08',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/828'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1107,4 +1113,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-06-08T16:30:12Z'
+timestamp: '2020-06-09T16:31:08Z'
