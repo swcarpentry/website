@@ -694,7 +694,7 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/827'}
   - {number: 829, title: Update 10-defensive.md - Checkout, updated: '2020-06-05',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/829'}
-  - {number: 828, title: 'Update 12-cmdline.md: clarifying goals and some text', updated: '2020-06-08',
+  - {number: 828, title: 'Update 12-cmdline.md: clarifying goals and some text', updated: '2020-06-10',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/828'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
@@ -758,16 +758,12 @@ records:
   - {number: 472, title: 'Typo in Episode 11, ''Reading and Writing CSV Files''',
     updated: '2020-06-02', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/472'}
   - {number: 478, title: Output incorrect to description, updated: '2020-06-03', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/478'}
-  - {number: 474, title: Fluid Representations in Addressing Data, updated: '2020-06-05',
-    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/474'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/460'}
   - {number: 421, title: 'Upgrade 06-best-practices with more references or even practices?',
     updated: '2019-12-24', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/421'}
-  - {number: 476, title: Fix logical indexing terminology., updated: '2020-06-01',
-    url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/476'}
   url: https://github.com/swcarpentry/r-novice-inflammation
 - description: R (Gapminder Data - Español)
   ident: swcarpentry/r-novice-gapminder
@@ -1113,4 +1109,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-06-09T16:31:08Z'
+timestamp: '2020-06-10T16:31:57Z'
