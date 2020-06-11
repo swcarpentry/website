@@ -45,36 +45,6 @@
     "start_date": "2020-06-04"
   },
   {
-    "instructors": "Eric Jankowski,Travis Seaborn,Erich Seamon,Mike Henry,James Van Leuven,Amanda Culley",
-    "end_date": "2020-06-11",
-    "url": "https://bsurc.github.io/2020-06-08-inl-bootcamp/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "Idaho National Laboratory (online)",
-    "longitude": 0,
-    "slug": "2020-06-08-inl-bootcamp",
-    "tag_name": "SWC,online,Circuits",
-    "helpers": null,
-    "host_name": "Boise State University",
-    "latitude": 0,
-    "start_date": "2020-06-08"
-  },
-  {
-    "instructors": "Colin Sauze,Ed Bennett,Mark Dawson",
-    "end_date": "2020-06-11",
-    "url": "https://supercomputingwales.github.io/2020-06-09-supercomputingwales_python/",
-    "country": "GB",
-    "curriculum": "mix-and-match",
-    "venue": "Supercomputing Wales (online)",
-    "longitude": -3.766409,
-    "slug": "2020-06-09-supercomputingwales_python",
-    "tag_name": "online,Circuits",
-    "helpers": "Jose Criollo",
-    "host_name": "University of Aberystwyth",
-    "latitude": 52.33022,
-    "start_date": "2020-06-09"
-  },
-  {
     "instructors": "Daniel Chen,Brook Moyers,Lorraine Ling,Sebastien Vigneau",
     "end_date": "2020-06-17",
     "url": "https://svigneau.github.io/2020-06-09-uofdelaware-online/",
@@ -384,7 +354,7 @@
     "longitude": 0,
     "slug": "2020-06-29-SA-ONLINE",
     "tag_name": "automated-email,DC,online",
-    "helpers": null,
+    "helpers": "Sebastian Mosidi",
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
     "latitude": 0,
     "start_date": "2020-06-29"

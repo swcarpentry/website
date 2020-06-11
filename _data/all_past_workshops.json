@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Colin Sauze,Ed Bennett,Mark Dawson",
+    "end_date": "2020-06-11",
+    "url": "https://supercomputingwales.github.io/2020-06-09-supercomputingwales_python/",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "Supercomputing Wales (online)",
+    "longitude": -3.766409,
+    "slug": "2020-06-09-supercomputingwales_python",
+    "tag_name": "online,Circuits",
+    "helpers": "Jose Criollo",
+    "host_name": "University of Aberystwyth",
+    "latitude": 52.33022,
+    "start_date": "2020-06-09"
+  },
+  {
+    "instructors": "Eric Jankowski,Travis Seaborn,Erich Seamon,Mike Henry,James Van Leuven,Amanda Culley",
+    "end_date": "2020-06-11",
+    "url": "https://bsurc.github.io/2020-06-08-inl-bootcamp/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "Idaho National Laboratory (online)",
+    "longitude": 0,
+    "slug": "2020-06-08-inl-bootcamp",
+    "tag_name": "SWC,online,Circuits",
+    "helpers": null,
+    "host_name": "Boise State University",
+    "latitude": 0,
+    "start_date": "2020-06-08"
+  },
+  {
     "instructors": "Kristina Hettne,Matthijs de Zwaan,Alice Doek",
     "end_date": "2020-06-09",
     "url": "https://mtthsdzwn.github.io/2020-06-08-leiden/",
@@ -3390,7 +3420,7 @@
     "start_date": "2019-12-11"
   },
   {
-    "instructors": "Evgenij Belikov,Matthew Hamilton",
+    "instructors": "Evgenij Belikov,Matthew Hamilton Hamilton",
     "end_date": "2019-12-11",
     "url": "https://edcarp.github.io/2019-12-10-heriotwatt/",
     "country": "GB",
@@ -10134,7 +10164,7 @@
     "longitude": -3.26227,
     "slug": "2019-03-28-heriotwatt",
     "tag_name": "SWC",
-    "helpers": "Lucia Michielin,David McKain,Matthew Hamilton,Evan Morgan,Hans-Nikolai Viessmann,Beatrice Alex,Clare Llewellyn",
+    "helpers": "Lucia Michielin,David McKain,Matthew Hamilton Hamilton,Evan Morgan,Hans-Nikolai Viessmann,Beatrice Alex,Clare Llewellyn",
     "host_name": "Heriot Watt University",
     "latitude": 55.92261,
     "start_date": "2019-03-28"
@@ -11514,7 +11544,7 @@
     "longitude": -3.183886,
     "slug": "2019-01-23-edinburgh-geosc-sc",
     "tag_name": "SWC",
-    "helpers": "Michael Mineter,Chris Hill,James Fulton,Martino Sorbaro Sindaci,Matthew Hamilton",
+    "helpers": "Michael Mineter,Chris Hill,James Fulton,Martino Sorbaro Sindaci,Matthew Hamilton Hamilton",
     "host_name": "University of Edinburgh",
     "latitude": 55.948253,
     "start_date": "2019-01-23"
