@@ -179,7 +179,7 @@ records:
   - {number: 1110, title: fix-issue-840 instructor, updated: '2020-05-29', url: 'https://github.com/swcarpentry/shell-novice/pull/1110'}
   - {number: 992, title: Made changes and added General Syntax episode., updated: '2020-05-29',
     url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
-  - {number: 1114, title: Address issue 1107, updated: '2020-06-13', url: 'https://github.com/swcarpentry/shell-novice/pull/1114'}
+  - {number: 1114, title: Address issue 1107, updated: '2020-06-15', url: 'https://github.com/swcarpentry/shell-novice/pull/1114'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -1092,20 +1092,15 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1657'}
   - {number: 1656, title: 'What is the purpose of git_version.py?', updated: '2020-05-18',
     url: 'https://github.com/carpentries/amy/issues/1656'}
-  - {number: 1668, title: Update search matching to include secondary email, updated: '2020-06-14',
-    url: 'https://github.com/carpentries/amy/issues/1668'}
-  - {number: 1653, title: Workshops "Update from URL" not updating, updated: '2020-06-14',
-    url: 'https://github.com/carpentries/amy/issues/1653'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
   - {number: 1655, title: WIP - DNM - Online workshop question, updated: '2020-05-10',
     url: 'https://github.com/carpentries/amy/pull/1655'}
   - {number: 1665, title: removes git_version.py, updated: '2020-05-22', url: 'https://github.com/carpentries/amy/pull/1665'}
-  - {number: 1671, title: Search by person's secondary email, updated: '2020-06-14',
-    url: 'https://github.com/carpentries/amy/pull/1671'}
   - {number: 1670, title: Instructors and host introduction - email automation, updated: '2020-06-14',
     url: 'https://github.com/carpentries/amy/pull/1670'}
+  - {number: 1673, title: Online class size, updated: '2020-06-15', url: 'https://github.com/carpentries/amy/pull/1673'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1119,4 +1114,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-06-14T16:33:09Z'
+timestamp: '2020-06-15T16:33:57Z'
