@@ -704,7 +704,7 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/829'}
   - {number: 828, title: 'Update 12-cmdline.md: clarifying goals and some text', updated: '2020-06-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/828'}
-  - {number: 831, title: Added missing explanation bit., updated: '2020-06-16', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/831'}
+  - {number: 831, title: Added missing explanation bit., updated: '2020-06-17', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/831'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -906,6 +906,8 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/643'}
   - {number: 632, title: Update figure generation scripts to automatically export
       image files, updated: '2020-06-05', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/632'}
+  - {number: 647, title: 'Suggestion: Command to read a data table from excel file
+      in R', updated: '2020-06-17', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/647'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -985,7 +987,7 @@ records:
   issues:
   - {number: 15, title: 'Test parameterisation ', updated: '2017-09-02', url: 'https://github.com/katyhuff/python-testing/issues/15'}
   - {number: 18, title: Add testing for raised exception, updated: '2018-02-09', url: 'https://github.com/katyhuff/python-testing/issues/18'}
-  - {number: 31, title: 'Add this lesson to the Carpentries Incubator?', updated: '2020-05-26',
+  - {number: 31, title: 'Add this lesson to the Carpentries Incubator?', updated: '2020-06-17',
     url: 'https://github.com/katyhuff/python-testing/issues/31'}
   pulls:
   - {number: 11, title: introduce unittest, updated: '2017-05-04', url: 'https://github.com/katyhuff/python-testing/pull/11'}
@@ -1115,4 +1117,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-06-16T16:34:52Z'
+timestamp: '2020-06-17T16:35:09Z'
