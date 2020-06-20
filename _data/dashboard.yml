@@ -627,12 +627,12 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/824'}
   - {number: 815, title: Add flowchart illustration for for loops, updated: '2020-06-05',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/815'}
-  - {number: 833, title: 03-matplotlib should have instructions on saving the plots,
-    updated: '2020-06-18', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/833'}
   - {number: 832, title: 'Lesson Contribution: how to install numpy', updated: '2020-06-18',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/832'}
   - {number: 834, title: 05-suggesting a more Pythonic approach to copying, updated: '2020-06-19',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/834'}
+  - {number: 833, title: 03-matplotlib should have instructions on saving the plots,
+    updated: '2020-06-19', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/833'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -1123,4 +1123,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-06-19T16:35:25Z'
+timestamp: '2020-06-20T16:35:38Z'
