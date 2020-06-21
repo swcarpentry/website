@@ -632,7 +632,7 @@ records:
   - {number: 834, title: 05-suggesting a more Pythonic approach to copying, updated: '2020-06-19',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/834'}
   - {number: 833, title: 03-matplotlib should have instructions on saving the plots,
-    updated: '2020-06-19', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/833'}
+    updated: '2020-06-20', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/833'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -889,8 +889,6 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/592'}
   - {number: 599, title: Clarification in Intro to R/RStudio lesson, updated: '2020-01-07',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/599'}
-  - {number: 603, title: 'Episode 7 (control flow), Challenge 1', updated: '2020-01-12',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/603'}
   - {number: 604, title: Consistent code styling, updated: '2020-01-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/604'}
   - {number: 600, title: Add information about opening projects in RStudio, updated: '2020-01-16',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/600'}
@@ -914,6 +912,8 @@ records:
       image files, updated: '2020-06-05', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/632'}
   - {number: 647, title: 'Suggestion: Command to read a data table from excel file
       in R', updated: '2020-06-17', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/647'}
+  - {number: 603, title: 'Episode 7 (control flow), Challenge 1', updated: '2020-06-20',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/603'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -1105,11 +1105,11 @@ records:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
   - {number: 1665, title: removes git_version.py, updated: '2020-05-22', url: 'https://github.com/carpentries/amy/pull/1665'}
-  - {number: 1670, title: Instructors and host introduction - email automation, updated: '2020-06-14',
-    url: 'https://github.com/carpentries/amy/pull/1670'}
   - {number: 1673, title: Online class size, updated: '2020-06-15', url: 'https://github.com/carpentries/amy/pull/1673'}
   - {number: 1655, title: WIP - DNM - Online workshop question, updated: '2020-06-15',
     url: 'https://github.com/carpentries/amy/pull/1655'}
+  - {number: 1674, title: Confirming supporting instructor, updated: '2020-06-20',
+    url: 'https://github.com/carpentries/amy/pull/1674'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1123,4 +1123,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-06-20T16:35:38Z'
+timestamp: '2020-06-21T16:35:33Z'
