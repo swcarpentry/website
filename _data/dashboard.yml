@@ -627,12 +627,14 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/824'}
   - {number: 815, title: Add flowchart illustration for for loops, updated: '2020-06-05',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/815'}
-  - {number: 832, title: 'Lesson Contribution: how to install numpy', updated: '2020-06-18',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/832'}
   - {number: 834, title: 05-suggesting a more Pythonic approach to copying, updated: '2020-06-19',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/834'}
   - {number: 833, title: 03-matplotlib should have instructions on saving the plots,
     updated: '2020-06-20', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/833'}
+  - {number: 835, title: 'Episode 03 - Visualizing Tabular Data : Suggestions', updated: '2020-06-21',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/835'}
+  - {number: 832, title: 'Lesson Contribution: how to install numpy', updated: '2020-06-21',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/832'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -711,6 +713,8 @@ records:
   - {number: 828, title: 'Update 12-cmdline.md: clarifying goals and some text', updated: '2020-06-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/828'}
   - {number: 831, title: Added missing explanation bit., updated: '2020-06-18', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/831'}
+  - {number: 837, title: Update guide.md, updated: '2020-06-22', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
+  - {number: 836, title: Update guide.md, updated: '2020-06-22', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/836'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -876,8 +880,6 @@ records:
   - {number: 479, title: Remove feline-data_v2.csv, updated: '2019-09-06', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/479'}
   - {number: 442, title: 'Use read_... functions rather than read.csv, read.table
       etc', updated: '2019-09-16', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/442'}
-  - {number: 561, title: 'Exploring Data Frames episode: add a tip on the usage and
-      the meaning of %in% operator', updated: '2019-09-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/561'}
   - {number: 560, title: 'write.csv in Episode 4: Data structures(https://swcarpentry.github.io/r-novice-gapminder/04-data-structures-part1/index.html)',
     updated: '2019-09-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/560'}
   - {number: 565, title: Subscript and superscript formatting not rendered correctly,
@@ -914,6 +916,10 @@ records:
       in R', updated: '2020-06-17', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/647'}
   - {number: 603, title: 'Episode 7 (control flow), Challenge 1', updated: '2020-06-20',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/603'}
+  - {number: 648, title: 'Change references of OS X to macOS?', updated: '2020-06-22',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/648'}
+  - {number: 561, title: 'Exploring Data Frames episode: add a tip on the usage and
+      the meaning of %in% operator', updated: '2020-06-22', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/561'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -1074,42 +1080,35 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1615'}
   - {number: 1614, title: 'Import Training Event Registration and Attendance ', updated: '2020-04-01',
     url: 'https://github.com/carpentries/amy/issues/1614'}
-  - {number: 1624, title: Name matching on workshop request forms, updated: '2020-05-02',
-    url: 'https://github.com/carpentries/amy/issues/1624'}
-  - {number: 1564, title: Feature Request- Add task = add person, updated: '2020-05-02',
-    url: 'https://github.com/carpentries/amy/issues/1564'}
-  - {number: 1562, title: TTT Open applications - check by default, updated: '2020-05-02',
-    url: 'https://github.com/carpentries/amy/issues/1562'}
-  - {number: 1516, title: Update "published" requirements, updated: '2020-05-02',
-    url: 'https://github.com/carpentries/amy/issues/1516'}
-  - {number: 1515, title: All queries should be exportable, updated: '2020-05-02',
-    url: 'https://github.com/carpentries/amy/issues/1515'}
-  - {number: 1512, title: Use DataTables in all tabular data views, updated: '2020-05-02',
-    url: 'https://github.com/carpentries/amy/issues/1512'}
-  - {number: 1484, title: Track changed metadata, updated: '2020-05-02', url: 'https://github.com/carpentries/amy/issues/1484'}
-  - {number: 1659, title: Remove "Lessons Covered" from Self Organized Submission
-      accept view, updated: '2020-05-10', url: 'https://github.com/carpentries/amy/issues/1659'}
-  - {number: 1654, title: Add Workshop Type to Workshop Request Forms, updated: '2020-05-10',
-    url: 'https://github.com/carpentries/amy/issues/1654'}
-  - {number: 1644, title: Add date feature to Self-Organised Workshop Request Form,
-    updated: '2020-05-10', url: 'https://github.com/carpentries/amy/issues/1644'}
   - {number: 1607, title: Remove Lessons Covered from the Workshops Event Page, updated: '2020-05-14',
     url: 'https://github.com/carpentries/amy/issues/1607'}
   - {number: 1664, title: 'Fixes to workshop summary in membership view ', updated: '2020-05-18',
     url: 'https://github.com/carpentries/amy/issues/1664'}
-  - {number: 1657, title: Fixes needed to how lat/lon is treated, updated: '2020-05-18',
+  - {number: 1657, title: Fixes needed to how lat/lon is treated, updated: '2020-06-21',
     url: 'https://github.com/carpentries/amy/issues/1657'}
-  - {number: 1656, title: 'What is the purpose of git_version.py?', updated: '2020-05-18',
-    url: 'https://github.com/carpentries/amy/issues/1656'}
+  - {number: 1654, title: Add Workshop Type to Workshop Request Forms, updated: '2020-06-21',
+    url: 'https://github.com/carpentries/amy/issues/1654'}
+  - {number: 1644, title: Add date feature to Self-Organised Workshop Request Form,
+    updated: '2020-06-21', url: 'https://github.com/carpentries/amy/issues/1644'}
+  - {number: 1624, title: Name matching on workshop request forms, updated: '2020-06-21',
+    url: 'https://github.com/carpentries/amy/issues/1624'}
+  - {number: 1564, title: Feature Request- Add task = add person, updated: '2020-06-21',
+    url: 'https://github.com/carpentries/amy/issues/1564'}
+  - {number: 1562, title: TTT Open applications - check by default, updated: '2020-06-21',
+    url: 'https://github.com/carpentries/amy/issues/1562'}
+  - {number: 1516, title: Update "published" requirements, updated: '2020-06-21',
+    url: 'https://github.com/carpentries/amy/issues/1516'}
+  - {number: 1515, title: All queries should be exportable, updated: '2020-06-21',
+    url: 'https://github.com/carpentries/amy/issues/1515'}
+  - {number: 1512, title: Use DataTables in all tabular data views, updated: '2020-06-21',
+    url: 'https://github.com/carpentries/amy/issues/1512'}
+  - {number: 1484, title: Track changed metadata, updated: '2020-06-21', url: 'https://github.com/carpentries/amy/issues/1484'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
-  - {number: 1665, title: removes git_version.py, updated: '2020-05-22', url: 'https://github.com/carpentries/amy/pull/1665'}
   - {number: 1673, title: Online class size, updated: '2020-06-15', url: 'https://github.com/carpentries/amy/pull/1673'}
   - {number: 1655, title: WIP - DNM - Online workshop question, updated: '2020-06-15',
     url: 'https://github.com/carpentries/amy/pull/1655'}
-  - {number: 1674, title: Confirming supporting instructor, updated: '2020-06-20',
-    url: 'https://github.com/carpentries/amy/pull/1674'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1123,4 +1122,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-06-21T16:35:33Z'
+timestamp: '2020-06-22T16:35:52Z'
