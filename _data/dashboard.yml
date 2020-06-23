@@ -631,9 +631,9 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/834'}
   - {number: 833, title: 03-matplotlib should have instructions on saving the plots,
     updated: '2020-06-20', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/833'}
-  - {number: 835, title: 'Episode 03 - Visualizing Tabular Data : Suggestions', updated: '2020-06-21',
+  - {number: 835, title: 'Episode 03 - Visualizing Tabular Data : Suggestions', updated: '2020-06-22',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/835'}
-  - {number: 832, title: 'Lesson Contribution: how to install numpy', updated: '2020-06-21',
+  - {number: 832, title: 'Lesson Contribution: how to install numpy', updated: '2020-06-22',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/832'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
@@ -712,9 +712,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/829'}
   - {number: 828, title: 'Update 12-cmdline.md: clarifying goals and some text', updated: '2020-06-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/828'}
-  - {number: 831, title: Added missing explanation bit., updated: '2020-06-18', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/831'}
-  - {number: 837, title: Update guide.md, updated: '2020-06-22', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
-  - {number: 836, title: Update guide.md, updated: '2020-06-22', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/836'}
+  - {number: 831, title: Added missing explanation bit., updated: '2020-06-22', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/831'}
+  - {number: 837, title: Update guide.md, updated: '2020-06-23', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -906,20 +905,18 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/553'}
   - {number: 630, title: 'Mention flexibility of variable selection in ''select''
       function ', updated: '2020-05-04', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/630'}
-  - {number: 633, title: 'Current release build broken - Rv4.0 incompatibilities?',
-    updated: '2020-05-20', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/633'}
   - {number: 643, title: Exploring Data Frames- factor() and as.factor(), updated: '2020-06-03',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/643'}
-  - {number: 632, title: Update figure generation scripts to automatically export
-      image files, updated: '2020-06-05', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/632'}
-  - {number: 647, title: 'Suggestion: Command to read a data table from excel file
-      in R', updated: '2020-06-17', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/647'}
-  - {number: 603, title: 'Episode 7 (control flow), Challenge 1', updated: '2020-06-20',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/603'}
-  - {number: 648, title: 'Change references of OS X to macOS?', updated: '2020-06-22',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/648'}
   - {number: 561, title: 'Exploring Data Frames episode: add a tip on the usage and
       the meaning of %in% operator', updated: '2020-06-22', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/561'}
+  - {number: 648, title: 'Change references of OS X to macOS?', updated: '2020-06-23',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/648'}
+  - {number: 633, title: 'Current release build broken - Rv4.0 incompatibilities?',
+    updated: '2020-06-23', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/633'}
+  - {number: 632, title: Update figure generation scripts to automatically export
+      image files, updated: '2020-06-23', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/632'}
+  - {number: 603, title: 'Episode 7 (control flow), Challenge 1', updated: '2020-06-23',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/603'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -1122,4 +1119,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-06-22T16:35:52Z'
+timestamp: '2020-06-23T16:36:33Z'
