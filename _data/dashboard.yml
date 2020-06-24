@@ -179,7 +179,7 @@ records:
   - {number: 1110, title: fix-issue-840 instructor, updated: '2020-05-29', url: 'https://github.com/swcarpentry/shell-novice/pull/1110'}
   - {number: 992, title: Made changes and added General Syntax episode., updated: '2020-05-29',
     url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
-  - {number: 1114, title: Address issue 1107, updated: '2020-06-16', url: 'https://github.com/swcarpentry/shell-novice/pull/1114'}
+  - {number: 1114, title: Address issue 1107, updated: '2020-06-24', url: 'https://github.com/swcarpentry/shell-novice/pull/1114'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -776,6 +776,8 @@ records:
   - {number: 472, title: 'Typo in Episode 11, ''Reading and Writing CSV Files''',
     updated: '2020-06-02', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/472'}
   - {number: 478, title: Output incorrect to description, updated: '2020-06-03', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/478'}
+  - {number: 479, title: 'Missing File in ''Programming with R: Analyzing Patient
+      Data''', updated: '2020-06-23', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/479'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
@@ -1119,4 +1121,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-06-23T16:36:33Z'
+timestamp: '2020-06-24T16:37:09Z'
