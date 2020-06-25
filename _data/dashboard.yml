@@ -167,6 +167,8 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/840'}
   - {number: 1113, title: -help command and man both not working, updated: '2020-06-11',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1113'}
+  - {number: 1116, title: Ep3. mv ls output clarification, updated: '2020-06-24',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/1116'}
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
@@ -180,6 +182,7 @@ records:
   - {number: 992, title: Made changes and added General Syntax episode., updated: '2020-05-29',
     url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
   - {number: 1114, title: Address issue 1107, updated: '2020-06-24', url: 'https://github.com/swcarpentry/shell-novice/pull/1114'}
+  - {number: 1117, title: Update setup.md, updated: '2020-06-25', url: 'https://github.com/swcarpentry/shell-novice/pull/1117'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -713,7 +716,7 @@ records:
   - {number: 828, title: 'Update 12-cmdline.md: clarifying goals and some text', updated: '2020-06-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/828'}
   - {number: 831, title: Added missing explanation bit., updated: '2020-06-22', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/831'}
-  - {number: 837, title: Update guide.md, updated: '2020-06-23', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
+  - {number: 837, title: Update guide.md, updated: '2020-06-25', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -939,7 +942,7 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/641'}
   - {number: 638, title: 'To preserve decimals, adding `%>% as.data.frame`', updated: '2020-06-01',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/638'}
-  - {number: 634, title: Do not conflate aesthetics and layers, updated: '2020-06-11',
+  - {number: 634, title: Do not conflate aesthetics and layers, updated: '2020-06-24',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/634'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
@@ -1121,4 +1124,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-06-24T16:37:09Z'
+timestamp: '2020-06-25T16:37:19Z'
