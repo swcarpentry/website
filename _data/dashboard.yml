@@ -159,15 +159,13 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1032'}
   - {number: 1086, title: 'Setup procedure for Windows: which one to follow?', updated: '2020-04-23',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1086'}
-  - {number: 1107, title: ' Episode 6:  Explicitly describe special variables $2 and
-      $3 upon introduction. ', updated: '2020-05-15', url: 'https://github.com/swcarpentry/shell-novice/issues/1107'}
   - {number: 1112, title: Reframing Nelle's Pipeline Narrative, updated: '2020-06-02',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1112'}
   - {number: 840, title: 'Episode 5: Include explanation of "datafile"', updated: '2020-06-03',
     url: 'https://github.com/swcarpentry/shell-novice/issues/840'}
   - {number: 1113, title: -help command and man both not working, updated: '2020-06-11',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1113'}
-  - {number: 1116, title: Ep3. mv ls output clarification, updated: '2020-06-24',
+  - {number: 1116, title: Ep3. mv ls output clarification, updated: '2020-06-26',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1116'}
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
@@ -181,8 +179,7 @@ records:
   - {number: 1110, title: fix-issue-840 instructor, updated: '2020-05-29', url: 'https://github.com/swcarpentry/shell-novice/pull/1110'}
   - {number: 992, title: Made changes and added General Syntax episode., updated: '2020-05-29',
     url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
-  - {number: 1114, title: Address issue 1107, updated: '2020-06-24', url: 'https://github.com/swcarpentry/shell-novice/pull/1114'}
-  - {number: 1117, title: Update setup.md, updated: '2020-06-25', url: 'https://github.com/swcarpentry/shell-novice/pull/1117'}
+  - {number: 1117, title: Update setup.md, updated: '2020-06-26', url: 'https://github.com/swcarpentry/shell-novice/pull/1117'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -716,7 +713,7 @@ records:
   - {number: 828, title: 'Update 12-cmdline.md: clarifying goals and some text', updated: '2020-06-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/828'}
   - {number: 831, title: Added missing explanation bit., updated: '2020-06-22', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/831'}
-  - {number: 837, title: Update guide.md, updated: '2020-06-25', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
+  - {number: 837, title: Update guide.md, updated: '2020-06-26', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1124,4 +1121,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-06-25T16:37:19Z'
+timestamp: '2020-06-26T16:38:27Z'
