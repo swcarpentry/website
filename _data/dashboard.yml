@@ -713,7 +713,7 @@ records:
   - {number: 828, title: 'Update 12-cmdline.md: clarifying goals and some text', updated: '2020-06-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/828'}
   - {number: 831, title: Added missing explanation bit., updated: '2020-06-22', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/831'}
-  - {number: 837, title: Update guide.md, updated: '2020-06-26', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
+  - {number: 837, title: Update guide.md, updated: '2020-06-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -761,8 +761,6 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/456'}
   - {number: 461, title: Phrasing suggestion for 01-starting-with-data.Rmd, updated: '2019-12-02',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/461'}
-  - {number: 463, title: File commadec.txt missing from r-novice-inflammation-data.zip,
-    updated: '2019-12-16', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/463'}
   - {number: 387, title: 'Reading and Writing CSV Files in R: Introduce na.strings
       argument and explain how to read CSV file by providing a filename only', updated: '2020-02-12',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/387'}
@@ -777,13 +775,17 @@ records:
     updated: '2020-06-02', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/472'}
   - {number: 478, title: Output incorrect to description, updated: '2020-06-03', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/478'}
   - {number: 479, title: 'Missing File in ''Programming with R: Analyzing Patient
-      Data''', updated: '2020-06-23', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/479'}
+      Data''', updated: '2020-06-26', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/479'}
+  - {number: 463, title: File commadec.txt missing from r-novice-inflammation-data.zip,
+    updated: '2020-06-26', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/463'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/460'}
   - {number: 421, title: 'Upgrade 06-best-practices with more references or even practices?',
     updated: '2019-12-24', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/421'}
+  - {number: 480, title: 'Added commadec.txt created by LUS24 (issue #463, from 12/2019).
+      This …', updated: '2020-06-26', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/480'}
   url: https://github.com/swcarpentry/r-novice-inflammation
 - description: R (Gapminder Data - Español)
   ident: swcarpentry/r-novice-gapminder
@@ -1121,4 +1123,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-06-26T16:38:27Z'
+timestamp: '2020-06-27T16:38:22Z'
