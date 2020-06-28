@@ -712,8 +712,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/829'}
   - {number: 828, title: 'Update 12-cmdline.md: clarifying goals and some text', updated: '2020-06-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/828'}
-  - {number: 831, title: Added missing explanation bit., updated: '2020-06-22', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/831'}
-  - {number: 837, title: Update guide.md, updated: '2020-06-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
+  - {number: 837, title: Update guide.md, updated: '2020-06-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
+  - {number: 831, title: Added missing explanation bit., updated: '2020-06-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/831'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1123,4 +1123,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-06-27T16:38:22Z'
+timestamp: '2020-06-28T16:38:51Z'
