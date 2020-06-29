@@ -288,6 +288,7 @@ records:
   - {number: 743, title: 'Ep. 2 Setting up Git - Core Editor Configurations ', updated: '2020-06-11',
     url: 'https://github.com/swcarpentry/git-novice/issues/743'}
   - {number: 745, title: lesson citation, updated: '2020-06-13', url: 'https://github.com/swcarpentry/git-novice/issues/745'}
+  - {number: 747, title: Exercise timings are all zero, updated: '2020-06-29', url: 'https://github.com/swcarpentry/git-novice/issues/747'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -329,8 +330,6 @@ records:
       things, updated: '2020-01-06', url: 'https://github.com/swcarpentry/git-novice/pull/710'}
   - {number: 714, title: Fix GitHub render of linked images and in-repo file sections,
     updated: '2020-01-07', url: 'https://github.com/swcarpentry/git-novice/pull/714'}
-  - {number: 715, title: Update the objectives in episode 1, updated: '2020-01-08',
-    url: 'https://github.com/swcarpentry/git-novice/pull/715'}
   - {number: 686, title: 'Make it clear that git status is introduced in Episode 3
       (issue #685)', updated: '2020-01-16', url: 'https://github.com/swcarpentry/git-novice/pull/686'}
   - {number: 729, title: Remove confusing `rm` text in episode 3, updated: '2020-03-11',
@@ -338,12 +337,8 @@ records:
   - {number: 739, title: Draft of new setup, updated: '2020-05-23', url: 'https://github.com/swcarpentry/git-novice/pull/739'}
   - {number: 742, title: 'episodes: proofread changes for instructor checkout', updated: '2020-06-09',
     url: 'https://github.com/swcarpentry/git-novice/pull/742'}
-  - {number: 741, title: 'Conflicts: indicate who makes what changes', updated: '2020-06-09',
-    url: 'https://github.com/swcarpentry/git-novice/pull/741'}
-  - {number: 740, title: Mention cloning outside of one's own planets repo, updated: '2020-06-09',
+  - {number: 740, title: Mention cloning outside of one's own planets repo, updated: '2020-06-29',
     url: 'https://github.com/swcarpentry/git-novice/pull/740'}
-  - {number: 744, title: Use more inclusive beverage example, updated: '2020-06-12',
-    url: 'https://github.com/swcarpentry/git-novice/pull/744'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -712,8 +707,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/829'}
   - {number: 828, title: 'Update 12-cmdline.md: clarifying goals and some text', updated: '2020-06-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/828'}
-  - {number: 837, title: Update guide.md, updated: '2020-06-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
-  - {number: 831, title: Added missing explanation bit., updated: '2020-06-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/831'}
+  - {number: 837, title: Update guide.md, updated: '2020-06-29', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
+  - {number: 831, title: Added missing explanation bit., updated: '2020-06-29', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/831'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1123,4 +1118,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-06-28T16:38:51Z'
+timestamp: '2020-06-29T16:52:16Z'
