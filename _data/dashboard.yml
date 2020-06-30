@@ -165,7 +165,8 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/840'}
   - {number: 1113, title: -help command and man both not working, updated: '2020-06-11',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1113'}
-  - {number: 1116, title: Ep3. mv ls output clarification, updated: '2020-06-26',
+  - {number: 1118, title: Auto completion on commands, updated: '2020-06-30', url: 'https://github.com/swcarpentry/shell-novice/issues/1118'}
+  - {number: 1116, title: Ep3. mv ls output clarification, updated: '2020-06-30',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1116'}
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
@@ -180,6 +181,8 @@ records:
   - {number: 992, title: Made changes and added General Syntax episode., updated: '2020-05-29',
     url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
   - {number: 1117, title: Update setup.md, updated: '2020-06-26', url: 'https://github.com/swcarpentry/shell-novice/pull/1117'}
+  - {number: 1119, title: Revises setup page to clarify shell setup. Fix for issue
+      1022, updated: '2020-06-30', url: 'https://github.com/swcarpentry/shell-novice/pull/1119'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -337,7 +340,7 @@ records:
   - {number: 739, title: Draft of new setup, updated: '2020-05-23', url: 'https://github.com/swcarpentry/git-novice/pull/739'}
   - {number: 742, title: 'episodes: proofread changes for instructor checkout', updated: '2020-06-09',
     url: 'https://github.com/swcarpentry/git-novice/pull/742'}
-  - {number: 740, title: Mention cloning outside of one's own planets repo, updated: '2020-06-29',
+  - {number: 740, title: Mention cloning outside of one's own planets repo, updated: '2020-06-30',
     url: 'https://github.com/swcarpentry/git-novice/pull/740'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
@@ -622,14 +625,14 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/824'}
   - {number: 815, title: Add flowchart illustration for for loops, updated: '2020-06-05',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/815'}
-  - {number: 834, title: 05-suggesting a more Pythonic approach to copying, updated: '2020-06-19',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/834'}
   - {number: 833, title: 03-matplotlib should have instructions on saving the plots,
     updated: '2020-06-20', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/833'}
   - {number: 835, title: 'Episode 03 - Visualizing Tabular Data : Suggestions', updated: '2020-06-22',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/835'}
   - {number: 832, title: 'Lesson Contribution: how to install numpy', updated: '2020-06-22',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/832'}
+  - {number: 834, title: 05-suggesting a more Pythonic approach to copying, updated: '2020-06-29',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/834'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -707,8 +710,7 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/829'}
   - {number: 828, title: 'Update 12-cmdline.md: clarifying goals and some text', updated: '2020-06-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/828'}
-  - {number: 837, title: Update guide.md, updated: '2020-06-29', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
-  - {number: 831, title: Added missing explanation bit., updated: '2020-06-29', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/831'}
+  - {number: 837, title: Update guide.md, updated: '2020-06-30', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -773,6 +775,8 @@ records:
       Data''', updated: '2020-06-26', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/479'}
   - {number: 463, title: File commadec.txt missing from r-novice-inflammation-data.zip,
     updated: '2020-06-26', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/463'}
+  - {number: 481, title: 'Style guide, tiny fix, and error handling in function writing',
+    updated: '2020-06-29', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/481'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
@@ -995,7 +999,7 @@ records:
   issues:
   - {number: 15, title: 'Test parameterisation ', updated: '2017-09-02', url: 'https://github.com/katyhuff/python-testing/issues/15'}
   - {number: 18, title: Add testing for raised exception, updated: '2018-02-09', url: 'https://github.com/katyhuff/python-testing/issues/18'}
-  - {number: 31, title: 'Add this lesson to the Carpentries Incubator?', updated: '2020-06-17',
+  - {number: 31, title: 'Add this lesson to the Carpentries Incubator?', updated: '2020-06-30',
     url: 'https://github.com/katyhuff/python-testing/issues/31'}
   pulls:
   - {number: 11, title: introduce unittest, updated: '2017-05-04', url: 'https://github.com/katyhuff/python-testing/pull/11'}
@@ -1118,4 +1122,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-06-29T16:52:16Z'
+timestamp: '2020-06-30T16:39:43Z'
