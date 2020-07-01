@@ -139,7 +139,6 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1001'}
   - {number: 810, title: Ep4 `sort -n` has different behaviour on Mac and git bash
       vs linux, updated: '2019-08-26', url: 'https://github.com/swcarpentry/shell-novice/issues/810'}
-  - {number: 1022, title: Setup is in the wrong order, updated: '2019-09-17', url: 'https://github.com/swcarpentry/shell-novice/issues/1022'}
   - {number: 1027, title: 'Episode 4: Don''t introduce `sort -r` when teaching piping',
     updated: '2019-09-18', url: 'https://github.com/swcarpentry/shell-novice/issues/1027'}
   - {number: 928, title: Set realistic timings for episodes, updated: '2019-09-26',
@@ -153,8 +152,6 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/996'}
   - {number: 1024, title: further developing Windows shell setup instructor guidance,
     updated: '2020-01-29', url: 'https://github.com/swcarpentry/shell-novice/issues/1024'}
-  - {number: 1010, title: Unix Shell setup suggestion - Video link and instructions
-      on set up could be helpful, updated: '2020-01-29', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
   - {number: 1032, title: Move "moving to the current folder" exercise in 03, updated: '2020-01-31',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1032'}
   - {number: 1086, title: 'Setup procedure for Windows: which one to follow?', updated: '2020-04-23',
@@ -168,6 +165,8 @@ records:
   - {number: 1118, title: Auto completion on commands, updated: '2020-06-30', url: 'https://github.com/swcarpentry/shell-novice/issues/1118'}
   - {number: 1116, title: Ep3. mv ls output clarification, updated: '2020-06-30',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1116'}
+  - {number: 1010, title: Unix Shell setup suggestion - Video link and instructions
+      on set up could be helpful, updated: '2020-07-01', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
@@ -181,8 +180,6 @@ records:
   - {number: 992, title: Made changes and added General Syntax episode., updated: '2020-05-29',
     url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
   - {number: 1117, title: Update setup.md, updated: '2020-06-26', url: 'https://github.com/swcarpentry/shell-novice/pull/1117'}
-  - {number: 1119, title: Revises setup page to clarify shell setup. Fix for issue
-      1022, updated: '2020-06-30', url: 'https://github.com/swcarpentry/shell-novice/pull/1119'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -317,8 +314,6 @@ records:
   - {number: 601, title: Update 01-basics.md, updated: '2019-07-07', url: 'https://github.com/swcarpentry/git-novice/pull/601'}
   - {number: 660, title: added registry of Data Repositories, updated: '2019-07-17',
     url: 'https://github.com/swcarpentry/git-novice/pull/660'}
-  - {number: 680, title: link to better explanation of core.autocrlf configuration
-      option, updated: '2019-07-29', url: 'https://github.com/swcarpentry/git-novice/pull/680'}
   - {number: 677, title: Git novice typo lesson 7_line 152, updated: '2019-07-31',
     url: 'https://github.com/swcarpentry/git-novice/pull/677'}
   - {number: 675, title: minor changes to and solution for **Reverting A Commit**
@@ -342,6 +337,8 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/pull/742'}
   - {number: 740, title: Mention cloning outside of one's own planets repo, updated: '2020-06-30',
     url: 'https://github.com/swcarpentry/git-novice/pull/740'}
+  - {number: 680, title: link to better explanation of core.autocrlf configuration
+      option, updated: '2020-06-30', url: 'https://github.com/swcarpentry/git-novice/pull/680'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -631,7 +628,7 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/835'}
   - {number: 832, title: 'Lesson Contribution: how to install numpy', updated: '2020-06-22',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/832'}
-  - {number: 834, title: 05-suggesting a more Pythonic approach to copying, updated: '2020-06-29',
+  - {number: 834, title: 05-suggesting a more Pythonic approach to copying, updated: '2020-07-01',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/834'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
@@ -710,7 +707,9 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/829'}
   - {number: 828, title: 'Update 12-cmdline.md: clarifying goals and some text', updated: '2020-06-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/828'}
-  - {number: 837, title: Update guide.md, updated: '2020-06-30', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
+  - {number: 839, title: Close Enough correction for 07-cond.md, updated: '2020-07-01',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/839'}
+  - {number: 837, title: Update guide.md, updated: '2020-07-01', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -768,8 +767,6 @@ records:
   - {number: 468, title: A better way to begin Lesson 3, updated: '2020-04-10', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/468'}
   - {number: 477, title: Running "make serve" to create local html lessons, updated: '2020-06-02',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/477'}
-  - {number: 472, title: 'Typo in Episode 11, ''Reading and Writing CSV Files''',
-    updated: '2020-06-02', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/472'}
   - {number: 478, title: Output incorrect to description, updated: '2020-06-03', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/478'}
   - {number: 479, title: 'Missing File in ''Programming with R: Analyzing Patient
       Data''', updated: '2020-06-26', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/479'}
@@ -777,6 +774,8 @@ records:
     updated: '2020-06-26', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/463'}
   - {number: 481, title: 'Style guide, tiny fix, and error handling in function writing',
     updated: '2020-06-29', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/481'}
+  - {number: 472, title: 'Typo in Episode 11, ''Reading and Writing CSV Files''',
+    updated: '2020-06-30', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/472'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
@@ -942,6 +941,8 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/638'}
   - {number: 634, title: Do not conflate aesthetics and layers, updated: '2020-06-24',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/634'}
+  - {number: 651, title: Update 05-data-structures-part2.Rmd, updated: '2020-06-30',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/651'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -997,14 +998,14 @@ records:
 - description: Testing and Continuous Integration with Python
   ident: katyhuff/python-testing
   issues:
-  - {number: 15, title: 'Test parameterisation ', updated: '2017-09-02', url: 'https://github.com/katyhuff/python-testing/issues/15'}
-  - {number: 18, title: Add testing for raised exception, updated: '2018-02-09', url: 'https://github.com/katyhuff/python-testing/issues/18'}
+  - {number: 15, title: 'Test parameterisation ', updated: '2017-09-02', url: 'https://github.com/carpentries-incubator/python-testing/issues/15'}
+  - {number: 18, title: Add testing for raised exception, updated: '2018-02-09', url: 'https://github.com/carpentries-incubator/python-testing/issues/18'}
   - {number: 31, title: 'Add this lesson to the Carpentries Incubator?', updated: '2020-06-30',
-    url: 'https://github.com/katyhuff/python-testing/issues/31'}
+    url: 'https://github.com/carpentries-incubator/python-testing/issues/31'}
   pulls:
-  - {number: 11, title: introduce unittest, updated: '2017-05-04', url: 'https://github.com/katyhuff/python-testing/pull/11'}
-  - {number: 30, title: Contributions back from cs491tc, updated: '2019-11-12', url: 'https://github.com/katyhuff/python-testing/pull/30'}
-  url: https://github.com/katyhuff/python-testing
+  - {number: 11, title: introduce unittest, updated: '2017-05-04', url: 'https://github.com/carpentries-incubator/python-testing/pull/11'}
+  - {number: 30, title: Contributions back from cs491tc, updated: '2019-11-12', url: 'https://github.com/carpentries-incubator/python-testing/pull/30'}
+  url: https://github.com/carpentries-incubator/python-testing
 - description: Data Management in the Ocean, Weather and Climate Sciences
   ident: DamienIrving/capstone-oceanography
   issues:
@@ -1122,4 +1123,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-06-30T16:39:43Z'
+timestamp: '2020-07-01T16:39:55Z'
