@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Peter Smyth,Martino Sorbaro Sindaci",
+    "end_date": "2020-07-02",
+    "url": "https://edcarp.github.io/2020-07-01-sfc-online/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "ONLINE",
+    "longitude": -3.187347,
+    "slug": "2020-07-01-sfc-online",
+    "tag_name": "DC,online",
+    "helpers": "Aleksandra Nenadic,Giacomo Peru,Lucia Michielin,Matthew Hamilton,Chris Wood,Robert Nagy",
+    "host_name": "University of Edinburgh",
+    "latitude": 55.945358,
+    "start_date": "2020-07-01"
+  },
+  {
     "instructors": "Kim Keogh,Thom Cuddihy,Stéphane Guillou",
     "end_date": "2020-07-01",
     "url": "https://qcif-training.github.io/2020-06-30-QCIF-Python/",
@@ -12,6 +27,21 @@
     "helpers": "Nick Hamilton,Toan Phung",
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.499226,
+    "start_date": "2020-06-30"
+  },
+  {
+    "instructors": "Rob Davey,Jose De Vega,Nicola Soranzo,Alice Minotto",
+    "end_date": "2020-07-02",
+    "url": "https://tgac.github.io/2020-06-30-earlham/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "Earlham Institute (online)",
+    "longitude": 0,
+    "slug": "2020-06-30-earlham-online",
+    "tag_name": "SWC,online",
+    "helpers": "Felix Shaw",
+    "host_name": "Earlham Institute",
+    "latitude": 0,
     "start_date": "2020-06-30"
   },
   {

@@ -165,6 +165,8 @@ records:
   - {number: 1118, title: Auto completion on commands, updated: '2020-06-30', url: 'https://github.com/swcarpentry/shell-novice/issues/1118'}
   - {number: 1116, title: Ep3. mv ls output clarification, updated: '2020-06-30',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1116'}
+  - {number: 1120, title: Using common conventions in lesson materials when providing
+      abstract or incomplete code examples., updated: '2020-07-01', url: 'https://github.com/swcarpentry/shell-novice/issues/1120'}
   - {number: 1010, title: Unix Shell setup suggestion - Video link and instructions
       on set up could be helpful, updated: '2020-07-01', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
   pulls:
@@ -338,7 +340,7 @@ records:
   - {number: 740, title: Mention cloning outside of one's own planets repo, updated: '2020-06-30',
     url: 'https://github.com/swcarpentry/git-novice/pull/740'}
   - {number: 680, title: link to better explanation of core.autocrlf configuration
-      option, updated: '2020-06-30', url: 'https://github.com/swcarpentry/git-novice/pull/680'}
+      option, updated: '2020-07-02', url: 'https://github.com/swcarpentry/git-novice/pull/680'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -707,9 +709,9 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/829'}
   - {number: 828, title: 'Update 12-cmdline.md: clarifying goals and some text', updated: '2020-06-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/828'}
-  - {number: 839, title: Close Enough correction for 07-cond.md, updated: '2020-07-01',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/839'}
   - {number: 837, title: Update guide.md, updated: '2020-07-01', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
+  - {number: 842, title: Arithmetic on the Command Line for 12-cmdline.md suggestions,
+    updated: '2020-07-02', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/842'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1123,4 +1125,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-07-01T16:39:55Z'
+timestamp: '2020-07-02T16:40:20Z'
