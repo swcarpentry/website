@@ -15,36 +15,6 @@
     "start_date": "2020-05-18"
   },
   {
-    "instructors": "Brett Longworth,Craig McLean",
-    "end_date": "2020-07-03",
-    "url": "https://blongworth.github.io/2020-06-22-WHOI-R/",
-    "country": "US",
-    "curriculum": "swc-reproducible-science",
-    "venue": "Woods Hole Oceanographic Institution (online)",
-    "longitude": -70.660599,
-    "slug": "2020-06-22-WHOI-R",
-    "tag_name": "automated-email,SWC,online",
-    "helpers": "Stace Beaulieu",
-    "host_name": "Woods Hole Oceanographic Institute",
-    "latitude": 41.523998,
-    "start_date": "2020-06-22"
-  },
-  {
-    "instructors": "Guilherme Castelão,Ana Beatriz (Bia) Villas Boas",
-    "end_date": "2020-07-03",
-    "url": "https://sio-carpentries.github.io/2020-06-23-SIO-online/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "Scripps Institution of Oceanography (online)",
-    "longitude": -117.257288,
-    "slug": "2020-06-23-SIO-online",
-    "tag_name": "SWC,online",
-    "helpers": null,
-    "host_name": "University of California San Diego",
-    "latitude": 32.867068,
-    "start_date": "2020-06-23"
-  },
-  {
     "instructors": "Kathe Todd-Brown,Geraldine Klarenberg,Eve Bohnett,Vratika Chaudhary,Felipe Sanchez",
     "end_date": "2020-07-07",
     "url": "https://uf-carpentry.github.io/2020-06-29-IFAS_REC_ecology/",
@@ -57,21 +27,6 @@
     "helpers": "Matthew Collins,James Colee,Jennica Poongavanan,Sharmin Siddiqui",
     "host_name": "University of Florida",
     "latitude": 29.6436325,
-    "start_date": "2020-06-29"
-  },
-  {
-    "instructors": "Juan (Zacharias Jacobus) Steyn,Angelique van Rensburg,Mmasibidi Setaka,Rohit Goswami,Elnaz Amanzadeh Jajin",
-    "end_date": "2020-07-03",
-    "url": "https://sadilar.github.io/2020-06-29-SA-ONLINE/",
-    "country": "ZA",
-    "curriculum": "dc-socsci-r",
-    "venue": "SADiLaR, South Africa",
-    "longitude": 0,
-    "slug": "2020-06-29-SA-ONLINE",
-    "tag_name": "automated-email,DC,online",
-    "helpers": "Sebastian Mosidi",
-    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
-    "latitude": 0,
     "start_date": "2020-06-29"
   },
   {
