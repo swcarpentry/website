@@ -610,8 +610,6 @@ records:
   - {number: 813, title: Thonny XXL, updated: '2020-03-12', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/813'}
   - {number: 800, title: Suggestion to Introduce Type Conversion, updated: '2020-03-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/800'}
-  - {number: 781, title: 'Call for Contributions: image descriptions & titles', updated: '2020-03-14',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
   - {number: 769, title: Move "mystery functions in IPython" box to earlier in lesson,
     updated: '2020-03-26', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/769'}
   - {number: 819, title: Setup suggestion - Usage of Google Colab notebooks, updated: '2020-05-04',
@@ -633,6 +631,8 @@ records:
   - {number: 834, title: 05-suggesting a more Pythonic approach to copying, updated: '2020-07-01',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/834'}
   - {number: 830, title: pyplot import, updated: '2020-07-03', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/830'}
+  - {number: 781, title: 'Call for Contributions: image descriptions & titles', updated: '2020-07-03',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -700,8 +700,6 @@ records:
   - {number: 817, title: Update 03-matplotlib.md, updated: '2020-03-30', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/817'}
   - {number: 766, title: '01-intro.md: New fundamentals exercise', updated: '2020-04-13',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/766'}
-  - {number: 814, title: Added an image description for loops_image.png, updated: '2020-05-01',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/814'}
   - {number: 822, title: Add a reference to the API documentation and introduce the
       concept, updated: '2020-05-19', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/822'}
   - {number: 827, title: '[FIX] 02-numpy: update zero index image', updated: '2020-05-27',
@@ -713,8 +711,12 @@ records:
   - {number: 837, title: Update guide.md, updated: '2020-07-01', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
   - {number: 842, title: Arithmetic on the Command Line for 12-cmdline.md suggestions,
     updated: '2020-07-02', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/842'}
+  - {number: 844, title: Detailed alt-text for images in lesson, updated: '2020-07-03',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/844'}
   - {number: 843, title: Adding a Default Action in 12-cmdline.md solution fails on
       piped stdin, updated: '2020-07-03', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/843'}
+  - {number: 814, title: Added an image description for loops_image.png, updated: '2020-07-03',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/814'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1128,4 +1130,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-07-03T16:40:22Z'
+timestamp: '2020-07-04T16:40:53Z'
