@@ -182,6 +182,8 @@ records:
   - {number: 992, title: Made changes and added General Syntax episode., updated: '2020-05-29',
     url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
   - {number: 1117, title: Update setup.md, updated: '2020-07-02', url: 'https://github.com/swcarpentry/shell-novice/pull/1117'}
+  - {number: 1121, title: 'setup.md: use tabs for OS-specific instructions', updated: '2020-07-05',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/1121'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -1130,4 +1132,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-07-04T16:40:53Z'
+timestamp: '2020-07-05T16:41:07Z'
