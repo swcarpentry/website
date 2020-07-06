@@ -710,14 +710,14 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/829'}
   - {number: 828, title: 'Update 12-cmdline.md: clarifying goals and some text', updated: '2020-06-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/828'}
-  - {number: 837, title: Update guide.md, updated: '2020-07-01', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
   - {number: 842, title: Arithmetic on the Command Line for 12-cmdline.md suggestions,
     updated: '2020-07-02', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/842'}
   - {number: 844, title: Detailed alt-text for images in lesson, updated: '2020-07-03',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/844'}
   - {number: 843, title: Adding a Default Action in 12-cmdline.md solution fails on
       piped stdin, updated: '2020-07-03', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/843'}
-  - {number: 814, title: Added an image description for loops_image.png, updated: '2020-07-03',
+  - {number: 837, title: Update guide.md, updated: '2020-07-06', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
+  - {number: 814, title: Added an image description for loops_image.png, updated: '2020-07-06',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/814'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
@@ -1132,4 +1132,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-07-05T16:41:07Z'
+timestamp: '2020-07-06T16:41:57Z'
