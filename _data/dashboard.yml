@@ -293,7 +293,7 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/743'}
   - {number: 745, title: lesson citation, updated: '2020-06-13', url: 'https://github.com/swcarpentry/git-novice/issues/745'}
   - {number: 747, title: Exercise timings are all zero, updated: '2020-06-29', url: 'https://github.com/swcarpentry/git-novice/issues/747'}
-  - {number: 749, title: ' Suggestion for clarification in .gitignore lesson', updated: '2020-07-07',
+  - {number: 749, title: ' Suggestion for clarification in .gitignore lesson', updated: '2020-07-08',
     url: 'https://github.com/swcarpentry/git-novice/issues/749'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
@@ -436,6 +436,8 @@ records:
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/320'}
   - {number: 319, title: Update list of maintainers in README, updated: '2020-06-04',
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/319'}
+  - {number: 322, title: Broken links on lesson 1 "Selecting Data", updated: '2020-07-08',
+    url: 'https://github.com/swcarpentry/sql-novice-survey/issues/322'}
   pulls:
   - {number: 274, title: adding a solution of a challange (Ordering When Concatenating),
     updated: '2018-12-13', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/274'}
@@ -720,7 +722,7 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/814'}
   - {number: 844, title: Detailed alt-text for images in lesson, updated: '2020-07-07',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/844'}
-  - {number: 837, title: Update guide.md, updated: '2020-07-07', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
+  - {number: 837, title: Update guide.md, updated: '2020-07-08', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1136,4 +1138,4 @@ records:
   - {number: 1170, title: add note to top of workshop table, updated: '2020-07-06',
     url: 'https://github.com/swcarpentry/website/pull/1170'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-07-07T16:42:26Z'
+timestamp: '2020-07-08T16:42:27Z'

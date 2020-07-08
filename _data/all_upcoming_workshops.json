@@ -45,21 +45,6 @@
     "start_date": "2020-07-06"
   },
   {
-    "instructors": "Amanda Miotto",
-    "end_date": "2020-07-08",
-    "url": "https://gu-eresearch.github.io/2020-07-06-GriffithUni-Python/",
-    "country": "AU",
-    "curriculum": "swc-python",
-    "venue": "Griffith University",
-    "longitude": -27.552941,
-    "slug": "2020-07-06-GriffithUni-Python",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Griffith University",
-    "latitude": -27.552941,
-    "start_date": "2020-07-06"
-  },
-  {
     "instructors": "Kees den Heijer,Santosh Ilamparuthi,Susan Branchett",
     "end_date": "2020-07-15",
     "url": "https://4turesearchdata-carpentries.github.io/2020-07-07-delft/",
@@ -114,7 +99,7 @@
     "longitude": 151.1118523,
     "slug": "2020-07-09-macquarie-online",
     "tag_name": "Circuits,online",
-    "helpers": "Fiona Jones,George Milunovich",
+    "helpers": "Fiona Jones,George Milunovich,Belinda Fabian,Evan Matthews",
     "host_name": "Macquarie University",
     "latitude": -33.7745006,
     "start_date": "2020-07-09"
