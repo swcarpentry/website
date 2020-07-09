@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Paula Andrea Martinez,Jason Bell,Catherine Kim,Kevin Bairos-Novak",
+    "end_date": "2020-07-09",
+    "url": "https://qcif-training.github.io/2020-07-08-QCIF-R/",
+    "country": "AU",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Queensland Cyber Infrastructure Foundation",
+    "longitude": 153.014713,
+    "slug": "2020-07-08-QCIF-R",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.499226,
+    "start_date": "2020-07-08"
+  },
+  {
     "instructors": "Amanda Miotto",
     "end_date": "2020-07-08",
     "url": "https://gu-eresearch.github.io/2020-07-06-GriffithUni-Python/",
@@ -15,7 +30,22 @@
     "start_date": "2020-07-06"
   },
   {
-    "instructors": "Peter Smyth,Martino Sorbaro Sindaci",
+    "instructors": null,
+    "end_date": "2020-07-07",
+    "url": "https://jsteyn.github.io/2020-07-06-Genesis/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-07-06-newcastle",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "University of Newcastle",
+    "latitude": null,
+    "start_date": "2020-07-06"
+  },
+  {
+    "instructors": "Peter Smyth,Martino Sorbaro Sindaci,Robert Nagy",
     "end_date": "2020-07-02",
     "url": "https://edcarp.github.io/2020-07-01-sfc-online/",
     "country": "GB",
@@ -24,7 +54,7 @@
     "longitude": -3.187347,
     "slug": "2020-07-01-sfc-online",
     "tag_name": "DC,online",
-    "helpers": "Aleksandra Nenadic,Giacomo Peru,Lucia Michielin,Matthew Hamilton,Chris Wood,Robert Nagy",
+    "helpers": "Mario Antonioletti,Aleksandra Nenadic,Giacomo Peru,Lucia Michielin,Matthew Hamilton,Chris Wood",
     "host_name": "University of Edinburgh",
     "latitude": 55.945358,
     "start_date": "2020-07-01"

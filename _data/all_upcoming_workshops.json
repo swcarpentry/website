@@ -60,21 +60,6 @@
     "start_date": "2020-07-07"
   },
   {
-    "instructors": "Paula Andrea Martinez,Jason Bell,Catherine Kim,Kevin Bairos-Novak",
-    "end_date": "2020-07-09",
-    "url": "https://qcif-training.github.io/2020-07-08-QCIF-R/",
-    "country": "AU",
-    "curriculum": "swc-reproducible-science",
-    "venue": "Queensland Cyber Infrastructure Foundation",
-    "longitude": 153.014713,
-    "slug": "2020-07-08-QCIF-R",
-    "tag_name": "SWC,online",
-    "helpers": null,
-    "host_name": "Queensland Cyber Infrastructure Foundation",
-    "latitude": -27.499226,
-    "start_date": "2020-07-08"
-  },
-  {
     "instructors": "Lorraine Ling,Eve Bohnett,Sichong Peng,Rachel Lombardi",
     "end_date": "2020-07-17",
     "url": "https://loriling96.github.io/2020-07-08-genentech-online/",
@@ -315,18 +300,18 @@
     "start_date": "2020-07-28"
   },
   {
-    "instructors": "Roo Mabuya",
+    "instructors": "Rooweither Mabuya",
     "end_date": "2020-08-07",
     "url": "https://sadilar.github.io/2020-08-03-SA-ONLINE/",
     "country": "ZA",
     "curriculum": "dc-socsci-r",
-    "venue": "Online",
-    "longitude": 0,
+    "venue": "SADiLaR",
+    "longitude": -123.39333,
     "slug": "2020-08-03-SA-ONLINE",
     "tag_name": "automated-email,DC,online",
-    "helpers": null,
+    "helpers": "Benson Muite",
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
-    "latitude": 0,
+    "latitude": -48.876667,
     "start_date": "2020-08-03"
   },
   {
@@ -375,18 +360,18 @@
     "start_date": "2020-08-17"
   },
   {
-    "instructors": null,
+    "instructors": "Bianca Peterson",
     "end_date": "2020-08-21",
     "url": "https://sadilar.github.io/2020-08-17-SA-ONLINE/",
     "country": "ZA",
     "curriculum": "dc-socsci-r",
-    "venue": "SADiLaR, South Africa",
-    "longitude": null,
+    "venue": "SADiLaR",
+    "longitude": -123.39333,
     "slug": "2020-08-17-SA-ONLINE",
     "tag_name": "automated-email,DC,online",
     "helpers": null,
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
-    "latitude": null,
+    "latitude": -48.876667,
     "start_date": "2020-08-17"
   },
   {

@@ -207,8 +207,6 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/523'}
   - {number: 519, title: This description of the VCS concept is misleading for Git,
     updated: '2018-09-12', url: 'https://github.com/swcarpentry/git-novice/issues/519'}
-  - {number: 508, title: Opening of the Version Control lesson starts with an assumption,
-    updated: '2018-10-04', url: 'https://github.com/swcarpentry/git-novice/issues/508'}
   - {number: 359, title: '[Episode 07] [Episode 08] - mention why origin nickname
       is so common', updated: '2018-11-05', url: 'https://github.com/swcarpentry/git-novice/issues/359'}
   - {number: 582, title: 'Lesson 08: A better description of the reviewing process
@@ -295,6 +293,8 @@ records:
   - {number: 747, title: Exercise timings are all zero, updated: '2020-06-29', url: 'https://github.com/swcarpentry/git-novice/issues/747'}
   - {number: 749, title: ' Suggestion for clarification in .gitignore lesson', updated: '2020-07-08',
     url: 'https://github.com/swcarpentry/git-novice/issues/749'}
+  - {number: 750, title: 'Episode 10: Changing from "Open Science" to "Open Research"',
+    updated: '2020-07-09', url: 'https://github.com/swcarpentry/git-novice/issues/750'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -344,7 +344,7 @@ records:
   - {number: 740, title: Mention cloning outside of one's own planets repo, updated: '2020-06-30',
     url: 'https://github.com/swcarpentry/git-novice/pull/740'}
   - {number: 680, title: link to more detailed explanation of core.autocrlf configuration
-      option, updated: '2020-07-03', url: 'https://github.com/swcarpentry/git-novice/pull/680'}
+      option, updated: '2020-07-09', url: 'https://github.com/swcarpentry/git-novice/pull/680'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -628,8 +628,6 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/824'}
   - {number: 815, title: Add flowchart illustration for for loops, updated: '2020-06-05',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/815'}
-  - {number: 833, title: 03-matplotlib should have instructions on saving the plots,
-    updated: '2020-06-20', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/833'}
   - {number: 835, title: 'Episode 03 - Visualizing Tabular Data : Suggestions', updated: '2020-06-22',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/835'}
   - {number: 832, title: 'Lesson Contribution: how to install numpy', updated: '2020-06-22',
@@ -639,6 +637,8 @@ records:
   - {number: 830, title: pyplot import, updated: '2020-07-03', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/830'}
   - {number: 781, title: 'Call for Contributions: image descriptions & titles', updated: '2020-07-03',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
+  - {number: 833, title: 03-matplotlib should have instructions on saving the plots,
+    updated: '2020-07-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/833'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -722,7 +722,7 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/814'}
   - {number: 844, title: Detailed alt-text for images in lesson, updated: '2020-07-07',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/844'}
-  - {number: 837, title: Update guide.md, updated: '2020-07-08', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
+  - {number: 837, title: Update guide.md, updated: '2020-07-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -932,6 +932,8 @@ records:
       image files, updated: '2020-06-23', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/632'}
   - {number: 603, title: 'Episode 7 (control flow), Challenge 1', updated: '2020-06-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/603'}
+  - {number: 652, title: Comments to improve the lesson "Producing Reports With knitr",
+    updated: '2020-07-09', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/652'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -954,7 +956,7 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/638'}
   - {number: 634, title: Do not conflate aesthetics and layers, updated: '2020-06-24',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/634'}
-  - {number: 651, title: Update 05-data-structures-part2.Rmd, updated: '2020-06-30',
+  - {number: 651, title: Update 05-data-structures-part2.Rmd, updated: '2020-07-08',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/651'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
@@ -1138,4 +1140,4 @@ records:
   - {number: 1170, title: add note to top of workshop table, updated: '2020-07-06',
     url: 'https://github.com/swcarpentry/website/pull/1170'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-07-08T16:42:27Z'
+timestamp: '2020-07-09T16:43:01Z'
