@@ -249,8 +249,6 @@ records:
   - {number: 703, title: 'Improve episode 5 "Exploring History" ', updated: '2019-12-02',
     url: 'https://github.com/swcarpentry/git-novice/issues/703'}
   - {number: 708, title: Exercise submission, updated: '2019-12-08', url: 'https://github.com/swcarpentry/git-novice/issues/708'}
-  - {number: 709, title: Specify text to immediately after opening text editor, updated: '2019-12-09',
-    url: 'https://github.com/swcarpentry/git-novice/issues/709'}
   - {number: 701, title: Suggestions on git large file system and submodule, updated: '2019-12-10',
     url: 'https://github.com/swcarpentry/git-novice/issues/701'}
   - {number: 711, title: 'Lesson 2: More information about vim (insert mode)', updated: '2019-12-17',
@@ -295,6 +293,8 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/749'}
   - {number: 750, title: 'Episode 10: Changing from "Open Science" to "Open Research"',
     updated: '2020-07-09', url: 'https://github.com/swcarpentry/git-novice/issues/750'}
+  - {number: 709, title: Specify text to immediately after opening text editor, updated: '2020-07-10',
+    url: 'https://github.com/swcarpentry/git-novice/issues/709'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -345,6 +345,8 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/pull/740'}
   - {number: 680, title: link to more detailed explanation of core.autocrlf configuration
       option, updated: '2020-07-09', url: 'https://github.com/swcarpentry/git-novice/pull/680'}
+  - {number: 751, title: Updated the introductory content on index.md, updated: '2020-07-11',
+    url: 'https://github.com/swcarpentry/git-novice/pull/751'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -641,8 +643,6 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
   - {number: 833, title: 03-matplotlib should have instructions on saving the plots,
     updated: '2020-07-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/833'}
-  - {number: 848, title: 'Episode 08 - Suggestion: use double triple quotes for docstrings',
-    updated: '2020-07-10', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/848'}
   - {number: 847, title: '01-intro: Inaccuracy in Demonstration of "Variables as Sticky
       Notes"', updated: '2020-07-10', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/847'}
   pulls:
@@ -731,8 +731,6 @@ records:
   - {number: 845, title: Replaced cumbersome matplotlib.pyplot with plt, updated: '2020-07-09',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/845'}
   - {number: 837, title: Update guide.md, updated: '2020-07-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
-  - {number: 849, title: 'resolve #848 - use double triple quotes for docstrings',
-    updated: '2020-07-10', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/849'}
   - {number: 846, title: Added storing plot to a file to Matplotlib example, updated: '2020-07-10',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/846'}
   url: https://github.com/swcarpentry/python-novice-inflammation
@@ -745,16 +743,10 @@ records:
       to teach str()?', updated: '2018-08-20', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/342'}
   - {number: 324, title: improving the documentation / packaging episodes for both
       functions and data, updated: '2018-08-20', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/324'}
-  - {number: 295, title: Subsetting data frames by names also possible for rows, updated: '2018-08-20',
-    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/295'}
   - {number: 284, title: Clearly indicate core vs. supplementary episodes in lesson
       syllabus, updated: '2018-08-20', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/284'}
   - {number: 391, title: 'Remove 08-making-packages-R & refer to external resource?',
     updated: '2018-08-23', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/391'}
-  - {number: 423, title: 'Data Types and Structures: discussion on types versus structures',
-    updated: '2019-05-08', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/423'}
-  - {number: 393, title: 'Adding options(stringAsFactors = FALSE) [episode 11]', updated: '2019-05-08',
-    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/393'}
   - {number: 420, title: Best Practices for Writing R Code/Additional recommendations,
     updated: '2019-05-09', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/420'}
   - {number: 389, title: trouble with quotes in writing CSVs and tables, updated: '2019-05-09',
@@ -765,8 +757,6 @@ records:
       tests?', updated: '2019-05-09', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/364'}
   - {number: 331, title: convert "here" links to useful snippets, updated: '2019-05-09',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/331'}
-  - {number: 311, title: Setting working directory in 01-starting-with-data with tab
-      complete, updated: '2019-05-09', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/311'}
   - {number: 374, title: adding code example to "Automatic return", updated: '2019-06-02',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/374'}
   - {number: 434, title: CSV file photos are screen shots of Excel files instead of
@@ -797,6 +787,14 @@ records:
     updated: '2020-07-10', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/481'}
   - {number: 472, title: 'Typo in Episode 11, ''Reading and Writing CSV Files''',
     updated: '2020-07-10', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/472'}
+  - {number: 423, title: 'Data Types and Structures: discussion on types versus structures',
+    updated: '2020-07-10', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/423'}
+  - {number: 393, title: 'Adding options(stringAsFactors = FALSE) [episode 11]', updated: '2020-07-10',
+    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/393'}
+  - {number: 311, title: Setting working directory in 01-starting-with-data with tab
+      complete, updated: '2020-07-10', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/311'}
+  - {number: 295, title: Subsetting data frames by names also possible for rows, updated: '2020-07-10',
+    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/295'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
@@ -1146,4 +1144,4 @@ records:
   - {number: 1170, title: add note to top of workshop table, updated: '2020-07-06',
     url: 'https://github.com/swcarpentry/website/pull/1170'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-07-10T16:42:48Z'
+timestamp: '2020-07-11T16:42:53Z'
