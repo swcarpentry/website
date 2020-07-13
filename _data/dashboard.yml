@@ -438,8 +438,6 @@ records:
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/320'}
   - {number: 319, title: Update list of maintainers in README, updated: '2020-06-04',
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/319'}
-  - {number: 322, title: Broken links on lesson 1 "Selecting Data", updated: '2020-07-08',
-    url: 'https://github.com/swcarpentry/sql-novice-survey/issues/322'}
   pulls:
   - {number: 274, title: adding a solution of a challange (Ordering When Concatenating),
     updated: '2018-12-13', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/274'}
@@ -449,8 +447,6 @@ records:
       sql commands, updated: '2020-03-09', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/193'}
   - {number: 289, title: Simplification + solution for group concatenation exercise,
     updated: '2020-05-28', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/289'}
-  - {number: 323, title: '[fix #322] Fix reference links and upgrade to latest version
-      of styles', updated: '2020-07-10', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/323'}
   url: https://github.com/swcarpentry/sql-novice-survey
 - description: Python
   ident: swcarpentry/python-novice-inflammation
@@ -1130,4 +1126,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-07-13T14:28:40Z'
+timestamp: '2020-07-13T16:43:32Z'
