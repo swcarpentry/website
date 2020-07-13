@@ -726,9 +726,9 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/814'}
   - {number: 844, title: Detailed alt-text for images in lesson, updated: '2020-07-07',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/844'}
-  - {number: 845, title: Replaced cumbersome matplotlib.pyplot with plt, updated: '2020-07-09',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/845'}
   - {number: 837, title: Update guide.md, updated: '2020-07-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
+  - {number: 845, title: Replaced cumbersome matplotlib.pyplot with plt, updated: '2020-07-12',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/845'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1129,7 +1129,5 @@ records:
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
-  - {number: 1170, title: add note to top of workshop table, updated: '2020-07-06',
-    url: 'https://github.com/swcarpentry/website/pull/1170'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-07-12T16:43:25Z'
+timestamp: '2020-07-13T14:28:40Z'
