@@ -639,6 +639,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
   - {number: 847, title: '01-intro: Inaccuracy in Demonstration of "Variables as Sticky
       Notes"', updated: '2020-07-10', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/847'}
+  - {number: 851, title: 'reference.md: remove old, add new things', updated: '2020-07-14',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/851'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -716,8 +718,6 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/828'}
   - {number: 842, title: Arithmetic on the Command Line for 12-cmdline.md suggestions,
     updated: '2020-07-02', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/842'}
-  - {number: 843, title: Adding a Default Action in 12-cmdline.md solution fails on
-      piped stdin, updated: '2020-07-03', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/843'}
   - {number: 814, title: Added an image description for loops_image.png, updated: '2020-07-06',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/814'}
   - {number: 844, title: Detailed alt-text for images in lesson, updated: '2020-07-07',
@@ -725,6 +725,9 @@ records:
   - {number: 837, title: Update guide.md, updated: '2020-07-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
   - {number: 845, title: Replaced cumbersome matplotlib.pyplot with plt, updated: '2020-07-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/845'}
+  - {number: 843, title: Adding a Default Action in 12-cmdline.md solution fails on
+      piped stdin, updated: '2020-07-14', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/843'}
+  - {number: 852, title: Update 01-intro.md, updated: '2020-07-15', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/852'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1128,4 +1131,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-07-14T16:44:32Z'
+timestamp: '2020-07-15T16:44:49Z'
