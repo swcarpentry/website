@@ -639,7 +639,9 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
   - {number: 847, title: '01-intro: Inaccuracy in Demonstration of "Variables as Sticky
       Notes"', updated: '2020-07-10', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/847'}
-  - {number: 851, title: 'reference.md: remove old, add new things', updated: '2020-07-14',
+  - {number: 853, title: Making choices - Add explanation of all comparison operators,
+    updated: '2020-07-16', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/853'}
+  - {number: 851, title: 'reference.md: remove old, add new things', updated: '2020-07-16',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/851'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
@@ -1131,4 +1133,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-07-15T16:44:49Z'
+timestamp: '2020-07-16T16:44:59Z'

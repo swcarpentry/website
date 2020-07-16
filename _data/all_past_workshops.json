@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Mauro Lepore",
+    "end_date": "2020-07-16",
+    "url": "https://maurolepore.github.io/2020-07-15-rice/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Rice University (online)",
+    "longitude": -95.4018312,
+    "slug": "2020-07-15-rice",
+    "tag_name": "automated-email,DC,online",
+    "helpers": "Clinton Heider,Miaomiao Rimmer,Lisa Spiro,John Mulligan",
+    "host_name": "Rice University",
+    "latitude": 29.7173941,
+    "start_date": "2020-07-15"
+  },
+  {
     "instructors": "Lachlan Deer,Melissa Fabros,Elnaz Amanzadeh Jajin",
     "end_date": "2020-07-15",
     "url": "https://lachlandeer.github.io/2020-07-14-usda-online/",

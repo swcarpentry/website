@@ -105,21 +105,6 @@
     "start_date": "2020-07-14"
   },
   {
-    "instructors": "Mauro Lepore",
-    "end_date": "2020-07-16",
-    "url": "https://maurolepore.github.io/2020-07-15-rice/",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "Rice University (online)",
-    "longitude": -95.4018312,
-    "slug": "2020-07-15-rice",
-    "tag_name": "automated-email,DC,online",
-    "helpers": "Clinton Heider,Miaomiao Rimmer,Lisa Spiro,John Mulligan",
-    "host_name": "Rice University",
-    "latitude": 29.7173941,
-    "start_date": "2020-07-15"
-  },
-  {
     "instructors": "Matthias Liffers,Anton Angelo",
     "end_date": "2020-07-22",
     "url": "https://bellsm74.github.io/2020-07-21-monashmalaysia-online/",
@@ -285,7 +270,7 @@
     "start_date": "2020-07-31"
   },
   {
-    "instructors": "Sourav Singh,Rooweither Mabuya",
+    "instructors": "Juan (Zacharias Jacobus) Steyn,Martin Dreyer,Sourav Singh,Rooweither Mabuya",
     "end_date": "2020-08-07",
     "url": "https://sadilar.github.io/2020-08-03-SA-ONLINE/",
     "country": "ZA",
