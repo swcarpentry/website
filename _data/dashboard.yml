@@ -639,10 +639,12 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
   - {number: 847, title: '01-intro: Inaccuracy in Demonstration of "Variables as Sticky
       Notes"', updated: '2020-07-10', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/847'}
-  - {number: 853, title: Making choices - Add explanation of all comparison operators,
-    updated: '2020-07-16', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/853'}
   - {number: 851, title: 'reference.md: remove old, add new things', updated: '2020-07-16',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/851'}
+  - {number: 854, title: Consistency in use of single- and double-quote marks, updated: '2020-07-17',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/854'}
+  - {number: 853, title: Making choices - Add explanation of all comparison operators,
+    updated: '2020-07-17', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/853'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -725,11 +727,15 @@ records:
   - {number: 844, title: Detailed alt-text for images in lesson, updated: '2020-07-07',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/844'}
   - {number: 837, title: Update guide.md, updated: '2020-07-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
-  - {number: 845, title: Replaced cumbersome matplotlib.pyplot with plt, updated: '2020-07-12',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/845'}
   - {number: 843, title: Adding a Default Action in 12-cmdline.md solution fails on
       piped stdin, updated: '2020-07-14', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/843'}
   - {number: 852, title: Update 01-intro.md, updated: '2020-07-15', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/852'}
+  - {number: 857, title: Update episode 9 double-quotes to single-quotes, updated: '2020-07-17',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/857'}
+  - {number: 856, title: Update episode 7 double-quotes to single-quotes, updated: '2020-07-17',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/856'}
+  - {number: 855, title: Update episode 5 double-quotes to single-quotes, updated: '2020-07-17',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/855'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1070,8 +1076,6 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1534'}
   - {number: 1557, title: Provide more control for visibility of curricula, updated: '2019-10-08',
     url: 'https://github.com/carpentries/amy/issues/1557'}
-  - {number: 1565, title: 'Feature request: Bulk add Instructor training progress',
-    updated: '2019-11-07', url: 'https://github.com/carpentries/amy/issues/1565'}
   - {number: 1563, title: TTT events - open/member seats for learners only, updated: '2019-11-07',
     url: 'https://github.com/carpentries/amy/issues/1563'}
   - {number: 1561, title: 'Workshop Request Form: Not Adding all Tags Automatically',
@@ -1089,8 +1093,6 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1615'}
   - {number: 1614, title: 'Import Training Event Registration and Attendance ', updated: '2020-04-01',
     url: 'https://github.com/carpentries/amy/issues/1614'}
-  - {number: 1607, title: Remove Lessons Covered from the Workshops Event Page, updated: '2020-05-14',
-    url: 'https://github.com/carpentries/amy/issues/1607'}
   - {number: 1664, title: 'Fixes to workshop summary in membership view ', updated: '2020-05-18',
     url: 'https://github.com/carpentries/amy/issues/1664'}
   - {number: 1657, title: Fixes needed to how lat/lon is treated, updated: '2020-06-21',
@@ -1112,6 +1114,10 @@ records:
   - {number: 1512, title: Use DataTables in all tabular data views, updated: '2020-06-21',
     url: 'https://github.com/carpentries/amy/issues/1512'}
   - {number: 1484, title: Track changed metadata, updated: '2020-06-21', url: 'https://github.com/carpentries/amy/issues/1484'}
+  - {number: 1607, title: Remove Lessons Covered from the Workshops Event Page, updated: '2020-07-16',
+    url: 'https://github.com/carpentries/amy/issues/1607'}
+  - {number: 1565, title: 'Feature request: Bulk add Instructor training progress',
+    updated: '2020-07-16', url: 'https://github.com/carpentries/amy/issues/1565'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1133,4 +1139,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-07-16T16:44:59Z'
+timestamp: '2020-07-17T16:45:39Z'
