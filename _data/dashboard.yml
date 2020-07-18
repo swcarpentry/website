@@ -291,10 +291,10 @@ records:
   - {number: 747, title: Exercise timings are all zero, updated: '2020-06-29', url: 'https://github.com/swcarpentry/git-novice/issues/747'}
   - {number: 749, title: ' Suggestion for clarification in .gitignore lesson', updated: '2020-07-08',
     url: 'https://github.com/swcarpentry/git-novice/issues/749'}
-  - {number: 750, title: 'Episode 10: Changing from "Open Science" to "Open Research"',
-    updated: '2020-07-09', url: 'https://github.com/swcarpentry/git-novice/issues/750'}
   - {number: 709, title: Specify text to immediately after opening text editor, updated: '2020-07-10',
     url: 'https://github.com/swcarpentry/git-novice/issues/709'}
+  - {number: 750, title: 'Episode 10: Changing from "Open Science" to "Open Research"',
+    updated: '2020-07-17', url: 'https://github.com/swcarpentry/git-novice/issues/750'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -957,6 +957,8 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/634'}
   - {number: 651, title: Update 05-data-structures-part2.Rmd, updated: '2020-07-08',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/651'}
+  - {number: 653, title: Fixed duplicate entry in the section keypoints for episode
+      16, updated: '2020-07-17', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/653'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1139,4 +1141,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-07-17T16:45:39Z'
+timestamp: '2020-07-18T16:45:40Z'
