@@ -184,6 +184,8 @@ records:
   - {number: 1117, title: Update setup.md, updated: '2020-07-02', url: 'https://github.com/swcarpentry/shell-novice/pull/1117'}
   - {number: 1121, title: 'setup.md: use tabs for OS-specific instructions', updated: '2020-07-05',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1121'}
+  - {number: 1123, title: change luck-based explanation to software-based, updated: '2020-07-19',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/1123'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -786,16 +788,18 @@ records:
   - {number: 477, title: Running "make serve" to create local html lessons, updated: '2020-06-02',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/477'}
   - {number: 478, title: Output incorrect to description, updated: '2020-06-03', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/478'}
-  - {number: 481, title: 'Style guide, tiny fix, and error handling in function writing',
-    updated: '2020-07-10', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/481'}
   - {number: 472, title: 'Typo in Episode 11, ''Reading and Writing CSV Files''',
     updated: '2020-07-10', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/472'}
+  - {number: 481, title: 'Style guide, tiny fix, and error handling in function writing',
+    updated: '2020-07-18', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/481'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/460'}
   - {number: 421, title: 'Upgrade 06-best-practices with more references or even practices?',
     updated: '2019-12-24', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/421'}
+  - {number: 482, title: weak introduction to error handling, updated: '2020-07-18',
+    url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/482'}
   url: https://github.com/swcarpentry/r-novice-inflammation
 - description: R (Gapminder Data - Español)
   ident: swcarpentry/r-novice-gapminder
@@ -1141,4 +1145,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-07-18T16:45:40Z'
+timestamp: '2020-07-19T16:46:51Z'
