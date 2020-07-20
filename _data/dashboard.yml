@@ -1099,8 +1099,6 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1615'}
   - {number: 1614, title: 'Import Training Event Registration and Attendance ', updated: '2020-04-01',
     url: 'https://github.com/carpentries/amy/issues/1614'}
-  - {number: 1664, title: 'Fixes to workshop summary in membership view ', updated: '2020-05-18',
-    url: 'https://github.com/carpentries/amy/issues/1664'}
   - {number: 1657, title: Fixes needed to how lat/lon is treated, updated: '2020-06-21',
     url: 'https://github.com/carpentries/amy/issues/1657'}
   - {number: 1654, title: Add Workshop Type to Workshop Request Forms, updated: '2020-06-21',
@@ -1123,15 +1121,17 @@ records:
   - {number: 1607, title: Remove Lessons Covered from the Workshops Event Page, updated: '2020-07-16',
     url: 'https://github.com/carpentries/amy/issues/1607'}
   - {number: 1565, title: 'Feature request: Bulk add Instructor training progress',
-    updated: '2020-07-16', url: 'https://github.com/carpentries/amy/issues/1565'}
+    updated: '2020-07-19', url: 'https://github.com/carpentries/amy/issues/1565'}
+  - {number: 1664, title: 'Fixes to workshop summary in membership view ', updated: '2020-07-20',
+    url: 'https://github.com/carpentries/amy/issues/1664'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
   - {number: 1673, title: Online class size, updated: '2020-06-15', url: 'https://github.com/carpentries/amy/pull/1673'}
   - {number: 1655, title: WIP - DNM - Online workshop question, updated: '2020-06-15',
     url: 'https://github.com/carpentries/amy/pull/1655'}
-  - {number: 1676, title: Miscellaneous changes to the workshop request/inquiry/submission
-      forms, updated: '2020-07-13', url: 'https://github.com/carpentries/amy/pull/1676'}
+  - {number: 1677, title: 'Instructors-host introduction: adjustments for online events',
+    updated: '2020-07-20', url: 'https://github.com/carpentries/amy/pull/1677'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1145,4 +1145,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-07-19T16:46:51Z'
+timestamp: '2020-07-20T16:47:33Z'
