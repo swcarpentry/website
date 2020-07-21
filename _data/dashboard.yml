@@ -647,6 +647,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/854'}
   - {number: 853, title: Making choices - Add explanation of all comparison operators,
     updated: '2020-07-17', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/853'}
+  - {number: 858, title: '09-errors: Fix `favorite_ice_cream` Error output', updated: '2020-07-20',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/858'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -731,13 +733,7 @@ records:
   - {number: 837, title: Update guide.md, updated: '2020-07-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/837'}
   - {number: 843, title: Adding a Default Action in 12-cmdline.md solution fails on
       piped stdin, updated: '2020-07-14', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/843'}
-  - {number: 852, title: Update 01-intro.md, updated: '2020-07-15', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/852'}
-  - {number: 857, title: Update episode 9 double-quotes to single-quotes, updated: '2020-07-17',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/857'}
-  - {number: 856, title: Update episode 7 double-quotes to single-quotes, updated: '2020-07-17',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/856'}
-  - {number: 855, title: Update episode 5 double-quotes to single-quotes, updated: '2020-07-17',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/855'}
+  - {number: 852, title: Update 01-intro.md, updated: '2020-07-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/852'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -936,7 +932,7 @@ records:
   - {number: 603, title: 'Episode 7 (control flow), Challenge 1', updated: '2020-06-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/603'}
   - {number: 652, title: Comments to improve the lesson "Producing Reports With knitr",
-    updated: '2020-07-09', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/652'}
+    updated: '2020-07-20', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/652'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -961,8 +957,6 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/634'}
   - {number: 651, title: Update 05-data-structures-part2.Rmd, updated: '2020-07-08',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/651'}
-  - {number: 653, title: Fixed duplicate entry in the section keypoints for episode
-      16, updated: '2020-07-17', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/653'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1130,8 +1124,6 @@ records:
   - {number: 1673, title: Online class size, updated: '2020-06-15', url: 'https://github.com/carpentries/amy/pull/1673'}
   - {number: 1655, title: WIP - DNM - Online workshop question, updated: '2020-06-15',
     url: 'https://github.com/carpentries/amy/pull/1655'}
-  - {number: 1677, title: 'Instructors-host introduction: adjustments for online events',
-    updated: '2020-07-20', url: 'https://github.com/carpentries/amy/pull/1677'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1145,4 +1137,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-07-20T16:47:33Z'
+timestamp: '2020-07-21T16:48:14Z'
