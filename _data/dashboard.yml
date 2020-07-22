@@ -263,8 +263,6 @@ records:
       a repo, but does not show that', updated: '2020-01-16', url: 'https://github.com/swcarpentry/git-novice/issues/685'}
   - {number: 721, title: Multiple warnings from make lesson-check, updated: '2020-01-22',
     url: 'https://github.com/swcarpentry/git-novice/issues/721'}
-  - {number: 720, title: 'Lesson 3: revise instructions for using rm', updated: '2020-01-22',
-    url: 'https://github.com/swcarpentry/git-novice/issues/720'}
   - {number: 277, title: 'Should we change the story behind the lesson?', updated: '2020-02-18',
     url: 'https://github.com/swcarpentry/git-novice/issues/277'}
   - {number: 728, title: 'Should we show an automatically resolvable merge conflict
@@ -297,6 +295,8 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/709'}
   - {number: 750, title: 'Episode 10: Changing from "Open Science" to "Open Research"',
     updated: '2020-07-17', url: 'https://github.com/swcarpentry/git-novice/issues/750'}
+  - {number: 720, title: 'Lesson 3: revise instructions for using rm', updated: '2020-07-22',
+    url: 'https://github.com/swcarpentry/git-novice/issues/720'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -349,6 +349,7 @@ records:
       option, updated: '2020-07-09', url: 'https://github.com/swcarpentry/git-novice/pull/680'}
   - {number: 751, title: Updated the introductory content on index.md, updated: '2020-07-11',
     url: 'https://github.com/swcarpentry/git-novice/pull/751'}
+  - {number: 752, title: Update 05-history.md, updated: '2020-07-22', url: 'https://github.com/swcarpentry/git-novice/pull/752'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -1118,6 +1119,8 @@ records:
     updated: '2020-07-19', url: 'https://github.com/carpentries/amy/issues/1565'}
   - {number: 1664, title: 'Fixes to workshop summary in membership view ', updated: '2020-07-20',
     url: 'https://github.com/carpentries/amy/issues/1664'}
+  - {number: 1678, title: 'Auto-emails fail because of empty email address in ''to:''
+      field', updated: '2020-07-22', url: 'https://github.com/carpentries/amy/issues/1678'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1137,4 +1140,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-07-21T16:48:14Z'
+timestamp: '2020-07-22T16:48:33Z'
