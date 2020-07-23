@@ -349,6 +349,8 @@ records:
       option, updated: '2020-07-09', url: 'https://github.com/swcarpentry/git-novice/pull/680'}
   - {number: 751, title: Updated the introductory content on index.md, updated: '2020-07-11',
     url: 'https://github.com/swcarpentry/git-novice/pull/751'}
+  - {number: 753, title: Simplify the explanation on removing files in episode 3.,
+    updated: '2020-07-22', url: 'https://github.com/swcarpentry/git-novice/pull/753'}
   - {number: 752, title: Update 05-history.md, updated: '2020-07-22', url: 'https://github.com/swcarpentry/git-novice/pull/752'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
@@ -1121,6 +1123,14 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1664'}
   - {number: 1678, title: 'Auto-emails fail because of empty email address in ''to:''
       field', updated: '2020-07-22', url: 'https://github.com/carpentries/amy/issues/1678'}
+  - {number: 1682, title: Adding a person without a surname causes 500 Server Error,
+    updated: '2020-07-23', url: 'https://github.com/carpentries/amy/issues/1682'}
+  - {number: 1681, title: Workshops with tag "circuits" don't trigger the 7 days post-workshop
+      email, updated: '2020-07-23', url: 'https://github.com/carpentries/amy/issues/1681'}
+  - {number: 1680, title: Reduce number of required supporting insturctors from 2
+      to 1 for online workshops, updated: '2020-07-23', url: 'https://github.com/carpentries/amy/issues/1680'}
+  - {number: 1679, title: Include additional contacts from workshop request forms
+      in possible recipients of auto-emails, updated: '2020-07-23', url: 'https://github.com/carpentries/amy/issues/1679'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1140,4 +1150,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-07-22T16:48:33Z'
+timestamp: '2020-07-23T16:48:42Z'
