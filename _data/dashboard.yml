@@ -1017,7 +1017,7 @@ records:
   issues:
   - {number: 15, title: 'Test parameterisation ', updated: '2017-09-02', url: 'https://github.com/carpentries-incubator/python-testing/issues/15'}
   - {number: 18, title: Add testing for raised exception, updated: '2018-02-09', url: 'https://github.com/carpentries-incubator/python-testing/issues/18'}
-  - {number: 31, title: 'Add this lesson to the Carpentries Incubator?', updated: '2020-06-30',
+  - {number: 31, title: 'Add this lesson to the Carpentries Incubator?', updated: '2020-07-24',
     url: 'https://github.com/carpentries-incubator/python-testing/issues/31'}
   pulls:
   - {number: 11, title: introduce unittest, updated: '2017-05-04', url: 'https://github.com/carpentries-incubator/python-testing/pull/11'}
@@ -1115,8 +1115,6 @@ records:
   - {number: 1512, title: Use DataTables in all tabular data views, updated: '2020-06-21',
     url: 'https://github.com/carpentries/amy/issues/1512'}
   - {number: 1484, title: Track changed metadata, updated: '2020-06-21', url: 'https://github.com/carpentries/amy/issues/1484'}
-  - {number: 1607, title: Remove Lessons Covered from the Workshops Event Page, updated: '2020-07-16',
-    url: 'https://github.com/carpentries/amy/issues/1607'}
   - {number: 1565, title: 'Feature request: Bulk add Instructor training progress',
     updated: '2020-07-19', url: 'https://github.com/carpentries/amy/issues/1565'}
   - {number: 1664, title: 'Fixes to workshop summary in membership view ', updated: '2020-07-20',
@@ -1131,6 +1129,8 @@ records:
       to 1 for online workshops, updated: '2020-07-23', url: 'https://github.com/carpentries/amy/issues/1680'}
   - {number: 1679, title: Include additional contacts from workshop request forms
       in possible recipients of auto-emails, updated: '2020-07-23', url: 'https://github.com/carpentries/amy/issues/1679'}
+  - {number: 1607, title: Remove Lessons Covered from the Workshops Event Page, updated: '2020-07-23',
+    url: 'https://github.com/carpentries/amy/issues/1607'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1150,4 +1150,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-07-23T16:48:42Z'
+timestamp: '2020-07-24T16:49:52Z'
