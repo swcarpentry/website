@@ -960,6 +960,8 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/634'}
   - {number: 651, title: Update 05-data-structures-part2.Rmd, updated: '2020-07-08',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/651'}
+  - {number: 654, title: Update tidyr functions in the reference, updated: '2020-07-25',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/654'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1017,7 +1019,7 @@ records:
   issues:
   - {number: 15, title: 'Test parameterisation ', updated: '2017-09-02', url: 'https://github.com/carpentries-incubator/python-testing/issues/15'}
   - {number: 18, title: Add testing for raised exception, updated: '2018-02-09', url: 'https://github.com/carpentries-incubator/python-testing/issues/18'}
-  - {number: 31, title: 'Add this lesson to the Carpentries Incubator?', updated: '2020-07-24',
+  - {number: 31, title: 'Add this lesson to the Carpentries Incubator?', updated: '2020-07-25',
     url: 'https://github.com/carpentries-incubator/python-testing/issues/31'}
   pulls:
   - {number: 11, title: introduce unittest, updated: '2017-05-04', url: 'https://github.com/carpentries-incubator/python-testing/pull/11'}
@@ -1150,4 +1152,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-07-24T16:49:52Z'
+timestamp: '2020-07-25T16:50:14Z'

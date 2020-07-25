@@ -225,6 +225,21 @@
     "start_date": "2020-08-10"
   },
   {
+    "instructors": null,
+    "end_date": "2020-09-04",
+    "url": "https://jordanpedersen.github.io/2020-08-14-international/",
+    "country": "CA",
+    "curriculum": "lc",
+    "venue": "International Library Carpentries, sponsored by the University of Toronto (online)",
+    "longitude": -1,
+    "slug": "2020-08-14-utoronto",
+    "tag_name": "LC",
+    "helpers": null,
+    "host_name": "University of Toronto",
+    "latitude": 45,
+    "start_date": "2020-08-14"
+  },
+  {
     "instructors": "Amanda Miotto",
     "end_date": "2020-08-19",
     "url": "https://gu-eresearch.github.io/2020-08-17-GriffithUni-Python/",
