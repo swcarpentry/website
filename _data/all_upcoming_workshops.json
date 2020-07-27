@@ -288,7 +288,7 @@
     "instructors": "Konrad Förstner,Till Sauerwein,Rabea Müller",
     "end_date": "2020-08-19",
     "url": "https://zbmed.github.io/2020-08-18-LC_at_ZB_MED_online/",
-    "country": "FI",
+    "country": "DE",
     "curriculum": "lc",
     "venue": "Library Carpentry @ ZB MED ONLINE",
     "longitude": 6.9142235,
@@ -445,7 +445,7 @@
     "slug": "2020-09-16-delft",
     "tag_name": "automated-email,DC,online",
     "helpers": "Mario Beck",
-    "host_name": "Delft Univeristy of Technology",
+    "host_name": "Delft University of Technology",
     "latitude": 52.002677,
     "start_date": "2020-09-16"
   },

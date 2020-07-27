@@ -216,8 +216,6 @@ records:
   - {number: 585, title: Consider tagging a new release so that Zenodo picks it up,
     updated: '2019-01-23', url: 'https://github.com/swcarpentry/git-novice/issues/585'}
   - {number: 521, title: No time for exercises, updated: '2019-01-28', url: 'https://github.com/swcarpentry/git-novice/issues/521'}
-  - {number: 340, title: Teaching Github (and git) via Github Desktop and other GUI
-      tools, updated: '2019-03-06', url: 'https://github.com/swcarpentry/git-novice/issues/340'}
   - {number: 516, title: Use -- when calling diff, updated: '2019-03-22', url: 'https://github.com/swcarpentry/git-novice/issues/516'}
   - {number: 609, title: Workflow clarity in Collaborating and Conflicts, updated: '2019-04-10',
     url: 'https://github.com/swcarpentry/git-novice/issues/609'}
@@ -293,10 +291,12 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/749'}
   - {number: 709, title: Specify text to immediately after opening text editor, updated: '2020-07-10',
     url: 'https://github.com/swcarpentry/git-novice/issues/709'}
-  - {number: 750, title: 'Episode 10: Changing from "Open Science" to "Open Research"',
-    updated: '2020-07-17', url: 'https://github.com/swcarpentry/git-novice/issues/750'}
   - {number: 720, title: 'Lesson 3: revise instructions for using rm', updated: '2020-07-22',
     url: 'https://github.com/swcarpentry/git-novice/issues/720'}
+  - {number: 750, title: 'Episode 10: Changing from "Open Science" to "Open Research"',
+    updated: '2020-07-27', url: 'https://github.com/swcarpentry/git-novice/issues/750'}
+  - {number: 340, title: Teaching Github (and git) via Github Desktop and other GUI
+      tools, updated: '2020-07-27', url: 'https://github.com/swcarpentry/git-novice/issues/340'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -789,8 +789,6 @@ records:
   - {number: 478, title: Output incorrect to description, updated: '2020-06-03', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/478'}
   - {number: 472, title: 'Typo in Episode 11, ''Reading and Writing CSV Files''',
     updated: '2020-07-10', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/472'}
-  - {number: 481, title: 'Style guide, tiny fix, and error handling in function writing',
-    updated: '2020-07-18', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/481'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
@@ -1017,8 +1015,6 @@ records:
   issues:
   - {number: 15, title: 'Test parameterisation ', updated: '2017-09-02', url: 'https://github.com/carpentries-incubator/python-testing/issues/15'}
   - {number: 18, title: Add testing for raised exception, updated: '2018-02-09', url: 'https://github.com/carpentries-incubator/python-testing/issues/18'}
-  - {number: 31, title: 'Add this lesson to the Carpentries Incubator?', updated: '2020-07-25',
-    url: 'https://github.com/carpentries-incubator/python-testing/issues/31'}
   pulls:
   - {number: 11, title: introduce unittest, updated: '2017-05-04', url: 'https://github.com/carpentries-incubator/python-testing/pull/11'}
   - {number: 30, title: Contributions back from cs491tc, updated: '2019-11-12', url: 'https://github.com/carpentries-incubator/python-testing/pull/30'}
@@ -1150,4 +1146,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-07-26T16:50:45Z'
+timestamp: '2020-07-27T16:50:55Z'
