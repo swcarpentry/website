@@ -1,5 +1,50 @@
 [
   {
+    "instructors": "Jason Bell,Kasia Koziara,Masami Yamaguchi,Dag Evensberget",
+    "end_date": "2020-07-28",
+    "url": "https://qcif-training.github.io/2020-07-27-QCIF-Python/",
+    "country": "AU",
+    "curriculum": "swc-plotting",
+    "venue": "Queensland Cyber Infrastructure Foundation",
+    "longitude": 153.014713,
+    "slug": "2020-07-27-QCIF-Python",
+    "tag_name": "SWC,online",
+    "helpers": "Francis Gacenga",
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.499226,
+    "start_date": "2020-07-27"
+  },
+  {
+    "instructors": "Matthew Gillman,Tuomas Koskela,Heather Kelly",
+    "end_date": "2020-07-28",
+    "url": "https://rits.github-pages.ucl.ac.uk/2020-07-27-UCL_hpc_carpentry",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "UCL (online)",
+    "longitude": 0.13,
+    "slug": "2020-07-27-UCL_hpc_carpentry-online",
+    "tag_name": "Circuits,online",
+    "helpers": "Ian Kirker,David Perez-Suarez,Hillary Bunketi",
+    "host_name": "University College London",
+    "latitude": 51.52,
+    "start_date": "2020-07-27"
+  },
+  {
+    "instructors": "Saber Soleymani,Wendy Wong",
+    "end_date": "2020-07-28",
+    "url": "https://asngrads.github.io/2020-07-27-ecr2-online/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "American Society of Naturalists Graduate Council (online)",
+    "longitude": 0,
+    "slug": "2020-07-27-ecr2-online",
+    "tag_name": "automated-email,DC,online",
+    "helpers": "Cheyenne Payne,Mariana Villalba,Reilly Cooper,Kevin Amses,Matthew Gibson",
+    "host_name": "University of Arkansas",
+    "latitude": 0,
+    "start_date": "2020-07-27"
+  },
+  {
     "instructors": "Katherine Koziar",
     "end_date": "2020-07-24",
     "url": "https://ucrlibrary.github.io/2020-07-24-ucr/",
@@ -87,6 +132,21 @@
     "helpers": "Gianluca Damaggio,Silvia Buonaiuto,Marco Pietrosanto",
     "host_name": "Consiglio Nazionale delle Ricerche",
     "latitude": 45,
+    "start_date": "2020-07-14"
+  },
+  {
+    "instructors": "Selcan Aydin,Yuanxi Fu",
+    "end_date": "2020-07-23",
+    "url": "https://smcclatchy.github.io/2020-07-14-r4ds-online/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "The Jackson Laboratory (online)",
+    "longitude": -68.196115,
+    "slug": "2020-07-14-r4ds-online",
+    "tag_name": "SWC,online",
+    "helpers": "Sue McClatchy",
+    "host_name": "Jackson Laboratory",
+    "latitude": 44.366032,
     "start_date": "2020-07-14"
   },
   {
@@ -477,6 +537,21 @@
     "helpers": "Stace Beaulieu,Arianna Krinos,Christina Hernandez,Ciara Willis,Ryan Govostes",
     "host_name": "Woods Hole Oceanographic Institute",
     "latitude": 41.523998,
+    "start_date": "2020-06-22"
+  },
+  {
+    "instructors": "Sue McClatchy,Sebastien Vigneau,Hongtian 'Stanley' Yang,Yuanxi Fu",
+    "end_date": "2020-07-01",
+    "url": "https://smcclatchy.github.io/2020-06-22-jax-r-online/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "The Jackson Laboratory (online)",
+    "longitude": -68.196936,
+    "slug": "2020-06-22-jax-r-online",
+    "tag_name": "online,Circuits",
+    "helpers": "Selcan Aydin,Alexis Garretson",
+    "host_name": "Jackson Laboratory",
+    "latitude": 44.365545,
     "start_date": "2020-06-22"
   },
   {
@@ -4515,7 +4590,7 @@
     "start_date": "2019-11-27"
   },
   {
-    "instructors": "Peter Evans,Stefan Lüdtke,Berry Boessenkool,Katrin Leinweber,Michael Dietze,Tobias Weiß,Marc Hanisch,Maximilian Dolling,Bezaye Tesfaye",
+    "instructors": "Peter Evans,Stefan Lüdtke,Berry Boessenkool,Katrin Leinweber,Michael Dietze,Tobias Weiss,Marc Hanisch,Maximilian Dolling,Bezaye Tesfaye",
     "end_date": "2019-11-27",
     "url": "http://swc-bb.gitext.gfz-potsdam.de/pages/2019-11-26-Potsdam-Berlin/",
     "country": "DE",

@@ -789,6 +789,7 @@ records:
   - {number: 478, title: Output incorrect to description, updated: '2020-06-03', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/478'}
   - {number: 472, title: 'Typo in Episode 11, ''Reading and Writing CSV Files''',
     updated: '2020-07-10', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/472'}
+  - {number: 483, title: 'RFC: Migration to R 4.0', updated: '2020-07-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/483'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
@@ -932,6 +933,7 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/603'}
   - {number: 652, title: Comments to improve the lesson "Producing Reports With knitr",
     updated: '2020-07-20', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/652'}
+  - {number: 655, title: 'RFC: Migration to R 4.0', updated: '2020-07-27', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/655'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -956,8 +958,6 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/634'}
   - {number: 651, title: Update 05-data-structures-part2.Rmd, updated: '2020-07-08',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/651'}
-  - {number: 654, title: Update tidyr functions in the reference, updated: '2020-07-25',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/654'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -973,6 +973,7 @@ records:
       familiar with warning messages in R', updated: '2018-07-06', url: 'https://github.com/swcarpentry/r-novice-gapminder-es/issues/88'}
   - {number: 100, title: Gender definition problem in the index, updated: '2019-06-04',
     url: 'https://github.com/swcarpentry/r-novice-gapminder-es/issues/100'}
+  - {number: 115, title: 'RFC: Migration to R 4.0', updated: '2020-07-27', url: 'https://github.com/swcarpentry/r-novice-gapminder-es/issues/115'}
   pulls: []
   url: https://github.com/swcarpentry/r-novice-gapminder-es
 - description: MATLAB
@@ -1146,4 +1147,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-07-27T16:50:55Z'
+timestamp: '2020-07-28T16:52:05Z'
