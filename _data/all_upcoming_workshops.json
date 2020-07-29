@@ -105,21 +105,6 @@
     "start_date": "2020-07-27"
   },
   {
-    "instructors": "Nelly Sélem",
-    "end_date": "2020-07-29",
-    "url": "https://nselem.github.io/2020-07-28-posgraduados-campeche/",
-    "country": "MX",
-    "curriculum": "swc-plotting",
-    "venue": "Colegio de Postgraduados Campus Campeche",
-    "longitude": -90.54,
-    "slug": "2020-07-28-posgraduados-campeche",
-    "tag_name": "automated-email,SWC",
-    "helpers": "Abraham Avelar",
-    "host_name": "Langebio",
-    "latitude": 19.49,
-    "start_date": "2020-07-28"
-  },
-  {
     "instructors": "Katherine Koziar",
     "end_date": "2020-07-31",
     "url": "https://ucrlibrary.github.io/2020-07-31-ucr/",
@@ -315,6 +300,21 @@
     "start_date": "2020-08-18"
   },
   {
+    "instructors": "Brook Moyers,Saranya Canchi,Eve Bohnett,Rachel Lombardi",
+    "end_date": "2020-08-19",
+    "url": "https://s-canchi.github.io/2020-08-18-USDA/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "USDA (online)",
+    "longitude": 0,
+    "slug": "2020-08-18-USDA",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "United States Deparment of Agriculture",
+    "latitude": 0,
+    "start_date": "2020-08-18"
+  },
+  {
     "instructors": "Kaitlin Newson,Tim Ribaric,Kyla Jemison",
     "end_date": "2020-08-27",
     "url": "https://brockdsl.github.io/2020-08-19-Carpentry-Online/",
@@ -364,7 +364,7 @@
     "end_date": "2020-08-25",
     "url": "https://qcif-training.github.io/2020-08-24-QCIF-Python/",
     "country": "AU",
-    "curriculum": "swc-plotting",
+    "curriculum": "swc-python-gapminder",
     "venue": "Queensland Cyber Infrastructure Foundation",
     "longitude": 153.014713,
     "slug": "2020-08-24-QCIF-Python",
