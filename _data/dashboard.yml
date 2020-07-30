@@ -169,6 +169,7 @@ records:
   - {number: 1120, title: Using common conventions in lesson materials when providing
       abstract or incomplete code examples., updated: '2020-07-02', url: 'https://github.com/swcarpentry/shell-novice/issues/1120'}
   - {number: 1118, title: Auto completion on commands, updated: '2020-07-02', url: 'https://github.com/swcarpentry/shell-novice/issues/1118'}
+  - {number: 1124, title: segue into wc command, updated: '2020-07-30', url: 'https://github.com/swcarpentry/shell-novice/issues/1124'}
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
@@ -790,6 +791,8 @@ records:
   - {number: 472, title: 'Typo in Episode 11, ''Reading and Writing CSV Files''',
     updated: '2020-07-10', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/472'}
   - {number: 483, title: 'RFC: Migration to R 4.0', updated: '2020-07-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/483'}
+  - {number: 484, title: Fix platform-specific setup instructions, updated: '2020-07-29',
+    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/484'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
@@ -1128,6 +1131,8 @@ records:
       in possible recipients of auto-emails, updated: '2020-07-23', url: 'https://github.com/carpentries/amy/issues/1679'}
   - {number: 1607, title: Remove Lessons Covered from the Workshops Event Page, updated: '2020-07-23',
     url: 'https://github.com/carpentries/amy/issues/1607'}
+  - {number: 1683, title: Require confirmation that workshops <2 mos away may not
+      be possible., updated: '2020-07-29', url: 'https://github.com/carpentries/amy/issues/1683'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1147,4 +1152,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-07-29T16:52:54Z'
+timestamp: '2020-07-30T16:53:20Z'
