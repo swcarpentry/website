@@ -170,6 +170,8 @@ records:
       abstract or incomplete code examples., updated: '2020-07-02', url: 'https://github.com/swcarpentry/shell-novice/issues/1120'}
   - {number: 1118, title: Auto completion on commands, updated: '2020-07-02', url: 'https://github.com/swcarpentry/shell-novice/issues/1118'}
   - {number: 1124, title: segue into wc command, updated: '2020-07-30', url: 'https://github.com/swcarpentry/shell-novice/issues/1124'}
+  - {number: 1125, title: Ep. 4 Pipes and Filters suggestion, updated: '2020-08-01',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/1125'}
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
@@ -297,7 +299,7 @@ records:
   - {number: 750, title: 'Episode 10: Changing from "Open Science" to "Open Research"',
     updated: '2020-07-27', url: 'https://github.com/swcarpentry/git-novice/issues/750'}
   - {number: 340, title: Teaching Github (and git) via Github Desktop and other GUI
-      tools, updated: '2020-07-27', url: 'https://github.com/swcarpentry/git-novice/issues/340'}
+      tools, updated: '2020-08-01', url: 'https://github.com/swcarpentry/git-novice/issues/340'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -1152,4 +1154,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-07-31T16:53:56Z'
+timestamp: '2020-08-01T16:55:17Z'
