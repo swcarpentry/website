@@ -170,7 +170,9 @@ records:
       abstract or incomplete code examples., updated: '2020-07-02', url: 'https://github.com/swcarpentry/shell-novice/issues/1120'}
   - {number: 1118, title: Auto completion on commands, updated: '2020-07-02', url: 'https://github.com/swcarpentry/shell-novice/issues/1118'}
   - {number: 1124, title: segue into wc command, updated: '2020-07-30', url: 'https://github.com/swcarpentry/shell-novice/issues/1124'}
-  - {number: 1125, title: Ep. 4 Pipes and Filters suggestion, updated: '2020-08-01',
+  - {number: 1126, title: Add file extension to goostats and goodiff, updated: '2020-08-03',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/1126'}
+  - {number: 1125, title: Ep. 4 Pipes and Filters suggestion, updated: '2020-08-03',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1125'}
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
@@ -1154,4 +1156,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-08-02T16:55:33Z'
+timestamp: '2020-08-03T16:55:29Z'
