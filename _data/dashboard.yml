@@ -172,7 +172,7 @@ records:
   - {number: 1124, title: segue into wc command, updated: '2020-07-30', url: 'https://github.com/swcarpentry/shell-novice/issues/1124'}
   - {number: 1126, title: Add file extension to goostats and goodiff, updated: '2020-08-03',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1126'}
-  - {number: 1125, title: Ep. 4 Pipes and Filters suggestion, updated: '2020-08-03',
+  - {number: 1125, title: Ep. 4 Pipes and Filters suggestion, updated: '2020-08-04',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1125'}
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
@@ -941,6 +941,8 @@ records:
   - {number: 652, title: Comments to improve the lesson "Producing Reports With knitr",
     updated: '2020-07-20', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/652'}
   - {number: 655, title: 'RFC: Migration to R 4.0', updated: '2020-07-27', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/655'}
+  - {number: 656, title: Minor text corrections for Writing Good Software episode,
+    updated: '2020-08-04', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/656'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -1133,8 +1135,6 @@ records:
       to 1 for online workshops, updated: '2020-07-23', url: 'https://github.com/carpentries/amy/issues/1680'}
   - {number: 1679, title: Include additional contacts from workshop request forms
       in possible recipients of auto-emails, updated: '2020-07-23', url: 'https://github.com/carpentries/amy/issues/1679'}
-  - {number: 1607, title: Remove Lessons Covered from the Workshops Event Page, updated: '2020-07-23',
-    url: 'https://github.com/carpentries/amy/issues/1607'}
   - {number: 1683, title: Require confirmation that workshops <2 mos away may not
       be possible., updated: '2020-07-29', url: 'https://github.com/carpentries/amy/issues/1683'}
   pulls:
@@ -1156,4 +1156,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-08-03T16:55:29Z'
+timestamp: '2020-08-04T16:55:37Z'
