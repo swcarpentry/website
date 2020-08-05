@@ -135,6 +135,21 @@
     "start_date": "2020-08-10"
   },
   {
+    "instructors": "Nicolás Palopoli,Laura Acion,Paola Corrales",
+    "end_date": "2020-08-25",
+    "url": "https://paocorrales.github.io/2020-08-11-online/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-08-11-ttt-online-spanish",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-08-11"
+  },
+  {
     "instructors": "Claudia Engel,Jay Lee,MONAH ABOU ALEZZ,Adrienne Traxler",
     "end_date": "2020-08-14",
     "url": "https://atraxler.github.io/2020-08-12-nccu-SBDH-online/",

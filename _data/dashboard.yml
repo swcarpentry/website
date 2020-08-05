@@ -172,7 +172,7 @@ records:
   - {number: 1124, title: segue into wc command, updated: '2020-07-30', url: 'https://github.com/swcarpentry/shell-novice/issues/1124'}
   - {number: 1126, title: Add file extension to goostats and goodiff, updated: '2020-08-03',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1126'}
-  - {number: 1125, title: Ep. 4 Pipes and Filters suggestion, updated: '2020-08-04',
+  - {number: 1125, title: 'Ep. 4 Pipes and Filters suggestion: Add subheadings', updated: '2020-08-05',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1125'}
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
@@ -795,7 +795,7 @@ records:
   - {number: 472, title: 'Typo in Episode 11, ''Reading and Writing CSV Files''',
     updated: '2020-07-10', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/472'}
   - {number: 483, title: 'RFC: Migration to R 4.0', updated: '2020-07-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/483'}
-  - {number: 484, title: Fix platform-specific setup instructions, updated: '2020-07-29',
+  - {number: 484, title: Fix platform-specific setup instructions, updated: '2020-08-05',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/484'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
@@ -1156,4 +1156,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-08-04T16:55:37Z'
+timestamp: '2020-08-05T16:55:45Z'
