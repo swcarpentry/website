@@ -657,6 +657,8 @@ records:
     updated: '2020-07-17', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/853'}
   - {number: 858, title: '09-errors: Fix `favorite_ice_cream` Error output', updated: '2020-07-20',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/858'}
+  - {number: 859, title: 'Episode 3 - Visualizing Tabular Data: fig.tight_layout()
+      Suggestion', updated: '2020-08-06', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/859'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -1131,8 +1133,6 @@ records:
     updated: '2020-07-23', url: 'https://github.com/carpentries/amy/issues/1682'}
   - {number: 1681, title: Workshops with tag "circuits" don't trigger the 7 days post-workshop
       email, updated: '2020-07-23', url: 'https://github.com/carpentries/amy/issues/1681'}
-  - {number: 1680, title: Reduce number of required supporting insturctors from 2
-      to 1 for online workshops, updated: '2020-07-23', url: 'https://github.com/carpentries/amy/issues/1680'}
   - {number: 1679, title: Include additional contacts from workshop request forms
       in possible recipients of auto-emails, updated: '2020-07-23', url: 'https://github.com/carpentries/amy/issues/1679'}
   - {number: 1683, title: Require confirmation that workshops <2 mos away may not
@@ -1156,4 +1156,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-08-05T16:55:45Z'
+timestamp: '2020-08-06T16:56:42Z'
