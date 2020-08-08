@@ -304,6 +304,8 @@ records:
     updated: '2020-07-27', url: 'https://github.com/swcarpentry/git-novice/issues/750'}
   - {number: 340, title: Teaching Github (and git) via Github Desktop and other GUI
       tools, updated: '2020-08-01', url: 'https://github.com/swcarpentry/git-novice/issues/340'}
+  - {number: 754, title: installation instructions for Windows, updated: '2020-08-08',
+    url: 'https://github.com/swcarpentry/git-novice/issues/754'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -1131,10 +1133,6 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1664'}
   - {number: 1678, title: 'Auto-emails fail because of empty email address in ''to:''
       field', updated: '2020-07-22', url: 'https://github.com/carpentries/amy/issues/1678'}
-  - {number: 1682, title: Adding a person without a surname causes 500 Server Error,
-    updated: '2020-07-23', url: 'https://github.com/carpentries/amy/issues/1682'}
-  - {number: 1681, title: Workshops with tag "circuits" don't trigger the 7 days post-workshop
-      email, updated: '2020-07-23', url: 'https://github.com/carpentries/amy/issues/1681'}
   - {number: 1679, title: Include additional contacts from workshop request forms
       in possible recipients of auto-emails, updated: '2020-07-23', url: 'https://github.com/carpentries/amy/issues/1679'}
   - {number: 1683, title: Require confirmation that workshops <2 mos away may not
@@ -1143,12 +1141,18 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1687'}
   - {number: 1686, title: Supporting instructors should receive the 7-day post workshop
       email, updated: '2020-08-07', url: 'https://github.com/carpentries/amy/issues/1686'}
+  - {number: 1682, title: Adding a person without a surname causes 500 Server Error,
+    updated: '2020-08-08', url: 'https://github.com/carpentries/amy/issues/1682'}
+  - {number: 1681, title: Workshops with tag "circuits" don't trigger the 7 days post-workshop
+      email, updated: '2020-08-08', url: 'https://github.com/carpentries/amy/issues/1681'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
   - {number: 1673, title: Online class size, updated: '2020-06-15', url: 'https://github.com/carpentries/amy/pull/1673'}
   - {number: 1655, title: WIP - DNM - Online workshop question, updated: '2020-06-15',
     url: 'https://github.com/carpentries/amy/pull/1655'}
+  - {number: 1688, title: Fix 500 error when person family is empty, updated: '2020-08-08',
+    url: 'https://github.com/carpentries/amy/pull/1688'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1162,4 +1166,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-08-07T16:57:00Z'
+timestamp: '2020-08-08T16:57:07Z'
