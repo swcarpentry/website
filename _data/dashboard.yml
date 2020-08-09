@@ -1131,28 +1131,24 @@ records:
     updated: '2020-07-19', url: 'https://github.com/carpentries/amy/issues/1565'}
   - {number: 1664, title: 'Fixes to workshop summary in membership view ', updated: '2020-07-20',
     url: 'https://github.com/carpentries/amy/issues/1664'}
-  - {number: 1678, title: 'Auto-emails fail because of empty email address in ''to:''
-      field', updated: '2020-07-22', url: 'https://github.com/carpentries/amy/issues/1678'}
-  - {number: 1679, title: Include additional contacts from workshop request forms
-      in possible recipients of auto-emails, updated: '2020-07-23', url: 'https://github.com/carpentries/amy/issues/1679'}
-  - {number: 1683, title: Require confirmation that workshops <2 mos away may not
-      be possible., updated: '2020-07-29', url: 'https://github.com/carpentries/amy/issues/1683'}
-  - {number: 1687, title: Allow editing of recipients in email previews, updated: '2020-08-07',
-    url: 'https://github.com/carpentries/amy/issues/1687'}
-  - {number: 1686, title: Supporting instructors should receive the 7-day post workshop
-      email, updated: '2020-08-07', url: 'https://github.com/carpentries/amy/issues/1686'}
-  - {number: 1682, title: Adding a person without a surname causes 500 Server Error,
-    updated: '2020-08-08', url: 'https://github.com/carpentries/amy/issues/1682'}
   - {number: 1681, title: Workshops with tag "circuits" don't trigger the 7 days post-workshop
       email, updated: '2020-08-08', url: 'https://github.com/carpentries/amy/issues/1681'}
+  - {number: 1693, title: Error cancelling a scheduled Introduction email, updated: '2020-08-09',
+    url: 'https://github.com/carpentries/amy/issues/1693'}
+  - {number: 1687, title: Allow editing of recipients in email previews, updated: '2020-08-09',
+    url: 'https://github.com/carpentries/amy/issues/1687'}
+  - {number: 1679, title: Include additional contacts from workshop request forms
+      in possible recipients of auto-emails, updated: '2020-08-09', url: 'https://github.com/carpentries/amy/issues/1679'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
   - {number: 1673, title: Online class size, updated: '2020-06-15', url: 'https://github.com/carpentries/amy/pull/1673'}
   - {number: 1655, title: WIP - DNM - Online workshop question, updated: '2020-06-15',
     url: 'https://github.com/carpentries/amy/pull/1655'}
-  - {number: 1688, title: Fix 500 error when person family is empty, updated: '2020-08-08',
-    url: 'https://github.com/carpentries/amy/pull/1688'}
+  - {number: 1689, title: Add Circuits to PostWorkshopAction tag check list, updated: '2020-08-08',
+    url: 'https://github.com/carpentries/amy/pull/1689'}
+  - {number: 1690, title: Use additional contacts in PostWorkshopAction, updated: '2020-08-09',
+    url: 'https://github.com/carpentries/amy/pull/1690'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1166,4 +1162,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-08-08T16:57:07Z'
+timestamp: '2020-08-09T16:57:55Z'
