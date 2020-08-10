@@ -191,7 +191,7 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/1121'}
   - {number: 1123, title: change luck-based explanation to software-based, updated: '2020-07-19',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1123'}
-  - {number: 1127, title: Added shebang callout for shell scripting episode, updated: '2020-08-07',
+  - {number: 1127, title: Added shebang callout for shell scripting episode, updated: '2020-08-10',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1127'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
@@ -1095,7 +1095,6 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1563'}
   - {number: 1561, title: 'Workshop Request Form: Not Adding all Tags Automatically',
     updated: '2019-11-07', url: 'https://github.com/carpentries/amy/issues/1561'}
-  - {number: 1559, title: Bug with editing Person, updated: '2019-11-07', url: 'https://github.com/carpentries/amy/issues/1559'}
   - {number: 1571, title: Connecting Membership Organisation and Workshops, updated: '2019-11-08',
     url: 'https://github.com/carpentries/amy/issues/1571'}
   - {number: 1566, title: 'Feature Request: Bulk add learners to TTT event', updated: '2019-11-13',
@@ -1133,12 +1132,11 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1664'}
   - {number: 1681, title: Workshops with tag "circuits" don't trigger the 7 days post-workshop
       email, updated: '2020-08-08', url: 'https://github.com/carpentries/amy/issues/1681'}
-  - {number: 1693, title: Error cancelling a scheduled Introduction email, updated: '2020-08-09',
-    url: 'https://github.com/carpentries/amy/issues/1693'}
   - {number: 1687, title: Allow editing of recipients in email previews, updated: '2020-08-09',
     url: 'https://github.com/carpentries/amy/issues/1687'}
   - {number: 1679, title: Include additional contacts from workshop request forms
       in possible recipients of auto-emails, updated: '2020-08-09', url: 'https://github.com/carpentries/amy/issues/1679'}
+  - {number: 1559, title: Bug with editing Person, updated: '2020-08-10', url: 'https://github.com/carpentries/amy/issues/1559'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1149,6 +1147,8 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1689'}
   - {number: 1690, title: Use additional contacts in PostWorkshopAction, updated: '2020-08-09',
     url: 'https://github.com/carpentries/amy/pull/1690'}
+  - {number: 1696, title: replace travis-ci.org by travis-ci.com, updated: '2020-08-10',
+    url: 'https://github.com/carpentries/amy/pull/1696'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1162,4 +1162,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-08-09T16:57:55Z'
+timestamp: '2020-08-10T16:58:32Z'
