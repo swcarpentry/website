@@ -1130,12 +1130,12 @@ records:
     updated: '2020-07-19', url: 'https://github.com/carpentries/amy/issues/1565'}
   - {number: 1664, title: 'Fixes to workshop summary in membership view ', updated: '2020-07-20',
     url: 'https://github.com/carpentries/amy/issues/1664'}
-  - {number: 1681, title: Workshops with tag "circuits" don't trigger the 7 days post-workshop
-      email, updated: '2020-08-08', url: 'https://github.com/carpentries/amy/issues/1681'}
   - {number: 1687, title: Allow editing of recipients in email previews, updated: '2020-08-09',
     url: 'https://github.com/carpentries/amy/issues/1687'}
   - {number: 1679, title: Include additional contacts from workshop request forms
       in possible recipients of auto-emails, updated: '2020-08-09', url: 'https://github.com/carpentries/amy/issues/1679'}
+  - {number: 1681, title: Workshops with tag "circuits" don't trigger the 7 days post-workshop
+      email, updated: '2020-08-10', url: 'https://github.com/carpentries/amy/issues/1681'}
   - {number: 1559, title: Bug with editing Person, updated: '2020-08-10', url: 'https://github.com/carpentries/amy/issues/1559'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
@@ -1162,4 +1162,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-08-10T16:58:32Z'
+timestamp: '2020-08-11T16:59:29Z'
