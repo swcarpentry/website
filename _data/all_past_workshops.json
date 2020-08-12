@@ -84,7 +84,7 @@
     "longitude": -117.327482,
     "slug": "2020-07-31-ucr",
     "tag_name": "automated-email,online,Circuits",
-    "helpers": null,
+    "helpers": "Rachel Starry",
     "host_name": "University of California, Riverside",
     "latitude": 33.972643,
     "start_date": "2020-07-31"
@@ -150,16 +150,16 @@
     "start_date": "2020-07-27"
   },
   {
-    "instructors": "Scott Peterson,Preethy Nair,Andrea Medina-Smith,Ann James",
+    "instructors": "Scott Peterson,Preethy Nair,Andrea Medina-Smith,Ann James,Dom Bortruex",
     "end_date": "2020-07-30",
     "url": "https://nairps.github.io/2020-07-27-american-online/",
     "country": "US",
     "curriculum": "lc",
     "venue": "America University (online)",
     "longitude": -77.036873,
-    "slug": "2020-07-27-american-online",
+    "slug": "2020-07-27-american-online-",
     "tag_name": "automated-email,LC,online",
-    "helpers": null,
+    "helpers": "Carol Ido,Amanda Steadman",
     "host_name": "American University",
     "latitude": 38.907192,
     "start_date": "2020-07-27"
@@ -204,7 +204,7 @@
     "longitude": -117.327482,
     "slug": "2020-07-24-ucr",
     "tag_name": "automated-email,online,Circuits",
-    "helpers": null,
+    "helpers": "Rachel Starry",
     "host_name": "University of California, Riverside",
     "latitude": 33.972643,
     "start_date": "2020-07-24"
@@ -219,7 +219,7 @@
     "longitude": -77.03,
     "slug": "2020-07-22-usda-online",
     "tag_name": "SWC,online,automated-email",
-    "helpers": null,
+    "helpers": "Daniel Restrepo-Montoya,Matt Kramer",
     "host_name": "United States Deparment of Agriculture",
     "latitude": 38.9,
     "start_date": "2020-07-22"
@@ -255,7 +255,7 @@
     "start_date": "2020-07-21"
   },
   {
-    "instructors": "Mauro Lepore",
+    "instructors": "Mauro Lepore,Ajith Kumar",
     "end_date": "2020-07-16",
     "url": "https://maurolepore.github.io/2020-07-15-rice/",
     "country": "US",
@@ -6969,7 +6969,7 @@
     "longitude": -87.598717,
     "slug": "2019-09-19-uchicago",
     "tag_name": "SWC",
-    "helpers": "Katie Dixon,Anthony Hung,Haley Randolph",
+    "helpers": "Katherine Dixon,Anthony Hung,Haley Randolph",
     "host_name": "University of Chicago",
     "latitude": 41.788609,
     "start_date": "2019-09-19"

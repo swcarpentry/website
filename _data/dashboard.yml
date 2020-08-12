@@ -663,6 +663,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/858'}
   - {number: 859, title: 'Episode 3 - Visualizing Tabular Data: fig.tight_layout()
       Suggestion', updated: '2020-08-06', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/859'}
+  - {number: 860, title: Confusing phrasing of "Check Your Understanding" in episode
+      1, updated: '2020-08-11', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/860'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -1162,4 +1164,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-08-11T16:59:29Z'
+timestamp: '2020-08-12T17:00:17Z'
