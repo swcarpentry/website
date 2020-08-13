@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Alice MacQueen",
+    "end_date": "2020-08-13",
+    "url": "https://alice-macqueen.github.io/2020-08-13-utexas/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "The University of Texas at Austin (online)",
+    "longitude": -97.73686,
+    "slug": "2020-08-13-utexas",
+    "tag_name": "Circuits,online",
+    "helpers": null,
+    "host_name": "University of Texas (Austin)",
+    "latitude": 30.2872,
+    "start_date": "2020-08-13"
+  },
+  {
     "instructors": "Travis Seaborn,James Van Leuven,Breanna Sipley,Amanda Culley",
     "end_date": "2020-08-10",
     "url": "https://jtvanleuven.github.io/2020-08-10-CAES/",
@@ -11,6 +26,21 @@
     "tag_name": "automated-email,SWC,online",
     "helpers": "Kyle Shannon,Mike Henry,Clint Elg",
     "host_name": "University of Idaho",
+    "latitude": 45,
+    "start_date": "2020-08-10"
+  },
+  {
+    "instructors": "Ian Lessing,Greg Janée,Torin White,Sanjeev Kolli,Renata Curty",
+    "end_date": "2020-08-13",
+    "url": "https://ucsbcarpentry.github.io/2020-08-10-Summer-GitBash/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of California, Santa Barbara (online)",
+    "longitude": -1,
+    "slug": "2020-08-10-Summer-GitBash",
+    "tag_name": "automated-email,Circuits,online",
+    "helpers": "Sharon Solis,Jon Jablonski,Kristi Liu",
+    "host_name": "University of California Santa Barbara",
     "latitude": 45,
     "start_date": "2020-08-10"
   },
@@ -4125,7 +4155,7 @@
     "start_date": "2020-01-08"
   },
   {
-    "instructors": "Jordan Pedersen,Lise Doucette,Mariana Jardim",
+    "instructors": "Kathy Chung,Deena Yanofsky,Jordan Pedersen,Angel Su,Lise Doucette,Sarah Forbes,Bryan Hong,Mariana Jardim",
     "end_date": "2020-01-09",
     "url": "https://JordanPedersen.github.io/2020-01-08-utsc",
     "country": "CA",
@@ -4134,7 +4164,7 @@
     "longitude": -79.19056,
     "slug": "2020-01-08-utsc",
     "tag_name": "LC",
-    "helpers": "May Chan,Deena Yanofsky,Sarah Forbes",
+    "helpers": "May Chan,Deena Yanofsky,David Kwasny,Sarah Forbes,Krista Stapelfeldt,Julia Borie",
     "host_name": "University of Toronto (Scarborough)",
     "latitude": 43.78725,
     "start_date": "2020-01-08"
@@ -6718,6 +6748,21 @@
     "host_name": "University of California San Francisco",
     "latitude": 37.767411,
     "start_date": "2019-09-27"
+  },
+  {
+    "instructors": "Karen Cranston,Easton White",
+    "end_date": "2019-09-27",
+    "url": "https://kcranston.github.io/2019-09-26-carleton/",
+    "country": "CA",
+    "curriculum": "swc-es-r",
+    "venue": "",
+    "longitude": null,
+    "slug": "2019-09-26-carleton",
+    "tag_name": "SWC",
+    "helpers": "Josie Hughes,Sonesinh Keobouasone",
+    "host_name": "Environment and Climate Change Canada",
+    "latitude": null,
+    "start_date": "2019-09-26"
   },
   {
     "instructors": "Antonia May,Valentina Erastova,Claire Hobday",
@@ -13380,7 +13425,7 @@
     "start_date": "2018-12-17"
   },
   {
-    "instructors": "John Simpson",
+    "instructors": "John Simpson,Danielle Quinn",
     "end_date": "2018-12-18",
     "url": "https://computecanada.github.io/2018-12-17-ttt-computecanada/",
     "country": "CA",
@@ -16845,7 +16890,7 @@
     "start_date": "2018-07-12"
   },
   {
-    "instructors": null,
+    "instructors": "Madeleine Bonsma-Fisher,Sarah Mahallati,Francis Nguyen,Joel Ostblom",
     "end_date": "2018-07-13",
     "url": "https://uoftcoders.github.io/2018-07-12-utoronto/",
     "country": "CA",
@@ -16854,7 +16899,7 @@
     "longitude": -79.393965,
     "slug": "2018-07-12-utoronto",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Kathy Chung,Madeleine Bonsma-Fisher,Elliott Sales de Andrade,Ahmed Hasan,Joel Ostblom",
     "host_name": "University of Toronto",
     "latitude": 43.662195,
     "start_date": "2018-07-12"
@@ -17739,7 +17784,7 @@
     "longitude": -79.919225,
     "slug": "2018-06-07-mcmaster",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "patrick schenck,Daphnee Lamarche,Hiba Shareefdeen,Jo Werba,Caroline Cauret,Rachelle Szymkiewicz",
     "host_name": "McMaster University",
     "latitude": 43.260879,
     "start_date": "2018-06-07"

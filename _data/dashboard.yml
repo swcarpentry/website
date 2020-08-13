@@ -193,6 +193,9 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/1123'}
   - {number: 1127, title: Added shebang callout for shell scripting episode, updated: '2020-08-10',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1127'}
+  - {number: 1128, title: Update 03-create.md, updated: '2020-08-12', url: 'https://github.com/swcarpentry/shell-novice/pull/1128'}
+  - {number: 1129, title: 'Add GUI double-click analogy ', updated: '2020-08-13',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/1129'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -361,6 +364,8 @@ records:
   - {number: 753, title: Simplify the explanation on removing files in episode 3.,
     updated: '2020-07-22', url: 'https://github.com/swcarpentry/git-novice/pull/753'}
   - {number: 752, title: Update 05-history.md, updated: '2020-07-22', url: 'https://github.com/swcarpentry/git-novice/pull/752'}
+  - {number: 755, title: Replace non-UTF_8 characters with UTF_8 ones, updated: '2020-08-13',
+    url: 'https://github.com/swcarpentry/git-novice/pull/755'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -372,7 +377,8 @@ records:
   url: https://github.com/swcarpentry/shell-novice-es
 - description: Git - Español
   ident: swcarpentry/git-novice-es
-  issues: []
+  issues:
+  - {number: 78, title: Git for windows, updated: '2020-08-13', url: 'https://github.com/swcarpentry/git-novice-es/issues/78'}
   pulls: []
   url: https://github.com/swcarpentry/git-novice-es
 - description: Mercurial
@@ -750,6 +756,8 @@ records:
   - {number: 843, title: Adding a Default Action in 12-cmdline.md solution fails on
       piped stdin, updated: '2020-07-14', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/843'}
   - {number: 852, title: Update 01-intro.md, updated: '2020-07-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/852'}
+  - {number: 861, title: Rephrasing the Check Your Understanding question in Episode
+      1, updated: '2020-08-13', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/861'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -956,8 +964,6 @@ records:
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
   - {number: 533, title: Fix feline v2.csv in data structures, updated: '2019-07-05',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/533'}
-  - {number: 548, title: Spell check and apply consistent code style, updated: '2019-08-22',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/548'}
   - {number: 552, title: Make gentler intro for ggplot2 lesson, updated: '2019-08-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/552'}
   - {number: 551, title: update links, updated: '2019-08-24', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/551'}
@@ -975,6 +981,8 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/634'}
   - {number: 651, title: Update 05-data-structures-part2.Rmd, updated: '2020-07-08',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/651'}
+  - {number: 548, title: Spell check and apply consistent code style, updated: '2020-08-13',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/548'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1139,6 +1147,8 @@ records:
   - {number: 1681, title: Workshops with tag "circuits" don't trigger the 7 days post-workshop
       email, updated: '2020-08-10', url: 'https://github.com/carpentries/amy/issues/1681'}
   - {number: 1559, title: Bug with editing Person, updated: '2020-08-10', url: 'https://github.com/carpentries/amy/issues/1559'}
+  - {number: 1697, title: Drop empty emails for Self-Organised action, updated: '2020-08-13',
+    url: 'https://github.com/carpentries/amy/issues/1697'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1164,4 +1174,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-08-12T17:00:17Z'
+timestamp: '2020-08-13T17:01:19Z'
