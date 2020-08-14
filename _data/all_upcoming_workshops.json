@@ -1,50 +1,5 @@
 [
   {
-    "instructors": "Jamene Brooks-Kieffer,Elizabeth Everman,Matthew Deakyne",
-    "end_date": "2020-08-14",
-    "url": "https://kulibraries.github.io/2020-07-24-ku-online/",
-    "country": "US",
-    "curriculum": "swc-python",
-    "venue": "University of Kansas (online)",
-    "longitude": -95.238251,
-    "slug": "2020-07-24-ku-online",
-    "tag_name": "automated-email,SWC,online",
-    "helpers": "Mark Holder,Boryana Koseva,Tami Albin,Greg Smith,Tom Hill,Casey Russell,Paul Trana,Riley Epperson,Lars Leon",
-    "host_name": "University of Kansas",
-    "latitude": 38.973148,
-    "start_date": "2020-07-24"
-  },
-  {
-    "instructors": "Sarah Stevens,Tobin Magle,Trisha Adamus,Briana Mittleman,Sailendharan Sudakaran,Madison Youngblom,Casey Schacher",
-    "end_date": "2020-08-14",
-    "url": "https://uw-madison-datascience.github.io/2020-08-03-uwmadison-dc/",
-    "country": "US",
-    "curriculum": "dc-genomics",
-    "venue": "UW-Madison",
-    "longitude": -89.4146762,
-    "slug": "2020-08-03-uwmadison-dc",
-    "tag_name": "DC,online",
-    "helpers": null,
-    "host_name": "University of Wisconsin - Madison",
-    "latitude": 43.076592,
-    "start_date": "2020-08-03"
-  },
-  {
-    "instructors": "Reid Otsuji,Leigh Phan,Elizabeth McAulay",
-    "end_date": "2020-08-14",
-    "url": "https://arieldeardorff.github.io/2020-08-10-SoCal-Online/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "CSU Long Beach (online)",
-    "longitude": 0,
-    "slug": "2020-08-10-SoCal-Online",
-    "tag_name": "automated-email,LC,online",
-    "helpers": "Tim Dennis,Stephanie Labou,Ariel Deardorff",
-    "host_name": "California State University Long Beach",
-    "latitude": 0,
-    "start_date": "2020-08-10"
-  },
-  {
     "instructors": "Nicolás Palopoli,Laura Acion,Paola Corrales",
     "end_date": "2020-08-25",
     "url": "https://paocorrales.github.io/2020-08-11-ttt-online-spanish/",
@@ -58,21 +13,6 @@
     "host_name": "Instructor Training",
     "latitude": null,
     "start_date": "2020-08-11"
-  },
-  {
-    "instructors": "Claudia Engel,Jay Lee,MONAH ABOU ALEZZ,Adrienne Traxler",
-    "end_date": "2020-08-14",
-    "url": "https://atraxler.github.io/2020-08-12-nccu-SBDH-online/",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "North Carolina Central University (online)",
-    "longitude": -1,
-    "slug": "2020-08-12-nccu-SBDH-online",
-    "tag_name": "automated-email,DC,online",
-    "helpers": null,
-    "host_name": "South Big Data Hub",
-    "latitude": 45,
-    "start_date": "2020-08-12"
   },
   {
     "instructors": "Reid Otsuji,Stephanie Labou,Elaine Wong,Nilani Ganeshwaran,Abigail Sparling,Jordan Pedersen,Rachel Wang,Cody Hennesy,Lise Doucette,Tuck-Voon How,Julien Tremblay McLellan",
@@ -150,6 +90,21 @@
     "start_date": "2020-08-17"
   },
   {
+    "instructors": "Matthew Aiello-Lammens,David Yakobovitch,Ian Carroll,Vinícius Salazar",
+    "end_date": "2020-08-25",
+    "url": "https://itcarroll.github.io/2020-08-17-edf-online/",
+    "country": "",
+    "curriculum": "dc-ecology-python",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-08-17-edf-online",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "Environmental Defense Fund",
+    "latitude": null,
+    "start_date": "2020-08-17"
+  },
+  {
     "instructors": "Rhondene Wint,Akshay Paropkari",
     "end_date": "2020-08-19",
     "url": "https://ucmerced.github.io/2020-08-17-ucmerced/",
@@ -207,6 +162,21 @@
     "helpers": null,
     "host_name": "United States Deparment of Agriculture",
     "latitude": 0,
+    "start_date": "2020-08-18"
+  },
+  {
+    "instructors": "Sourav Singh,Nick Wong,Aditya Bandla,Elnaz Amanzadeh Jajin",
+    "end_date": "2020-08-19",
+    "url": "https://methylnick.github.io/2020-08-18-nepal-online/",
+    "country": "",
+    "curriculum": "swc-r",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-08-18-nepal-online",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "Tribhuvan University of Nepal",
+    "latitude": null,
     "start_date": "2020-08-18"
   },
   {
