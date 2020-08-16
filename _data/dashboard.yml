@@ -1153,7 +1153,6 @@ records:
   - {number: 1689, title: Add Circuits to PostWorkshopAction tag check list, updated: '2020-08-08',
     url: 'https://github.com/carpentries/amy/pull/1689'}
   - {number: 1701, title: Add AskForWebsite action, updated: '2020-08-15', url: 'https://github.com/carpentries/amy/pull/1701'}
-  - {number: 1673, title: Online class size, updated: '2020-08-15', url: 'https://github.com/carpentries/amy/pull/1673'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1167,4 +1166,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-08-15T17:02:17Z'
+timestamp: '2020-08-16T17:02:34Z'
