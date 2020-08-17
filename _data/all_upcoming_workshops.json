@@ -93,15 +93,15 @@
     "instructors": "Matthew Aiello-Lammens,David Yakobovitch,Ian Carroll,Vinícius Salazar",
     "end_date": "2020-08-25",
     "url": "https://itcarroll.github.io/2020-08-17-edf-online/",
-    "country": "",
+    "country": "US",
     "curriculum": "dc-ecology-python",
-    "venue": "",
-    "longitude": null,
+    "venue": "Environmental Defense Fund (online)",
+    "longitude": 0,
     "slug": "2020-08-17-edf-online",
     "tag_name": "automated-email,DC,online",
     "helpers": null,
     "host_name": "Environmental Defense Fund",
-    "latitude": null,
+    "latitude": 0,
     "start_date": "2020-08-17"
   },
   {
@@ -117,21 +117,6 @@
     "helpers": "Derek Devnich",
     "host_name": "University of California Merced",
     "latitude": 37.3660652,
-    "start_date": "2020-08-17"
-  },
-  {
-    "instructors": "Alice MacQueen",
-    "end_date": "2020-08-17",
-    "url": "https://alice-macqueen.github.io/2020-08-17-utexas-online/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "University of Texas at Austin (online)",
-    "longitude": -97.73686,
-    "slug": "2020-08-17-utexas-online",
-    "tag_name": "automated-email,online,Circuits",
-    "helpers": "Taslima Haque",
-    "host_name": "University of Texas (Austin)",
-    "latitude": 30.2872,
     "start_date": "2020-08-17"
   },
   {
@@ -168,15 +153,15 @@
     "instructors": "Sourav Singh,Nick Wong,Aditya Bandla,Elnaz Amanzadeh Jajin",
     "end_date": "2020-08-19",
     "url": "https://methylnick.github.io/2020-08-18-nepal-online/",
-    "country": "",
+    "country": "NP",
     "curriculum": "swc-r",
-    "venue": "",
-    "longitude": null,
+    "venue": "Institute of Agriculture and Animal Science, Tribhuvan University (online)",
+    "longitude": 85.276944,
     "slug": "2020-08-18-nepal-online",
     "tag_name": "automated-email,SWC,online",
     "helpers": null,
     "host_name": "Tribhuvan University of Nepal",
-    "latitude": null,
+    "latitude": 27.678056,
     "start_date": "2020-08-18"
   },
   {
@@ -345,7 +330,7 @@
     "start_date": "2020-08-27"
   },
   {
-    "instructors": "Jannetta Steyn,Benson Muite",
+    "instructors": "Varshita Sher,Jannetta Steyn,Benson Muite",
     "end_date": "2020-09-04",
     "url": "https://sadilar.github.io/2020-08-31-SA-ONLINE/",
     "country": "ZA",
@@ -435,7 +420,7 @@
     "start_date": "2020-09-10"
   },
   {
-    "instructors": "Samuel Lelièvre,Paige Scudder",
+    "instructors": "Jennifer Shelton,Samuel Lelièvre,Caroline Ajilogba,Paige Scudder",
     "end_date": "2020-09-18",
     "url": "https://sadilar.github.io/2020-09-14-SA-ONLINE/",
     "country": "ZA",

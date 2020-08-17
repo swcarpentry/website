@@ -636,8 +636,6 @@ records:
     updated: '2020-03-26', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/769'}
   - {number: 819, title: Setup suggestion - Usage of Google Colab notebooks, updated: '2020-05-04',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/819'}
-  - {number: 823, title: '02-numpy: inconsistent text/images for array indexing and
-      method calls', updated: '2020-05-26', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/823'}
   - {number: 825, title: adding types of objects to lesson 1, updated: '2020-05-29',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/825'}
   - {number: 824, title: '03-matplotlib: rename axes1 -> ax1', updated: '2020-05-29',
@@ -667,6 +665,10 @@ records:
       Suggestion', updated: '2020-08-06', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/859'}
   - {number: 860, title: Confusing phrasing of "Check Your Understanding" in episode
       1, updated: '2020-08-11', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/860'}
+  - {number: 862, title: Example of two-dimensional indexing in NumPy arrays might
+      be confusing, updated: '2020-08-17', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/862'}
+  - {number: 823, title: '02-numpy: inconsistent text/images for array indexing and
+      method calls', updated: '2020-08-17', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/823'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -1136,23 +1138,16 @@ records:
     updated: '2020-07-19', url: 'https://github.com/carpentries/amy/issues/1565'}
   - {number: 1664, title: 'Fixes to workshop summary in membership view ', updated: '2020-07-20',
     url: 'https://github.com/carpentries/amy/issues/1664'}
-  - {number: 1687, title: Allow editing of recipients in email previews, updated: '2020-08-09',
-    url: 'https://github.com/carpentries/amy/issues/1687'}
-  - {number: 1681, title: Workshops with tag "circuits" don't trigger the 7 days post-workshop
-      email, updated: '2020-08-10', url: 'https://github.com/carpentries/amy/issues/1681'}
   - {number: 1559, title: Bug with editing Person, updated: '2020-08-10', url: 'https://github.com/carpentries/amy/issues/1559'}
   - {number: 1700, title: Recruit Helpers Reminder Email Automation action, updated: '2020-08-14',
     url: 'https://github.com/carpentries/amy/issues/1700'}
-  - {number: 1699, title: Ask for slug Email Automation action, updated: '2020-08-14',
-    url: 'https://github.com/carpentries/amy/issues/1699'}
+  - {number: 1687, title: Allow editing of recipients in email previews, updated: '2020-08-17',
+    url: 'https://github.com/carpentries/amy/issues/1687'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
   - {number: 1655, title: WIP - DNM - Online workshop question, updated: '2020-06-15',
     url: 'https://github.com/carpentries/amy/pull/1655'}
-  - {number: 1689, title: Add Circuits to PostWorkshopAction tag check list, updated: '2020-08-08',
-    url: 'https://github.com/carpentries/amy/pull/1689'}
-  - {number: 1701, title: Add AskForWebsite action, updated: '2020-08-15', url: 'https://github.com/carpentries/amy/pull/1701'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1166,4 +1161,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-08-16T17:02:34Z'
+timestamp: '2020-08-17T17:02:53Z'
