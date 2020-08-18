@@ -105,8 +105,6 @@ records:
       episode', updated: '2019-04-18', url: 'https://github.com/swcarpentry/shell-novice/issues/947'}
   - {number: 970, title: 'Instructor notes: Add solution for NAS home drive', updated: '2019-05-09',
     url: 'https://github.com/swcarpentry/shell-novice/issues/970'}
-  - {number: 893, title: 'Episode 7 "Finding Files With Different Properties" exercise
-      too difficult/obscure?', updated: '2019-05-14', url: 'https://github.com/swcarpentry/shell-novice/issues/893'}
   - {number: 848, title: 'Episode 4: Removing Unneeded Files exercise needs rewrite',
     updated: '2019-05-14', url: 'https://github.com/swcarpentry/shell-novice/issues/848'}
   - {number: 759, title: Acronym CLI not defined, updated: '2019-05-14', url: 'https://github.com/swcarpentry/shell-novice/issues/759'}
@@ -174,6 +172,8 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1126'}
   - {number: 1125, title: 'Ep. 4 Pipes and Filters suggestion: Add subheadings', updated: '2020-08-05',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1125'}
+  - {number: 893, title: 'Episode 7 "Finding Files With Different Properties" exercise
+      too difficult/obscure?', updated: '2020-08-18', url: 'https://github.com/swcarpentry/shell-novice/issues/893'}
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
@@ -194,6 +194,7 @@ records:
   - {number: 1127, title: Added shebang callout for shell scripting episode, updated: '2020-08-10',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1127'}
   - {number: 1128, title: Update 03-create.md, updated: '2020-08-12', url: 'https://github.com/swcarpentry/shell-novice/pull/1128'}
+  - {number: 1131, title: Remove difficult exercise, updated: '2020-08-18', url: 'https://github.com/swcarpentry/shell-novice/pull/1131'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -665,10 +666,10 @@ records:
       Suggestion', updated: '2020-08-06', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/859'}
   - {number: 860, title: Confusing phrasing of "Check Your Understanding" in episode
       1, updated: '2020-08-11', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/860'}
-  - {number: 862, title: Example of two-dimensional indexing in NumPy arrays might
-      be confusing, updated: '2020-08-17', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/862'}
   - {number: 823, title: '02-numpy: inconsistent text/images for array indexing and
       method calls', updated: '2020-08-17', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/823'}
+  - {number: 862, title: Example of two-dimensional indexing in NumPy arrays might
+      be confusing, updated: '2020-08-18', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/862'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -755,7 +756,7 @@ records:
       piped stdin, updated: '2020-07-14', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/843'}
   - {number: 852, title: Update 01-intro.md, updated: '2020-07-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/852'}
   - {number: 861, title: Rephrasing the Check Your Understanding question in Episode
-      1, updated: '2020-08-13', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/861'}
+      1, updated: '2020-08-18', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/861'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1148,6 +1149,8 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1203'}
   - {number: 1655, title: WIP - DNM - Online workshop question, updated: '2020-06-15',
     url: 'https://github.com/carpentries/amy/pull/1655'}
+  - {number: 1703, title: Reminder to recruit helpers - email action, updated: '2020-08-18',
+    url: 'https://github.com/carpentries/amy/pull/1703'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1161,4 +1164,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-08-17T17:02:53Z'
+timestamp: '2020-08-18T17:03:37Z'
