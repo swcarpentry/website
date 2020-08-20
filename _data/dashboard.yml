@@ -194,7 +194,7 @@ records:
   - {number: 1127, title: Added shebang callout for shell scripting episode, updated: '2020-08-10',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1127'}
   - {number: 1128, title: Update 03-create.md, updated: '2020-08-12', url: 'https://github.com/swcarpentry/shell-novice/pull/1128'}
-  - {number: 1131, title: Remove difficult exercise, updated: '2020-08-18', url: 'https://github.com/swcarpentry/shell-novice/pull/1131'}
+  - {number: 1131, title: Remove difficult exercise, updated: '2020-08-20', url: 'https://github.com/swcarpentry/shell-novice/pull/1131'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -375,7 +375,7 @@ records:
 - description: Git - Español
   ident: swcarpentry/git-novice-es
   issues:
-  - {number: 78, title: Git for windows, updated: '2020-08-13', url: 'https://github.com/swcarpentry/git-novice-es/issues/78'}
+  - {number: 78, title: Git for windows, updated: '2020-08-19', url: 'https://github.com/swcarpentry/git-novice-es/issues/78'}
   pulls: []
   url: https://github.com/swcarpentry/git-novice-es
 - description: Mercurial
@@ -739,8 +739,6 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/766'}
   - {number: 822, title: Add a reference to the API documentation and introduce the
       concept, updated: '2020-05-19', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/822'}
-  - {number: 827, title: '[FIX] 02-numpy: update zero index image', updated: '2020-05-27',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/827'}
   - {number: 829, title: Update 10-defensive.md - Checkout, updated: '2020-06-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/829'}
   - {number: 828, title: 'Update 12-cmdline.md: clarifying goals and some text', updated: '2020-06-12',
@@ -757,6 +755,8 @@ records:
   - {number: 852, title: Update 01-intro.md, updated: '2020-07-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/852'}
   - {number: 861, title: Rephrasing the Check Your Understanding question in Episode
       1, updated: '2020-08-18', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/861'}
+  - {number: 827, title: '[FIX] 02-numpy: update zero index image', updated: '2020-08-20',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/827'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1135,15 +1135,17 @@ records:
   - {number: 1512, title: Use DataTables in all tabular data views, updated: '2020-06-21',
     url: 'https://github.com/carpentries/amy/issues/1512'}
   - {number: 1484, title: Track changed metadata, updated: '2020-06-21', url: 'https://github.com/carpentries/amy/issues/1484'}
-  - {number: 1565, title: 'Feature request: Bulk add Instructor training progress',
-    updated: '2020-07-19', url: 'https://github.com/carpentries/amy/issues/1565'}
   - {number: 1559, title: Bug with editing Person, updated: '2020-08-10', url: 'https://github.com/carpentries/amy/issues/1559'}
-  - {number: 1687, title: Allow editing of recipients in email previews, updated: '2020-08-17',
-    url: 'https://github.com/carpentries/amy/issues/1687'}
   - {number: 1705, title: Add instructor training registration code to membership,
     updated: '2020-08-18', url: 'https://github.com/carpentries/amy/issues/1705'}
   - {number: 1664, title: 'Fixes to workshop summary in membership view ', updated: '2020-08-18',
     url: 'https://github.com/carpentries/amy/issues/1664'}
+  - {number: 1707, title: Copy automatically additional contacts from Workshop Request
+      to Event, updated: '2020-08-20', url: 'https://github.com/carpentries/amy/issues/1707'}
+  - {number: 1687, title: Allow editing of recipients in email previews, updated: '2020-08-20',
+    url: 'https://github.com/carpentries/amy/issues/1687'}
+  - {number: 1565, title: 'Feature request: Bulk add Instructor training progress',
+    updated: '2020-08-20', url: 'https://github.com/carpentries/amy/issues/1565'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1162,4 +1164,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-08-19T17:05:27Z'
+timestamp: '2020-08-20T17:05:28Z'
