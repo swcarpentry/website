@@ -1132,8 +1132,6 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1512'}
   - {number: 1484, title: Track changed metadata, updated: '2020-06-21', url: 'https://github.com/carpentries/amy/issues/1484'}
   - {number: 1559, title: Bug with editing Person, updated: '2020-08-10', url: 'https://github.com/carpentries/amy/issues/1559'}
-  - {number: 1705, title: Add instructor training registration code to membership,
-    updated: '2020-08-18', url: 'https://github.com/carpentries/amy/issues/1705'}
   - {number: 1664, title: 'Fixes to workshop summary in membership view ', updated: '2020-08-18',
     url: 'https://github.com/carpentries/amy/issues/1664'}
   - {number: 1707, title: Copy automatically additional contacts from Workshop Request
@@ -1142,11 +1140,15 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1687'}
   - {number: 1565, title: 'Feature request: Bulk add Instructor training progress',
     updated: '2020-08-20', url: 'https://github.com/carpentries/amy/issues/1565'}
+  - {number: 1705, title: Add instructor training registration code to membership,
+    updated: '2020-08-22', url: 'https://github.com/carpentries/amy/issues/1705'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
-  - {number: 1706, title: Membership codes, updated: '2020-08-18', url: 'https://github.com/carpentries/amy/pull/1706'}
-  - {number: 1704, title: Workshop online question, updated: '2020-08-18', url: 'https://github.com/carpentries/amy/pull/1704'}
+  - {number: 1708, title: Membership workshops summary fixes, updated: '2020-08-22',
+    url: 'https://github.com/carpentries/amy/pull/1708'}
+  - {number: 1706, title: Membership codes, updated: '2020-08-22', url: 'https://github.com/carpentries/amy/pull/1706'}
+  - {number: 1704, title: Workshop online question, updated: '2020-08-22', url: 'https://github.com/carpentries/amy/pull/1704'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1160,4 +1162,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-08-21T17:05:26Z'
+timestamp: '2020-08-22T17:05:54Z'
