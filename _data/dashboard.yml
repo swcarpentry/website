@@ -1142,6 +1142,8 @@ records:
     updated: '2020-08-20', url: 'https://github.com/carpentries/amy/issues/1565'}
   - {number: 1705, title: Add instructor training registration code to membership,
     updated: '2020-08-22', url: 'https://github.com/carpentries/amy/issues/1705'}
+  - {number: 1709, title: Acknowledge workshop request review, updated: '2020-08-23',
+    url: 'https://github.com/carpentries/amy/issues/1709'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1162,4 +1164,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-08-22T17:05:54Z'
+timestamp: '2020-08-23T17:06:38Z'
