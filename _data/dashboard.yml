@@ -1140,8 +1140,6 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1687'}
   - {number: 1565, title: 'Feature request: Bulk add Instructor training progress',
     updated: '2020-08-20', url: 'https://github.com/carpentries/amy/issues/1565'}
-  - {number: 1705, title: Add instructor training registration code to membership,
-    updated: '2020-08-22', url: 'https://github.com/carpentries/amy/issues/1705'}
   - {number: 1709, title: Acknowledge workshop request review, updated: '2020-08-23',
     url: 'https://github.com/carpentries/amy/issues/1709'}
   pulls:
@@ -1149,7 +1147,6 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1203'}
   - {number: 1708, title: Membership workshops summary fixes, updated: '2020-08-22',
     url: 'https://github.com/carpentries/amy/pull/1708'}
-  - {number: 1706, title: Membership codes, updated: '2020-08-22', url: 'https://github.com/carpentries/amy/pull/1706'}
   - {number: 1704, title: Workshop online question, updated: '2020-08-22', url: 'https://github.com/carpentries/amy/pull/1704'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
@@ -1164,4 +1161,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-08-23T17:06:38Z'
+timestamp: '2020-08-24T17:07:39Z'
