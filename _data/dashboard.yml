@@ -174,6 +174,8 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1125'}
   - {number: 893, title: 'Episode 7 "Finding Files With Different Properties" exercise
       too difficult/obscure?', updated: '2020-08-18', url: 'https://github.com/swcarpentry/shell-novice/issues/893'}
+  - {number: 1133, title: Proposed Modifications to "The Unix Shell" -> Episode 2
+      ("Working With Files and Directories"), updated: '2020-08-25', url: 'https://github.com/swcarpentry/shell-novice/issues/1133'}
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
@@ -195,6 +197,9 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/1127'}
   - {number: 1128, title: Update 03-create.md, updated: '2020-08-12', url: 'https://github.com/swcarpentry/shell-novice/pull/1128'}
   - {number: 1131, title: Remove difficult exercise, updated: '2020-08-20', url: 'https://github.com/swcarpentry/shell-novice/pull/1131'}
+  - {number: 1132, title: 'Minor text clarifications, added MobaXterm as an option,
+      provided direct links for PuTTY, MobaXterm, Cygwin', updated: '2020-08-24',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/1132'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -668,6 +673,7 @@ records:
       1, updated: '2020-08-11', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/860'}
   - {number: 863, title: 'Contribution: Animated for-loop', updated: '2020-08-21',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/863'}
+  - {number: 864, title: Improving Episode 8- Functions, updated: '2020-08-25', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/864'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -1142,12 +1148,16 @@ records:
     updated: '2020-08-20', url: 'https://github.com/carpentries/amy/issues/1565'}
   - {number: 1709, title: Acknowledge workshop request review, updated: '2020-08-23',
     url: 'https://github.com/carpentries/amy/issues/1709'}
+  - {number: 1710, title: Require conditional confirmation that workshops <2 mos away
+      may not be possible., updated: '2020-08-24', url: 'https://github.com/carpentries/amy/issues/1710'}
+  - {number: 1711, title: Re-activate fields for pre/post surveys, updated: '2020-08-25',
+    url: 'https://github.com/carpentries/amy/issues/1711'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
-  - {number: 1708, title: Membership workshops summary fixes, updated: '2020-08-22',
-    url: 'https://github.com/carpentries/amy/pull/1708'}
   - {number: 1704, title: Workshop online question, updated: '2020-08-22', url: 'https://github.com/carpentries/amy/pull/1704'}
+  - {number: 1708, title: Membership workshops summary fixes, updated: '2020-08-25',
+    url: 'https://github.com/carpentries/amy/pull/1708'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1161,4 +1171,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-08-24T17:07:39Z'
+timestamp: '2020-08-25T17:07:30Z'
