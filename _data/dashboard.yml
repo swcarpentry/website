@@ -156,8 +156,6 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1086'}
   - {number: 1112, title: Reframing Nelle's Pipeline Narrative, updated: '2020-06-02',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1112'}
-  - {number: 840, title: 'Episode 5: Include explanation of "datafile"', updated: '2020-06-03',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/840'}
   - {number: 1113, title: -help command and man both not working, updated: '2020-06-11',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1113'}
   - {number: 1116, title: Ep3. mv ls output clarification, updated: '2020-06-30',
@@ -168,14 +166,12 @@ records:
       abstract or incomplete code examples., updated: '2020-07-02', url: 'https://github.com/swcarpentry/shell-novice/issues/1120'}
   - {number: 1118, title: Auto completion on commands, updated: '2020-07-02', url: 'https://github.com/swcarpentry/shell-novice/issues/1118'}
   - {number: 1124, title: segue into wc command, updated: '2020-07-30', url: 'https://github.com/swcarpentry/shell-novice/issues/1124'}
-  - {number: 1126, title: Add file extension to goostats and goodiff, updated: '2020-08-03',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/1126'}
   - {number: 1125, title: 'Ep. 4 Pipes and Filters suggestion: Add subheadings', updated: '2020-08-05',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1125'}
-  - {number: 893, title: 'Episode 7 "Finding Files With Different Properties" exercise
-      too difficult/obscure?', updated: '2020-08-18', url: 'https://github.com/swcarpentry/shell-novice/issues/893'}
   - {number: 1133, title: Proposed Modifications to "The Unix Shell" -> Episode 2
       ("Working With Files and Directories"), updated: '2020-08-25', url: 'https://github.com/swcarpentry/shell-novice/issues/1133'}
+  - {number: 1126, title: Add file extension to goostats and goodiff, updated: '2020-08-26',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/1126'}
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
@@ -185,21 +181,21 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/491'}
   - {number: 1072, title: Added image of shell command anatomy., updated: '2020-05-24',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1072'}
-  - {number: 1110, title: fix-issue-840 instructor, updated: '2020-05-29', url: 'https://github.com/swcarpentry/shell-novice/pull/1110'}
   - {number: 992, title: Made changes and added General Syntax episode., updated: '2020-05-29',
     url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
   - {number: 1117, title: Update setup.md, updated: '2020-07-02', url: 'https://github.com/swcarpentry/shell-novice/pull/1117'}
-  - {number: 1121, title: 'setup.md: use tabs for OS-specific instructions', updated: '2020-07-05',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/1121'}
   - {number: 1123, title: change luck-based explanation to software-based, updated: '2020-07-19',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1123'}
-  - {number: 1127, title: Added shebang callout for shell scripting episode, updated: '2020-08-10',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/1127'}
   - {number: 1128, title: Update 03-create.md, updated: '2020-08-12', url: 'https://github.com/swcarpentry/shell-novice/pull/1128'}
-  - {number: 1131, title: Remove difficult exercise, updated: '2020-08-20', url: 'https://github.com/swcarpentry/shell-novice/pull/1131'}
+  - {number: 1135, title: Use POSIX convention for abstract examples, updated: '2020-08-26',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/1135'}
+  - {number: 1134, title: Add more realistic regex example, updated: '2020-08-26',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/1134'}
   - {number: 1132, title: 'Minor text clarifications, added MobaXterm as an option,
-      provided direct links for PuTTY, MobaXterm, Cygwin', updated: '2020-08-24',
+      provided direct links for PuTTY, MobaXterm, Cygwin', updated: '2020-08-26',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1132'}
+  - {number: 1127, title: Added shebang callout for shell scripting episode, updated: '2020-08-26',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/1127'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -758,7 +754,7 @@ records:
       piped stdin, updated: '2020-07-14', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/843'}
   - {number: 852, title: Update 01-intro.md, updated: '2020-07-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/852'}
   - {number: 861, title: Rephrasing the Check Your Understanding question in Episode
-      1, updated: '2020-08-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/861'}
+      1, updated: '2020-08-25', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/861'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1150,7 +1146,7 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1709'}
   - {number: 1710, title: Require conditional confirmation that workshops <2 mos away
       may not be possible., updated: '2020-08-24', url: 'https://github.com/carpentries/amy/issues/1710'}
-  - {number: 1711, title: Re-activate fields for pre/post surveys, updated: '2020-08-25',
+  - {number: 1711, title: Re-activate fields for pre/post surveys, updated: '2020-08-26',
     url: 'https://github.com/carpentries/amy/issues/1711'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
@@ -1171,4 +1167,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-08-25T17:07:30Z'
+timestamp: '2020-08-26T17:07:43Z'
