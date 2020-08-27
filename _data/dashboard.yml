@@ -165,13 +165,13 @@ records:
   - {number: 1120, title: Using common conventions in lesson materials when providing
       abstract or incomplete code examples., updated: '2020-07-02', url: 'https://github.com/swcarpentry/shell-novice/issues/1120'}
   - {number: 1118, title: Auto completion on commands, updated: '2020-07-02', url: 'https://github.com/swcarpentry/shell-novice/issues/1118'}
-  - {number: 1124, title: segue into wc command, updated: '2020-07-30', url: 'https://github.com/swcarpentry/shell-novice/issues/1124'}
   - {number: 1125, title: 'Ep. 4 Pipes and Filters suggestion: Add subheadings', updated: '2020-08-05',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1125'}
   - {number: 1133, title: Proposed Modifications to "The Unix Shell" -> Episode 2
-      ("Working With Files and Directories"), updated: '2020-08-25', url: 'https://github.com/swcarpentry/shell-novice/issues/1133'}
+      ("Working With Files and Directories"), updated: '2020-08-26', url: 'https://github.com/swcarpentry/shell-novice/issues/1133'}
   - {number: 1126, title: Add file extension to goostats and goodiff, updated: '2020-08-26',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1126'}
+  - {number: 1124, title: segue into wc command, updated: '2020-08-26', url: 'https://github.com/swcarpentry/shell-novice/issues/1124'}
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
@@ -184,9 +184,6 @@ records:
   - {number: 992, title: Made changes and added General Syntax episode., updated: '2020-05-29',
     url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
   - {number: 1117, title: Update setup.md, updated: '2020-07-02', url: 'https://github.com/swcarpentry/shell-novice/pull/1117'}
-  - {number: 1123, title: change luck-based explanation to software-based, updated: '2020-07-19',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/1123'}
-  - {number: 1128, title: Update 03-create.md, updated: '2020-08-12', url: 'https://github.com/swcarpentry/shell-novice/pull/1128'}
   - {number: 1135, title: Use POSIX convention for abstract examples, updated: '2020-08-26',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1135'}
   - {number: 1134, title: Add more realistic regex example, updated: '2020-08-26',
@@ -194,8 +191,9 @@ records:
   - {number: 1132, title: 'Minor text clarifications, added MobaXterm as an option,
       provided direct links for PuTTY, MobaXterm, Cygwin', updated: '2020-08-26',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1132'}
-  - {number: 1127, title: Added shebang callout for shell scripting episode, updated: '2020-08-26',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/1127'}
+  - {number: 1123, title: change luck-based explanation to software-based, updated: '2020-08-26',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/1123'}
+  - {number: 1128, title: Update 03-create.md, updated: '2020-08-27', url: 'https://github.com/swcarpentry/shell-novice/pull/1128'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -669,7 +667,7 @@ records:
       1, updated: '2020-08-11', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/860'}
   - {number: 863, title: 'Contribution: Animated for-loop', updated: '2020-08-21',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/863'}
-  - {number: 864, title: Improving Episode 8- Functions, updated: '2020-08-25', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/864'}
+  - {number: 864, title: Improving Episode 8- Functions, updated: '2020-08-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/864'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -1167,4 +1165,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-08-26T17:07:43Z'
+timestamp: '2020-08-27T17:08:46Z'
