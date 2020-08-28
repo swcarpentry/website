@@ -193,7 +193,7 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/1132'}
   - {number: 1123, title: change luck-based explanation to software-based, updated: '2020-08-26',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1123'}
-  - {number: 1128, title: Update 03-create.md, updated: '2020-08-27', url: 'https://github.com/swcarpentry/shell-novice/pull/1128'}
+  - {number: 1128, title: Update 03-create.md, updated: '2020-08-28', url: 'https://github.com/swcarpentry/shell-novice/pull/1128'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -667,7 +667,6 @@ records:
       1, updated: '2020-08-11', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/860'}
   - {number: 863, title: 'Contribution: Animated for-loop', updated: '2020-08-21',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/863'}
-  - {number: 864, title: Improving Episode 8- Functions, updated: '2020-08-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/864'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -752,7 +751,7 @@ records:
       piped stdin, updated: '2020-07-14', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/843'}
   - {number: 852, title: Update 01-intro.md, updated: '2020-07-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/852'}
   - {number: 861, title: Rephrasing the Check Your Understanding question in Episode
-      1, updated: '2020-08-25', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/861'}
+      1, updated: '2020-08-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/861'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1165,4 +1164,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-08-27T17:08:46Z'
+timestamp: '2020-08-28T17:08:30Z'
