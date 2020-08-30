@@ -807,6 +807,7 @@ records:
   - {number: 483, title: 'RFC: Migration to R 4.0', updated: '2020-07-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/483'}
   - {number: 484, title: Fix platform-specific setup instructions, updated: '2020-08-05',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/484'}
+  - {number: 485, title: Multi lines commenting, updated: '2020-08-30', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/485'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
@@ -1164,4 +1165,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-08-29T17:09:16Z'
+timestamp: '2020-08-30T17:09:40Z'
