@@ -566,8 +566,6 @@ records:
   - {number: 506, title: Simple exercise to differentiate print vs return, updated: '2019-05-14',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/506'}
   - {number: 498, title: Long lines in lessons, updated: '2019-05-14', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/498'}
-  - {number: 496, title: Swapping the order of episodes on lists and loops, updated: '2019-05-14',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/496'}
   - {number: 358, title: Revision of Key points in python inflammation lesson, updated: '2019-05-14',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/358'}
   - {number: 321, title: ' Prose error describing numpy rows and columns relative
@@ -663,10 +661,10 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/858'}
   - {number: 859, title: 'Episode 3 - Visualizing Tabular Data: fig.tight_layout()
       Suggestion', updated: '2020-08-06', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/859'}
-  - {number: 860, title: Confusing phrasing of "Check Your Understanding" in episode
-      1, updated: '2020-08-11', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/860'}
   - {number: 863, title: 'Contribution: Animated for-loop', updated: '2020-08-21',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/863'}
+  - {number: 496, title: Swapping the order of episodes on lists and loops, updated: '2020-09-01',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/496'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -750,8 +748,8 @@ records:
   - {number: 843, title: Adding a Default Action in 12-cmdline.md solution fails on
       piped stdin, updated: '2020-07-14', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/843'}
   - {number: 852, title: Update 01-intro.md, updated: '2020-07-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/852'}
-  - {number: 861, title: Rephrasing the Check Your Understanding question in Episode
-      1, updated: '2020-08-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/861'}
+  - {number: 865, title: 'Add int, float and string functions to intro', updated: '2020-09-01',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/865'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1149,9 +1147,9 @@ records:
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
-  - {number: 1704, title: Workshop online question, updated: '2020-08-22', url: 'https://github.com/carpentries/amy/pull/1704'}
-  - {number: 1708, title: Membership workshops summary fixes, updated: '2020-08-25',
+  - {number: 1708, title: Membership workshops summary fixes, updated: '2020-09-01',
     url: 'https://github.com/carpentries/amy/pull/1708'}
+  - {number: 1704, title: Workshop online question, updated: '2020-09-01', url: 'https://github.com/carpentries/amy/pull/1704'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1165,4 +1163,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-08-31T17:10:55Z'
+timestamp: '2020-09-01T17:13:21Z'
