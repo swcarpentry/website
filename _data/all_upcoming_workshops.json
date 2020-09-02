@@ -225,6 +225,21 @@
     "start_date": "2020-09-10"
   },
   {
+    "instructors": "John Simpson,Danielle Quinn",
+    "end_date": "2020-09-11",
+    "url": "https://computecanada.github.io/2020-09-10-ttt-computecanada/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-09-10-ttt-computecanada",
+    "tag_name": "TTT,online",
+    "helpers": "Grace Fishbein",
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-09-10"
+  },
+  {
     "instructors": "Ben Chiewphasa,Anna Moeller",
     "end_date": "2020-09-11",
     "url": "https://mansfieldlibrary-umt-carpentry.github.io/2020-09-11-R-ecology-online",

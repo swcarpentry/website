@@ -663,7 +663,7 @@ records:
       Suggestion', updated: '2020-08-06', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/859'}
   - {number: 863, title: 'Contribution: Animated for-loop', updated: '2020-08-21',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/863'}
-  - {number: 496, title: Swapping the order of episodes on lists and loops, updated: '2020-09-01',
+  - {number: 496, title: Swapping the order of episodes on lists and loops, updated: '2020-09-02',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/496'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
@@ -1163,4 +1163,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-09-01T17:13:21Z'
+timestamp: '2020-09-02T17:12:12Z'
