@@ -15,21 +15,6 @@
     "start_date": "2020-08-14"
   },
   {
-    "instructors": "Ian Lessing,Kristi Liu,Torin White,Sanjeev Kolli",
-    "end_date": "2020-09-03",
-    "url": "https://ucsbcarpentry.github.io/2020-08-19-Summer-Python/",
-    "country": "US",
-    "curriculum": "dc-socsci-python",
-    "venue": "University of California, Santa Barbara (online)",
-    "longitude": -1,
-    "slug": "2020-08-19-Summer-Python",
-    "tag_name": "automated-email,DC,online",
-    "helpers": "Sharon Solis,Jon Jablonski,Qiancheng Zhao",
-    "host_name": "University of California Santa Barbara",
-    "latitude": 45,
-    "start_date": "2020-08-19"
-  },
-  {
     "instructors": "Monica Thieu,Paul Bloom,Arvind Narayanaswamy",
     "end_date": "2020-09-20",
     "url": "https://arvindnswamy.github.io/2020-08-20-NYC/",
@@ -73,36 +58,6 @@
     "host_name": "Instructor Training",
     "latitude": null,
     "start_date": "2020-08-31"
-  },
-  {
-    "instructors": "Michelle Rodio",
-    "end_date": "2020-09-03",
-    "url": "https://mr0dio.github.io/NASALangleyFall2020/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "Online via Teams",
-    "longitude": -76.38001,
-    "slug": "2020-09-02-NASALangleyFall2020",
-    "tag_name": "automated-email,Circuits,online",
-    "helpers": "Elizabeth Gregory",
-    "host_name": "NASA (National Aeronautics and Space Administration)",
-    "latitude": 37.08258,
-    "start_date": "2020-09-02"
-  },
-  {
-    "instructors": "Toni Hoberecht,Krista Kezbers (Olson)",
-    "end_date": "2020-09-03",
-    "url": "https://ouschusterlib.github.io/2020-09-02-dc-tulsa/",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "Schusterman Library at OU-Tulsa",
-    "longitude": -95.922974,
-    "slug": "2020-09-02-dc-tulsa",
-    "tag_name": "DC",
-    "helpers": null,
-    "host_name": "University of Oklahoma",
-    "latitude": 36.101354,
-    "start_date": "2020-09-02"
   },
   {
     "instructors": "Sara Mannheimer,Mark Greenwood",
@@ -360,7 +315,7 @@
     "start_date": "2020-09-25"
   },
   {
-    "instructors": "Aditya Bandla,Sebastian Mosidi,Benson Muite",
+    "instructors": "Aditya Bandla,Annajiat Alim Rasel,Sebastian Mosidi,Benson Muite",
     "end_date": "2020-10-02",
     "url": "https://sadilar.github.io/2020-09-28-SA-ONLINE/",
     "country": "ZA",
