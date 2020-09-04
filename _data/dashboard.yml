@@ -308,7 +308,7 @@ records:
   - {number: 754, title: installation instructions for Windows, updated: '2020-08-08',
     url: 'https://github.com/swcarpentry/git-novice/issues/754'}
   - {number: 756, title: 'Creating a repository section - might it be worth doing
-      via github/bitbucket web interface instead?', updated: '2020-09-03', url: 'https://github.com/swcarpentry/git-novice/issues/756'}
+      via github/bitbucket web interface instead?', updated: '2020-09-04', url: 'https://github.com/swcarpentry/git-novice/issues/756'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -353,8 +353,6 @@ records:
   - {number: 729, title: Remove confusing `rm` text in episode 3, updated: '2020-03-11',
     url: 'https://github.com/swcarpentry/git-novice/pull/729'}
   - {number: 739, title: Draft of new setup, updated: '2020-05-23', url: 'https://github.com/swcarpentry/git-novice/pull/739'}
-  - {number: 742, title: 'episodes: proofread changes for instructor checkout', updated: '2020-06-09',
-    url: 'https://github.com/swcarpentry/git-novice/pull/742'}
   - {number: 740, title: Mention cloning outside of one's own planets repo, updated: '2020-06-30',
     url: 'https://github.com/swcarpentry/git-novice/pull/740'}
   - {number: 680, title: link to more detailed explanation of core.autocrlf configuration
@@ -364,6 +362,8 @@ records:
   - {number: 753, title: Simplify the explanation on removing files in episode 3.,
     updated: '2020-07-22', url: 'https://github.com/swcarpentry/git-novice/pull/753'}
   - {number: 752, title: Update 05-history.md, updated: '2020-07-22', url: 'https://github.com/swcarpentry/git-novice/pull/752'}
+  - {number: 742, title: 'episodes: proofread changes for instructor checkout', updated: '2020-09-04',
+    url: 'https://github.com/swcarpentry/git-novice/pull/742'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -1164,4 +1164,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-09-03T17:13:34Z'
+timestamp: '2020-09-04T17:13:08Z'
