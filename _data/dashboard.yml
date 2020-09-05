@@ -659,8 +659,6 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/854'}
   - {number: 853, title: Making choices - Add explanation of all comparison operators,
     updated: '2020-07-17', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/853'}
-  - {number: 858, title: '09-errors: Fix `favorite_ice_cream` Error output', updated: '2020-07-20',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/858'}
   - {number: 859, title: 'Episode 3 - Visualizing Tabular Data: fig.tight_layout()
       Suggestion', updated: '2020-08-06', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/859'}
   - {number: 863, title: 'Contribution: Animated for-loop', updated: '2020-08-21',
@@ -750,10 +748,8 @@ records:
   - {number: 843, title: Adding a Default Action in 12-cmdline.md solution fails on
       piped stdin, updated: '2020-07-14', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/843'}
   - {number: 852, title: Update 01-intro.md, updated: '2020-07-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/852'}
-  - {number: 865, title: 'Add int, float and string functions to intro', updated: '2020-09-01',
+  - {number: 865, title: 'Add int, float and string functions to intro', updated: '2020-09-04',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/865'}
-  - {number: 866, title: '09-errors: Update the line numbers in the error block ',
-    updated: '2020-09-03', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/866'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1125,8 +1121,6 @@ records:
     updated: '2020-08-20', url: 'https://github.com/carpentries/amy/issues/1565'}
   - {number: 1710, title: Require conditional confirmation that workshops <2 mos away
       may not be possible., updated: '2020-08-24', url: 'https://github.com/carpentries/amy/issues/1710'}
-  - {number: 1711, title: Re-activate fields for pre/post surveys, updated: '2020-08-26',
-    url: 'https://github.com/carpentries/amy/issues/1711'}
   - {number: 1709, title: Acknowledge workshop request review, updated: '2020-09-02',
     url: 'https://github.com/carpentries/amy/issues/1709'}
   - {number: 1657, title: Fixes needed to how lat/lon is treated, updated: '2020-09-02',
@@ -1146,6 +1140,8 @@ records:
   - {number: 1512, title: Use DataTables in all tabular data views, updated: '2020-09-02',
     url: 'https://github.com/carpentries/amy/issues/1512'}
   - {number: 1484, title: Track changed metadata, updated: '2020-09-02', url: 'https://github.com/carpentries/amy/issues/1484'}
+  - {number: 1711, title: Re-activate fields for pre/post surveys, updated: '2020-09-04',
+    url: 'https://github.com/carpentries/amy/issues/1711'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1164,4 +1160,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-09-04T17:13:08Z'
+timestamp: '2020-09-05T17:13:30Z'
