@@ -450,8 +450,6 @@ records:
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/306'}
   - {number: 305, title: 'Ep. 6: Explanation of count() could be improved.', updated: '2019-12-03',
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/305'}
-  - {number: 309, title: Reference links broken on episode 1, updated: '2020-03-05',
-    url: 'https://github.com/swcarpentry/sql-novice-survey/issues/309'}
   - {number: 320, title: Broken links on several episodes and unclear exercise, updated: '2020-06-04',
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/320'}
   - {number: 319, title: Update list of maintainers in README, updated: '2020-06-04',
@@ -1110,17 +1108,9 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1615'}
   - {number: 1614, title: 'Import Training Event Registration and Attendance ', updated: '2020-04-01',
     url: 'https://github.com/carpentries/amy/issues/1614'}
-  - {number: 1654, title: Add Workshop Type to Workshop Request Forms, updated: '2020-06-21',
-    url: 'https://github.com/carpentries/amy/issues/1654'}
   - {number: 1559, title: Bug with editing Person, updated: '2020-08-10', url: 'https://github.com/carpentries/amy/issues/1559'}
-  - {number: 1707, title: Copy automatically additional contacts from Workshop Request
-      to Event, updated: '2020-08-20', url: 'https://github.com/carpentries/amy/issues/1707'}
-  - {number: 1687, title: Allow editing of recipients in email previews, updated: '2020-08-20',
-    url: 'https://github.com/carpentries/amy/issues/1687'}
   - {number: 1565, title: 'Feature request: Bulk add Instructor training progress',
     updated: '2020-08-20', url: 'https://github.com/carpentries/amy/issues/1565'}
-  - {number: 1710, title: Require conditional confirmation that workshops <2 mos away
-      may not be possible., updated: '2020-08-24', url: 'https://github.com/carpentries/amy/issues/1710'}
   - {number: 1709, title: Acknowledge workshop request review, updated: '2020-09-02',
     url: 'https://github.com/carpentries/amy/issues/1709'}
   - {number: 1657, title: Fixes needed to how lat/lon is treated, updated: '2020-09-02',
@@ -1142,6 +1132,12 @@ records:
   - {number: 1484, title: Track changed metadata, updated: '2020-09-02', url: 'https://github.com/carpentries/amy/issues/1484'}
   - {number: 1711, title: Re-activate fields for pre/post surveys, updated: '2020-09-04',
     url: 'https://github.com/carpentries/amy/issues/1711'}
+  - {number: 1710, title: Require conditional confirmation that workshops <2 mos away
+      may not be possible., updated: '2020-09-06', url: 'https://github.com/carpentries/amy/issues/1710'}
+  - {number: 1707, title: Copy automatically additional contacts from Workshop Request
+      to Event, updated: '2020-09-06', url: 'https://github.com/carpentries/amy/issues/1707'}
+  - {number: 1687, title: Allow editing of recipients in email previews, updated: '2020-09-06',
+    url: 'https://github.com/carpentries/amy/issues/1687'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1160,4 +1156,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-09-05T17:13:30Z'
+timestamp: '2020-09-06T17:13:37Z'
