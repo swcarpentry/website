@@ -804,6 +804,7 @@ records:
   - {number: 484, title: Fix platform-specific setup instructions, updated: '2020-08-05',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/484'}
   - {number: 485, title: Multi lines commenting, updated: '2020-08-30', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/485'}
+  - {number: 486, title: Diagrams to describe functions, updated: '2020-09-08', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/486'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
@@ -1160,4 +1161,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-09-07T17:14:09Z'
+timestamp: '2020-09-08T17:14:37Z'
