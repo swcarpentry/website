@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Stephen Crouch,Aleksandra Nenadic",
+    "end_date": "2020-09-09",
+    "url": "https://anenadic.github.io/2020-09-08-ttt-ssi-online/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-09-08-ttt-ssi-online",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-09-08"
+  },
+  {
     "instructors": "Elnaz Amanzadeh Jajin",
     "end_date": "2020-09-08",
     "url": "https://elnazamanzadeh.github.io/2020-09-07-Data-Carpentry-Genomics/",

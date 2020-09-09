@@ -90,21 +90,6 @@
     "start_date": "2020-09-08"
   },
   {
-    "instructors": "Stephen Crouch,Aleksandra Nenadic",
-    "end_date": "2020-09-09",
-    "url": "https://anenadic.github.io/2020-09-08-ttt-ssi-online/",
-    "country": "",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-09-08-ttt-ssi-online",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": null,
-    "start_date": "2020-09-08"
-  },
-  {
     "instructors": "Konrad Förstner,Till Sauerwein",
     "end_date": "2020-09-11",
     "url": "https://zbiw.github.io/2020-09-10-LC_ZBIW_online/",
@@ -210,6 +195,21 @@
     "start_date": "2020-09-15"
   },
   {
+    "instructors": "Maneesha Sane,Sher! Hurt",
+    "end_date": "2020-09-16",
+    "url": "https://maneesha.github.io/2020-09-15-ttt-online-EDT/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-09-15-ttt-online-EDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-09-15"
+  },
+  {
     "instructors": "Raúl Ortiz-Merino,Santosh Ilamparuthi,Esther Plomp,Marcel van den Broek",
     "end_date": "2020-09-24",
     "url": "https://4turesearchdata-carpentries.github.io/2020-09-16-delft/",
@@ -228,15 +228,15 @@
     "instructors": "Marco Chiapello,Lars Kjær",
     "end_date": "2020-09-18",
     "url": "https://mchiapello.github.io/2020-09-16-nord-online/",
-    "country": "W3",
+    "country": "NO",
     "curriculum": "dc-socsci-r",
-    "venue": "Internet",
-    "longitude": -123.393333,
+    "venue": "Nord University (online)",
+    "longitude": 0,
     "slug": "2020-09-16-nord-online",
     "tag_name": "DC,online",
     "helpers": null,
     "host_name": "Nord University",
-    "latitude": -48.876667,
+    "latitude": 0,
     "start_date": "2020-09-16"
   },
   {
@@ -313,6 +313,21 @@
     "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
     "latitude": -48.876667,
     "start_date": "2020-09-28"
+  },
+  {
+    "instructors": "Ariel Deardorff,Zac Painter",
+    "end_date": "2020-09-30",
+    "url": "https://arieldeardorff.github.io/2020-09-29-ttt-online-PDT",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-09-29-ttt-online-PDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-09-29"
   },
   {
     "instructors": "David Perez-Suarez,Thomas Dowrick,Matthew Gillman,Timothy Spain",
