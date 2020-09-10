@@ -172,6 +172,7 @@ records:
   - {number: 1124, title: segue into wc command, updated: '2020-08-26', url: 'https://github.com/swcarpentry/shell-novice/issues/1124'}
   - {number: 1133, title: Proposed Modifications to "The Unix Shell" -> Episode 3
       ("Working With Files and Directories"), updated: '2020-09-06', url: 'https://github.com/swcarpentry/shell-novice/issues/1133'}
+  - {number: 1137, title: Switch order of setup page, updated: '2020-09-09', url: 'https://github.com/swcarpentry/shell-novice/issues/1137'}
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
@@ -663,7 +664,7 @@ records:
   - {number: 496, title: Swapping the order of episodes on lists and loops, updated: '2020-09-02',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/496'}
   - {number: 847, title: '01-intro: Inaccuracy in Demonstration of "Variables as Sticky
-      Notes"', updated: '2020-09-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/847'}
+      Notes"', updated: '2020-09-10', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/847'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -954,6 +955,8 @@ records:
     updated: '2020-08-04', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/656'}
   - {number: 657, title: 'Define fuzzy search in Seeking Help episode ', updated: '2020-09-07',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/657'}
+  - {number: 658, title: 'duplicate library carpentry under _includes, swc missing ',
+    updated: '2020-09-09', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/658'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -1162,4 +1165,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-09-09T17:14:54Z'
+timestamp: '2020-09-10T17:15:47Z'
