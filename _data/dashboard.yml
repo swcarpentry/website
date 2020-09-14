@@ -192,10 +192,10 @@ records:
   - {number: 1132, title: 'Minor text clarifications, added MobaXterm as an option,
       provided direct links for PuTTY, MobaXterm, Cygwin', updated: '2020-08-26',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1132'}
-  - {number: 1123, title: change luck-based explanation to software-based, updated: '2020-08-26',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/1123'}
   - {number: 1128, title: Update 03-create.md, updated: '2020-08-28', url: 'https://github.com/swcarpentry/shell-novice/pull/1128'}
   - {number: 1136, title: Update 03-create.md, updated: '2020-09-13', url: 'https://github.com/swcarpentry/shell-novice/pull/1136'}
+  - {number: 1123, title: change luck-based explanation to software-based, updated: '2020-09-14',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/1123'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -1152,7 +1152,7 @@ records:
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
-  - {number: 1712, title: Acknowledge Workshop Request review, updated: '2020-09-06',
+  - {number: 1712, title: Acknowledge Workshop Request review, updated: '2020-09-13',
     url: 'https://github.com/carpentries/amy/pull/1712'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
@@ -1167,4 +1167,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-09-13T17:16:57Z'
+timestamp: '2020-09-14T17:17:24Z'
