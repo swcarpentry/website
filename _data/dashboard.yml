@@ -194,7 +194,7 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/1132'}
   - {number: 1128, title: Update 03-create.md, updated: '2020-08-28', url: 'https://github.com/swcarpentry/shell-novice/pull/1128'}
   - {number: 1136, title: Update 03-create.md, updated: '2020-09-13', url: 'https://github.com/swcarpentry/shell-novice/pull/1136'}
-  - {number: 1123, title: change luck-based explanation to software-based, updated: '2020-09-14',
+  - {number: 1123, title: change luck-based explanation to software-based, updated: '2020-09-15',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1123'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
@@ -465,6 +465,8 @@ records:
       sql commands, updated: '2020-03-09', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/193'}
   - {number: 289, title: Simplification + solution for group concatenation exercise,
     updated: '2020-05-28', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/289'}
+  - {number: 324, title: Explain NULLs when teaching count, updated: '2020-09-15',
+    url: 'https://github.com/swcarpentry/sql-novice-survey/pull/324'}
   url: https://github.com/swcarpentry/sql-novice-survey
 - description: Python
   ident: swcarpentry/python-novice-inflammation
@@ -748,7 +750,7 @@ records:
   - {number: 843, title: Adding a Default Action in 12-cmdline.md solution fails on
       piped stdin, updated: '2020-07-14', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/843'}
   - {number: 852, title: Update 01-intro.md, updated: '2020-07-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/852'}
-  - {number: 865, title: 'Add int, float and string functions to intro', updated: '2020-09-07',
+  - {number: 865, title: 'Add int, float and string functions to intro', updated: '2020-09-14',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/865'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
@@ -957,8 +959,6 @@ records:
     updated: '2020-08-04', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/656'}
   - {number: 657, title: 'Define fuzzy search in Seeking Help episode ', updated: '2020-09-07',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/657'}
-  - {number: 658, title: 'duplicate library carpentry under _includes, swc missing ',
-    updated: '2020-09-09', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/658'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -983,6 +983,7 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/651'}
   - {number: 548, title: Spell check and apply consistent code style, updated: '2020-08-13',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/548'}
+  - {number: 659, title: Update objectives, updated: '2020-09-15', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/659'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1154,6 +1155,8 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1203'}
   - {number: 1712, title: Acknowledge Workshop Request review, updated: '2020-09-13',
     url: 'https://github.com/carpentries/amy/pull/1712'}
+  - {number: 1714, title: add overview of AMY tables to documentation, updated: '2020-09-14',
+    url: 'https://github.com/carpentries/amy/pull/1714'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1167,4 +1170,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-09-14T17:17:24Z'
+timestamp: '2020-09-15T17:18:53Z'
