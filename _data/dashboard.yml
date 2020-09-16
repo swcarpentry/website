@@ -666,7 +666,7 @@ records:
   - {number: 496, title: Swapping the order of episodes on lists and loops, updated: '2020-09-02',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/496'}
   - {number: 847, title: '01-intro: Inaccuracy in Demonstration of "Variables as Sticky
-      Notes"', updated: '2020-09-11', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/847'}
+      Notes"', updated: '2020-09-16', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/847'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -1170,4 +1170,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-09-15T17:18:53Z'
+timestamp: '2020-09-16T17:18:45Z'
