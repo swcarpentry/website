@@ -160,8 +160,6 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1113'}
   - {number: 1116, title: Ep3. mv ls output clarification, updated: '2020-06-30',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1116'}
-  - {number: 1010, title: Unix Shell setup suggestion - Video link and instructions
-      on set up could be helpful, updated: '2020-07-01', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
   - {number: 1120, title: Using common conventions in lesson materials when providing
       abstract or incomplete code examples., updated: '2020-07-02', url: 'https://github.com/swcarpentry/shell-novice/issues/1120'}
   - {number: 1118, title: Auto completion on commands, updated: '2020-07-02', url: 'https://github.com/swcarpentry/shell-novice/issues/1118'}
@@ -173,6 +171,8 @@ records:
   - {number: 1133, title: Proposed Modifications to "The Unix Shell" -> Episode 3
       ("Working With Files and Directories"), updated: '2020-09-06', url: 'https://github.com/swcarpentry/shell-novice/issues/1133'}
   - {number: 1137, title: Switch order of setup page, updated: '2020-09-09', url: 'https://github.com/swcarpentry/shell-novice/issues/1137'}
+  - {number: 1010, title: Unix Shell setup suggestion - Video link and instructions
+      on set up could be helpful, updated: '2020-09-16', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
@@ -250,8 +250,6 @@ records:
       Episode, updated: '2019-08-11', url: 'https://github.com/swcarpentry/git-novice/issues/607'}
   - {number: 399, title: Mention of copyright on licensing page, updated: '2019-08-12',
     url: 'https://github.com/swcarpentry/git-novice/issues/399'}
-  - {number: 687, title: 'Relocate directories and .gitkeep, Episode 4 to .gitignore
-      in Ignoring Things, Episode 6', updated: '2019-08-20', url: 'https://github.com/swcarpentry/git-novice/issues/687'}
   - {number: 606, title: '"forge" is a word many people don''t know, especially non-native
       english speakers', updated: '2019-09-24', url: 'https://github.com/swcarpentry/git-novice/issues/606'}
   - {number: 695, title: 'Incomplete output from `cat` in Episode 4, "Committing Multiple
@@ -311,6 +309,8 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/754'}
   - {number: 756, title: 'Creating a repository section - might it be worth doing
       via github/bitbucket web interface instead?', updated: '2020-09-04', url: 'https://github.com/swcarpentry/git-novice/issues/756'}
+  - {number: 687, title: 'Relocate directories and .gitkeep, Episode 4 to .gitignore
+      in Ignoring Things, Episode 6', updated: '2020-09-17', url: 'https://github.com/swcarpentry/git-novice/issues/687'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -904,7 +904,6 @@ records:
       dput function', updated: '2019-08-01', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/545'}
   - {number: 543, title: Specificity of learning objectives for data structures lesson,
     updated: '2019-08-02', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/543'}
-  - {number: 540, title: Remove plyr dependency, updated: '2019-08-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/540'}
   - {number: 542, title: Suggestion to add a gentler introduction for ggplot2, updated: '2019-08-16',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/542'}
   - {number: 488, title: Need to update contributing.md to reflect new master branch
@@ -959,6 +958,7 @@ records:
     updated: '2020-08-04', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/656'}
   - {number: 657, title: 'Define fuzzy search in Seeking Help episode ', updated: '2020-09-07',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/657'}
+  - {number: 540, title: Remove plyr dependency, updated: '2020-09-17', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/540'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -1170,4 +1170,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-09-16T17:18:45Z'
+timestamp: '2020-09-17T17:19:43Z'
