@@ -45,36 +45,6 @@
     "start_date": "2020-09-03"
   },
   {
-    "instructors": "Steven Pryor",
-    "end_date": "2020-09-18",
-    "url": "https://swc-mizzou.github.io/2020-09-11-mizzou/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "University of Missouri (online)",
-    "longitude": -92.334068,
-    "slug": "2020-09-11-mizzou",
-    "tag_name": "automated-email,online,Circuits",
-    "helpers": null,
-    "host_name": "University of Missouri",
-    "latitude": 38.951706,
-    "start_date": "2020-09-11"
-  },
-  {
-    "instructors": "Jennifer Shelton,Caroline Ajilogba,Mmasibidi Setaka,Paige Scudder",
-    "end_date": "2020-09-18",
-    "url": "https://sadilar.github.io/2020-09-14-SA-ONLINE/",
-    "country": "ZA",
-    "curriculum": "dc-socsci-r",
-    "venue": "SADiLaR, South Africa",
-    "longitude": 0,
-    "slug": "2020-09-14-SA-ONLINE",
-    "tag_name": "DC,online,automated-email",
-    "helpers": "Michael Landi",
-    "host_name": "South African Centre for Digital Language Resources (SADiLaR)",
-    "latitude": 0,
-    "start_date": "2020-09-14"
-  },
-  {
     "instructors": "Renato Alves,Nicolas Dintzner",
     "end_date": "2020-09-23",
     "url": "https://4turesearchdata-carpentries.github.io/2020-09-15-eindhoven/",
@@ -117,21 +87,6 @@
     "helpers": "Mario Beck",
     "host_name": "Delft University of Technology",
     "latitude": 52.002677,
-    "start_date": "2020-09-16"
-  },
-  {
-    "instructors": "Marco Chiapello,Lars Kjær",
-    "end_date": "2020-09-18",
-    "url": "https://mchiapello.github.io/2020-09-16-nord-online/",
-    "country": "NO",
-    "curriculum": "dc-socsci-r",
-    "venue": "Nord University (online)",
-    "longitude": 0,
-    "slug": "2020-09-16-nord-online",
-    "tag_name": "DC,online",
-    "helpers": null,
-    "host_name": "Nord University",
-    "latitude": 0,
     "start_date": "2020-09-16"
   },
   {
@@ -195,16 +150,16 @@
     "start_date": "2020-09-21"
   },
   {
-    "instructors": null,
+    "instructors": "Janet Stacey,Christina Straub,Richard Dean,Jing Wang,Shane Sturrock",
     "end_date": "2020-09-23",
-    "url": "https://esr-nz.github.io/python-carpentry/",
+    "url": "https://esr-nz.github.io/2020-09-22-ESRpython/",
     "country": "NZ",
     "curriculum": "mix-and-match",
     "venue": "ESR (online)",
     "longitude": 174.77623,
     "slug": "2020-09-22-ESRpython",
     "tag_name": "Circuits",
-    "helpers": null,
+    "helpers": "Bridget Armstrong,Leah ",
     "host_name": "The Institute of Environmental Science and Research",
     "latitude": -41.286461,
     "start_date": "2020-09-22"
