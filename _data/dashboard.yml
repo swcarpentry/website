@@ -1156,7 +1156,7 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1203'}
   - {number: 1712, title: Acknowledge Workshop Request review, updated: '2020-09-13',
     url: 'https://github.com/carpentries/amy/pull/1712'}
-  - {number: 1714, title: add overview of AMY tables to documentation, updated: '2020-09-14',
+  - {number: 1714, title: add overview of AMY tables to documentation, updated: '2020-09-18',
     url: 'https://github.com/carpentries/amy/pull/1714'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
@@ -1171,4 +1171,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-09-18T17:19:50Z'
+timestamp: '2020-09-19T17:19:45Z'

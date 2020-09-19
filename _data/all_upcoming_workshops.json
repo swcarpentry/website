@@ -120,6 +120,21 @@
     "start_date": "2020-09-21"
   },
   {
+    "instructors": "Alejandra Gonzalez-Beltran,Emily Lewis",
+    "end_date": "2020-09-22",
+    "url": "https://esl-lewis.github.io/2020-09-21-RAL/",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "Rutherford Appleton Laboratory, STFC (online)",
+    "longitude": -1,
+    "slug": "2020-09-21-RAL",
+    "tag_name": "online,Circuits",
+    "helpers": "Andrew Lister",
+    "host_name": "Science & Technology Facilities Council",
+    "latitude": 52,
+    "start_date": "2020-09-21"
+  },
+  {
     "instructors": "Mateusz Kuzak,Pablo Rodríguez Sánchez",
     "end_date": "2020-09-24",
     "url": "https://escience-academy.github.io/2020-09-21-SWC-Gapminder/",
@@ -390,6 +405,21 @@
     "start_date": "2020-10-07"
   },
   {
+    "instructors": "David Yakobovitch,Sichong Peng",
+    "end_date": "2020-10-22",
+    "url": "https://smcclatchy.github.io/2020-10-13-jackson-online/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "The Jackson Laboratory (online)",
+    "longitude": -68.196874,
+    "slug": "2020-10-13-jackson-online",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "Jackson Laboratory",
+    "latitude": 44.365622,
+    "start_date": "2020-10-13"
+  },
+  {
     "instructors": "Matthias Liffers,Anton Angelo,Danping Dong,Belinda Sta Maria,Liz Stokes",
     "end_date": "2020-10-14",
     "url": "https://bellsm74.github.io/2020-10-13-monashmalaysia-online/",
@@ -510,6 +540,21 @@
     "start_date": "2020-11-05"
   },
   {
+    "instructors": null,
+    "end_date": "2020-11-19",
+    "url": "https://smcclatchy.github.io/2020-11-10-jackson/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "The Jackson Laboratory (online)",
+    "longitude": -68.196691,
+    "slug": "2020-11-10-jackson",
+    "tag_name": "automated-email,DC,online",
+    "helpers": null,
+    "host_name": "Jackson Laboratory",
+    "latitude": 44.36591,
+    "start_date": "2020-11-10"
+  },
+  {
     "instructors": "Antonia Mey",
     "end_date": "2020-11-11",
     "url": "https://softwaresaved.github.io/2020-11-10-ssi-online/",
@@ -538,6 +583,21 @@
     "host_name": "Langebio",
     "latitude": 19,
     "start_date": "2020-12-14"
+  },
+  {
+    "instructors": null,
+    "end_date": "2021-01-29",
+    "url": "https://smcclatchy.github.io/2021-01-20-jackson/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "The Jackson Laboratory (online)",
+    "longitude": -68.196691,
+    "slug": "2021-01-20-jackson",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "Jackson Laboratory",
+    "latitude": 44.36591,
+    "start_date": "2021-01-20"
   },
   {
     "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
