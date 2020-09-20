@@ -982,8 +982,6 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/634'}
   - {number: 651, title: Update 05-data-structures-part2.Rmd, updated: '2020-07-08',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/651'}
-  - {number: 548, title: Spell check and apply consistent code style, updated: '2020-08-13',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/548'}
   - {number: 659, title: Update objectives, updated: '2020-09-17', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/659'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
@@ -1171,4 +1169,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-09-19T17:19:45Z'
+timestamp: '2020-09-20T17:20:04Z'
