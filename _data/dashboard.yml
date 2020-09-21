@@ -114,8 +114,6 @@ records:
   - {number: 590, title: ls -F different on Git Bash, updated: '2019-05-14', url: 'https://github.com/swcarpentry/shell-novice/issues/590'}
   - {number: 505, title: 'Updated socrative questions for lesson?', updated: '2019-05-14',
     url: 'https://github.com/swcarpentry/shell-novice/issues/505'}
-  - {number: 477, title: Improve answer to Exploring More ls Arguments, updated: '2019-05-14',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/477'}
   - {number: 438, title: Add a reference to sourcecaster, updated: '2019-05-14', url: 'https://github.com/swcarpentry/shell-novice/issues/438'}
   - {number: 390, title: Add a photo of line printer in the introduction, updated: '2019-05-14',
     url: 'https://github.com/swcarpentry/shell-novice/issues/390'}
@@ -173,6 +171,8 @@ records:
   - {number: 1137, title: Switch order of setup page, updated: '2020-09-09', url: 'https://github.com/swcarpentry/shell-novice/issues/1137'}
   - {number: 1010, title: Unix Shell setup suggestion - Video link and instructions
       on set up could be helpful, updated: '2020-09-18', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
+  - {number: 477, title: Improve answer to Exploring More ls Arguments, updated: '2020-09-21',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/477'}
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
@@ -311,6 +311,8 @@ records:
       via github/bitbucket web interface instead?', updated: '2020-09-04', url: 'https://github.com/swcarpentry/git-novice/issues/756'}
   - {number: 687, title: 'Relocate directories and .gitkeep, Episode 4 to .gitignore
       in Ignoring Things, Episode 6', updated: '2020-09-17', url: 'https://github.com/swcarpentry/git-novice/issues/687'}
+  - {number: 757, title: Providing a definition for distributed (vs centralised) version
+      control, updated: '2020-09-21', url: 'https://github.com/swcarpentry/git-novice/issues/757'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -667,7 +669,7 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/496'}
   - {number: 847, title: '01-intro: Inaccuracy in Demonstration of "Variables as Sticky
       Notes"', updated: '2020-09-16', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/847'}
-  - {number: 867, title: First introduction of comments, updated: '2020-09-18', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/867'}
+  - {number: 867, title: First introduction of comments, updated: '2020-09-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/867'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -753,6 +755,9 @@ records:
   - {number: 852, title: Update 01-intro.md, updated: '2020-07-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/852'}
   - {number: 865, title: 'Add int, float and string functions to intro', updated: '2020-09-14',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/865'}
+  - {number: 869, title: Update 07-cond.md, updated: '2020-09-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/869'}
+  - {number: 868, title: moved comment description to first lesson, updated: '2020-09-21',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/868'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -960,6 +965,8 @@ records:
   - {number: 657, title: 'Define fuzzy search in Seeking Help episode ', updated: '2020-09-07',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/657'}
   - {number: 540, title: Remove plyr dependency, updated: '2020-09-17', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/540'}
+  - {number: 660, title: Including a section on how to change column names of data
+      frame in this lesson, updated: '2020-09-20', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/660'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -982,7 +989,7 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/634'}
   - {number: 651, title: Update 05-data-structures-part2.Rmd, updated: '2020-07-08',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/651'}
-  - {number: 659, title: Update objectives, updated: '2020-09-17', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/659'}
+  - {number: 659, title: Update objectives, updated: '2020-09-21', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/659'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1154,8 +1161,6 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1203'}
   - {number: 1712, title: Acknowledge Workshop Request review, updated: '2020-09-13',
     url: 'https://github.com/carpentries/amy/pull/1712'}
-  - {number: 1714, title: add overview of AMY tables to documentation, updated: '2020-09-18',
-    url: 'https://github.com/carpentries/amy/pull/1714'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1169,4 +1174,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-09-20T17:20:04Z'
+timestamp: '2020-09-21T17:20:15Z'
