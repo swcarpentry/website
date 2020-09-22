@@ -755,9 +755,9 @@ records:
   - {number: 852, title: Update 01-intro.md, updated: '2020-07-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/852'}
   - {number: 865, title: 'Add int, float and string functions to intro', updated: '2020-09-14',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/865'}
-  - {number: 869, title: Update 07-cond.md, updated: '2020-09-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/869'}
   - {number: 868, title: moved comment description to first lesson, updated: '2020-09-21',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/868'}
+  - {number: 869, title: Update 07-cond.md, updated: '2020-09-22', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/869'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -966,7 +966,7 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/657'}
   - {number: 540, title: Remove plyr dependency, updated: '2020-09-17', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/540'}
   - {number: 660, title: Including a section on how to change column names of data
-      frame in this lesson, updated: '2020-09-20', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/660'}
+      frame in this lesson, updated: '2020-09-21', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/660'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -1110,14 +1110,10 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1557'}
   - {number: 1563, title: TTT events - open/member seats for learners only, updated: '2019-11-07',
     url: 'https://github.com/carpentries/amy/issues/1563'}
-  - {number: 1561, title: 'Workshop Request Form: Not Adding all Tags Automatically',
-    updated: '2019-11-07', url: 'https://github.com/carpentries/amy/issues/1561'}
   - {number: 1571, title: Connecting Membership Organisation and Workshops, updated: '2019-11-08',
     url: 'https://github.com/carpentries/amy/issues/1571'}
   - {number: 1566, title: 'Feature Request: Bulk add learners to TTT event', updated: '2019-11-13',
     url: 'https://github.com/carpentries/amy/issues/1566'}
-  - {number: 1567, title: Add "Do not publish" checkbox to events, updated: '2019-12-13',
-    url: 'https://github.com/carpentries/amy/issues/1567'}
   - {number: 1570, title: Workshop Request Form - Membership Affiliation, updated: '2020-01-14',
     url: 'https://github.com/carpentries/amy/issues/1570'}
   - {number: 1615, title: Import Trainee checkout progress to AMY, updated: '2020-03-03',
@@ -1131,8 +1127,6 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1657'}
   - {number: 1644, title: Add date feature to Self-Organised Workshop Request Form,
     updated: '2020-09-02', url: 'https://github.com/carpentries/amy/issues/1644'}
-  - {number: 1624, title: Name matching on workshop request forms, updated: '2020-09-02',
-    url: 'https://github.com/carpentries/amy/issues/1624'}
   - {number: 1564, title: Feature Request- Add task = add person, updated: '2020-09-02',
     url: 'https://github.com/carpentries/amy/issues/1564'}
   - {number: 1562, title: TTT Open applications - check by default, updated: '2020-09-02',
@@ -1141,8 +1135,6 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1516'}
   - {number: 1515, title: All queries should be exportable, updated: '2020-09-02',
     url: 'https://github.com/carpentries/amy/issues/1515'}
-  - {number: 1512, title: Use DataTables in all tabular data views, updated: '2020-09-02',
-    url: 'https://github.com/carpentries/amy/issues/1512'}
   - {number: 1484, title: Track changed metadata, updated: '2020-09-02', url: 'https://github.com/carpentries/amy/issues/1484'}
   - {number: 1711, title: Re-activate fields for pre/post surveys, updated: '2020-09-04',
     url: 'https://github.com/carpentries/amy/issues/1711'}
@@ -1156,6 +1148,14 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1687'}
   - {number: 1710, title: Require conditional confirmation that workshops <2 mos away
       may not be possible., updated: '2020-09-18', url: 'https://github.com/carpentries/amy/issues/1710'}
+  - {number: 1624, title: Name matching on workshop request forms, updated: '2020-09-22',
+    url: 'https://github.com/carpentries/amy/issues/1624'}
+  - {number: 1567, title: Add "Do not publish" checkbox to events, updated: '2020-09-22',
+    url: 'https://github.com/carpentries/amy/issues/1567'}
+  - {number: 1561, title: 'Workshop Request Form: Not Adding all Tags Automatically',
+    updated: '2020-09-22', url: 'https://github.com/carpentries/amy/issues/1561'}
+  - {number: 1512, title: Use DataTables in all tabular data views, updated: '2020-09-22',
+    url: 'https://github.com/carpentries/amy/issues/1512'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1174,4 +1174,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-09-21T17:20:15Z'
+timestamp: '2020-09-22T17:20:37Z'
