@@ -670,6 +670,7 @@ records:
   - {number: 847, title: '01-intro: Inaccuracy in Demonstration of "Variables as Sticky
       Notes"', updated: '2020-09-16', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/847'}
   - {number: 867, title: First introduction of comments, updated: '2020-09-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/867'}
+  - {number: 871, title: Explanation of a list, updated: '2020-09-23', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/871'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -758,6 +759,7 @@ records:
   - {number: 868, title: moved comment description to first lesson, updated: '2020-09-21',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/868'}
   - {number: 869, title: Update 07-cond.md, updated: '2020-09-22', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/869'}
+  - {number: 870, title: Fix exercise with f2k, updated: '2020-09-23', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/870'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -877,8 +879,6 @@ records:
       introduced', updated: '2019-03-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/482'}
   - {number: 494, title: '[suggestion] data structures episode 04: add line of code
       introducing the dir.create function', updated: '2019-04-15', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/494'}
-  - {number: 476, title: Begin transition to Travis builds of the repo instead of
-      maintainer to GH Jekyll, updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/476'}
   - {number: 373, title: missing release notes, updated: '2019-05-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/373'}
   - {number: 365, title: Introduce tidyverse earlier, updated: '2019-05-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/365'}
   - {number: 356, title: 'Exploring Data Frames: order of objectives', updated: '2019-05-14',
@@ -951,8 +951,6 @@ records:
       the meaning of %in% operator', updated: '2020-06-22', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/561'}
   - {number: 648, title: 'Change references of OS X to macOS?', updated: '2020-06-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/648'}
-  - {number: 633, title: 'Current release build broken - Rv4.0 incompatibilities?',
-    updated: '2020-06-23', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/633'}
   - {number: 632, title: Update figure generation scripts to automatically export
       image files, updated: '2020-06-23', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/632'}
   - {number: 603, title: 'Episode 7 (control flow), Challenge 1', updated: '2020-06-23',
@@ -965,8 +963,12 @@ records:
   - {number: 657, title: 'Define fuzzy search in Seeking Help episode ', updated: '2020-09-07',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/657'}
   - {number: 540, title: Remove plyr dependency, updated: '2020-09-17', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/540'}
+  - {number: 661, title: Need to determine what happens when lessons are retired,
+    updated: '2020-09-22', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/661'}
+  - {number: 633, title: 'Current release build broken - Rv4.0 incompatibilities?',
+    updated: '2020-09-22', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/633'}
   - {number: 660, title: Including a section on how to change column names of data
-      frame in this lesson, updated: '2020-09-21', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/660'}
+      frame in this lesson, updated: '2020-09-23', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/660'}
   pulls:
   - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
     updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
@@ -1146,8 +1148,6 @@ records:
       to Event, updated: '2020-09-06', url: 'https://github.com/carpentries/amy/issues/1707'}
   - {number: 1687, title: Allow editing of recipients in email previews, updated: '2020-09-06',
     url: 'https://github.com/carpentries/amy/issues/1687'}
-  - {number: 1710, title: Require conditional confirmation that workshops <2 mos away
-      may not be possible., updated: '2020-09-18', url: 'https://github.com/carpentries/amy/issues/1710'}
   - {number: 1624, title: Name matching on workshop request forms, updated: '2020-09-22',
     url: 'https://github.com/carpentries/amy/issues/1624'}
   - {number: 1567, title: Add "Do not publish" checkbox to events, updated: '2020-09-22',
@@ -1156,6 +1156,8 @@ records:
     updated: '2020-09-22', url: 'https://github.com/carpentries/amy/issues/1561'}
   - {number: 1512, title: Use DataTables in all tabular data views, updated: '2020-09-22',
     url: 'https://github.com/carpentries/amy/issues/1512'}
+  - {number: 1710, title: Require conditional confirmation that workshops <2 mos away
+      may not be possible., updated: '2020-09-23', url: 'https://github.com/carpentries/amy/issues/1710'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1174,4 +1176,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-09-22T17:20:37Z'
+timestamp: '2020-09-23T17:21:52Z'
