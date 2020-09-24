@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Erin Becker,Maneesha Sane,Karen Word",
+    "end_date": "2020-09-24",
+    "url": "https://erinbecker.github.io/2020-09-23-ttt-online-PDT/",
+    "country": "",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-09-23-ttt-online-PDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-09-23"
+  },
+  {
     "instructors": "Janet Stacey,Christina Straub,Richard Dean,Jing Wang,Shane Sturrock",
     "end_date": "2020-09-23",
     "url": "https://esr-nz.github.io/2020-09-22-ESRpython/",
@@ -30,6 +45,36 @@
     "start_date": "2020-09-21"
   },
   {
+    "instructors": "Mateusz Kuzak,Pablo Rodríguez Sánchez",
+    "end_date": "2020-09-24",
+    "url": "https://escience-academy.github.io/2020-09-21-SWC-Gapminder/",
+    "country": "NL",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Netherlands eScience Center",
+    "longitude": -1,
+    "slug": "2020-09-21-SWC-Gapminder",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": "Dafne van Kuppevelt",
+    "host_name": "Netherlands eScience Center",
+    "latitude": 45,
+    "start_date": "2020-09-21"
+  },
+  {
+    "instructors": "Raúl Ortiz-Merino,Santosh Ilamparuthi,Esther Plomp,Marcel van den Broek",
+    "end_date": "2020-09-24",
+    "url": "https://4turesearchdata-carpentries.github.io/2020-09-16-delft/",
+    "country": "NL",
+    "curriculum": "dc-genomics",
+    "venue": "September 2020 Genomics Workshop @TUDelft (online)",
+    "longitude": 4.37524,
+    "slug": "2020-09-16-delft",
+    "tag_name": "automated-email,DC,online",
+    "helpers": "Mario Beck",
+    "host_name": "Delft University of Technology",
+    "latitude": 52.002677,
+    "start_date": "2020-09-16"
+  },
+  {
     "instructors": "Marco Chiapello,Lars Kjær",
     "end_date": "2020-09-18",
     "url": "https://mchiapello.github.io/2020-09-16-nord-online/",
@@ -39,7 +84,7 @@
     "longitude": 0,
     "slug": "2020-09-16-nord-online",
     "tag_name": "DC,online",
-    "helpers": "Tadeu Nogueira",
+    "helpers": "Tadeu Nogueira,Abdurhman Ali",
     "host_name": "Nord University",
     "latitude": 0,
     "start_date": "2020-09-16"

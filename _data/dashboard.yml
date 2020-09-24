@@ -196,6 +196,7 @@ records:
   - {number: 1136, title: Update 03-create.md, updated: '2020-09-13', url: 'https://github.com/swcarpentry/shell-novice/pull/1136'}
   - {number: 1123, title: change luck-based explanation to software-based, updated: '2020-09-15',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1123'}
+  - {number: 1139, title: Update setup.md, updated: '2020-09-24', url: 'https://github.com/swcarpentry/shell-novice/pull/1139'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -454,8 +455,6 @@ records:
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/306'}
   - {number: 305, title: 'Ep. 6: Explanation of count() could be improved.', updated: '2019-12-03',
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/305'}
-  - {number: 320, title: Broken links on several episodes and unclear exercise, updated: '2020-06-04',
-    url: 'https://github.com/swcarpentry/sql-novice-survey/issues/320'}
   - {number: 319, title: Update list of maintainers in README, updated: '2020-06-04',
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/319'}
   pulls:
@@ -670,7 +669,7 @@ records:
   - {number: 847, title: '01-intro: Inaccuracy in Demonstration of "Variables as Sticky
       Notes"', updated: '2020-09-16', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/847'}
   - {number: 867, title: First introduction of comments, updated: '2020-09-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/867'}
-  - {number: 871, title: Explanation of a list, updated: '2020-09-23', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/871'}
+  - {number: 871, title: Explanation of a list, updated: '2020-09-24', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/871'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -1152,12 +1151,12 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1624'}
   - {number: 1567, title: Add "Do not publish" checkbox to events, updated: '2020-09-22',
     url: 'https://github.com/carpentries/amy/issues/1567'}
-  - {number: 1561, title: 'Workshop Request Form: Not Adding all Tags Automatically',
-    updated: '2020-09-22', url: 'https://github.com/carpentries/amy/issues/1561'}
   - {number: 1512, title: Use DataTables in all tabular data views, updated: '2020-09-22',
     url: 'https://github.com/carpentries/amy/issues/1512'}
   - {number: 1710, title: Require conditional confirmation that workshops <2 mos away
       may not be possible., updated: '2020-09-23', url: 'https://github.com/carpentries/amy/issues/1710'}
+  - {number: 1561, title: 'Workshop Request Form: Not Adding all Tags Automatically',
+    updated: '2020-09-23', url: 'https://github.com/carpentries/amy/issues/1561'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1176,4 +1175,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-09-23T17:21:52Z'
+timestamp: '2020-09-24T17:21:57Z'
