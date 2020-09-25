@@ -173,6 +173,8 @@ records:
       on set up could be helpful, updated: '2020-09-18', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
   - {number: 477, title: Improve answer to Exploring More ls Arguments, updated: '2020-09-21',
     url: 'https://github.com/swcarpentry/shell-novice/issues/477'}
+  - {number: 1141, title: 'Potentially confusing filename: data-shell.zip', updated: '2020-09-25',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/1141'}
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
@@ -196,7 +198,7 @@ records:
   - {number: 1136, title: Update 03-create.md, updated: '2020-09-13', url: 'https://github.com/swcarpentry/shell-novice/pull/1136'}
   - {number: 1123, title: change luck-based explanation to software-based, updated: '2020-09-15',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1123'}
-  - {number: 1139, title: Update setup.md, updated: '2020-09-24', url: 'https://github.com/swcarpentry/shell-novice/pull/1139'}
+  - {number: 1139, title: Update setup.md, updated: '2020-09-25', url: 'https://github.com/swcarpentry/shell-novice/pull/1139'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -669,7 +671,7 @@ records:
   - {number: 847, title: '01-intro: Inaccuracy in Demonstration of "Variables as Sticky
       Notes"', updated: '2020-09-16', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/847'}
   - {number: 867, title: First introduction of comments, updated: '2020-09-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/867'}
-  - {number: 871, title: Explanation of a list, updated: '2020-09-24', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/871'}
+  - {number: 871, title: Explanation of a list, updated: '2020-09-25', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/871'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -755,10 +757,11 @@ records:
   - {number: 852, title: Update 01-intro.md, updated: '2020-07-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/852'}
   - {number: 865, title: 'Add int, float and string functions to intro', updated: '2020-09-14',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/865'}
-  - {number: 868, title: moved comment description to first lesson, updated: '2020-09-21',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/868'}
   - {number: 869, title: Update 07-cond.md, updated: '2020-09-22', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/869'}
-  - {number: 870, title: Fix exercise with f2k, updated: '2020-09-23', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/870'}
+  - {number: 868, title: moved comment description to first lesson, updated: '2020-09-24',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/868'}
+  - {number: 872, title: '08-func.md: correct answer in an exercise', updated: '2020-09-25',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/872'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1157,6 +1160,12 @@ records:
       may not be possible., updated: '2020-09-23', url: 'https://github.com/carpentries/amy/issues/1710'}
   - {number: 1561, title: 'Workshop Request Form: Not Adding all Tags Automatically',
     updated: '2020-09-23', url: 'https://github.com/carpentries/amy/issues/1561'}
+  - {number: 1718, title: 'Include question about publishing workshop on all three
+      workshop request forms ', updated: '2020-09-24', url: 'https://github.com/carpentries/amy/issues/1718'}
+  - {number: 1717, title: Note whether workshop is public or private, updated: '2020-09-24',
+    url: 'https://github.com/carpentries/amy/issues/1717'}
+  - {number: 1716, title: 'Include Supporting Instructors in count in  "Unpublished
+      workshops" table ', updated: '2020-09-24', url: 'https://github.com/carpentries/amy/issues/1716'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1175,4 +1184,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-09-24T17:21:57Z'
+timestamp: '2020-09-25T17:23:03Z'
