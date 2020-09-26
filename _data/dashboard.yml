@@ -173,7 +173,7 @@ records:
       on set up could be helpful, updated: '2020-09-18', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
   - {number: 477, title: Improve answer to Exploring More ls Arguments, updated: '2020-09-21',
     url: 'https://github.com/swcarpentry/shell-novice/issues/477'}
-  - {number: 1141, title: 'Potentially confusing filename: data-shell.zip', updated: '2020-09-25',
+  - {number: 1141, title: 'Potentially confusing filename: data-shell.zip', updated: '2020-09-26',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1141'}
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
@@ -195,7 +195,6 @@ records:
       provided direct links for PuTTY, MobaXterm, Cygwin', updated: '2020-08-26',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1132'}
   - {number: 1128, title: Update 03-create.md, updated: '2020-08-28', url: 'https://github.com/swcarpentry/shell-novice/pull/1128'}
-  - {number: 1136, title: Update 03-create.md, updated: '2020-09-13', url: 'https://github.com/swcarpentry/shell-novice/pull/1136'}
   - {number: 1123, title: change luck-based explanation to software-based, updated: '2020-09-15',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1123'}
   - {number: 1139, title: Update setup.md, updated: '2020-09-25', url: 'https://github.com/swcarpentry/shell-novice/pull/1139'}
@@ -760,8 +759,6 @@ records:
   - {number: 869, title: Update 07-cond.md, updated: '2020-09-22', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/869'}
   - {number: 868, title: moved comment description to first lesson, updated: '2020-09-24',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/868'}
-  - {number: 872, title: '08-func.md: correct answer in an exercise', updated: '2020-09-25',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/872'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -831,139 +828,15 @@ records:
 - description: R (Gapminder Data - Español)
   ident: swcarpentry/r-novice-gapminder
   issues:
-  - {number: 280, title: Using backticks rather than quotes for special functions,
-    updated: '2018-03-15', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/280'}
-  - {number: 104, title: one day approach to teaching material, updated: '2018-03-15',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/104'}
-  - {number: 355, title: Pilotting the new GitHub labels, updated: '2018-04-13', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/355'}
-  - {number: 378, title: 'Explaining debugging in "Function Explained"? ', updated: '2018-05-17',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/378'}
-  - {number: 368, title: Duplicate Challenge Numbering in "Function Explained", updated: '2018-05-21',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/368'}
-  - {number: 386, title: adding more information on "seeking help", updated: '2018-05-27',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/386'}
-  - {number: 302, title: 'Use of first person narrative in Lessons 2, 14, and 15',
-    updated: '2018-06-08', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/302'}
-  - {number: 268, title: 'Regular Expressions ', updated: '2018-06-08', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/268'}
-  - {number: 402, title: Inside 'Estructuras de datos' I think we should add 'understand
-      coercion' as an Objective 'Conocer y entender qué es coerción y cuáles son los
-      distintos tipos de coerciones', updated: '2018-07-01', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/402'}
-  - {number: 369, title: stand-alone lessons, updated: '2018-07-07', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/369'}
-  - {number: 404, title: '[Data Structures] Use the “sep” parameter of the read.csv()
-      function', updated: '2018-07-11', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/404'}
-  - {number: 414, title: 'Tip: Running segments of your code', updated: '2018-08-20',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/414'}
-  - {number: 419, title: Add numbering to episodes, updated: '2018-08-28', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/419'}
-  - {number: 425, title: 'Since rendered pages are pointing to 2016.06 release, new
-      filenames in code won''t update', updated: '2018-09-04', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/425'}
-  - {number: 429, title: Replace OS X with macOS, updated: '2018-09-12', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/429'}
-  - {number: 331, title: 'Inconsistency in # of functions in text in 13: dplyr', updated: '2018-09-21',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/331'}
-  - {number: 397, title: Adding explanation, updated: '2018-09-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/397'}
-  - {number: 435, title: '"~/Desktop" for setwd() isn''t the OS standard Desktop in
-      Windows', updated: '2018-10-08', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/435'}
-  - {number: 432, title: Example improvement suggestion for 04-data-structures-part1,
-    updated: '2018-11-13', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/432'}
-  - {number: 428, title: Mac Command key, updated: '2018-11-16', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/428'}
-  - {number: 427, title: Add R Markdown work flow to 01-rstudio-intro, updated: '2018-11-23',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/427'}
-  - {number: 456, title: Suggestion to use alternative data for 08-Creating Publication-Quality
-      Graphics with ggplot2 to avoid plotting genocides, updated: '2018-12-13', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/456'}
-  - {number: 461, title: suggested alternative challenge to section 7, updated: '2019-01-11',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/461'}
-  - {number: 460, title: 'Section 7, Challenge 4 & 5 suggestions', updated: '2019-01-11',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/460'}
-  - {number: 430, title: Trigonometric functions in radians or degrees, updated: '2019-02-05',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/430'}
-  - {number: 475, title: Simplify start of Data Structures episode, updated: '2019-03-04',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/475'}
-  - {number: 482, title: 'dplyr::arrange referenced in challenge section without being
-      introduced', updated: '2019-03-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/482'}
-  - {number: 494, title: '[suggestion] data structures episode 04: add line of code
-      introducing the dir.create function', updated: '2019-04-15', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/494'}
-  - {number: 373, title: missing release notes, updated: '2019-05-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/373'}
-  - {number: 365, title: Introduce tidyverse earlier, updated: '2019-05-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/365'}
-  - {number: 356, title: 'Exploring Data Frames: order of objectives', updated: '2019-05-14',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/356'}
-  - {number: 350, title: Replace `typeof` with `class` in episode 4, updated: '2019-05-14',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/350'}
-  - {number: 342, title: Update keyboard key references with Carpentries style, updated: '2019-05-14',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/342'}
-  - {number: 313, title: Example of converting a factor into a character vector in
-      Lesson 5 is a bit awkward, updated: '2019-05-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/313'}
-  - {number: 294, title: 'typeof() ', updated: '2019-05-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/294'}
-  - {number: 276, title: seeking help, updated: '2019-05-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/276'}
-  - {number: 272, title: Seeking Help Module, updated: '2019-05-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/272'}
-  - {number: 251, title: 'style guide for lessons?', updated: '2019-05-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/251'}
-  - {number: 244, title: Variable Name Challenge 1 Intro To R and R Studio, updated: '2019-05-14',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/244'}
-  - {number: 232, title: 'tidyr episode: confusing challenge 1?', updated: '2019-05-14',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/232'}
-  - {number: 520, title: 'Exploring Data Frames: Factor', updated: '2019-06-10', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/520'}
-  - {number: 521, title: Gapminder Formjacking threat, updated: '2019-06-28', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/521'}
   - {number: 535, title: 'Update styles to fix bash code chunk formatting issues ',
     updated: '2019-07-05', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/535'}
   - {number: 530, title: Update CITATION, updated: '2019-07-05', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/530'}
-  - {number: 537, title: 'How to keep gh-pages up to date in my fork?', updated: '2019-07-10',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/537'}
-  - {number: 329, title: Including Link to Gapminder data in Setup or Extras, updated: '2019-07-30',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/329'}
-  - {number: 545, title: 'Seeking Help episode 04: add an example of the usage of
-      dput function', updated: '2019-08-01', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/545'}
-  - {number: 543, title: Specificity of learning objectives for data structures lesson,
-    updated: '2019-08-02', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/543'}
-  - {number: 542, title: Suggestion to add a gentler introduction for ggplot2, updated: '2019-08-16',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/542'}
   - {number: 488, title: Need to update contributing.md to reflect new master branch
       Travis system, updated: '2019-08-28', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/488'}
-  - {number: 559, title: Install gapminder package and load library, updated: '2019-09-06',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/559'}
-  - {number: 479, title: Remove feline-data_v2.csv, updated: '2019-09-06', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/479'}
-  - {number: 442, title: 'Use read_... functions rather than read.csv, read.table
-      etc', updated: '2019-09-16', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/442'}
-  - {number: 560, title: 'write.csv in Episode 4: Data structures(https://swcarpentry.github.io/r-novice-gapminder/04-data-structures-part1/index.html)',
-    updated: '2019-09-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/560'}
-  - {number: 565, title: Subscript and superscript formatting not rendered correctly,
-    updated: '2019-10-02', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/565'}
-  - {number: 576, title: Not all solution present, updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/576'}
-  - {number: 582, title: Creating Publication-Quality Graphics with ggplot2 - Challenge
-      5, updated: '2019-11-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/582'}
-  - {number: 592, title: gif to explain pipelines with Mario, updated: '2019-11-25',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/592'}
-  - {number: 599, title: Clarification in Intro to R/RStudio lesson, updated: '2020-01-07',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/599'}
-  - {number: 604, title: Consistent code styling, updated: '2020-01-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/604'}
-  - {number: 600, title: Add information about opening projects in RStudio, updated: '2020-01-16',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/600'}
-  - {number: 607, title: Update .gitattributes so repository appears as R (not Python),
-    updated: '2020-01-17', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/607'}
-  - {number: 481, title: '[Suggestion] Replace the read.csv(data/gapminder.csv) with
-      library(gapminder)', updated: '2020-02-03', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/481'}
-  - {number: 621, title: challenge 4b and 5 in 08-plot-ggplot2.Rmd render wrong, updated: '2020-03-09',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/621'}
-  - {number: 625, title: Suggestion of adding demo() to Seeking Help episode, updated: '2020-04-12',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/625'}
-  - {number: 553, title: 'Include qplot() in ggplot lesson?', updated: '2020-05-01',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/553'}
-  - {number: 630, title: 'Mention flexibility of variable selection in ''select''
-      function ', updated: '2020-05-04', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/630'}
-  - {number: 643, title: Exploring Data Frames- factor() and as.factor(), updated: '2020-06-03',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/643'}
-  - {number: 561, title: 'Exploring Data Frames episode: add a tip on the usage and
-      the meaning of %in% operator', updated: '2020-06-22', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/561'}
-  - {number: 648, title: 'Change references of OS X to macOS?', updated: '2020-06-23',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/648'}
   - {number: 632, title: Update figure generation scripts to automatically export
       image files, updated: '2020-06-23', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/632'}
   - {number: 603, title: 'Episode 7 (control flow), Challenge 1', updated: '2020-06-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/603'}
-  - {number: 652, title: Comments to improve the lesson "Producing Reports With knitr",
-    updated: '2020-07-20', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/652'}
-  - {number: 655, title: 'RFC: Migration to R 4.0', updated: '2020-07-27', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/655'}
-  - {number: 656, title: Minor text corrections for Writing Good Software episode,
-    updated: '2020-08-04', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/656'}
-  - {number: 657, title: 'Define fuzzy search in Seeking Help episode ', updated: '2020-09-07',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/657'}
   - {number: 540, title: Remove plyr dependency, updated: '2020-09-17', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/540'}
   - {number: 661, title: Need to determine what happens when lessons are retired,
     updated: '2020-09-22', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/661'}
@@ -971,29 +844,12 @@ records:
     updated: '2020-09-22', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/633'}
   - {number: 660, title: Including a section on how to change column names of data
       frame in this lesson, updated: '2020-09-23', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/660'}
+  - {number: 657, title: 'Define fuzzy search in Seeking Help episode ', updated: '2020-09-25',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/657'}
   pulls:
-  - {number: 495, title: Replace stopifnot() with assert_that() for better error messages,
-    updated: '2019-04-29', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/495'}
-  - {number: 533, title: Fix feline v2.csv in data structures, updated: '2019-07-05',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/533'}
   - {number: 552, title: Make gentler intro for ggplot2 lesson, updated: '2019-08-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/552'}
-  - {number: 551, title: update links, updated: '2019-08-24', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/551'}
-  - {number: 573, title: Added tip on adjusting RStudio's layout and syntax highligting,
-    updated: '2019-10-30', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/573'}
-  - {number: 589, title: 'Spell check and apply consistent code style (close #548) ',
-    updated: '2019-11-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/589'}
-  - {number: 624, title: Instructor Training Checkout, updated: '2020-04-23', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/624'}
-  - {number: 628, title: Rendering problem, updated: '2020-05-04', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/628'}
-  - {number: 641, title: Adapt "Data structures part 2" to R >= 4.0, updated: '2020-06-01',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/641'}
-  - {number: 638, title: 'To preserve decimals, adding `%>% as.data.frame`', updated: '2020-06-01',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/638'}
-  - {number: 634, title: Do not conflate aesthetics and layers, updated: '2020-06-24',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/634'}
-  - {number: 651, title: Update 05-data-structures-part2.Rmd, updated: '2020-07-08',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/651'}
-  - {number: 659, title: Update objectives, updated: '2020-09-21', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/659'}
+  - {number: 551, title: update links, updated: '2020-09-25', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/551'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1184,4 +1040,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-09-25T17:23:03Z'
+timestamp: '2020-09-26T17:23:35Z'

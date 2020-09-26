@@ -90,21 +90,6 @@
     "start_date": "2020-09-22"
   },
   {
-    "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
-    "end_date": "2020-09-26",
-    "url": "https://betterlabmx.github.io/2020-09-25-betterlab/",
-    "country": "MX",
-    "curriculum": "mix-and-match",
-    "venue": "BetterLab",
-    "longitude": -90,
-    "slug": "2020-09-25-betterlab",
-    "tag_name": "automated-email,Circuits",
-    "helpers": null,
-    "host_name": "Langebio",
-    "latitude": 19,
-    "start_date": "2020-09-25"
-  },
-  {
     "instructors": "kristopher row,Farah Shamma,Peace Ossom Williamson",
     "end_date": "2020-10-04",
     "url": "https://utacarpentries.github.io/2020-09-26-UTA/",
