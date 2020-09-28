@@ -173,7 +173,7 @@ records:
       on set up could be helpful, updated: '2020-09-18', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
   - {number: 477, title: Improve answer to Exploring More ls Arguments, updated: '2020-09-21',
     url: 'https://github.com/swcarpentry/shell-novice/issues/477'}
-  - {number: 1141, title: 'Potentially confusing filename: data-shell.zip', updated: '2020-09-26',
+  - {number: 1141, title: 'Potentially confusing filename: data-shell.zip', updated: '2020-09-28',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1141'}
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
@@ -670,7 +670,7 @@ records:
   - {number: 847, title: '01-intro: Inaccuracy in Demonstration of "Variables as Sticky
       Notes"', updated: '2020-09-16', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/847'}
   - {number: 867, title: First introduction of comments, updated: '2020-09-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/867'}
-  - {number: 871, title: Explanation of a list, updated: '2020-09-25', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/871'}
+  - {number: 871, title: Explanation of a list, updated: '2020-09-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/871'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -759,6 +759,8 @@ records:
   - {number: 869, title: Update 07-cond.md, updated: '2020-09-22', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/869'}
   - {number: 868, title: moved comment description to first lesson, updated: '2020-09-24',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/868'}
+  - {number: 873, title: Adding forward link to episode about lists., updated: '2020-09-28',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/873'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1040,4 +1042,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-09-27T17:24:28Z'
+timestamp: '2020-09-28T17:25:26Z'
