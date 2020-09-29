@@ -175,6 +175,8 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/477'}
   - {number: 1141, title: 'Potentially confusing filename: data-shell.zip', updated: '2020-09-28',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1141'}
+  - {number: 1142, title: Unclear Explanation - Copying Files, updated: '2020-09-29',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/1142'}
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
@@ -315,6 +317,8 @@ records:
       in Ignoring Things, Episode 6', updated: '2020-09-17', url: 'https://github.com/swcarpentry/git-novice/issues/687'}
   - {number: 757, title: Providing a definition for distributed (vs centralised) version
       control, updated: '2020-09-21', url: 'https://github.com/swcarpentry/git-novice/issues/757'}
+  - {number: 759, title: Suggestion for improving the git staging area graphic, updated: '2020-09-29',
+    url: 'https://github.com/swcarpentry/git-novice/issues/759'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -370,6 +374,7 @@ records:
   - {number: 752, title: Update 05-history.md, updated: '2020-07-22', url: 'https://github.com/swcarpentry/git-novice/pull/752'}
   - {number: 742, title: 'episodes: proofread changes for instructor checkout', updated: '2020-09-04',
     url: 'https://github.com/swcarpentry/git-novice/pull/742'}
+  - {number: 758, title: A greene checkout edit 01, updated: '2020-09-29', url: 'https://github.com/swcarpentry/git-novice/pull/758'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -670,7 +675,6 @@ records:
   - {number: 847, title: '01-intro: Inaccuracy in Demonstration of "Variables as Sticky
       Notes"', updated: '2020-09-16', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/847'}
   - {number: 867, title: First introduction of comments, updated: '2020-09-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/867'}
-  - {number: 871, title: Explanation of a list, updated: '2020-09-28', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/871'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -759,8 +763,6 @@ records:
   - {number: 869, title: Update 07-cond.md, updated: '2020-09-22', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/869'}
   - {number: 868, title: moved comment description to first lesson, updated: '2020-09-24',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/868'}
-  - {number: 873, title: Adding forward link to episode about lists., updated: '2020-09-28',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/873'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -993,8 +995,6 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1564'}
   - {number: 1562, title: TTT Open applications - check by default, updated: '2020-09-02',
     url: 'https://github.com/carpentries/amy/issues/1562'}
-  - {number: 1516, title: Update "published" requirements, updated: '2020-09-02',
-    url: 'https://github.com/carpentries/amy/issues/1516'}
   - {number: 1515, title: All queries should be exportable, updated: '2020-09-02',
     url: 'https://github.com/carpentries/amy/issues/1515'}
   - {number: 1484, title: Track changed metadata, updated: '2020-09-02', url: 'https://github.com/carpentries/amy/issues/1484'}
@@ -1010,8 +1010,6 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1687'}
   - {number: 1624, title: Name matching on workshop request forms, updated: '2020-09-22',
     url: 'https://github.com/carpentries/amy/issues/1624'}
-  - {number: 1567, title: Add "Do not publish" checkbox to events, updated: '2020-09-22',
-    url: 'https://github.com/carpentries/amy/issues/1567'}
   - {number: 1512, title: Use DataTables in all tabular data views, updated: '2020-09-22',
     url: 'https://github.com/carpentries/amy/issues/1512'}
   - {number: 1710, title: Require conditional confirmation that workshops <2 mos away
@@ -1024,6 +1022,10 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1717'}
   - {number: 1716, title: 'Include Supporting Instructors in count in  "Unpublished
       workshops" table ', updated: '2020-09-24', url: 'https://github.com/carpentries/amy/issues/1716'}
+  - {number: 1567, title: Add "Do not publish" checkbox to events, updated: '2020-09-29',
+    url: 'https://github.com/carpentries/amy/issues/1567'}
+  - {number: 1516, title: Update "current"/ "unpublished" requirements, updated: '2020-09-29',
+    url: 'https://github.com/carpentries/amy/issues/1516'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1042,4 +1044,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-09-28T17:25:26Z'
+timestamp: '2020-09-29T17:25:41Z'
