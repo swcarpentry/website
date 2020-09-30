@@ -103,7 +103,7 @@ rather than running all the authors' names together in one long string.
 To **create a new page**,
 add a file to the `pages` directory.
 This can be written in either Markdown or HTML,
-and must have the following YAML header:
+and must have the following YAML header :
 
 ~~~
 layout: page-fullwidth
