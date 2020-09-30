@@ -59,7 +59,7 @@ Instead, you should use the following commands:
 The [details](#details) describes a few more advanced commands as well.
 Please note that rebuilding this site can take 3-4 minutes on a moderately powerful laptop,
 and occasionally times out on GitHub.
-We're working on it...
+We're working on it ...!!
 
 ## Development <a name="development"></a>
 
@@ -73,7 +73,7 @@ Please do *not* use underscores or periods in the names.
 When published,
 your blog post will appear as `http://software-carpentry.org/blog/YYYY/MM/some-title.html`.
 
-The YAML header of a blog post must look like this:
+The YAML header of a blog post must look like this :
 
 ~~~
 ---
