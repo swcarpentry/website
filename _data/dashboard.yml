@@ -177,6 +177,8 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1141'}
   - {number: 1142, title: Unclear Explanation - Copying Files, updated: '2020-09-29',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1142'}
+  - {number: 1144, title: Proposed improvement to Pipes & Filters episode, updated: '2020-09-30',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/1144'}
   pulls:
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
@@ -374,7 +376,7 @@ records:
   - {number: 752, title: Update 05-history.md, updated: '2020-07-22', url: 'https://github.com/swcarpentry/git-novice/pull/752'}
   - {number: 742, title: 'episodes: proofread changes for instructor checkout', updated: '2020-09-04',
     url: 'https://github.com/swcarpentry/git-novice/pull/742'}
-  - {number: 758, title: A greene checkout edit 01, updated: '2020-09-29', url: 'https://github.com/swcarpentry/git-novice/pull/758'}
+  - {number: 758, title: A greene checkout edit 01, updated: '2020-09-30', url: 'https://github.com/swcarpentry/git-novice/pull/758'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -463,6 +465,8 @@ records:
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/305'}
   - {number: 319, title: Update list of maintainers in README, updated: '2020-06-04',
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/319'}
+  - {number: 326, title: 'Suggestion: run an example query before applying .mode column
+      .header on', updated: '2020-09-29', url: 'https://github.com/swcarpentry/sql-novice-survey/issues/326'}
   pulls:
   - {number: 274, title: adding a solution of a challange (Ordering When Concatenating),
     updated: '2018-12-13', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/274'}
@@ -474,6 +478,8 @@ records:
     updated: '2020-05-28', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/289'}
   - {number: 324, title: Explain NULLs when teaching count, updated: '2020-09-15',
     url: 'https://github.com/swcarpentry/sql-novice-survey/pull/324'}
+  - {number: 325, title: Fix rendering bug with markdown table headers, updated: '2020-09-30',
+    url: 'https://github.com/swcarpentry/sql-novice-survey/pull/325'}
   url: https://github.com/swcarpentry/sql-novice-survey
 - description: Python
   ident: swcarpentry/python-novice-inflammation
@@ -1043,5 +1049,15 @@ records:
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
+  - {number: 1176, title: 'Redirect Get Involved->Help Wanted to https://carpentries.org/help-wanted-issues/',
+    updated: '2020-09-30', url: 'https://github.com/swcarpentry/website/pull/1176'}
+  - {number: 1175, title: Link to Help Wanted page from Development Dashboard, updated: '2020-09-30',
+    url: 'https://github.com/swcarpentry/website/pull/1175'}
+  - {number: 1174, title: Improved Docs and Added a screenshot!, updated: '2020-09-30',
+    url: 'https://github.com/swcarpentry/website/pull/1174'}
+  - {number: 1173, title: Improved Docs, updated: '2020-09-30', url: 'https://github.com/swcarpentry/website/pull/1173'}
+  - {number: 1172, title: Greeting with thank you in the last, updated: '2020-09-30',
+    url: 'https://github.com/swcarpentry/website/pull/1172'}
+  - {number: 1171, title: update SQL maintainers, updated: '2020-09-30', url: 'https://github.com/swcarpentry/website/pull/1171'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-09-29T17:25:41Z'
+timestamp: '2020-09-30T17:27:06Z'
