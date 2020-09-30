@@ -18,11 +18,11 @@ please see [the lessons page](http://software-carpentry.org/lessons/)
 for links to their repositories.
 
 > Software Carpentry is an open project,
-> and we welcome contributions of all kinds.
+> We welcome contributions of all kinds.
 > By contributing,
-> you are agreeing that Software Carpentry may redistribute your work
-> under [these licenses](http://software-carpentry.org/license/),
-> and to abide by [our code of conduct](http://software-carpentry.org/conduct/).
+> You are agreeing that Software Carpentry may redistribute your work
+> Under [these licenses](http://software-carpentry.org/license/),
+> And to abide by [our code of conduct](http://software-carpentry.org/conduct/).
 
 ## Setup <a name="setup"></a>
 
