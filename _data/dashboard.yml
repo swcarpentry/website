@@ -1049,15 +1049,6 @@ records:
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
-  - {number: 1176, title: 'Redirect Get Involved->Help Wanted to https://carpentries.org/help-wanted-issues/',
-    updated: '2020-09-30', url: 'https://github.com/swcarpentry/website/pull/1176'}
-  - {number: 1175, title: Link to Help Wanted page from Development Dashboard, updated: '2020-09-30',
-    url: 'https://github.com/swcarpentry/website/pull/1175'}
-  - {number: 1174, title: Improved Docs and Added a screenshot!, updated: '2020-09-30',
-    url: 'https://github.com/swcarpentry/website/pull/1174'}
-  - {number: 1173, title: Improved Docs, updated: '2020-09-30', url: 'https://github.com/swcarpentry/website/pull/1173'}
-  - {number: 1172, title: Greeting with thank you in the last, updated: '2020-09-30',
-    url: 'https://github.com/swcarpentry/website/pull/1172'}
   - {number: 1171, title: update SQL maintainers, updated: '2020-09-30', url: 'https://github.com/swcarpentry/website/pull/1171'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-09-30T17:27:06Z'
+timestamp: '2020-10-01T13:21:19Z'
