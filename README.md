@@ -148,7 +148,7 @@ each of which is rebuilt by `make`:
 We cache the output of these commands in the `_data` directory
 so that people can rebuild the site without needing special permissions.
 
-### Styles
+### Styles-An amazing code
 
 The files in the `_sass` and `assets` directories control the appearance of this site.
 Their contents are pulled in manually from a stand-alone [https://github.com/swcarpentry/styles](styles) repository,
