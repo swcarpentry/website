@@ -90,13 +90,11 @@ where `YYYY-MM-DD` is replaced by the post's date and `hh:mm:ss` by the post's t
 Note that the time *must* be quoted so that the colons it contains do not confuse Jekyll's YAML parser.
 Note also that `authors` is a list---if the post has more than one author,
 please format the list like this:
-
 ~~~
 ...
 authors: ["First Author", "Second Author", "Third Author"]
 ...
 ~~~
-
 rather than running all the authors' names together in one long string.
 
 <a name="page"></a>
@@ -163,7 +161,7 @@ so that we can figure out the best way to incorporate your improvements.
 A copy of the shell script `bin/rebuild-site.sh` is installed in the website's home directory on our server
 and re-run hourly by cron.
 If you are able to ssh to the server,
-it can be re-run manually as:
+it can be runned manually as:
 
 ~~~
 $ ssh software-carpentry.org ./rebuild-site.sh
