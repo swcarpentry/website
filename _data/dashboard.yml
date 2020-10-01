@@ -1049,6 +1049,5 @@ records:
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
-  - {number: 1171, title: update SQL maintainers, updated: '2020-09-30', url: 'https://github.com/swcarpentry/website/pull/1171'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-01T13:21:19Z'
+timestamp: '2020-10-01T17:31:30Z'
