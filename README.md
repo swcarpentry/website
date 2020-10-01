@@ -172,3 +172,5 @@ $ ssh software-carpentry.org ./rebuild-site.sh
 ### Previewing the live site
 
 Once changes to the site are merged, they can take several hours to go live.  In the meantime, changes can be [previewed here](http://software-carpentry.org.s3-website-us-east-1.amazonaws.com/). 
+
+Add for the e-commerce website 
