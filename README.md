@@ -1,12 +1,12 @@
 [![Build Status](https://travis-ci.org/swcarpentry/website.svg?branch=gh-pages)](https://travis-ci.org/swcarpentry/website)
 
-# Software Carpentry Website
+# Software Carpentry 
 
 This is the repository for the new [Software Carpentry website](http://software-carpentry.org).
 Please submit additions and fixes as pull requests to [our GitHub repository](https://github.com/swcarpentry/website).
 
 *   [Setup](#setup)
-*   [Previewing](#previewing)
+*   [Preview](#preview)
 *   [Development](#development)
     *   [Write a Blog Post](#blog)
     *   [Create a New Page](#page)
@@ -158,7 +158,7 @@ and [lesson template](https://github.com/swcarpentry/lesson-template).
 Please [contact us](mailto:admin@software-carpentry.org) before modifying any of these files
 so that we can figure out the best way to incorporate your improvements.
 
-### Rebuilding the Main Web Site
+### Rebuilding the Main WebSite
 
 A copy of the shell script `bin/rebuild-site.sh` is installed in the website's home directory on our server
 and re-run hourly by cron.
@@ -169,6 +169,6 @@ it can be re-run manually as:
 $ ssh software-carpentry.org ./rebuild-site.sh
 ~~~
 
-### Previewing the live site
+### Preview the live site
 
 Once changes to the site are merged, they can take several hours to go live.  In the meantime, changes can be [previewed here](http://software-carpentry.org.s3-website-us-east-1.amazonaws.com/). 
