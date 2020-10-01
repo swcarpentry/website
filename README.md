@@ -27,7 +27,7 @@ for links to their repositories.
 ## Setup <a name="setup"></a>
 
 The website uses [Jekyll](http://jekyllrb.com/), a static website generator written in Ruby.
-You need to have Version 2.1.0 or higher of Ruby and the package manager Bundler (The package manager is used to make sure you use exactly the same versions of software as GitHub Pages).
+You need to have Version 2.1.0 or higher of Ruby and the package manager Bundler (The package manager is used to make sure that you are using exactly the same version of software as GitHub Pages).
 Bundler can be installed with `$ gem install bundler`.
 If you are on Linux, you will need to install the Ruby header files (e.g., `$ sudo apt-get install ruby-dev` on Debian/Ubuntu).
 After checking out the repository, please run:
@@ -88,7 +88,7 @@ tags: ["Some Category", "Some Other Category"]
 
 where `YYYY-MM-DD` is replaced by the post's date and `hh:mm:ss` by the post's time.
 Note that the time *must* be quoted so that the colons it contains do not confuse Jekyll's YAML parser.
-Note also that `authors` is a list---if the post has more than one author,
+Also note that `authors` is a list---if the post has more than one author,
 please format the list like this:
 
 ~~~
@@ -97,7 +97,7 @@ authors: ["First Author", "Second Author", "Third Author"]
 ...
 ~~~
 
-rather than running all the authors' names together in one long string.
+rather than running all the authors' names altogether in one long string.
 
 <a name="page"></a>
 To **create a new page**,
