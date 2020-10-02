@@ -100,7 +100,7 @@ authors: ["First Author", "Second Author", "Third Author"]
 rather than running all the authors' names together in one long string.
 
 <a name="page"></a>
-To **create a new page**,
+To **Create a new page**,
 add a file to the `pages` directory.
 This can be written in either Markdown or HTML,
 and must have the following YAML header:
@@ -145,7 +145,7 @@ each of which is rebuilt by `make`:
     but is only necessary if you have added more people to `_includes/people` or more projects to `_includes/projects`.
     (We plan to move the content of these two directories to `_data` so that `make includes` will no longer be needed.)
 
-We cache the output of these commands in the `_data` directory
+We cache the output of these commands in the `_data` directory.
 so that people can rebuild the site without needing special permissions.
 
 ### Styles
@@ -169,6 +169,6 @@ it can be re-run manually as:
 $ ssh software-carpentry.org ./rebuild-site.sh
 ~~~
 
-### Previewing the live site
+### Previewing the live Site
 
 Once changes to the site are merged, they can take several hours to go live.  In the meantime, changes can be [previewed here](http://software-carpentry.org.s3-website-us-east-1.amazonaws.com/). 
