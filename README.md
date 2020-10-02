@@ -13,7 +13,7 @@ Please submit additions and fixes as pull requests to [our GitHub repository](ht
     *   [Add a Workshop](#workshop)
 *   [The Details](#details)
 
-Lessons are not stored in this repository:
+Lessons are not stored in the repository:
 please see [the lessons page](http://software-carpentry.org/lessons/)
 for links to their repositories.
 
