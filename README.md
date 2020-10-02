@@ -49,7 +49,6 @@ re-generate the [data files](#details) the site depends on.
 
 Please do **not** use `jekyll build` or `jekyll serve` directly to build or view the website.
 Instead, you should use the following commands:
-
 *   `make` or `make commands`: list available commands.
 *   `make serve`: build files locally and run a server at [http://0.0.0.0:4000/](http://0.0.0.0:4000/) for viewing.
     This is the best way to preview the site.
@@ -67,8 +66,8 @@ We're working on it...
 To **write a blog post**,
 create a file called `_posts/YYYY/MM/YYYY-MM-DD-some-title.html` or  `_posts/YYYY/MM/YYYY-MM-DD-some-title.md`
 (for HTML and Markdown respectively).
-YYYY is the 4-digit year of the post, MM the 2-digit month, and DD the 2-digit day;
-`some-title` can be any hyphenated string of words that do not include special characters such as quotes.
+YYYY is the 4-digit year of the post, MM the 2-digit month of the post, and DD the 2-digit day of the post;
+`some-title` can be any hyphenated string of words that does not include any special characters such as quotes.
 Please do *not* use underscores or periods in the names.
 When published,
 your blog post will appear as `http://software-carpentry.org/blog/YYYY/MM/some-title.html`.
@@ -120,7 +119,7 @@ fill in the [workshop request form](https://amy.carpentries.org/workshops/swc/re
 You should fill in this form even for self-organized workshops in order to get your workshop into our database.
 
 Do *not* edit the YAML in `_data/amy.yml`:
-this is overwritten every time the website is rebuilt on the server.
+This is overwritten every time when the website is rebuilt on the server.
 
 ## The Details <a name="details"></a>
 
