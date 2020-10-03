@@ -476,10 +476,10 @@ records:
       sql commands, updated: '2020-03-09', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/193'}
   - {number: 289, title: Simplification + solution for group concatenation exercise,
     updated: '2020-05-28', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/289'}
-  - {number: 324, title: Explain NULLs when teaching count, updated: '2020-09-15',
-    url: 'https://github.com/swcarpentry/sql-novice-survey/pull/324'}
   - {number: 325, title: Fix rendering bug with markdown table headers, updated: '2020-09-30',
     url: 'https://github.com/swcarpentry/sql-novice-survey/pull/325'}
+  - {number: 324, title: Explain NULLs when teaching count, updated: '2020-10-03',
+    url: 'https://github.com/swcarpentry/sql-novice-survey/pull/324'}
   url: https://github.com/swcarpentry/sql-novice-survey
 - description: Python
   ident: swcarpentry/python-novice-inflammation
@@ -497,8 +497,6 @@ records:
   - {number: 306, title: syntax highlighting, updated: '2016-08-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/306'}
   - {number: 159, title: 'Should lesson code adhere to PEP8?', updated: '2016-09-10',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/159'}
-  - {number: 329, title: Possible inaccuracy in 'Defensive Programming', updated: '2016-11-15',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/329'}
   - {number: 331, title: Teaching the funnel method, updated: '2016-11-20', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/331'}
   - {number: 343, title: IndexError redundancy, updated: '2017-01-31', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/343'}
   - {number: 362, title: Index error in 'Analyzing Patient Data' - 01-numpy.md, updated: '2017-03-22',
@@ -681,6 +679,8 @@ records:
   - {number: 847, title: '01-intro: Inaccuracy in Demonstration of "Variables as Sticky
       Notes"', updated: '2020-09-16', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/847'}
   - {number: 867, title: First introduction of comments, updated: '2020-09-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/867'}
+  - {number: 874, title: Episode 10 Defensive Programming — Using the assert statement
+      to validate data is bad practice, updated: '2020-10-03', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/874'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -769,6 +769,7 @@ records:
   - {number: 869, title: Update 07-cond.md, updated: '2020-09-22', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/869'}
   - {number: 868, title: moved comment description to first lesson, updated: '2020-09-24',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/868'}
+  - {number: 875, title: Update 01-intro.md, updated: '2020-10-03', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/875'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1030,6 +1031,8 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1567'}
   - {number: 1516, title: Update "current"/ "unpublished" requirements, updated: '2020-09-29',
     url: 'https://github.com/carpentries/amy/issues/1516'}
+  - {number: 1720, title: Include "Supporting Instructor" role in Person role count,
+    updated: '2020-10-02', url: 'https://github.com/carpentries/amy/issues/1720'}
   - {number: 1719, title: include option in profiles for people to disable having
       their information visible on our websites, updated: '2020-10-02', url: 'https://github.com/carpentries/amy/issues/1719'}
   - {number: 1711, title: Re-activate fields for pre/post surveys, updated: '2020-10-02',
@@ -1052,4 +1055,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-02T17:30:21Z'
+timestamp: '2020-10-03T17:27:53Z'
