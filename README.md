@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/swcarpentry/website.svg?branch=gh-pages)](https://travis-ci.org/swcarpentry/website)
 
+"Software is a great combination between artistry and engineering"
+
 # Software Carpentry Website
 
 This is the repository for the new [Software Carpentry website](http://software-carpentry.org).
@@ -27,12 +29,12 @@ for links to their repositories.
 ## Setup <a name="setup"></a>
 
 The website uses [Jekyll](http://jekyllrb.com/), a static website generator written in Ruby.
-You need to have Version 2.1.0 or higher of Ruby and the package manager Bundler (The package manager is used to make sure you use exactly the same versions of software as GitHub Pages).
-Bundler can be installed with `$ gem install bundler`.
-If you are on Linux, you will need to install the Ruby header files (e.g., `$ sudo apt-get install ruby-dev` on Debian/Ubuntu).
+You need to have Version 2.1.0 or higher of Ruby and the package manager Bundler (The package manager is used to make sure you use the same versions of software as GitHub Pages).
+Bundler can be installed with a `$ gem install bundler`.
+If you are on Linux, you will need to install the Ruby header files (e.g., `$ Sudo apt-get install ruby-dev` on Debian/Ubuntu).
 After checking out the repository, please run:
 
-**Alternative Method**: If you have Docker installed on your system, you may be able to use the `make dockerbuild` and `make dockerserve` targets. These `Makefile` targets will install all Jekyll dependencies into the folder `vendor/` and build/serve the website respectively.
+**Alternative Method**: If you have Docker installed on your system, you may be able to use the `make docker build` and `make docker server` targets. These `Makefile` targets will install all Jekyll dependencies into the folder `vendor/` and build/serve the website respectively.
 
 ```
 $ bundle install
@@ -47,13 +49,13 @@ re-generate the [data files](#details) the site depends on.
 
 ## Previewing <a name="previewing"></a>
 
-Please do **not** use `jekyll build` or `jekyll serve` directly to build or view the website.
+Please do **not** use `Jekyll build` or `Jekyll serves` directly to build or view the website.
 Instead, you should use the following commands:
 
 *   `make` or `make commands`: list available commands.
 *   `make serve`: build files locally and run a server at [http://0.0.0.0:4000/](http://0.0.0.0:4000/) for viewing.
     This is the best way to preview the site.
-*   `make site`: build files locally, but do not serve them dynamically.
+*   `make the site`: build files locally, but do not serve them dynamically.
 *   `make clean` removes the `_site` directory and any Emacs editor backup files littering the source directories.
 
 The [details](#details) describes a few more advanced commands as well.
@@ -86,7 +88,7 @@ tags: ["Some Category", "Some Other Category"]
 ---
 ~~~
 
-where `YYYY-MM-DD` is replaced by the post's date and `hh:mm:ss` by the post's time.
+where `YYYY-MM-DD` is replaced by the post's date and `hh:mm: ss` by the post's time.
 Note that the time *must* be quoted so that the colons it contains do not confuse Jekyll's YAML parser.
 Note also that `authors` is a list---if the post has more than one author,
 please format the list like this:
@@ -117,7 +119,7 @@ which is used to generate the site's pull-down navigation menu.
 <a name="workshop"></a>
 To **add a workshop**,
 fill in the [workshop request form](https://amy.carpentries.org/workshops/swc/request/) online.
-You should fill in this form even for self-organized workshops in order to get your workshop into our database.
+You should fill in this form even for self-organized workshops to get your workshop into our database.
 
 Do *not* edit the YAML in `_data/amy.yml`:
 this is overwritten every time the website is rebuilt on the server.
@@ -132,11 +134,11 @@ each of which is rebuilt by `make`:
 *   `make amy` regenerates `_data/amy.yml`,
     which contains information about upcoming workshops, instructors' locations, and so on
     that is fetched from [our online workshop management tool](https://github.com/swcarpentry/amy/).
-    You must be logged in to [AMY](http://amy.carpentries.org) in order to run this.
+    You must be logged in to [AMY](http://amy.carpentries.org) to run this.
 
 *   `make dashboard` generates `_data/dashboard.yml`,
     which contains information about the state of our GitHub repositories.
-    In order to run this,
+    To run this,
     you must get a [GitHub API token](https://github.com/blog/1509-personal-api-tokens)
     and store it in `$HOME/.git-token`.
 
@@ -146,7 +148,7 @@ each of which is rebuilt by `make`:
     (We plan to move the content of these two directories to `_data` so that `make includes` will no longer be needed.)
 
 We cache the output of these commands in the `_data` directory
-so that people can rebuild the site without needing special permissions.
+so that people can rebuild the site without needing special permission.
 
 ### Styles
 
@@ -162,7 +164,7 @@ so that we can figure out the best way to incorporate your improvements.
 
 A copy of the shell script `bin/rebuild-site.sh` is installed in the website's home directory on our server
 and re-run hourly by cron.
-If you are able to ssh to the server,
+If you can ssh to the server,
 it can be re-run manually as:
 
 ~~~
