@@ -1054,5 +1054,6 @@ records:
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
+  - {number: 1197, title: Update .travis.yml.swcarpentry, updated: '2020-10-04', url: 'https://github.com/swcarpentry/website/pull/1197'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-03T17:27:53Z'
+timestamp: '2020-10-04T17:27:55Z'
