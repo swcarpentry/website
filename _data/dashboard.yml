@@ -180,8 +180,6 @@ records:
   - {number: 1144, title: Proposed improvement to Pipes & Filters episode, updated: '2020-09-30',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1144'}
   pulls:
-  - {number: 930, title: Replaced the "taster" regex example with one that I think
-      is a, updated: '2019-07-29', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2020-04-17', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
   - {number: 491, title: 'Episode 7: Add grep -r exercise', updated: '2020-04-17',
@@ -202,6 +200,8 @@ records:
   - {number: 1123, title: change luck-based explanation to software-based, updated: '2020-09-15',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1123'}
   - {number: 1139, title: Update setup.md, updated: '2020-09-25', url: 'https://github.com/swcarpentry/shell-novice/pull/1139'}
+  - {number: 930, title: Replaced the "taster" regex example with one that I think
+      is a, updated: '2020-10-05', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -769,7 +769,7 @@ records:
   - {number: 869, title: Update 07-cond.md, updated: '2020-09-22', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/869'}
   - {number: 868, title: moved comment description to first lesson, updated: '2020-09-24',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/868'}
-  - {number: 875, title: Update 01-intro.md, updated: '2020-10-03', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/875'}
+  - {number: 875, title: Update 01-intro.md, updated: '2020-10-05', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/875'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -887,8 +887,6 @@ records:
   - {number: 19, title: Improvements to MATLAB materials, updated: '2016-07-31', url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/19'}
   - {number: 117, title: 'Ep1: Insufficient explanation of the dataset', updated: '2018-05-23',
     url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/117'}
-  - {number: 95, title: a more detailed example for writing a plotting script, updated: '2018-05-23',
-    url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/95'}
   - {number: 49, title: 'Get back to simpler code?', updated: '2018-07-16', url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/49'}
   - {number: 201, title: 'Ep4: No exercise on scripts', updated: '2019-02-05', url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/201'}
   - {number: 202, title: 'Ep 5: poorly motivated example', updated: '2019-02-07',
@@ -1054,6 +1052,5 @@ records:
   - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
-  - {number: 1197, title: Update .travis.yml.swcarpentry, updated: '2020-10-04', url: 'https://github.com/swcarpentry/website/pull/1197'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-04T17:27:55Z'
+timestamp: '2020-10-05T17:31:11Z'
