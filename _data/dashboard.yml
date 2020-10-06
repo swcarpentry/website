@@ -321,6 +321,8 @@ records:
       control, updated: '2020-09-21', url: 'https://github.com/swcarpentry/git-novice/issues/757'}
   - {number: 759, title: Suggestion for improving the git staging area graphic, updated: '2020-09-29',
     url: 'https://github.com/swcarpentry/git-novice/issues/759'}
+  - {number: 761, title: Best practices to switch from master to main, updated: '2020-10-06',
+    url: 'https://github.com/swcarpentry/git-novice/issues/761'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -377,6 +379,8 @@ records:
   - {number: 742, title: 'episodes: proofread changes for instructor checkout', updated: '2020-09-04',
     url: 'https://github.com/swcarpentry/git-novice/pull/742'}
   - {number: 758, title: A greene checkout edit 01, updated: '2020-09-30', url: 'https://github.com/swcarpentry/git-novice/pull/758'}
+  - {number: 760, title: Change `checkout` actions to use newer `restore` syntax,
+    updated: '2020-10-06', url: 'https://github.com/swcarpentry/git-novice/pull/760'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -476,8 +480,6 @@ records:
       sql commands, updated: '2020-03-09', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/193'}
   - {number: 289, title: Simplification + solution for group concatenation exercise,
     updated: '2020-05-28', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/289'}
-  - {number: 325, title: Fix rendering bug with markdown table headers, updated: '2020-09-30',
-    url: 'https://github.com/swcarpentry/sql-novice-survey/pull/325'}
   - {number: 324, title: Explain NULLs when teaching count, updated: '2020-10-03',
     url: 'https://github.com/swcarpentry/sql-novice-survey/pull/324'}
   url: https://github.com/swcarpentry/sql-novice-survey
@@ -1053,4 +1055,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-05T17:31:11Z'
+timestamp: '2020-10-06T17:34:46Z'
