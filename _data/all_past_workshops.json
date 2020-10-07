@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Mohamed Abdelhalim,Tobias Busch,Claudia Barth",
+    "end_date": "2020-10-07",
+    "url": "https://uio-carpentry.github.io/2020-10-07-uio/",
+    "country": "NO",
+    "curriculum": "mix-and-match",
+    "venue": "University of Oslo",
+    "longitude": 10.72204,
+    "slug": "2020-10-07-uio",
+    "tag_name": "Circuits",
+    "helpers": "Mohamed Abdelhalim,Tobias Busch,Claudia Barth",
+    "host_name": "University of Oslo",
+    "latitude": 59.93824,
+    "start_date": "2020-10-07"
+  },
+  {
     "instructors": "Karl Benedict,Mark Servilla",
     "end_date": "2020-10-03",
     "url": "https://nmcarpentries.github.io/2020-10-03-nmcsa-online/",
@@ -159,7 +174,7 @@
     "longitude": -73.990846,
     "slug": "2020-09-24-flatiron-online",
     "tag_name": "automated-email,SWC,online",
-    "helpers": "Melissa Fabros,Kelle Cruz,Dylan Simon,Elnaz AmanzadehJajin",
+    "helpers": "Melissa Fabros,Kelle Cruz,Dylan Simon",
     "host_name": "Flatiron Institute, Simons Foundation",
     "latitude": 40.740555,
     "start_date": "2020-09-24"
@@ -732,6 +747,21 @@
     "helpers": "Erin Scully,Suzy Stillman,Brian Nadon",
     "host_name": "United States Deparment of Agriculture",
     "latitude": 38.9,
+    "start_date": "2020-08-26"
+  },
+  {
+    "instructors": "Andre Geldenhuis,Wes Harrell,Ngonidzashe Faya,Dinindu Senanayake",
+    "end_date": "2020-08-27",
+    "url": "https://genomicsaotearoa.github.io/2020-08-26-wellington/",
+    "country": "NZ",
+    "curriculum": "dc-genomics",
+    "venue": "Online",
+    "longitude": 174.737,
+    "slug": "2020-08-26-wellington",
+    "tag_name": "DC",
+    "helpers": "Matt Plummer,Leticia Castro,Tina Sehrish,John Henry",
+    "host_name": "Genomics Aotearoa",
+    "latitude": -41.284901,
     "start_date": "2020-08-26"
   },
   {
@@ -19635,7 +19665,7 @@
     "start_date": "2018-05-08"
   },
   {
-    "instructors": "Alistair Walsh,Belinda Weaver,Nicholas Tierney",
+    "instructors": "Alistair Walsh,Belinda Weaver",
     "end_date": "2018-05-08",
     "url": "https://weaverbel.github.io/2018-05-07-monash/",
     "country": "AU",

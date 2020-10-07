@@ -197,11 +197,11 @@ records:
       provided direct links for PuTTY, MobaXterm, Cygwin', updated: '2020-08-26',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1132'}
   - {number: 1128, title: Update 03-create.md, updated: '2020-08-28', url: 'https://github.com/swcarpentry/shell-novice/pull/1128'}
-  - {number: 1123, title: change luck-based explanation to software-based, updated: '2020-09-15',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/1123'}
   - {number: 1139, title: Update setup.md, updated: '2020-09-25', url: 'https://github.com/swcarpentry/shell-novice/pull/1139'}
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2020-10-05', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
+  - {number: 1123, title: change luck-based explanation to software-based, updated: '2020-10-07',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/1123'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -766,12 +766,11 @@ records:
   - {number: 843, title: Adding a Default Action in 12-cmdline.md solution fails on
       piped stdin, updated: '2020-07-14', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/843'}
   - {number: 852, title: Update 01-intro.md, updated: '2020-07-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/852'}
-  - {number: 865, title: 'Add int, float and string functions to intro', updated: '2020-09-14',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/865'}
   - {number: 869, title: Update 07-cond.md, updated: '2020-09-22', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/869'}
   - {number: 868, title: moved comment description to first lesson, updated: '2020-09-24',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/868'}
   - {number: 875, title: Update 01-intro.md, updated: '2020-10-05', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/875'}
+  - {number: 876, title: Revision to Code Sample, updated: '2020-10-07', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/876'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1055,4 +1054,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-06T17:34:46Z'
+timestamp: '2020-10-07T17:32:45Z'

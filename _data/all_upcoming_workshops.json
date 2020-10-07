@@ -180,21 +180,6 @@
     "start_date": "2020-10-07"
   },
   {
-    "instructors": "Mohamed Abdelhalim,Tobias Busch,Claudia Barth",
-    "end_date": "2020-10-07",
-    "url": "https://uio-carpentry.github.io/2020-10-07-uio/",
-    "country": "NO",
-    "curriculum": "mix-and-match",
-    "venue": "University of Oslo",
-    "longitude": 10.72204,
-    "slug": "2020-10-07-uio",
-    "tag_name": "Circuits",
-    "helpers": "Mohamed Abdelhalim,Tobias Busch,Claudia Barth",
-    "host_name": "University of Oslo",
-    "latitude": 59.93824,
-    "start_date": "2020-10-07"
-  },
-  {
     "instructors": "Nicolas Frazee,Vivian Guetler",
     "end_date": "2020-10-29",
     "url": "http://ncf0003.github.io/2020-10-08-wvu",
@@ -383,7 +368,7 @@
     "venue": "University of Melbourne",
     "longitude": 144.959645,
     "slug": "2020-10-15-SCIPUniMelb-online",
-    "tag_name": "Circuits",
+    "tag_name": "Circuits,online",
     "helpers": "Trent Ryan",
     "host_name": "University of Melbourne",
     "latitude": -37.79664,
@@ -463,6 +448,21 @@
     "host_name": "Nord University",
     "latitude": -48.876667,
     "start_date": "2020-10-21"
+  },
+  {
+    "instructors": "Kelly Meehan",
+    "end_date": "2020-10-29",
+    "url": "https://eniac-6.github.io/2020-10-22-usbr/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "USBR LCR (online)",
+    "longitude": -114.843043,
+    "slug": "2020-10-22-usbr",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "Bureau of Reclamation",
+    "latitude": 35.978197,
+    "start_date": "2020-10-22"
   },
   {
     "instructors": "Tito Peña Montenegro",
