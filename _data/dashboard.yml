@@ -171,14 +171,12 @@ records:
   - {number: 1137, title: Switch order of setup page, updated: '2020-09-09', url: 'https://github.com/swcarpentry/shell-novice/issues/1137'}
   - {number: 1010, title: Unix Shell setup suggestion - Video link and instructions
       on set up could be helpful, updated: '2020-09-18', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
-  - {number: 477, title: Improve answer to Exploring More ls Arguments, updated: '2020-09-21',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/477'}
   - {number: 1141, title: 'Potentially confusing filename: data-shell.zip', updated: '2020-09-28',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1141'}
-  - {number: 1142, title: Unclear Explanation - Copying Files, updated: '2020-09-29',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/1142'}
-  - {number: 1144, title: Proposed improvement to Pipes & Filters episode, updated: '2020-09-30',
+  - {number: 1144, title: Proposed improvement to Pipes & Filters episode, updated: '2020-10-08',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1144'}
+  - {number: 1142, title: Unclear Explanation - Copying Files, updated: '2020-10-08',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/1142'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2020-04-17', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -200,7 +198,7 @@ records:
   - {number: 1139, title: Update setup.md, updated: '2020-09-25', url: 'https://github.com/swcarpentry/shell-novice/pull/1139'}
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2020-10-05', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
-  - {number: 1123, title: change luck-based explanation to software-based, updated: '2020-10-07',
+  - {number: 1123, title: change luck-based explanation to software-based, updated: '2020-10-08',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1123'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
@@ -394,7 +392,9 @@ records:
   ident: swcarpentry/git-novice-es
   issues:
   - {number: 78, title: Git for windows, updated: '2020-08-19', url: 'https://github.com/swcarpentry/git-novice-es/issues/78'}
-  pulls: []
+  pulls:
+  - {number: 79, title: remove permalinks with trailing slash and redundant layout
+      config, updated: '2020-10-08', url: 'https://github.com/swcarpentry/git-novice-es/pull/79'}
   url: https://github.com/swcarpentry/git-novice-es
 - description: Mercurial
   ident: swcarpentry/hg-novice
@@ -769,8 +769,8 @@ records:
   - {number: 869, title: Update 07-cond.md, updated: '2020-09-22', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/869'}
   - {number: 868, title: moved comment description to first lesson, updated: '2020-09-24',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/868'}
-  - {number: 875, title: Update 01-intro.md, updated: '2020-10-05', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/875'}
-  - {number: 876, title: Revision to Code Sample, updated: '2020-10-07', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/876'}
+  - {number: 875, title: Update 01-intro.md, updated: '2020-10-07', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/875'}
+  - {number: 876, title: Revision to Code Sample, updated: '2020-10-08', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/876'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1054,4 +1054,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-07T17:32:45Z'
+timestamp: '2020-10-08T17:31:33Z'
