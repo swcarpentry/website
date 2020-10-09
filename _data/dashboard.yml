@@ -321,6 +321,8 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/759'}
   - {number: 761, title: Best practices to switch from master to main, updated: '2020-10-06',
     url: 'https://github.com/swcarpentry/git-novice/issues/761'}
+  - {number: 762, title: Reorder instructions for reviewing a Collaborator's commit,
+    updated: '2020-10-09', url: 'https://github.com/swcarpentry/git-novice/issues/762'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -379,6 +381,8 @@ records:
   - {number: 758, title: A greene checkout edit 01, updated: '2020-09-30', url: 'https://github.com/swcarpentry/git-novice/pull/758'}
   - {number: 760, title: Change `checkout` actions to use newer `restore` syntax,
     updated: '2020-10-06', url: 'https://github.com/swcarpentry/git-novice/pull/760'}
+  - {number: 763, title: Reorder reviewing a Collaborator's commit, updated: '2020-10-09',
+    url: 'https://github.com/swcarpentry/git-novice/pull/763'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -431,8 +435,6 @@ records:
       run after the first query', updated: '2018-06-11', url: 'https://github.com/swcarpentry/sql-novice-survey/issues/217'}
   - {number: 211, title: Order of columns in SELECT statements, updated: '2018-06-11',
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/211'}
-  - {number: 194, title: 'Consideration to move questions into a new section: nested
-      queries', updated: '2018-06-11', url: 'https://github.com/swcarpentry/sql-novice-survey/issues/194'}
   - {number: 191, title: Multiple JOINS - style and legibility, updated: '2018-06-11',
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/191'}
   - {number: 190, title: Combining aggregated and raw results - GROUP BY, updated: '2018-06-11',
@@ -682,7 +684,7 @@ records:
       Notes"', updated: '2020-09-16', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/847'}
   - {number: 867, title: First introduction of comments, updated: '2020-09-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/867'}
   - {number: 874, title: Episode 10 Defensive Programming — Using the assert statement
-      to validate data is bad practice, updated: '2020-10-03', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/874'}
+      to validate data is bad practice, updated: '2020-10-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/874'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -770,7 +772,7 @@ records:
   - {number: 868, title: moved comment description to first lesson, updated: '2020-09-24',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/868'}
   - {number: 875, title: Update 01-intro.md, updated: '2020-10-07', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/875'}
-  - {number: 876, title: Revision to Code Sample, updated: '2020-10-08', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/876'}
+  - {number: 876, title: Revision to Code Sample, updated: '2020-10-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/876'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1054,4 +1056,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-08T17:31:33Z'
+timestamp: '2020-10-09T17:30:26Z'
