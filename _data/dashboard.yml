@@ -317,12 +317,12 @@ records:
       in Ignoring Things, Episode 6', updated: '2020-09-17', url: 'https://github.com/swcarpentry/git-novice/issues/687'}
   - {number: 757, title: Providing a definition for distributed (vs centralised) version
       control, updated: '2020-09-21', url: 'https://github.com/swcarpentry/git-novice/issues/757'}
-  - {number: 759, title: Suggestion for improving the git staging area graphic, updated: '2020-09-29',
-    url: 'https://github.com/swcarpentry/git-novice/issues/759'}
   - {number: 761, title: Best practices to switch from master to main, updated: '2020-10-06',
     url: 'https://github.com/swcarpentry/git-novice/issues/761'}
   - {number: 762, title: Reorder instructions for reviewing a Collaborator's commit,
     updated: '2020-10-09', url: 'https://github.com/swcarpentry/git-novice/issues/762'}
+  - {number: 759, title: Suggestion for improving the git staging area graphic, updated: '2020-10-10',
+    url: 'https://github.com/swcarpentry/git-novice/issues/759'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -1056,4 +1056,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-09T17:30:26Z'
+timestamp: '2020-10-10T17:30:22Z'

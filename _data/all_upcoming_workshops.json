@@ -570,6 +570,21 @@
     "start_date": "2020-11-02"
   },
   {
+    "instructors": "Patrice-Andre Prud'homme,Ezgi Irmak Yucel,Preethy Nair,Rayvn Manuel",
+    "end_date": "2020-11-06",
+    "url": "https://nairps.github.io/2020-11-03-umaryland-online/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "University of Maryland (online)",
+    "longitude": -1,
+    "slug": "2020-11-03-umaryland-online",
+    "tag_name": "automated-email,LC,online",
+    "helpers": null,
+    "host_name": "University of Maryland, Baltimore",
+    "latitude": 45,
+    "start_date": "2020-11-03"
+  },
+  {
     "instructors": null,
     "end_date": "2020-11-06",
     "url": "https://nyu-dataservices.github.io/2020-11-05-nyu",
