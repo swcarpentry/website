@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Alice Harpole,Michael Zingale,Marijane White,Elnaz Amanzadeh Jajin",
+    "end_date": "2020-10-11",
+    "url": "https://harpolea.github.io/2020-10-10-stonybrook-online/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "Institute for Advanced Computational Science, Stony Brook University",
+    "longitude": -73.12188,
+    "slug": "2020-10-10-stonybrook-online",
+    "tag_name": "SWC,automated-email,online",
+    "helpers": null,
+    "host_name": "Stony Brook University",
+    "latitude": 40.91152,
+    "start_date": "2020-10-10"
+  },
+  {
     "instructors": "Denice Adkins",
     "end_date": "2020-10-09",
     "url": "https://swc-mizzou.github.io/2020-10-09-mizzou/",
@@ -1108,21 +1123,6 @@
     "host_name": "Tribhuvan University of Nepal",
     "latitude": 27.678056,
     "start_date": "2020-08-18"
-  },
-  {
-    "instructors": "Amanda Miotto",
-    "end_date": "2020-08-19",
-    "url": "https://gu-eresearch.github.io/2020-08-17-GriffithUni-Python/",
-    "country": "AU",
-    "curriculum": "swc-python",
-    "venue": "Griffith University",
-    "longitude": -27.552941,
-    "slug": "2020-08-17-GriffithUni-Python",
-    "tag_name": "SWC",
-    "helpers": null,
-    "host_name": "Griffith University",
-    "latitude": -27.552941,
-    "start_date": "2020-08-17"
   },
   {
     "instructors": "Konrad Förstner,Till Sauerwein",

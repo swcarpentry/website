@@ -177,6 +177,7 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1144'}
   - {number: 1142, title: Unclear Explanation - Copying Files, updated: '2020-10-08',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1142'}
+  - {number: 1148, title: repeated key point, updated: '2020-10-10', url: 'https://github.com/swcarpentry/shell-novice/issues/1148'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2020-04-17', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -281,8 +282,6 @@ records:
       than laconic, updated: '2020-03-03', url: 'https://github.com/swcarpentry/git-novice/issues/727'}
   - {number: 724, title: Episode 8 - No notifications in Github after inviting collaborator,
     updated: '2020-03-03', url: 'https://github.com/swcarpentry/git-novice/issues/724'}
-  - {number: 691, title: 'Consider replacing "checkout" with "switch" and "restore",
-      if widely available in the future', updated: '2020-03-04', url: 'https://github.com/swcarpentry/git-novice/issues/691'}
   - {number: 716, title: 'Is using "origin master" really necessary?', updated: '2020-03-09',
     url: 'https://github.com/swcarpentry/git-novice/issues/716'}
   - {number: 730, title: 'Episode 5 - Exploring History: Explain state "detached HEAD"
@@ -315,14 +314,18 @@ records:
       via github/bitbucket web interface instead?', updated: '2020-09-04', url: 'https://github.com/swcarpentry/git-novice/issues/756'}
   - {number: 687, title: 'Relocate directories and .gitkeep, Episode 4 to .gitignore
       in Ignoring Things, Episode 6', updated: '2020-09-17', url: 'https://github.com/swcarpentry/git-novice/issues/687'}
-  - {number: 757, title: Providing a definition for distributed (vs centralised) version
-      control, updated: '2020-09-21', url: 'https://github.com/swcarpentry/git-novice/issues/757'}
-  - {number: 761, title: Best practices to switch from master to main, updated: '2020-10-06',
-    url: 'https://github.com/swcarpentry/git-novice/issues/761'}
   - {number: 762, title: Reorder instructions for reviewing a Collaborator's commit,
     updated: '2020-10-09', url: 'https://github.com/swcarpentry/git-novice/issues/762'}
   - {number: 759, title: Suggestion for improving the git staging area graphic, updated: '2020-10-10',
     url: 'https://github.com/swcarpentry/git-novice/issues/759'}
+  - {number: 757, title: Providing a definition for distributed (vs centralised) version
+      control, updated: '2020-10-10', url: 'https://github.com/swcarpentry/git-novice/issues/757'}
+  - {number: 764, title: Figure caption ~/vlad/planets is confusing, updated: '2020-10-11',
+    url: 'https://github.com/swcarpentry/git-novice/issues/764'}
+  - {number: 761, title: Best practices to switch from master to main, updated: '2020-10-11',
+    url: 'https://github.com/swcarpentry/git-novice/issues/761'}
+  - {number: 691, title: 'Consider replacing "checkout" with "switch" and "restore",
+      if widely available in the future', updated: '2020-10-11', url: 'https://github.com/swcarpentry/git-novice/issues/691'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -1056,4 +1059,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-10T17:30:22Z'
+timestamp: '2020-10-11T17:30:45Z'
