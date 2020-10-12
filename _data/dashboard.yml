@@ -158,8 +158,6 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1113'}
   - {number: 1116, title: Ep3. mv ls output clarification, updated: '2020-06-30',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1116'}
-  - {number: 1120, title: Using common conventions in lesson materials when providing
-      abstract or incomplete code examples., updated: '2020-07-02', url: 'https://github.com/swcarpentry/shell-novice/issues/1120'}
   - {number: 1118, title: Auto completion on commands, updated: '2020-07-02', url: 'https://github.com/swcarpentry/shell-novice/issues/1118'}
   - {number: 1125, title: 'Ep. 4 Pipes and Filters suggestion: Add subheadings', updated: '2020-08-05',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1125'}
@@ -177,7 +175,6 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1144'}
   - {number: 1142, title: Unclear Explanation - Copying Files, updated: '2020-10-08',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1142'}
-  - {number: 1148, title: repeated key point, updated: '2020-10-10', url: 'https://github.com/swcarpentry/shell-novice/issues/1148'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2020-04-17', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -188,8 +185,6 @@ records:
   - {number: 992, title: Made changes and added General Syntax episode., updated: '2020-05-29',
     url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
   - {number: 1117, title: Update setup.md, updated: '2020-07-02', url: 'https://github.com/swcarpentry/shell-novice/pull/1117'}
-  - {number: 1135, title: Use POSIX convention for abstract examples, updated: '2020-08-26',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/1135'}
   - {number: 1134, title: Add more realistic regex example, updated: '2020-08-26',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1134'}
   - {number: 1132, title: 'Minor text clarifications, added MobaXterm as an option,
@@ -199,8 +194,9 @@ records:
   - {number: 1139, title: Update setup.md, updated: '2020-09-25', url: 'https://github.com/swcarpentry/shell-novice/pull/1139'}
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2020-10-05', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
-  - {number: 1123, title: change luck-based explanation to software-based, updated: '2020-10-08',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/1123'}
+  - {number: 1152, title: Reorder setup, updated: '2020-10-12', url: 'https://github.com/swcarpentry/shell-novice/pull/1152'}
+  - {number: 1150, title: Show grep with recursive option, updated: '2020-10-12',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/1150'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -325,7 +321,7 @@ records:
   - {number: 761, title: Best practices to switch from master to main, updated: '2020-10-11',
     url: 'https://github.com/swcarpentry/git-novice/issues/761'}
   - {number: 691, title: 'Consider replacing "checkout" with "switch" and "restore",
-      if widely available in the future', updated: '2020-10-11', url: 'https://github.com/swcarpentry/git-novice/issues/691'}
+      if widely available in the future', updated: '2020-10-12', url: 'https://github.com/swcarpentry/git-novice/issues/691'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -1059,4 +1055,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-11T17:30:45Z'
+timestamp: '2020-10-12T17:31:50Z'
