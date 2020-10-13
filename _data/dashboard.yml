@@ -194,9 +194,9 @@ records:
   - {number: 1139, title: Update setup.md, updated: '2020-09-25', url: 'https://github.com/swcarpentry/shell-novice/pull/1139'}
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2020-10-05', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
-  - {number: 1152, title: Reorder setup, updated: '2020-10-12', url: 'https://github.com/swcarpentry/shell-novice/pull/1152'}
   - {number: 1150, title: Show grep with recursive option, updated: '2020-10-12',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1150'}
+  - {number: 1152, title: Reorder and simplify setup, updated: '2020-10-13', url: 'https://github.com/swcarpentry/shell-novice/pull/1152'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -320,8 +320,10 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/764'}
   - {number: 761, title: Best practices to switch from master to main, updated: '2020-10-11',
     url: 'https://github.com/swcarpentry/git-novice/issues/761'}
+  - {number: 765, title: Lesson Contribution - Additional Commands, updated: '2020-10-13',
+    url: 'https://github.com/swcarpentry/git-novice/issues/765'}
   - {number: 691, title: 'Consider replacing "checkout" with "switch" and "restore",
-      if widely available in the future', updated: '2020-10-12', url: 'https://github.com/swcarpentry/git-novice/issues/691'}
+      if widely available in the future', updated: '2020-10-13', url: 'https://github.com/swcarpentry/git-novice/issues/691'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -837,6 +839,7 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/460'}
   - {number: 421, title: 'Upgrade 06-best-practices with more references or even practices?',
     updated: '2019-12-24', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/421'}
+  - {number: 488, title: remove-iris, updated: '2020-10-12', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/488'}
   url: https://github.com/swcarpentry/r-novice-inflammation
 - description: R (Gapminder Data - Español)
   ident: swcarpentry/r-novice-gapminder
@@ -879,7 +882,8 @@ records:
   - {number: 100, title: Gender definition problem in the index, updated: '2019-06-04',
     url: 'https://github.com/swcarpentry/r-novice-gapminder-es/issues/100'}
   - {number: 115, title: 'RFC: Migration to R 4.0', updated: '2020-07-27', url: 'https://github.com/swcarpentry/r-novice-gapminder-es/issues/115'}
-  pulls: []
+  pulls:
+  - {number: 116, title: Replace iris with mtcars, updated: '2020-10-12', url: 'https://github.com/swcarpentry/r-novice-gapminder-es/pull/116'}
   url: https://github.com/swcarpentry/r-novice-gapminder-es
 - description: MATLAB
   ident: swcarpentry/matlab-novice-inflammation
@@ -1042,6 +1046,8 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1203'}
   - {number: 1712, title: Acknowledge Workshop Request review, updated: '2020-09-13',
     url: 'https://github.com/carpentries/amy/pull/1712'}
+  - {number: 1721, title: Supporting Instructor role count, updated: '2020-10-12',
+    url: 'https://github.com/carpentries/amy/pull/1721'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1055,4 +1061,4 @@ records:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-12T17:31:50Z'
+timestamp: '2020-10-13T17:37:35Z'

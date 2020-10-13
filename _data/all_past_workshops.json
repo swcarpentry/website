@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Mario Antonioletti,Peter Smyth",
+    "end_date": "2020-10-13",
+    "url": "https://softwaresaved.github.io/2020-10-13-ssi-online/",
+    "country": "GB",
+    "curriculum": "dc-ecology-r",
+    "venue": "Software Sustainability Institute (online)",
+    "longitude": -1,
+    "slug": "2020-10-13-ssi-online",
+    "tag_name": "DC,online",
+    "helpers": "Aleksandra Nenadic,Robert Nagy",
+    "host_name": "University of Manchester",
+    "latitude": 45,
+    "start_date": "2020-10-13"
+  },
+  {
     "instructors": "Alice Harpole,Michael Zingale,Marijane White,Elnaz Amanzadeh Jajin",
     "end_date": "2020-10-11",
     "url": "https://harpolea.github.io/2020-10-10-stonybrook-online/",
@@ -58,6 +73,21 @@
     "host_name": "University of Oslo",
     "latitude": 59.93824,
     "start_date": "2020-10-07"
+  },
+  {
+    "instructors": "Kristina Hettne,Matthijs de Zwaan,Alice Doek,Henriette Reerink",
+    "end_date": "2020-10-13",
+    "url": "https://mtthsdzwn.github.io/2020-10-05-nl/",
+    "country": "NL",
+    "curriculum": "lc",
+    "venue": "Library Carpentry Nederland",
+    "longitude": 4.48145,
+    "slug": "2020-10-05-nl",
+    "tag_name": "automated-email,LC,online",
+    "helpers": "Judith Spijk",
+    "host_name": "Leiden",
+    "latitude": 52.15731,
+    "start_date": "2020-10-05"
   },
   {
     "instructors": "Thomas Guignard,Hamid Mokhtarzadeh,David Yakobovitch,Annajiat Alim Rasel",
