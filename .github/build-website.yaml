@@ -1,0 +1,106 @@
+name: check, build, deploy site
+
+
+on:
+  push:
+    branches: main
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  build-website:
+    if: github.repository_owner == 'swcarpentry'
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+      - name: Checkout the Repository
+        uses: actions/checkout@master
+
+      - name: Set up Ruby
+        uses: actions/setup-ruby@main
+        with:
+          ruby-version: '2.7.1'
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: python -m pip install --upgrade pip setuptools wheel PyGitHub
+
+      - name: Install GitHub Pages, Bundler, and kramdown gems
+        run: |
+          gem install bundler yaml-lint
+
+      - name: Set up caching for Bundler
+        uses: actions/cache@v2
+        with:
+          path: .vendor/bundle
+          key: gems-${{ hashFiles('**/Gemfile') }}
+          restore-keys: |
+            gems-
+
+      - name: Install & Update Ruby Gems
+        run: |
+          bundle config path .vendor/bundle
+          bundle install --jobs 4 --retry 3
+          bundle update
+
+      - name: Lint _config.yml with yaml-lint
+        run: |
+          yaml-lint  _config.yml
+
+      - name: Lint pages and blog posts
+        run: |
+          yaml-lint -q -n $(find _posts -regex ".*.md\|.*html") &&\
+          yaml-lint -q -n $(find pages -regex ".*.md\|.*html")
+
+      - name: Build Dashboard
+        run: |
+          echo "${{ secrets.GH_PAT_DEPLOY }}" > ${HOME}/.git-token
+          make dashboard
+
+      - name: Build site
+        run: make site
+
+      - name: Get current version from S3
+        uses: prewk/s3-cp-action@master
+        with:
+          args: --recursive
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          SOURCE: 's3://${{ secrets.AWS_S3_BUCKET }}'
+          DEST: './_site_prev'
+
+      - name: Deploy to AWS S3
+        id: deploy
+        uses: fmichonneau/s3-sync-action@log-output
+        with:
+          args: --acl public-read --follow-symlinks --delete
+        env:
+          AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          SOURCE_DIR: _site/
+
+      - name: Identify files to invalidate
+        uses: docker://fmichonneau/ga-compare-folders:latest
+        env:
+          FOLDER_1: _site_prev/
+          FOLDER_2: _site/
+          OUTPUT: changed_files.txt
+
+      - name: Invalidate CloudFront
+        uses: chetan/invalidate-cloudfront-action@master
+        env:
+          PATHS_FROM: changed_files.txt
+          AWS_REGION: 'us-east-1'
+          DISTRIBUTION: ${{ secrets.DISTRIBUTION }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}

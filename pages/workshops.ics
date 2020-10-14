@@ -2,18 +2,19 @@
 layout: null
 permalink: /workshops.ics
 ---
+{% assign workshops = site.data.swc_upcoming_workshops %}
 BEGIN:VCALENDAR{% comment %}Note: no blank lines allowed, and end date is one day past actual end (non-inclusive), so we add seconds per day.{% endcomment %}
 VERSION:2.0
 PRODID:-//Software Carpentry/Workshops//NONSGML v1.0//EN
-{% for series in site.data.amy.workshops %}{% for w in series %}BEGIN:VEVENT
-UID:{{ w.slug }}@software-carpentry.org
-DTSTAMP:{{ site.data.amy.timestamp }}
-DTSTART;VALUE=DATE:{{ w.start|date: '%Y%m%d' }}
-DTEND;VALUE=DATE:{% if w.end == NULL %}{% assign e=w.start %}{% else %}{% assign e=w.end %}{% endif %}{{ e|date: '%s'|plus: 86400|date: '%Y%m%d' }}
+{% for w in workshops %}BEGIN:VEVENT
+UID:{{ w.slug }}@carpentries.org
+DTSTAMP:{{ site.time | date: '%Y%m%dT%H%M%SZ' }}
+DTSTART;VALUE=DATE:{{ w.start_date|date: '%Y%m%d' }}
+DTEND;VALUE=DATE:{% if w.end_date == NULL %}{% assign e=w.start_date %}{% else %}{% assign e=w.end_date %}{% endif %}{{ e|date: '%s'|plus: 86400|date: '%Y%m%d' }}
 SUMMARY:{{ w.venue|strip }}
 DESCRIPTION;ALTREP="{{ w.url|strip }}":{{ w.url|strip }}
 URL:{{ w.url|strip }}
 LOCATION:{{ w.venue|strip }}
 GEO:{{ w.latitude }};{{ w.longitude }}
 END:VEVENT
-{% endfor %}{% endfor %}END:VCALENDAR
+{% endfor %}END:VCALENDAR
