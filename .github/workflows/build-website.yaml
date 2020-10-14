@@ -31,7 +31,7 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: python -m pip install --upgrade pip setuptools wheel PyGitHub
+        run: python -m pip install --upgrade pip setuptools wheel PyGitHub pyyaml
 
       - name: Install GitHub Pages, Bundler, and kramdown gems
         run: |
