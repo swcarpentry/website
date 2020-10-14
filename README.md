@@ -139,7 +139,7 @@ The files in the `_sass` and `assets` directories control the appearance of this
 
 ### Build and Deploy
 
-The website is build with a GitHub Actions (see [this file](https://github.com/carpentries/carpentries.org/blob/main/.github/workflows/build-and-deploy.yml)).
+The website is build with a GitHub Actions (see [this file](https://github.com/swcarpentry/website/blob/main/.github/workflows/build-website.yaml)).
 
 Each time a commit is pushed to the default branch of the repository (`main`)
 and every 6 hours, the GitHub Action does the following:
