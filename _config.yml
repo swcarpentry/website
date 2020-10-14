@@ -8,6 +8,14 @@
 plugins:
   - jekyll-paginate
   - jekyll-redirect-from
+   -jekyll-get-json
+
+## external data sources
+jekyll_get_json:
+  - data: swc_past_workshops
+    json: 'https://feeds.carpentries.org/swc_past_workshops.json'
+  - data: swc_upcoming_workshops
+    json: 'https://feeds.carpentries.org/swc_upcoming_workshops.json'
 
 
 #
