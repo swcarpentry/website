@@ -144,8 +144,6 @@ records:
   - {number: 927, title: POSIX compliance, updated: '2019-12-11', url: 'https://github.com/swcarpentry/shell-novice/issues/927'}
   - {number: 1056, title: Standardize layout of text in Output boxes, updated: '2019-12-16',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1056'}
-  - {number: 996, title: Recursive option different between commands, updated: '2019-12-16',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/996'}
   - {number: 1024, title: further developing Windows shell setup instructor guidance,
     updated: '2020-01-29', url: 'https://github.com/swcarpentry/shell-novice/issues/1024'}
   - {number: 1032, title: Move "moving to the current folder" exercise in 03, updated: '2020-01-31',
@@ -154,8 +152,6 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1086'}
   - {number: 1112, title: Reframing Nelle's Pipeline Narrative, updated: '2020-06-02',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1112'}
-  - {number: 1113, title: -help command and man both not working, updated: '2020-06-11',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/1113'}
   - {number: 1116, title: Ep3. mv ls output clarification, updated: '2020-06-30',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1116'}
   - {number: 1118, title: Auto completion on commands, updated: '2020-07-02', url: 'https://github.com/swcarpentry/shell-novice/issues/1118'}
@@ -173,7 +169,7 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1141'}
   - {number: 1144, title: Proposed improvement to Pipes & Filters episode, updated: '2020-10-08',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1144'}
-  - {number: 1142, title: Unclear Explanation - Copying Files, updated: '2020-10-08',
+  - {number: 1142, title: Unclear Explanation - Copying Files, updated: '2020-10-14',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1142'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
@@ -194,9 +190,9 @@ records:
   - {number: 1139, title: Update setup.md, updated: '2020-09-25', url: 'https://github.com/swcarpentry/shell-novice/pull/1139'}
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2020-10-05', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
-  - {number: 1150, title: Show grep with recursive option, updated: '2020-10-12',
+  - {number: 1152, title: Reorder and simplify setup, updated: '2020-10-14', url: 'https://github.com/swcarpentry/shell-novice/pull/1152'}
+  - {number: 1150, title: Show grep with recursive option, updated: '2020-10-14',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1150'}
-  - {number: 1152, title: Reorder and simplify setup, updated: '2020-10-13', url: 'https://github.com/swcarpentry/shell-novice/pull/1152'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -685,7 +681,7 @@ records:
       Notes"', updated: '2020-09-16', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/847'}
   - {number: 867, title: First introduction of comments, updated: '2020-09-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/867'}
   - {number: 874, title: Episode 10 Defensive Programming — Using the assert statement
-      to validate data is bad practice, updated: '2020-10-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/874'}
+      to validate data is bad practice, updated: '2020-10-13', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/874'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -858,10 +854,10 @@ records:
     updated: '2020-09-22', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/661'}
   - {number: 633, title: 'Current release build broken - Rv4.0 incompatibilities?',
     updated: '2020-09-22', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/633'}
-  - {number: 660, title: Including a section on how to change column names of data
-      frame in this lesson, updated: '2020-09-23', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/660'}
   - {number: 657, title: 'Define fuzzy search in Seeking Help episode ', updated: '2020-09-25',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/657'}
+  - {number: 660, title: Including a section on how to change column names of data
+      frame in this lesson, updated: '2020-10-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/660'}
   pulls:
   - {number: 552, title: Make gentler intro for ggplot2 lesson, updated: '2019-08-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/552'}
@@ -1056,9 +1052,9 @@ records:
       Posts, updated: '2019-10-24', url: 'https://github.com/swcarpentry/website/issues/1086'}
   - {number: 1164, title: Lesson table issue, updated: '2019-12-11', url: 'https://github.com/swcarpentry/website/issues/1164'}
   pulls:
-  - {number: 1118, title: Tagging blog posts, updated: '2019-11-05', url: 'https://github.com/swcarpentry/website/pull/1118'}
-  - {number: 1089, title: file added, updated: '2019-12-20', url: 'https://github.com/swcarpentry/website/pull/1089'}
-  - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-03-23',
+  - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-10-14',
     url: 'https://github.com/swcarpentry/website/pull/1166'}
+  - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
+  - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-13T17:37:35Z'
+timestamp: '2020-10-14T17:43:42Z'
