@@ -120,21 +120,6 @@
     "start_date": "2020-10-09"
   },
   {
-    "instructors": "Laura Wrubel,Megan Potterbusch,Daniel Kerchner,William Bonnett,Ann James,Dolsy Smith",
-    "end_date": "2020-10-15",
-    "url": "https://gwu-libraries.github.io/2020-10-12-gwu/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "George Washington University Libraries (online)",
-    "longitude": -1,
-    "slug": "2020-10-12-gwu",
-    "tag_name": "automated-email,online,Circuits",
-    "helpers": null,
-    "host_name": "George Washington University",
-    "latitude": 45,
-    "start_date": "2020-10-12"
-  },
-  {
     "instructors": "David Yakobovitch,Saranya Canchi,Aditya Bandla,Sichong Peng",
     "end_date": "2020-10-22",
     "url": "https://smcclatchy.github.io/2020-10-13-jackson-online/",
@@ -193,21 +178,6 @@
     "host_name": "Instructor Training",
     "latitude": null,
     "start_date": "2020-10-14"
-  },
-  {
-    "instructors": "Maria del Mar Quiroga,Greg D'Arcy",
-    "end_date": "2020-10-15",
-    "url": "https://scipunimelb.github.io/2020-10-15-SCIPUniMelb-online/",
-    "country": "AU",
-    "curriculum": "mix-and-match",
-    "venue": "University of Melbourne",
-    "longitude": 144.959645,
-    "slug": "2020-10-15-SCIPUniMelb-online",
-    "tag_name": "Circuits,online",
-    "helpers": "Trent Ryan",
-    "host_name": "University of Melbourne",
-    "latitude": -37.79664,
-    "start_date": "2020-10-15"
   },
   {
     "instructors": "Steven Pryor",
@@ -390,6 +360,21 @@
     "start_date": "2020-10-26"
   },
   {
+    "instructors": "Evamaria Krause,Timo Gnadt,Claudia Engelhardt",
+    "end_date": "2020-10-28",
+    "url": "https://subugoe.github.io/2020-10-26-dc-online/",
+    "country": "GE",
+    "curriculum": "mix-and-match",
+    "venue": "(online)",
+    "longitude": -1,
+    "slug": "2020-10-26-dc-online",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "Astrid Orth,Harald Kusch",
+    "host_name": "University of Göttingen",
+    "latitude": 45,
+    "start_date": "2020-10-26"
+  },
+  {
     "instructors": "Pratishtha Poudel,Hua Lin",
     "end_date": "2020-10-27",
     "url": "https://osu-carpentry.github.io/2020-10-26-okstate",
@@ -480,7 +465,7 @@
     "start_date": "2020-10-30"
   },
   {
-    "instructors": "Martin Dreyer,Sebastian Mosidi",
+    "instructors": "Martin Dreyer,Aditya Bandla,Sebastian Mosidi,Jannetta Steyn",
     "end_date": "2020-11-06",
     "url": "https://nwu-eresearch.github.io/2020-11-02-NWU-ONLINE/",
     "country": "ZA",

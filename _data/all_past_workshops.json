@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Maria del Mar Quiroga,Greg D'Arcy",
+    "end_date": "2020-10-15",
+    "url": "https://scipunimelb.github.io/2020-10-15-SCIPUniMelb-online/",
+    "country": "AU",
+    "curriculum": "mix-and-match",
+    "venue": "University of Melbourne",
+    "longitude": 144.959645,
+    "slug": "2020-10-15-SCIPUniMelb-online",
+    "tag_name": "Circuits,online",
+    "helpers": "Trent Ryan",
+    "host_name": "University of Melbourne",
+    "latitude": -37.79664,
+    "start_date": "2020-10-15"
+  },
+  {
     "instructors": "Jason Bell",
     "end_date": "2020-10-14",
     "url": "https://qcif-training.github.io/2020-10-14-QCIF-Unix/",
@@ -58,6 +73,21 @@
     "host_name": "University of Wisconsin-Milwaukee",
     "latitude": 45,
     "start_date": "2020-10-13"
+  },
+  {
+    "instructors": "Laura Wrubel,Megan Potterbusch,Daniel Kerchner,William Bonnett,Ann James,Dolsy Smith",
+    "end_date": "2020-10-15",
+    "url": "https://gwu-libraries.github.io/2020-10-12-gwu/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "George Washington University Libraries (online)",
+    "longitude": -1,
+    "slug": "2020-10-12-gwu",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": null,
+    "host_name": "George Washington University",
+    "latitude": 45,
+    "start_date": "2020-10-12"
   },
   {
     "instructors": "Alice Harpole,Michael Zingale,Marijane White,Elnaz Amanzadeh Jajin",
@@ -459,7 +489,7 @@
     "longitude": null,
     "slug": "2020-09-21-LC_IG_WBS_online",
     "tag_name": "automated-email,LC,online",
-    "helpers": null,
+    "helpers": "Julia Cobanoglu,Mia Koch",
     "host_name": "IG WBS",
     "latitude": null,
     "start_date": "2020-09-21"

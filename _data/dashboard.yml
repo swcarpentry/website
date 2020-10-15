@@ -148,51 +148,38 @@ records:
     updated: '2020-01-29', url: 'https://github.com/swcarpentry/shell-novice/issues/1024'}
   - {number: 1032, title: Move "moving to the current folder" exercise in 03, updated: '2020-01-31',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1032'}
-  - {number: 1086, title: 'Setup procedure for Windows: which one to follow?', updated: '2020-04-23',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/1086'}
   - {number: 1112, title: Reframing Nelle's Pipeline Narrative, updated: '2020-06-02',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1112'}
   - {number: 1116, title: Ep3. mv ls output clarification, updated: '2020-06-30',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1116'}
-  - {number: 1118, title: Auto completion on commands, updated: '2020-07-02', url: 'https://github.com/swcarpentry/shell-novice/issues/1118'}
   - {number: 1125, title: 'Ep. 4 Pipes and Filters suggestion: Add subheadings', updated: '2020-08-05',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1125'}
-  - {number: 1126, title: Add file extension to goostats and goodiff, updated: '2020-08-26',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/1126'}
-  - {number: 1124, title: segue into wc command, updated: '2020-08-26', url: 'https://github.com/swcarpentry/shell-novice/issues/1124'}
   - {number: 1133, title: Proposed Modifications to "The Unix Shell" -> Episode 3
       ("Working With Files and Directories"), updated: '2020-09-06', url: 'https://github.com/swcarpentry/shell-novice/issues/1133'}
-  - {number: 1137, title: Switch order of setup page, updated: '2020-09-09', url: 'https://github.com/swcarpentry/shell-novice/issues/1137'}
-  - {number: 1010, title: Unix Shell setup suggestion - Video link and instructions
-      on set up could be helpful, updated: '2020-09-18', url: 'https://github.com/swcarpentry/shell-novice/issues/1010'}
   - {number: 1141, title: 'Potentially confusing filename: data-shell.zip', updated: '2020-09-28',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1141'}
   - {number: 1144, title: Proposed improvement to Pipes & Filters episode, updated: '2020-10-08',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1144'}
   - {number: 1142, title: Unclear Explanation - Copying Files, updated: '2020-10-14',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1142'}
+  - {number: 1154, title: Include an example for using 'cd -' for going to the previous
+      directory, updated: '2020-10-15', url: 'https://github.com/swcarpentry/shell-novice/issues/1154'}
+  - {number: 1126, title: Add file extension to goostats and goodiff, updated: '2020-10-15',
+    url: 'https://github.com/swcarpentry/shell-novice/issues/1126'}
+  - {number: 1124, title: segue into wc command, updated: '2020-10-15', url: 'https://github.com/swcarpentry/shell-novice/issues/1124'}
+  - {number: 1118, title: Auto completion on commands, updated: '2020-10-15', url: 'https://github.com/swcarpentry/shell-novice/issues/1118'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2020-04-17', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
-  - {number: 491, title: 'Episode 7: Add grep -r exercise', updated: '2020-04-17',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/491'}
   - {number: 1072, title: Added image of shell command anatomy., updated: '2020-05-24',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1072'}
-  - {number: 992, title: Made changes and added General Syntax episode., updated: '2020-05-29',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/992'}
-  - {number: 1117, title: Update setup.md, updated: '2020-07-02', url: 'https://github.com/swcarpentry/shell-novice/pull/1117'}
-  - {number: 1134, title: Add more realistic regex example, updated: '2020-08-26',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/1134'}
-  - {number: 1132, title: 'Minor text clarifications, added MobaXterm as an option,
-      provided direct links for PuTTY, MobaXterm, Cygwin', updated: '2020-08-26',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/1132'}
   - {number: 1128, title: Update 03-create.md, updated: '2020-08-28', url: 'https://github.com/swcarpentry/shell-novice/pull/1128'}
-  - {number: 1139, title: Update setup.md, updated: '2020-09-25', url: 'https://github.com/swcarpentry/shell-novice/pull/1139'}
   - {number: 930, title: Replaced the "taster" regex example with one that I think
       is a, updated: '2020-10-05', url: 'https://github.com/swcarpentry/shell-novice/pull/930'}
-  - {number: 1152, title: Reorder and simplify setup, updated: '2020-10-14', url: 'https://github.com/swcarpentry/shell-novice/pull/1152'}
-  - {number: 1150, title: Show grep with recursive option, updated: '2020-10-14',
-    url: 'https://github.com/swcarpentry/shell-novice/pull/1150'}
+  - {number: 1134, title: Add more realistic regex example, updated: '2020-10-15',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/1134'}
+  - {number: 1117, title: Add Chromebook as option in setup.md, updated: '2020-10-15',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/1117'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -669,8 +656,6 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/851'}
   - {number: 854, title: Consistency in use of single- and double-quote marks, updated: '2020-07-17',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/854'}
-  - {number: 853, title: Making choices - Add explanation of all comparison operators,
-    updated: '2020-07-17', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/853'}
   - {number: 859, title: 'Episode 3 - Visualizing Tabular Data: fig.tight_layout()
       Suggestion', updated: '2020-08-06', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/859'}
   - {number: 863, title: 'Contribution: Animated for-loop', updated: '2020-08-21',
@@ -682,6 +667,8 @@ records:
   - {number: 867, title: First introduction of comments, updated: '2020-09-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/867'}
   - {number: 874, title: Episode 10 Defensive Programming — Using the assert statement
       to validate data is bad practice, updated: '2020-10-13', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/874'}
+  - {number: 853, title: Making choices - Add explanation of all comparison operators,
+    updated: '2020-10-15', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/853'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -835,7 +822,6 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/460'}
   - {number: 421, title: 'Upgrade 06-best-practices with more references or even practices?',
     updated: '2019-12-24', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/421'}
-  - {number: 488, title: remove-iris, updated: '2020-10-12', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/488'}
   url: https://github.com/swcarpentry/r-novice-inflammation
 - description: R (Gapminder Data - Español)
   ident: swcarpentry/r-novice-gapminder
@@ -1037,6 +1023,7 @@ records:
       their information visible on our websites, updated: '2020-10-02', url: 'https://github.com/carpentries/amy/issues/1719'}
   - {number: 1711, title: Re-activate fields for pre/post surveys, updated: '2020-10-02',
     url: 'https://github.com/carpentries/amy/issues/1711'}
+  - {number: 1722, title: Add Time & Time Zone to WRF, updated: '2020-10-14', url: 'https://github.com/carpentries/amy/issues/1722'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1057,4 +1044,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-14T17:43:42Z'
+timestamp: '2020-10-15T17:35:44Z'
