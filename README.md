@@ -109,7 +109,7 @@ permalink: /some/path/
 title: Title in Title Case
 ~~~
 
-You must then also add the page to `_data/navigation.yml`,
+You must add the page to `_data/navigation.yml`,
 which is used to generate the site's pull-down navigation menu.
 
 <a name="workshop"></a>
