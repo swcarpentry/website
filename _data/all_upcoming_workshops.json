@@ -30,21 +30,6 @@
     "start_date": "2020-09-16"
   },
   {
-    "instructors": "Tim Dennis,Reid Otsuji,Stephanie Labou,Scott Peterson,Jamie Jamison,Kristian Allen,Dave George,Mark Matney,Justin Shaffer,Alexandre Fioravante de Siqueira",
-    "end_date": "2020-10-16",
-    "url": "https://ucla-data-archive.github.io/2020-09-28-ucb-ucla-ucsd/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "UCSD-UCLA-UC Berkeley",
-    "longitude": -1,
-    "slug": "2020-09-28-ucb-ucla-ucsd",
-    "tag_name": "automated-email,online,Circuits",
-    "helpers": "Tim Dennis,Reid Otsuji,Stephanie Labou,Michael Campos-Quinn,Richard McCosh,Jamie Jamison,Leigh Phan,Geno Sanchez,Dave George,Mark Matney,Alexandre Fioravante de Siqueira",
-    "host_name": "University of California Los Angeles",
-    "latitude": 45,
-    "start_date": "2020-09-28"
-  },
-  {
     "instructors": "Rocio Martinez Nunez,Alessandra Vigilante",
     "end_date": "2020-10-19",
     "url": "https://rociotmartinez.github.io/2020-10-06-KCL-DTP/",
@@ -135,36 +120,6 @@
     "start_date": "2020-10-13"
   },
   {
-    "instructors": "Ye Li,Ece Turnator,Madeline Wrable,Daniel Sheehan,Christine Malinowski",
-    "end_date": "2020-10-16",
-    "url": "https://yelibrarian.github.io/2020-10-13-mit/",
-    "country": "US",
-    "curriculum": "swc-python-gapminder",
-    "venue": "Carpentries @ MIT: Intro to UnixShell/Python/Git (online)",
-    "longitude": -71.090542,
-    "slug": "2020-10-13-mit",
-    "tag_name": "automated-email,SWC,online",
-    "helpers": "Ye Li,Madeline Wrable,Daniel Sheehan,Christine Malinowski,Phoebe Ayers",
-    "host_name": "Massachusetts Institute of Technology",
-    "latitude": 42.359689,
-    "start_date": "2020-10-13"
-  },
-  {
-    "instructors": "Endre Sebestyén,Luca Di Stasio",
-    "end_date": "2020-10-16",
-    "url": "https://dcworkshopbodo.github.io/2020-10-14-nord-online/",
-    "country": "NO",
-    "curriculum": "dc-ecology-r",
-    "venue": "Nord University",
-    "longitude": -123.393333,
-    "slug": "2020-10-14-nord-online",
-    "tag_name": "DC,online",
-    "helpers": null,
-    "host_name": "Nord University",
-    "latitude": -48.876667,
-    "start_date": "2020-10-14"
-  },
-  {
     "instructors": "Aleksandra Pawlik,Murray Cadzow,Arindam Basu",
     "end_date": "2020-10-22",
     "url": "https://murraycadzow.github.io/2020-10-14-ttt-online-nz/",
@@ -180,21 +135,6 @@
     "start_date": "2020-10-14"
   },
   {
-    "instructors": "Steven Pryor",
-    "end_date": "2020-10-16",
-    "url": "https://swc-mizzou.github.io/2020-10-16-mizzou/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "University of Missouri (online)",
-    "longitude": -1,
-    "slug": "2020-10-16-mizzou",
-    "tag_name": "automated-email,online,Circuits",
-    "helpers": null,
-    "host_name": "University of Missouri",
-    "latitude": 45,
-    "start_date": "2020-10-16"
-  },
-  {
     "instructors": "Dafne van Kuppevelt,Carlos Utrilla Guerrero",
     "end_date": "2020-10-22",
     "url": "https://escience-academy.github.io/2020-10-19-Data-Carpentry-with-R/",
@@ -207,6 +147,21 @@
     "helpers": "Mateusz Kuzak",
     "host_name": "Netherlands eScience Center",
     "latitude": 45,
+    "start_date": "2020-10-19"
+  },
+  {
+    "instructors": "Bonny Adane,Margareth Gfrerer,Yonas Demissew",
+    "end_date": "2020-10-21",
+    "url": "https://educationstrategycenteraddis.github.io/2020-10-19-MG/",
+    "country": "ET",
+    "curriculum": "dc-ecology-r",
+    "venue": "Addis Ababa TVET Bureau",
+    "longitude": -99.03001,
+    "slug": "2020-10-19-MG",
+    "tag_name": "automated-email,DC",
+    "helpers": null,
+    "host_name": "Ethiopian Research and Education Network",
+    "latitude": 19.55794,
     "start_date": "2020-10-19"
   },
   {
@@ -360,6 +315,21 @@
     "start_date": "2020-10-26"
   },
   {
+    "instructors": "Amber York,Karen Soenen",
+    "end_date": "2020-11-03",
+    "url": "https://k-rns.github.io/2020-10-26-WHOI-Data",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "Woods Hole Oceanographic Institution (online)",
+    "longitude": -70,
+    "slug": "2020-10-26-WHOI-Data",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "Stace Beaulieu",
+    "host_name": "Woods Hole Oceanographic Institute",
+    "latitude": 41,
+    "start_date": "2020-10-26"
+  },
+  {
     "instructors": "Evamaria Krause,Timo Gnadt,Claudia Engelhardt",
     "end_date": "2020-10-28",
     "url": "https://subugoe.github.io/2020-10-26-dc-online/",
@@ -429,7 +399,7 @@
     "longitude": -87.58503,
     "slug": "2020-10-27-stillman-SBDH",
     "tag_name": "automated-email,DC,online",
-    "helpers": null,
+    "helpers": "Maria Laurent-Rice",
     "host_name": "South Big Data Hub",
     "latitude": 33.20113,
     "start_date": "2020-10-27"
@@ -510,7 +480,7 @@
     "start_date": "2020-11-03"
   },
   {
-    "instructors": null,
+    "instructors": "Vicky Steeves,Nicholas Wolf,Andrew Battista,Alexandra Provo",
     "end_date": "2020-11-06",
     "url": "https://nyu-dataservices.github.io/2020-11-05-nyu",
     "country": "FI",

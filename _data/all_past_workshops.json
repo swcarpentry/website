@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Steven Pryor",
+    "end_date": "2020-10-16",
+    "url": "https://swc-mizzou.github.io/2020-10-16-mizzou/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Missouri (online)",
+    "longitude": -1,
+    "slug": "2020-10-16-mizzou",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 45,
+    "start_date": "2020-10-16"
+  },
+  {
     "instructors": "Maria del Mar Quiroga,Greg D'Arcy",
     "end_date": "2020-10-15",
     "url": "https://scipunimelb.github.io/2020-10-15-SCIPUniMelb-online/",
@@ -28,6 +43,36 @@
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.50014,
     "start_date": "2020-10-14"
+  },
+  {
+    "instructors": "Endre Sebestyén,Luca Di Stasio",
+    "end_date": "2020-10-16",
+    "url": "https://dcworkshopbodo.github.io/2020-10-14-nord-online/",
+    "country": "NO",
+    "curriculum": "dc-ecology-r",
+    "venue": "Nord University",
+    "longitude": -123.393333,
+    "slug": "2020-10-14-nord-online",
+    "tag_name": "DC,online",
+    "helpers": null,
+    "host_name": "Nord University",
+    "latitude": -48.876667,
+    "start_date": "2020-10-14"
+  },
+  {
+    "instructors": "Ye Li,Ece Turnator,Madeline Wrable,Daniel Sheehan,Christine Malinowski",
+    "end_date": "2020-10-16",
+    "url": "https://yelibrarian.github.io/2020-10-13-mit/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "Carpentries @ MIT: Intro to UnixShell/Python/Git (online)",
+    "longitude": -71.090542,
+    "slug": "2020-10-13-mit",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": "Ye Li,Madeline Wrable,Daniel Sheehan,Christine Malinowski,Phoebe Ayers",
+    "host_name": "Massachusetts Institute of Technology",
+    "latitude": 42.359689,
+    "start_date": "2020-10-13"
   },
   {
     "instructors": "Matthias Liffers,Anton Angelo,Danping Dong,Belinda Sta Maria,Liz Stokes",
@@ -330,6 +375,21 @@
     "start_date": "2020-09-28"
   },
   {
+    "instructors": "Tim Dennis,Reid Otsuji,Stephanie Labou,Scott Peterson,Jamie Jamison,Kristian Allen,Dave George,Mark Matney,Justin Shaffer,Alexandre Fioravante de Siqueira",
+    "end_date": "2020-10-16",
+    "url": "https://ucla-data-archive.github.io/2020-09-28-ucb-ucla-ucsd/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "UCSD-UCLA-UC Berkeley",
+    "longitude": -1,
+    "slug": "2020-09-28-ucb-ucla-ucsd",
+    "tag_name": "automated-email,online,Circuits",
+    "helpers": "Tim Dennis,Reid Otsuji,Stephanie Labou,Michael Campos-Quinn,Richard McCosh,Jamie Jamison,Leigh Phan,Geno Sanchez,Dave George,Mark Matney,Alexandre Fioravante de Siqueira",
+    "host_name": "University of California Los Angeles",
+    "latitude": 45,
+    "start_date": "2020-09-28"
+  },
+  {
     "instructors": "kristopher row,Farah Shamma,Peace Ossom Williamson",
     "end_date": "2020-10-04",
     "url": "https://utacarpentries.github.io/2020-09-26-UTA/",
@@ -354,7 +414,7 @@
     "longitude": -90,
     "slug": "2020-09-25-betterlab",
     "tag_name": "automated-email,Circuits",
-    "helpers": null,
+    "helpers": "Maria Jose Cambero,Tania Vanessa Arellano",
     "host_name": "Langebio",
     "latitude": 19,
     "start_date": "2020-09-25"
@@ -414,7 +474,7 @@
     "longitude": -93.2277285,
     "slug": "2020-09-24-umntc",
     "tag_name": "automated-email,online,Circuits",
-    "helpers": "Peter Wiringa,Nicholas Dunn",
+    "helpers": "Peter Wiringa,Nicholas Dunn,Ben Schroeder",
     "host_name": "University of Minnesota",
     "latitude": 44.97399,
     "start_date": "2020-09-24"

@@ -848,6 +848,7 @@ records:
   - {number: 552, title: Make gentler intro for ggplot2 lesson, updated: '2019-08-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/552'}
   - {number: 551, title: update links, updated: '2020-09-25', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/551'}
+  - {number: 663, title: Rename columns, updated: '2020-10-16', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/663'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1007,16 +1008,10 @@ records:
       may not be possible., updated: '2020-09-23', url: 'https://github.com/carpentries/amy/issues/1710'}
   - {number: 1561, title: 'Workshop Request Form: Not Adding all Tags Automatically',
     updated: '2020-09-23', url: 'https://github.com/carpentries/amy/issues/1561'}
-  - {number: 1718, title: 'Include question about publishing workshop on all three
-      workshop request forms ', updated: '2020-09-24', url: 'https://github.com/carpentries/amy/issues/1718'}
-  - {number: 1717, title: Note whether workshop is public or private, updated: '2020-09-24',
-    url: 'https://github.com/carpentries/amy/issues/1717'}
   - {number: 1716, title: 'Include Supporting Instructors in count in  "Unpublished
       workshops" table ', updated: '2020-09-24', url: 'https://github.com/carpentries/amy/issues/1716'}
   - {number: 1567, title: Add "Do not publish" checkbox to events, updated: '2020-09-29',
     url: 'https://github.com/carpentries/amy/issues/1567'}
-  - {number: 1516, title: Update "current"/ "unpublished" requirements, updated: '2020-09-29',
-    url: 'https://github.com/carpentries/amy/issues/1516'}
   - {number: 1720, title: Include "Supporting Instructor" role in Person role count,
     updated: '2020-10-02', url: 'https://github.com/carpentries/amy/issues/1720'}
   - {number: 1719, title: include option in profiles for people to disable having
@@ -1024,6 +1019,14 @@ records:
   - {number: 1711, title: Re-activate fields for pre/post surveys, updated: '2020-10-02',
     url: 'https://github.com/carpentries/amy/issues/1711'}
   - {number: 1722, title: Add Time & Time Zone to WRF, updated: '2020-10-14', url: 'https://github.com/carpentries/amy/issues/1722'}
+  - {number: 1723, title: Pre-approved registration box does not expand, updated: '2020-10-15',
+    url: 'https://github.com/carpentries/amy/issues/1723'}
+  - {number: 1718, title: 'Include question about publishing workshop on all three
+      workshop request forms ', updated: '2020-10-16', url: 'https://github.com/carpentries/amy/issues/1718'}
+  - {number: 1717, title: Note whether workshop is public or private, updated: '2020-10-16',
+    url: 'https://github.com/carpentries/amy/issues/1717'}
+  - {number: 1516, title: Update "current"/ "unpublished" requirements, updated: '2020-10-16',
+    url: 'https://github.com/carpentries/amy/issues/1516'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1044,4 +1047,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-15T17:35:44Z'
+timestamp: '2020-10-16T17:36:40Z'
