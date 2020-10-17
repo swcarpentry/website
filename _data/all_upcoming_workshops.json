@@ -570,6 +570,21 @@
     "start_date": "2020-11-13"
   },
   {
+    "instructors": null,
+    "end_date": "2020-11-19",
+    "url": "https://swcarpentry-wuerzburg.github.io/2020-11-17-Wuerzburg/",
+    "country": "DE",
+    "curriculum": "swc-python-gapminder",
+    "venue": "University of Würzburg (online)",
+    "longitude": 9.973887,
+    "slug": "2020-11-17-Wuerzburg",
+    "tag_name": "automated-email,SWC,online",
+    "helpers": null,
+    "host_name": "University of Wuerzburg",
+    "latitude": 49.785773,
+    "start_date": "2020-11-17"
+  },
+  {
     "instructors": "Bret Alexander Beheim,Han Tran",
     "end_date": "2020-11-27",
     "url": "https://hbec-mpi-eva.github.io/2020-11-23-leipzig-online/",

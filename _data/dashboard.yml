@@ -757,6 +757,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/868'}
   - {number: 875, title: Update 01-intro.md, updated: '2020-10-07', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/875'}
   - {number: 876, title: Revision to Code Sample, updated: '2020-10-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/876'}
+  - {number: 882, title: Add explanation of comparison operators, updated: '2020-10-17',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/882'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -848,7 +850,7 @@ records:
   - {number: 552, title: Make gentler intro for ggplot2 lesson, updated: '2019-08-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/552'}
   - {number: 551, title: update links, updated: '2020-09-25', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/551'}
-  - {number: 663, title: Rename columns, updated: '2020-10-16', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/663'}
+  - {number: 663, title: Rename columns, updated: '2020-10-17', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/663'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1047,4 +1049,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-16T17:36:40Z'
+timestamp: '2020-10-17T17:33:37Z'
