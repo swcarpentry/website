@@ -2175,7 +2175,7 @@
     "start_date": "2020-06-25"
   },
   {
-    "instructors": "Guilherme Castelão,Ana Beatriz (Bia) Villas Boas,Chris Olson,André Palóczy,Alma Carolina CastilloTrujillo",
+    "instructors": "Guilherme Castelão,Bia Villas Boas,Chris Olson,André Palóczy,Alma Carolina CastilloTrujillo",
     "end_date": "2020-07-03",
     "url": "https://sio-carpentries.github.io/2020-06-23-SIO-online/",
     "country": "US",
@@ -8505,7 +8505,7 @@
     "start_date": "2019-09-23"
   },
   {
-    "instructors": "Guilherme Castelão,Ana Beatriz (Bia) Villas Boas",
+    "instructors": "Guilherme Castelão,Bia Villas Boas",
     "end_date": "2019-09-24",
     "url": "https://sio-carpentries.github.io/2019-09-23-SIO/",
     "country": "US",
@@ -10155,7 +10155,7 @@
     "start_date": "2019-07-02"
   },
   {
-    "instructors": "Guilherme Castelão,Reid Otsuji,Stephanie Labou,Ana Beatriz (Bia) Villas Boas",
+    "instructors": "Guilherme Castelão,Reid Otsuji,Stephanie Labou,Bia Villas Boas",
     "end_date": "2019-07-03",
     "url": "https://ucsdlib.github.io/2019-07-01-UCSD/",
     "country": "US",
@@ -15390,7 +15390,7 @@
     "start_date": "2018-11-27"
   },
   {
-    "instructors": "Reid Otsuji,Stephanie Labou,Ana Beatriz (Bia) Villas Boas,Richard McCosh",
+    "instructors": "Reid Otsuji,Stephanie Labou,Bia Villas Boas,Richard McCosh",
     "end_date": "2018-11-28",
     "url": "https://ucsdlib.github.io/2018-11-27-UCSD/",
     "country": "US",
@@ -18870,7 +18870,7 @@
     "start_date": "2018-06-26"
   },
   {
-    "instructors": "Jessica Blanton,Guilherme Castelão,Ana Beatriz (Bia) Villas Boas",
+    "instructors": "Jessica Blanton,Guilherme Castelão,Bia Villas Boas",
     "end_date": "2018-06-29",
     "url": "https://ucsdlib.github.io/2018-06-26-UCSD/",
     "country": "US",
@@ -21204,7 +21204,7 @@
     "longitude": -117.237224,
     "slug": "2018-03-07-UCSD",
     "tag_name": "SWC",
-    "helpers": "Annelise Sklar,Ana Beatriz (Bia) Villas Boas,Richard McCosh,Katherine Wang",
+    "helpers": "Annelise Sklar,Bia Villas Boas,Richard McCosh,Katherine Wang",
     "host_name": "University of California San Diego",
     "latitude": 32.875527,
     "start_date": "2018-03-07"
@@ -26319,7 +26319,7 @@
     "longitude": -117.234014,
     "slug": "2017-05-23-ucsd",
     "tag_name": "SWC",
-    "helpers": "Reid Otsuji,Ryan Johnson,Hao Ye,Ana Beatriz (Bia) Villas Boas",
+    "helpers": "Reid Otsuji,Ryan Johnson,Hao Ye,Bia Villas Boas",
     "host_name": "University of California San Diego",
     "latitude": 32.88006,
     "start_date": "2017-05-23"
