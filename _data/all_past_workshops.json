@@ -54,7 +54,7 @@
     "longitude": -123.393333,
     "slug": "2020-10-14-nord-online",
     "tag_name": "DC,online",
-    "helpers": null,
+    "helpers": "Abdurhman Ali",
     "host_name": "Nord University",
     "latitude": -48.876667,
     "start_date": "2020-10-14"
@@ -267,6 +267,21 @@
     "helpers": "Emilia Gan,Bernease Herman,Rob Fatland,Noah Benson",
     "host_name": "University of Washington",
     "latitude": 47.606209,
+    "start_date": "2020-10-05"
+  },
+  {
+    "instructors": "Rocio Martinez Nunez,Alessandra Vigilante",
+    "end_date": "2020-10-19",
+    "url": "https://rociotmartinez.github.io/2020-10-06-KCL-DTP/",
+    "country": "GB",
+    "curriculum": "dc-ecology-r",
+    "venue": "King's College London (online)",
+    "longitude": 0,
+    "slug": "2020-10-06-KCL-DTP",
+    "tag_name": "DC,online",
+    "helpers": null,
+    "host_name": "King's College",
+    "latitude": 0,
     "start_date": "2020-10-05"
   },
   {

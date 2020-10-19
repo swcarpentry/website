@@ -180,6 +180,8 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/1134'}
   - {number: 1117, title: Add Chromebook as option in setup.md, updated: '2020-10-15',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1117'}
+  - {number: 1155, title: looping exercise based on the *.txt files, updated: '2020-10-18',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/1155'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -837,7 +839,6 @@ records:
       image files, updated: '2020-06-23', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/632'}
   - {number: 603, title: 'Episode 7 (control flow), Challenge 1', updated: '2020-06-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/603'}
-  - {number: 540, title: Remove plyr dependency, updated: '2020-09-17', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/540'}
   - {number: 661, title: Need to determine what happens when lessons are retired,
     updated: '2020-09-22', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/661'}
   - {number: 633, title: 'Current release build broken - Rv4.0 incompatibilities?',
@@ -846,6 +847,7 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/657'}
   - {number: 660, title: Including a section on how to change column names of data
       frame in this lesson, updated: '2020-10-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/660'}
+  - {number: 540, title: Remove plyr dependency, updated: '2020-10-19', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/540'}
   pulls:
   - {number: 552, title: Make gentler intro for ggplot2 lesson, updated: '2019-08-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/552'}
@@ -1023,14 +1025,11 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1516'}
   - {number: 1718, title: 'Include question about publishing workshop on all three
       workshop request forms ', updated: '2020-10-18', url: 'https://github.com/carpentries/amy/issues/1718'}
-  - {number: 1717, title: Note whether workshop is public or private, updated: '2020-10-18',
-    url: 'https://github.com/carpentries/amy/issues/1717'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
   - {number: 1712, title: Acknowledge Workshop Request review, updated: '2020-09-13',
     url: 'https://github.com/carpentries/amy/pull/1712'}
-  - {number: 1726, title: Workshop public - a new field, updated: '2020-10-18', url: 'https://github.com/carpentries/amy/pull/1726'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1044,4 +1043,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-18T17:34:12Z'
+timestamp: '2020-10-19T17:39:55Z'

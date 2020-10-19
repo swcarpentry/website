@@ -30,21 +30,6 @@
     "start_date": "2020-09-16"
   },
   {
-    "instructors": "Rocio Martinez Nunez,Alessandra Vigilante",
-    "end_date": "2020-10-19",
-    "url": "https://rociotmartinez.github.io/2020-10-06-KCL-DTP/",
-    "country": "GB",
-    "curriculum": "dc-ecology-r",
-    "venue": "King's College London (online)",
-    "longitude": 0,
-    "slug": "2020-10-06-KCL-DTP",
-    "tag_name": "DC,online",
-    "helpers": null,
-    "host_name": "King's College",
-    "latitude": 0,
-    "start_date": "2020-10-05"
-  },
-  {
     "instructors": "Serguei Vassiliev",
     "end_date": "2020-10-20",
     "url": "https://acenet-arc.github.io/2020-10-06-ACENET_SWC-R/",
