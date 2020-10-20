@@ -99,8 +99,6 @@ records:
     updated: '2019-02-28', url: 'https://github.com/swcarpentry/shell-novice/issues/924'}
   - {number: 948, title: '"Manual pages on the web" requires a caveat', updated: '2019-04-01',
     url: 'https://github.com/swcarpentry/shell-novice/issues/948'}
-  - {number: 955, title: Wildcards content awkwardly split between episodes 3 and
-      4, updated: '2019-04-03', url: 'https://github.com/swcarpentry/shell-novice/issues/955'}
   - {number: 947, title: 'Suggestion: Rearrange "Getting Help" topics in its own small
       episode', updated: '2019-04-18', url: 'https://github.com/swcarpentry/shell-novice/issues/947'}
   - {number: 970, title: 'Instructor notes: Add solution for NAS home drive', updated: '2019-05-09',
@@ -160,14 +158,14 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1141'}
   - {number: 1144, title: Proposed improvement to Pipes & Filters episode, updated: '2020-10-08',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1144'}
-  - {number: 1142, title: Unclear Explanation - Copying Files, updated: '2020-10-14',
-    url: 'https://github.com/swcarpentry/shell-novice/issues/1142'}
   - {number: 1154, title: Include an example for using 'cd -' for going to the previous
       directory, updated: '2020-10-15', url: 'https://github.com/swcarpentry/shell-novice/issues/1154'}
   - {number: 1126, title: Add file extension to goostats and goodiff, updated: '2020-10-15',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1126'}
   - {number: 1124, title: segue into wc command, updated: '2020-10-15', url: 'https://github.com/swcarpentry/shell-novice/issues/1124'}
   - {number: 1118, title: Auto completion on commands, updated: '2020-10-15', url: 'https://github.com/swcarpentry/shell-novice/issues/1118'}
+  - {number: 955, title: Wildcards content awkwardly split between episodes 3 and
+      4, updated: '2020-10-20', url: 'https://github.com/swcarpentry/shell-novice/issues/955'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2020-04-17', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -180,7 +178,7 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/1134'}
   - {number: 1117, title: Add Chromebook as option in setup.md, updated: '2020-10-15',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1117'}
-  - {number: 1155, title: looping exercise based on the *.txt files, updated: '2020-10-18',
+  - {number: 1155, title: looping exercise based on the *.txt files, updated: '2020-10-20',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1155'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
@@ -671,6 +669,8 @@ records:
       to validate data is bad practice, updated: '2020-10-13', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/874'}
   - {number: 853, title: Making choices - Add explanation of all comparison operators,
     updated: '2020-10-15', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/853'}
+  - {number: 883, title: 'Lesson Contribution - Swapping variables ', updated: '2020-10-20',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/883'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -759,7 +759,7 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/868'}
   - {number: 875, title: Update 01-intro.md, updated: '2020-10-07', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/875'}
   - {number: 876, title: Revision to Code Sample, updated: '2020-10-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/876'}
-  - {number: 882, title: Add explanation of comparison operators, updated: '2020-10-17',
+  - {number: 882, title: Add explanation of comparison operators, updated: '2020-10-20',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/882'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
@@ -869,8 +869,7 @@ records:
   - {number: 100, title: Gender definition problem in the index, updated: '2019-06-04',
     url: 'https://github.com/swcarpentry/r-novice-gapminder-es/issues/100'}
   - {number: 115, title: 'RFC: Migration to R 4.0', updated: '2020-07-27', url: 'https://github.com/swcarpentry/r-novice-gapminder-es/issues/115'}
-  pulls:
-  - {number: 116, title: Replace iris with mtcars, updated: '2020-10-12', url: 'https://github.com/swcarpentry/r-novice-gapminder-es/pull/116'}
+  pulls: []
   url: https://github.com/swcarpentry/r-novice-gapminder-es
 - description: MATLAB
   ident: swcarpentry/matlab-novice-inflammation
@@ -1043,4 +1042,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-19T17:39:55Z'
+timestamp: '2020-10-20T17:40:28Z'

@@ -30,21 +30,6 @@
     "start_date": "2020-09-16"
   },
   {
-    "instructors": "Serguei Vassiliev",
-    "end_date": "2020-10-20",
-    "url": "https://acenet-arc.github.io/2020-10-06-ACENET_SWC-R/",
-    "country": "CA",
-    "curriculum": "swc-reproducible-science",
-    "venue": "ACENET: Programming Workshop: Unix Shell, Version Control and R",
-    "longitude": null,
-    "slug": "2020-10-06-ACENET_SWC-R",
-    "tag_name": "SWC,online",
-    "helpers": "Grace Fishbein",
-    "host_name": "ACENET",
-    "latitude": null,
-    "start_date": "2020-10-06"
-  },
-  {
     "instructors": "Nicolas Frazee,Vivian Guetler",
     "end_date": "2020-10-27",
     "url": "http://ncf0003.github.io/2020-10-06-wvu",
@@ -192,36 +177,6 @@
     "helpers": null,
     "host_name": "European Molecular Biology Laboratory",
     "latitude": 49.384517,
-    "start_date": "2020-10-19"
-  },
-  {
-    "instructors": "Christina Koch,Sarah Stevens",
-    "end_date": "2020-10-20",
-    "url": "https://sarahlrstevens.info/2020-10-19-ttt-online-CDT/",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2020-10-19-ttt-online-CDT",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": -48.876667,
-    "start_date": "2020-10-19"
-  },
-  {
-    "instructors": "Jeff Dusenberry",
-    "end_date": "2020-10-20",
-    "url": "https://jdusenberry.github.io/2020-10-19-umassboston/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "University of Massachusetts Boston (online)",
-    "longitude": 0,
-    "slug": "2020-10-19-umassboston",
-    "tag_name": "automated-email,online,Circuits",
-    "helpers": null,
-    "host_name": "University of Massachusetts Boston",
-    "latitude": 0,
     "start_date": "2020-10-19"
   },
   {
