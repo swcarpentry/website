@@ -662,8 +662,6 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/863'}
   - {number: 496, title: Swapping the order of episodes on lists and loops, updated: '2020-09-02',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/496'}
-  - {number: 847, title: '01-intro: Inaccuracy in Demonstration of "Variables as Sticky
-      Notes"', updated: '2020-09-16', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/847'}
   - {number: 867, title: First introduction of comments, updated: '2020-09-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/867'}
   - {number: 874, title: Episode 10 Defensive Programming — Using the assert statement
       to validate data is bad practice, updated: '2020-10-13', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/874'}
@@ -671,6 +669,8 @@ records:
     updated: '2020-10-15', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/853'}
   - {number: 883, title: 'Lesson Contribution - Swapping variables ', updated: '2020-10-20',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/883'}
+  - {number: 847, title: '01-intro: Inaccuracy in Demonstration of "Variables as Sticky
+      Notes"', updated: '2020-10-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/847'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -826,6 +826,8 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/460'}
   - {number: 421, title: 'Upgrade 06-best-practices with more references or even practices?',
     updated: '2019-12-24', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/421'}
+  - {number: 491, title: ' make lesson suitable for teaching with locally-built (serverless)
+      pages', updated: '2020-10-21', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/491'}
   url: https://github.com/swcarpentry/r-novice-inflammation
 - description: R (Gapminder Data - Español)
   ident: swcarpentry/r-novice-gapminder
@@ -1042,4 +1044,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-20T17:40:28Z'
+timestamp: '2020-10-21T18:21:55Z'
