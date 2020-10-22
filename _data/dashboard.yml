@@ -301,12 +301,12 @@ records:
       control, updated: '2020-10-10', url: 'https://github.com/swcarpentry/git-novice/issues/757'}
   - {number: 764, title: Figure caption ~/vlad/planets is confusing, updated: '2020-10-11',
     url: 'https://github.com/swcarpentry/git-novice/issues/764'}
-  - {number: 761, title: Best practices to switch from master to main, updated: '2020-10-11',
-    url: 'https://github.com/swcarpentry/git-novice/issues/761'}
   - {number: 765, title: Lesson Contribution - Additional Commands, updated: '2020-10-13',
     url: 'https://github.com/swcarpentry/git-novice/issues/765'}
   - {number: 691, title: 'Consider replacing "checkout" with "switch" and "restore",
       if widely available in the future', updated: '2020-10-13', url: 'https://github.com/swcarpentry/git-novice/issues/691'}
+  - {number: 761, title: Best practices to switch from master to main, updated: '2020-10-21',
+    url: 'https://github.com/swcarpentry/git-novice/issues/761'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -1026,6 +1026,8 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1516'}
   - {number: 1718, title: 'Include question about publishing workshop on all three
       workshop request forms ', updated: '2020-10-18', url: 'https://github.com/carpentries/amy/issues/1718'}
+  - {number: 1727, title: Add "supporting instructors" to recipients of "ask for website"
+      autoemail, updated: '2020-10-22', url: 'https://github.com/carpentries/amy/issues/1727'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1044,4 +1046,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-21T18:21:55Z'
+timestamp: '2020-10-22T18:35:31Z'
