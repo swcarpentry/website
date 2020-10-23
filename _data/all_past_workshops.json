@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Endre Sebestyén,Luca Di Stasio",
+    "end_date": "2020-10-23",
+    "url": "https://dcworkshopbodo.github.io/2020-10-21-nord-online/",
+    "country": "NO",
+    "curriculum": "dc-genomics",
+    "venue": "Nord University",
+    "longitude": -123.393333,
+    "slug": "2020-10-21-nord-online",
+    "tag_name": "DC,online",
+    "helpers": null,
+    "host_name": "Nord University",
+    "latitude": -48.876667,
+    "start_date": "2020-10-21"
+  },
+  {
     "instructors": "Dafne van Kuppevelt,Carlos Utrilla Guerrero",
     "end_date": "2020-10-22",
     "url": "https://escience-academy.github.io/2020-10-19-Data-Carpentry-with-R/",
@@ -60,6 +75,36 @@
     "start_date": "2020-10-19"
   },
   {
+    "instructors": "Holger Dinkel,Malvika Sharan,Toby Hodges,Thomas Schwarzl,Mike Smith,Frank Thommen,Renato Alves",
+    "end_date": "2020-10-23",
+    "url": "https://unode.github.io/2020-10-19-heidelberg/",
+    "country": "DE",
+    "curriculum": "mix-and-match",
+    "venue": "EMBL via Zoom",
+    "longitude": 8.709586,
+    "slug": "2020-10-19-heidelberg",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": null,
+    "host_name": "European Molecular Biology Laboratory",
+    "latitude": 49.384517,
+    "start_date": "2020-10-19"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-10-23",
+    "url": "https://sa2c.github.io/2020-10-19-swansea",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "Swansea University (online)",
+    "longitude": -3.9,
+    "slug": "2020-10-19-swansea",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "Swansea University",
+    "latitude": 51.7,
+    "start_date": "2020-10-19"
+  },
+  {
     "instructors": "Christina Koch,Sarah Stevens",
     "end_date": "2020-10-20",
     "url": "https://sarahlrstevens.info/2020-10-19-ttt-online-CDT/",
@@ -75,6 +120,21 @@
     "start_date": "2020-10-19"
   },
   {
+    "instructors": null,
+    "end_date": "2020-10-23",
+    "url": "https://ukaea-rse-training.github.io/2020-10-19-ukaea-swcarpentry/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "UK Atomic Energy Authority",
+    "longitude": null,
+    "slug": "2020-10-19-ukaea-swcarpentry",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "UK Atomic Energy Authority",
+    "latitude": null,
+    "start_date": "2020-10-19"
+  },
+  {
     "instructors": "Jeff Dusenberry",
     "end_date": "2020-10-20",
     "url": "https://jdusenberry.github.io/2020-10-19-umassboston/",
@@ -87,6 +147,21 @@
     "helpers": null,
     "host_name": "University of Massachusetts Boston",
     "latitude": 0,
+    "start_date": "2020-10-19"
+  },
+  {
+    "instructors": "Cody Hennesy,Nicholas Dunn",
+    "end_date": "2020-10-23",
+    "url": "https://umn-dash.github.io/2020-10-19-umntc/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Minnesota (online)",
+    "longitude": -1,
+    "slug": "2020-10-19-umntc",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": "Chaochih Liu,David Naughton",
+    "host_name": "University of Minnesota",
+    "latitude": 45,
     "start_date": "2020-10-19"
   },
   {

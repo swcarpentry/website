@@ -374,7 +374,9 @@ records:
   - {number: 40, title: Extra episodes, updated: '2018-06-12', url: 'https://github.com/swcarpentry/shell-novice-es/issues/40'}
   - {number: 42, title: Sugerencias, updated: '2019-01-15', url: 'https://github.com/swcarpentry/shell-novice-es/issues/42'}
   - {number: 45, title: Link to data is incorrect, updated: '2019-04-26', url: 'https://github.com/swcarpentry/shell-novice-es/issues/45'}
-  pulls: []
+  pulls:
+  - {number: 56, title: make lesson suitable for teaching with locally-built pages,
+    updated: '2020-10-23', url: 'https://github.com/swcarpentry/shell-novice-es/pull/56'}
   url: https://github.com/swcarpentry/shell-novice-es
 - description: Git - Español
   ident: swcarpentry/git-novice-es
@@ -1046,4 +1048,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-22T18:35:31Z'
+timestamp: '2020-10-23T18:36:06Z'
