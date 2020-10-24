@@ -90,21 +90,6 @@
     "start_date": "2020-10-22"
   },
   {
-    "instructors": "Tito Peña Montenegro",
-    "end_date": "2020-10-24",
-    "url": "https://biotemon.github.io/2020-10-23-unilibrebaq/",
-    "country": "CO",
-    "curriculum": "mix-and-match",
-    "venue": "Universidad Libre - Seccional Barranquilla",
-    "longitude": -75,
-    "slug": "2020-10-23-unilibrebaq",
-    "tag_name": "online,Circuits,automated-email",
-    "helpers": "Juan Calderon",
-    "host_name": "University of Georgia",
-    "latitude": 11,
-    "start_date": "2020-10-23"
-  },
-  {
     "instructors": null,
     "end_date": "2020-10-30",
     "url": "https://nclrse-training.github.io/2020-10-26_NCL_SWC_ONLINE/",
