@@ -852,7 +852,7 @@ records:
   - {number: 552, title: Make gentler intro for ggplot2 lesson, updated: '2019-08-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/552'}
   - {number: 551, title: update links, updated: '2020-09-25', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/551'}
-  - {number: 663, title: Rename columns, updated: '2020-10-24', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/663'}
+  - {number: 663, title: Rename columns, updated: '2020-10-25', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/663'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -969,8 +969,6 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1534'}
   - {number: 1557, title: Provide more control for visibility of curricula, updated: '2019-10-08',
     url: 'https://github.com/carpentries/amy/issues/1557'}
-  - {number: 1563, title: TTT events - open/member seats for learners only, updated: '2019-11-07',
-    url: 'https://github.com/carpentries/amy/issues/1563'}
   - {number: 1571, title: Connecting Membership Organisation and Workshops, updated: '2019-11-08',
     url: 'https://github.com/carpentries/amy/issues/1571'}
   - {number: 1566, title: 'Feature Request: Bulk add learners to TTT event', updated: '2019-11-13',
@@ -1009,8 +1007,6 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1512'}
   - {number: 1710, title: Require conditional confirmation that workshops <2 mos away
       may not be possible., updated: '2020-09-23', url: 'https://github.com/carpentries/amy/issues/1710'}
-  - {number: 1561, title: 'Workshop Request Form: Not Adding all Tags Automatically',
-    updated: '2020-09-23', url: 'https://github.com/carpentries/amy/issues/1561'}
   - {number: 1716, title: 'Include Supporting Instructors in count in  "Unpublished
       workshops" table ', updated: '2020-09-24', url: 'https://github.com/carpentries/amy/issues/1716'}
   - {number: 1719, title: include option in profiles for people to disable having
@@ -1022,15 +1018,21 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1723'}
   - {number: 1516, title: Update "current"/ "unpublished" requirements, updated: '2020-10-16',
     url: 'https://github.com/carpentries/amy/issues/1516'}
-  - {number: 1718, title: 'Include question about publishing workshop on all three
-      workshop request forms ', updated: '2020-10-18', url: 'https://github.com/carpentries/amy/issues/1718'}
   - {number: 1727, title: Add "supporting instructors" to recipients of "ask for website"
       autoemail, updated: '2020-10-22', url: 'https://github.com/carpentries/amy/issues/1727'}
+  - {number: 1718, title: 'Include question about publishing workshop on all three
+      workshop request forms ', updated: '2020-10-25', url: 'https://github.com/carpentries/amy/issues/1718'}
+  - {number: 1563, title: TTT events - open/member seats for learners only, updated: '2020-10-25',
+    url: 'https://github.com/carpentries/amy/issues/1563'}
+  - {number: 1561, title: 'Workshop Request Form: Not Adding all Tags Automatically',
+    updated: '2020-10-25', url: 'https://github.com/carpentries/amy/issues/1561'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
   - {number: 1712, title: Acknowledge Workshop Request review, updated: '2020-09-13',
     url: 'https://github.com/carpentries/amy/pull/1712'}
+  - {number: 1729, title: Fix security issues found with CodeQL, updated: '2020-10-25',
+    url: 'https://github.com/carpentries/amy/pull/1729'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1044,4 +1046,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-24T17:40:37Z'
+timestamp: '2020-10-25T17:42:57Z'

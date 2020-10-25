@@ -360,6 +360,21 @@
     "start_date": "2020-10-10"
   },
   {
+    "instructors": "Greg Janée,Torin White,Renata Curty,Camila Vargas",
+    "end_date": "2020-10-25",
+    "url": "https://ucsbcarpentry.github.io/2020-10-09-ReprodR-online/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of California, Santa Barbara (online)",
+    "longitude": -1,
+    "slug": "2020-10-09-ReprodR-online",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": "Ian Lessing,Kristi Liu",
+    "host_name": "University of California Santa Barbara",
+    "latitude": 45,
+    "start_date": "2020-10-09"
+  },
+  {
     "instructors": "Denice Adkins",
     "end_date": "2020-10-09",
     "url": "https://swc-mizzou.github.io/2020-10-09-mizzou/",
