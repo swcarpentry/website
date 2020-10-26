@@ -353,8 +353,6 @@ records:
   - {number: 739, title: Draft of new setup, updated: '2020-05-23', url: 'https://github.com/swcarpentry/git-novice/pull/739'}
   - {number: 740, title: Mention cloning outside of one's own planets repo, updated: '2020-06-30',
     url: 'https://github.com/swcarpentry/git-novice/pull/740'}
-  - {number: 680, title: link to more detailed explanation of core.autocrlf configuration
-      option, updated: '2020-07-09', url: 'https://github.com/swcarpentry/git-novice/pull/680'}
   - {number: 751, title: Updated the introductory content on index.md, updated: '2020-07-11',
     url: 'https://github.com/swcarpentry/git-novice/pull/751'}
   - {number: 753, title: Simplify the explanation on removing files in episode 3.,
@@ -852,7 +850,7 @@ records:
   - {number: 552, title: Make gentler intro for ggplot2 lesson, updated: '2019-08-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/552'}
   - {number: 551, title: update links, updated: '2020-09-25', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/551'}
-  - {number: 663, title: Rename columns, updated: '2020-10-25', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/663'}
+  - {number: 663, title: Rename columns, updated: '2020-10-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/663'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -869,7 +867,9 @@ records:
   - {number: 100, title: Gender definition problem in the index, updated: '2019-06-04',
     url: 'https://github.com/swcarpentry/r-novice-gapminder-es/issues/100'}
   - {number: 115, title: 'RFC: Migration to R 4.0', updated: '2020-07-27', url: 'https://github.com/swcarpentry/r-novice-gapminder-es/issues/115'}
-  pulls: []
+  pulls:
+  - {number: 117, title: make lesson suitable for teaching with locally-built pages,
+    updated: '2020-10-26', url: 'https://github.com/swcarpentry/r-novice-gapminder-es/pull/117'}
   url: https://github.com/swcarpentry/r-novice-gapminder-es
 - description: MATLAB
   ident: swcarpentry/matlab-novice-inflammation
@@ -993,8 +993,6 @@ records:
   - {number: 1515, title: All queries should be exportable, updated: '2020-09-02',
     url: 'https://github.com/carpentries/amy/issues/1515'}
   - {number: 1484, title: Track changed metadata, updated: '2020-09-02', url: 'https://github.com/carpentries/amy/issues/1484'}
-  - {number: 1713, title: Fix code warnings discovered by CodeQL, updated: '2020-09-06',
-    url: 'https://github.com/carpentries/amy/issues/1713'}
   - {number: 1709, title: Acknowledge workshop request review, updated: '2020-09-06',
     url: 'https://github.com/carpentries/amy/issues/1709'}
   - {number: 1707, title: Copy automatically additional contacts from Workshop Request
@@ -1029,10 +1027,8 @@ records:
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
-  - {number: 1712, title: Acknowledge Workshop Request review, updated: '2020-09-13',
+  - {number: 1712, title: Acknowledge Workshop Request review, updated: '2020-10-26',
     url: 'https://github.com/carpentries/amy/pull/1712'}
-  - {number: 1729, title: Fix security issues found with CodeQL, updated: '2020-10-25',
-    url: 'https://github.com/carpentries/amy/pull/1729'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1046,4 +1042,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-25T17:42:57Z'
+timestamp: '2020-10-26T18:45:54Z'

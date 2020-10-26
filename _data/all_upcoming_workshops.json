@@ -75,7 +75,7 @@
     "start_date": "2020-10-22"
   },
   {
-    "instructors": null,
+    "instructors": "Jannetta Steyn,David Herbert",
     "end_date": "2020-10-30",
     "url": "https://nclrse-training.github.io/2020-10-26_NCL_SWC_ONLINE/",
     "country": "GB",
@@ -84,7 +84,7 @@
     "longitude": -1,
     "slug": "2020-10-26-NCL-SWC-ONLINE",
     "tag_name": "SWC,online",
-    "helpers": null,
+    "helpers": "Frances Hutchings,Rebecca Osselton,Fiona Galston,Kate Court",
     "host_name": "University of Newcastle",
     "latitude": 45,
     "start_date": "2020-10-26"
@@ -210,6 +210,21 @@
     "start_date": "2020-10-27"
   },
   {
+    "instructors": "Petra Heřmánková",
+    "end_date": "2020-12-03",
+    "url": "https://adivea.github.io/2020-10-29-AU-DC/",
+    "country": "DK",
+    "curriculum": "mix-and-match",
+    "venue": "Aarhus University",
+    "longitude": 10.21203,
+    "slug": "2020-10-29-AU-DC",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "Aarhus University",
+    "latitude": 56.1724346,
+    "start_date": "2020-10-29"
+  },
+  {
     "instructors": "Sherry Lake,Jennifer Lee,Preethy Nair,Trevor Burrows",
     "end_date": "2020-10-30",
     "url": "https://nairps.github.io/2020-10-29-NNLM-online/",
@@ -267,6 +282,21 @@
     "helpers": null,
     "host_name": "Edinburgh Parallel Computing Centre",
     "latitude": 45,
+    "start_date": "2020-11-02"
+  },
+  {
+    "instructors": "Trisha Adamus,Jennifer Lee,Saranya Canchi",
+    "end_date": "2020-11-05",
+    "url": "https://jenniferleeucalgary.github.io/2020-11-02-macmla-NNLM/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Mid-Atlantic Chapter of the Medical Library Association (online)",
+    "longitude": 0,
+    "slug": "2020-11-02-macmla-NNLM",
+    "tag_name": "LC,online,automated-email",
+    "helpers": null,
+    "host_name": "Mid-Atlantic Chapter of the Medical Library Association",
+    "latitude": 0,
     "start_date": "2020-11-02"
   },
   {
@@ -360,7 +390,7 @@
     "start_date": "2020-11-10"
   },
   {
-    "instructors": null,
+    "instructors": "Nilani Ganeshwaran,Phil Reed,Carlene Barton",
     "end_date": "2020-12-10",
     "url": "https://uom-nilani.github.io/2020-11-12-cilip-mdg/",
     "country": "GB",
@@ -369,7 +399,7 @@
     "longitude": -1,
     "slug": "2020-11-12-cilip-mdg",
     "tag_name": "online,Circuits",
-    "helpers": null,
+    "helpers": "Jane Gallagher",
     "host_name": "University of Manchester",
     "latitude": 45,
     "start_date": "2020-11-12"
@@ -435,7 +465,7 @@
     "start_date": "2020-11-23"
   },
   {
-    "instructors": null,
+    "instructors": "Mark Dawson,Michele Mesiti",
     "end_date": "2020-11-27",
     "url": "http://sa2c.github.io/2020-11-23-swansea",
     "country": "GB",
@@ -444,7 +474,7 @@
     "longitude": -3.9,
     "slug": "2020-11-23-swansea",
     "tag_name": "DC,online",
-    "helpers": null,
+    "helpers": "Ben Thorpe",
     "host_name": "Swansea University",
     "latitude": 51.7,
     "start_date": "2020-11-23"
