@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Pratishtha Poudel,Hua Lin",
+    "end_date": "2020-10-27",
+    "url": "https://osu-carpentry.github.io/2020-10-26-okstate",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "Oklahoma State University (online)",
+    "longitude": -1,
+    "slug": "2020-10-26-okstate",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": "LIZBETH PENA-ZUNIGA,Jati Ariati,Jun Fu",
+    "host_name": "Oklahoma State University",
+    "latitude": 45,
+    "start_date": "2020-10-26"
+  },
+  {
+    "instructors": "Peter Wiringa,David Naughton",
+    "end_date": "2020-10-27",
+    "url": "https://wiringa.github.io/2020-10-26-umn/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Minnesota (online)",
+    "longitude": -93.2393,
+    "slug": "2020-10-26-umn",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": "Cody Hennesy,Nicholas Dunn",
+    "host_name": "University of Minnesota",
+    "latitude": 44.9732,
+    "start_date": "2020-10-26"
+  },
+  {
     "instructors": "Tito Peña Montenegro",
     "end_date": "2020-10-24",
     "url": "https://biotemon.github.io/2020-10-23-unilibrebaq/",
@@ -315,7 +345,7 @@
     "start_date": "2020-10-13"
   },
   {
-    "instructors": "Lachlan Deer,Preethy Nair,Annajiat Alim Rasel,Sarah Lin",
+    "instructors": "Lachlan Deer,Preethy Nair,Annajiat Alim Rasel",
     "end_date": "2020-10-14",
     "url": "https://lachlandeer.github.io/2020-10-13-uwm-online/",
     "country": "US",
@@ -324,7 +354,7 @@
     "longitude": -1,
     "slug": "2020-10-13-uwm-online",
     "tag_name": "DC,online,automated-email",
-    "helpers": null,
+    "helpers": "Stephen Appel,Karl Holten",
     "host_name": "University of Wisconsin-Milwaukee",
     "latitude": 45,
     "start_date": "2020-10-13"
@@ -405,7 +435,7 @@
     "start_date": "2020-10-07"
   },
   {
-    "instructors": "Peter Steinbach,Fredo Erxleben",
+    "instructors": "Peter Steinbach,Steve Schmerler,Fredo Erxleben",
     "end_date": "2020-10-08",
     "url": "https://hifis.gitlab.io/2020-10-07-hzdr/",
     "country": "DE",
@@ -450,6 +480,21 @@
     "start_date": "2020-10-06"
   },
   {
+    "instructors": "Nicolas Frazee,Vivian Guetler",
+    "end_date": "2020-10-27",
+    "url": "http://ncf0003.github.io/2020-10-06-wvu",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "West Virginia University (Basic Python Workshop)",
+    "longitude": -79.9542472,
+    "slug": "2020-10-06-wvu",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": null,
+    "host_name": "West Virginia University",
+    "latitude": 39.6331765,
+    "start_date": "2020-10-06"
+  },
+  {
     "instructors": "Kristina Hettne,Matthijs de Zwaan,Alice Doek,Henriette Reerink",
     "end_date": "2020-10-13",
     "url": "https://mtthsdzwn.github.io/2020-10-05-nl/",
@@ -474,7 +519,7 @@
     "longitude": -1,
     "slug": "2020-10-05-noaa",
     "tag_name": "SWC,online,automated-email",
-    "helpers": null,
+    "helpers": "Lindsay Abrams",
     "host_name": "National Oceanic and Atmospheric Administration",
     "latitude": 45,
     "start_date": "2020-10-05"
@@ -495,7 +540,7 @@
     "start_date": "2020-10-05"
   },
   {
-    "instructors": "Bryna Hazelton,Chad Curtis,Jacob Deppen,Noah Benson",
+    "instructors": "Valentina Staneva,Bryna Hazelton,Chad Curtis,Noah Benson",
     "end_date": "2020-10-08",
     "url": "https://uwescience.github.io/2020-10-05-uw-online/",
     "country": "US",
@@ -624,7 +669,7 @@
     "longitude": -97.0737222,
     "slug": "2020-09-28-okstate",
     "tag_name": "online,Circuits,automated-email",
-    "helpers": "Rob Burnap,Kevin Dyke,Hua Lin,Beth Jones",
+    "helpers": "Evan Linde,Rob Burnap,Kevin Dyke,Hua Lin,Beth Jones,LIZBETH PENA-ZUNIGA,Jun Fu",
     "host_name": "Oklahoma State University",
     "latitude": 36.1270236,
     "start_date": "2020-09-28"
@@ -654,7 +699,7 @@
     "longitude": -97.12368,
     "slug": "2020-09-26-UTA",
     "tag_name": "online,Circuits,automated-email",
-    "helpers": "Isaac Williams,Hammad Khan,Fatema Begum Ruma",
+    "helpers": "Isaac Williams,Hammad Khan",
     "host_name": "University of Texas Arlington",
     "latitude": 32.72814,
     "start_date": "2020-09-26"
@@ -684,7 +729,7 @@
     "longitude": -1,
     "slug": "2020-09-25-mizzou",
     "tag_name": "online,Circuits,automated-email",
-    "helpers": null,
+    "helpers": "Denice Adkins",
     "host_name": "University of Missouri",
     "latitude": 45,
     "start_date": "2020-09-25"
@@ -10500,6 +10545,21 @@
     "start_date": "2019-06-27"
   },
   {
+    "instructors": "Sharon Solis,Vania Wang",
+    "end_date": "2019-09-12",
+    "url": "https://ucsbcarpentry.github.io/2019-summer-thursday/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "University of California, Santa Barbara Library",
+    "longitude": -119.845559,
+    "slug": "2019-06-27-Summer-Thursday",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California Santa Barbara",
+    "latitude": 34.4136876,
+    "start_date": "2019-06-27"
+  },
+  {
     "instructors": "Mita Williams,Bukola Rhoda Aremu",
     "end_date": "2019-06-28",
     "url": "copystar.github.io/2019-06-27-agriculture-canada/",
@@ -10602,6 +10662,21 @@
     "helpers": "Ben Waite",
     "host_name": "The Institute of Environmental Science and Research",
     "latitude": -41.147487,
+    "start_date": "2019-06-25"
+  },
+  {
+    "instructors": "Ian Lessing,Noah Spahn",
+    "end_date": "2019-09-10",
+    "url": "https://ucsbcarpentry.github.io/2019-summer-tuesday/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "University of California, Santa Barbara Library",
+    "longitude": -119.845559,
+    "slug": "2019-06-25-Summer-Tuesday",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of California Santa Barbara",
+    "latitude": 34.4136876,
     "start_date": "2019-06-25"
   },
   {
@@ -15564,7 +15639,7 @@
     "longitude": -122.170093,
     "slug": "2018-11-29-stanford_medicine",
     "tag_name": "SWC",
-    "helpers": "Ahmed Nagy El Kaffas,Cedric Espenel,Sylvia Fechner,Xulei Qin,Sijie Wei",
+    "helpers": "Ahmed El Kaffas,Cedric Espenel,Sylvia Fechner,Xulei Qin,Sijie Wei",
     "host_name": "Stanford University",
     "latitude": 37.434496,
     "start_date": "2018-11-29"
@@ -18234,7 +18309,7 @@
     "longitude": -122.1754,
     "slug": "2018-08-15-stanford",
     "tag_name": "SWC",
-    "helpers": "Zhiyong Zhang,Irina Trapido,Adam Nekimken,Ahmed Nagy El Kaffas",
+    "helpers": "Zhiyong Zhang,Irina Trapido,Adam Nekimken,Ahmed El Kaffas",
     "host_name": "Stanford University",
     "latitude": 37.4335,
     "start_date": "2018-08-15"

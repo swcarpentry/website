@@ -307,6 +307,8 @@ records:
       if widely available in the future', updated: '2020-10-13', url: 'https://github.com/swcarpentry/git-novice/issues/691'}
   - {number: 761, title: Best practices to switch from master to main, updated: '2020-10-21',
     url: 'https://github.com/swcarpentry/git-novice/issues/761'}
+  - {number: 766, title: Lesson contribution - nano text editor commands, updated: '2020-10-26',
+    url: 'https://github.com/swcarpentry/git-novice/issues/766'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -669,6 +671,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/883'}
   - {number: 847, title: '01-intro: Inaccuracy in Demonstration of "Variables as Sticky
       Notes"', updated: '2020-10-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/847'}
+  - {number: 884, title: 'Contribution: Repeating Actions with Loops', updated: '2020-10-26',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/884'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -843,14 +847,11 @@ records:
     updated: '2020-09-22', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/633'}
   - {number: 657, title: 'Define fuzzy search in Seeking Help episode ', updated: '2020-09-25',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/657'}
-  - {number: 660, title: Including a section on how to change column names of data
-      frame in this lesson, updated: '2020-10-14', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/660'}
   - {number: 540, title: Remove plyr dependency, updated: '2020-10-19', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/540'}
   pulls:
   - {number: 552, title: Make gentler intro for ggplot2 lesson, updated: '2019-08-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/552'}
   - {number: 551, title: update links, updated: '2020-09-25', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/551'}
-  - {number: 663, title: Rename columns, updated: '2020-10-26', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/663'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -894,6 +895,8 @@ records:
     url: 'https://github.com/swcarpentry/make-novice/issues/48'}
   pulls:
   - {number: 74, title: wordcount.sh, updated: '2019-04-16', url: 'https://github.com/swcarpentry/make-novice/pull/74'}
+  - {number: 159, title: make lesson suitable for teaching with locally-built (serverless)
+      pages, updated: '2020-10-27', url: 'https://github.com/swcarpentry/make-novice/pull/159'}
   url: https://github.com/swcarpentry/make-novice
 - description: From Excel to a Database via Python
   ident: swcarpentry/capstone-novice-spreadsheet-biblio
@@ -1042,4 +1045,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-26T18:45:54Z'
+timestamp: '2020-10-27T19:04:02Z'

@@ -31,21 +31,6 @@
   },
   {
     "instructors": "Nicolas Frazee,Vivian Guetler",
-    "end_date": "2020-10-27",
-    "url": "http://ncf0003.github.io/2020-10-06-wvu",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "West Virginia University (Basic Python Workshop)",
-    "longitude": -79.9542472,
-    "slug": "2020-10-06-wvu",
-    "tag_name": "online,Circuits,automated-email",
-    "helpers": null,
-    "host_name": "West Virginia University",
-    "latitude": 39.6331765,
-    "start_date": "2020-10-06"
-  },
-  {
-    "instructors": "Nicolas Frazee,Vivian Guetler",
     "end_date": "2020-10-29",
     "url": "http://ncf0003.github.io/2020-10-08-wvu",
     "country": "US",
@@ -135,36 +120,6 @@
     "start_date": "2020-10-26"
   },
   {
-    "instructors": "Pratishtha Poudel,Hua Lin",
-    "end_date": "2020-10-27",
-    "url": "https://osu-carpentry.github.io/2020-10-26-okstate",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "Oklahoma State University (online)",
-    "longitude": -1,
-    "slug": "2020-10-26-okstate",
-    "tag_name": "online,Circuits,automated-email",
-    "helpers": "LIZBETH PENA-ZUNIGA,Jati Ariati,Jun Fu",
-    "host_name": "Oklahoma State University",
-    "latitude": 45,
-    "start_date": "2020-10-26"
-  },
-  {
-    "instructors": "Peter Wiringa,David Naughton",
-    "end_date": "2020-10-27",
-    "url": "https://wiringa.github.io/2020-10-26-umn/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "University of Minnesota (online)",
-    "longitude": -93.2393,
-    "slug": "2020-10-26-umn",
-    "tag_name": "online,Circuits,automated-email",
-    "helpers": "Cody Hennesy,Nicholas Dunn",
-    "host_name": "University of Minnesota",
-    "latitude": 44.9732,
-    "start_date": "2020-10-26"
-  },
-  {
     "instructors": "Lachlan Deer,Mike Trizna,Deborah (Debby) Kermer,Annajiat Alim Rasel",
     "end_date": "2020-10-28",
     "url": "https://lachlandeer.github.io/2020-10-26-american-online-economics/",
@@ -210,7 +165,7 @@
     "start_date": "2020-10-27"
   },
   {
-    "instructors": "Petra Heřmánková",
+    "instructors": "Adela Sobotkova,Petra Heřmánková",
     "end_date": "2020-12-03",
     "url": "https://adivea.github.io/2020-10-29-AU-DC/",
     "country": "DK",
@@ -230,7 +185,7 @@
     "url": "https://nairps.github.io/2020-10-29-NNLM-online/",
     "country": "US",
     "curriculum": "lc",
-    "venue": "University of Maryland (online)",
+    "venue": "Network of the National Library of Medicine",
     "longitude": -1,
     "slug": "2020-10-29-NNLM-online",
     "tag_name": "LC,online,automated-email",
@@ -285,21 +240,6 @@
     "start_date": "2020-11-02"
   },
   {
-    "instructors": "Trisha Adamus,Jennifer Lee,Saranya Canchi",
-    "end_date": "2020-11-05",
-    "url": "https://jenniferleeucalgary.github.io/2020-11-02-macmla-NNLM/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "Mid-Atlantic Chapter of the Medical Library Association (online)",
-    "longitude": 0,
-    "slug": "2020-11-02-macmla-NNLM",
-    "tag_name": "LC,online,automated-email",
-    "helpers": null,
-    "host_name": "Mid-Atlantic Chapter of the Medical Library Association",
-    "latitude": 0,
-    "start_date": "2020-11-02"
-  },
-  {
     "instructors": "Patrice-Andre Prud'homme,Ezgi Irmak Yucel,Preethy Nair,Rayvn Manuel",
     "end_date": "2020-11-06",
     "url": "https://nairps.github.io/2020-11-03-umaryland-online/",
@@ -315,17 +255,62 @@
     "start_date": "2020-11-03"
   },
   {
+    "instructors": "David Yakobovitch,Annajiat Alim Rasel",
+    "end_date": "2020-11-06",
+    "url": "https://davidyakobovitch.github.io/2020-11-03-umiami-NNLM-online/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "University of Miami (online)",
+    "longitude": 0,
+    "slug": "2020-11-03-umiami-NNLM-online",
+    "tag_name": "LC,online,automated-email",
+    "helpers": null,
+    "host_name": "University of Miami",
+    "latitude": 0,
+    "start_date": "2020-11-03"
+  },
+  {
+    "instructors": "Jessica Kunke,Kunal Marwaha,Rohit Goswami",
+    "end_date": "2020-11-10",
+    "url": "https://marwahaha.github.io/2020-11-04-ITEP-online",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Institute for Tribal Environmental Professionals (online)",
+    "longitude": -1,
+    "slug": "2020-11-04-ITEP-online",
+    "tag_name": "DC,online,automated-email",
+    "helpers": "Ben Marwick,Jeffrey Oliver,Chris Hamm,Austin Rutherford,Qinyun Lin,Joel Nitta",
+    "host_name": "Institute for Tribal Environmental Professionals",
+    "latitude": 45,
+    "start_date": "2020-11-04"
+  },
+  {
     "instructors": "Vicky Steeves,Nicholas Wolf,Andrew Battista,Alexandra Provo",
     "end_date": "2020-11-06",
     "url": "https://nyu-dataservices.github.io/2020-11-05-nyu",
     "country": "US",
     "curriculum": "lc",
     "venue": "New York University (online)",
-    "longitude": null,
+    "longitude": -73.999364,
     "slug": "2020-11-05-nyu",
     "tag_name": "LC,online,automated-email",
     "helpers": null,
     "host_name": "New York University",
+    "latitude": 40.7294556,
+    "start_date": "2020-11-05"
+  },
+  {
+    "instructors": "Mateusz Kuzak,Malvika Sharan,Allegra Via",
+    "end_date": "2020-11-06",
+    "url": "https://mkuzak.github.io/2020-11-05-ttt-nl-online/",
+    "country": "NL",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-11-05-ttt-nl-online",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
     "latitude": null,
     "start_date": "2020-11-05"
   },
@@ -360,6 +345,36 @@
     "start_date": "2020-11-06"
   },
   {
+    "instructors": "Uwe Hilgert,Kelsey Gonzalez,Isabella Viney,Kathryn Busby",
+    "end_date": "2020-11-08",
+    "url": "https://UA-Carpentries-Workshops.github.io/2020-11-07-Tucson",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "online",
+    "longitude": 0,
+    "slug": "2020-11-07-Tucson",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": "Austin Rutherford,Artin Majdi,dwight nwaigwe",
+    "host_name": "University of Arizona",
+    "latitude": 0,
+    "start_date": "2020-11-07"
+  },
+  {
+    "instructors": "Chaochih Liu,Caitlin Bakker",
+    "end_date": "2020-11-13",
+    "url": "https://cjbakker.github.io/2020-11-09-umntc/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Minnesota - Twin Cities (online)",
+    "longitude": -93,
+    "slug": "2020-11-09-umntc",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": "Elena Auer,Wanda Marsolek",
+    "host_name": "University of Minnesota",
+    "latitude": 45,
+    "start_date": "2020-11-09"
+  },
+  {
     "instructors": "Brook Moyers,Saranya Canchi,Alana Schick,Chandra Sarkar",
     "end_date": "2020-11-19",
     "url": "https://smcclatchy.github.io/2020-11-10-jackson/",
@@ -375,7 +390,7 @@
     "start_date": "2020-11-10"
   },
   {
-    "instructors": "Antonia Mey",
+    "instructors": "Kamilla Kopec-Harding,Antonia Mey,Douglas Lowe",
     "end_date": "2020-11-11",
     "url": "https://softwaresaved.github.io/2020-11-10-ssi-online/",
     "country": "GB",
@@ -384,10 +399,25 @@
     "longitude": -1,
     "slug": "2020-11-10-ssi-online",
     "tag_name": "SWC,online",
-    "helpers": "Aleksandra Nenadic",
+    "helpers": "Aleksandra Nenadic,Robert Nagy",
     "host_name": "University of Manchester",
     "latitude": 45,
     "start_date": "2020-11-10"
+  },
+  {
+    "instructors": "Kathy Yeater",
+    "end_date": "2020-11-13",
+    "url": "https://kyeater.github.io/2020-11-12-agronomy-online/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "ASA-CSSA-SSSA (online)",
+    "longitude": -77.03,
+    "slug": "2020-11-12-agronomy-online",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": null,
+    "host_name": "United States Deparment of Agriculture",
+    "latitude": 38.9,
+    "start_date": "2020-11-12"
   },
   {
     "instructors": "Nilani Ganeshwaran,Phil Reed,Carlene Barton",
@@ -417,6 +447,36 @@
     "helpers": "Katie Wilson",
     "host_name": "University of Minnesota",
     "latitude": 0,
+    "start_date": "2020-11-12"
+  },
+  {
+    "instructors": "Konrad Förstner,Annika Rockenberger",
+    "end_date": "2020-11-13",
+    "url": "https://zbmed.github.io/2020-11-12-ttt-online-CET/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-11-12-ttt-online-CET",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-11-12"
+  },
+  {
+    "instructors": "Erin Becker,Karen Word",
+    "end_date": "2020-11-13",
+    "url": "https://erinbecker.github.io/2020-11-12-ttt-uw/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-11-12-ttt-uw",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
     "start_date": "2020-11-12"
   },
   {
@@ -480,6 +540,21 @@
     "start_date": "2020-11-23"
   },
   {
+    "instructors": "Nicolas Dintzner",
+    "end_date": "2020-12-09",
+    "url": "https://4turesearchdata-carpentries.github.io/2020-12-01-Delft/",
+    "country": "NL",
+    "curriculum": "swc-python",
+    "venue": "December 2020 SWC Workshop @TU Delft (online)",
+    "longitude": 4.37524,
+    "slug": "2020-12-01-Delft",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": null,
+    "host_name": "Delft University of Technology",
+    "latitude": 52.002677,
+    "start_date": "2020-12-01"
+  },
+  {
     "instructors": "Wolmar Nyberg Åkerström,Niclas Jareborg,Elin Kronander",
     "end_date": "2020-12-03",
     "url": "https://nbisweden.github.io/workshop-dm-practices/",
@@ -495,7 +570,7 @@
     "start_date": "2020-12-01"
   },
   {
-    "instructors": null,
+    "instructors": "Jannetta Steyn,Rebecca Osselton,David Herbert",
     "end_date": "2020-12-11",
     "url": "https://nclrse-training.github.io/2020-12-07-NCL-SWC-ONLINE/",
     "country": "GB",
@@ -507,6 +582,21 @@
     "helpers": null,
     "host_name": "University of Newcastle",
     "latitude": 45,
+    "start_date": "2020-12-07"
+  },
+  {
+    "instructors": "Anita Schürch,Julian Paganini,Jesse Kerkvliet",
+    "end_date": "2020-12-09",
+    "url": "https://aschuerch.github.io/2020-12-07-Utrecht/",
+    "country": "NL",
+    "curriculum": "dc-genomics",
+    "venue": "Utrecht University",
+    "longitude": 5.169072,
+    "slug": "2020-12-07-Utrecht",
+    "tag_name": "DC,online,automated-email",
+    "helpers": "Malbert Rogers",
+    "host_name": "UMC Utrecht, The Netherlands, Medical Microbiology",
+    "latitude": 52.085393,
     "start_date": "2020-12-07"
   },
   {
