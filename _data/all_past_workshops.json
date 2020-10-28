@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Lachlan Deer,Mike Trizna,Deborah (Debby) Kermer,Annajiat Alim Rasel",
+    "end_date": "2020-10-28",
+    "url": "https://lachlandeer.github.io/2020-10-26-american-online-economics/",
+    "country": "US",
+    "curriculum": "dc-economics",
+    "venue": "American University (online)",
+    "longitude": -1,
+    "slug": "2020-10-26-american-online-economics",
+    "tag_name": "DC,online,automated-email",
+    "helpers": null,
+    "host_name": "American University",
+    "latitude": 45,
+    "start_date": "2020-10-27"
+  },
+  {
+    "instructors": "Evamaria Krause,Timo Gnadt,Claudia Engelhardt",
+    "end_date": "2020-10-28",
+    "url": "https://subugoe.github.io/2020-10-26-dc-online/",
+    "country": "GE",
+    "curriculum": "mix-and-match",
+    "venue": "Marburg - Göttingen",
+    "longitude": -1,
+    "slug": "2020-10-26-dc-online",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": "Astrid Orth,Harald Kusch",
+    "host_name": "University of Göttingen",
+    "latitude": 45,
+    "start_date": "2020-10-26"
+  },
+  {
     "instructors": "Pratishtha Poudel,Hua Lin",
     "end_date": "2020-10-27",
     "url": "https://osu-carpentry.github.io/2020-10-26-okstate",
@@ -519,7 +549,7 @@
     "longitude": -1,
     "slug": "2020-10-05-noaa",
     "tag_name": "SWC,online,automated-email",
-    "helpers": "Lindsay Abrams",
+    "helpers": "Lindsay Abrams,Julia Engdahl,Scott Sherman",
     "host_name": "National Oceanic and Atmospheric Administration",
     "latitude": 45,
     "start_date": "2020-10-05"
@@ -549,7 +579,7 @@
     "longitude": -122.332071,
     "slug": "2020-10-05-uw-online",
     "tag_name": "SWC,online,automated-email",
-    "helpers": "Emilia Gan,Bernease Herman,Rob Fatland,Noah Benson",
+    "helpers": "Emilia Gan,Bernease Herman,Rob Fatland,Noah Benson,Vishwa Pardeshi,Vishwa Perdeshi",
     "host_name": "University of Washington",
     "latitude": 47.606209,
     "start_date": "2020-10-05"
@@ -669,7 +699,7 @@
     "longitude": -97.0737222,
     "slug": "2020-09-28-okstate",
     "tag_name": "online,Circuits,automated-email",
-    "helpers": "Evan Linde,Rob Burnap,Kevin Dyke,Hua Lin,Beth Jones,LIZBETH PENA-ZUNIGA,Jun Fu",
+    "helpers": "Evan Linde,Rob Burnap,Kevin Dyke,Hua Lin,Beth Jones,LIZBETH PENA-ZUNIGA,Christian Ayala,Jun Fu,Bill Yi,Franklin Fondj",
     "host_name": "Oklahoma State University",
     "latitude": 36.1270236,
     "start_date": "2020-09-28"
@@ -699,7 +729,7 @@
     "longitude": -97.12368,
     "slug": "2020-09-26-UTA",
     "tag_name": "online,Circuits,automated-email",
-    "helpers": "Isaac Williams,Hammad Khan",
+    "helpers": "Isaac Williams,Hammad Khan,Riki Shah,Sajan Shrestha",
     "host_name": "University of Texas Arlington",
     "latitude": 32.72814,
     "start_date": "2020-09-26"
@@ -939,7 +969,7 @@
     "longitude": -76.839594,
     "slug": "2020-09-16-DEVELOP-CSU",
     "tag_name": "online,Circuits,automated-email",
-    "helpers": null,
+    "helpers": "Kristen Dennis,Britnay Beaudry,Robert Byles,Erica Carcelen,Darcy Gray,Ryan Hammock,Adriana Le Compte,Hayley Pippin,Andrew Shannon",
     "host_name": "NASA (National Aeronautics and Space Administration)",
     "latitude": 38.992541,
     "start_date": "2020-09-16"

@@ -305,10 +305,10 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/765'}
   - {number: 691, title: 'Consider replacing "checkout" with "switch" and "restore",
       if widely available in the future', updated: '2020-10-13', url: 'https://github.com/swcarpentry/git-novice/issues/691'}
-  - {number: 761, title: Best practices to switch from master to main, updated: '2020-10-21',
-    url: 'https://github.com/swcarpentry/git-novice/issues/761'}
   - {number: 766, title: Lesson contribution - nano text editor commands, updated: '2020-10-26',
     url: 'https://github.com/swcarpentry/git-novice/issues/766'}
+  - {number: 761, title: Best practices to switch from master to main, updated: '2020-10-28',
+    url: 'https://github.com/swcarpentry/git-novice/issues/761'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -382,9 +382,7 @@ records:
   ident: swcarpentry/git-novice-es
   issues:
   - {number: 78, title: Git for windows, updated: '2020-08-19', url: 'https://github.com/swcarpentry/git-novice-es/issues/78'}
-  pulls:
-  - {number: 79, title: remove permalinks with trailing slash and redundant layout
-      config, updated: '2020-10-08', url: 'https://github.com/swcarpentry/git-novice-es/pull/79'}
+  pulls: []
   url: https://github.com/swcarpentry/git-novice-es
 - description: Mercurial
   ident: swcarpentry/hg-novice
@@ -828,6 +826,7 @@ records:
     updated: '2019-12-24', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/421'}
   - {number: 491, title: ' make lesson suitable for teaching with locally-built (serverless)
       pages', updated: '2020-10-21', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/491'}
+  - {number: 492, title: Strings as factors default, updated: '2020-10-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/492'}
   url: https://github.com/swcarpentry/r-novice-inflammation
 - description: R (Gapminder Data - Español)
   ident: swcarpentry/r-novice-gapminder
@@ -868,9 +867,7 @@ records:
   - {number: 100, title: Gender definition problem in the index, updated: '2019-06-04',
     url: 'https://github.com/swcarpentry/r-novice-gapminder-es/issues/100'}
   - {number: 115, title: 'RFC: Migration to R 4.0', updated: '2020-07-27', url: 'https://github.com/swcarpentry/r-novice-gapminder-es/issues/115'}
-  pulls:
-  - {number: 117, title: make lesson suitable for teaching with locally-built pages,
-    updated: '2020-10-26', url: 'https://github.com/swcarpentry/r-novice-gapminder-es/pull/117'}
+  pulls: []
   url: https://github.com/swcarpentry/r-novice-gapminder-es
 - description: MATLAB
   ident: swcarpentry/matlab-novice-inflammation
@@ -886,7 +883,9 @@ records:
     url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/202'}
   - {number: 221, title: Add else statements to True and False Execise, updated: '2020-04-17',
     url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/221'}
-  pulls: []
+  pulls:
+  - {number: 230, title: make lesson suitable for teaching with locally-built (serverless)
+      pages, updated: '2020-10-28', url: 'https://github.com/swcarpentry/matlab-novice-inflammation/pull/230'}
   url: https://github.com/swcarpentry/matlab-novice-inflammation
 - description: Make
   ident: swcarpentry/make-novice
@@ -1032,6 +1031,8 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1203'}
   - {number: 1712, title: Acknowledge Workshop Request review, updated: '2020-10-26',
     url: 'https://github.com/carpentries/amy/pull/1712'}
+  - {number: 1731, title: Bump cryptography from 2.9 to 3.2, updated: '2020-10-28',
+    url: 'https://github.com/carpentries/amy/pull/1731'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1045,4 +1046,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-27T19:04:02Z'
+timestamp: '2020-10-28T19:02:06Z'

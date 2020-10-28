@@ -105,36 +105,6 @@
     "start_date": "2020-10-26"
   },
   {
-    "instructors": "Evamaria Krause,Timo Gnadt,Claudia Engelhardt",
-    "end_date": "2020-10-28",
-    "url": "https://subugoe.github.io/2020-10-26-dc-online/",
-    "country": "GE",
-    "curriculum": "mix-and-match",
-    "venue": "Marburg - Göttingen",
-    "longitude": -1,
-    "slug": "2020-10-26-dc-online",
-    "tag_name": "online,Circuits,automated-email",
-    "helpers": "Astrid Orth,Harald Kusch",
-    "host_name": "University of Göttingen",
-    "latitude": 45,
-    "start_date": "2020-10-26"
-  },
-  {
-    "instructors": "Lachlan Deer,Mike Trizna,Deborah (Debby) Kermer,Annajiat Alim Rasel",
-    "end_date": "2020-10-28",
-    "url": "https://lachlandeer.github.io/2020-10-26-american-online-economics/",
-    "country": "US",
-    "curriculum": "dc-economics",
-    "venue": "American University (online)",
-    "longitude": -1,
-    "slug": "2020-10-26-american-online-economics",
-    "tag_name": "DC,online,automated-email",
-    "helpers": null,
-    "host_name": "American University",
-    "latitude": 45,
-    "start_date": "2020-10-27"
-  },
-  {
     "instructors": "Phillip Doehle,Muhammad Zohaib Anwar,Shaohe Wang",
     "end_date": "2020-11-05",
     "url": "https://anwarmz.github.io/2020-10-27-stillman-SBDH/",
@@ -495,6 +465,21 @@
     "start_date": "2020-11-13"
   },
   {
+    "instructors": "Azalee Bostroem,Allen Downey",
+    "end_date": "2020-11-19",
+    "url": "https://allendowney.github.io/2020-11-16-astrodc-online/",
+    "country": "US",
+    "curriculum": "dc-other",
+    "venue": "The Carpentries (online)",
+    "longitude": -1,
+    "slug": "2020-11-16-astrodc-online",
+    "tag_name": "DC,online,automated-email",
+    "helpers": "Erin Becker,Philip Rosenfield,Rodolfo Montez",
+    "host_name": "American Astronomical Society",
+    "latitude": 45,
+    "start_date": "2020-11-16"
+  },
+  {
     "instructors": null,
     "end_date": "2020-11-19",
     "url": "https://swcarpentry-wuerzburg.github.io/2020-11-17-Wuerzburg/",
@@ -615,7 +600,22 @@
     "start_date": "2020-12-14"
   },
   {
-    "instructors": null,
+    "instructors": "Yuping Huang",
+    "end_date": "2021-01-08",
+    "url": "https://yupinghuang.github.io/2021-01-07-aas237-online",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "AAS 237, Virtually Anywhere (online)",
+    "longitude": -77.0493862,
+    "slug": "2021-01-07-aas237-online",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": null,
+    "host_name": "American Astronomical Society",
+    "latitude": 38.8951363,
+    "start_date": "2021-01-07"
+  },
+  {
+    "instructors": "Elise Lauterbur,Leah Guthrie",
     "end_date": "2021-01-29",
     "url": "https://smcclatchy.github.io/2021-01-20-jackson/",
     "country": "US",
