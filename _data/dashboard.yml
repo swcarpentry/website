@@ -1029,10 +1029,14 @@ records:
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
-  - {number: 1712, title: Acknowledge Workshop Request review, updated: '2020-10-26',
-    url: 'https://github.com/carpentries/amy/pull/1712'}
   - {number: 1731, title: Bump cryptography from 2.9 to 3.2, updated: '2020-10-28',
     url: 'https://github.com/carpentries/amy/pull/1731'}
+  - {number: 1733, title: Make accordion work in Django form, updated: '2020-10-29',
+    url: 'https://github.com/carpentries/amy/pull/1733'}
+  - {number: 1732, title: fix typo from ubmission to Submission, updated: '2020-10-29',
+    url: 'https://github.com/carpentries/amy/pull/1732'}
+  - {number: 1712, title: Acknowledge Workshop Request review, updated: '2020-10-29',
+    url: 'https://github.com/carpentries/amy/pull/1712'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1046,4 +1050,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-28T19:02:06Z'
+timestamp: '2020-10-29T18:52:25Z'
