@@ -30,51 +30,6 @@
     "start_date": "2020-09-16"
   },
   {
-    "instructors": "Nicolas Frazee,Vivian Guetler",
-    "end_date": "2020-10-29",
-    "url": "http://ncf0003.github.io/2020-10-08-wvu",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "West Virginia University (Bash/Git Workshop)",
-    "longitude": -79.9542472,
-    "slug": "2020-10-08-wvu",
-    "tag_name": "online,Circuits,automated-email",
-    "helpers": null,
-    "host_name": "West Virginia University",
-    "latitude": 39.6331765,
-    "start_date": "2020-10-08"
-  },
-  {
-    "instructors": "Kelly Meehan",
-    "end_date": "2020-10-29",
-    "url": "https://eniac-6.github.io/2020-10-22-usbr/",
-    "country": "US",
-    "curriculum": "swc-reproducible-science",
-    "venue": "USBR LCR (online)",
-    "longitude": -114.843043,
-    "slug": "2020-10-22-usbr",
-    "tag_name": "SWC,online,automated-email",
-    "helpers": null,
-    "host_name": "Bureau of Reclamation",
-    "latitude": 35.978197,
-    "start_date": "2020-10-22"
-  },
-  {
-    "instructors": "Jannetta Steyn,David Herbert",
-    "end_date": "2020-10-30",
-    "url": "https://nclrse-training.github.io/2020-10-26_NCL_SWC_ONLINE/",
-    "country": "GB",
-    "curriculum": "swc-python",
-    "venue": "ONLINE (online)",
-    "longitude": -1,
-    "slug": "2020-10-26-NCL-SWC-ONLINE",
-    "tag_name": "SWC,online",
-    "helpers": "Frances Hutchings,Rebecca Osselton,Fiona Galston,Kate Court",
-    "host_name": "University of Newcastle",
-    "latitude": 45,
-    "start_date": "2020-10-26"
-  },
-  {
     "instructors": "Jason Bell,Stéphane Guillou,Dag Evensberget",
     "end_date": "2020-11-03",
     "url": "https://qcif-training.github.io/2020-10-26-QCIF-Python/",
@@ -120,21 +75,6 @@
     "start_date": "2020-10-27"
   },
   {
-    "instructors": "Reed Cartwright,Kate Hertweck",
-    "end_date": "2020-10-30",
-    "url": "https://k8hertweck.github.io/2020-10-27-ttt-online-PDT/",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2020-10-27-ttt-online-PDT",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": -48.876667,
-    "start_date": "2020-10-27"
-  },
-  {
     "instructors": "Adela Sobotkova,Petra Heřmánková",
     "end_date": "2020-12-03",
     "url": "https://adivea.github.io/2020-10-29-AU-DC/",
@@ -147,21 +87,6 @@
     "helpers": null,
     "host_name": "Aarhus University",
     "latitude": 56.1724346,
-    "start_date": "2020-10-29"
-  },
-  {
-    "instructors": "Sherry Lake,Jennifer Lee,Preethy Nair,Trevor Burrows",
-    "end_date": "2020-10-30",
-    "url": "https://nairps.github.io/2020-10-29-NNLM-online/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "Network of the National Library of Medicine",
-    "longitude": -1,
-    "slug": "2020-10-29-NNLM-online",
-    "tag_name": "LC,online,automated-email",
-    "helpers": null,
-    "host_name": "Network of the National Library of Medicine",
-    "latitude": 45,
     "start_date": "2020-10-29"
   },
   {
@@ -320,7 +245,7 @@
     "url": "https://UA-Carpentries-Workshops.github.io/2020-11-07-Tucson",
     "country": "US",
     "curriculum": "swc-r",
-    "venue": "online",
+    "venue": "University of Arizona",
     "longitude": 0,
     "slug": "2020-11-07-Tucson",
     "tag_name": "SWC,online,automated-email",
@@ -328,6 +253,21 @@
     "host_name": "University of Arizona",
     "latitude": 0,
     "start_date": "2020-11-07"
+  },
+  {
+    "instructors": "Jesse Johnston,Annajiat Alim Rasel,Elnaz Amanzadeh Jajin",
+    "end_date": "2020-11-12",
+    "url": "https://elnazamanzadeh.github.io/-2020-11-09-american-online/",
+    "country": "",
+    "curriculum": "swc-python-gapminder",
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-11-09-american-online",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": null,
+    "host_name": "American University",
+    "latitude": null,
+    "start_date": "2020-11-09"
   },
   {
     "instructors": "Chaochih Liu,Caitlin Bakker",
@@ -555,12 +495,27 @@
     "start_date": "2020-12-01"
   },
   {
+    "instructors": "Paul Hancock",
+    "end_date": "2020-12-03",
+    "url": "https://curtinic.github.io/2020-12-02-curtin/",
+    "country": "",
+    "curriculum": "dc-ecology-python",
+    "venue": "Curtin University",
+    "longitude": 115.894375,
+    "slug": "2020-12-02-curtin",
+    "tag_name": "DC,online",
+    "helpers": "Sawitchaya (Nancy) Tippaya,Rakib Hassan,Aniek Roelofs",
+    "host_name": "Curtin University",
+    "latitude": -32.007159,
+    "start_date": "2020-12-02"
+  },
+  {
     "instructors": "Jannetta Steyn,Rebecca Osselton,David Herbert",
     "end_date": "2020-12-11",
     "url": "https://nclrse-training.github.io/2020-12-07-NCL-SWC-ONLINE/",
     "country": "GB",
     "curriculum": "swc-r",
-    "venue": "ONLINE (online)",
+    "venue": "University of Newcastle",
     "longitude": -1,
     "slug": "2020-12-07-NCL-SWC-ONLINE",
     "tag_name": "SWC,online",
@@ -582,6 +537,21 @@
     "helpers": "Malbert Rogers",
     "host_name": "UMC Utrecht, The Netherlands, Medical Microbiology",
     "latitude": 52.085393,
+    "start_date": "2020-12-07"
+  },
+  {
+    "instructors": "Kathryn Napier",
+    "end_date": "2020-12-08",
+    "url": "https://curtinic.github.io/2020-12-07-curtin/",
+    "country": "AU",
+    "curriculum": "dc-ecology-r",
+    "venue": "Curtin University",
+    "longitude": 115.894375,
+    "slug": "2020-12-07-curtin",
+    "tag_name": "DC,online",
+    "helpers": "Paul Hancock,Behrouz Khabbaz Beheshti",
+    "host_name": "Curtin University",
+    "latitude": -32.007159,
     "start_date": "2020-12-07"
   },
   {

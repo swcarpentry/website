@@ -759,6 +759,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/868'}
   - {number: 875, title: Update 01-intro.md, updated: '2020-10-07', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/875'}
   - {number: 876, title: Revision to Code Sample, updated: '2020-10-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/876'}
+  - {number: 885, title: Fix errors in text to code line references., updated: '2020-10-30',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/885'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1020,12 +1022,18 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1516'}
   - {number: 1727, title: Add "supporting instructors" to recipients of "ask for website"
       autoemail, updated: '2020-10-22', url: 'https://github.com/carpentries/amy/issues/1727'}
-  - {number: 1718, title: 'Include question about publishing workshop on all three
-      workshop request forms ', updated: '2020-10-25', url: 'https://github.com/carpentries/amy/issues/1718'}
   - {number: 1563, title: TTT events - open/member seats for learners only, updated: '2020-10-25',
     url: 'https://github.com/carpentries/amy/issues/1563'}
   - {number: 1561, title: 'Workshop Request Form: Not Adding all Tags Automatically',
     updated: '2020-10-25', url: 'https://github.com/carpentries/amy/issues/1561'}
+  - {number: 1738, title: Include registration code in search function, updated: '2020-10-30',
+    url: 'https://github.com/carpentries/amy/issues/1738'}
+  - {number: 1736, title: Move position of "Is this workshop public" question, updated: '2020-10-30',
+    url: 'https://github.com/carpentries/amy/issues/1736'}
+  - {number: 1734, title: Add "centrally organised" to "Request a workshop" button,
+    updated: '2020-10-30', url: 'https://github.com/carpentries/amy/issues/1734'}
+  - {number: 1718, title: 'Include question about publishing workshop on all three
+      workshop request forms ', updated: '2020-10-30', url: 'https://github.com/carpentries/amy/issues/1718'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
@@ -1037,6 +1045,10 @@ records:
     url: 'https://github.com/carpentries/amy/pull/1732'}
   - {number: 1712, title: Acknowledge Workshop Request review, updated: '2020-10-29',
     url: 'https://github.com/carpentries/amy/pull/1712'}
+  - {number: 1737, title: moves workshop public question to more prominent place on
+      page, updated: '2020-10-30', url: 'https://github.com/carpentries/amy/pull/1737'}
+  - {number: 1735, title: specify request form is for centrally org. wkshp, updated: '2020-10-30',
+    url: 'https://github.com/carpentries/amy/pull/1735'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1050,4 +1062,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-29T18:52:25Z'
+timestamp: '2020-10-30T18:50:14Z'

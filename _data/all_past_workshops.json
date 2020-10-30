@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Sherry Lake,Jennifer Lee,Preethy Nair,Trevor Burrows",
+    "end_date": "2020-10-30",
+    "url": "https://nairps.github.io/2020-10-29-NNLM-online/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Network of the National Library of Medicine",
+    "longitude": -1,
+    "slug": "2020-10-29-NNLM-online",
+    "tag_name": "LC,online,automated-email",
+    "helpers": null,
+    "host_name": "Network of the National Library of Medicine",
+    "latitude": 45,
+    "start_date": "2020-10-29"
+  },
+  {
     "instructors": "Lachlan Deer,Mike Trizna,Deborah (Debby) Kermer,Annajiat Alim Rasel",
     "end_date": "2020-10-28",
     "url": "https://lachlandeer.github.io/2020-10-26-american-online-economics/",
@@ -13,6 +28,36 @@
     "host_name": "American University",
     "latitude": 45,
     "start_date": "2020-10-27"
+  },
+  {
+    "instructors": "Reed Cartwright,Kate Hertweck",
+    "end_date": "2020-10-30",
+    "url": "https://k8hertweck.github.io/2020-10-27-ttt-online-PDT/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-10-27-ttt-online-PDT",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-10-27"
+  },
+  {
+    "instructors": "Jannetta Steyn,David Herbert",
+    "end_date": "2020-10-30",
+    "url": "https://nclrse-training.github.io/2020-10-26_NCL_SWC_ONLINE/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "ONLINE (online)",
+    "longitude": -1,
+    "slug": "2020-10-26-NCL-SWC-ONLINE",
+    "tag_name": "SWC,online",
+    "helpers": "Frances Hutchings,Rebecca Osselton,Fiona Galston,Kate Court",
+    "host_name": "University of Newcastle",
+    "latitude": 45,
+    "start_date": "2020-10-26"
   },
   {
     "instructors": "Evamaria Krause,Timo Gnadt,Claudia Engelhardt",
@@ -73,6 +118,21 @@
     "host_name": "University of Georgia",
     "latitude": 11,
     "start_date": "2020-10-23"
+  },
+  {
+    "instructors": "Kelly Meehan",
+    "end_date": "2020-10-29",
+    "url": "https://eniac-6.github.io/2020-10-22-usbr/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "USBR LCR (online)",
+    "longitude": -114.843043,
+    "slug": "2020-10-22-usbr",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": null,
+    "host_name": "Bureau of Reclamation",
+    "latitude": 35.978197,
+    "start_date": "2020-10-22"
   },
   {
     "instructors": "Endre Sebestyén,Luca Di Stasio",
@@ -448,6 +508,21 @@
     "host_name": "University of Missouri",
     "latitude": 45,
     "start_date": "2020-10-09"
+  },
+  {
+    "instructors": "Nicolas Frazee,Vivian Guetler",
+    "end_date": "2020-10-29",
+    "url": "http://ncf0003.github.io/2020-10-08-wvu",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "West Virginia University (Bash/Git Workshop)",
+    "longitude": -79.9542472,
+    "slug": "2020-10-08-wvu",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": null,
+    "host_name": "West Virginia University",
+    "latitude": 39.6331765,
+    "start_date": "2020-10-08"
   },
   {
     "instructors": "Heather Andrews,Nicolas Dintzner",
