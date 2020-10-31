@@ -759,8 +759,6 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/868'}
   - {number: 875, title: Update 01-intro.md, updated: '2020-10-07', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/875'}
   - {number: 876, title: Revision to Code Sample, updated: '2020-10-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/876'}
-  - {number: 885, title: Fix errors in text to code line references., updated: '2020-10-30',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/885'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -828,7 +826,7 @@ records:
     updated: '2019-12-24', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/421'}
   - {number: 491, title: ' make lesson suitable for teaching with locally-built (serverless)
       pages', updated: '2020-10-21', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/491'}
-  - {number: 492, title: Strings as factors default, updated: '2020-10-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/492'}
+  - {number: 492, title: Strings as factors default, updated: '2020-10-30', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/492'}
   url: https://github.com/swcarpentry/r-novice-inflammation
 - description: R (Gapminder Data - Español)
   ident: swcarpentry/r-novice-gapminder
@@ -1049,6 +1047,7 @@ records:
       page, updated: '2020-10-30', url: 'https://github.com/carpentries/amy/pull/1737'}
   - {number: 1735, title: specify request form is for centrally org. wkshp, updated: '2020-10-30',
     url: 'https://github.com/carpentries/amy/pull/1735'}
+  - {number: 1739, title: Make docs more accessible, updated: '2020-10-31', url: 'https://github.com/carpentries/amy/pull/1739'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1062,4 +1061,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-10-30T18:50:14Z'
+timestamp: '2020-10-31T17:45:19Z'
