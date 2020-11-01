@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
+    "end_date": "2020-10-31",
+    "url": "https://betterlabmx.github.io/2020-10-30-betterlab/",
+    "country": "MX",
+    "curriculum": "mix-and-match",
+    "venue": "BetterLab",
+    "longitude": -90,
+    "slug": "2020-10-30-betterlab",
+    "tag_name": "Circuits,automated-email",
+    "helpers": null,
+    "host_name": "Langebio",
+    "latitude": 19,
+    "start_date": "2020-10-30"
+  },
+  {
     "instructors": "Sherry Lake,Jennifer Lee,Preethy Nair,Trevor Burrows",
     "end_date": "2020-10-30",
     "url": "https://nairps.github.io/2020-10-29-NNLM-online/",
