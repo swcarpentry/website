@@ -90,21 +90,6 @@
     "start_date": "2020-10-29"
   },
   {
-    "instructors": "Martin Dreyer,Aditya Bandla,Sebastian Mosidi,Jannetta Steyn",
-    "end_date": "2020-11-06",
-    "url": "https://nwu-eresearch.github.io/2020-11-02-NWU-ONLINE/",
-    "country": "ZA",
-    "curriculum": "dc-ecology-r",
-    "venue": "NWU, South Africa",
-    "longitude": 0,
-    "slug": "2020-11-02-NWU-ONLINE",
-    "tag_name": "DC,online,automated-email",
-    "helpers": null,
-    "host_name": "North-West University",
-    "latitude": 0,
-    "start_date": "2020-11-02"
-  },
-  {
     "instructors": "Juan Herrera,Jose Javier Munoz Criollo",
     "end_date": "2020-11-05",
     "url": "https://archer2-hpc.github.io/2020-11-02-cardiff-online/",
@@ -240,9 +225,24 @@
     "start_date": "2020-11-07"
   },
   {
+    "instructors": "Brett Longworth,Arianna Krinos",
+    "end_date": "2020-11-18",
+    "url": "https://blongworth.github.io/2020-11-09-WHOI-R/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Woods Hole Oceanographic Institution (online)",
+    "longitude": -70.660599,
+    "slug": "2020-11-09-WHOI-R",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": "Stace Beaulieu",
+    "host_name": "Woods Hole Oceanographic Institute",
+    "latitude": 41.523998,
+    "start_date": "2020-11-09"
+  },
+  {
     "instructors": "Jesse Johnston,Annajiat Alim Rasel,Elnaz Amanzadeh Jajin",
     "end_date": "2020-11-12",
-    "url": "https://elnazamanzadeh.github.io/-2020-11-09-american-online/",
+    "url": "https://elnazamanzadeh.github.io/2020-11-09-american-online/",
     "country": "",
     "curriculum": "swc-python-gapminder",
     "venue": "",
@@ -405,7 +405,7 @@
     "start_date": "2020-11-16"
   },
   {
-    "instructors": null,
+    "instructors": "Markus Ankenbrand,Florian Goth,Torsten Paul",
     "end_date": "2020-11-19",
     "url": "https://swcarpentry-wuerzburg.github.io/2020-11-17-Wuerzburg/",
     "country": "DE",

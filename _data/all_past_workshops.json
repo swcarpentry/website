@@ -225,7 +225,7 @@
     "start_date": "2020-10-19"
   },
   {
-    "instructors": "Holger Dinkel,Malvika Sharan,Toby Hodges,Thomas Schwarzl,Mike Smith,Frank Thommen,Renato Alves",
+    "instructors": "Holger Dinkel,Malvika Sharan,Thea Van Rossum,Toby Hodges,Thomas Schwarzl,Mike Smith,Frank Thommen,Renato Alves",
     "end_date": "2020-10-23",
     "url": "https://unode.github.io/2020-10-19-heidelberg/",
     "country": "DE",
@@ -399,7 +399,7 @@
     "longitude": -68.196874,
     "slug": "2020-10-13-jackson-online",
     "tag_name": "DC,online,automated-email",
-    "helpers": null,
+    "helpers": "Sue McClatchy,Alexis Garretson,Amnah Siddiqa",
     "host_name": "Jackson Laboratory",
     "latitude": 44.365622,
     "start_date": "2020-10-13"

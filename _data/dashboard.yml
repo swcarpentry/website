@@ -887,7 +887,7 @@ records:
     url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/221'}
   pulls:
   - {number: 230, title: make lesson suitable for teaching with locally-built (serverless)
-      pages, updated: '2020-10-28', url: 'https://github.com/swcarpentry/matlab-novice-inflammation/pull/230'}
+      pages, updated: '2020-11-02', url: 'https://github.com/swcarpentry/matlab-novice-inflammation/pull/230'}
   url: https://github.com/swcarpentry/matlab-novice-inflammation
 - description: Make
   ident: swcarpentry/make-novice
@@ -1033,10 +1033,9 @@ records:
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
-  - {number: 1739, title: Make docs more accessible, updated: '2020-11-01', url: 'https://github.com/carpentries/amy/pull/1739'}
-  - {number: 1733, title: Make accordion work in Django form, updated: '2020-11-01',
-    url: 'https://github.com/carpentries/amy/pull/1733'}
-  - {number: 1712, title: Acknowledge Workshop Request review, updated: '2020-11-01',
+  - {number: 1740, title: Update to Boostrap 4.5, updated: '2020-11-01', url: 'https://github.com/carpentries/amy/pull/1740'}
+  - {number: 1739, title: Make docs more accessible, updated: '2020-11-02', url: 'https://github.com/carpentries/amy/pull/1739'}
+  - {number: 1712, title: Acknowledge Workshop Request review, updated: '2020-11-02',
     url: 'https://github.com/carpentries/amy/pull/1712'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
@@ -1051,4 +1050,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-11-01T17:43:42Z'
+timestamp: '2020-11-02T18:37:12Z'
