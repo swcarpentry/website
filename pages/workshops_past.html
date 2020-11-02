@@ -28,7 +28,7 @@ excerpt: listing of all our past workshops
 <div style="text-align: center; margin-bottom: 15px">
   {% for flag in flags %}
   {% if flag != "" %}
-  <img src="{{site.filesurl}}/flags/32/{{flag | downcase }}.png" title="{{flag | replace: '-',' ' | downcase }}" alt="{{flag | replace: '-',' '}}" />
+  <img src="/assets/img/flags/32/{{flag | downcase }}.png" title="{{flag | replace: '-',' ' | downcase }}" alt="{{flag | replace: '-',' '}}" />
   {% endif %}
     {% unless forloop.last %}
       {% assign loopindex = forloop.index0 | modulo: 16 %}
