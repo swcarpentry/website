@@ -30,36 +30,6 @@
     "start_date": "2020-09-16"
   },
   {
-    "instructors": "Jason Bell,Stéphane Guillou,Dag Evensberget",
-    "end_date": "2020-11-03",
-    "url": "https://qcif-training.github.io/2020-10-26-QCIF-Python/",
-    "country": "AU",
-    "curriculum": "swc-python-gapminder",
-    "venue": "Queensland Cyber Infrastructure Foundation",
-    "longitude": 153.01441,
-    "slug": "2020-10-26-QCIF-Python",
-    "tag_name": "SWC,online",
-    "helpers": "Masami Yamaguchi,Toan Phung,Mathew Fletcher",
-    "host_name": "Queensland Cyber Infrastructure Foundation",
-    "latitude": -27.50014,
-    "start_date": "2020-10-26"
-  },
-  {
-    "instructors": "Amber York,Karen Soenen",
-    "end_date": "2020-11-03",
-    "url": "https://k-rns.github.io/2020-10-26-WHOI-Data",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "Woods Hole Oceanographic Institution (online)",
-    "longitude": -70,
-    "slug": "2020-10-26-WHOI-Data",
-    "tag_name": "online,Circuits,automated-email",
-    "helpers": "Stace Beaulieu",
-    "host_name": "Woods Hole Oceanographic Institute",
-    "latitude": 41,
-    "start_date": "2020-10-26"
-  },
-  {
     "instructors": "Phillip Doehle,Muhammad Zohaib Anwar,Shaohe Wang",
     "end_date": "2020-11-05",
     "url": "https://anwarmz.github.io/2020-10-27-stillman-SBDH/",

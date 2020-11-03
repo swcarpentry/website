@@ -794,8 +794,6 @@ records:
   - {number: 438, title: 'Setup / Prerequisites Suggestions -- Remedial Links or Assessments?',
     updated: '2019-08-11', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/438'}
   - {number: 455, title: Command Line Programs, updated: '2019-10-29', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/455'}
-  - {number: 343, title: 'Packaging: refer to other resources', updated: '2019-11-06',
-    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/343'}
   - {number: 456, title: 'Episode 4 and 5: Function Error', updated: '2019-11-12',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/456'}
   - {number: 461, title: Phrasing suggestion for 01-starting-with-data.Rmd, updated: '2019-12-02',
@@ -820,6 +818,8 @@ records:
   - {number: 486, title: Diagrams to describe functions, updated: '2020-09-10', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/486'}
   - {number: 487, title: 'Using the RStudio Terminal- Lesson 5: Command Line Programs',
     updated: '2020-09-11', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/487'}
+  - {number: 343, title: 'Packaging: refer to other resources', updated: '2020-11-02',
+    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/343'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
@@ -887,7 +887,7 @@ records:
     url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/221'}
   pulls:
   - {number: 230, title: make lesson suitable for teaching with locally-built (serverless)
-      pages, updated: '2020-11-02', url: 'https://github.com/swcarpentry/matlab-novice-inflammation/pull/230'}
+      pages, updated: '2020-11-03', url: 'https://github.com/swcarpentry/matlab-novice-inflammation/pull/230'}
   url: https://github.com/swcarpentry/matlab-novice-inflammation
 - description: Make
   ident: swcarpentry/make-novice
@@ -1050,4 +1050,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-11-02T18:37:12Z'
+timestamp: '2020-11-03T18:37:35Z'

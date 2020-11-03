@@ -75,6 +75,36 @@
     "start_date": "2020-10-26"
   },
   {
+    "instructors": "Jason Bell,Stéphane Guillou,Dag Evensberget",
+    "end_date": "2020-11-03",
+    "url": "https://qcif-training.github.io/2020-10-26-QCIF-Python/",
+    "country": "AU",
+    "curriculum": "swc-python-gapminder",
+    "venue": "Queensland Cyber Infrastructure Foundation",
+    "longitude": 153.01441,
+    "slug": "2020-10-26-QCIF-Python",
+    "tag_name": "SWC,online",
+    "helpers": "Masami Yamaguchi,Toan Phung,Mathew Fletcher",
+    "host_name": "Queensland Cyber Infrastructure Foundation",
+    "latitude": -27.50014,
+    "start_date": "2020-10-26"
+  },
+  {
+    "instructors": "Amber York,Karen Soenen",
+    "end_date": "2020-11-03",
+    "url": "https://k-rns.github.io/2020-10-26-WHOI-Data",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "Woods Hole Oceanographic Institution (online)",
+    "longitude": -70,
+    "slug": "2020-10-26-WHOI-Data",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": "Stace Beaulieu",
+    "host_name": "Woods Hole Oceanographic Institute",
+    "latitude": 41,
+    "start_date": "2020-10-26"
+  },
+  {
     "instructors": "Evamaria Krause,Timo Gnadt,Claudia Engelhardt",
     "end_date": "2020-10-28",
     "url": "https://subugoe.github.io/2020-10-26-dc-online/",
@@ -3240,6 +3270,21 @@
     "start_date": "2020-05-27"
   },
   {
+    "instructors": "Remi Daigle,Danielle Quinn",
+    "end_date": "2020-05-29",
+    "url": "https://remi-daigle.github.io/2020-05-26-DFO/",
+    "country": "CA",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Fisheries and Oceans Canada (online)",
+    "longitude": -63.61133,
+    "slug": "2020-05-26-DFO",
+    "tag_name": "SWC,online",
+    "helpers": "Hannah Munro,Freya Keyser",
+    "host_name": "Fisheries and Oceans Canada",
+    "latitude": 44.6832,
+    "start_date": "2020-05-26"
+  },
+  {
     "instructors": "Evgenij Belikov,Martino Sorbaro Sindaci,Chris Wood",
     "end_date": "2020-05-27",
     "url": "https://edcarp.github.io/2020-05-26-sfc-online/",
@@ -4197,6 +4242,21 @@
     "helpers": null,
     "host_name": "University of Idaho",
     "latitude": 46.72696,
+    "start_date": "2020-03-26"
+  },
+  {
+    "instructors": "Serguei Vassiliev",
+    "end_date": "2020-04-02",
+    "url": "https://ssvassiliev.github.io/2020-03-26-unb/",
+    "country": "CA",
+    "curriculum": "mix-and-match",
+    "venue": "",
+    "longitude": -66.64306,
+    "slug": "2020-03-26-unb",
+    "tag_name": "Circuits",
+    "helpers": "Mathew Larade,Grace Fishbein",
+    "host_name": "ACENET",
+    "latitude": 45.94615,
     "start_date": "2020-03-26"
   },
   {
