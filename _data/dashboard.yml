@@ -669,10 +669,10 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/883'}
   - {number: 847, title: '01-intro: Inaccuracy in Demonstration of "Variables as Sticky
       Notes"', updated: '2020-10-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/847'}
-  - {number: 884, title: 'Contribution: Repeating Actions with Loops', updated: '2020-10-26',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/884'}
   - {number: 886, title: The CSV example can give novices the wrong impression of
       how to structure CSV files, updated: '2020-11-01', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/886'}
+  - {number: 884, title: 'Contribution: Repeating Actions with Loops', updated: '2020-11-03',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/884'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -853,6 +853,7 @@ records:
   - {number: 552, title: Make gentler intro for ggplot2 lesson, updated: '2019-08-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/552'}
   - {number: 551, title: update links, updated: '2020-09-25', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/551'}
+  - {number: 668, title: Neat code up with spaces, updated: '2020-11-04', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/668'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -887,7 +888,7 @@ records:
     url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/221'}
   pulls:
   - {number: 230, title: make lesson suitable for teaching with locally-built (serverless)
-      pages, updated: '2020-11-03', url: 'https://github.com/swcarpentry/matlab-novice-inflammation/pull/230'}
+      pages, updated: '2020-11-04', url: 'https://github.com/swcarpentry/matlab-novice-inflammation/pull/230'}
   url: https://github.com/swcarpentry/matlab-novice-inflammation
 - description: Make
   ident: swcarpentry/make-novice
@@ -997,8 +998,6 @@ records:
   - {number: 1515, title: All queries should be exportable, updated: '2020-09-02',
     url: 'https://github.com/carpentries/amy/issues/1515'}
   - {number: 1484, title: Track changed metadata, updated: '2020-09-02', url: 'https://github.com/carpentries/amy/issues/1484'}
-  - {number: 1709, title: Acknowledge workshop request review, updated: '2020-09-06',
-    url: 'https://github.com/carpentries/amy/issues/1709'}
   - {number: 1707, title: Copy automatically additional contacts from Workshop Request
       to Event, updated: '2020-09-06', url: 'https://github.com/carpentries/amy/issues/1707'}
   - {number: 1687, title: Allow editing of recipients in email previews, updated: '2020-09-06',
@@ -1024,19 +1023,13 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1563'}
   - {number: 1561, title: 'Workshop Request Form: Not Adding all Tags Automatically',
     updated: '2020-10-25', url: 'https://github.com/carpentries/amy/issues/1561'}
-  - {number: 1738, title: Include registration code in search function, updated: '2020-10-30',
-    url: 'https://github.com/carpentries/amy/issues/1738'}
   - {number: 1718, title: 'Include question about publishing workshop on all three
       workshop request forms ', updated: '2020-10-30', url: 'https://github.com/carpentries/amy/issues/1718'}
-  - {number: 1723, title: Pre-approved registration box does not expand, updated: '2020-11-01',
-    url: 'https://github.com/carpentries/amy/issues/1723'}
+  - {number: 1738, title: Include registration code in search function, updated: '2020-11-03',
+    url: 'https://github.com/carpentries/amy/issues/1738'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
-  - {number: 1740, title: Update to Boostrap 4.5, updated: '2020-11-01', url: 'https://github.com/carpentries/amy/pull/1740'}
-  - {number: 1739, title: Make docs more accessible, updated: '2020-11-02', url: 'https://github.com/carpentries/amy/pull/1739'}
-  - {number: 1712, title: Acknowledge Workshop Request review, updated: '2020-11-02',
-    url: 'https://github.com/carpentries/amy/pull/1712'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1050,4 +1043,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-11-03T18:37:35Z'
+timestamp: '2020-11-04T18:36:18Z'
