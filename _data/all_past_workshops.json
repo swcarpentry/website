@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Juan Herrera,Jose Javier Munoz Criollo",
+    "end_date": "2020-11-05",
+    "url": "https://archer2-hpc.github.io/2020-11-02-cardiff-online/",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "EPCC and Cardiff University (online)",
+    "longitude": -1,
+    "slug": "2020-11-02-cardiff-online",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "Edinburgh Parallel Computing Centre",
+    "latitude": 45,
+    "start_date": "2020-11-02"
+  },
+  {
     "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
     "end_date": "2020-10-31",
     "url": "https://betterlabmx.github.io/2020-10-30-betterlab/",
@@ -45,6 +60,21 @@
     "start_date": "2020-10-27"
   },
   {
+    "instructors": "Phillip Doehle,Muhammad Zohaib Anwar,Shaohe Wang",
+    "end_date": "2020-11-05",
+    "url": "https://anwarmz.github.io/2020-10-27-stillman-SBDH/",
+    "country": "US",
+    "curriculum": "dc-ecology-python",
+    "venue": "Stillman College",
+    "longitude": -87.58503,
+    "slug": "2020-10-27-stillman-SBDH",
+    "tag_name": "DC,online,automated-email",
+    "helpers": "Maria Laurent-Rice",
+    "host_name": "South Big Data Hub",
+    "latitude": 33.20113,
+    "start_date": "2020-10-27"
+  },
+  {
     "instructors": "Reed Cartwright,Kate Hertweck",
     "end_date": "2020-10-30",
     "url": "https://k8hertweck.github.io/2020-10-27-ttt-online-PDT/",
@@ -75,7 +105,7 @@
     "start_date": "2020-10-26"
   },
   {
-    "instructors": "Jason Bell,Stéphane Guillou,Dag Evensberget",
+    "instructors": "Jason Bell,Thom Cuddihy,Stéphane Guillou,Dag Evensberget",
     "end_date": "2020-11-03",
     "url": "https://qcif-training.github.io/2020-10-26-QCIF-Python/",
     "country": "AU",
@@ -84,7 +114,7 @@
     "longitude": 153.01441,
     "slug": "2020-10-26-QCIF-Python",
     "tag_name": "SWC,online",
-    "helpers": "Masami Yamaguchi,Toan Phung,Mathew Fletcher",
+    "helpers": "Masami Yamaguchi,Toan Phung,Dattatreya Majumdar,McKenna Buckley,Mathew Fletcher,Shern Tee",
     "host_name": "Queensland Cyber Infrastructure Foundation",
     "latitude": -27.50014,
     "start_date": "2020-10-26"
@@ -1363,6 +1393,21 @@
     "host_name": "Rice University",
     "latitude": 29.717394,
     "start_date": "2020-09-04"
+  },
+  {
+    "instructors": "Sara Mannheimer,Mark Greenwood",
+    "end_date": "2020-11-05",
+    "url": "https://saramannheimer.github.io/2020-09-03-montana-state-university/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "Montana State University",
+    "longitude": -111.0546211,
+    "slug": "2020-09-03-montana-state-university",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": "Greta Linse",
+    "host_name": "Montana State University",
+    "latitude": 45.6673524,
+    "start_date": "2020-09-03"
   },
   {
     "instructors": "Michelle Rodio",

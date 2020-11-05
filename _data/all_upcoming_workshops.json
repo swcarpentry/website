@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Sara Mannheimer,Mark Greenwood",
-    "end_date": "2020-11-05",
-    "url": "https://saramannheimer.github.io/2020-09-03-montana-state-university/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "Montana State University",
-    "longitude": -111.0546211,
-    "slug": "2020-09-03-montana-state-university",
-    "tag_name": "online,Circuits,automated-email",
-    "helpers": "Greta Linse",
-    "host_name": "Montana State University",
-    "latitude": 45.6673524,
-    "start_date": "2020-09-03"
-  },
-  {
     "instructors": "Christina Koch,Sarah Stevens,Clare Michaud,Madison Youngblom",
     "end_date": "2020-12-09",
     "url": "https://uw-madison-datascience.github.io/2020-09-16-uwmadison-mini/",
@@ -30,21 +15,6 @@
     "start_date": "2020-09-16"
   },
   {
-    "instructors": "Phillip Doehle,Muhammad Zohaib Anwar,Shaohe Wang",
-    "end_date": "2020-11-05",
-    "url": "https://anwarmz.github.io/2020-10-27-stillman-SBDH/",
-    "country": "US",
-    "curriculum": "dc-ecology-python",
-    "venue": "Stillman College",
-    "longitude": -87.58503,
-    "slug": "2020-10-27-stillman-SBDH",
-    "tag_name": "DC,online,automated-email",
-    "helpers": "Maria Laurent-Rice",
-    "host_name": "South Big Data Hub",
-    "latitude": 33.20113,
-    "start_date": "2020-10-27"
-  },
-  {
     "instructors": "Adela Sobotkova,Petra Heřmánková",
     "end_date": "2020-12-03",
     "url": "https://adivea.github.io/2020-10-29-AU-DC/",
@@ -58,21 +28,6 @@
     "host_name": "Aarhus University",
     "latitude": 56.1724346,
     "start_date": "2020-10-29"
-  },
-  {
-    "instructors": "Juan Herrera,Jose Javier Munoz Criollo",
-    "end_date": "2020-11-05",
-    "url": "https://archer2-hpc.github.io/2020-11-02-cardiff-online/",
-    "country": "GB",
-    "curriculum": "mix-and-match",
-    "venue": "EPCC and Cardiff University (online)",
-    "longitude": -1,
-    "slug": "2020-11-02-cardiff-online",
-    "tag_name": "online,Circuits",
-    "helpers": null,
-    "host_name": "Edinburgh Parallel Computing Centre",
-    "latitude": 45,
-    "start_date": "2020-11-02"
   },
   {
     "instructors": "Patrice-Andre Prud'homme,Ezgi Irmak Yucel,Preethy Nair,Rayvn Manuel",
@@ -193,6 +148,21 @@
     "host_name": "University of Arizona",
     "latitude": 0,
     "start_date": "2020-11-07"
+  },
+  {
+    "instructors": "Jon Jablonski,Torin White,Renata Curty",
+    "end_date": "2020-11-10",
+    "url": "https://ucsbcarpentry.github.io/2020-11-09-OpenRefine-online/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "University of California, Santa Barbara (online)",
+    "longitude": -1,
+    "slug": "2020-11-09-OpenRefine-online",
+    "tag_name": "LC,online,automated-email",
+    "helpers": "Kristi Liu",
+    "host_name": "University of California Santa Barbara",
+    "latitude": 45,
+    "start_date": "2020-11-09"
   },
   {
     "instructors": "Brett Longworth,Arianna Krinos",

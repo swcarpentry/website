@@ -853,7 +853,6 @@ records:
   - {number: 552, title: Make gentler intro for ggplot2 lesson, updated: '2019-08-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/552'}
   - {number: 551, title: update links, updated: '2020-09-25', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/551'}
-  - {number: 668, title: Neat code up with spaces, updated: '2020-11-04', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/668'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -870,6 +869,8 @@ records:
   - {number: 100, title: Gender definition problem in the index, updated: '2019-06-04',
     url: 'https://github.com/swcarpentry/r-novice-gapminder-es/issues/100'}
   - {number: 115, title: 'RFC: Migration to R 4.0', updated: '2020-07-27', url: 'https://github.com/swcarpentry/r-novice-gapminder-es/issues/115'}
+  - {number: 118, title: Data type issue when loading data., updated: '2020-11-04',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder-es/issues/118'}
   pulls: []
   url: https://github.com/swcarpentry/r-novice-gapminder-es
 - description: MATLAB
@@ -1043,4 +1044,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-11-04T18:36:18Z'
+timestamp: '2020-11-05T18:31:53Z'
