@@ -30,36 +30,6 @@
     "start_date": "2020-10-29"
   },
   {
-    "instructors": "Patrice-Andre Prud'homme,Ezgi Irmak Yucel,Preethy Nair,Rayvn Manuel",
-    "end_date": "2020-11-06",
-    "url": "https://nairps.github.io/2020-11-03-umaryland-online/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "University of Maryland (online)",
-    "longitude": -1,
-    "slug": "2020-11-03-umaryland-online",
-    "tag_name": "LC,online,automated-email",
-    "helpers": null,
-    "host_name": "University of Maryland, Baltimore",
-    "latitude": 45,
-    "start_date": "2020-11-03"
-  },
-  {
-    "instructors": "David Yakobovitch,Annajiat Alim Rasel",
-    "end_date": "2020-11-06",
-    "url": "https://davidyakobovitch.github.io/2020-11-03-umiami-NNLM-online/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "University of Miami (online)",
-    "longitude": 0,
-    "slug": "2020-11-03-umiami-NNLM-online",
-    "tag_name": "LC,online,automated-email",
-    "helpers": null,
-    "host_name": "University of Miami",
-    "latitude": 0,
-    "start_date": "2020-11-03"
-  },
-  {
     "instructors": "Jessica Kunke,Kunal Marwaha,Rohit Goswami",
     "end_date": "2020-11-10",
     "url": "https://marwahaha.github.io/2020-11-04-ITEP-online",
@@ -73,51 +43,6 @@
     "host_name": "Institute for Tribal Environmental Professionals",
     "latitude": 45,
     "start_date": "2020-11-04"
-  },
-  {
-    "instructors": "Vicky Steeves,Nicholas Wolf,Andrew Battista,Alexandra Provo",
-    "end_date": "2020-11-06",
-    "url": "https://nyu-dataservices.github.io/2020-11-05-nyu",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "New York University (online)",
-    "longitude": -73.999364,
-    "slug": "2020-11-05-nyu",
-    "tag_name": "LC,online,automated-email",
-    "helpers": null,
-    "host_name": "New York University",
-    "latitude": 40.7294556,
-    "start_date": "2020-11-05"
-  },
-  {
-    "instructors": "Mateusz Kuzak,Malvika Sharan,Allegra Via",
-    "end_date": "2020-11-06",
-    "url": "https://mkuzak.github.io/2020-11-05-ttt-nl-online/",
-    "country": "NL",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-11-05-ttt-nl-online",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": null,
-    "start_date": "2020-11-05"
-  },
-  {
-    "instructors": "Steven Pryor",
-    "end_date": "2020-11-06",
-    "url": "https://swc-mizzou.github.io/2020-11-06-mizzou/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "University of Missouri (online)",
-    "longitude": -1,
-    "slug": "2020-11-06-mizzou",
-    "tag_name": "online,Circuits,automated-email",
-    "helpers": null,
-    "host_name": "University of Missouri",
-    "latitude": 45,
-    "start_date": "2020-11-06"
   },
   {
     "instructors": "Alexander Konovalov,Patrick McCann",
@@ -182,16 +107,16 @@
   {
     "instructors": "Jesse Johnston,Annajiat Alim Rasel,Elnaz Amanzadeh Jajin",
     "end_date": "2020-11-12",
-    "url": "https://elnazamanzadeh.github.io/2020-11-09-american-online/",
-    "country": "",
+    "url": "https://annajiat.github.io/2020-11-09-american-online/",
+    "country": "US",
     "curriculum": "swc-python-gapminder",
-    "venue": "",
-    "longitude": null,
+    "venue": "American University (online)",
+    "longitude": 0,
     "slug": "2020-11-09-american-online",
     "tag_name": "SWC,online,automated-email",
     "helpers": null,
     "host_name": "American University",
-    "latitude": null,
+    "latitude": 0,
     "start_date": "2020-11-09"
   },
   {
@@ -208,6 +133,21 @@
     "host_name": "University of Minnesota",
     "latitude": 45,
     "start_date": "2020-11-09"
+  },
+  {
+    "instructors": "Miklós Koren",
+    "end_date": "2020-11-26",
+    "url": "https://ceu-economics-and-business.github.io/2020-11-10-ECBS-5241-Coding-for-Economists/",
+    "country": "AT",
+    "curriculum": "dc-economics",
+    "venue": "Central European University (online)",
+    "longitude": 16.2399791,
+    "slug": "2020-11-10-ECBS-5241-Coding-for-Economists",
+    "tag_name": "DC,automated-email",
+    "helpers": null,
+    "host_name": "Central European University",
+    "latitude": 48.2205998,
+    "start_date": "2020-11-10"
   },
   {
     "instructors": "Brook Moyers,Saranya Canchi,Alana Schick,Chandra Sarkar",
@@ -238,6 +178,36 @@
     "host_name": "University of Manchester",
     "latitude": 45,
     "start_date": "2020-11-10"
+  },
+  {
+    "instructors": "Kyrre Låberg,Dan Michael Heggø",
+    "end_date": "2020-11-11",
+    "url": "https://uio-carpentry.github.io/2020-11-11-uio-online/",
+    "country": "NO",
+    "curriculum": "mix-and-match",
+    "venue": "University of Oslo (online)",
+    "longitude": 10.722343,
+    "slug": "2020-11-11-uio-online",
+    "tag_name": "Circuits",
+    "helpers": "Viviane Girardin",
+    "host_name": "University of Oslo",
+    "latitude": 59.938476,
+    "start_date": "2020-11-11"
+  },
+  {
+    "instructors": "Thomas Guignard,Daniel Wheeler,Sarah Lin,Benson Muite",
+    "end_date": "2020-11-13",
+    "url": "https://labs.timtom.ch/2020-11-12-NNLM-online/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Network of the National Library of Medicine (online)",
+    "longitude": -1,
+    "slug": "2020-11-12-NNLM-online",
+    "tag_name": "LC,online,automated-email",
+    "helpers": "Kim Pham,Clara Turp",
+    "host_name": "Network of the National Library of Medicine",
+    "latitude": 45,
+    "start_date": "2020-11-12"
   },
   {
     "instructors": "Kathy Yeater",
@@ -390,6 +360,21 @@
     "start_date": "2020-11-23"
   },
   {
+    "instructors": "Sherry Lake,Robin Donatello,Jesse Johnston",
+    "end_date": "2020-12-04",
+    "url": "https://shlake.github.io/2020-12-01-Clemson-online-NNLM/",
+    "country": "US",
+    "curriculum": "lc-other",
+    "venue": "Clemson University (online)",
+    "longitude": null,
+    "slug": "2020-12-01-Clemson-online-NNLM",
+    "tag_name": "LC,online,automated-email",
+    "helpers": null,
+    "host_name": "Network of the National Library of Medicine",
+    "latitude": null,
+    "start_date": "2020-12-01"
+  },
+  {
     "instructors": "Nicolas Dintzner",
     "end_date": "2020-12-09",
     "url": "https://4turesearchdata-carpentries.github.io/2020-12-01-Delft/",
@@ -478,6 +463,21 @@
     "host_name": "Curtin University",
     "latitude": -32.007159,
     "start_date": "2020-12-07"
+  },
+  {
+    "instructors": "Daniel Wheeler,Elise Lauterbur,Martino Sorbaro Sindaci,David DeFranza",
+    "end_date": "2020-12-11",
+    "url": "https://martinosorb.github.io/2020-12-08-NOAA/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "NOAA (online)",
+    "longitude": -1,
+    "slug": "2020-12-08-NOAA",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": null,
+    "host_name": "National Oceanic and Atmospheric Administration",
+    "latitude": 45,
+    "start_date": "2020-12-08"
   },
   {
     "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",

@@ -850,9 +850,7 @@ records:
     updated: '2020-09-22', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/633'}
   - {number: 657, title: 'Define fuzzy search in Seeking Help episode ', updated: '2020-09-25',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/657'}
-  - {number: 540, title: Remove plyr dependency, updated: '2020-10-19', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/540'}
-  - {number: 669, title: Update _config.yml so license link works, updated: '2020-11-06',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/669'}
+  - {number: 540, title: Remove plyr dependency, updated: '2020-11-06', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/540'}
   pulls:
   - {number: 552, title: Make gentler intro for ggplot2 lesson, updated: '2019-08-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/552'}
@@ -1024,8 +1022,6 @@ records:
       autoemail, updated: '2020-10-22', url: 'https://github.com/carpentries/amy/issues/1727'}
   - {number: 1561, title: 'Workshop Request Form: Not Adding all Tags Automatically',
     updated: '2020-10-25', url: 'https://github.com/carpentries/amy/issues/1561'}
-  - {number: 1718, title: 'Include question about publishing workshop on all three
-      workshop request forms ', updated: '2020-10-30', url: 'https://github.com/carpentries/amy/issues/1718'}
   - {number: 1738, title: Include registration code in search function, updated: '2020-11-03',
     url: 'https://github.com/carpentries/amy/issues/1738'}
   - {number: 1563, title: TTT events - open/member seats for learners only, updated: '2020-11-05',
@@ -1035,8 +1031,8 @@ records:
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
-  - {number: 1741, title: Workshop listed - question on WRFs, updated: '2020-11-06',
-    url: 'https://github.com/carpentries/amy/pull/1741'}
+  - {number: 1742, title: 'Self-Organised Submissions: start, end date fields.', updated: '2020-11-07',
+    url: 'https://github.com/carpentries/amy/pull/1742'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1050,4 +1046,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-11-06T18:25:44Z'
+timestamp: '2020-11-07T17:44:45Z'
