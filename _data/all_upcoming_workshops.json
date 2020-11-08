@@ -60,21 +60,6 @@
     "start_date": "2020-11-06"
   },
   {
-    "instructors": "Uwe Hilgert,Kelsey Gonzalez,Isabella Viney,Kathryn Busby",
-    "end_date": "2020-11-08",
-    "url": "https://UA-Carpentries-Workshops.github.io/2020-11-07-Tucson",
-    "country": "US",
-    "curriculum": "swc-r",
-    "venue": "University of Arizona",
-    "longitude": 0,
-    "slug": "2020-11-07-Tucson",
-    "tag_name": "SWC,online,automated-email",
-    "helpers": "Austin Rutherford,Artin Majdi,dwight nwaigwe",
-    "host_name": "University of Arizona",
-    "latitude": 0,
-    "start_date": "2020-11-07"
-  },
-  {
     "instructors": "Jon Jablonski,Torin White,Renata Curty",
     "end_date": "2020-11-10",
     "url": "https://ucsbcarpentry.github.io/2020-11-09-OpenRefine-online/",

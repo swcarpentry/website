@@ -295,8 +295,6 @@ records:
       in Ignoring Things, Episode 6', updated: '2020-09-17', url: 'https://github.com/swcarpentry/git-novice/issues/687'}
   - {number: 762, title: Reorder instructions for reviewing a Collaborator's commit,
     updated: '2020-10-09', url: 'https://github.com/swcarpentry/git-novice/issues/762'}
-  - {number: 759, title: Suggestion for improving the git staging area graphic, updated: '2020-10-10',
-    url: 'https://github.com/swcarpentry/git-novice/issues/759'}
   - {number: 757, title: Providing a definition for distributed (vs centralised) version
       control, updated: '2020-10-10', url: 'https://github.com/swcarpentry/git-novice/issues/757'}
   - {number: 764, title: Figure caption ~/vlad/planets is confusing, updated: '2020-10-11',
@@ -309,6 +307,8 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/766'}
   - {number: 761, title: Best practices to switch from master to main, updated: '2020-10-28',
     url: 'https://github.com/swcarpentry/git-novice/issues/761'}
+  - {number: 759, title: Suggestion for improving the git staging area graphic, updated: '2020-11-08',
+    url: 'https://github.com/swcarpentry/git-novice/issues/759'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -994,8 +994,6 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1657'}
   - {number: 1564, title: Feature Request- Add task = add person, updated: '2020-09-02',
     url: 'https://github.com/carpentries/amy/issues/1564'}
-  - {number: 1562, title: TTT Open applications - check by default, updated: '2020-09-02',
-    url: 'https://github.com/carpentries/amy/issues/1562'}
   - {number: 1515, title: All queries should be exportable, updated: '2020-09-02',
     url: 'https://github.com/carpentries/amy/issues/1515'}
   - {number: 1484, title: Track changed metadata, updated: '2020-09-02', url: 'https://github.com/carpentries/amy/issues/1484'}
@@ -1020,19 +1018,25 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1516'}
   - {number: 1727, title: Add "supporting instructors" to recipients of "ask for website"
       autoemail, updated: '2020-10-22', url: 'https://github.com/carpentries/amy/issues/1727'}
-  - {number: 1561, title: 'Workshop Request Form: Not Adding all Tags Automatically',
-    updated: '2020-10-25', url: 'https://github.com/carpentries/amy/issues/1561'}
   - {number: 1738, title: Include registration code in search function, updated: '2020-11-03',
     url: 'https://github.com/carpentries/amy/issues/1738'}
   - {number: 1563, title: TTT events - open/member seats for learners only, updated: '2020-11-05',
     url: 'https://github.com/carpentries/amy/issues/1563'}
   - {number: 1644, title: Add date feature to Self-Organised Workshop Request Form,
     updated: '2020-11-06', url: 'https://github.com/carpentries/amy/issues/1644'}
+  - {number: 1562, title: TTT Open applications - check by default, updated: '2020-11-07',
+    url: 'https://github.com/carpentries/amy/issues/1562'}
+  - {number: 1561, title: 'Workshop Request Form: Not Adding all Tags Automatically',
+    updated: '2020-11-08', url: 'https://github.com/carpentries/amy/issues/1561'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
+  - {number: 1743, title: Enforce learner for seat open/member task, updated: '2020-11-07',
+    url: 'https://github.com/carpentries/amy/pull/1743'}
   - {number: 1742, title: 'Self-Organised Submissions: start, end date fields.', updated: '2020-11-07',
     url: 'https://github.com/carpentries/amy/pull/1742'}
+  - {number: 1744, title: Automatically check "TTT Open applications" when TTT tag
+      is selected, updated: '2020-11-08', url: 'https://github.com/carpentries/amy/pull/1744'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1046,4 +1050,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-11-07T17:44:45Z'
+timestamp: '2020-11-08T19:03:33Z'
