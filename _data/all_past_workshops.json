@@ -129,7 +129,7 @@
     "longitude": -1,
     "slug": "2020-10-29-NNLM-online",
     "tag_name": "LC,online,automated-email",
-    "helpers": null,
+    "helpers": "Denice Adkins,Tisha Mentnech",
     "host_name": "Network of the National Library of Medicine",
     "latitude": 45,
     "start_date": "2020-10-29"
@@ -279,7 +279,7 @@
     "longitude": -75,
     "slug": "2020-10-23-unilibrebaq",
     "tag_name": "online,Circuits,automated-email",
-    "helpers": "Juan Calderon",
+    "helpers": "Juan Calderon,Alejandro Cueto Becerra,Alberto Pérez Acosta,Janier Rosero Urbina",
     "host_name": "University of Georgia",
     "latitude": 11,
     "start_date": "2020-10-23"
@@ -315,7 +315,7 @@
     "start_date": "2020-10-21"
   },
   {
-    "instructors": "Dafne van Kuppevelt,Carlos Utrilla Guerrero",
+    "instructors": "Dafne van Kuppevelt,Carlos Utrilla Guerrero,Sven van der Burg",
     "end_date": "2020-10-22",
     "url": "https://escience-academy.github.io/2020-10-19-Data-Carpentry-with-R/",
     "country": "NL",
@@ -324,7 +324,7 @@
     "longitude": -1,
     "slug": "2020-10-19-Data-Carpentry-with-R",
     "tag_name": "DC,online,automated-email",
-    "helpers": "Mateusz Kuzak",
+    "helpers": "Mateusz Kuzak,Francesco Nattino",
     "host_name": "Netherlands eScience Center",
     "latitude": 45,
     "start_date": "2020-10-19"
@@ -375,7 +375,7 @@
     "start_date": "2020-10-19"
   },
   {
-    "instructors": "Holger Dinkel,Malvika Sharan,Thea Van Rossum,Toby Hodges,Thomas Schwarzl,Mike Smith,Frank Thommen,Renato Alves",
+    "instructors": "Holger Dinkel,Malvika Sharan,Thea Van Rossum,Toby Hodges,Thomas Schwarzl,Mike Smith,Frank Thommen,Renato Alves,Kimberly Meechan",
     "end_date": "2020-10-23",
     "url": "https://unode.github.io/2020-10-19-heidelberg/",
     "country": "DE",
@@ -384,7 +384,7 @@
     "longitude": 8.709586,
     "slug": "2020-10-19-heidelberg",
     "tag_name": "online,Circuits,automated-email",
-    "helpers": null,
+    "helpers": "Christian Schudoma,Melanie Kaeser,Nikolaos Papadopoulos",
     "host_name": "European Molecular Biology Laboratory",
     "latitude": 49.384517,
     "start_date": "2020-10-19"
@@ -444,7 +444,7 @@
     "longitude": 0,
     "slug": "2020-10-19-umassboston",
     "tag_name": "online,Circuits,automated-email",
-    "helpers": null,
+    "helpers": "Runcong Chen",
     "host_name": "University of Massachusetts Boston",
     "latitude": 0,
     "start_date": "2020-10-19"
@@ -530,7 +530,7 @@
     "url": "https://murraycadzow.github.io/2020-10-14-ttt-online-nz/",
     "country": "NZ",
     "curriculum": null,
-    "venue": "",
+    "venue": "online",
     "longitude": null,
     "slug": "2020-10-14-ttt-online-nz",
     "tag_name": "TTT,online",
@@ -624,7 +624,7 @@
     "longitude": -1,
     "slug": "2020-10-12-gwu",
     "tag_name": "online,Circuits,automated-email",
-    "helpers": null,
+    "helpers": "Disovankiri Boung",
     "host_name": "George Washington University",
     "latitude": 45,
     "start_date": "2020-10-12"
@@ -699,7 +699,7 @@
     "longitude": 4.37524,
     "slug": "2020-10-07-delft",
     "tag_name": "SWC,online,automated-email",
-    "helpers": "Kees den Heijer,Santosh Ilamparuthi,Yan Wang,Masha Rudneva,Lora Armstrong",
+    "helpers": "Kees den Heijer,Santosh Ilamparuthi,Yan Wang,Masha Rudneva,Lora Armstrong,Ashley Cryan,Amir Ebrahimi Fard,Niket Agrawal,Maurits Kok",
     "host_name": "Delft University of Technology",
     "latitude": 52.002677,
     "start_date": "2020-10-07"
@@ -954,7 +954,7 @@
     "longitude": -1,
     "slug": "2020-09-28-ucb-ucla-ucsd",
     "tag_name": "online,Circuits,automated-email",
-    "helpers": "Tim Dennis,Reid Otsuji,Stephanie Labou,Michael Campos-Quinn,Richard McCosh,Jamie Jamison,Leigh Phan,Geno Sanchez,Dave George,Mark Matney,Alexandre Fioravante de Siqueira",
+    "helpers": "Tim Dennis,Reid Otsuji,Stephanie Labou,Michael Campos-Quinn,Richard McCosh,Jamie Jamison,Leigh Phan,Geno Sanchez,Dave George,Mark Matney,Alexandre Fioravante de Siqueira,Jen Diamond",
     "host_name": "University of California Los Angeles",
     "latitude": 45,
     "start_date": "2020-09-28"

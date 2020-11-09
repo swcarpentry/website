@@ -173,7 +173,7 @@
     "venue": "University of Oslo (online)",
     "longitude": 10.722343,
     "slug": "2020-11-11-uio-online",
-    "tag_name": "Circuits",
+    "tag_name": "online,Circuits",
     "helpers": "Viviane Girardin",
     "host_name": "University of Oslo",
     "latitude": 59.938476,
@@ -315,6 +315,21 @@
     "start_date": "2020-11-17"
   },
   {
+    "instructors": "Trisha Adamus,Abigail Sparling,Jennifer Lee",
+    "end_date": "2020-11-18",
+    "url": "https://tadamus.github.io/2020-11-17-uwm-online/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "University of Wisconsin-Milwaukee (online)",
+    "longitude": -87.8819686,
+    "slug": "2020-11-17-uwm-online",
+    "tag_name": "LC,online,automated-email",
+    "helpers": null,
+    "host_name": "University of Wisconsin-Milwaukee",
+    "latitude": 43.078263,
+    "start_date": "2020-11-17"
+  },
+  {
     "instructors": "Bret Alexander Beheim,Han Tran",
     "end_date": "2020-11-27",
     "url": "https://hbec-mpi-eva.github.io/2020-11-23-leipzig-online/",
@@ -372,6 +387,21 @@
     "helpers": null,
     "host_name": "Delft University of Technology",
     "latitude": 52.002677,
+    "start_date": "2020-12-01"
+  },
+  {
+    "instructors": "Tracy Teal,Chissa Rivaldi,Douglas Joubert,Adam Hughes",
+    "end_date": "2020-12-02",
+    "url": "https://doujoudc.github.io/2020-12-01-NNLM-online/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "NNLM",
+    "longitude": null,
+    "slug": "2020-12-01-NNLM-online",
+    "tag_name": "LC,online,automated-email",
+    "helpers": null,
+    "host_name": "Network of the National Library of Medicine",
+    "latitude": null,
     "start_date": "2020-12-01"
   },
   {
@@ -480,6 +510,21 @@
     "start_date": "2020-12-14"
   },
   {
+    "instructors": "Rachael Blake,Muriel Dunn,Annajiat Alim Rasel,Sally Chang",
+    "end_date": "2020-12-17",
+    "url": "https://annajiat.github.io/2020-12-14-auctr-online-NNLM/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "Atlanta University (online)",
+    "longitude": 0,
+    "slug": "2020-12-14-auctr-online-NNLM",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": null,
+    "host_name": "Network of the National Library of Medicine",
+    "latitude": 0,
+    "start_date": "2020-12-14"
+  },
+  {
     "instructors": "Yuping Huang",
     "end_date": "2021-01-08",
     "url": "https://yupinghuang.github.io/2021-01-07-aas237-online",
@@ -495,7 +540,7 @@
     "start_date": "2021-01-07"
   },
   {
-    "instructors": "Elise Lauterbur,Leah Guthrie",
+    "instructors": "Peter Hoyt,Elise Lauterbur,Aditya Bandla,Leah Guthrie",
     "end_date": "2021-01-29",
     "url": "https://smcclatchy.github.io/2021-01-20-jackson/",
     "country": "US",

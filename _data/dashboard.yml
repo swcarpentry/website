@@ -850,7 +850,7 @@ records:
     updated: '2020-09-22', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/633'}
   - {number: 657, title: 'Define fuzzy search in Seeking Help episode ', updated: '2020-09-25',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/657'}
-  - {number: 540, title: Remove plyr dependency, updated: '2020-11-06', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/540'}
+  - {number: 540, title: Remove plyr dependency, updated: '2020-11-09', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/540'}
   pulls:
   - {number: 552, title: Make gentler intro for ggplot2 lesson, updated: '2019-08-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/552'}
@@ -891,7 +891,7 @@ records:
     url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/221'}
   pulls:
   - {number: 230, title: make lesson suitable for teaching with locally-built (serverless)
-      pages, updated: '2020-11-04', url: 'https://github.com/swcarpentry/matlab-novice-inflammation/pull/230'}
+      pages, updated: '2020-11-09', url: 'https://github.com/swcarpentry/matlab-novice-inflammation/pull/230'}
   url: https://github.com/swcarpentry/matlab-novice-inflammation
 - description: Make
   ident: swcarpentry/make-novice
@@ -1031,12 +1031,14 @@ records:
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
-  - {number: 1743, title: Enforce learner for seat open/member task, updated: '2020-11-07',
-    url: 'https://github.com/carpentries/amy/pull/1743'}
-  - {number: 1742, title: 'Self-Organised Submissions: start, end date fields.', updated: '2020-11-07',
-    url: 'https://github.com/carpentries/amy/pull/1742'}
+  - {number: 1745, title: Add GitHub Action for building and deploying docs, updated: '2020-11-09',
+    url: 'https://github.com/carpentries/amy/pull/1745'}
   - {number: 1744, title: Automatically check "TTT Open applications" when TTT tag
-      is selected, updated: '2020-11-08', url: 'https://github.com/carpentries/amy/pull/1744'}
+      is selected, updated: '2020-11-09', url: 'https://github.com/carpentries/amy/pull/1744'}
+  - {number: 1743, title: Enforce learner for seat open/member task, updated: '2020-11-09',
+    url: 'https://github.com/carpentries/amy/pull/1743'}
+  - {number: 1742, title: 'Self-Organised Submissions: start, end date fields.', updated: '2020-11-09',
+    url: 'https://github.com/carpentries/amy/pull/1742'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1050,4 +1052,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-11-08T19:03:33Z'
+timestamp: '2020-11-09T18:48:01Z'
