@@ -30,21 +30,6 @@
     "start_date": "2020-10-29"
   },
   {
-    "instructors": "Jessica Kunke,Kunal Marwaha,Rohit Goswami",
-    "end_date": "2020-11-10",
-    "url": "https://marwahaha.github.io/2020-11-04-ITEP-online",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "Institute for Tribal Environmental Professionals (online)",
-    "longitude": -1,
-    "slug": "2020-11-04-ITEP-online",
-    "tag_name": "DC,online,automated-email",
-    "helpers": "Ben Marwick,Jeffrey Oliver,Chris Hamm,Austin Rutherford,Qinyun Lin,Joel Nitta",
-    "host_name": "Institute for Tribal Environmental Professionals",
-    "latitude": 45,
-    "start_date": "2020-11-04"
-  },
-  {
     "instructors": "Alexander Konovalov,Patrick McCann",
     "end_date": "2020-11-13",
     "url": "https://starescomp.github.io/2020-11-06-standrews/",
@@ -58,21 +43,6 @@
     "host_name": "University of St. Andrews",
     "latitude": 56.341221,
     "start_date": "2020-11-06"
-  },
-  {
-    "instructors": "Jon Jablonski,Torin White,Renata Curty",
-    "end_date": "2020-11-10",
-    "url": "https://ucsbcarpentry.github.io/2020-11-09-OpenRefine-online/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "University of California, Santa Barbara (online)",
-    "longitude": -1,
-    "slug": "2020-11-09-OpenRefine-online",
-    "tag_name": "LC,online,automated-email",
-    "helpers": "Kristi Liu",
-    "host_name": "University of California Santa Barbara",
-    "latitude": 45,
-    "start_date": "2020-11-09"
   },
   {
     "instructors": "Brett Longworth,Arianna Krinos",
@@ -360,6 +330,21 @@
     "start_date": "2020-11-23"
   },
   {
+    "instructors": "Christopher Cave-Ayland,Iain Barrass",
+    "end_date": "2020-11-27",
+    "url": "https://rits.github-pages.ucl.ac.uk/2020-11-25-rslondon",
+    "country": "GB",
+    "curriculum": "swc-python-gapminder",
+    "venue": "Research Software London (online)",
+    "longitude": -1,
+    "slug": "2020-11-25-rslondon",
+    "tag_name": "SWC",
+    "helpers": "Jazz Mack Smith,Jeremy Cohen,Tony Yang,Jay DesLauriers,Matt Alexandrakis",
+    "host_name": "University College London",
+    "latitude": 45,
+    "start_date": "2020-11-25"
+  },
+  {
     "instructors": "Sherry Lake,Robin Donatello,Jesse Johnston",
     "end_date": "2020-12-04",
     "url": "https://shlake.github.io/2020-12-01-Clemson-online-NNLM/",
@@ -405,21 +390,6 @@
     "start_date": "2020-12-01"
   },
   {
-    "instructors": "Wolmar Nyberg Åkerström,Niclas Jareborg,Elin Kronander",
-    "end_date": "2020-12-03",
-    "url": "https://nbisweden.github.io/workshop-dm-practices/",
-    "country": "SE",
-    "curriculum": "mix-and-match",
-    "venue": "Uppsala University, SciLifeLab, BMC,",
-    "longitude": 17.63734,
-    "slug": "2020-12-01-nbis",
-    "tag_name": "Circuits",
-    "helpers": null,
-    "host_name": "National Bioinformatics Infrastructure Sweden",
-    "latitude": 59.84151,
-    "start_date": "2020-12-01"
-  },
-  {
     "instructors": "Paul Hancock",
     "end_date": "2020-12-03",
     "url": "https://curtinic.github.io/2020-12-02-curtin/",
@@ -433,6 +403,21 @@
     "host_name": "Curtin University",
     "latitude": -32.007159,
     "start_date": "2020-12-02"
+  },
+  {
+    "instructors": "Sarah Stevens,Jason Williams",
+    "end_date": "2020-12-04",
+    "url": "http://sarahlrstevens.info/2020-12-03-ttt-online-sbdh/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-12-03-ttt-online-sbdh",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-12-03"
   },
   {
     "instructors": "Jannetta Steyn,Rebecca Osselton,David Herbert",
@@ -568,5 +553,20 @@
     "host_name": "Langebio",
     "latitude": 19,
     "start_date": "2021-01-29"
+  },
+  {
+    "instructors": "Wolmar Nyberg Åkerström,Niclas Jareborg,Elin Kronander",
+    "end_date": "2021-04-15",
+    "url": "https://nbisweden.github.io/workshop-dm-practices/",
+    "country": "SE",
+    "curriculum": "mix-and-match",
+    "venue": "Uppsala University, SciLifeLab, BMC,",
+    "longitude": 17.63734,
+    "slug": "2021-04-13-nbis",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "National Bioinformatics Infrastructure Sweden",
+    "latitude": 59.84151,
+    "start_date": "2021-04-13"
   }
 ]

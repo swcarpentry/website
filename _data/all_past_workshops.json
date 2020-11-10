@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Jon Jablonski,Torin White,Renata Curty",
+    "end_date": "2020-11-10",
+    "url": "https://ucsbcarpentry.github.io/2020-11-09-OpenRefine-online/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "University of California, Santa Barbara (online)",
+    "longitude": -1,
+    "slug": "2020-11-09-OpenRefine-online",
+    "tag_name": "LC,online,automated-email",
+    "helpers": "Kristi Liu",
+    "host_name": "University of California Santa Barbara",
+    "latitude": 45,
+    "start_date": "2020-11-09"
+  },
+  {
     "instructors": "Uwe Hilgert,Kelsey Gonzalez,Isabella Viney,Kathryn Busby",
     "end_date": "2020-11-08",
     "url": "https://UA-Carpentries-Workshops.github.io/2020-11-07-Tucson",
@@ -58,6 +73,21 @@
     "host_name": "Instructor Training",
     "latitude": null,
     "start_date": "2020-11-05"
+  },
+  {
+    "instructors": "Jessica Kunke,Kunal Marwaha,Rohit Goswami",
+    "end_date": "2020-11-10",
+    "url": "https://marwahaha.github.io/2020-11-04-ITEP-online",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "Institute for Tribal Environmental Professionals (online)",
+    "longitude": -1,
+    "slug": "2020-11-04-ITEP-online",
+    "tag_name": "DC,online,automated-email",
+    "helpers": "Ben Marwick,Jeffrey Oliver,Chris Hamm,Austin Rutherford,Qinyun Lin,Joel Nitta",
+    "host_name": "Institute for Tribal Environmental Professionals",
+    "latitude": 45,
+    "start_date": "2020-11-04"
   },
   {
     "instructors": "Patrice-Andre Prud'homme,Ezgi Irmak Yucel,Preethy Nair,Rayvn Manuel",

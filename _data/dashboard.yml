@@ -307,7 +307,7 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/766'}
   - {number: 761, title: Best practices to switch from master to main, updated: '2020-10-28',
     url: 'https://github.com/swcarpentry/git-novice/issues/761'}
-  - {number: 759, title: Suggestion for improving the git staging area graphic, updated: '2020-11-08',
+  - {number: 759, title: Suggestion for improving the git staging area graphic, updated: '2020-11-09',
     url: 'https://github.com/swcarpentry/git-novice/issues/759'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
@@ -850,7 +850,7 @@ records:
     updated: '2020-09-22', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/633'}
   - {number: 657, title: 'Define fuzzy search in Seeking Help episode ', updated: '2020-09-25',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/657'}
-  - {number: 540, title: Remove plyr dependency, updated: '2020-11-09', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/540'}
+  - {number: 540, title: Remove plyr dependency, updated: '2020-11-10', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/540'}
   pulls:
   - {number: 552, title: Make gentler intro for ggplot2 lesson, updated: '2019-08-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/552'}
@@ -889,9 +889,7 @@ records:
     url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/202'}
   - {number: 221, title: Add else statements to True and False Execise, updated: '2020-04-17',
     url: 'https://github.com/swcarpentry/matlab-novice-inflammation/issues/221'}
-  pulls:
-  - {number: 230, title: make lesson suitable for teaching with locally-built (serverless)
-      pages, updated: '2020-11-09', url: 'https://github.com/swcarpentry/matlab-novice-inflammation/pull/230'}
+  pulls: []
   url: https://github.com/swcarpentry/matlab-novice-inflammation
 - description: Make
   ident: swcarpentry/make-novice
@@ -1020,25 +1018,11 @@ records:
       autoemail, updated: '2020-10-22', url: 'https://github.com/carpentries/amy/issues/1727'}
   - {number: 1738, title: Include registration code in search function, updated: '2020-11-03',
     url: 'https://github.com/carpentries/amy/issues/1738'}
-  - {number: 1563, title: TTT events - open/member seats for learners only, updated: '2020-11-05',
-    url: 'https://github.com/carpentries/amy/issues/1563'}
-  - {number: 1644, title: Add date feature to Self-Organised Workshop Request Form,
-    updated: '2020-11-06', url: 'https://github.com/carpentries/amy/issues/1644'}
-  - {number: 1562, title: TTT Open applications - check by default, updated: '2020-11-07',
-    url: 'https://github.com/carpentries/amy/issues/1562'}
   - {number: 1561, title: 'Workshop Request Form: Not Adding all Tags Automatically',
     updated: '2020-11-08', url: 'https://github.com/carpentries/amy/issues/1561'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
-  - {number: 1745, title: Add GitHub Action for building and deploying docs, updated: '2020-11-09',
-    url: 'https://github.com/carpentries/amy/pull/1745'}
-  - {number: 1744, title: Automatically check "TTT Open applications" when TTT tag
-      is selected, updated: '2020-11-09', url: 'https://github.com/carpentries/amy/pull/1744'}
-  - {number: 1743, title: Enforce learner for seat open/member task, updated: '2020-11-09',
-    url: 'https://github.com/carpentries/amy/pull/1743'}
-  - {number: 1742, title: 'Self-Organised Submissions: start, end date fields.', updated: '2020-11-09',
-    url: 'https://github.com/carpentries/amy/pull/1742'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1052,4 +1036,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-11-09T18:48:01Z'
+timestamp: '2020-11-10T19:00:57Z'
