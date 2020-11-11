@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Kyrre Låberg,Dan Michael Heggø",
+    "end_date": "2020-11-11",
+    "url": "https://uio-carpentry.github.io/2020-11-11-uio-online/",
+    "country": "NO",
+    "curriculum": "mix-and-match",
+    "venue": "University of Oslo (online)",
+    "longitude": 10.722343,
+    "slug": "2020-11-11-uio-online",
+    "tag_name": "online,Circuits",
+    "helpers": "Viviane Girardin",
+    "host_name": "University of Oslo",
+    "latitude": 59.938476,
+    "start_date": "2020-11-11"
+  },
+  {
+    "instructors": "Kamilla Kopec-Harding,Antonia Mey,Douglas Lowe",
+    "end_date": "2020-11-11",
+    "url": "https://softwaresaved.github.io/2020-11-10-ssi-online/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "Software Sustainability Institute (online)",
+    "longitude": -1,
+    "slug": "2020-11-10-ssi-online",
+    "tag_name": "SWC,online",
+    "helpers": "Aleksandra Nenadic,Robert Nagy",
+    "host_name": "University of Manchester",
+    "latitude": 45,
+    "start_date": "2020-11-10"
+  },
+  {
     "instructors": "Jon Jablonski,Torin White,Renata Curty",
     "end_date": "2020-11-10",
     "url": "https://ucsbcarpentry.github.io/2020-11-09-OpenRefine-online/",
@@ -1179,7 +1209,7 @@
     "longitude": -1,
     "slug": "2020-09-21-SWC-Gapminder",
     "tag_name": "SWC,online,automated-email",
-    "helpers": "Dafne van Kuppevelt,Sven van den Burg",
+    "helpers": "Dafne van Kuppevelt,Sven van der Burg",
     "host_name": "Netherlands eScience Center",
     "latitude": 45,
     "start_date": "2020-09-21"
