@@ -45,6 +45,21 @@
     "start_date": "2020-11-09"
   },
   {
+    "instructors": "Jesse Johnston,Annajiat Alim Rasel,Elnaz Amanzadeh Jajin",
+    "end_date": "2020-11-12",
+    "url": "https://annajiat.github.io/2020-11-09-american-online/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "American University (online)",
+    "longitude": 0,
+    "slug": "2020-11-09-american-online",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": null,
+    "host_name": "American University",
+    "latitude": 0,
+    "start_date": "2020-11-09"
+  },
+  {
     "instructors": "Uwe Hilgert,Kelsey Gonzalez,Isabella Viney,Kathryn Busby",
     "end_date": "2020-11-08",
     "url": "https://UA-Carpentries-Workshops.github.io/2020-11-07-Tucson",

@@ -60,21 +60,6 @@
     "start_date": "2020-11-09"
   },
   {
-    "instructors": "Jesse Johnston,Annajiat Alim Rasel,Elnaz Amanzadeh Jajin",
-    "end_date": "2020-11-12",
-    "url": "https://annajiat.github.io/2020-11-09-american-online/",
-    "country": "US",
-    "curriculum": "swc-python-gapminder",
-    "venue": "American University (online)",
-    "longitude": 0,
-    "slug": "2020-11-09-american-online",
-    "tag_name": "SWC,online,automated-email",
-    "helpers": null,
-    "host_name": "American University",
-    "latitude": 0,
-    "start_date": "2020-11-09"
-  },
-  {
     "instructors": "Chaochih Liu,Caitlin Bakker",
     "end_date": "2020-11-13",
     "url": "https://cjbakker.github.io/2020-11-09-umntc/",
@@ -255,6 +240,21 @@
     "start_date": "2020-11-17"
   },
   {
+    "instructors": null,
+    "end_date": "2020-11-19",
+    "url": "https://edcarp.github.io/2020-11-17-edinburgh-swc-online/",
+    "country": "W3",
+    "curriculum": "swc-python",
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-11-17-edinburgh-swc-online",
+    "tag_name": "SWC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": -48.876667,
+    "start_date": "2020-11-17"
+  },
+  {
     "instructors": "Trisha Adamus,Abigail Sparling,Jennifer Lee",
     "end_date": "2020-11-18",
     "url": "https://tadamus.github.io/2020-11-17-uwm-online/",
@@ -313,6 +313,21 @@
     "host_name": "Swansea University",
     "latitude": 51.7,
     "start_date": "2020-11-23"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-11-27",
+    "url": "https://edcarp.github.io/2020-11-25-edinburgh-dc-digital-humanities/",
+    "country": "W3",
+    "curriculum": "dc-other",
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-11-25-edinburgh-dc-digital-humanities",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "University of Edinburgh",
+    "latitude": -48.876667,
+    "start_date": "2020-11-25"
   },
   {
     "instructors": "Christopher Cave-Ayland,Iain Barrass",

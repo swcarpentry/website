@@ -459,6 +459,8 @@ records:
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/319'}
   - {number: 326, title: 'Suggestion: run an example query before applying .mode column
       .header on', updated: '2020-09-29', url: 'https://github.com/swcarpentry/sql-novice-survey/issues/326'}
+  - {number: 329, title: 'Sharing experiences: How much time is needed for this lesson?',
+    updated: '2020-11-12', url: 'https://github.com/swcarpentry/sql-novice-survey/issues/329'}
   pulls:
   - {number: 274, title: adding a solution of a challange (Ordering When Concatenating),
     updated: '2018-12-13', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/274'}
@@ -971,8 +973,6 @@ records:
   - {number: 1462, title: Allow admin user to edit membership variants, updated: '2019-09-12',
     url: 'https://github.com/carpentries/amy/issues/1462'}
   - {number: 1527, title: Google Analytics tracking code, updated: '2019-09-15', url: 'https://github.com/carpentries/amy/issues/1527'}
-  - {number: 1534, title: Remove deprecated features of AMY, updated: '2019-09-21',
-    url: 'https://github.com/carpentries/amy/issues/1534'}
   - {number: 1557, title: Provide more control for visibility of curricula, updated: '2019-10-08',
     url: 'https://github.com/carpentries/amy/issues/1557'}
   - {number: 1571, title: Connecting Membership Organisation and Workshops, updated: '2019-11-08',
@@ -995,8 +995,6 @@ records:
   - {number: 1515, title: All queries should be exportable, updated: '2020-09-02',
     url: 'https://github.com/carpentries/amy/issues/1515'}
   - {number: 1484, title: Track changed metadata, updated: '2020-09-02', url: 'https://github.com/carpentries/amy/issues/1484'}
-  - {number: 1707, title: Copy automatically additional contacts from Workshop Request
-      to Event, updated: '2020-09-06', url: 'https://github.com/carpentries/amy/issues/1707'}
   - {number: 1687, title: Allow editing of recipients in email previews, updated: '2020-09-06',
     url: 'https://github.com/carpentries/amy/issues/1687'}
   - {number: 1624, title: Name matching on workshop request forms, updated: '2020-09-22',
@@ -1018,16 +1016,22 @@ records:
     updated: '2020-11-08', url: 'https://github.com/carpentries/amy/issues/1561'}
   - {number: 1716, title: 'Include Supporting Instructors in count in  "Unpublished
       workshops" table ', updated: '2020-11-11', url: 'https://github.com/carpentries/amy/issues/1716'}
+  - {number: 1707, title: Copy automatically additional contacts from Workshop Request
+      to Event, updated: '2020-11-11', url: 'https://github.com/carpentries/amy/issues/1707'}
+  - {number: 1534, title: Remove deprecated features of AMY, updated: '2020-11-11',
+    url: 'https://github.com/carpentries/amy/issues/1534'}
   - {number: 1516, title: Update "current"/ "unpublished" requirements, updated: '2020-11-11',
     url: 'https://github.com/carpentries/amy/issues/1516'}
+  - {number: 1749, title: Gather consent during profile creation, updated: '2020-11-12',
+    url: 'https://github.com/carpentries/amy/issues/1749'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
-  - {number: 1748, title: Extend AskForWebsite with supporting instructor role, updated: '2020-11-11',
+  - {number: 1748, title: Extend AskForWebsite with supporting instructor role, updated: '2020-11-12',
     url: 'https://github.com/carpentries/amy/pull/1748'}
   - {number: 1747, title: 'Admin dashboard: change conditions and calculations in
-      "Current events", "Unpublished events" columns', updated: '2020-11-11', url: 'https://github.com/carpentries/amy/pull/1747'}
-  - {number: 1746, title: Prefill WRF accept and create a new event form, updated: '2020-11-11',
+      "Current events", "Unpublished events" columns', updated: '2020-11-12', url: 'https://github.com/carpentries/amy/pull/1747'}
+  - {number: 1746, title: Prefill WRF accept and create a new event form, updated: '2020-11-12',
     url: 'https://github.com/carpentries/amy/pull/1746'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
@@ -1042,4 +1046,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-11-11T18:46:35Z'
+timestamp: '2020-11-12T18:54:41Z'
