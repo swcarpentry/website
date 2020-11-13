@@ -30,21 +30,6 @@
     "start_date": "2020-10-29"
   },
   {
-    "instructors": "Alexander Konovalov,Patrick McCann",
-    "end_date": "2020-11-13",
-    "url": "https://starescomp.github.io/2020-11-06-standrews/",
-    "country": "GB",
-    "curriculum": "swc-python-gapminder",
-    "venue": "University of St Andrews",
-    "longitude": -2.793284,
-    "slug": "2020-11-06-standrews",
-    "tag_name": "SWC,online",
-    "helpers": "Allen Kelly",
-    "host_name": "University of St. Andrews",
-    "latitude": 56.341221,
-    "start_date": "2020-11-06"
-  },
-  {
     "instructors": "Brett Longworth,Arianna Krinos",
     "end_date": "2020-11-18",
     "url": "https://blongworth.github.io/2020-11-09-WHOI-R/",
@@ -57,21 +42,6 @@
     "helpers": "Stace Beaulieu",
     "host_name": "Woods Hole Oceanographic Institute",
     "latitude": 41.523998,
-    "start_date": "2020-11-09"
-  },
-  {
-    "instructors": "Chaochih Liu,Caitlin Bakker",
-    "end_date": "2020-11-13",
-    "url": "https://cjbakker.github.io/2020-11-09-umntc/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "University of Minnesota - Twin Cities (online)",
-    "longitude": -93,
-    "slug": "2020-11-09-umntc",
-    "tag_name": "online,Circuits,automated-email",
-    "helpers": "Elena Auer,Wanda Marsolek",
-    "host_name": "University of Minnesota",
-    "latitude": 45,
     "start_date": "2020-11-09"
   },
   {
@@ -105,36 +75,6 @@
     "start_date": "2020-11-10"
   },
   {
-    "instructors": "Thomas Guignard,Daniel Wheeler,Sarah Lin,Benson Muite",
-    "end_date": "2020-11-13",
-    "url": "https://labs.timtom.ch/2020-11-12-NNLM-online/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "Network of the National Library of Medicine (online)",
-    "longitude": -1,
-    "slug": "2020-11-12-NNLM-online",
-    "tag_name": "LC,online,automated-email",
-    "helpers": "Kim Pham,Clara Turp",
-    "host_name": "Network of the National Library of Medicine",
-    "latitude": 45,
-    "start_date": "2020-11-12"
-  },
-  {
-    "instructors": "Kathy Yeater",
-    "end_date": "2020-11-13",
-    "url": "https://kyeater.github.io/2020-11-12-agronomy-online/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "ASA-CSSA-SSSA (online)",
-    "longitude": -77.03,
-    "slug": "2020-11-12-agronomy-online",
-    "tag_name": "online,Circuits,automated-email",
-    "helpers": null,
-    "host_name": "United States Deparment of Agriculture",
-    "latitude": 38.9,
-    "start_date": "2020-11-12"
-  },
-  {
     "instructors": "Nilani Ganeshwaran,Phil Reed,Carlene Barton",
     "end_date": "2020-12-10",
     "url": "https://uom-nilani.github.io/2020-11-12-cilip-mdg/",
@@ -162,36 +102,6 @@
     "helpers": "Katie Wilson",
     "host_name": "University of Minnesota",
     "latitude": 0,
-    "start_date": "2020-11-12"
-  },
-  {
-    "instructors": "Konrad Förstner,Annika Rockenberger",
-    "end_date": "2020-11-13",
-    "url": "https://zbmed.github.io/2020-11-12-ttt-online-CET/",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2020-11-12-ttt-online-CET",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": -48.876667,
-    "start_date": "2020-11-12"
-  },
-  {
-    "instructors": "Erin Becker,Karen Word",
-    "end_date": "2020-11-13",
-    "url": "https://erinbecker.github.io/2020-11-12-ttt-uw/",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2020-11-12-ttt-uw",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": -48.876667,
     "start_date": "2020-11-12"
   },
   {
@@ -332,16 +242,16 @@
   {
     "instructors": "Christopher Cave-Ayland,Iain Barrass",
     "end_date": "2020-11-27",
-    "url": "https://rits.github-pages.ucl.ac.uk/2020-11-25-rslondon",
-    "country": "GB",
+    "url": "https://rslondon.github.io/2020-11-25-rslondon/",
+    "country": "W3",
     "curriculum": "swc-python-gapminder",
-    "venue": "Research Software London (online)",
-    "longitude": -1,
+    "venue": "Internet",
+    "longitude": -123.393333,
     "slug": "2020-11-25-rslondon",
     "tag_name": "SWC",
     "helpers": "Jazz Mack Smith,Jeremy Cohen,Tony Yang,Jay DesLauriers,Matt Alexandrakis",
     "host_name": "University College London",
-    "latitude": 45,
+    "latitude": -48.876667,
     "start_date": "2020-11-25"
   },
   {

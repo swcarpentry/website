@@ -677,6 +677,7 @@ records:
       how to structure CSV files, updated: '2020-11-01', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/886'}
   - {number: 884, title: 'Contribution: Repeating Actions with Loops', updated: '2020-11-03',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/884'}
+  - {number: 887, title: Overarching Narrative, updated: '2020-11-13', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/887'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -1012,27 +1013,19 @@ records:
       autoemail, updated: '2020-10-22', url: 'https://github.com/carpentries/amy/issues/1727'}
   - {number: 1738, title: Include registration code in search function, updated: '2020-11-03',
     url: 'https://github.com/carpentries/amy/issues/1738'}
-  - {number: 1561, title: 'Workshop Request Form: Not Adding all Tags Automatically',
-    updated: '2020-11-08', url: 'https://github.com/carpentries/amy/issues/1561'}
   - {number: 1716, title: 'Include Supporting Instructors in count in  "Unpublished
       workshops" table ', updated: '2020-11-11', url: 'https://github.com/carpentries/amy/issues/1716'}
-  - {number: 1707, title: Copy automatically additional contacts from Workshop Request
-      to Event, updated: '2020-11-11', url: 'https://github.com/carpentries/amy/issues/1707'}
   - {number: 1534, title: Remove deprecated features of AMY, updated: '2020-11-11',
     url: 'https://github.com/carpentries/amy/issues/1534'}
-  - {number: 1516, title: Update "current"/ "unpublished" requirements, updated: '2020-11-11',
-    url: 'https://github.com/carpentries/amy/issues/1516'}
   - {number: 1749, title: Gather consent during profile creation, updated: '2020-11-12',
     url: 'https://github.com/carpentries/amy/issues/1749'}
+  - {number: 1516, title: Update "current"/ "unpublished" requirements, updated: '2020-11-13',
+    url: 'https://github.com/carpentries/amy/issues/1516'}
   pulls:
   - {number: 1203, title: Add support for PostgreSQL (second attempt), updated: '2019-06-19',
     url: 'https://github.com/carpentries/amy/pull/1203'}
-  - {number: 1748, title: Extend AskForWebsite with supporting instructor role, updated: '2020-11-12',
-    url: 'https://github.com/carpentries/amy/pull/1748'}
   - {number: 1747, title: 'Admin dashboard: change conditions and calculations in
       "Current events", "Unpublished events" columns', updated: '2020-11-12', url: 'https://github.com/carpentries/amy/pull/1747'}
-  - {number: 1746, title: Prefill WRF accept and create a new event form, updated: '2020-11-12',
-    url: 'https://github.com/carpentries/amy/pull/1746'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1046,4 +1039,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-11-12T18:54:41Z'
+timestamp: '2020-11-13T18:40:52Z'
