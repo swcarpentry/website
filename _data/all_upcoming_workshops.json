@@ -150,7 +150,7 @@
     "start_date": "2020-11-17"
   },
   {
-    "instructors": null,
+    "instructors": "Mario Antonioletti,David McKain,Bailey Harrington",
     "end_date": "2020-11-19",
     "url": "https://edcarp.github.io/2020-11-17-edinburgh-swc-online/",
     "country": "W3",
@@ -159,7 +159,7 @@
     "longitude": -123.393333,
     "slug": "2020-11-17-edinburgh-swc-online",
     "tag_name": "SWC",
-    "helpers": null,
+    "helpers": "Giacomo Peru,Magnus Hagdorn,Matthew Hamilton,Robert Nagy",
     "host_name": "University of Edinburgh",
     "latitude": -48.876667,
     "start_date": "2020-11-17"
@@ -178,6 +178,21 @@
     "host_name": "University of Wisconsin-Milwaukee",
     "latitude": 43.078263,
     "start_date": "2020-11-17"
+  },
+  {
+    "instructors": "Sunil Shende,Heather Ciallella,Liam Sharp,Aayush Yadav",
+    "end_date": "2020-11-21",
+    "url": "https://lms464.github.io/2020-11-20-Rutgers-SWC/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "Rutgers University-Camden",
+    "longitude": -75.1232038,
+    "slug": "2020-11-20-Rutgers-SWC",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": "Siddharth Bhadra-Lobo,Jesse Sandberg",
+    "host_name": "Rutgers University - Camden",
+    "latitude": 39.9475395,
+    "start_date": "2020-11-20"
   },
   {
     "instructors": "Timo Gnadt,Claudia Engelhardt,Laura Josephine Botzet",
@@ -225,7 +240,7 @@
     "start_date": "2020-11-23"
   },
   {
-    "instructors": null,
+    "instructors": "Mario Antonioletti,Lucia Michielin,Matthew Hamilton",
     "end_date": "2020-11-27",
     "url": "https://edcarp.github.io/2020-11-25-edinburgh-dc-digital-humanities/",
     "country": "W3",
@@ -234,7 +249,7 @@
     "longitude": -123.393333,
     "slug": "2020-11-25-edinburgh-dc-digital-humanities",
     "tag_name": "DC",
-    "helpers": null,
+    "helpers": "Jennifer Daub,Robert Nagy,Bailey Harrington",
     "host_name": "University of Edinburgh",
     "latitude": -48.876667,
     "start_date": "2020-11-25"
@@ -403,6 +418,21 @@
     "host_name": "National Oceanic and Atmospheric Administration",
     "latitude": 45,
     "start_date": "2020-12-08"
+  },
+  {
+    "instructors": "Jeffrey Oliver,Ariel Deardorff",
+    "end_date": "2020-12-10",
+    "url": "https://arieldeardorff.github.io/2020-12-09-ttt-online-PST/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-12-09-ttt-online-PST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-12-09"
   },
   {
     "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
