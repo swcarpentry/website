@@ -769,7 +769,7 @@ records:
   - {number: 875, title: Update 01-intro.md, updated: '2020-10-07', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/875'}
   - {number: 876, title: Revision to Code Sample, updated: '2020-10-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/876'}
   - {number: 888, title: Added an image description for linflammation-01-imshow.svg
-      in 03-matplotlib.md, updated: '2020-11-16', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/888'}
+      in 03-matplotlib.md, updated: '2020-11-17', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/888'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1043,4 +1043,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-11-16T18:45:59Z'
+timestamp: '2020-11-17T18:55:21Z'

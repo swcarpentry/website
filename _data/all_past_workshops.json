@@ -69,7 +69,7 @@
     "longitude": 10.722343,
     "slug": "2020-11-11-uio-online",
     "tag_name": "online,Circuits",
-    "helpers": "Viviane Girardin",
+    "helpers": "Viviane Girardin,Erik Winge",
     "host_name": "University of Oslo",
     "latitude": 59.938476,
     "start_date": "2020-11-11"
@@ -234,13 +234,13 @@
     "longitude": -1,
     "slug": "2020-11-03-umaryland-online",
     "tag_name": "LC,online,automated-email",
-    "helpers": null,
+    "helpers": "Kay Bjornen,Clarke Iakovakis,JP Courneya,Brian Zelip",
     "host_name": "University of Maryland, Baltimore",
     "latitude": 45,
     "start_date": "2020-11-03"
   },
   {
-    "instructors": "David Yakobovitch,Annajiat Alim Rasel",
+    "instructors": "David Yakobovitch,Timothy Norris,Annajiat Alim Rasel",
     "end_date": "2020-11-06",
     "url": "https://davidyakobovitch.github.io/2020-11-03-umiami-NNLM-online/",
     "country": "US",
@@ -249,7 +249,7 @@
     "longitude": 0,
     "slug": "2020-11-03-umiami-NNLM-online",
     "tag_name": "LC,online,automated-email",
-    "helpers": null,
+    "helpers": "Cameron Riopelle,Thilani Samarakoon",
     "host_name": "University of Miami",
     "latitude": 0,
     "start_date": "2020-11-03"
@@ -279,7 +279,7 @@
     "longitude": -90,
     "slug": "2020-10-30-betterlab",
     "tag_name": "Circuits,automated-email",
-    "helpers": null,
+    "helpers": "Vanessa Arellano,Maria Jose Cambero,Citlalli Montes,Aaron Jaime",
     "host_name": "Langebio",
     "latitude": 19,
     "start_date": "2020-10-30"
@@ -399,7 +399,7 @@
     "longitude": -1,
     "slug": "2020-10-26-dc-online",
     "tag_name": "online,Circuits,automated-email",
-    "helpers": "Astrid Orth,Harald Kusch",
+    "helpers": "Astrid Orth,Harald Kusch,Andre Pfeifer,Ortrun Brand",
     "host_name": "University of Göttingen",
     "latitude": 45,
     "start_date": "2020-10-26"
@@ -414,7 +414,7 @@
     "longitude": -1,
     "slug": "2020-10-26-okstate",
     "tag_name": "online,Circuits,automated-email",
-    "helpers": "LIZBETH PENA-ZUNIGA,Jati Ariati,Jun Fu",
+    "helpers": "Kay Bjornen,Clarke Iakovakis,Bill Yi,Jati Ariati,Franklin Fondj,Jill Krefft",
     "host_name": "Oklahoma State University",
     "latitude": 45,
     "start_date": "2020-10-26"
@@ -459,7 +459,7 @@
     "longitude": -114.843043,
     "slug": "2020-10-22-usbr",
     "tag_name": "SWC,online,automated-email",
-    "helpers": null,
+    "helpers": "Troy Wirth,Balaji Ramakrishnan",
     "host_name": "Bureau of Reclamation",
     "latitude": 35.978197,
     "start_date": "2020-10-22"
@@ -624,7 +624,7 @@
     "longitude": -1,
     "slug": "2020-10-19-umntc",
     "tag_name": "online,Circuits,automated-email",
-    "helpers": "Chaochih Liu,David Naughton",
+    "helpers": "Chaochih Liu,David Naughton,Sam Hamann",
     "host_name": "University of Minnesota",
     "latitude": 45,
     "start_date": "2020-10-19"
@@ -864,7 +864,7 @@
     "longitude": 4.37524,
     "slug": "2020-10-07-delft",
     "tag_name": "SWC,online,automated-email",
-    "helpers": "Kees den Heijer,Santosh Ilamparuthi,Yan Wang,Masha Rudneva,Lora Armstrong,Ashley Cryan,Amir Ebrahimi Fard,Niket Agrawal,Maurits Kok",
+    "helpers": "Kees den Heijer,Santosh Ilamparuthi,Yan Wang,Maria Rudneva,Lora Armstrong,Ashley Cryan,Amir Ebrahimi Fard,Niket Agrawal,Maurits Kok",
     "host_name": "Delft University of Technology",
     "latitude": 52.002677,
     "start_date": "2020-10-07"
@@ -1104,7 +1104,7 @@
     "longitude": -97.0737222,
     "slug": "2020-09-28-okstate",
     "tag_name": "online,Circuits,automated-email",
-    "helpers": "Evan Linde,Rob Burnap,Kevin Dyke,Hua Lin,Beth Jones,LIZBETH PENA-ZUNIGA,Christian Ayala,Jun Fu,Bill Yi,Franklin Fondj",
+    "helpers": "Evan Linde,Rob Burnap,Kevin Dyke,Hua Lin,Beth Jones,Bill Yi,LIZBETH PENA-ZUNIGA,Christian Ayala,Jun Fu,Franklin Fondj",
     "host_name": "Oklahoma State University",
     "latitude": 36.1270236,
     "start_date": "2020-09-28"
@@ -2724,7 +2724,7 @@
     "longitude": 4.37524,
     "slug": "2020-07-07-delft",
     "tag_name": "SWC,online,automated-email",
-    "helpers": "Raúl Ortiz-Merino,Heather Andrews,Nicolas Dintzner,Esther Plomp,Marcel van den Broek,Masha Rudneva",
+    "helpers": "Raúl Ortiz-Merino,Heather Andrews,Nicolas Dintzner,Esther Plomp,Marcel van den Broek,Maria Rudneva",
     "host_name": "Delft University of Technology",
     "latitude": 52.002677,
     "start_date": "2020-07-07"
@@ -5769,7 +5769,7 @@
     "longitude": 4.37524,
     "slug": "2020-02-03-delft",
     "tag_name": "DC",
-    "helpers": "Mateusz Kuzak,Esther Plomp,Yan Wang,Jeff Love,Masha Rudneva,Lora Armstrong",
+    "helpers": "Mateusz Kuzak,Esther Plomp,Yan Wang,Jeff Love,Maria Rudneva,Lora Armstrong",
     "host_name": "Delft University of Technology",
     "latitude": 52.00268,
     "start_date": "2020-02-03"
@@ -9253,6 +9253,21 @@
     "host_name": "University of New Mexico",
     "latitude": 35.174722,
     "start_date": "2019-09-25"
+  },
+  {
+    "instructors": "Kate Hertweck,Sarah Seymore,Karalyn Ostler,Rochelle Lundy",
+    "end_date": "2019-09-24",
+    "url": "https://rochellelundy.github.io/2019-09-24-UWSeattle/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "University of Washington",
+    "longitude": -122.311493,
+    "slug": "2019-09-24-UWSeattle",
+    "tag_name": "LC",
+    "helpers": "Erika Bailey",
+    "host_name": "University of Washington",
+    "latitude": 47.65527,
+    "start_date": "2019-09-24"
   },
   {
     "instructors": "Christopher Erdmann,Laura Wrubel,Jesse Johnston",
