@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Trisha Adamus,Abigail Sparling,Jennifer Lee",
+    "end_date": "2020-11-18",
+    "url": "https://tadamus.github.io/2020-11-17-uwm-online/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "University of Wisconsin-Milwaukee (online)",
+    "longitude": -87.8819686,
+    "slug": "2020-11-17-uwm-online",
+    "tag_name": "LC,online,automated-email",
+    "helpers": null,
+    "host_name": "University of Wisconsin-Milwaukee",
+    "latitude": 43.078263,
+    "start_date": "2020-11-17"
+  },
+  {
     "instructors": "Thomas Guignard,Daniel Wheeler,Sarah Lin,Benson Muite",
     "end_date": "2020-11-13",
     "url": "https://labs.timtom.ch/2020-11-12-NNLM-online/",
@@ -102,6 +117,21 @@
     "helpers": "Kristi Liu",
     "host_name": "University of California Santa Barbara",
     "latitude": 45,
+    "start_date": "2020-11-09"
+  },
+  {
+    "instructors": "Brett Longworth,Arianna Krinos",
+    "end_date": "2020-11-18",
+    "url": "https://blongworth.github.io/2020-11-09-WHOI-R/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Woods Hole Oceanographic Institution (online)",
+    "longitude": -70.660599,
+    "slug": "2020-11-09-WHOI-R",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": "Stace Beaulieu",
+    "host_name": "Woods Hole Oceanographic Institute",
+    "latitude": 41.523998,
     "start_date": "2020-11-09"
   },
   {

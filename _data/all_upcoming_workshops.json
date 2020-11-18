@@ -30,21 +30,6 @@
     "start_date": "2020-10-29"
   },
   {
-    "instructors": "Brett Longworth,Arianna Krinos",
-    "end_date": "2020-11-18",
-    "url": "https://blongworth.github.io/2020-11-09-WHOI-R/",
-    "country": "US",
-    "curriculum": "swc-reproducible-science",
-    "venue": "Woods Hole Oceanographic Institution (online)",
-    "longitude": -70.660599,
-    "slug": "2020-11-09-WHOI-R",
-    "tag_name": "SWC,online,automated-email",
-    "helpers": "Stace Beaulieu",
-    "host_name": "Woods Hole Oceanographic Institute",
-    "latitude": 41.523998,
-    "start_date": "2020-11-09"
-  },
-  {
     "instructors": "Miklós Koren",
     "end_date": "2020-11-26",
     "url": "https://ceu-economics-and-business.github.io/2020-11-10-ECBS-5241-Coding-for-Economists/",
@@ -165,21 +150,6 @@
     "start_date": "2020-11-17"
   },
   {
-    "instructors": "Trisha Adamus,Abigail Sparling,Jennifer Lee",
-    "end_date": "2020-11-18",
-    "url": "https://tadamus.github.io/2020-11-17-uwm-online/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "University of Wisconsin-Milwaukee (online)",
-    "longitude": -87.8819686,
-    "slug": "2020-11-17-uwm-online",
-    "tag_name": "LC,online,automated-email",
-    "helpers": null,
-    "host_name": "University of Wisconsin-Milwaukee",
-    "latitude": 43.078263,
-    "start_date": "2020-11-17"
-  },
-  {
     "instructors": "Steven Pryor",
     "end_date": "2020-11-19",
     "url": "https://swc-mizzou.github.io/2020-11-19-mizzou/",
@@ -252,6 +222,21 @@
     "helpers": "Ben Thorpe",
     "host_name": "Swansea University",
     "latitude": 51.7,
+    "start_date": "2020-11-23"
+  },
+  {
+    "instructors": "Angelique van Rensburg,Margareth Gfrerer",
+    "end_date": "2020-11-26",
+    "url": "https://angeliquevanrensburg.github.io/2020-11-23-ttt-online-ethiopia/",
+    "country": "ET",
+    "curriculum": null,
+    "venue": "The Carpentries Instructor Training",
+    "longitude": null,
+    "slug": "2020-11-23-ttt-online-ethiopia",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
     "start_date": "2020-11-23"
   },
   {
@@ -432,6 +417,21 @@
     "helpers": "Paul Hancock,Behrouz Khabbaz Beheshti",
     "host_name": "Curtin University",
     "latitude": -32.007159,
+    "start_date": "2020-12-07"
+  },
+  {
+    "instructors": "Aditya Bandla,Annajiat Alim Rasel,Ana Carolina Dantas Machado,Qinyun Lin",
+    "end_date": "2020-12-10",
+    "url": "https://annajiat.github.io/2020-12-07-spelman-SBDH/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "Spelman College jointly hosting with Morehouse College (online)",
+    "longitude": 0,
+    "slug": "2020-12-07-spelman-SBDH",
+    "tag_name": "DC,online,automated-email",
+    "helpers": null,
+    "host_name": "South Big Data Hub",
+    "latitude": 0,
     "start_date": "2020-12-07"
   },
   {
