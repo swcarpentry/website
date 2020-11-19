@@ -45,21 +45,6 @@
     "start_date": "2020-11-10"
   },
   {
-    "instructors": "Brook Moyers,Saranya Canchi,Alana Schick,Chandra Sarkar",
-    "end_date": "2020-11-19",
-    "url": "https://smcclatchy.github.io/2020-11-10-jackson/",
-    "country": "US",
-    "curriculum": "dc-genomics",
-    "venue": "The Jackson Laboratory (online)",
-    "longitude": -68.196691,
-    "slug": "2020-11-10-jackson",
-    "tag_name": "DC,online,automated-email",
-    "helpers": null,
-    "host_name": "Jackson Laboratory",
-    "latitude": 44.36591,
-    "start_date": "2020-11-10"
-  },
-  {
     "instructors": "Nilani Ganeshwaran,Phil Reed,Carlene Barton",
     "end_date": "2020-12-10",
     "url": "https://uom-nilani.github.io/2020-11-12-cilip-mdg/",
@@ -103,66 +88,6 @@
     "host_name": "University of Missouri",
     "latitude": 45,
     "start_date": "2020-11-13"
-  },
-  {
-    "instructors": "Azalee Bostroem,Allen Downey",
-    "end_date": "2020-11-19",
-    "url": "https://allendowney.github.io/2020-11-16-astrodc-online/",
-    "country": "US",
-    "curriculum": "dc-other",
-    "venue": "The Carpentries (online)",
-    "longitude": -1,
-    "slug": "2020-11-16-astrodc-online",
-    "tag_name": "DC,online,automated-email",
-    "helpers": "Erin Becker,Philip Rosenfield,Rodolfo Montez",
-    "host_name": "American Astronomical Society",
-    "latitude": 45,
-    "start_date": "2020-11-16"
-  },
-  {
-    "instructors": "Markus Ankenbrand,Florian Goth,Torsten Paul",
-    "end_date": "2020-11-19",
-    "url": "https://swcarpentry-wuerzburg.github.io/2020-11-17-Wuerzburg/",
-    "country": "DE",
-    "curriculum": "swc-python-gapminder",
-    "venue": "University of Würzburg (online)",
-    "longitude": 9.973887,
-    "slug": "2020-11-17-Wuerzburg",
-    "tag_name": "SWC,online,automated-email",
-    "helpers": null,
-    "host_name": "University of Wuerzburg",
-    "latitude": 49.785773,
-    "start_date": "2020-11-17"
-  },
-  {
-    "instructors": "Mario Antonioletti,David McKain,Bailey Harrington",
-    "end_date": "2020-11-19",
-    "url": "https://edcarp.github.io/2020-11-17-edinburgh-swc-online/",
-    "country": "GB",
-    "curriculum": "swc-python",
-    "venue": "University of Edinburgh",
-    "longitude": -123.393333,
-    "slug": "2020-11-17-edinburgh-swc-online",
-    "tag_name": "SWC",
-    "helpers": "Giacomo Peru,Magnus Hagdorn,Matthew Hamilton,Robert Nagy",
-    "host_name": "University of Edinburgh",
-    "latitude": -48.876667,
-    "start_date": "2020-11-17"
-  },
-  {
-    "instructors": "Steven Pryor",
-    "end_date": "2020-11-19",
-    "url": "https://swc-mizzou.github.io/2020-11-19-mizzou/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "University of Missouri (online)",
-    "longitude": -1,
-    "slug": "2020-11-19-mizzou",
-    "tag_name": "online,Circuits,automated-email",
-    "helpers": null,
-    "host_name": "University of Missouri",
-    "latitude": 45,
-    "start_date": "2020-11-19"
   },
   {
     "instructors": "Sunil Shende,Heather Ciallella,Liam Sharp,Aayush Yadav",
@@ -268,6 +193,21 @@
     "host_name": "University College London",
     "latitude": -48.876667,
     "start_date": "2020-11-25"
+  },
+  {
+    "instructors": "Tarun Bonu",
+    "end_date": "2020-11-26",
+    "url": "https://tarunbonu.github.io/2020-11-26-pawsey_training/",
+    "country": "AU",
+    "curriculum": "mix-and-match",
+    "venue": "Pawsey Supercomputing Centre",
+    "longitude": 115.883639,
+    "slug": "2020-11-26-pawsey_training",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "Pawsey Supercomputing Centre",
+    "latitude": -31.992633,
+    "start_date": "2020-11-26"
   },
   {
     "instructors": "Sherry Lake,Robin Donatello,Jesse Johnston",
@@ -538,6 +478,21 @@
     "host_name": "Delft University of Technology",
     "latitude": 52.002677,
     "start_date": "2021-01-14"
+  },
+  {
+    "instructors": "Ariel Deardorff,Saranya Canchi,Jacqueline Frisina,Annajiat Alim Rasel,Adrienne Canino",
+    "end_date": "2021-01-21",
+    "url": "https://arieldeardorff.github.io/2021-01-20-NNLM-online/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Network of the National Library of Medicine (NNLM) (online)",
+    "longitude": -1,
+    "slug": "2021-01-20-NNLM-online",
+    "tag_name": "LC,online,automated-email",
+    "helpers": null,
+    "host_name": "Network of the National Library of Medicine",
+    "latitude": 45,
+    "start_date": "2021-01-20"
   },
   {
     "instructors": "Peter Hoyt,Elise Lauterbur,Aditya Bandla,Leah Guthrie",

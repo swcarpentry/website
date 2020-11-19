@@ -767,7 +767,7 @@ records:
   - {number: 868, title: moved comment description to first lesson, updated: '2020-09-24',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/868'}
   - {number: 875, title: Update 01-intro.md, updated: '2020-10-07', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/875'}
-  - {number: 876, title: Revision to Code Sample, updated: '2020-10-09', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/876'}
+  - {number: 876, title: Revision to Code Sample, updated: '2020-11-19', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/876'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -827,6 +827,8 @@ records:
     updated: '2020-09-11', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/487'}
   - {number: 343, title: 'Packaging: refer to other resources', updated: '2020-11-02',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/343'}
+  - {number: 493, title: incorrect output in Reading and Writing CSV Files from r-novice-inflammation,
+    updated: '2020-11-19', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/493'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
@@ -1021,13 +1023,17 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1749'}
   - {number: 1516, title: Update "current"/ "unpublished" requirements, updated: '2020-11-13',
     url: 'https://github.com/carpentries/amy/issues/1516'}
-  - {number: 1534, title: Remove deprecated features of AMY, updated: '2020-11-15',
+  - {number: 1534, title: Remove deprecated features of AMY, updated: '2020-11-18',
     url: 'https://github.com/carpentries/amy/issues/1534'}
+  - {number: 1752, title: Viewing events assigned to others, updated: '2020-11-19',
+    url: 'https://github.com/carpentries/amy/issues/1752'}
   pulls:
   - {number: 1747, title: 'Admin dashboard: change conditions and calculations in
       "Current events", "Unpublished events" columns', updated: '2020-11-12', url: 'https://github.com/carpentries/amy/pull/1747'}
   - {number: 1750, title: 'Switch to PostgreSQL and upgrade dependencies, tests',
     updated: '2020-11-15', url: 'https://github.com/carpentries/amy/pull/1750'}
+  - {number: 1751, title: change heading for dashboard workshop list, updated: '2020-11-18',
+    url: 'https://github.com/carpentries/amy/pull/1751'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1041,4 +1047,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-11-18T18:49:22Z'
+timestamp: '2020-11-19T19:30:33Z'

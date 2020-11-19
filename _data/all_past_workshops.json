@@ -1,5 +1,50 @@
 [
   {
+    "instructors": "Steven Pryor",
+    "end_date": "2020-11-19",
+    "url": "https://swc-mizzou.github.io/2020-11-19-mizzou/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Missouri (online)",
+    "longitude": -1,
+    "slug": "2020-11-19-mizzou",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 45,
+    "start_date": "2020-11-19"
+  },
+  {
+    "instructors": "Markus Ankenbrand,Florian Goth,Torsten Paul",
+    "end_date": "2020-11-19",
+    "url": "https://swcarpentry-wuerzburg.github.io/2020-11-17-Wuerzburg/",
+    "country": "DE",
+    "curriculum": "swc-python-gapminder",
+    "venue": "University of Würzburg (online)",
+    "longitude": 9.973887,
+    "slug": "2020-11-17-Wuerzburg",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": null,
+    "host_name": "University of Wuerzburg",
+    "latitude": 49.785773,
+    "start_date": "2020-11-17"
+  },
+  {
+    "instructors": "Mario Antonioletti,David McKain,Bailey Harrington",
+    "end_date": "2020-11-19",
+    "url": "https://edcarp.github.io/2020-11-17-edinburgh-swc-online/",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "University of Edinburgh",
+    "longitude": -123.393333,
+    "slug": "2020-11-17-edinburgh-swc-online",
+    "tag_name": "SWC",
+    "helpers": "Giacomo Peru,Magnus Hagdorn,Matthew Hamilton,Robert Nagy",
+    "host_name": "University of Edinburgh",
+    "latitude": -48.876667,
+    "start_date": "2020-11-17"
+  },
+  {
     "instructors": "Trisha Adamus,Abigail Sparling,Jennifer Lee",
     "end_date": "2020-11-18",
     "url": "https://tadamus.github.io/2020-11-17-uwm-online/",
@@ -13,6 +58,21 @@
     "host_name": "University of Wisconsin-Milwaukee",
     "latitude": 43.078263,
     "start_date": "2020-11-17"
+  },
+  {
+    "instructors": "Azalee Bostroem,Allen Downey",
+    "end_date": "2020-11-19",
+    "url": "https://allendowney.github.io/2020-11-16-astrodc-online/",
+    "country": "US",
+    "curriculum": "dc-other",
+    "venue": "The Carpentries (online)",
+    "longitude": -1,
+    "slug": "2020-11-16-astrodc-online",
+    "tag_name": "DC,online,automated-email",
+    "helpers": "Erin Becker,Philip Rosenfield,Rodolfo Montez",
+    "host_name": "American Astronomical Society",
+    "latitude": 45,
+    "start_date": "2020-11-16"
   },
   {
     "instructors": "Thomas Guignard,Daniel Wheeler,Sarah Lin,Benson Muite",
@@ -88,6 +148,21 @@
     "host_name": "University of Oslo",
     "latitude": 59.938476,
     "start_date": "2020-11-11"
+  },
+  {
+    "instructors": "Brook Moyers,Saranya Canchi,Alana Schick,Chandra Sarkar",
+    "end_date": "2020-11-19",
+    "url": "https://smcclatchy.github.io/2020-11-10-jackson/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "The Jackson Laboratory (online)",
+    "longitude": -68.196691,
+    "slug": "2020-11-10-jackson",
+    "tag_name": "DC,online,automated-email",
+    "helpers": null,
+    "host_name": "Jackson Laboratory",
+    "latitude": 44.36591,
+    "start_date": "2020-11-10"
   },
   {
     "instructors": "Kamilla Kopec-Harding,Antonia Mey,Douglas Lowe",
@@ -384,7 +459,7 @@
     "longitude": -1,
     "slug": "2020-10-26-NCL-SWC-ONLINE",
     "tag_name": "SWC,online",
-    "helpers": "Frances Hutchings,Rebecca Osselton,Fiona Galston,Kate Court",
+    "helpers": "Annajiat Alim Rasel,Frances Hutchings,Rebecca Osselton,Fiona Galston,Kate Court",
     "host_name": "University of Newcastle",
     "latitude": 45,
     "start_date": "2020-10-26"
@@ -1680,7 +1755,7 @@
     "start_date": "2020-09-04"
   },
   {
-    "instructors": "Sara Mannheimer,Mark Greenwood",
+    "instructors": "Sara Mannheimer,Mark Greenwood,Greta Linse",
     "end_date": "2020-11-05",
     "url": "https://saramannheimer.github.io/2020-09-03-montana-state-university/",
     "country": "US",
@@ -1689,7 +1764,7 @@
     "longitude": -111.0546211,
     "slug": "2020-09-03-montana-state-university",
     "tag_name": "online,Circuits,automated-email",
-    "helpers": "Greta Linse",
+    "helpers": null,
     "host_name": "Montana State University",
     "latitude": 45.6673524,
     "start_date": "2020-09-03"
