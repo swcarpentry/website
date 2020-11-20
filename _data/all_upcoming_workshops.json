@@ -75,21 +75,6 @@
     "start_date": "2020-11-12"
   },
   {
-    "instructors": "Steven Pryor",
-    "end_date": "2020-11-20",
-    "url": "https://swc-mizzou.github.io/2020-11-13-mizzou/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "University of Missouri (online)",
-    "longitude": -1,
-    "slug": "2020-11-13-mizzou",
-    "tag_name": "online,Circuits,automated-email",
-    "helpers": null,
-    "host_name": "University of Missouri",
-    "latitude": 45,
-    "start_date": "2020-11-13"
-  },
-  {
     "instructors": "Sunil Shende,Heather Ciallella,Liam Sharp,Aayush Yadav",
     "end_date": "2020-11-21",
     "url": "https://lms464.github.io/2020-11-20-Rutgers-SWC/",

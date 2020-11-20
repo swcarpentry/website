@@ -158,14 +158,14 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1141'}
   - {number: 1144, title: Proposed improvement to Pipes & Filters episode, updated: '2020-10-08',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1144'}
-  - {number: 1154, title: Include an example for using 'cd -' for going to the previous
-      directory, updated: '2020-10-15', url: 'https://github.com/swcarpentry/shell-novice/issues/1154'}
   - {number: 1126, title: Add file extension to goostats and goodiff, updated: '2020-10-15',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1126'}
   - {number: 1124, title: segue into wc command, updated: '2020-10-15', url: 'https://github.com/swcarpentry/shell-novice/issues/1124'}
   - {number: 1118, title: Auto completion on commands, updated: '2020-10-15', url: 'https://github.com/swcarpentry/shell-novice/issues/1118'}
   - {number: 955, title: Wildcards content awkwardly split between episodes 3 and
       4, updated: '2020-10-20', url: 'https://github.com/swcarpentry/shell-novice/issues/955'}
+  - {number: 1154, title: Include an example for using 'cd -' for going to the previous
+      directory, updated: '2020-11-19', url: 'https://github.com/swcarpentry/shell-novice/issues/1154'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2020-04-17', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -309,6 +309,8 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/761'}
   - {number: 759, title: Suggestion for improving the git staging area graphic, updated: '2020-11-09',
     url: 'https://github.com/swcarpentry/git-novice/issues/759'}
+  - {number: 769, title: Suggestion for the clarification of `git diff` command in
+      the Tracking Changes lesson, updated: '2020-11-20', url: 'https://github.com/swcarpentry/git-novice/issues/769'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -768,6 +770,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/868'}
   - {number: 875, title: Update 01-intro.md, updated: '2020-10-07', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/875'}
   - {number: 876, title: Revision to Code Sample, updated: '2020-11-19', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/876'}
+  - {number: 890, title: 'WIP: .travis.yml: update based on styles repo change', updated: '2020-11-20',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/890'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1034,6 +1038,7 @@ records:
     updated: '2020-11-15', url: 'https://github.com/carpentries/amy/pull/1750'}
   - {number: 1751, title: change heading for dashboard workshop list, updated: '2020-11-18',
     url: 'https://github.com/carpentries/amy/pull/1751'}
+  - {number: 1753, title: Membership agreement link, updated: '2020-11-20', url: 'https://github.com/carpentries/amy/pull/1753'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1047,4 +1052,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-11-19T19:30:33Z'
+timestamp: '2020-11-20T19:39:28Z'

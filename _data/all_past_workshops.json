@@ -75,6 +75,21 @@
     "start_date": "2020-11-16"
   },
   {
+    "instructors": "Steven Pryor",
+    "end_date": "2020-11-20",
+    "url": "https://swc-mizzou.github.io/2020-11-13-mizzou/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Missouri (online)",
+    "longitude": -1,
+    "slug": "2020-11-13-mizzou",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 45,
+    "start_date": "2020-11-13"
+  },
+  {
     "instructors": "Thomas Guignard,Daniel Wheeler,Sarah Lin,Benson Muite",
     "end_date": "2020-11-13",
     "url": "https://labs.timtom.ch/2020-11-12-NNLM-online/",
