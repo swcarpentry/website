@@ -770,8 +770,6 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/868'}
   - {number: 875, title: Update 01-intro.md, updated: '2020-10-07', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/875'}
   - {number: 876, title: Revision to Code Sample, updated: '2020-11-19', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/876'}
-  - {number: 890, title: 'WIP: .travis.yml: update based on styles repo change', updated: '2020-11-20',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/890'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1052,4 +1050,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-11-20T19:39:28Z'
+timestamp: '2020-11-21T18:13:05Z'
