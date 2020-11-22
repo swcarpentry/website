@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Sunil Shende,Heather Ciallella,Liam Sharp,Aayush Yadav",
+    "end_date": "2020-11-21",
+    "url": "https://lms464.github.io/2020-11-20-Rutgers-SWC/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "Rutgers University-Camden",
+    "longitude": -75.1232038,
+    "slug": "2020-11-20-Rutgers-SWC",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": "Siddharth Bhadra-Lobo,Jesse Sandberg",
+    "host_name": "Rutgers University - Camden",
+    "latitude": 39.9475395,
+    "start_date": "2020-11-20"
+  },
+  {
     "instructors": "Steven Pryor",
     "end_date": "2020-11-19",
     "url": "https://swc-mizzou.github.io/2020-11-19-mizzou/",
