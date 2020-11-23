@@ -165,6 +165,21 @@
     "start_date": "2020-11-12"
   },
   {
+    "instructors": "Deborah (Debby) Kermer,Rohit Goswami,Sichong Peng,Chi-Hsiang Wang",
+    "end_date": "2020-11-13",
+    "url": "https://sichongp.github.io/2020-11-11-cmu-online/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "Carnegie Mellon University (online)",
+    "longitude": null,
+    "slug": "2020-11-11-cmu-online",
+    "tag_name": "DC,online,automated-email",
+    "helpers": null,
+    "host_name": "Carnegie Mellon University",
+    "latitude": null,
+    "start_date": "2020-11-11"
+  },
+  {
     "instructors": "Kyrre Låberg,Dan Michael Heggø",
     "end_date": "2020-11-11",
     "url": "https://uio-carpentry.github.io/2020-11-11-uio-online/",
@@ -249,7 +264,7 @@
     "longitude": 0,
     "slug": "2020-11-09-american-online",
     "tag_name": "SWC,online,automated-email",
-    "helpers": null,
+    "helpers": "Stefan Kramer,Amanda Steadman",
     "host_name": "American University",
     "latitude": 0,
     "start_date": "2020-11-09"
@@ -519,7 +534,7 @@
     "longitude": -70,
     "slug": "2020-10-26-WHOI-Data",
     "tag_name": "online,Circuits,automated-email",
-    "helpers": "Stace Beaulieu",
+    "helpers": "Harriet Alexander,Stace Beaulieu,Joe Futrelle,Brett Longworth,Stewart Jamieson,Arianna Krinos,Ryan Govostes",
     "host_name": "Woods Hole Oceanographic Institute",
     "latitude": 41,
     "start_date": "2020-10-26"
@@ -999,7 +1014,7 @@
     "longitude": 4.37524,
     "slug": "2020-10-07-delft",
     "tag_name": "SWC,online,automated-email",
-    "helpers": "Kees den Heijer,Santosh Ilamparuthi,Yan Wang,Maria Rudneva,Lora Armstrong,Ashley Cryan,Amir Ebrahimi Fard,Niket Agrawal,Maurits Kok",
+    "helpers": "Kees den Heijer,Santosh Ilamparuthi,Yan Wang,Maria Rudneva,Lora Armstrong,Ashley Cryan,Niket Agrawal,Maurits Kok,Amir Ebrahimi Fard",
     "host_name": "Delft University of Technology",
     "latitude": 52.002677,
     "start_date": "2020-10-07"
@@ -6687,6 +6702,21 @@
     "helpers": "Rodolfo Montez",
     "host_name": "University of California Davis",
     "latitude": 21.28999,
+    "start_date": "2020-01-04"
+  },
+  {
+    "instructors": null,
+    "end_date": "2020-01-15",
+    "url": "https://kulibraries.github.io/2021-01-04-ku-dc-online/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "University of Kansas (online)",
+    "longitude": -95.238251,
+    "slug": "2021-01-04-ku-dc-online",
+    "tag_name": "DC,online,automated-email",
+    "helpers": null,
+    "host_name": "University of Kansas",
+    "latitude": 38.973148,
     "start_date": "2020-01-04"
   },
   {

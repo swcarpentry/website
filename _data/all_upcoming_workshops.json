@@ -135,6 +135,21 @@
     "start_date": "2020-11-23"
   },
   {
+    "instructors": "Janet Stacey,Joep de Ligt,Christina Straub,Shane Sturrock,Leah ",
+    "end_date": "2020-11-25",
+    "url": "https://esr-nz.github.io/2020-11-24-ESRpython/",
+    "country": "NZ",
+    "curriculum": "mix-and-match",
+    "venue": "ESR (online)",
+    "longitude": 174.77623,
+    "slug": "2020-11-24-ESRpython",
+    "tag_name": "Circuits",
+    "helpers": "Zoe Yang",
+    "host_name": "The Institute of Environmental Science and Research",
+    "latitude": -41.286461,
+    "start_date": "2020-11-24"
+  },
+  {
     "instructors": "Mario Antonioletti,Lucia Michielin,Matthew Hamilton",
     "end_date": "2020-11-27",
     "url": "https://edcarp.github.io/2020-11-25-edinburgh-dc-digital-humanities/",
@@ -237,6 +252,21 @@
     "helpers": null,
     "host_name": "Network of the National Library of Medicine",
     "latitude": 0,
+    "start_date": "2020-12-01"
+  },
+  {
+    "instructors": "Sue McClatchy,Mike Trizna",
+    "end_date": "2020-12-02",
+    "url": "https://miketrizna.github.io/2020-12-01-ttt-online/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-12-01-ttt-online-EST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
     "start_date": "2020-12-01"
   },
   {
@@ -372,6 +402,21 @@
     "helpers": null,
     "host_name": "National Oceanic and Atmospheric Administration",
     "latitude": 45,
+    "start_date": "2020-12-08"
+  },
+  {
+    "instructors": "James Adams,Lora Leligdon,JIANJUN HUA,Stephen Gaughan,Pamela Bagley,Paige Scudder,Christian Darabos,John Cocklin",
+    "end_date": "2020-12-11",
+    "url": "https://nesclic.github.io/2020-12-08-dartmouth-online/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "Dartmouth College (online)",
+    "longitude": -72.289135,
+    "slug": "2020-12-08-dartmouth-online",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": null,
+    "host_name": "Dartmouth College",
+    "latitude": 43.705859,
     "start_date": "2020-12-08"
   },
   {
