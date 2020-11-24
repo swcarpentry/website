@@ -255,6 +255,21 @@
     "start_date": "2020-12-01"
   },
   {
+    "instructors": "Edward Wallace,Felicity Anderson",
+    "end_date": "2020-12-15",
+    "url": "https://edcarp.github.io/2020-12-01-edinburgh-bio-online/",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "University of Edinburgh",
+    "longitude": -3.187239,
+    "slug": "2020-12-01-edinburgh-bio-online",
+    "tag_name": "Circuits",
+    "helpers": "Giacomo Peru,Bailey Harrington,Elliot Chapman,Bryan Wee",
+    "host_name": "University of Edinburgh",
+    "latitude": 55.947459,
+    "start_date": "2020-12-01"
+  },
+  {
     "instructors": "Sue McClatchy,Mike Trizna",
     "end_date": "2020-12-02",
     "url": "https://miketrizna.github.io/2020-12-01-ttt-online/",

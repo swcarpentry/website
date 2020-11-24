@@ -166,6 +166,8 @@ records:
       4, updated: '2020-10-20', url: 'https://github.com/swcarpentry/shell-novice/issues/955'}
   - {number: 1154, title: Include an example for using 'cd -' for going to the previous
       directory, updated: '2020-11-19', url: 'https://github.com/swcarpentry/shell-novice/issues/1154'}
+  - {number: 1157, title: 'Suggestions for improving Pipes and Filters episode ',
+    updated: '2020-11-23', url: 'https://github.com/swcarpentry/shell-novice/issues/1157'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2020-04-17', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -182,6 +184,7 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/1155'}
   - {number: 1156, title: Add file extension to goostats and goodiff, updated: '2020-11-23',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1156'}
+  - {number: 1158, title: Update 06-script.md, updated: '2020-11-24', url: 'https://github.com/swcarpentry/shell-novice/pull/1158'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -683,7 +686,7 @@ records:
   - {number: 781, title: 'Call for Contributions: image descriptions & titles', updated: '2020-11-18',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
   - {number: 774, title: 'Call for Contributions: visuals (images, figures, plots,
-      charts, etc.)', updated: '2020-11-18', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/774'}
+      charts, etc.)', updated: '2020-11-24', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/774'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -741,8 +744,6 @@ records:
   - {number: 807, title: Add alt-text 06-files image loop_49_5, updated: '2020-02-27',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/807'}
   - {number: 806, title: Add alt-text 06-files loop_49_3, updated: '2020-02-27', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/806'}
-  - {number: 810, title: added more detail to alt text of image inflammation-01-imshow.svg,
-    updated: '2020-03-05', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/810'}
   - {number: 808, title: Add alt-text to 10-defensive overlapping_ranges, updated: '2020-03-05',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/808'}
   - {number: 805, title: Add alt-text 06_files loop_49_1, updated: '2020-03-05', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/805'}
@@ -772,6 +773,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/868'}
   - {number: 875, title: Update 01-intro.md, updated: '2020-10-07', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/875'}
   - {number: 876, title: Revision to Code Sample, updated: '2020-11-19', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/876'}
+  - {number: 891, title: Adding figure with lesson goal/overview, updated: '2020-11-24',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/891'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1030,6 +1033,7 @@ records:
     updated: '2020-11-23', url: 'https://github.com/carpentries/amy/issues/1754'}
   - {number: 1516, title: Update "current"/ "unpublished" requirements, updated: '2020-11-23',
     url: 'https://github.com/carpentries/amy/issues/1516'}
+  - {number: 1755, title: Support for multiple hosts, updated: '2020-11-24', url: 'https://github.com/carpentries/amy/issues/1755'}
   pulls:
   - {number: 1751, title: change heading for dashboard workshop list, updated: '2020-11-22',
     url: 'https://github.com/carpentries/amy/pull/1751'}
@@ -1051,4 +1055,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-11-23T19:18:30Z'
+timestamp: '2020-11-24T19:27:39Z'
