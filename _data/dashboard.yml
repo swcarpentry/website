@@ -160,7 +160,6 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/issues/1144'}
   - {number: 1126, title: Add file extension to goostats and goodiff, updated: '2020-10-15',
     url: 'https://github.com/swcarpentry/shell-novice/issues/1126'}
-  - {number: 1124, title: segue into wc command, updated: '2020-10-15', url: 'https://github.com/swcarpentry/shell-novice/issues/1124'}
   - {number: 1118, title: Auto completion on commands, updated: '2020-10-15', url: 'https://github.com/swcarpentry/shell-novice/issues/1118'}
   - {number: 955, title: Wildcards content awkwardly split between episodes 3 and
       4, updated: '2020-10-20', url: 'https://github.com/swcarpentry/shell-novice/issues/955'}
@@ -168,6 +167,7 @@ records:
       directory, updated: '2020-11-19', url: 'https://github.com/swcarpentry/shell-novice/issues/1154'}
   - {number: 1157, title: 'Suggestions for improving Pipes and Filters episode ',
     updated: '2020-11-23', url: 'https://github.com/swcarpentry/shell-novice/issues/1157'}
+  - {number: 1124, title: segue into wc command, updated: '2020-11-25', url: 'https://github.com/swcarpentry/shell-novice/issues/1124'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2020-04-17', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -185,6 +185,8 @@ records:
   - {number: 1156, title: Add file extension to goostats and goodiff, updated: '2020-11-23',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1156'}
   - {number: 1158, title: Update 06-script.md, updated: '2020-11-24', url: 'https://github.com/swcarpentry/shell-novice/pull/1158'}
+  - {number: 1159, title: 'I changed ''the command wc'' to ''an example command wc
+      (issue #1124)', updated: '2020-11-25', url: 'https://github.com/swcarpentry/shell-novice/pull/1159'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -775,6 +777,8 @@ records:
   - {number: 876, title: Revision to Code Sample, updated: '2020-11-19', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/876'}
   - {number: 891, title: Adding figure with lesson goal/overview, updated: '2020-11-24',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/891'}
+  - {number: 892, title: '.travis.yml: Specify ruby 2.7.1', updated: '2020-11-25',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/892'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1055,4 +1059,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-11-24T19:27:39Z'
+timestamp: '2020-11-25T19:26:21Z'
