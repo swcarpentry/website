@@ -1,5 +1,50 @@
 [
   {
+    "instructors": "Tarun Bonu",
+    "end_date": "2020-11-26",
+    "url": "https://tarunbonu.github.io/2020-11-26-pawsey_training/",
+    "country": "AU",
+    "curriculum": "mix-and-match",
+    "venue": "Pawsey Supercomputing Centre",
+    "longitude": 115.883639,
+    "slug": "2020-11-26-pawsey_training",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "Pawsey Supercomputing Centre",
+    "latitude": -31.992633,
+    "start_date": "2020-11-26"
+  },
+  {
+    "instructors": "Janet Stacey,Joep de Ligt,Christina Straub,Shane Sturrock,Leah ",
+    "end_date": "2020-11-25",
+    "url": "https://esr-nz.github.io/2020-11-24-ESRpython/",
+    "country": "NZ",
+    "curriculum": "mix-and-match",
+    "venue": "ESR (online)",
+    "longitude": 174.77623,
+    "slug": "2020-11-24-ESRpython",
+    "tag_name": "Circuits",
+    "helpers": "Zoe Yang",
+    "host_name": "The Institute of Environmental Science and Research",
+    "latitude": -41.286461,
+    "start_date": "2020-11-24"
+  },
+  {
+    "instructors": "Angelique van Rensburg,Margareth Gfrerer",
+    "end_date": "2020-11-26",
+    "url": "https://angeliquevanrensburg.github.io/2020-11-23-ttt-online-ethiopia/",
+    "country": "ET",
+    "curriculum": null,
+    "venue": "The Carpentries Instructor Training",
+    "longitude": null,
+    "slug": "2020-11-23-ttt-online-ethiopia",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-11-23"
+  },
+  {
     "instructors": "Sunil Shende,Heather Ciallella,Liam Sharp,Aayush Yadav",
     "end_date": "2020-11-21",
     "url": "https://lms464.github.io/2020-11-20-Rutgers-SWC/",
@@ -195,6 +240,21 @@
     "start_date": "2020-11-11"
   },
   {
+    "instructors": "Miklós Koren",
+    "end_date": "2020-11-26",
+    "url": "https://ceu-economics-and-business.github.io/2020-11-10-ECBS-5241-Coding-for-Economists/",
+    "country": "AT",
+    "curriculum": "dc-economics",
+    "venue": "Central European University (online)",
+    "longitude": 16.2399791,
+    "slug": "2020-11-10-ECBS-5241-Coding-for-Economists",
+    "tag_name": "DC,automated-email",
+    "helpers": null,
+    "host_name": "Central European University",
+    "latitude": 48.2205998,
+    "start_date": "2020-11-10"
+  },
+  {
     "instructors": "Brook Moyers,Saranya Canchi,Alana Schick,Chandra Sarkar",
     "end_date": "2020-11-19",
     "url": "https://smcclatchy.github.io/2020-11-10-jackson/",
@@ -339,7 +399,7 @@
     "longitude": -73.999364,
     "slug": "2020-11-05-nyu",
     "tag_name": "LC,online,automated-email",
-    "helpers": null,
+    "helpers": "Marii Nyrop",
     "host_name": "New York University",
     "latitude": 40.7294556,
     "start_date": "2020-11-05"
@@ -534,7 +594,7 @@
     "longitude": -70,
     "slug": "2020-10-26-WHOI-Data",
     "tag_name": "online,Circuits,automated-email",
-    "helpers": "Harriet Alexander,Stace Beaulieu,Joe Futrelle,Brett Longworth,Stewart Jamieson,Arianna Krinos,Ryan Govostes",
+    "helpers": "Harriet Alexander,Stace Beaulieu,Joe Futrelle,Brett Longworth,Stewart Jamieson,Arianna Krinos,Ryan Govostes,Audrey Mickle,Svenja Ryan,Ivan Lima,Katy Abbot",
     "host_name": "Woods Hole Oceanographic Institute",
     "latitude": 41,
     "start_date": "2020-10-26"

@@ -30,21 +30,6 @@
     "start_date": "2020-10-29"
   },
   {
-    "instructors": "Miklós Koren",
-    "end_date": "2020-11-26",
-    "url": "https://ceu-economics-and-business.github.io/2020-11-10-ECBS-5241-Coding-for-Economists/",
-    "country": "AT",
-    "curriculum": "dc-economics",
-    "venue": "Central European University (online)",
-    "longitude": 16.2399791,
-    "slug": "2020-11-10-ECBS-5241-Coding-for-Economists",
-    "tag_name": "DC,automated-email",
-    "helpers": null,
-    "host_name": "Central European University",
-    "latitude": 48.2205998,
-    "start_date": "2020-11-10"
-  },
-  {
     "instructors": "Nilani Ganeshwaran,Phil Reed,Carlene Barton",
     "end_date": "2020-12-10",
     "url": "https://uom-nilani.github.io/2020-11-12-cilip-mdg/",
@@ -78,7 +63,7 @@
     "instructors": "Timo Gnadt,Claudia Engelhardt,Laura Josephine Botzet",
     "end_date": "2020-12-04",
     "url": "https://subugoe.github.io/2020-11-23-dc-ecology-online/",
-    "country": "GE",
+    "country": "DE",
     "curriculum": "dc-ecology-r",
     "venue": "(online)",
     "longitude": -1,
@@ -120,36 +105,6 @@
     "start_date": "2020-11-23"
   },
   {
-    "instructors": "Angelique van Rensburg,Margareth Gfrerer",
-    "end_date": "2020-11-26",
-    "url": "https://angeliquevanrensburg.github.io/2020-11-23-ttt-online-ethiopia/",
-    "country": "ET",
-    "curriculum": null,
-    "venue": "The Carpentries Instructor Training",
-    "longitude": null,
-    "slug": "2020-11-23-ttt-online-ethiopia",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": null,
-    "start_date": "2020-11-23"
-  },
-  {
-    "instructors": "Janet Stacey,Joep de Ligt,Christina Straub,Shane Sturrock,Leah ",
-    "end_date": "2020-11-25",
-    "url": "https://esr-nz.github.io/2020-11-24-ESRpython/",
-    "country": "NZ",
-    "curriculum": "mix-and-match",
-    "venue": "ESR (online)",
-    "longitude": 174.77623,
-    "slug": "2020-11-24-ESRpython",
-    "tag_name": "Circuits",
-    "helpers": "Zoe Yang",
-    "host_name": "The Institute of Environmental Science and Research",
-    "latitude": -41.286461,
-    "start_date": "2020-11-24"
-  },
-  {
     "instructors": "Mario Antonioletti,Lucia Michielin,Matthew Hamilton",
     "end_date": "2020-11-27",
     "url": "https://edcarp.github.io/2020-11-25-edinburgh-dc-digital-humanities/",
@@ -178,21 +133,6 @@
     "host_name": "University College London",
     "latitude": -48.876667,
     "start_date": "2020-11-25"
-  },
-  {
-    "instructors": "Tarun Bonu",
-    "end_date": "2020-11-26",
-    "url": "https://tarunbonu.github.io/2020-11-26-pawsey_training/",
-    "country": "AU",
-    "curriculum": "mix-and-match",
-    "venue": "Pawsey Supercomputing Centre",
-    "longitude": 115.883639,
-    "slug": "2020-11-26-pawsey_training",
-    "tag_name": "online,Circuits",
-    "helpers": null,
-    "host_name": "Pawsey Supercomputing Centre",
-    "latitude": -31.992633,
-    "start_date": "2020-11-26"
   },
   {
     "instructors": "Sherry Lake,Robin Donatello,Jesse Johnston",
@@ -283,6 +223,21 @@
     "host_name": "Instructor Training",
     "latitude": -48.876667,
     "start_date": "2020-12-01"
+  },
+  {
+    "instructors": "David Yakobovitch,Annajiat Alim Rasel,Adrienne Canino,Elizabeth Dobbins",
+    "end_date": "2020-12-04",
+    "url": "https://davidyakobovitch.github.io/2020-12-02-cmu-online/",
+    "country": "US",
+    "curriculum": "dc-socsci-python",
+    "venue": "Carnegie Mellon University (online)",
+    "longitude": 0,
+    "slug": "2020-12-02-cmu-online",
+    "tag_name": "DC,online,automated-email",
+    "helpers": null,
+    "host_name": "Carnegie Mellon University",
+    "latitude": 0,
+    "start_date": "2020-12-02"
   },
   {
     "instructors": "Paul Hancock",
@@ -390,6 +345,21 @@
     "start_date": "2020-12-07"
   },
   {
+    "instructors": "John Simpson,Danielle Quinn",
+    "end_date": "2020-12-08",
+    "url": "https://computecanada.github.io/2020-12-07-ttt-canada/",
+    "country": "CA",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-12-07-ttt-canada",
+    "tag_name": "TTT,online",
+    "helpers": "Grace Fishbein",
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-12-07"
+  },
+  {
     "instructors": "Akshay Paropkari,Elnaz Amanzadeh Jajin",
     "end_date": "2020-12-10",
     "url": "https://elnazamanzadeh.github.io/2020-12-07-txstate-online/",
@@ -476,6 +446,21 @@
     "tag_name": "SWC,online,automated-email",
     "helpers": null,
     "host_name": "Network of the National Library of Medicine",
+    "latitude": 0,
+    "start_date": "2020-12-14"
+  },
+  {
+    "instructors": "MONAH ABOU ALEZZ,Preethy Nair,Camilla Bressan",
+    "end_date": "2020-12-17",
+    "url": "https://monahton.github.io/2020-12-14-genentech-online/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "Genentech",
+    "longitude": 0,
+    "slug": "2020-12-14-genentech-online",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": null,
+    "host_name": "Genentech",
     "latitude": 0,
     "start_date": "2020-12-14"
   },
