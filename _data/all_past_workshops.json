@@ -15,6 +15,36 @@
     "start_date": "2020-11-26"
   },
   {
+    "instructors": "Mario Antonioletti,Lucia Michielin,Matthew Hamilton",
+    "end_date": "2020-11-27",
+    "url": "https://edcarp.github.io/2020-11-25-edinburgh-dc-digital-humanities/",
+    "country": "GB",
+    "curriculum": "dc-other",
+    "venue": "University of Edinburgh",
+    "longitude": -123.393333,
+    "slug": "2020-11-25-edinburgh-dc-digital-humanities",
+    "tag_name": "DC",
+    "helpers": "Jennifer Daub,Robert Nagy,Bailey Harrington",
+    "host_name": "University of Edinburgh",
+    "latitude": -48.876667,
+    "start_date": "2020-11-25"
+  },
+  {
+    "instructors": "Christopher Cave-Ayland,Iain Barrass",
+    "end_date": "2020-11-27",
+    "url": "https://rslondon.github.io/2020-11-25-rslondon/",
+    "country": "GB",
+    "curriculum": "swc-python-gapminder",
+    "venue": "Research Software London",
+    "longitude": -123.393333,
+    "slug": "2020-11-25-rslondon",
+    "tag_name": "SWC",
+    "helpers": "Jazz Mack Smith,Jeremy Cohen,Tony Yang,Jay DesLauriers,Matt Alexandrakis",
+    "host_name": "University College London",
+    "latitude": -48.876667,
+    "start_date": "2020-11-25"
+  },
+  {
     "instructors": "Janet Stacey,Joep de Ligt,Christina Straub,Shane Sturrock,Leah ",
     "end_date": "2020-11-25",
     "url": "https://esr-nz.github.io/2020-11-24-ESRpython/",
@@ -28,6 +58,36 @@
     "host_name": "The Institute of Environmental Science and Research",
     "latitude": -41.286461,
     "start_date": "2020-11-24"
+  },
+  {
+    "instructors": "Bret Alexander Beheim,Han Tran",
+    "end_date": "2020-11-27",
+    "url": "https://hbec-mpi-eva.github.io/2020-11-23-leipzig-online/",
+    "country": "DE",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Max Planck Institute for Evolutionary Anthropology",
+    "longitude": 12.394,
+    "slug": "2020-11-23-leipzig-online",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": "Ilaria Pretelli",
+    "host_name": "Max Planck Institute for Evolutionary Anthropology",
+    "latitude": 51.321,
+    "start_date": "2020-11-23"
+  },
+  {
+    "instructors": "Mark Dawson,Michele Mesiti",
+    "end_date": "2020-11-27",
+    "url": "http://sa2c.github.io/2020-11-23-swansea",
+    "country": "GB",
+    "curriculum": "dc-genomics",
+    "venue": "Swansea University (online)",
+    "longitude": -3.9,
+    "slug": "2020-11-23-swansea",
+    "tag_name": "DC,online",
+    "helpers": "Ben Thorpe",
+    "host_name": "Swansea University",
+    "latitude": 51.7,
+    "start_date": "2020-11-23"
   },
   {
     "instructors": "Angelique van Rensburg,Margareth Gfrerer",
