@@ -380,6 +380,7 @@ records:
     updated: '2020-11-05', url: 'https://github.com/swcarpentry/git-novice/pull/767'}
   - {number: 768, title: Adding a new exercise to the lesson., updated: '2020-11-14',
     url: 'https://github.com/swcarpentry/git-novice/pull/768'}
+  - {number: 770, title: changed name to Desktop, updated: '2020-11-30', url: 'https://github.com/swcarpentry/git-novice/pull/770'}
   url: https://github.com/swcarpentry/git-novice
 - description: Unix Shell - Español
   ident: swcarpentry/shell-novice-es
@@ -869,6 +870,8 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/657'}
   - {number: 540, title: Remove plyr dependency, updated: '2020-11-10', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/540'}
   - {number: 673, title: Avoid the use of "Dataframe", updated: '2020-11-27', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/673'}
+  - {number: 674, title: Rename (or split) episode "Exploring Data Frames", updated: '2020-11-30',
+    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/674'}
   pulls:
   - {number: 552, title: Make gentler intro for ggplot2 lesson, updated: '2019-08-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/552'}
@@ -1062,4 +1065,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-11-29T18:05:02Z'
+timestamp: '2020-11-30T19:20:52Z'
