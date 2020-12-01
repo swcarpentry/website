@@ -659,8 +659,6 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/815'}
   - {number: 835, title: 'Episode 03 - Visualizing Tabular Data : Suggestions', updated: '2020-06-22',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/835'}
-  - {number: 832, title: 'Lesson Contribution: how to install numpy', updated: '2020-06-22',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/832'}
   - {number: 834, title: 05-suggesting a more Pythonic approach to copying, updated: '2020-07-01',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/834'}
   - {number: 830, title: pyplot import, updated: '2020-07-03', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/830'}
@@ -690,6 +688,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/781'}
   - {number: 774, title: 'Call for Contributions: visuals (images, figures, plots,
       charts, etc.)', updated: '2020-11-24', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/774'}
+  - {number: 832, title: 'Lesson Contribution: how to install numpy', updated: '2020-12-01',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/832'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -778,8 +778,6 @@ records:
   - {number: 876, title: Revision to Code Sample, updated: '2020-11-19', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/876'}
   - {number: 891, title: Adding figure with lesson goal/overview, updated: '2020-11-24',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/891'}
-  - {number: 892, title: '.travis.yml: Specify ruby 2.7.1', updated: '2020-11-25',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/892'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -869,15 +867,16 @@ records:
   - {number: 657, title: 'Define fuzzy search in Seeking Help episode ', updated: '2020-09-25',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/657'}
   - {number: 540, title: Remove plyr dependency, updated: '2020-11-10', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/540'}
-  - {number: 673, title: Avoid the use of "Dataframe", updated: '2020-11-27', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/673'}
   - {number: 674, title: Rename (or split) episode "Exploring Data Frames", updated: '2020-11-30',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/674'}
+  - {number: 673, title: Avoid the use of "Dataframe", updated: '2020-12-01', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/673'}
   pulls:
   - {number: 552, title: Make gentler intro for ggplot2 lesson, updated: '2019-08-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/552'}
   - {number: 551, title: update links, updated: '2020-09-25', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/551'}
-  - {number: 672, title: Add a third solution to Challenge 1 in Episode 7, updated: '2020-11-26',
+  - {number: 672, title: Add a third solution to Challenge 1 in Episode 7, updated: '2020-11-30',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/672'}
+  - {number: 675, title: 'Fix #673', updated: '2020-12-01', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/675'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1065,4 +1064,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-11-30T19:20:52Z'
+timestamp: '2020-12-01T19:44:35Z'

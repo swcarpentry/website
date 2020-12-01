@@ -174,7 +174,7 @@
     "longitude": -87.8819686,
     "slug": "2020-11-17-uwm-online",
     "tag_name": "LC,online,automated-email",
-    "helpers": null,
+    "helpers": "Jie Chen,Nathan Humpal",
     "host_name": "University of Wisconsin-Milwaukee",
     "latitude": 43.078263,
     "start_date": "2020-11-17"
@@ -189,7 +189,7 @@
     "longitude": -1,
     "slug": "2020-11-16-astrodc-online",
     "tag_name": "DC,online,automated-email",
-    "helpers": "Erin Becker,Philip Rosenfield,Rodolfo Montez",
+    "helpers": "Erin Becker,Philip Rosenfield,Meredith Rawls,Rodolfo Montez",
     "host_name": "American Astronomical Society",
     "latitude": 45,
     "start_date": "2020-11-16"
@@ -219,7 +219,7 @@
     "longitude": -1,
     "slug": "2020-11-12-NNLM-online",
     "tag_name": "LC,online,automated-email",
-    "helpers": "Kim Pham,Clara Turp",
+    "helpers": "Kim Pham,Clara Turp,John Orazem",
     "host_name": "Network of the National Library of Medicine",
     "latitude": 45,
     "start_date": "2020-11-12"
@@ -234,7 +234,7 @@
     "longitude": -77.03,
     "slug": "2020-11-12-agronomy-online",
     "tag_name": "online,Circuits,automated-email",
-    "helpers": null,
+    "helpers": "Henry Qu,Kip Balkcom,Rodrigo Goncalves Trevisan",
     "host_name": "United States Deparment of Agriculture",
     "latitude": 38.9,
     "start_date": "2020-11-12"
@@ -354,7 +354,7 @@
     "longitude": -1,
     "slug": "2020-11-09-OpenRefine-online",
     "tag_name": "LC,online,automated-email",
-    "helpers": "Kristi Liu",
+    "helpers": "Kristi Liu,Serena Osmuss",
     "host_name": "University of California Santa Barbara",
     "latitude": 45,
     "start_date": "2020-11-09"
@@ -405,7 +405,7 @@
     "start_date": "2020-11-09"
   },
   {
-    "instructors": "Uwe Hilgert,Kelsey Gonzalez,Isabella Viney,Kathryn Busby",
+    "instructors": "Uwe Hilgert,Kelsey Gonzalez,Artin Majdi,Isabella Viney,Kathryn Busby,Hagan Franks",
     "end_date": "2020-11-08",
     "url": "https://UA-Carpentries-Workshops.github.io/2020-11-07-Tucson",
     "country": "US",
@@ -414,7 +414,7 @@
     "longitude": 0,
     "slug": "2020-11-07-Tucson",
     "tag_name": "SWC,online,automated-email",
-    "helpers": "Austin Rutherford,Artin Majdi,dwight nwaigwe",
+    "helpers": "Dawson Fairbanks,Austin Rutherford,Adriana Picoral,dwight nwaigwe,Bradley Schlottman",
     "host_name": "University of Arizona",
     "latitude": 0,
     "start_date": "2020-11-07"
@@ -489,7 +489,7 @@
     "longitude": -1,
     "slug": "2020-11-04-ITEP-online",
     "tag_name": "DC,online,automated-email",
-    "helpers": "Ben Marwick,Jeffrey Oliver,Chris Hamm,Austin Rutherford,Qinyun Lin,Joel Nitta",
+    "helpers": "Ben Marwick,Jan Ng,Jeffrey Oliver,Chris Hamm,Austin Rutherford,Angie Reed,Qinyun Lin,Joel Nitta,Melinda Ronca-Battista",
     "host_name": "Institute for Tribal Environmental Professionals",
     "latitude": 45,
     "start_date": "2020-11-04"
@@ -3018,7 +3018,7 @@
     "instructors": "Jannetta Steyn",
     "end_date": "2020-07-10",
     "url": "https://jsteyn.github.io/2020-07-06-Genesis/",
-    "country": "",
+    "country": "GB",
     "curriculum": "swc-python",
     "venue": "Newcastle University (online)",
     "longitude": 0,
@@ -4048,6 +4048,21 @@
     "host_name": "University of Iowa",
     "latitude": -48.876667,
     "start_date": "2020-05-18"
+  },
+  {
+    "instructors": "Stephen Crouch,Sam Mangham",
+    "end_date": "2020-05-15",
+    "url": "https://softwaresaved.github.io/2020-05-15-ramp-swc/",
+    "country": "GB",
+    "curriculum": null,
+    "venue": "Online Zoom",
+    "longitude": null,
+    "slug": "2020-05-15-southamton-online",
+    "tag_name": "SWC,online,Circuits",
+    "helpers": null,
+    "host_name": "University of Southampton",
+    "latitude": null,
+    "start_date": "2020-05-15"
   },
   {
     "instructors": "Aleksandra Nenadic,Justin Chun-ting Ho",

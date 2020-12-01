@@ -54,7 +54,7 @@
     "longitude": 0,
     "slug": "2020-11-12-minnesota",
     "tag_name": "online,Circuits,automated-email",
-    "helpers": "Katie Wilson",
+    "helpers": "Nicholas Dunn,Katie Wilson,Mary Ann Warner,Valerie Collins,Alexis Logsdon,Stacie Traill",
     "host_name": "University of Minnesota",
     "latitude": 0,
     "start_date": "2020-11-12"
@@ -403,6 +403,21 @@
     "host_name": "Genentech",
     "latitude": 0,
     "start_date": "2020-12-14"
+  },
+  {
+    "instructors": "Ashar Malik,Akshita Kumar,Roland Huber",
+    "end_date": "2020-12-23",
+    "url": "https://proteinmechanic.github.io/2020-12-21-BioinformaticsInstitute/",
+    "country": "SI",
+    "curriculum": "mix-and-match",
+    "venue": "The Bioinformatics Institute, A*STAR",
+    "longitude": -72,
+    "slug": "2020-12-21-BioinformaticsInstitute",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": null,
+    "host_name": "The Bioinformatics Institute",
+    "latitude": 25,
+    "start_date": "2020-12-21"
   },
   {
     "instructors": "Yuping Huang",
