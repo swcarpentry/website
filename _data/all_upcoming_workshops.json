@@ -105,21 +105,6 @@
     "start_date": "2020-12-01"
   },
   {
-    "instructors": "Tracy Teal,Chissa Rivaldi,Douglas Joubert,Adam Hughes",
-    "end_date": "2020-12-02",
-    "url": "https://doujoudc.github.io/2020-12-01-NNLM-online/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "NNLM",
-    "longitude": null,
-    "slug": "2020-12-01-NNLM-online",
-    "tag_name": "LC,online,automated-email",
-    "helpers": null,
-    "host_name": "Network of the National Library of Medicine",
-    "latitude": null,
-    "start_date": "2020-12-01"
-  },
-  {
     "instructors": "Kathryn Miller,Rohit Goswami,Benson Muite",
     "end_date": "2020-12-04",
     "url": "https://bkmgit.github.io/2020-12-01-TRLN-NNLM-online/",
@@ -147,21 +132,6 @@
     "helpers": "Giacomo Peru,Bailey Harrington,Elliot Chapman,Bryan Wee",
     "host_name": "University of Edinburgh",
     "latitude": 55.947459,
-    "start_date": "2020-12-01"
-  },
-  {
-    "instructors": "Sue McClatchy,Mike Trizna",
-    "end_date": "2020-12-02",
-    "url": "https://miketrizna.github.io/2020-12-01-ttt-online/",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2020-12-01-ttt-online-EST",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": -48.876667,
     "start_date": "2020-12-01"
   },
   {
@@ -195,6 +165,21 @@
     "start_date": "2020-12-02"
   },
   {
+    "instructors": "Steven Pryor",
+    "end_date": "2020-12-03",
+    "url": "https://swc-mizzou.github.io/2020-12-03-mizzou/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Missouri (online)",
+    "longitude": -1,
+    "slug": "2020-12-03-mizzou",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 45,
+    "start_date": "2020-12-03"
+  },
+  {
     "instructors": "Sarah Stevens,Jason Williams",
     "end_date": "2020-12-04",
     "url": "http://sarahlrstevens.info/2020-12-03-ttt-online-sbdh/",
@@ -208,6 +193,21 @@
     "host_name": "Instructor Training",
     "latitude": null,
     "start_date": "2020-12-03"
+  },
+  {
+    "instructors": "Steven Pryor",
+    "end_date": "2020-12-11",
+    "url": "https://swc-mizzou.github.io/2020-12-04-mizzou-online/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "University of Missouri (online)",
+    "longitude": -1,
+    "slug": "2020-12-04-mizzou-online",
+    "tag_name": "DC,online,automated-email",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 45,
+    "start_date": "2020-12-04"
   },
   {
     "instructors": "Jannetta Steyn,Rebecca Osselton,David Herbert",
@@ -433,6 +433,21 @@
     "host_name": "American Astronomical Society",
     "latitude": 38.8951363,
     "start_date": "2021-01-07"
+  },
+  {
+    "instructors": "Zena Lapp,Kelly Sovacool",
+    "end_date": "2021-01-12",
+    "url": "https://umswc.github.io/2021-01-11-UMich-WISE-online/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Michigan (online)",
+    "longitude": -1,
+    "slug": "2021-01-11-UMich-WISE-online",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": "Sarah Tomkovich,Catherine Barnier",
+    "host_name": "University of Michigan",
+    "latitude": 45,
+    "start_date": "2021-01-11"
   },
   {
     "instructors": "Kristina Hettne,Jeff Love",

@@ -815,9 +815,6 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/456'}
   - {number: 461, title: Phrasing suggestion for 01-starting-with-data.Rmd, updated: '2019-12-02',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/461'}
-  - {number: 387, title: 'Reading and Writing CSV Files in R: Introduce na.strings
-      argument and explain how to read CSV file by providing a filename only', updated: '2020-02-12',
-    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/387'}
   - {number: 462, title: Understanding Factors- Clarifiation, updated: '2020-02-14',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/462'}
   - {number: 469, title: Use of par(mfrow) and grid.arrange, updated: '2020-03-29',
@@ -839,6 +836,9 @@ records:
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/343'}
   - {number: 493, title: incorrect output in Reading and Writing CSV Files from r-novice-inflammation,
     updated: '2020-11-19', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/493'}
+  - {number: 387, title: 'Reading and Writing CSV Files in R: Introduce na.strings
+      argument and explain how to read CSV file by providing a filename only', updated: '2020-12-01',
+    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/387'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
@@ -847,6 +847,8 @@ records:
     updated: '2019-12-24', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/421'}
   - {number: 491, title: ' make lesson suitable for teaching with locally-built (serverless)
       pages', updated: '2020-10-21', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/491'}
+  - {number: 494, title: '(fix #387) - add na.strings challenge', updated: '2020-12-01',
+    url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/494'}
   url: https://github.com/swcarpentry/r-novice-inflammation
 - description: R (Gapminder Data - Español)
   ident: swcarpentry/r-novice-gapminder
@@ -1064,4 +1066,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-12-01T19:44:35Z'
+timestamp: '2020-12-02T19:51:36Z'

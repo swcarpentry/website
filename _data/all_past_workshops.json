@@ -1,5 +1,35 @@
 [
   {
+    "instructors": "Tracy Teal,Chissa Rivaldi,Douglas Joubert,Adam Hughes",
+    "end_date": "2020-12-02",
+    "url": "https://doujoudc.github.io/2020-12-01-NNLM-online/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "NNLM",
+    "longitude": null,
+    "slug": "2020-12-01-NNLM-online",
+    "tag_name": "LC,online,automated-email",
+    "helpers": null,
+    "host_name": "Network of the National Library of Medicine",
+    "latitude": null,
+    "start_date": "2020-12-01"
+  },
+  {
+    "instructors": "Sue McClatchy,Mike Trizna",
+    "end_date": "2020-12-02",
+    "url": "https://miketrizna.github.io/2020-12-01-ttt-online/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-12-01-ttt-online-EST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-12-01"
+  },
+  {
     "instructors": "Tarun Bonu",
     "end_date": "2020-11-26",
     "url": "https://tarunbonu.github.io/2020-11-26-pawsey_training/",
