@@ -876,9 +876,10 @@ records:
   - {number: 552, title: Make gentler intro for ggplot2 lesson, updated: '2019-08-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/552'}
   - {number: 551, title: update links, updated: '2020-09-25', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/551'}
-  - {number: 672, title: Add a third solution to Challenge 1 in Episode 7, updated: '2020-11-30',
+  - {number: 676, title: Update link in function lesson, updated: '2020-12-02', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/676'}
+  - {number: 675, title: 'Fix #673', updated: '2020-12-02', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/675'}
+  - {number: 672, title: Add a third solution to Challenge 1 in Episode 7, updated: '2020-12-02',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/672'}
-  - {number: 675, title: 'Fix #673', updated: '2020-12-01', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/675'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1066,4 +1067,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-12-02T19:51:36Z'
+timestamp: '2020-12-03T19:45:55Z'
