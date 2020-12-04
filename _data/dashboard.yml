@@ -1041,11 +1041,11 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1752'}
   - {number: 1534, title: Remove deprecated features of AMY, updated: '2020-11-22',
     url: 'https://github.com/carpentries/amy/issues/1534'}
-  - {number: 1754, title: 'Introduce warning if membership term is not one year ',
-    updated: '2020-11-23', url: 'https://github.com/carpentries/amy/issues/1754'}
   - {number: 1516, title: Update "current"/ "unpublished" requirements, updated: '2020-11-23',
     url: 'https://github.com/carpentries/amy/issues/1516'}
   - {number: 1755, title: Support for multiple hosts, updated: '2020-11-24', url: 'https://github.com/carpentries/amy/issues/1755'}
+  - {number: 1754, title: 'Introduce warning if membership term is not one year ',
+    updated: '2020-12-03', url: 'https://github.com/carpentries/amy/issues/1754'}
   pulls:
   - {number: 1751, title: change heading for dashboard workshop list, updated: '2020-11-22',
     url: 'https://github.com/carpentries/amy/pull/1751'}
@@ -1067,4 +1067,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-12-03T19:45:55Z'
+timestamp: '2020-12-04T19:37:14Z'

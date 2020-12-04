@@ -1,5 +1,95 @@
 [
   {
+    "instructors": "Maneesha Sane,Sher! Hurt,Talisha Sutton-Kennedy",
+    "end_date": "2020-12-04",
+    "url": "https://sheraaronhurt.github.io/2021-01-04-uktest/",
+    "country": "US",
+    "curriculum": "dc-ecology-r",
+    "venue": "UK RC Test (online)",
+    "longitude": -1,
+    "slug": "2020-12-04-uktest",
+    "tag_name": "DC,online,automated-email",
+    "helpers": null,
+    "host_name": "Data Carpentry",
+    "latitude": 45,
+    "start_date": "2020-12-04"
+  },
+  {
+    "instructors": "Steven Pryor",
+    "end_date": "2020-12-03",
+    "url": "https://swc-mizzou.github.io/2020-12-03-mizzou/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Missouri (online)",
+    "longitude": -1,
+    "slug": "2020-12-03-mizzou",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 45,
+    "start_date": "2020-12-03"
+  },
+  {
+    "instructors": "Sarah Stevens,Jason Williams",
+    "end_date": "2020-12-04",
+    "url": "http://sarahlrstevens.info/2020-12-03-ttt-online-sbdh/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "",
+    "longitude": null,
+    "slug": "2020-12-03-ttt-online-sbdh",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": null,
+    "start_date": "2020-12-03"
+  },
+  {
+    "instructors": "David Yakobovitch,Annajiat Alim Rasel,Adrienne Canino,Elizabeth Dobbins",
+    "end_date": "2020-12-04",
+    "url": "https://davidyakobovitch.github.io/2020-12-02-cmu-online/",
+    "country": "US",
+    "curriculum": "dc-socsci-python",
+    "venue": "Carnegie Mellon University (online)",
+    "longitude": 0,
+    "slug": "2020-12-02-cmu-online",
+    "tag_name": "DC,online,automated-email",
+    "helpers": null,
+    "host_name": "Carnegie Mellon University",
+    "latitude": 0,
+    "start_date": "2020-12-02"
+  },
+  {
+    "instructors": "Paul Hancock",
+    "end_date": "2020-12-03",
+    "url": "https://curtinic.github.io/2020-12-02-curtin/",
+    "country": "",
+    "curriculum": "dc-ecology-python",
+    "venue": "Curtin University",
+    "longitude": 115.894375,
+    "slug": "2020-12-02-curtin",
+    "tag_name": "DC,online",
+    "helpers": "Sawitchaya (Nancy) Tippaya,Rakib Hassan,Aniek Roelofs",
+    "host_name": "Curtin University",
+    "latitude": -32.007159,
+    "start_date": "2020-12-02"
+  },
+  {
+    "instructors": "Sherry Lake,Robin Donatello,Jesse Johnston",
+    "end_date": "2020-12-04",
+    "url": "https://shlake.github.io/2020-12-01-Clemson-online-NNLM/",
+    "country": "US",
+    "curriculum": "lc-other",
+    "venue": "Clemson University (online)",
+    "longitude": null,
+    "slug": "2020-12-01-Clemson-online-NNLM",
+    "tag_name": "LC,online,automated-email",
+    "helpers": null,
+    "host_name": "Network of the National Library of Medicine",
+    "latitude": null,
+    "start_date": "2020-12-01"
+  },
+  {
     "instructors": "Tracy Teal,Chissa Rivaldi,Douglas Joubert,Adam Hughes",
     "end_date": "2020-12-02",
     "url": "https://doujoudc.github.io/2020-12-01-NNLM-online/",
@@ -12,6 +102,21 @@
     "helpers": null,
     "host_name": "Network of the National Library of Medicine",
     "latitude": null,
+    "start_date": "2020-12-01"
+  },
+  {
+    "instructors": "Kathryn Miller,Rohit Goswami,Benson Muite",
+    "end_date": "2020-12-04",
+    "url": "https://bkmgit.github.io/2020-12-01-TRLN-NNLM-online/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Triangle Research Library Network (online)",
+    "longitude": 0,
+    "slug": "2020-12-01-TRLN-NNLM-online",
+    "tag_name": "LC,online,automated-email",
+    "helpers": null,
+    "host_name": "Network of the National Library of Medicine",
+    "latitude": 0,
     "start_date": "2020-12-01"
   },
   {
@@ -30,7 +135,7 @@
     "start_date": "2020-12-01"
   },
   {
-    "instructors": "Tarun Bonu",
+    "instructors": "Tarun Bonu,Edric Matwiejew",
     "end_date": "2020-11-26",
     "url": "https://tarunbonu.github.io/2020-11-26-pawsey_training/",
     "country": "AU",
@@ -88,6 +193,21 @@
     "host_name": "The Institute of Environmental Science and Research",
     "latitude": -41.286461,
     "start_date": "2020-11-24"
+  },
+  {
+    "instructors": "Timo Gnadt,Claudia Engelhardt,Laura Josephine Botzet",
+    "end_date": "2020-12-04",
+    "url": "https://subugoe.github.io/2020-11-23-dc-ecology-online/",
+    "country": "DE",
+    "curriculum": "dc-ecology-r",
+    "venue": "(online)",
+    "longitude": -1,
+    "slug": "2020-11-23-dc-ecology-online",
+    "tag_name": "DC,online,automated-email",
+    "helpers": "Astrid Orth,Andreas Walker",
+    "host_name": "University of Göttingen",
+    "latitude": 45,
+    "start_date": "2020-11-23"
   },
   {
     "instructors": "Bret Alexander Beheim,Han Tran",
@@ -583,6 +703,21 @@
     "host_name": "Langebio",
     "latitude": 19,
     "start_date": "2020-10-30"
+  },
+  {
+    "instructors": "Adela Sobotkova,Petra Heřmánková",
+    "end_date": "2020-12-03",
+    "url": "https://adivea.github.io/2020-10-29-AU-DC/",
+    "country": "DK",
+    "curriculum": "mix-and-match",
+    "venue": "Aarhus University",
+    "longitude": 10.21203,
+    "slug": "2020-10-29-AU-DC",
+    "tag_name": "Circuits",
+    "helpers": null,
+    "host_name": "Aarhus University",
+    "latitude": 56.1724346,
+    "start_date": "2020-10-29"
   },
   {
     "instructors": "Sherry Lake,Jennifer Lee,Preethy Nair,Trevor Burrows",
@@ -1300,7 +1435,7 @@
     "slug": "2020-10-06-KCL-DTP",
     "tag_name": "DC,online",
     "helpers": null,
-    "host_name": "King's College",
+    "host_name": "King's College London",
     "latitude": 0,
     "start_date": "2020-10-05"
   },
@@ -1605,7 +1740,7 @@
     "start_date": "2020-09-21"
   },
   {
-    "instructors": "Mateusz Kuzak,Pablo Rodríguez Sánchez,Jens Wehner",
+    "instructors": "Mateusz Kuzak,Pablo Rodríguez-Sánchez,Jens Wehner",
     "end_date": "2020-09-24",
     "url": "https://escience-academy.github.io/2020-09-21-SWC-Gapminder/",
     "country": "NL",
@@ -4545,7 +4680,7 @@
     "start_date": "2020-04-15"
   },
   {
-    "instructors": "Johan Hidding,Faruk Diblen,Pablo Rodríguez Sánchez",
+    "instructors": "Johan Hidding,Faruk Diblen,Pablo Rodríguez-Sánchez",
     "end_date": "2020-04-17",
     "url": "https://escience-academy.github.io/2020-04-14-SWC-online/",
     "country": "NL",
@@ -7011,12 +7146,12 @@
     "country": "GB",
     "curriculum": "swc-python",
     "venue": "B32/3077, Highfield Campus",
-    "longitude": null,
+    "longitude": -1.3965200844405485,
     "slug": "2019-12-16-southampton-swc",
     "tag_name": "SWC",
     "helpers": null,
     "host_name": "University of Southampton",
-    "latitude": null,
+    "latitude": 50.93585015897082,
     "start_date": "2019-12-16"
   },
   {
@@ -11300,13 +11435,13 @@
     "url": "https://www.sib.swiss/training/course/2019-07-elixir-sib-dc",
     "country": "CH",
     "curriculum": null,
-    "venue": "",
-    "longitude": null,
+    "venue": "Room Y55-L-06/08 University of Zurich",
+    "longitude": 8.549136039956753,
     "slug": "2019-07-01-elixir-sib-dc",
     "tag_name": "DC",
     "helpers": null,
     "host_name": "ELIXIR-UK",
-    "latitude": null,
+    "latitude": 47.39755430644492,
     "start_date": "2019-07-01"
   },
   {
@@ -13251,12 +13386,12 @@
     "country": "GB",
     "curriculum": "dc-genomics",
     "venue": "University of Edinburgh",
-    "longitude": null,
+    "longitude": -3.174537852497774,
     "slug": "2019-04-23-Edinburgh-Dc-Genomics",
     "tag_name": "DC,Pilot",
     "helpers": "Graeme Grimes,Lora Boteva,Sam Haynes,Rosey Bayne,Salomé Llabres",
     "host_name": "University of Edinburgh",
-    "latitude": null,
+    "latitude": 55.921840971307894,
     "start_date": "2019-04-23"
   },
   {
@@ -14721,12 +14856,12 @@
     "country": "GB",
     "curriculum": "dc-socsci-r",
     "venue": "The University of Edinburgh - Business School",
-    "longitude": null,
+    "longitude": -3.1873198818445543,
     "slug": "2019-02-18-edinburgh-business-school",
     "tag_name": "DC",
     "helpers": "Chris Hill,Kiyoshi Bhuiyan,Martin Hendrickse,Andrzej Romaniuk,Jim Trappitt,Jennifer Daub",
     "host_name": "University of Edinburgh",
-    "latitude": null,
+    "latitude": 55.94313608875871,
     "start_date": "2019-02-18"
   },
   {
@@ -16266,12 +16401,12 @@
     "country": "GB",
     "curriculum": "dc-genomics",
     "venue": "University of Edinburgh",
-    "longitude": null,
+    "longitude": -3.1731897437372854,
     "slug": "2018-12-06-edinburgh-dc-genomics",
     "tag_name": "DC,Pilot",
     "helpers": "Mario Antonioletti,Giacomo Peru,Fiona Reid,Graeme Grimes,Linus Schumacher,Steve Thorn,Jennifer Daub",
     "host_name": "University of Edinburgh",
-    "latitude": null,
+    "latitude": 55.9217574667928,
     "start_date": "2018-12-06"
   },
   {
@@ -28011,12 +28146,12 @@
     "country": "GB",
     "curriculum": null,
     "venue": "UCL",
-    "longitude": null,
+    "longitude": -0.1322543377688934,
     "slug": "2017-04-27-UCL_software_carpentry",
     "tag_name": "SWC",
     "helpers": "Ilektra Christidi",
     "host_name": "University College London",
-    "latitude": null,
+    "latitude": 51.52367523676716,
     "start_date": "2017-04-27"
   },
   {

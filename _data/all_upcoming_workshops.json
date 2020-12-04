@@ -15,21 +15,6 @@
     "start_date": "2020-09-16"
   },
   {
-    "instructors": "Adela Sobotkova,Petra Heřmánková",
-    "end_date": "2020-12-03",
-    "url": "https://adivea.github.io/2020-10-29-AU-DC/",
-    "country": "DK",
-    "curriculum": "mix-and-match",
-    "venue": "Aarhus University",
-    "longitude": 10.21203,
-    "slug": "2020-10-29-AU-DC",
-    "tag_name": "Circuits",
-    "helpers": null,
-    "host_name": "Aarhus University",
-    "latitude": 56.1724346,
-    "start_date": "2020-10-29"
-  },
-  {
     "instructors": "Nilani Ganeshwaran,Phil Reed,Carlene Barton",
     "end_date": "2020-12-10",
     "url": "https://uom-nilani.github.io/2020-11-12-cilip-mdg/",
@@ -60,36 +45,6 @@
     "start_date": "2020-11-12"
   },
   {
-    "instructors": "Timo Gnadt,Claudia Engelhardt,Laura Josephine Botzet",
-    "end_date": "2020-12-04",
-    "url": "https://subugoe.github.io/2020-11-23-dc-ecology-online/",
-    "country": "DE",
-    "curriculum": "dc-ecology-r",
-    "venue": "(online)",
-    "longitude": -1,
-    "slug": "2020-11-23-dc-ecology-online",
-    "tag_name": "DC,online,automated-email",
-    "helpers": "Astrid Orth,Andreas Walker",
-    "host_name": "University of Göttingen",
-    "latitude": 45,
-    "start_date": "2020-11-23"
-  },
-  {
-    "instructors": "Sherry Lake,Robin Donatello,Jesse Johnston",
-    "end_date": "2020-12-04",
-    "url": "https://shlake.github.io/2020-12-01-Clemson-online-NNLM/",
-    "country": "US",
-    "curriculum": "lc-other",
-    "venue": "Clemson University (online)",
-    "longitude": null,
-    "slug": "2020-12-01-Clemson-online-NNLM",
-    "tag_name": "LC,online,automated-email",
-    "helpers": null,
-    "host_name": "Network of the National Library of Medicine",
-    "latitude": null,
-    "start_date": "2020-12-01"
-  },
-  {
     "instructors": "Nicolas Dintzner",
     "end_date": "2020-12-09",
     "url": "https://4turesearchdata-carpentries.github.io/2020-12-01-Delft/",
@@ -102,21 +57,6 @@
     "helpers": null,
     "host_name": "Delft University of Technology",
     "latitude": 52.002677,
-    "start_date": "2020-12-01"
-  },
-  {
-    "instructors": "Kathryn Miller,Rohit Goswami,Benson Muite",
-    "end_date": "2020-12-04",
-    "url": "https://bkmgit.github.io/2020-12-01-TRLN-NNLM-online/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "Triangle Research Library Network (online)",
-    "longitude": 0,
-    "slug": "2020-12-01-TRLN-NNLM-online",
-    "tag_name": "LC,online,automated-email",
-    "helpers": null,
-    "host_name": "Network of the National Library of Medicine",
-    "latitude": 0,
     "start_date": "2020-12-01"
   },
   {
@@ -135,66 +75,6 @@
     "start_date": "2020-12-01"
   },
   {
-    "instructors": "David Yakobovitch,Annajiat Alim Rasel,Adrienne Canino,Elizabeth Dobbins",
-    "end_date": "2020-12-04",
-    "url": "https://davidyakobovitch.github.io/2020-12-02-cmu-online/",
-    "country": "US",
-    "curriculum": "dc-socsci-python",
-    "venue": "Carnegie Mellon University (online)",
-    "longitude": 0,
-    "slug": "2020-12-02-cmu-online",
-    "tag_name": "DC,online,automated-email",
-    "helpers": null,
-    "host_name": "Carnegie Mellon University",
-    "latitude": 0,
-    "start_date": "2020-12-02"
-  },
-  {
-    "instructors": "Paul Hancock",
-    "end_date": "2020-12-03",
-    "url": "https://curtinic.github.io/2020-12-02-curtin/",
-    "country": "",
-    "curriculum": "dc-ecology-python",
-    "venue": "Curtin University",
-    "longitude": 115.894375,
-    "slug": "2020-12-02-curtin",
-    "tag_name": "DC,online",
-    "helpers": "Sawitchaya (Nancy) Tippaya,Rakib Hassan,Aniek Roelofs",
-    "host_name": "Curtin University",
-    "latitude": -32.007159,
-    "start_date": "2020-12-02"
-  },
-  {
-    "instructors": "Steven Pryor",
-    "end_date": "2020-12-03",
-    "url": "https://swc-mizzou.github.io/2020-12-03-mizzou/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "University of Missouri (online)",
-    "longitude": -1,
-    "slug": "2020-12-03-mizzou",
-    "tag_name": "online,Circuits,automated-email",
-    "helpers": null,
-    "host_name": "University of Missouri",
-    "latitude": 45,
-    "start_date": "2020-12-03"
-  },
-  {
-    "instructors": "Sarah Stevens,Jason Williams",
-    "end_date": "2020-12-04",
-    "url": "http://sarahlrstevens.info/2020-12-03-ttt-online-sbdh/",
-    "country": "US",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-12-03-ttt-online-sbdh",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": null,
-    "start_date": "2020-12-03"
-  },
-  {
     "instructors": "Steven Pryor",
     "end_date": "2020-12-11",
     "url": "https://swc-mizzou.github.io/2020-12-04-mizzou-online/",
@@ -208,6 +88,21 @@
     "host_name": "University of Missouri",
     "latitude": 45,
     "start_date": "2020-12-04"
+  },
+  {
+    "instructors": "Gil Speyer",
+    "end_date": "2020-12-08",
+    "url": "https://jyalim.github.io/2020-12-07--agave-shell-intro/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "Arizona State University (online)",
+    "longitude": -111.930431,
+    "slug": "2020-12-07--agave-shell-intro",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": null,
+    "host_name": "Arizona State University",
+    "latitude": 33.421019,
+    "start_date": "2020-12-07"
   },
   {
     "instructors": "Jannetta Steyn,Rebecca Osselton,David Herbert",
@@ -360,21 +255,6 @@
     "start_date": "2020-12-09"
   },
   {
-    "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
-    "end_date": "2020-12-15",
-    "url": "https://betterlabmx.github.io/2020-12-14-BetterLab/",
-    "country": "MX",
-    "curriculum": "dc-genomics",
-    "venue": "BetterLab",
-    "longitude": -90,
-    "slug": "2020-12-14-BetterLab",
-    "tag_name": "DC,automated-email",
-    "helpers": null,
-    "host_name": "Langebio",
-    "latitude": 19,
-    "start_date": "2020-12-14"
-  },
-  {
     "instructors": "Rachael Blake,Muriel Dunn,Annajiat Alim Rasel,Sally Chang",
     "end_date": "2020-12-17",
     "url": "https://annajiat.github.io/2020-12-14-auctr-online-NNLM/",
@@ -403,6 +283,21 @@
     "host_name": "Genentech",
     "latitude": 0,
     "start_date": "2020-12-14"
+  },
+  {
+    "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
+    "end_date": "2020-12-19",
+    "url": "https://betterlabmx.github.io/2020-12-18-BetterLab/",
+    "country": "MX",
+    "curriculum": "dc-genomics",
+    "venue": "BetterLab",
+    "longitude": -90,
+    "slug": "2020-12-18-BetterLab",
+    "tag_name": "DC,automated-email",
+    "helpers": null,
+    "host_name": "Langebio",
+    "latitude": 19,
+    "start_date": "2020-12-18"
   },
   {
     "instructors": "Ashar Malik,Akshita Kumar,Roland Huber",
@@ -508,6 +403,21 @@
     "host_name": "Langebio",
     "latitude": 19,
     "start_date": "2021-01-29"
+  },
+  {
+    "instructors": "Damien Irving,Claire Trenham",
+    "end_date": "2021-02-04",
+    "url": "https://damienirving.github.io/2021-02-04-amos/",
+    "country": "AU",
+    "curriculum": "dc-other",
+    "venue": "AMOS 2021",
+    "longitude": 144.963058,
+    "slug": "2021-02-04-amos",
+    "tag_name": "DC",
+    "helpers": null,
+    "host_name": "Australian Meteorological and Oceanographic Society",
+    "latitude": -37.813629,
+    "start_date": "2021-02-04"
   },
   {
     "instructors": "Wolmar Nyberg Åkerström,Niclas Jareborg,Elin Kronander",
