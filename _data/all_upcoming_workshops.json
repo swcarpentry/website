@@ -90,7 +90,7 @@
     "start_date": "2020-12-04"
   },
   {
-    "instructors": "Gil Speyer",
+    "instructors": "Gil Speyer,Rebecca Belshe,Jason Yalim,Mollie Peters",
     "end_date": "2020-12-08",
     "url": "https://jyalim.github.io/2020-12-07--agave-shell-intro/",
     "country": "US",
@@ -283,6 +283,21 @@
     "host_name": "Genentech",
     "latitude": 0,
     "start_date": "2020-12-14"
+  },
+  {
+    "instructors": "Greg Janée,Torin White,Renata Curty",
+    "end_date": "2020-12-17",
+    "url": "https://ucsbcarpentry.github.io/2020-12-16-Rmarkdown-UCSB-online/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of California, Santa Barbara (online)",
+    "longitude": -1,
+    "slug": "2020-12-16-Rmarkdown-UCSB-online",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": "Ian Lessing,Kristi Liu,Serena Osmuss",
+    "host_name": "University of California Santa Barbara",
+    "latitude": 45,
+    "start_date": "2020-12-16"
   },
   {
     "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",

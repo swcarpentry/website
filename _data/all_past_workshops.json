@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Maneesha Sane,Sher! Hurt,Talisha Sutton-Kennedy",
-    "end_date": "2020-12-04",
-    "url": "https://sheraaronhurt.github.io/2021-01-04-uktest/",
-    "country": "US",
-    "curriculum": "dc-ecology-r",
-    "venue": "UK RC Test (online)",
-    "longitude": -1,
-    "slug": "2020-12-04-uktest",
-    "tag_name": "DC,online,automated-email",
-    "helpers": null,
-    "host_name": "Data Carpentry",
-    "latitude": 45,
-    "start_date": "2020-12-04"
-  },
-  {
     "instructors": "Steven Pryor",
     "end_date": "2020-12-03",
     "url": "https://swc-mizzou.github.io/2020-12-03-mizzou/",

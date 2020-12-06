@@ -969,8 +969,6 @@ records:
   - {number: 1287, title: Add read-only access level, updated: '2019-06-24', url: 'https://github.com/carpentries/amy/issues/1287'}
   - {number: 1249, title: 'Question: should we semi-automate "Remove requests"?',
     updated: '2019-06-24', url: 'https://github.com/carpentries/amy/issues/1249'}
-  - {number: 716, title: Migrate from SQLite to PostgreSQL, updated: '2019-06-24',
-    url: 'https://github.com/carpentries/amy/issues/716'}
   - {number: 1510, title: Count of workshops is incorrect, updated: '2019-06-25',
     url: 'https://github.com/carpentries/amy/issues/1510'}
   - {number: 1337, title: Associate AMY Persons with Memberships, updated: '2019-07-06',
@@ -1009,51 +1007,50 @@ records:
   - {number: 1559, title: Bug with editing Person, updated: '2020-08-10', url: 'https://github.com/carpentries/amy/issues/1559'}
   - {number: 1565, title: 'Feature request: Bulk add Instructor training progress',
     updated: '2020-08-20', url: 'https://github.com/carpentries/amy/issues/1565'}
-  - {number: 1657, title: Fixes needed to how lat/lon is treated, updated: '2020-09-02',
-    url: 'https://github.com/carpentries/amy/issues/1657'}
-  - {number: 1564, title: Feature Request- Add task = add person, updated: '2020-09-02',
-    url: 'https://github.com/carpentries/amy/issues/1564'}
-  - {number: 1515, title: All queries should be exportable, updated: '2020-09-02',
-    url: 'https://github.com/carpentries/amy/issues/1515'}
-  - {number: 1484, title: Track changed metadata, updated: '2020-09-02', url: 'https://github.com/carpentries/amy/issues/1484'}
-  - {number: 1687, title: Allow editing of recipients in email previews, updated: '2020-09-06',
-    url: 'https://github.com/carpentries/amy/issues/1687'}
-  - {number: 1624, title: Name matching on workshop request forms, updated: '2020-09-22',
-    url: 'https://github.com/carpentries/amy/issues/1624'}
-  - {number: 1512, title: Use DataTables in all tabular data views, updated: '2020-09-22',
-    url: 'https://github.com/carpentries/amy/issues/1512'}
-  - {number: 1710, title: Require conditional confirmation that workshops <2 mos away
-      may not be possible., updated: '2020-09-23', url: 'https://github.com/carpentries/amy/issues/1710'}
   - {number: 1719, title: include option in profiles for people to disable having
       their information visible on our websites, updated: '2020-10-02', url: 'https://github.com/carpentries/amy/issues/1719'}
   - {number: 1711, title: Re-activate fields for pre/post surveys, updated: '2020-10-02',
     url: 'https://github.com/carpentries/amy/issues/1711'}
   - {number: 1722, title: Add Time & Time Zone to WRF, updated: '2020-10-14', url: 'https://github.com/carpentries/amy/issues/1722'}
-  - {number: 1727, title: Add "supporting instructors" to recipients of "ask for website"
-      autoemail, updated: '2020-10-22', url: 'https://github.com/carpentries/amy/issues/1727'}
   - {number: 1738, title: Include registration code in search function, updated: '2020-11-03',
     url: 'https://github.com/carpentries/amy/issues/1738'}
-  - {number: 1716, title: 'Include Supporting Instructors in count in  "Unpublished
-      workshops" table ', updated: '2020-11-11', url: 'https://github.com/carpentries/amy/issues/1716'}
   - {number: 1749, title: Gather consent during profile creation, updated: '2020-11-12',
     url: 'https://github.com/carpentries/amy/issues/1749'}
   - {number: 1752, title: Viewing events assigned to others, updated: '2020-11-19',
     url: 'https://github.com/carpentries/amy/issues/1752'}
   - {number: 1534, title: Remove deprecated features of AMY, updated: '2020-11-22',
     url: 'https://github.com/carpentries/amy/issues/1534'}
-  - {number: 1516, title: Update "current"/ "unpublished" requirements, updated: '2020-11-23',
-    url: 'https://github.com/carpentries/amy/issues/1516'}
   - {number: 1755, title: Support for multiple hosts, updated: '2020-11-24', url: 'https://github.com/carpentries/amy/issues/1755'}
   - {number: 1754, title: 'Introduce warning if membership term is not one year ',
     updated: '2020-12-03', url: 'https://github.com/carpentries/amy/issues/1754'}
+  - {number: 1756, title: Release notes aren't visible in the docs, updated: '2020-12-06',
+    url: 'https://github.com/carpentries/amy/issues/1756'}
+  - {number: 1716, title: 'Include Supporting Instructors in count in  "Unpublished
+      workshops" table ', updated: '2020-12-06', url: 'https://github.com/carpentries/amy/issues/1716'}
+  - {number: 1710, title: Require conditional confirmation that workshops <2 mos away
+      may not be possible., updated: '2020-12-06', url: 'https://github.com/carpentries/amy/issues/1710'}
+  - {number: 1687, title: Allow editing of recipients in email previews, updated: '2020-12-06',
+    url: 'https://github.com/carpentries/amy/issues/1687'}
+  - {number: 1657, title: Fixes needed to how lat/lon is treated, updated: '2020-12-06',
+    url: 'https://github.com/carpentries/amy/issues/1657'}
+  - {number: 1624, title: Name matching on workshop request forms, updated: '2020-12-06',
+    url: 'https://github.com/carpentries/amy/issues/1624'}
+  - {number: 1564, title: Feature Request- Add task = add person, updated: '2020-12-06',
+    url: 'https://github.com/carpentries/amy/issues/1564'}
+  - {number: 1516, title: Update "current"/ "unpublished" requirements, updated: '2020-12-06',
+    url: 'https://github.com/carpentries/amy/issues/1516'}
+  - {number: 1515, title: All queries should be exportable, updated: '2020-12-06',
+    url: 'https://github.com/carpentries/amy/issues/1515'}
+  - {number: 1512, title: Use DataTables in all tabular data views, updated: '2020-12-06',
+    url: 'https://github.com/carpentries/amy/issues/1512'}
+  - {number: 1484, title: Track changed metadata, updated: '2020-12-06', url: 'https://github.com/carpentries/amy/issues/1484'}
+  - {number: 716, title: Migrate from SQLite to PostgreSQL, updated: '2020-12-06',
+    url: 'https://github.com/carpentries/amy/issues/716'}
   pulls:
-  - {number: 1751, title: change heading for dashboard workshop list, updated: '2020-11-22',
-    url: 'https://github.com/carpentries/amy/pull/1751'}
-  - {number: 1747, title: 'Admin dashboard: change conditions and calculations in
-      "Current events", "Unpublished events" columns', updated: '2020-11-22', url: 'https://github.com/carpentries/amy/pull/1747'}
   - {number: 1750, title: 'Switch to PostgreSQL and upgrade dependencies, tests',
-    updated: '2020-11-23', url: 'https://github.com/carpentries/amy/pull/1750'}
-  - {number: 1753, title: Membership agreement link, updated: '2020-11-29', url: 'https://github.com/carpentries/amy/pull/1753'}
+    updated: '2020-12-06', url: 'https://github.com/carpentries/amy/pull/1750'}
+  - {number: 1747, title: 'Admin dashboard: change conditions and calculations in
+      "Current events", "Unpublished events" columns', updated: '2020-12-06', url: 'https://github.com/carpentries/amy/pull/1747'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1067,4 +1064,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-12-05T18:15:11Z'
+timestamp: '2020-12-06T18:15:25Z'
