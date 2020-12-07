@@ -1050,6 +1050,21 @@
     "start_date": "2020-10-19"
   },
   {
+    "instructors": "Bonny Adane,Yonas Demissew",
+    "end_date": "2020-10-21",
+    "url": "https://educationstrategycenteraddis.github.io/2020-11-02_Ethiopia/",
+    "country": "ET",
+    "curriculum": "dc-ecology-r",
+    "venue": "Addis Ababa TVET Bureau",
+    "longitude": -99.03001,
+    "slug": "2020-11-02-Ethiopia",
+    "tag_name": "DC",
+    "helpers": "Margareth Gfrerer",
+    "host_name": "Ethiopian Research and Education Network",
+    "latitude": 19.55794,
+    "start_date": "2020-10-19"
+  },
+  {
     "instructors": "Steven Pryor",
     "end_date": "2020-10-16",
     "url": "https://swc-mizzou.github.io/2020-10-16-mizzou/",

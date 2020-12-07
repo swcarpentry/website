@@ -187,6 +187,8 @@ records:
   - {number: 1158, title: Update 06-script.md, updated: '2020-11-24', url: 'https://github.com/swcarpentry/shell-novice/pull/1158'}
   - {number: 1159, title: 'I changed ''the command wc'' to ''an example command wc
       (issue #1124)', updated: '2020-11-25', url: 'https://github.com/swcarpentry/shell-novice/pull/1159'}
+  - {number: 1160, title: 'Specify the current directory for `grep -r` example, prevent
+      hang.', updated: '2020-12-07', url: 'https://github.com/swcarpentry/shell-novice/pull/1160'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -876,10 +878,7 @@ records:
   - {number: 552, title: Make gentler intro for ggplot2 lesson, updated: '2019-08-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/552'}
   - {number: 551, title: update links, updated: '2020-09-25', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/551'}
-  - {number: 676, title: Update link in function lesson, updated: '2020-12-02', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/676'}
   - {number: 675, title: 'Fix #673', updated: '2020-12-02', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/675'}
-  - {number: 672, title: Add a third solution to Challenge 1 in Episode 7, updated: '2020-12-05',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/672'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1046,6 +1045,8 @@ records:
   - {number: 1484, title: Track changed metadata, updated: '2020-12-06', url: 'https://github.com/carpentries/amy/issues/1484'}
   - {number: 716, title: Migrate from SQLite to PostgreSQL, updated: '2020-12-06',
     url: 'https://github.com/carpentries/amy/issues/716'}
+  - {number: 1757, title: 'How can we update authors list?', updated: '2020-12-07',
+    url: 'https://github.com/carpentries/amy/issues/1757'}
   pulls:
   - {number: 1750, title: 'Switch to PostgreSQL and upgrade dependencies, tests',
     updated: '2020-12-06', url: 'https://github.com/carpentries/amy/pull/1750'}
@@ -1064,4 +1065,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-12-06T18:15:25Z'
+timestamp: '2020-12-07T19:11:54Z'
