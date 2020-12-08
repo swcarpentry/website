@@ -45,6 +45,21 @@
     "start_date": "2020-11-12"
   },
   {
+    "instructors": "Flavia Flaviani,Stefania Marcotti,Alessia Visconti",
+    "end_date": "2020-12-16",
+    "url": "https://alesssia.github.io/2020-11-180-KCL/",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "King's College London (online)",
+    "longitude": 0,
+    "slug": "2020-11-18-KCL",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "King's College London",
+    "latitude": 0,
+    "start_date": "2020-11-18"
+  },
+  {
     "instructors": "Nicolas Dintzner",
     "end_date": "2020-12-09",
     "url": "https://4turesearchdata-carpentries.github.io/2020-12-01-Delft/",
@@ -68,7 +83,7 @@
     "venue": "University of Edinburgh",
     "longitude": -3.187239,
     "slug": "2020-12-01-edinburgh-bio-online",
-    "tag_name": "Circuits",
+    "tag_name": "online,Circuits",
     "helpers": "Giacomo Peru,Bailey Harrington,Elliot Chapman,Bryan Wee",
     "host_name": "University of Edinburgh",
     "latitude": 55.947459,
@@ -88,21 +103,6 @@
     "host_name": "University of Missouri",
     "latitude": 45,
     "start_date": "2020-12-04"
-  },
-  {
-    "instructors": "Gil Speyer,Rebecca Belshe,Jason Yalim,Mollie Peters",
-    "end_date": "2020-12-08",
-    "url": "https://jyalim.github.io/2020-12-07--agave-shell-intro/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "Arizona State University (online)",
-    "longitude": -111.930431,
-    "slug": "2020-12-07--agave-shell-intro",
-    "tag_name": "online,Circuits,automated-email",
-    "helpers": null,
-    "host_name": "Arizona State University",
-    "latitude": 33.421019,
-    "start_date": "2020-12-07"
   },
   {
     "instructors": "Jannetta Steyn,Rebecca Osselton,David Herbert",
@@ -144,24 +144,9 @@
     "longitude": 0,
     "slug": "2020-12-07-auburn-NNLM-online",
     "tag_name": "LC,online,automated-email",
-    "helpers": null,
+    "helpers": "Mousumi Akter,Clint Bellanger,Yubaraj Karki,Ali Krzton,Mumen Rababah,Selorm Tamakloe",
     "host_name": "Auburn University",
     "latitude": 0,
-    "start_date": "2020-12-07"
-  },
-  {
-    "instructors": "Kathryn Napier",
-    "end_date": "2020-12-08",
-    "url": "https://curtinic.github.io/2020-12-07-curtin/",
-    "country": "AU",
-    "curriculum": "dc-ecology-r",
-    "venue": "Curtin University",
-    "longitude": 115.894375,
-    "slug": "2020-12-07-curtin",
-    "tag_name": "DC,online",
-    "helpers": "Paul Hancock,Behrouz Khabbaz Beheshti",
-    "host_name": "Curtin University",
-    "latitude": -32.007159,
     "start_date": "2020-12-07"
   },
   {
@@ -174,29 +159,14 @@
     "longitude": 0,
     "slug": "2020-12-07-spelman-SBDH",
     "tag_name": "DC,online,automated-email",
-    "helpers": null,
+    "helpers": "Jerry Volcy,Marionette Holmes,Chuang Peng,A. Nayena Blankson",
     "host_name": "South Big Data Hub",
     "latitude": 0,
     "start_date": "2020-12-07"
   },
   {
-    "instructors": "John Simpson,Danielle Quinn",
-    "end_date": "2020-12-08",
-    "url": "https://computecanada.github.io/2020-12-07-ttt-canada/",
-    "country": "CA",
-    "curriculum": null,
-    "venue": "",
-    "longitude": null,
-    "slug": "2020-12-07-ttt-canada",
-    "tag_name": "TTT,online",
-    "helpers": "Grace Fishbein",
-    "host_name": "Instructor Training",
-    "latitude": null,
-    "start_date": "2020-12-07"
-  },
-  {
     "instructors": "Akshay Paropkari,Elnaz Amanzadeh Jajin",
-    "end_date": "2020-12-10",
+    "end_date": "2020-12-12",
     "url": "https://elnazamanzadeh.github.io/2020-12-07-txstate-online/",
     "country": "US",
     "curriculum": "dc-socsci-python",
@@ -318,7 +288,7 @@
     "instructors": "Ashar Malik,Akshita Kumar,Roland Huber",
     "end_date": "2020-12-23",
     "url": "https://proteinmechanic.github.io/2020-12-21-BioinformaticsInstitute/",
-    "country": "SI",
+    "country": "SG",
     "curriculum": "mix-and-match",
     "venue": "The Bioinformatics Institute, A*STAR",
     "longitude": -72,
@@ -328,6 +298,36 @@
     "host_name": "The Bioinformatics Institute",
     "latitude": 25,
     "start_date": "2020-12-21"
+  },
+  {
+    "instructors": "Boryana Koseva,Elizabeth Everman,Casey Russell",
+    "end_date": "2021-01-15",
+    "url": "https://kulibraries.github.io/2021-01-04-ku-dc-online/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "University of Kansas (online)",
+    "longitude": -95.238251,
+    "slug": "2021-01-04-ku-dc-online",
+    "tag_name": "DC,online,automated-email",
+    "helpers": "Boryana Koseva,Jamene Brooks-Kieffer,Casey Russell",
+    "host_name": "University of Kansas",
+    "latitude": 38.973148,
+    "start_date": "2021-01-04"
+  },
+  {
+    "instructors": "Azalee Bostroem,Rodolfo Montez,Allen Downey",
+    "end_date": "2021-01-08",
+    "url": "https://abostroem.github.io/2021-01-07-aas-online/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "American Astronomical Society (online)",
+    "longitude": 0,
+    "slug": "2021-01-07-aas-online",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": "Meredith Rawls",
+    "host_name": "University of California Davis",
+    "latitude": 0,
+    "start_date": "2021-01-07"
   },
   {
     "instructors": "Yuping Huang",
@@ -405,6 +405,21 @@
     "start_date": "2021-01-20"
   },
   {
+    "instructors": "Ed Bennett,Mark Dawson,Michele Mesiti,Ben Thorpe",
+    "end_date": "2021-01-29",
+    "url": "https://sa2c.github.io/2021-01-25-swansea",
+    "country": "GB",
+    "curriculum": "swc-python",
+    "venue": "Swansea University (online)",
+    "longitude": -3.95,
+    "slug": "2021-01-23-swansea",
+    "tag_name": "SWC,online",
+    "helpers": "Tom Pritchard",
+    "host_name": "Swansea University",
+    "latitude": 51.6,
+    "start_date": "2021-01-25"
+  },
+  {
     "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
     "end_date": "2021-01-29",
     "url": "https://betterlabmx.github.io/2021-01-29-BetterLab/",
@@ -420,7 +435,7 @@
     "start_date": "2021-01-29"
   },
   {
-    "instructors": "Damien Irving,Claire Trenham",
+    "instructors": "Damien Irving,Holger Wolff,Claire Trenham",
     "end_date": "2021-02-04",
     "url": "https://damienirving.github.io/2021-02-04-amos/",
     "country": "AU",

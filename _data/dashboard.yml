@@ -167,7 +167,6 @@ records:
       directory, updated: '2020-11-19', url: 'https://github.com/swcarpentry/shell-novice/issues/1154'}
   - {number: 1157, title: 'Suggestions for improving Pipes and Filters episode ',
     updated: '2020-11-23', url: 'https://github.com/swcarpentry/shell-novice/issues/1157'}
-  - {number: 1124, title: segue into wc command, updated: '2020-11-25', url: 'https://github.com/swcarpentry/shell-novice/issues/1124'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2020-04-17', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -184,11 +183,6 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/1155'}
   - {number: 1156, title: Add file extension to goostats and goodiff, updated: '2020-11-23',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1156'}
-  - {number: 1158, title: Update 06-script.md, updated: '2020-11-24', url: 'https://github.com/swcarpentry/shell-novice/pull/1158'}
-  - {number: 1159, title: 'I changed ''the command wc'' to ''an example command wc
-      (issue #1124)', updated: '2020-11-25', url: 'https://github.com/swcarpentry/shell-novice/pull/1159'}
-  - {number: 1160, title: 'Specify the current directory for `grep -r` example, prevent
-      hang.', updated: '2020-12-07', url: 'https://github.com/swcarpentry/shell-novice/pull/1160'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -1047,6 +1041,8 @@ records:
     url: 'https://github.com/carpentries/amy/issues/716'}
   - {number: 1757, title: 'How can we update authors list?', updated: '2020-12-07',
     url: 'https://github.com/carpentries/amy/issues/1757'}
+  - {number: 1758, title: Slug is being generated incorrectly using workshop location,
+    updated: '2020-12-08', url: 'https://github.com/carpentries/amy/issues/1758'}
   pulls:
   - {number: 1750, title: 'Switch to PostgreSQL and upgrade dependencies, tests',
     updated: '2020-12-06', url: 'https://github.com/carpentries/amy/pull/1750'}
@@ -1065,4 +1061,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-12-07T19:11:54Z'
+timestamp: '2020-12-08T19:20:15Z'
