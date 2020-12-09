@@ -183,6 +183,8 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/1155'}
   - {number: 1156, title: Add file extension to goostats and goodiff, updated: '2020-11-23',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1156'}
+  - {number: 1161, title: Additional detail in the solution to the "Doing a Dry Run"
+      exercise, updated: '2020-12-08', url: 'https://github.com/swcarpentry/shell-novice/pull/1161'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -1061,4 +1063,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-12-08T19:20:15Z'
+timestamp: '2020-12-09T19:19:40Z'
