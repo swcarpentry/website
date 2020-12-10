@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Jeffrey Oliver,Ariel Deardorff",
+    "end_date": "2020-12-10",
+    "url": "https://arieldeardorff.github.io/2020-12-09-ttt-online-PST/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2020-12-09-ttt-online-PST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2020-12-09"
+  },
+  {
     "instructors": "Gil Speyer,Rebecca Belshe,Jason Yalim,Mollie Peters",
     "end_date": "2020-12-08",
     "url": "https://jyalim.github.io/2020-12-07--agave-shell-intro/",
@@ -15,6 +30,36 @@
     "start_date": "2020-12-07"
   },
   {
+    "instructors": "Anita Schürch,Julian Paganini,Jesse Kerkvliet",
+    "end_date": "2020-12-09",
+    "url": "https://aschuerch.github.io/2020-12-07-Utrecht/",
+    "country": "NL",
+    "curriculum": "dc-genomics",
+    "venue": "Utrecht University",
+    "longitude": 5.169072,
+    "slug": "2020-12-07-Utrecht",
+    "tag_name": "DC,online,automated-email",
+    "helpers": "Malbert Rogers",
+    "host_name": "UMC Utrecht, The Netherlands, Medical Microbiology",
+    "latitude": 52.085393,
+    "start_date": "2020-12-07"
+  },
+  {
+    "instructors": "Chuck McAndrew,MONAH ABOU ALEZZ,Benson Muite",
+    "end_date": "2020-12-10",
+    "url": "https://bkmgit.github.io/2020-12-07-auburn-NNLM-online/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Auburn University (online)",
+    "longitude": 0,
+    "slug": "2020-12-07-auburn-NNLM-online",
+    "tag_name": "LC,online,automated-email",
+    "helpers": "Mousumi Akter,Clint Bellanger,Yubaraj Karki,Ali Krzton,Mumen Rababah,Selorm Tamakloe",
+    "host_name": "Auburn University",
+    "latitude": 0,
+    "start_date": "2020-12-07"
+  },
+  {
     "instructors": "Kathryn Napier",
     "end_date": "2020-12-08",
     "url": "https://curtinic.github.io/2020-12-07-curtin/",
@@ -27,6 +72,21 @@
     "helpers": "Paul Hancock,Behrouz Khabbaz Beheshti",
     "host_name": "Curtin University",
     "latitude": -32.007159,
+    "start_date": "2020-12-07"
+  },
+  {
+    "instructors": "Aditya Bandla,Annajiat Alim Rasel,Ana Carolina Dantas Machado,Qinyun Lin",
+    "end_date": "2020-12-10",
+    "url": "https://annajiat.github.io/2020-12-07-spelman-SBDH/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "Spelman College jointly hosting with Morehouse College (online)",
+    "longitude": 0,
+    "slug": "2020-12-07-spelman-SBDH",
+    "tag_name": "DC,online,automated-email",
+    "helpers": "Jerry Volcy,Marionette Holmes,Chuang Peng,A. Nayena Blankson",
+    "host_name": "South Big Data Hub",
+    "latitude": 0,
     "start_date": "2020-12-07"
   },
   {
@@ -117,6 +177,21 @@
     "helpers": null,
     "host_name": "Network of the National Library of Medicine",
     "latitude": null,
+    "start_date": "2020-12-01"
+  },
+  {
+    "instructors": "Nicolas Dintzner",
+    "end_date": "2020-12-09",
+    "url": "https://4turesearchdata-carpentries.github.io/2020-12-01-Delft/",
+    "country": "NL",
+    "curriculum": "swc-python",
+    "venue": "December 2020 SWC Workshop @TU Delft (online)",
+    "longitude": 4.37524,
+    "slug": "2020-12-01-Delft",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": null,
+    "host_name": "Delft University of Technology",
+    "latitude": 52.002677,
     "start_date": "2020-12-01"
   },
   {
@@ -417,6 +492,36 @@
     "helpers": "Henry Qu,Kip Balkcom,Rodrigo Goncalves Trevisan",
     "host_name": "United States Deparment of Agriculture",
     "latitude": 38.9,
+    "start_date": "2020-11-12"
+  },
+  {
+    "instructors": "Nilani Ganeshwaran,Phil Reed,Carlene Barton",
+    "end_date": "2020-12-10",
+    "url": "https://uom-nilani.github.io/2020-11-12-cilip-mdg/",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "CILIP MDG Library Carpentry, sponsored by The University of Manchester Library (online)",
+    "longitude": -1,
+    "slug": "2020-11-12-cilip-mdg",
+    "tag_name": "online,Circuits",
+    "helpers": "Jane Gallagher",
+    "host_name": "University of Manchester",
+    "latitude": 45,
+    "start_date": "2020-11-12"
+  },
+  {
+    "instructors": "Cody Hennesy,Caitlin Bakker,David Naughton,Wanda Marsolek",
+    "end_date": "2020-12-10",
+    "url": "https://chennesy.github.io/2020-11-12-minnesota/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Minnesota (online)",
+    "longitude": 0,
+    "slug": "2020-11-12-minnesota",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": "Nicholas Dunn,Katie Wilson,Mary Ann Warner,Valerie Collins,Alexis Logsdon,Stacie Traill",
+    "host_name": "University of Minnesota",
+    "latitude": 0,
     "start_date": "2020-11-12"
   },
   {
@@ -1605,7 +1710,7 @@
     "start_date": "2020-09-28"
   },
   {
-    "instructors": "kristopher row,Farah Shamma,Peace Ossom Williamson",
+    "instructors": "Kristopher Row,Farah Shamma,Peace Ossom Williamson",
     "end_date": "2020-10-04",
     "url": "https://utacarpentries.github.io/2020-09-26-UTA/",
     "country": "US",
@@ -1780,7 +1885,7 @@
     "slug": "2020-09-21-RAL",
     "tag_name": "online,Circuits",
     "helpers": "Emily Lewis,Andrew Lister,Adam Laverack,Stuart Pullinger,Dominic Oram,Cosimo Campo,Patrick Austin",
-    "host_name": "Science & Technology Facilities Council",
+    "host_name": "Science and Technology Facilities Council",
     "latitude": 52,
     "start_date": "2020-09-21"
   },
@@ -1887,6 +1992,21 @@
     "helpers": "Tadeu Nogueira,Abdurhman Ali,Kari Alterskjær",
     "host_name": "Nord University",
     "latitude": 0,
+    "start_date": "2020-09-16"
+  },
+  {
+    "instructors": "Christina Koch,Sarah Stevens,Clare Michaud,Madison Youngblom",
+    "end_date": "2020-12-09",
+    "url": "https://uw-madison-datascience.github.io/2020-09-16-uwmadison-mini/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "UW-Madison",
+    "longitude": -89.4124875,
+    "slug": "2020-09-16-uwmadison-mini",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": "Lauren Michael,Elizabeth McDaniel,Casey Schacher,Moksha Menghaney,Erwin Lares,Maij Xyooj,Nathaniel Schleif",
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.076592,
     "start_date": "2020-09-16"
   },
   {
@@ -3390,7 +3510,7 @@
     "start_date": "2020-06-25"
   },
   {
-    "instructors": "Edward Wallace,Vasileios Panagiotis Lenis,Felicity Anderson",
+    "instructors": "Edward Wallace,Vasileios Panagiotis,Felicity Anderson",
     "end_date": "2020-06-26",
     "url": "https://edcarp.github.io/2020-06-25-edinburgh-dc-genomics/",
     "country": "GB",
@@ -3654,7 +3774,7 @@
     "longitude": -3.187347,
     "slug": "2020-06-16-sfc-online",
     "tag_name": "DC,online",
-    "helpers": "Mario Antonioletti,Aleksandra Nenadic,Giacomo Peru,Vasileios Panagiotis Lenis,Lucia Michielin,Luis Reyes,Fran Baseby",
+    "helpers": "Mario Antonioletti,Aleksandra Nenadic,Giacomo Peru,Vasileios Panagiotis,Lucia Michielin,Luis Reyes,Fran Baseby",
     "host_name": "University of Edinburgh",
     "latitude": 55.945358,
     "start_date": "2020-06-16"
@@ -3985,7 +4105,7 @@
     "slug": "2020-05-29-ukaea-swcarpentry",
     "tag_name": "SWC",
     "helpers": null,
-    "host_name": "Culham Centre for Fusion Energy, UK Atomic Energy Authority",
+    "host_name": "UK Atomic Energy Authority",
     "latitude": 51.657,
     "start_date": "2020-05-29"
   },
@@ -6835,7 +6955,7 @@
     "slug": "2020-01-15-ukaea-swcarpentry",
     "tag_name": "SWC",
     "helpers": null,
-    "host_name": "Culham Centre for Fusion Energy, UK Atomic Energy Authority",
+    "host_name": "UK Atomic Energy Authority",
     "latitude": 51.657,
     "start_date": "2020-01-15"
   },
@@ -10110,7 +10230,7 @@
     "start_date": "2019-09-09"
   },
   {
-    "instructors": "Anna Williford,Seyedeh Ayda Mirsalehi,kristopher row,Farah Shamma,Balan Ramesh,FEROZ AHMED",
+    "instructors": "Anna Williford,Seyedeh Ayda Mirsalehi,Kristopher Row,Farah Shamma,Balan Ramesh,FEROZ AHMED",
     "end_date": "2019-09-14",
     "url": "https://utacarpentries.github.io/2019-09-07-UTA/",
     "country": "US",
@@ -16425,7 +16545,7 @@
     "start_date": "2018-12-10"
   },
   {
-    "instructors": "Edward Wallace,Vasileios Panagiotis Lenis",
+    "instructors": "Edward Wallace,Vasileios Panagiotis",
     "end_date": "2018-12-07",
     "url": "https://edcarp.github.io/2018-12-06-edinburgh-dc-genomics/",
     "country": "GB",
@@ -23235,7 +23355,7 @@
     "start_date": "2018-01-26"
   },
   {
-    "instructors": "Kwasi Kwakwa,Vasileios Panagiotis Lenis",
+    "instructors": "Kwasi Kwakwa,Vasileios Panagiotis",
     "end_date": "2018-01-26",
     "url": "https://kkwakwa.github.io/2018-01-25-swansea/",
     "country": "GB",
@@ -28230,7 +28350,7 @@
     "start_date": "2017-04-26"
   },
   {
-    "instructors": "Rob Davey,Vasileios Panagiotis Lenis",
+    "instructors": "Rob Davey,Vasileios Panagiotis",
     "end_date": "2017-04-27",
     "url": "https://tgac.github.io/2017-04-26-norwich/",
     "country": "GB",
@@ -33060,7 +33180,7 @@
     "start_date": "2016-06-08"
   },
   {
-    "instructors": "Moritz Neeb,Marek Cmero,Vasileios Panagiotis Lenis",
+    "instructors": "Moritz Neeb,Marek Cmero,Vasileios Panagiotis",
     "end_date": "2016-06-08",
     "url": "http://tgac.github.io/2016-06-07-TGAC/",
     "country": "GB",
@@ -34225,7 +34345,7 @@
     "slug": "2016-04-04-ilmenau",
     "tag_name": "SWC",
     "helpers": "Iwona Sobieraj",
-    "host_name": "University of surrey",
+    "host_name": "University of Surrey",
     "latitude": 50.68356,
     "start_date": "2016-04-04"
   },
@@ -36355,7 +36475,7 @@
     "slug": "2015-11-09-culham",
     "tag_name": "SWC",
     "helpers": "David Gubb,Derek Sandiford,Alex Meakins,David Grist,James Edward",
-    "host_name": "Culham Centre for Fusion Energy, UK Atomic Energy Authority",
+    "host_name": "UK Atomic Energy Authority",
     "latitude": 51.6576076,
     "start_date": "2015-11-09"
   },
@@ -37300,7 +37420,7 @@
     "slug": "2015-09-07-guildford",
     "tag_name": "SWC",
     "helpers": "William Christmas",
-    "host_name": "University of surrey",
+    "host_name": "University of Surrey",
     "latitude": 51.24278,
     "start_date": "2015-09-07"
   },
@@ -43765,7 +43885,7 @@
     "slug": "2012-07-10-ral",
     "tag_name": "SWC",
     "helpers": null,
-    "host_name": "Science & Technology Facilities Council",
+    "host_name": "Science and Technology Facilities Council",
     "latitude": 51.573333,
     "start_date": "2012-07-10"
   },

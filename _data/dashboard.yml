@@ -776,6 +776,8 @@ records:
   - {number: 876, title: Revision to Code Sample, updated: '2020-11-19', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/876'}
   - {number: 891, title: Adding figure with lesson goal/overview, updated: '2020-11-24',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/891'}
+  - {number: 893, title: 'edited code, variable used before instantiated', updated: '2020-12-10',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/893'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -869,12 +871,10 @@ records:
   - {number: 540, title: Remove plyr dependency, updated: '2020-11-10', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/540'}
   - {number: 674, title: Rename (or split) episode "Exploring Data Frames", updated: '2020-11-30',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/674'}
-  - {number: 673, title: Avoid the use of "Dataframe", updated: '2020-12-01', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/673'}
   pulls:
   - {number: 552, title: Make gentler intro for ggplot2 lesson, updated: '2019-08-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/552'}
   - {number: 551, title: update links, updated: '2020-09-25', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/551'}
-  - {number: 675, title: 'Fix #673', updated: '2020-12-02', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/675'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1044,7 +1044,7 @@ records:
   - {number: 1757, title: 'How can we update authors list?', updated: '2020-12-07',
     url: 'https://github.com/carpentries/amy/issues/1757'}
   - {number: 1758, title: Slug is being generated incorrectly using workshop location,
-    updated: '2020-12-08', url: 'https://github.com/carpentries/amy/issues/1758'}
+    updated: '2020-12-10', url: 'https://github.com/carpentries/amy/issues/1758'}
   pulls:
   - {number: 1750, title: 'Switch to PostgreSQL and upgrade dependencies, tests',
     updated: '2020-12-06', url: 'https://github.com/carpentries/amy/pull/1750'}
@@ -1062,5 +1062,7 @@ records:
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
+  - {number: 1203, title: jduckles resigned curriculum advisors, updated: '2020-12-09',
+    url: 'https://github.com/swcarpentry/website/pull/1203'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-12-09T19:19:40Z'
+timestamp: '2020-12-10T19:45:12Z'

@@ -1,50 +1,5 @@
 [
   {
-    "instructors": "Christina Koch,Sarah Stevens,Clare Michaud,Madison Youngblom",
-    "end_date": "2020-12-09",
-    "url": "https://uw-madison-datascience.github.io/2020-09-16-uwmadison-mini/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "UW-Madison",
-    "longitude": -89.4124875,
-    "slug": "2020-09-16-uwmadison-mini",
-    "tag_name": "online,Circuits,automated-email",
-    "helpers": "Lauren Michael,Elizabeth McDaniel,Casey Schacher,Moksha Menghaney,Erwin Lares,Maij Xyooj,Nathaniel Schleif",
-    "host_name": "University of Wisconsin - Madison",
-    "latitude": 43.076592,
-    "start_date": "2020-09-16"
-  },
-  {
-    "instructors": "Nilani Ganeshwaran,Phil Reed,Carlene Barton",
-    "end_date": "2020-12-10",
-    "url": "https://uom-nilani.github.io/2020-11-12-cilip-mdg/",
-    "country": "GB",
-    "curriculum": "mix-and-match",
-    "venue": "CILIP MDG Library Carpentry, sponsored by The University of Manchester Library (online)",
-    "longitude": -1,
-    "slug": "2020-11-12-cilip-mdg",
-    "tag_name": "online,Circuits",
-    "helpers": "Jane Gallagher",
-    "host_name": "University of Manchester",
-    "latitude": 45,
-    "start_date": "2020-11-12"
-  },
-  {
-    "instructors": "Cody Hennesy,Caitlin Bakker,David Naughton,Wanda Marsolek",
-    "end_date": "2020-12-10",
-    "url": "https://chennesy.github.io/2020-11-12-minnesota/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "University of Minnesota (online)",
-    "longitude": 0,
-    "slug": "2020-11-12-minnesota",
-    "tag_name": "online,Circuits,automated-email",
-    "helpers": "Nicholas Dunn,Katie Wilson,Mary Ann Warner,Valerie Collins,Alexis Logsdon,Stacie Traill",
-    "host_name": "University of Minnesota",
-    "latitude": 0,
-    "start_date": "2020-11-12"
-  },
-  {
     "instructors": "Flavia Flaviani,Stefania Marcotti,Alessia Visconti",
     "end_date": "2020-12-16",
     "url": "https://alesssia.github.io/2020-11-180-KCL/",
@@ -58,21 +13,6 @@
     "host_name": "King's College London",
     "latitude": 0,
     "start_date": "2020-11-18"
-  },
-  {
-    "instructors": "Nicolas Dintzner",
-    "end_date": "2020-12-09",
-    "url": "https://4turesearchdata-carpentries.github.io/2020-12-01-Delft/",
-    "country": "NL",
-    "curriculum": "swc-python",
-    "venue": "December 2020 SWC Workshop @TU Delft (online)",
-    "longitude": 4.37524,
-    "slug": "2020-12-01-Delft",
-    "tag_name": "SWC,online,automated-email",
-    "helpers": null,
-    "host_name": "Delft University of Technology",
-    "latitude": 52.002677,
-    "start_date": "2020-12-01"
   },
   {
     "instructors": "Edward Wallace,Felicity Anderson",
@@ -117,51 +57,6 @@
     "helpers": null,
     "host_name": "University of Newcastle",
     "latitude": 45,
-    "start_date": "2020-12-07"
-  },
-  {
-    "instructors": "Anita Schürch,Julian Paganini,Jesse Kerkvliet",
-    "end_date": "2020-12-09",
-    "url": "https://aschuerch.github.io/2020-12-07-Utrecht/",
-    "country": "NL",
-    "curriculum": "dc-genomics",
-    "venue": "Utrecht University",
-    "longitude": 5.169072,
-    "slug": "2020-12-07-Utrecht",
-    "tag_name": "DC,online,automated-email",
-    "helpers": "Malbert Rogers",
-    "host_name": "UMC Utrecht, The Netherlands, Medical Microbiology",
-    "latitude": 52.085393,
-    "start_date": "2020-12-07"
-  },
-  {
-    "instructors": "Chuck McAndrew,MONAH ABOU ALEZZ,Benson Muite",
-    "end_date": "2020-12-10",
-    "url": "https://bkmgit.github.io/2020-12-07-auburn-NNLM-online/",
-    "country": "US",
-    "curriculum": "lc",
-    "venue": "Auburn University (online)",
-    "longitude": 0,
-    "slug": "2020-12-07-auburn-NNLM-online",
-    "tag_name": "LC,online,automated-email",
-    "helpers": "Mousumi Akter,Clint Bellanger,Yubaraj Karki,Ali Krzton,Mumen Rababah,Selorm Tamakloe",
-    "host_name": "Auburn University",
-    "latitude": 0,
-    "start_date": "2020-12-07"
-  },
-  {
-    "instructors": "Aditya Bandla,Annajiat Alim Rasel,Ana Carolina Dantas Machado,Qinyun Lin",
-    "end_date": "2020-12-10",
-    "url": "https://annajiat.github.io/2020-12-07-spelman-SBDH/",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "Spelman College jointly hosting with Morehouse College (online)",
-    "longitude": 0,
-    "slug": "2020-12-07-spelman-SBDH",
-    "tag_name": "DC,online,automated-email",
-    "helpers": "Jerry Volcy,Marionette Holmes,Chuang Peng,A. Nayena Blankson",
-    "host_name": "South Big Data Hub",
-    "latitude": 0,
     "start_date": "2020-12-07"
   },
   {
@@ -210,21 +105,6 @@
     "start_date": "2020-12-08"
   },
   {
-    "instructors": "Jeffrey Oliver,Ariel Deardorff",
-    "end_date": "2020-12-10",
-    "url": "https://arieldeardorff.github.io/2020-12-09-ttt-online-PST/",
-    "country": "W3",
-    "curriculum": null,
-    "venue": "Internet",
-    "longitude": -123.393333,
-    "slug": "2020-12-09-ttt-online-PST",
-    "tag_name": "TTT,online",
-    "helpers": null,
-    "host_name": "Instructor Training",
-    "latitude": -48.876667,
-    "start_date": "2020-12-09"
-  },
-  {
     "instructors": "Rachael Blake,Muriel Dunn,Annajiat Alim Rasel,Sally Chang",
     "end_date": "2020-12-17",
     "url": "https://annajiat.github.io/2020-12-14-auctr-online-NNLM/",
@@ -236,21 +116,6 @@
     "tag_name": "SWC,online,automated-email",
     "helpers": null,
     "host_name": "Network of the National Library of Medicine",
-    "latitude": 0,
-    "start_date": "2020-12-14"
-  },
-  {
-    "instructors": "MONAH ABOU ALEZZ,Preethy Nair,Camilla Bressan",
-    "end_date": "2020-12-17",
-    "url": "https://monahton.github.io/2020-12-14-genentech-online/",
-    "country": "US",
-    "curriculum": "swc-python-gapminder",
-    "venue": "Genentech",
-    "longitude": 0,
-    "slug": "2020-12-14-genentech-online",
-    "tag_name": "SWC,online,automated-email",
-    "helpers": null,
-    "host_name": "Genentech",
     "latitude": 0,
     "start_date": "2020-12-14"
   },
@@ -297,6 +162,21 @@
     "helpers": null,
     "host_name": "The Bioinformatics Institute",
     "latitude": 25,
+    "start_date": "2020-12-21"
+  },
+  {
+    "instructors": "Bonny Adane,Margareth Gfrerer,Yonas Demissew",
+    "end_date": "2020-12-22",
+    "url": "https://educationstrategycenteraddis.github.io/2020-12-21-EPTC/",
+    "country": "ET",
+    "curriculum": "dc-ecology-r",
+    "venue": "Entoto Polytechnic Training Center",
+    "longitude": 38.76002,
+    "slug": "2020-12-21-EPTC",
+    "tag_name": "DC,online",
+    "helpers": "Meseret Teshome,Aster Assefa",
+    "host_name": "Ethiopian Research and Education Network",
+    "latitude": 9.07148,
     "start_date": "2020-12-21"
   },
   {
@@ -403,6 +283,21 @@
     "host_name": "Jackson Laboratory",
     "latitude": 44.36591,
     "start_date": "2021-01-20"
+  },
+  {
+    "instructors": "Cody Hennesy,Annajiat Alim Rasel,Mary Ann Warner,Camilla Bressan",
+    "end_date": "2021-04-23",
+    "url": "https://annajiat.github.io/2021-01-22-uab-NNLM-online",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "University of Alabama at Birmingham (online)",
+    "longitude": -1,
+    "slug": "2021-01-22-uab-NNLM-online",
+    "tag_name": "LC,online,automated-email",
+    "helpers": null,
+    "host_name": "University of Alabama at Birmingham",
+    "latitude": 45,
+    "start_date": "2021-01-22"
   },
   {
     "instructors": "Ed Bennett,Mark Dawson,Michele Mesiti,Ben Thorpe",
