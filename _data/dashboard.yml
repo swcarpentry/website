@@ -316,6 +316,8 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/759'}
   - {number: 769, title: Suggestion for the clarification of `git diff` command in
       the Tracking Changes lesson, updated: '2020-11-20', url: 'https://github.com/swcarpentry/git-novice/issues/769'}
+  - {number: 771, title: Suggestion for improving the graphic in the Remote in GitHub
+      lesson, updated: '2020-12-11', url: 'https://github.com/swcarpentry/git-novice/issues/771'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -776,7 +778,7 @@ records:
   - {number: 876, title: Revision to Code Sample, updated: '2020-11-19', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/876'}
   - {number: 891, title: Adding figure with lesson goal/overview, updated: '2020-11-24',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/891'}
-  - {number: 893, title: 'edited code, variable used before instantiated', updated: '2020-12-10',
+  - {number: 893, title: 'edited code, variable used before instantiated', updated: '2020-12-11',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/893'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
@@ -1065,4 +1067,4 @@ records:
   - {number: 1203, title: jduckles resigned curriculum advisors, updated: '2020-12-09',
     url: 'https://github.com/swcarpentry/website/pull/1203'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-12-10T19:45:12Z'
+timestamp: '2020-12-11T20:07:45Z'

@@ -30,36 +30,6 @@
     "start_date": "2020-12-01"
   },
   {
-    "instructors": "Steven Pryor",
-    "end_date": "2020-12-11",
-    "url": "https://swc-mizzou.github.io/2020-12-04-mizzou-online/",
-    "country": "US",
-    "curriculum": "dc-socsci-r",
-    "venue": "University of Missouri (online)",
-    "longitude": -1,
-    "slug": "2020-12-04-mizzou-online",
-    "tag_name": "DC,online,automated-email",
-    "helpers": null,
-    "host_name": "University of Missouri",
-    "latitude": 45,
-    "start_date": "2020-12-04"
-  },
-  {
-    "instructors": "Jannetta Steyn,Rebecca Osselton,David Herbert",
-    "end_date": "2020-12-11",
-    "url": "https://nclrse-training.github.io/2020-12-07-NCL-SWC-ONLINE/",
-    "country": "GB",
-    "curriculum": "swc-r",
-    "venue": "University of Newcastle",
-    "longitude": -1,
-    "slug": "2020-12-07-NCL-SWC-ONLINE",
-    "tag_name": "SWC,online",
-    "helpers": null,
-    "host_name": "University of Newcastle",
-    "latitude": 45,
-    "start_date": "2020-12-07"
-  },
-  {
     "instructors": "Akshay Paropkari,Elnaz Amanzadeh Jajin",
     "end_date": "2020-12-12",
     "url": "https://elnazamanzadeh.github.io/2020-12-07-txstate-online/",
@@ -73,36 +43,6 @@
     "host_name": "Texas Digital Library",
     "latitude": 45,
     "start_date": "2020-12-07"
-  },
-  {
-    "instructors": "Daniel Wheeler,Elise Lauterbur,Martino Sorbaro Sindaci,David DeFranza",
-    "end_date": "2020-12-11",
-    "url": "https://martinosorb.github.io/2020-12-08-NOAA/",
-    "country": "US",
-    "curriculum": "swc-python-gapminder",
-    "venue": "NOAA (online)",
-    "longitude": -1,
-    "slug": "2020-12-08-NOAA",
-    "tag_name": "SWC,online,automated-email",
-    "helpers": null,
-    "host_name": "National Oceanic and Atmospheric Administration",
-    "latitude": 45,
-    "start_date": "2020-12-08"
-  },
-  {
-    "instructors": "James Adams,Lora Leligdon,JIANJUN HUA,Stephen Gaughan,Pamela Bagley,Paige Scudder,Christian Darabos,John Cocklin",
-    "end_date": "2020-12-11",
-    "url": "https://nesclic.github.io/2020-12-08-dartmouth-online/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "Dartmouth College (online)",
-    "longitude": -72.289135,
-    "slug": "2020-12-08-dartmouth-online",
-    "tag_name": "online,Circuits,automated-email",
-    "helpers": null,
-    "host_name": "Dartmouth College",
-    "latitude": 43.705859,
-    "start_date": "2020-12-08"
   },
   {
     "instructors": "Rachael Blake,Muriel Dunn,Annajiat Alim Rasel,Sally Chang",

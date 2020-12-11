@@ -15,6 +15,36 @@
     "start_date": "2020-12-09"
   },
   {
+    "instructors": "Daniel Wheeler,Elise Lauterbur,Martino Sorbaro Sindaci,David DeFranza",
+    "end_date": "2020-12-11",
+    "url": "https://martinosorb.github.io/2020-12-08-NOAA/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "NOAA (online)",
+    "longitude": -1,
+    "slug": "2020-12-08-NOAA",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": null,
+    "host_name": "National Oceanic and Atmospheric Administration",
+    "latitude": 45,
+    "start_date": "2020-12-08"
+  },
+  {
+    "instructors": "James Adams,Lora Leligdon,JIANJUN HUA,Stephen Gaughan,Pamela Bagley,Paige Scudder,Christian Darabos,John Cocklin",
+    "end_date": "2020-12-11",
+    "url": "https://nesclic.github.io/2020-12-08-dartmouth-online/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "Dartmouth College (online)",
+    "longitude": -72.289135,
+    "slug": "2020-12-08-dartmouth-online",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": null,
+    "host_name": "Dartmouth College",
+    "latitude": 43.705859,
+    "start_date": "2020-12-08"
+  },
+  {
     "instructors": "Gil Speyer,Rebecca Belshe,Jason Yalim,Mollie Peters",
     "end_date": "2020-12-08",
     "url": "https://jyalim.github.io/2020-12-07--agave-shell-intro/",
@@ -27,6 +57,21 @@
     "helpers": null,
     "host_name": "Arizona State University",
     "latitude": 33.421019,
+    "start_date": "2020-12-07"
+  },
+  {
+    "instructors": "Jannetta Steyn,Rebecca Osselton,David Herbert",
+    "end_date": "2020-12-11",
+    "url": "https://nclrse-training.github.io/2020-12-07-NCL-SWC-ONLINE/",
+    "country": "GB",
+    "curriculum": "swc-r",
+    "venue": "University of Newcastle",
+    "longitude": -1,
+    "slug": "2020-12-07-NCL-SWC-ONLINE",
+    "tag_name": "SWC,online",
+    "helpers": null,
+    "host_name": "University of Newcastle",
+    "latitude": 45,
     "start_date": "2020-12-07"
   },
   {
@@ -103,6 +148,21 @@
     "host_name": "Instructor Training",
     "latitude": null,
     "start_date": "2020-12-07"
+  },
+  {
+    "instructors": "Steven Pryor",
+    "end_date": "2020-12-11",
+    "url": "https://swc-mizzou.github.io/2020-12-04-mizzou-online/",
+    "country": "US",
+    "curriculum": "dc-socsci-r",
+    "venue": "University of Missouri (online)",
+    "longitude": -1,
+    "slug": "2020-12-04-mizzou-online",
+    "tag_name": "DC,online,automated-email",
+    "helpers": null,
+    "host_name": "University of Missouri",
+    "latitude": 45,
+    "start_date": "2020-12-04"
   },
   {
     "instructors": "Steven Pryor",
@@ -300,7 +360,7 @@
     "start_date": "2020-11-24"
   },
   {
-    "instructors": "Timo Gnadt,Claudia Engelhardt,Laura Josephine Botzet",
+    "instructors": "Timo Gnadt,Péter Király,Claudia Engelhardt,Hanna Varachkina",
     "end_date": "2020-12-04",
     "url": "https://subugoe.github.io/2020-11-23-dc-ecology-online/",
     "country": "DE",
@@ -309,13 +369,13 @@
     "longitude": -1,
     "slug": "2020-11-23-dc-ecology-online",
     "tag_name": "DC,online,automated-email",
-    "helpers": "Astrid Orth,Andreas Walker",
+    "helpers": "Birgit Schmidt,Astrid Orth,Andreas Walker,Laura Josephine Botzet,Anton Potapov",
     "host_name": "University of Göttingen",
     "latitude": 45,
     "start_date": "2020-11-23"
   },
   {
-    "instructors": "Bret Alexander Beheim,Han Tran",
+    "instructors": "Bret Alexander Beheim,Han Tran,Sarah Pederzani",
     "end_date": "2020-11-27",
     "url": "https://hbec-mpi-eva.github.io/2020-11-23-leipzig-online/",
     "country": "DE",
@@ -324,7 +384,7 @@
     "longitude": 12.394,
     "slug": "2020-11-23-leipzig-online",
     "tag_name": "SWC,online,automated-email",
-    "helpers": "Ilaria Pretelli",
+    "helpers": "Lina Andrén,Ilaria Pretelli,Elspeth Ready,Hedvig Skirgård",
     "host_name": "Max Planck Institute for Evolutionary Anthropology",
     "latitude": 51.321,
     "start_date": "2020-11-23"
