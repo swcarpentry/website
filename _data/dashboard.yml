@@ -778,7 +778,7 @@ records:
   - {number: 876, title: Revision to Code Sample, updated: '2020-11-19', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/876'}
   - {number: 891, title: Adding figure with lesson goal/overview, updated: '2020-11-24',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/891'}
-  - {number: 893, title: 'edited code, variable used before instantiated', updated: '2020-12-11',
+  - {number: 893, title: 'edited code, variable used before instantiated', updated: '2020-12-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/893'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
@@ -1067,4 +1067,4 @@ records:
   - {number: 1203, title: jduckles resigned curriculum advisors, updated: '2020-12-09',
     url: 'https://github.com/swcarpentry/website/pull/1203'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-12-11T20:07:45Z'
+timestamp: '2020-12-12T18:40:37Z'
