@@ -690,6 +690,7 @@ records:
       charts, etc.)', updated: '2020-11-24', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/774'}
   - {number: 832, title: 'Lesson Contribution: how to install numpy', updated: '2020-12-01',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/832'}
+  - {number: 894, title: Errors and Exceptions, updated: '2020-12-13', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/894'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -776,10 +777,10 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/868'}
   - {number: 875, title: Update 01-intro.md, updated: '2020-10-07', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/875'}
   - {number: 876, title: Revision to Code Sample, updated: '2020-11-19', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/876'}
-  - {number: 891, title: Adding figure with lesson goal/overview, updated: '2020-11-24',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/891'}
   - {number: 893, title: 'edited code, variable used before instantiated', updated: '2020-12-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/893'}
+  - {number: 891, title: Adding figure with lesson goal/overview, updated: '2020-12-12',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/891'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1067,4 +1068,4 @@ records:
   - {number: 1203, title: jduckles resigned curriculum advisors, updated: '2020-12-09',
     url: 'https://github.com/swcarpentry/website/pull/1203'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-12-12T18:40:37Z'
+timestamp: '2020-12-13T18:13:45Z'

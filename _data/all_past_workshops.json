@@ -150,6 +150,21 @@
     "start_date": "2020-12-07"
   },
   {
+    "instructors": "Akshay Paropkari,Elnaz Amanzadeh Jajin",
+    "end_date": "2020-12-12",
+    "url": "https://elnazamanzadeh.github.io/2020-12-07-txstate-online/",
+    "country": "US",
+    "curriculum": "dc-socsci-python",
+    "venue": "Texas State Digital Library",
+    "longitude": -1,
+    "slug": "2020-12-07-txstate-online",
+    "tag_name": "DC,online,automated-email",
+    "helpers": null,
+    "host_name": "Texas Digital Library",
+    "latitude": 45,
+    "start_date": "2020-12-07"
+  },
+  {
     "instructors": "Steven Pryor",
     "end_date": "2020-12-11",
     "url": "https://swc-mizzou.github.io/2020-12-04-mizzou-online/",
@@ -4494,7 +4509,7 @@
     "longitude": -123.393333,
     "slug": "2020-05-11-okstate",
     "tag_name": "SWC,online",
-    "helpers": "Evan Linde,Peter Hoyt,Nathalia Graf-Grachet,Kay Bjornen,Damith Mahapatabendige,SURYA AYYALASOMAYAJULA,Hua Lin,Madison Chartier,Clarke Iakovakis,Rajendra Maharjan,Max Prud'homme,Jianan Zhao",
+    "helpers": "Evan Linde,Peter Hoyt,Nathalia Graf Grachet,Kay Bjornen,Damith Mahapatabendige,SURYA AYYALASOMAYAJULA,Hua Lin,Madison Chartier,Clarke Iakovakis,Rajendra Maharjan,Max Prud'homme,Jianan Zhao",
     "host_name": "Oklahoma State University",
     "latitude": -48.876667,
     "start_date": "2020-05-11"
@@ -6000,7 +6015,7 @@
     "start_date": "2020-02-17"
   },
   {
-    "instructors": "Uwe Hilgert,Blake Joyce,Nathalia Graf-Grachet,Drake Asberry",
+    "instructors": "Uwe Hilgert,Blake Joyce,Nathalia Graf Grachet,Drake Asberry",
     "end_date": "2020-02-16",
     "url": "https://ua-carpentries-workshops.github.io/2020-02-15-Tucson/",
     "country": "US",
@@ -10950,7 +10965,7 @@
     "start_date": "2019-08-14"
   },
   {
-    "instructors": "Jamie Hadwin,Dave Lampert,Nathalia Graf-Grachet,Gautham Brahma Ponnaganti",
+    "instructors": "Jamie Hadwin,Dave Lampert,Nathalia Graf Grachet,Gautham Brahma Ponnaganti",
     "end_date": "2019-08-14",
     "url": "https://osu-carpentry.github.io/2019-08-12-UCO/",
     "country": "US",
@@ -13185,7 +13200,7 @@
     "start_date": "2019-05-13"
   },
   {
-    "instructors": "Peter Hoyt,Phillip Doehle,Dave Lampert,Nathalia Graf-Grachet",
+    "instructors": "Peter Hoyt,Phillip Doehle,Dave Lampert,Nathalia Graf Grachet",
     "end_date": "2019-05-14",
     "url": "https://osu-carpentry.github.io/2019-05-13-okstate/",
     "country": "US",
@@ -14535,7 +14550,7 @@
     "start_date": "2019-03-18"
   },
   {
-    "instructors": "Dave Lampert,Kevin Dyke,Nathalia Graf-Grachet,Patrice-Andre Prud'homme",
+    "instructors": "Dave Lampert,Kevin Dyke,Nathalia Graf Grachet,Patrice-Andre Prud'homme",
     "end_date": "2019-03-19",
     "url": "https://osu-carpentry.github.io/2019-03-18-okstate/",
     "country": "US",
@@ -16185,7 +16200,7 @@
     "start_date": "2019-01-10"
   },
   {
-    "instructors": "Peter Hoyt,Phillip Doehle,Dave Lampert,Nathalia Graf-Grachet",
+    "instructors": "Peter Hoyt,Phillip Doehle,Dave Lampert,Nathalia Graf Grachet",
     "end_date": "2019-01-11",
     "url": "https://osu-carpentry.github.io/2019-01-10-okstate/",
     "country": "US",
@@ -17364,13 +17379,13 @@
     "longitude": -97.069701,
     "slug": "2018-11-02-okstate-afternoon",
     "tag_name": "SWC",
-    "helpers": "Evan Linde,Peter Hoyt,Dave Lampert,Kevin Dyke,Nathalia Graf-Grachet,Kay Bjornen,Damith Mahapatabendige",
+    "helpers": "Evan Linde,Peter Hoyt,Dave Lampert,Kevin Dyke,Nathalia Graf Grachet,Kay Bjornen,Damith Mahapatabendige",
     "host_name": "Oklahoma State University",
     "latitude": 36.122953,
     "start_date": "2018-11-02"
   },
   {
-    "instructors": "Dave Lampert,Kevin Dyke,Nathalia Graf-Grachet",
+    "instructors": "Dave Lampert,Kevin Dyke,Nathalia Graf Grachet",
     "end_date": "2018-11-30",
     "url": "https://osu-carpentry.github.io/2018-11-02-okstate-morning/",
     "country": "US",
@@ -17730,7 +17745,7 @@
     "start_date": "2018-10-18"
   },
   {
-    "instructors": "Dave Lampert,Kevin Dyke,Pratishtha Poudel,Nathalia Graf-Grachet,Ki Cole",
+    "instructors": "Dave Lampert,Kevin Dyke,Pratishtha Poudel,Nathalia Graf Grachet,Ki Cole",
     "end_date": "2018-10-19",
     "url": "https://osu-carpentry.github.io/2018-10-18-okstate/",
     "country": "US",
@@ -19365,7 +19380,7 @@
     "start_date": "2018-08-16"
   },
   {
-    "instructors": "Dave Lampert,Kevin Dyke,Nathalia Graf-Grachet,Gautham Brahma Ponnaganti",
+    "instructors": "Dave Lampert,Kevin Dyke,Nathalia Graf Grachet,Gautham Brahma Ponnaganti",
     "end_date": "2018-08-17",
     "url": "https://osu-carpentry.github.io/2018-08-16-okstate/",
     "country": "US",

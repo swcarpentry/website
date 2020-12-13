@@ -30,21 +30,6 @@
     "start_date": "2020-12-01"
   },
   {
-    "instructors": "Akshay Paropkari,Elnaz Amanzadeh Jajin",
-    "end_date": "2020-12-12",
-    "url": "https://elnazamanzadeh.github.io/2020-12-07-txstate-online/",
-    "country": "US",
-    "curriculum": "dc-socsci-python",
-    "venue": "Texas State Digital Library",
-    "longitude": -1,
-    "slug": "2020-12-07-txstate-online",
-    "tag_name": "DC,online,automated-email",
-    "helpers": null,
-    "host_name": "Texas Digital Library",
-    "latitude": 45,
-    "start_date": "2020-12-07"
-  },
-  {
     "instructors": "Rachael Blake,Muriel Dunn,Annajiat Alim Rasel,Sally Chang",
     "end_date": "2020-12-17",
     "url": "https://annajiat.github.io/2020-12-14-auctr-online-NNLM/",
