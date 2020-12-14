@@ -11,7 +11,6 @@ about the role of the Curriculum Advisory Committee can be found in the
 
 The Software Carpentry Curriculum Advisors were announced in [this May 2018 blog post](https://software-carpentry.org/blog/2018/05/swc-cac.html).  The current membership is:
 
-- Jonah Duckles [@jduckles](https://twitter.com/jduckles)
 - Brittany Lasseigne [@bnlasse](https://twitter.com/bnlasse)
 - Madicken Munk [@munkium](https://twitter.com/munkium)
 - Byron J. Smith [@ByronJSmith](https://twitter.com/ByronJSmith)
