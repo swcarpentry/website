@@ -30,6 +30,21 @@
     "start_date": "2020-12-01"
   },
   {
+    "instructors": "Benson Muite",
+    "end_date": "2020-12-18",
+    "url": "https://bkmgit.github.io/2020-12-14-IITA-MOBILEWEBGHANA-online/",
+    "country": "GH",
+    "curriculum": "mix-and-match",
+    "venue": "International Institute of Tropical Agriculture and Mobile Web Ghana (online)",
+    "longitude": 0,
+    "slug": "2020-12-14-IITA-MOBILEWEBGHANA-online",
+    "tag_name": "online,Circuits",
+    "helpers": "Selorm Tamakloe,Elikplim Sabblah",
+    "host_name": "International Institute of Tropical Agriculture and Mobile Web",
+    "latitude": 0,
+    "start_date": "2020-12-14"
+  },
+  {
     "instructors": "Rachael Blake,Muriel Dunn,Annajiat Alim Rasel,Sally Chang",
     "end_date": "2020-12-17",
     "url": "https://annajiat.github.io/2020-12-14-auctr-online-NNLM/",
@@ -39,7 +54,7 @@
     "longitude": 0,
     "slug": "2020-12-14-auctr-online-NNLM",
     "tag_name": "SWC,online,automated-email",
-    "helpers": null,
+    "helpers": "Justi de la Cruz,Bryan Briones",
     "host_name": "Network of the National Library of Medicine",
     "latitude": 0,
     "start_date": "2020-12-14"
@@ -208,6 +223,21 @@
     "host_name": "Jackson Laboratory",
     "latitude": 44.36591,
     "start_date": "2021-01-20"
+  },
+  {
+    "instructors": "Benson Muite",
+    "end_date": "2021-01-30",
+    "url": "https://bkmgit.github.io/2021-01-22-AfLIA-online",
+    "country": "GH",
+    "curriculum": "lc",
+    "venue": "African Library and Information Associations & Institutions (AfLIA) (online)",
+    "longitude": 0,
+    "slug": "2021-01-22-AfLIA-online",
+    "tag_name": "LC,online,automated-email",
+    "helpers": null,
+    "host_name": "African Library and Information Associations and Institutions",
+    "latitude": 0,
+    "start_date": "2021-01-22"
   },
   {
     "instructors": "Cody Hennesy,Annajiat Alim Rasel,Mary Ann Warner,Camilla Bressan",

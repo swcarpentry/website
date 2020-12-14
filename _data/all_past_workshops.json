@@ -24,7 +24,7 @@
     "longitude": -1,
     "slug": "2020-12-08-NOAA",
     "tag_name": "SWC,online,automated-email",
-    "helpers": null,
+    "helpers": "Julia Engdahl,Mojgan Rostaminia",
     "host_name": "National Oceanic and Atmospheric Administration",
     "latitude": 45,
     "start_date": "2020-12-08"
@@ -39,7 +39,7 @@
     "longitude": -72.289135,
     "slug": "2020-12-08-dartmouth-online",
     "tag_name": "online,Circuits,automated-email",
-    "helpers": null,
+    "helpers": "Wei Yang,Jing Qi",
     "host_name": "Dartmouth College",
     "latitude": 43.705859,
     "start_date": "2020-12-08"
@@ -444,7 +444,7 @@
     "longitude": -75.1232038,
     "slug": "2020-11-20-Rutgers-SWC",
     "tag_name": "SWC,online,automated-email",
-    "helpers": "Siddharth Bhadra-Lobo,Jesse Sandberg",
+    "helpers": "Siddharth Bhadra-Lobo,Jesse Sandberg,Anushriya Subedy,Ezry St.Iago-McRae",
     "host_name": "Rutgers University - Camden",
     "latitude": 39.9475395,
     "start_date": "2020-11-20"
@@ -6417,6 +6417,21 @@
     "helpers": "Ryan Johnson",
     "host_name": "University of California San Diego",
     "latitude": 32.885125,
+    "start_date": "2020-02-04"
+  },
+  {
+    "instructors": "Ye Li,Ece Turnator,Madeline Wrable,Daniel Sheehan,Christine Malinowski",
+    "end_date": "2020-02-09",
+    "url": "https://carpentriesmit.github.io/2020-02-04-mit/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "Carpentries @ MIT: Intro to UnixShell/Python/Git",
+    "longitude": -71.090542,
+    "slug": "2020-02-04-mit",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": "Ye Li,Ece Turnator,Madeline Wrable,Daniel Sheehan,Christine Malinowski,Phoebe Ayers",
+    "host_name": "Massachusetts Institute of Technology",
+    "latitude": 42.359689,
     "start_date": "2020-02-04"
   },
   {
