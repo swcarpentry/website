@@ -185,6 +185,10 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/1156'}
   - {number: 1161, title: Additional detail in the solution to the "Doing a Dry Run"
       exercise, updated: '2020-12-08', url: 'https://github.com/swcarpentry/shell-novice/pull/1161'}
+  - {number: 1164, title: man pager key shortcuts case, updated: '2020-12-15', url: 'https://github.com/swcarpentry/shell-novice/pull/1164'}
+  - {number: 1163, title: Mention bash author, updated: '2020-12-15', url: 'https://github.com/swcarpentry/shell-novice/pull/1163'}
+  - {number: 1162, title: 'Note about the text cursor, and about pressing the enter
+      key', updated: '2020-12-15', url: 'https://github.com/swcarpentry/shell-novice/pull/1162'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -391,6 +395,7 @@ records:
   pulls:
   - {number: 56, title: make lesson suitable for teaching with locally-built pages,
     updated: '2020-10-23', url: 'https://github.com/swcarpentry/shell-novice-es/pull/56'}
+  - {number: 57, title: Update 02-filedir.md, updated: '2020-12-15', url: 'https://github.com/swcarpentry/shell-novice-es/pull/57'}
   url: https://github.com/swcarpentry/shell-novice-es
 - description: Git - Español
   ident: swcarpentry/git-novice-es
@@ -842,6 +847,8 @@ records:
   - {number: 387, title: 'Reading and Writing CSV Files in R: Introduce na.strings
       argument and explain how to read CSV file by providing a filename only', updated: '2020-12-01',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/387'}
+  - {number: 495, title: '`c` function means concatenate, not combine', updated: '2020-12-14',
+    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/495'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
@@ -1065,7 +1072,5 @@ records:
     url: 'https://github.com/swcarpentry/website/pull/1166'}
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
-  - {number: 1203, title: jduckles resigned curriculum advisors, updated: '2020-12-09',
-    url: 'https://github.com/swcarpentry/website/pull/1203'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-12-14T19:08:45Z'
+timestamp: '2020-12-15T19:06:02Z'
