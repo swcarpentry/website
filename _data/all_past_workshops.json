@@ -300,6 +300,21 @@
     "start_date": "2020-12-01"
   },
   {
+    "instructors": "Edward Wallace,Felicity Anderson",
+    "end_date": "2020-12-15",
+    "url": "https://edcarp.github.io/2020-12-01-edinburgh-bio-online/",
+    "country": "",
+    "curriculum": "mix-and-match",
+    "venue": "University of Edinburgh (online)",
+    "longitude": -3.187239,
+    "slug": "2020-12-01-edinburgh-bio-online",
+    "tag_name": "online,Circuits",
+    "helpers": "Giacomo Peru,Bailey Harrington,Elliot Chapman,Bryan Wee",
+    "host_name": "University of Edinburgh",
+    "latitude": 55.947459,
+    "start_date": "2020-12-01"
+  },
+  {
     "instructors": "Sue McClatchy,Mike Trizna",
     "end_date": "2020-12-02",
     "url": "https://miketrizna.github.io/2020-12-01-ttt-online/",
@@ -465,6 +480,21 @@
     "start_date": "2020-11-19"
   },
   {
+    "instructors": "Flavia Flaviani,Stefania Marcotti,Alessia Visconti",
+    "end_date": "2020-12-16",
+    "url": "https://alesssia.github.io/2020-11-180-KCL/",
+    "country": "GB",
+    "curriculum": "mix-and-match",
+    "venue": "King's College London (online)",
+    "longitude": 0,
+    "slug": "2020-11-18-KCL",
+    "tag_name": "online,Circuits",
+    "helpers": null,
+    "host_name": "King's College London",
+    "latitude": 0,
+    "start_date": "2020-11-18"
+  },
+  {
     "instructors": "Markus Ankenbrand,Florian Goth,Torsten Paul",
     "end_date": "2020-11-19",
     "url": "https://swcarpentry-wuerzburg.github.io/2020-11-17-Wuerzburg/",
@@ -565,7 +595,7 @@
     "slug": "2020-11-12-agronomy-online",
     "tag_name": "online,Circuits,automated-email",
     "helpers": "Henry Qu,Kip Balkcom,Rodrigo Goncalves Trevisan",
-    "host_name": "United States Deparment of Agriculture",
+    "host_name": "United States Department of Agriculture",
     "latitude": 38.9,
     "start_date": "2020-11-12"
   },
@@ -2455,7 +2485,7 @@
     "slug": "2020-08-26-usda-online-1",
     "tag_name": "SWC,online,automated-email",
     "helpers": "Erin Scully,Suzy Stillman,Brian Nadon",
-    "host_name": "United States Deparment of Agriculture",
+    "host_name": "United States Department of Agriculture",
     "latitude": 38.9,
     "start_date": "2020-08-26"
   },
@@ -2710,7 +2740,7 @@
     "slug": "2020-08-18-USDA",
     "tag_name": "SWC,online,automated-email",
     "helpers": "Adam Rivers,Amy Hudson,Kathy Yeater,Jennifer Chang",
-    "host_name": "United States Deparment of Agriculture",
+    "host_name": "United States Department of Agriculture",
     "latitude": 0,
     "start_date": "2020-08-18"
   },
@@ -2919,7 +2949,7 @@
     "longitude": -1,
     "slug": "2020-08-10-CAES",
     "tag_name": "SWC,online,automated-email",
-    "helpers": "Kyle Shannon,Mike Henry,Clint Elg",
+    "helpers": "Kyle Shannon,Mike Henry,Clinton Elg",
     "host_name": "University of Idaho",
     "latitude": 45,
     "start_date": "2020-08-10"
@@ -3190,7 +3220,7 @@
     "slug": "2020-07-22-usda-online",
     "tag_name": "SWC,online,automated-email",
     "helpers": "Daniel Restrepo-Montoya,Matt Kramer",
-    "host_name": "United States Deparment of Agriculture",
+    "host_name": "United States Department of Agriculture",
     "latitude": 38.9,
     "start_date": "2020-07-22"
   },
@@ -3280,7 +3310,7 @@
     "slug": "2020-07-14-usda-online",
     "tag_name": "SWC,online,automated-email",
     "helpers": "Steven Schroeder,Anna Childers",
-    "host_name": "United States Deparment of Agriculture",
+    "host_name": "United States Department of Agriculture",
     "latitude": 38.89206,
     "start_date": "2020-07-14"
   },
@@ -3495,7 +3525,7 @@
     "start_date": "2020-06-30"
   },
   {
-    "instructors": "Rob Davey,Jose De Vega,Nicola Soranzo,Alice Minotto",
+    "instructors": "Rob Davey,Joseja De Vega,Nicola Soranzo,Alice Minotto",
     "end_date": "2020-07-02",
     "url": "https://tgac.github.io/2020-06-30-earlham/",
     "country": "GB",
@@ -3735,7 +3765,7 @@
     "start_date": "2020-06-22"
   },
   {
-    "instructors": "Hannes Fuchs,Maximilian Dolling,Bezaye Tesfaye,Matthias Rüster,Nils Brinckmann,Johannes Petereit",
+    "instructors": "Hannes Fuchs,Maximilian Dolling,Bezaye Tesfaye Belayneh,Matthias Rüster,Nils Brinckmann,Johannes Petereit",
     "end_date": "2020-06-23",
     "url": "http://swc-bb.gitext.gfz-potsdam.de/swc-pages/2020-06-22-virtual/",
     "country": "DE",
@@ -4014,7 +4044,7 @@
     "longitude": 0,
     "slug": "2020-06-08-inl-bootcamp",
     "tag_name": "SWC,online,Circuits",
-    "helpers": "Amanda Stahlke,Breanna Sipley,Clint Elg,Salvador Sastaneda",
+    "helpers": "Amanda Stahlke,Breanna Sipley,Clinton Elg,Salvador Sastaneda",
     "host_name": "Boise State University",
     "latitude": 0,
     "start_date": "2020-06-08"
@@ -4590,7 +4620,7 @@
     "start_date": "2020-05-05"
   },
   {
-    "instructors": "James Mickley,Timothy Moore,Kendra Maas,Dyanna Louyakis",
+    "instructors": "Kendra Maas,James Mickley,Timothy Moore,Dyanna Louyakis",
     "end_date": "2020-05-01",
     "url": "https://carpentries-uconn.github.io/2020-05-01-UConn-online/",
     "country": "US",
@@ -4830,7 +4860,7 @@
     "start_date": "2020-04-21"
   },
   {
-    "instructors": "Maximilian Dolling,Bezaye Tesfaye",
+    "instructors": "Maximilian Dolling,Bezaye Tesfaye Belayneh",
     "end_date": "2020-04-21",
     "url": "http://swc-bb.gitext.gfz-potsdam.de/swc-pages/2020-04-20-Potsdam-Berlin/",
     "country": "DE",
@@ -5580,7 +5610,7 @@
     "start_date": "2020-03-04"
   },
   {
-    "instructors": "Rob Davey,Jose De Vega,Anthony Etuk,Alice Minotto",
+    "instructors": "Rob Davey,Joseja De Vega,Anthony Etuk,Alice Minotto",
     "end_date": "2020-03-04",
     "url": "https://tgac.github.io/2020-03-03-earlham/",
     "country": "GB",
@@ -6555,7 +6585,7 @@
     "start_date": "2020-01-30"
   },
   {
-    "instructors": "Amanda Stahlke,Breanna Sipley,Chava Castaneda Barba,Clint Elg",
+    "instructors": "Amanda Stahlke,Breanna Sipley,Chava Castaneda Barba,Clinton Elg",
     "end_date": "2020-01-31",
     "url": "http://astahlke.github.io/2020-01-30-uidaho",
     "country": "US",
@@ -7395,7 +7425,7 @@
     "start_date": "2019-12-16"
   },
   {
-    "instructors": "Jennifer Chaput,Kendra Maas",
+    "instructors": "Kendra Maas,Jennifer Chaput",
     "end_date": "2019-12-16",
     "url": "http://carpentries-uconn.github.io/2019-12-16-uconn",
     "country": "US",
@@ -7860,7 +7890,7 @@
     "start_date": "2019-11-27"
   },
   {
-    "instructors": "Peter Evans,Stefan Lüdtke,Berry Boessenkool,Katrin Leinweber,Michael Dietze,Tobias Weiss,Marc Hanisch,Maximilian Dolling,Bezaye Tesfaye",
+    "instructors": "Peter Evans,Stefan Lüdtke,Berry Boessenkool,Katrin Leinweber,Michael Dietze,Tobias Weiss,Marc Hanisch,Maximilian Dolling,Bezaye Tesfaye Belayneh",
     "end_date": "2019-11-27",
     "url": "http://swc-bb.gitext.gfz-potsdam.de/pages/2019-11-26-Potsdam-Berlin/",
     "country": "DE",
@@ -8530,7 +8560,7 @@
     "slug": "2019-11-10-agronomy",
     "tag_name": "Circuits",
     "helpers": null,
-    "host_name": "United States Deparment of Agriculture",
+    "host_name": "United States Department of Agriculture",
     "latitude": 29.420533,
     "start_date": "2019-11-10"
   },
@@ -11019,7 +11049,7 @@
     "longitude": null,
     "slug": "2019-08-08-LANL",
     "tag_name": "SWC",
-    "helpers": "Chris Malone,Stephen Andrews,Grant Meadors",
+    "helpers": "Christopher Malone Malone,Stephen Andrews,Grant Meadors",
     "host_name": "Los Alamos National Laboratory",
     "latitude": null,
     "start_date": "2019-08-08"
@@ -19315,7 +19345,7 @@
     "slug": "2018-08-22-USDA",
     "tag_name": "DC",
     "helpers": null,
-    "host_name": "United States Deparment of Agriculture",
+    "host_name": "United States Department of Agriculture",
     "latitude": 40.572955,
     "start_date": "2018-08-22"
   },
@@ -20670,7 +20700,7 @@
     "start_date": "2018-06-13"
   },
   {
-    "instructors": "Tyler Reddy,Chris Malone,Stephen Andrews,Andy Fraser",
+    "instructors": "Tyler Reddy,Christopher Malone Malone,Stephen Andrews,Andy Fraser",
     "end_date": "2018-06-15",
     "url": "https://steve855.github.io/2018-06-13-LANL/",
     "country": "US",
@@ -26094,7 +26124,7 @@
     "longitude": -106.325,
     "slug": "2017-08-24-losalamos",
     "tag_name": "SWC",
-    "helpers": "Christoph Junghans,Chris Malone,Reid Porter,Austin McCartney,Jonathan Maccarthy,Stephen Andrews",
+    "helpers": "Christoph Junghans,Christopher Malone Malone,Reid Porter,Austin McCartney,Jonathan Maccarthy,Stephen Andrews",
     "host_name": "Los Alamos National Laboratory",
     "latitude": 35.877,
     "start_date": "2017-08-24"
@@ -26385,7 +26415,7 @@
     "start_date": "2017-08-14"
   },
   {
-    "instructors": "Nathan Moore,Hannah Leverentz-Culp,Chris Malone",
+    "instructors": "Nathan Moore,Hannah Leverentz-Culp,Christopher Malone Malone",
     "end_date": "2017-08-16",
     "url": "https://ntmoore.github.io/2017-08-14-winona/",
     "country": "US",
@@ -33055,7 +33085,7 @@
     "slug": "2016-06-15-USDA-NOLA",
     "tag_name": "DC",
     "helpers": "O. P. Perera",
-    "host_name": "United States Deparment of Agriculture",
+    "host_name": "United States Department of Agriculture",
     "latitude": 30.018648,
     "start_date": "2016-06-15"
   },
@@ -34165,7 +34195,7 @@
     "slug": "2016-04-19-USDA-Athens-GA",
     "tag_name": "DC",
     "helpers": null,
-    "host_name": "United States Deparment of Agriculture",
+    "host_name": "United States Department of Agriculture",
     "latitude": 33.9250964,
     "start_date": "2016-04-19"
   },
@@ -35620,7 +35650,7 @@
     "slug": "2016-01-19-usda",
     "tag_name": "DC",
     "helpers": null,
-    "host_name": "United States Deparment of Agriculture",
+    "host_name": "United States Department of Agriculture",
     "latitude": 33.420899,
     "start_date": "2016-01-19"
   },

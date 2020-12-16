@@ -395,7 +395,6 @@ records:
   pulls:
   - {number: 56, title: make lesson suitable for teaching with locally-built pages,
     updated: '2020-10-23', url: 'https://github.com/swcarpentry/shell-novice-es/pull/56'}
-  - {number: 57, title: Update 02-filedir.md, updated: '2020-12-15', url: 'https://github.com/swcarpentry/shell-novice-es/pull/57'}
   url: https://github.com/swcarpentry/shell-novice-es
 - description: Git - Español
   ident: swcarpentry/git-novice-es
@@ -1073,4 +1072,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-12-15T19:06:02Z'
+timestamp: '2020-12-16T18:59:05Z'
