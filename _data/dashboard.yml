@@ -183,12 +183,10 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/1155'}
   - {number: 1156, title: Add file extension to goostats and goodiff, updated: '2020-11-23',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1156'}
-  - {number: 1161, title: Additional detail in the solution to the "Doing a Dry Run"
-      exercise, updated: '2020-12-08', url: 'https://github.com/swcarpentry/shell-novice/pull/1161'}
-  - {number: 1164, title: man pager key shortcuts case, updated: '2020-12-15', url: 'https://github.com/swcarpentry/shell-novice/pull/1164'}
-  - {number: 1163, title: Mention bash author, updated: '2020-12-15', url: 'https://github.com/swcarpentry/shell-novice/pull/1163'}
   - {number: 1162, title: 'Note about the text cursor, and about pressing the enter
-      key', updated: '2020-12-15', url: 'https://github.com/swcarpentry/shell-novice/pull/1162'}
+      key', updated: '2020-12-17', url: 'https://github.com/swcarpentry/shell-novice/pull/1162'}
+  - {number: 1161, title: Additional detail in the solution to the "Doing a Dry Run"
+      exercise, updated: '2020-12-17', url: 'https://github.com/swcarpentry/shell-novice/pull/1161'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -1054,6 +1052,7 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1757'}
   - {number: 1758, title: Slug is being generated incorrectly using workshop location,
     updated: '2020-12-10', url: 'https://github.com/carpentries/amy/issues/1758'}
+  - {number: 1759, title: WRF Website Slug Validation, updated: '2020-12-16', url: 'https://github.com/carpentries/amy/issues/1759'}
   pulls:
   - {number: 1750, title: 'Switch to PostgreSQL and upgrade dependencies, tests',
     updated: '2020-12-06', url: 'https://github.com/carpentries/amy/pull/1750'}
@@ -1072,4 +1071,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-12-16T18:59:05Z'
+timestamp: '2020-12-17T18:56:54Z'
