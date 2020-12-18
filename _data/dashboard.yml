@@ -779,10 +779,10 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/868'}
   - {number: 875, title: Update 01-intro.md, updated: '2020-10-07', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/875'}
   - {number: 876, title: Revision to Code Sample, updated: '2020-11-19', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/876'}
-  - {number: 893, title: 'edited code, variable used before instantiated', updated: '2020-12-12',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/893'}
   - {number: 891, title: Adding figure with lesson goal/overview, updated: '2020-12-14',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/891'}
+  - {number: 893, title: 'edited code, variable used before instantiated', updated: '2020-12-18',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/893'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1053,11 +1053,15 @@ records:
   - {number: 1758, title: Slug is being generated incorrectly using workshop location,
     updated: '2020-12-10', url: 'https://github.com/carpentries/amy/issues/1758'}
   - {number: 1759, title: WRF Website Slug Validation, updated: '2020-12-16', url: 'https://github.com/carpentries/amy/issues/1759'}
+  - {number: 1760, title: Attendance Count Breakdown for Training Events, updated: '2020-12-18',
+    url: 'https://github.com/carpentries/amy/issues/1760'}
   pulls:
   - {number: 1750, title: 'Switch to PostgreSQL and upgrade dependencies, tests',
     updated: '2020-12-06', url: 'https://github.com/carpentries/amy/pull/1750'}
   - {number: 1747, title: 'Admin dashboard: change conditions and calculations in
       "Current events", "Unpublished events" columns', updated: '2020-12-06', url: 'https://github.com/carpentries/amy/pull/1747'}
+  - {number: 1761, title: Bump datatables.net from 1.10.19 to 1.10.22, updated: '2020-12-18',
+    url: 'https://github.com/carpentries/amy/pull/1761'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1071,4 +1075,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-12-17T18:56:54Z'
+timestamp: '2020-12-18T18:49:24Z'
