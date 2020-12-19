@@ -183,10 +183,10 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/1155'}
   - {number: 1156, title: Add file extension to goostats and goodiff, updated: '2020-11-23',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1156'}
-  - {number: 1162, title: 'Note about the text cursor, and about pressing the enter
-      key', updated: '2020-12-17', url: 'https://github.com/swcarpentry/shell-novice/pull/1162'}
   - {number: 1161, title: Additional detail in the solution to the "Doing a Dry Run"
       exercise, updated: '2020-12-17', url: 'https://github.com/swcarpentry/shell-novice/pull/1161'}
+  - {number: 1162, title: 'Note about the text cursor, and about pressing the enter
+      key', updated: '2020-12-19', url: 'https://github.com/swcarpentry/shell-novice/pull/1162'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -672,8 +672,6 @@ records:
       Suggestion', updated: '2020-08-06', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/859'}
   - {number: 863, title: 'Contribution: Animated for-loop', updated: '2020-08-21',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/863'}
-  - {number: 496, title: Swapping the order of episodes on lists and loops, updated: '2020-09-02',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/496'}
   - {number: 867, title: First introduction of comments, updated: '2020-09-21', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/867'}
   - {number: 874, title: Episode 10 Defensive Programming — Using the assert statement
       to validate data is bad practice, updated: '2020-10-13', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/874'}
@@ -693,6 +691,8 @@ records:
   - {number: 832, title: 'Lesson Contribution: how to install numpy', updated: '2020-12-01',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/832'}
   - {number: 894, title: Errors and Exceptions, updated: '2020-12-14', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/894'}
+  - {number: 496, title: Swapping the order of episodes on lists and loops, updated: '2020-12-19',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/496'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/569'}
@@ -783,6 +783,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/891'}
   - {number: 893, title: 'edited code, variable used before instantiated', updated: '2020-12-18',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/893'}
+  - {number: 895, title: Swapping the order of episodes on lists and loops, updated: '2020-12-19',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/895'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1075,4 +1077,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-12-18T18:49:24Z'
+timestamp: '2020-12-19T18:11:33Z'
