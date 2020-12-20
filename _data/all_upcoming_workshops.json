@@ -1,20 +1,5 @@
 [
   {
-    "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
-    "end_date": "2020-12-19",
-    "url": "https://betterlabmx.github.io/2020-12-18-BetterLab/",
-    "country": "MX",
-    "curriculum": "dc-genomics",
-    "venue": "BetterLab",
-    "longitude": -90,
-    "slug": "2020-12-18-BetterLab",
-    "tag_name": "DC,automated-email",
-    "helpers": null,
-    "host_name": "Langebio",
-    "latitude": 19,
-    "start_date": "2020-12-18"
-  },
-  {
     "instructors": "Ashar Malik,Akshita Kumar,Roland Huber",
     "end_date": "2020-12-23",
     "url": "https://proteinmechanic.github.io/2020-12-21-BioinformaticsInstitute/",
@@ -57,6 +42,21 @@
     "helpers": "Boryana Koseva,Jamene Brooks-Kieffer,Casey Russell",
     "host_name": "University of Kansas",
     "latitude": 38.973148,
+    "start_date": "2021-01-04"
+  },
+  {
+    "instructors": "Sarah Stevens,Tobin Magle,Jessica Vera",
+    "end_date": "2021-01-13",
+    "url": "https://uw-madison-datascience.github.io/2021-01-04-uwmadison-swc/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "University of Wisconsin-Madison (online)",
+    "longitude": -89.4124875,
+    "slug": "2021-01-04-uwmadison-swc",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": "Christina Koch,Trisha Adamus",
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 43.076592,
     "start_date": "2021-01-04"
   },
   {

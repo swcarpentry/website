@@ -393,6 +393,7 @@ records:
   pulls:
   - {number: 56, title: make lesson suitable for teaching with locally-built pages,
     updated: '2020-10-23', url: 'https://github.com/swcarpentry/shell-novice-es/pull/56'}
+  - {number: 58, title: Update 03-create.md, updated: '2020-12-20', url: 'https://github.com/swcarpentry/shell-novice-es/pull/58'}
   url: https://github.com/swcarpentry/shell-novice-es
 - description: Git - Español
   ident: swcarpentry/git-novice-es
@@ -691,7 +692,7 @@ records:
   - {number: 832, title: 'Lesson Contribution: how to install numpy', updated: '2020-12-01',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/832'}
   - {number: 894, title: Errors and Exceptions, updated: '2020-12-14', url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/894'}
-  - {number: 496, title: Swapping the order of episodes on lists and loops, updated: '2020-12-19',
+  - {number: 496, title: Swapping the order of episodes on lists and loops, updated: '2020-12-20',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/issues/496'}
   pulls:
   - {number: 569, title: Change variable name from 'char' to 'letter', updated: '2018-10-12',
@@ -783,8 +784,8 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/891'}
   - {number: 893, title: 'edited code, variable used before instantiated', updated: '2020-12-18',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/893'}
-  - {number: 895, title: Swapping the order of episodes on lists and loops, updated: '2020-12-19',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/895'}
+  - {number: 896, title: Swapping the order of episodes on lists and loops, updated: '2020-12-20',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/896'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1077,4 +1078,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-12-19T18:11:33Z'
+timestamp: '2020-12-20T18:16:08Z'
