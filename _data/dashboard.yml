@@ -1059,12 +1059,10 @@ records:
   - {number: 1760, title: Attendance Count Breakdown for Training Events, updated: '2020-12-18',
     url: 'https://github.com/carpentries/amy/issues/1760'}
   pulls:
-  - {number: 1750, title: 'Switch to PostgreSQL and upgrade dependencies, tests',
-    updated: '2020-12-06', url: 'https://github.com/carpentries/amy/pull/1750'}
   - {number: 1747, title: 'Admin dashboard: change conditions and calculations in
       "Current events", "Unpublished events" columns', updated: '2020-12-06', url: 'https://github.com/carpentries/amy/pull/1747'}
-  - {number: 1761, title: Bump datatables.net from 1.10.19 to 1.10.22, updated: '2020-12-18',
-    url: 'https://github.com/carpentries/amy/pull/1761'}
+  - {number: 1750, title: 'Switch to PostgreSQL and upgrade dependencies, tests',
+    updated: '2020-12-21', url: 'https://github.com/carpentries/amy/pull/1750'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1078,4 +1076,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-12-20T18:16:08Z'
+timestamp: '2020-12-21T18:50:23Z'

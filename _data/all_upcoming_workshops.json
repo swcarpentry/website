@@ -180,6 +180,21 @@
     "start_date": "2021-01-18"
   },
   {
+    "instructors": "Travis Seaborn,Breanna Sipley,Chava Castaneda Barba,Yesol Sapozhnikov",
+    "end_date": "2021-02-04",
+    "url": "https://imci-idaho.github.io/2021-01-19-uidaho-IntroProgramming/",
+    "country": "US",
+    "curriculum": "swc-r",
+    "venue": "Institute for Modeling Collaboration and Innovation @ The University of Idaho (online)",
+    "longitude": -1,
+    "slug": "2021-01-19-uidaho-IntroProgramming",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": "Erich Seamon",
+    "host_name": "University of Idaho",
+    "latitude": 45,
+    "start_date": "2021-01-19"
+  },
+  {
     "instructors": "Ariel Deardorff,Saranya Canchi,Jacqueline Frisina,Annajiat Alim Rasel,Adrienne Canino",
     "end_date": "2021-01-21",
     "url": "https://arieldeardorff.github.io/2021-01-20-NNLM-online/",
@@ -255,7 +270,7 @@
     "start_date": "2021-01-25"
   },
   {
-    "instructors": "MONAH ABOU ALEZZ,Annajiat Alim Rasel",
+    "instructors": "MONAH ABOU ALEZZ,Annajiat Alim Rasel,Douglas Joubert",
     "end_date": "2021-02-04",
     "url": "https://annajiat.github.io/2021-01-26-augusta-NNLM-online/",
     "country": "US",
@@ -300,6 +315,21 @@
     "start_date": "2021-02-04"
   },
   {
+    "instructors": "James Van Leuven,Breanna Sipley",
+    "end_date": "2021-03-11",
+    "url": "https://imci-idaho.github.io/2021-03-02-uidaho-Genomics/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "Institute for Modeling Collaboration and Innovation @ The University of Idaho (online)",
+    "longitude": -1,
+    "slug": "2021-03-02-uidaho-Genomics",
+    "tag_name": "DC,online,automated-email",
+    "helpers": "Travis Seaborn,Amanda Stahlke",
+    "host_name": "University of Idaho",
+    "latitude": 45,
+    "start_date": "2021-03-02"
+  },
+  {
     "instructors": "Wolmar Nyberg Åkerström,Niclas Jareborg,Elin Kronander",
     "end_date": "2021-04-15",
     "url": "https://nbisweden.github.io/workshop-dm-practices/",
@@ -313,5 +343,20 @@
     "host_name": "National Bioinformatics Infrastructure Sweden",
     "latitude": 59.84151,
     "start_date": "2021-04-13"
+  },
+  {
+    "instructors": "Erich Seamon",
+    "end_date": "2021-04-29",
+    "url": "https://imci-idaho.github.io/2021-04-20-uidaho-AdvGeospatial/",
+    "country": "US",
+    "curriculum": "dc-geospatial",
+    "venue": "Institute for Modeling Collaboration and Innovation @ The University of Idaho (online)",
+    "longitude": -1,
+    "slug": "2021-04-20-uidaho-AdvGeospatial",
+    "tag_name": "DC,online,automated-email",
+    "helpers": "Travis Seaborn",
+    "host_name": "University of Idaho",
+    "latitude": 45,
+    "start_date": "2021-04-20"
   }
 ]
