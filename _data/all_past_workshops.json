@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Bonny Adane,Margareth Gfrerer,Yonas Demissew",
+    "end_date": "2020-12-22",
+    "url": "https://educationstrategycenteraddis.github.io/2020-12-21-EPTC/",
+    "country": "ET",
+    "curriculum": "dc-ecology-r",
+    "venue": "Entoto Polytechnic Training Center",
+    "longitude": 38.76002,
+    "slug": "2020-12-21-EPTC",
+    "tag_name": "DC,online",
+    "helpers": "Meseret Teshome,Aster Assefa",
+    "host_name": "Ethiopian Research and Education Network",
+    "latitude": 9.07148,
+    "start_date": "2020-12-21"
+  },
+  {
     "instructors": "Nelly Sélem,José Manuel Villalobos Escobedo,Abraham Avelar",
     "end_date": "2020-12-19",
     "url": "https://betterlabmx.github.io/2020-12-18-BetterLab/",
@@ -135,7 +150,7 @@
     "start_date": "2020-12-07"
   },
   {
-    "instructors": "Anita Schürch,Julian Paganini,Jesse Kerkvliet",
+    "instructors": "Anita Schürch,Julian Paganini,Jesse Kerkvliet,Michael Seidl",
     "end_date": "2020-12-09",
     "url": "https://aschuerch.github.io/2020-12-07-Utrecht/",
     "country": "NL",
@@ -144,7 +159,7 @@
     "longitude": 5.169072,
     "slug": "2020-12-07-Utrecht",
     "tag_name": "DC,online,automated-email",
-    "helpers": "Malbert Rogers",
+    "helpers": "Malbert Rogers,Rodrigo Meneses",
     "host_name": "UMC Utrecht, The Netherlands, Medical Microbiology",
     "latitude": 52.085393,
     "start_date": "2020-12-07"
@@ -315,7 +330,7 @@
     "start_date": "2020-12-01"
   },
   {
-    "instructors": "Nicolas Dintzner",
+    "instructors": "Nicolas Dintzner,Jose Carlos Urra Llanusa",
     "end_date": "2020-12-09",
     "url": "https://4turesearchdata-carpentries.github.io/2020-12-01-Delft/",
     "country": "NL",
@@ -324,7 +339,7 @@
     "longitude": 4.37524,
     "slug": "2020-12-01-Delft",
     "tag_name": "SWC,online,automated-email",
-    "helpers": "Heather Andrews,Esther Plomp,Susan Branchett,Yan Wang,Ashley Cryan,Niket Agrawal,Maurits Kok,Amir Ebrahimi Fard",
+    "helpers": "Heather Andrews,Esther Plomp,Susan Branchett,Yan Wang,Ashley Cryan,Niket Agrawal,Maurits Kok,Amir Ebrahimi Fard,Manuel Garcia Alvarez,Olger Siebinga,Twan Keijzer,Neel Nagda",
     "host_name": "Delft University of Technology",
     "latitude": 52.002677,
     "start_date": "2020-12-01"
