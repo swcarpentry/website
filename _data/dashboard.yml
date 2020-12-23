@@ -187,6 +187,8 @@ records:
       exercise, updated: '2020-12-17', url: 'https://github.com/swcarpentry/shell-novice/pull/1161'}
   - {number: 1162, title: 'Note about the text cursor, and about pressing the enter
       key', updated: '2020-12-19', url: 'https://github.com/swcarpentry/shell-novice/pull/1162'}
+  - {number: 1165, title: 'Fix #1116: Updated explanation and clarified the usage
+      of `ls` with filename or directory as arguments', updated: '2020-12-23', url: 'https://github.com/swcarpentry/shell-novice/pull/1165'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -780,12 +782,12 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/868'}
   - {number: 875, title: Update 01-intro.md, updated: '2020-10-07', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/875'}
   - {number: 876, title: Revision to Code Sample, updated: '2020-11-19', url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/876'}
-  - {number: 891, title: Adding figure with lesson goal/overview, updated: '2020-12-14',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/891'}
   - {number: 893, title: 'edited code, variable used before instantiated', updated: '2020-12-18',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/893'}
   - {number: 896, title: Swapping the order of episodes on lists and loops, updated: '2020-12-20',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/896'}
+  - {number: 891, title: Adding figure with lesson goal/overview, updated: '2020-12-23',
+    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/891'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1076,4 +1078,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-12-22T18:47:22Z'
+timestamp: '2020-12-23T18:31:37Z'

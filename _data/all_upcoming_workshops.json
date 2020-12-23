@@ -1,35 +1,5 @@
 [
   {
-    "instructors": "Ashar Malik,Akshita Kumar,Roland Huber",
-    "end_date": "2020-12-23",
-    "url": "https://proteinmechanic.github.io/2020-12-21-BioinformaticsInstitute/",
-    "country": "SG",
-    "curriculum": "mix-and-match",
-    "venue": "The Bioinformatics Institute, A*STAR",
-    "longitude": -72,
-    "slug": "2020-12-21-BioinformaticsInstitute",
-    "tag_name": "online,Circuits,automated-email",
-    "helpers": null,
-    "host_name": "The Bioinformatics Institute",
-    "latitude": 25,
-    "start_date": "2020-12-21"
-  },
-  {
-    "instructors": "Bonny Adane,Margareth Gfrerer,Yonas Demissew",
-    "end_date": "2020-12-22",
-    "url": "https://educationstrategycenteraddis.github.io/2020-12-21-EPTC/",
-    "country": "ET",
-    "curriculum": "dc-ecology-r",
-    "venue": "Entoto Polytechnic Training Center",
-    "longitude": 38.76002,
-    "slug": "2020-12-21-EPTC",
-    "tag_name": "DC,online",
-    "helpers": "Meseret Teshome,Aster Assefa",
-    "host_name": "Ethiopian Research and Education Network",
-    "latitude": 9.07148,
-    "start_date": "2020-12-21"
-  },
-  {
     "instructors": "Boryana Koseva,Elizabeth Everman,Casey Russell",
     "end_date": "2021-01-15",
     "url": "https://kulibraries.github.io/2021-01-04-ku-dc-online/",
@@ -313,6 +283,21 @@
     "host_name": "Australian Meteorological and Oceanographic Society",
     "latitude": -37.813629,
     "start_date": "2021-02-04"
+  },
+  {
+    "instructors": null,
+    "end_date": "2021-03-04",
+    "url": "https://damienirving.github.io/2021-03-02-ams/",
+    "country": "US",
+    "curriculum": null,
+    "venue": "AMS 2021",
+    "longitude": -71.06697,
+    "slug": "2021-03-02-ams",
+    "tag_name": "DC,online,automated-email",
+    "helpers": null,
+    "host_name": "American Meteorological Society",
+    "latitude": 42.35688,
+    "start_date": "2021-03-02"
   },
   {
     "instructors": "James Van Leuven,Breanna Sipley",
