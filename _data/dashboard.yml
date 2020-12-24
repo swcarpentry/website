@@ -849,7 +849,7 @@ records:
   - {number: 387, title: 'Reading and Writing CSV Files in R: Introduce na.strings
       argument and explain how to read CSV file by providing a filename only', updated: '2020-12-01',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/387'}
-  - {number: 495, title: '`c` function means concatenate, not combine', updated: '2020-12-14',
+  - {number: 495, title: '`c` function means concatenate, not combine', updated: '2020-12-23',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/495'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
@@ -1078,4 +1078,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-12-23T18:31:37Z'
+timestamp: '2020-12-24T18:15:22Z'

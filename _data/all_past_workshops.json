@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Ashar Malik,Akshita Kumar,Roland Huber",
+    "end_date": "2020-12-23",
+    "url": "https://proteinmechanic.github.io/2020-12-21-BioinformaticsInstitute/",
+    "country": "SG",
+    "curriculum": "mix-and-match",
+    "venue": "The Bioinformatics Institute, A*STAR",
+    "longitude": -72,
+    "slug": "2020-12-21-BioinformaticsInstitute",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": null,
+    "host_name": "The Bioinformatics Institute",
+    "latitude": 25,
+    "start_date": "2020-12-21"
+  },
+  {
     "instructors": "Bonny Adane,Margareth Gfrerer,Yonas Demissew",
     "end_date": "2020-12-22",
     "url": "https://educationstrategycenteraddis.github.io/2020-12-21-EPTC/",
@@ -7315,7 +7330,7 @@
     "slug": "2020-01-08-utsc",
     "tag_name": "LC",
     "helpers": "May Chan,Deena Yanofsky,David Kwasny,Sarah Forbes,Krista Stapelfeldt,Julia Borie",
-    "host_name": "University of Toronto (Scarborough)",
+    "host_name": "University of Toronto",
     "latitude": 43.78725,
     "start_date": "2020-01-08"
   },
