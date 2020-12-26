@@ -487,7 +487,7 @@ records:
       sql commands, updated: '2020-03-09', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/193'}
   - {number: 289, title: Simplification + solution for group concatenation exercise,
     updated: '2020-05-28', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/289'}
-  - {number: 324, title: Explain NULLs when teaching count, updated: '2020-10-03',
+  - {number: 324, title: Explain NULLs when teaching count, updated: '2020-12-25',
     url: 'https://github.com/swcarpentry/sql-novice-survey/pull/324'}
   url: https://github.com/swcarpentry/sql-novice-survey
 - description: Python
@@ -859,7 +859,7 @@ records:
     updated: '2019-12-24', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/421'}
   - {number: 491, title: ' make lesson suitable for teaching with locally-built (serverless)
       pages', updated: '2020-10-21', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/491'}
-  - {number: 494, title: '(fix #387) - add na.strings challenge', updated: '2020-12-01',
+  - {number: 494, title: '(fix #387) - add na.strings challenge', updated: '2020-12-26',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/494'}
   url: https://github.com/swcarpentry/r-novice-inflammation
 - description: R (Gapminder Data - Español)
@@ -1078,4 +1078,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-12-25T18:15:12Z'
+timestamp: '2020-12-26T18:15:26Z'
