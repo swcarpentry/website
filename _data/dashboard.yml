@@ -838,19 +838,15 @@ records:
   - {number: 483, title: 'RFC: Migration to R 4.0', updated: '2020-07-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/483'}
   - {number: 484, title: Fix platform-specific setup instructions, updated: '2020-08-05',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/484'}
-  - {number: 485, title: Multi lines commenting, updated: '2020-08-30', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/485'}
-  - {number: 486, title: Diagrams to describe functions, updated: '2020-09-10', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/486'}
-  - {number: 487, title: 'Using the RStudio Terminal- Lesson 5: Command Line Programs',
-    updated: '2020-09-11', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/487'}
-  - {number: 343, title: 'Packaging: refer to other resources', updated: '2020-11-02',
-    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/343'}
-  - {number: 493, title: incorrect output in Reading and Writing CSV Files from r-novice-inflammation,
-    updated: '2020-11-19', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/493'}
   - {number: 387, title: 'Reading and Writing CSV Files in R: Introduce na.strings
       argument and explain how to read CSV file by providing a filename only', updated: '2020-12-01',
     url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/387'}
-  - {number: 495, title: '`c` function means concatenate, not combine', updated: '2020-12-23',
-    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/495'}
+  - {number: 493, title: incorrect output in Reading and Writing CSV Files from r-novice-inflammation,
+    updated: '2020-12-29', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/493'}
+  - {number: 487, title: 'Using the RStudio Terminal- Lesson 5: Command Line Programs',
+    updated: '2020-12-29', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/487'}
+  - {number: 486, title: Diagrams to describe functions, updated: '2020-12-29', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/486'}
+  - {number: 485, title: Multi lines commenting, updated: '2020-12-29', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/485'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
@@ -1078,4 +1074,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-12-28T18:34:08Z'
+timestamp: '2020-12-29T18:26:37Z'
