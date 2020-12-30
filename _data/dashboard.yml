@@ -846,7 +846,7 @@ records:
   - {number: 487, title: 'Using the RStudio Terminal- Lesson 5: Command Line Programs',
     updated: '2020-12-29', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/487'}
   - {number: 486, title: Diagrams to describe functions, updated: '2020-12-29', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/486'}
-  - {number: 485, title: Multi lines commenting, updated: '2020-12-29', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/485'}
+  - {number: 485, title: Multi lines commenting, updated: '2020-12-30', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/485'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
@@ -1074,4 +1074,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2020-12-29T18:26:37Z'
+timestamp: '2020-12-30T18:29:05Z'
