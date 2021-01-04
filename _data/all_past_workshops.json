@@ -6540,21 +6540,6 @@
     "start_date": "2020-02-04"
   },
   {
-    "instructors": "Ye Li,Ece Turnator,Madeline Wrable,Daniel Sheehan,Christine Malinowski",
-    "end_date": "2020-02-09",
-    "url": "https://carpentriesmit.github.io/2020-02-04-mit/",
-    "country": "US",
-    "curriculum": "swc-python-gapminder",
-    "venue": "Carpentries @ MIT: Intro to UnixShell/Python/Git",
-    "longitude": -71.090542,
-    "slug": "2020-02-04-mit",
-    "tag_name": "SWC,online,automated-email",
-    "helpers": "Ye Li,Ece Turnator,Madeline Wrable,Daniel Sheehan,Christine Malinowski,Phoebe Ayers",
-    "host_name": "Massachusetts Institute of Technology",
-    "latitude": 42.359689,
-    "start_date": "2020-02-04"
-  },
-  {
     "instructors": "Mark Phillips,Kristy Phillips,Manuel Gottardi,Maristella Feustle",
     "end_date": "2020-02-05",
     "url": "https://unt-carpentries.github.io/2020-02-04-unt-swc/",

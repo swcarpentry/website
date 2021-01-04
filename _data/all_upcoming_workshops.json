@@ -105,6 +105,36 @@
     "start_date": "2021-01-11"
   },
   {
+    "instructors": "Rob Lane,Satwinder Singh,Mengzhen Sun,Aaron Limoges",
+    "end_date": "2021-01-14",
+    "url": "https://columbiaswc.github.io/2021-01-11-columbia-python/",
+    "country": "",
+    "curriculum": "swc-python-gapminder",
+    "venue": "Columbia University",
+    "longitude": 73.96333,
+    "slug": "2021-01-11-columbia-python",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": "Michael Introini,Axinia Radeva,Mengzhen Sun,Aaron Limoges",
+    "host_name": "Columbia University",
+    "latitude": 40.80618,
+    "start_date": "2021-01-11"
+  },
+  {
+    "instructors": "Wei Yin,Michael Weisner,Jonathan Reeve,Alan Crosswell",
+    "end_date": "2021-01-14",
+    "url": "https://columbiaswc.github.io/2021-01-11-columbia-r/",
+    "country": "",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Columbia University",
+    "longitude": 73.96333,
+    "slug": "2021-01-11-columbia-r",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": "Wei Yin,Axinia Radeva",
+    "host_name": "Columbia University",
+    "latitude": 40.80618,
+    "start_date": "2021-01-11"
+  },
+  {
     "instructors": "Jane Koh",
     "end_date": "2021-01-14",
     "url": "https://uwescience.github.io/2021-01-11-uw-online/",
@@ -312,6 +342,21 @@
     "helpers": null,
     "host_name": "Australian Meteorological and Oceanographic Society",
     "latitude": -37.813629,
+    "start_date": "2021-02-04"
+  },
+  {
+    "instructors": "Ye Li,Ece Turnator,Madeline Wrable,Daniel Sheehan,Christine Malinowski",
+    "end_date": "2021-02-09",
+    "url": "https://carpentriesmit.github.io/2021-02-04-mit/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "Carpentries @ MIT: Intro to UnixShell/Python/Git",
+    "longitude": -71.090542,
+    "slug": "2021-02-04-mit",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": "Ye Li,Ece Turnator,Madeline Wrable,Daniel Sheehan,Christine Malinowski,Phoebe Ayers",
+    "host_name": "Massachusetts Institute of Technology",
+    "latitude": 42.359689,
     "start_date": "2021-02-04"
   },
   {
