@@ -1,32 +1,17 @@
 [
   {
-    "instructors": "Boryana Koseva,Elizabeth Everman,Casey Russell",
-    "end_date": "2021-01-15",
-    "url": "https://kulibraries.github.io/2021-01-04-ku-dc-online/",
-    "country": "US",
-    "curriculum": "dc-genomics",
-    "venue": "University of Kansas (online)",
-    "longitude": -95.238251,
-    "slug": "2021-01-04-ku-dc-online",
-    "tag_name": "DC,online,automated-email",
-    "helpers": "Boryana Koseva,Jamene Brooks-Kieffer,Casey Russell",
-    "host_name": "University of Kansas",
-    "latitude": 38.973148,
-    "start_date": "2021-01-04"
-  },
-  {
     "instructors": "Sarah Stevens,Tobin Magle,Jessica Vera",
-    "end_date": "2021-01-13",
+    "end_date": "2021-01-11",
     "url": "https://uw-madison-datascience.github.io/2021-01-04-uwmadison-swc/",
     "country": "US",
     "curriculum": "swc-python-gapminder",
     "venue": "University of Wisconsin-Madison (online)",
-    "longitude": -89.4124875,
+    "longitude": -122.332071,
     "slug": "2021-01-04-uwmadison-swc",
     "tag_name": "SWC,online,automated-email",
     "helpers": "Christina Koch,Trisha Adamus",
     "host_name": "University of Wisconsin - Madison",
-    "latitude": 43.076592,
+    "latitude": 47.606209,
     "start_date": "2021-01-04"
   },
   {
@@ -73,6 +58,21 @@
     "host_name": "American Astronomical Society",
     "latitude": 38.8951363,
     "start_date": "2021-01-07"
+  },
+  {
+    "instructors": "Angela Li,Deborah (Debby) Kermer,Wendy Mann",
+    "end_date": "2021-01-29",
+    "url": "https://dkermer.github.io/2021-01-08-GMU/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "George Mason University (online)",
+    "longitude": -1,
+    "slug": "2021-01-08-GMU",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": "Christopher Magee",
+    "host_name": "George Mason University",
+    "latitude": 45,
+    "start_date": "2021-01-08"
   },
   {
     "instructors": "Anne Fouilloux,Samantha Wittke",
@@ -135,7 +135,7 @@
     "start_date": "2021-01-11"
   },
   {
-    "instructors": "Jane Koh",
+    "instructors": "Scott Henderson,Chad Curtis,Amanda Tan,William Fondrie",
     "end_date": "2021-01-14",
     "url": "https://uwescience.github.io/2021-01-11-uw-online/",
     "country": "US",
@@ -144,10 +144,25 @@
     "longitude": -122.332071,
     "slug": "2021-01-11-uw-online",
     "tag_name": "SWC,online,automated-email",
-    "helpers": null,
+    "helpers": "Adam Richie-Halford,Jose Hernandez,Rob Fatland,Noah Benson",
     "host_name": "University of Washington",
     "latitude": 47.606209,
     "start_date": "2021-01-11"
+  },
+  {
+    "instructors": "Jeffrey Oliver,Trisha Adamus",
+    "end_date": "2021-01-14",
+    "url": "https://jcoliver.github.io/2021-01-13-ttt-online-PST/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2021-01-13-ttt-online-PST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2021-01-13"
   },
   {
     "instructors": "Kristina Hettne,Jeff Love",
@@ -180,6 +195,21 @@
     "start_date": "2021-01-18"
   },
   {
+    "instructors": "Sena Agezo,David Nicholson,Elyse Morin,Stephanie Prince,Nadia Harerimana",
+    "end_date": "2021-01-22",
+    "url": "https://data-science-for-scientists-atl.github.io/2021-01-19-Emory/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "Emory University",
+    "longitude": -84.32145,
+    "slug": "2021-01-19-Emory",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": null,
+    "host_name": "Emory University",
+    "latitude": 33.79434,
+    "start_date": "2021-01-19"
+  },
+  {
     "instructors": "Travis Seaborn,Breanna Sipley,Chava Castaneda Barba,Yesol Sapozhnikov",
     "end_date": "2021-02-04",
     "url": "https://imci-idaho.github.io/2021-01-19-uidaho-IntroProgramming/",
@@ -204,7 +234,7 @@
     "longitude": -1,
     "slug": "2021-01-20-NNLM-online",
     "tag_name": "LC,online,automated-email",
-    "helpers": null,
+    "helpers": "Denice Adkins,Tisha Mentnech,Mike Davidson",
     "host_name": "Network of the National Library of Medicine",
     "latitude": 45,
     "start_date": "2021-01-20"
@@ -237,21 +267,6 @@
     "helpers": null,
     "host_name": "African Library and Information Associations and Institutions",
     "latitude": 0,
-    "start_date": "2021-01-22"
-  },
-  {
-    "instructors": "Angela Li",
-    "end_date": "2021-01-29",
-    "url": "https://angela-li.github.io/2021-01-22-gmu-online/",
-    "country": "US",
-    "curriculum": "swc-reproducible-science",
-    "venue": "George Mason University",
-    "longitude": -1,
-    "slug": "2021-01-22-gmu-online",
-    "tag_name": "SWC,online,automated-email",
-    "helpers": null,
-    "host_name": "George Mason University",
-    "latitude": 45,
     "start_date": "2021-01-22"
   },
   {

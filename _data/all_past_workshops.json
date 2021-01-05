@@ -3,15 +3,15 @@
     "instructors": "Ashar Malik,Akshita Kumar,Roland Huber",
     "end_date": "2020-12-23",
     "url": "https://proteinmechanic.github.io/2020-12-21-BioinformaticsInstitute/",
-    "country": "SG",
+    "country": "SI",
     "curriculum": "mix-and-match",
     "venue": "The Bioinformatics Institute, A*STAR",
-    "longitude": -72,
+    "longitude": 103.819839,
     "slug": "2020-12-21-BioinformaticsInstitute",
     "tag_name": "online,Circuits,automated-email",
     "helpers": null,
     "host_name": "The Bioinformatics Institute",
-    "latitude": 25,
+    "latitude": 1.352083,
     "start_date": "2020-12-21"
   },
   {
@@ -39,13 +39,13 @@
     "longitude": -90,
     "slug": "2020-12-18-BetterLab",
     "tag_name": "DC,automated-email",
-    "helpers": null,
+    "helpers": "José Manuel Villalobos Escobedo,Abraham Avelar,Vanessa Arellano",
     "host_name": "Langebio",
     "latitude": 19,
     "start_date": "2020-12-18"
   },
   {
-    "instructors": "Greg Janée,Torin White,Renata Curty",
+    "instructors": "Greg Janée,Kristi Liu,Torin White,Renata Curty",
     "end_date": "2020-12-17",
     "url": "https://ucsbcarpentry.github.io/2020-12-16-Rmarkdown-UCSB-online/",
     "country": "US",
@@ -54,7 +54,7 @@
     "longitude": -1,
     "slug": "2020-12-16-Rmarkdown-UCSB-online",
     "tag_name": "online,Circuits,automated-email",
-    "helpers": "Ian Lessing,Kristi Liu,Serena Osmuss",
+    "helpers": "Ian Lessing,Jon Jablonski",
     "host_name": "University of California Santa Barbara",
     "latitude": 45,
     "start_date": "2020-12-16"
@@ -210,7 +210,7 @@
     "start_date": "2020-12-07"
   },
   {
-    "instructors": "Aditya Bandla,Annajiat Alim Rasel,Ana Carolina Dantas Machado,Qinyun Lin",
+    "instructors": "Chris Tomlinson,Aditya Bandla,Annajiat Alim Rasel,Ana Carolina Dantas Machado,Qinyun Lin",
     "end_date": "2020-12-10",
     "url": "https://annajiat.github.io/2020-12-07-spelman-SBDH/",
     "country": "US",
@@ -7362,6 +7362,21 @@
     "helpers": "Rodolfo Montez",
     "host_name": "University of California Davis",
     "latitude": 21.28999,
+    "start_date": "2020-01-04"
+  },
+  {
+    "instructors": "Boryana Koseva,Elizabeth Everman,Casey Russell",
+    "end_date": "2020-01-15",
+    "url": "https://kulibraries.github.io/2021-01-04-ku-dc-online/",
+    "country": "US",
+    "curriculum": "dc-genomics",
+    "venue": "University of Kansas (online)",
+    "longitude": -95.238251,
+    "slug": "2021-01-04-ku-dc-online",
+    "tag_name": "DC,online,automated-email",
+    "helpers": "Boryana Koseva,Jamene Brooks-Kieffer,Casey Russell",
+    "host_name": "University of Kansas",
+    "latitude": 38.973148,
     "start_date": "2020-01-04"
   },
   {

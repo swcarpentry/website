@@ -167,6 +167,8 @@ records:
       directory, updated: '2020-11-19', url: 'https://github.com/swcarpentry/shell-novice/issues/1154'}
   - {number: 1157, title: 'Suggestions for improving Pipes and Filters episode ',
     updated: '2020-11-23', url: 'https://github.com/swcarpentry/shell-novice/issues/1157'}
+  - {number: 1166, title: Lesson contribution – instructor checkout – Introducing
+      the shell, updated: '2021-01-05', url: 'https://github.com/swcarpentry/shell-novice/issues/1166'}
   pulls:
   - {number: 696, title: 'Shell lesson, No.7 [Last exercise] - Better to not hard-code
       the username', updated: '2020-04-17', url: 'https://github.com/swcarpentry/shell-novice/pull/696'}
@@ -183,12 +185,12 @@ records:
     url: 'https://github.com/swcarpentry/shell-novice/pull/1155'}
   - {number: 1156, title: Add file extension to goostats and goodiff, updated: '2020-11-23',
     url: 'https://github.com/swcarpentry/shell-novice/pull/1156'}
-  - {number: 1161, title: Additional detail in the solution to the "Doing a Dry Run"
-      exercise, updated: '2020-12-17', url: 'https://github.com/swcarpentry/shell-novice/pull/1161'}
   - {number: 1162, title: 'Note about the text cursor, and about pressing the enter
       key', updated: '2020-12-19', url: 'https://github.com/swcarpentry/shell-novice/pull/1162'}
   - {number: 1165, title: 'Fix #1116: Updated explanation and clarified the usage
       of `ls` with filename or directory as arguments', updated: '2020-12-23', url: 'https://github.com/swcarpentry/shell-novice/pull/1165'}
+  - {number: 1161, title: Additional detail in the solution to the "Doing a Dry Run"
+      exercise, updated: '2021-01-05', url: 'https://github.com/swcarpentry/shell-novice/pull/1161'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -312,8 +314,6 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/765'}
   - {number: 691, title: 'Consider replacing "checkout" with "switch" and "restore",
       if widely available in the future', updated: '2020-10-13', url: 'https://github.com/swcarpentry/git-novice/issues/691'}
-  - {number: 766, title: Lesson contribution - nano text editor commands, updated: '2020-10-26',
-    url: 'https://github.com/swcarpentry/git-novice/issues/766'}
   - {number: 761, title: Best practices to switch from master to main, updated: '2020-10-28',
     url: 'https://github.com/swcarpentry/git-novice/issues/761'}
   - {number: 759, title: Suggestion for improving the git staging area graphic, updated: '2020-11-09',
@@ -322,6 +322,8 @@ records:
       the Tracking Changes lesson, updated: '2020-11-20', url: 'https://github.com/swcarpentry/git-novice/issues/769'}
   - {number: 771, title: Suggestion for improving the graphic in the Remote in GitHub
       lesson, updated: '2020-12-11', url: 'https://github.com/swcarpentry/git-novice/issues/771'}
+  - {number: 766, title: Lesson contribution - nano text editor commands, updated: '2021-01-04',
+    url: 'https://github.com/swcarpentry/git-novice/issues/766'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -847,6 +849,8 @@ records:
     updated: '2020-12-29', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/487'}
   - {number: 486, title: Diagrams to describe functions, updated: '2020-12-29', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/486'}
   - {number: 485, title: Multi lines commenting, updated: '2020-12-30', url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/485'}
+  - {number: 495, title: '`c` function means concatenate, not combine', updated: '2021-01-04',
+    url: 'https://github.com/swcarpentry/r-novice-inflammation/issues/495'}
   pulls:
   - {number: 445, title: Add diagram description, updated: '2019-08-27', url: 'https://github.com/swcarpentry/r-novice-inflammation/pull/445'}
   - {number: 460, title: Added location to save scripts for cmdline programs, updated: '2019-11-12',
@@ -1061,7 +1065,7 @@ records:
       "Current events", "Unpublished events" columns', updated: '2020-12-06', url: 'https://github.com/carpentries/amy/pull/1747'}
   - {number: 1750, title: 'Switch to PostgreSQL and upgrade dependencies, tests',
     updated: '2020-12-22', url: 'https://github.com/carpentries/amy/pull/1750'}
-  - {number: 1762, title: Bump urijs from 1.19.1 to 1.19.4, updated: '2020-12-31',
+  - {number: 1762, title: Bump urijs from 1.19.1 to 1.19.4, updated: '2021-01-04',
     url: 'https://github.com/carpentries/amy/pull/1762'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
@@ -1076,4 +1080,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2021-01-04T18:54:14Z'
+timestamp: '2021-01-05T19:16:59Z'
