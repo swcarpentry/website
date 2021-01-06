@@ -191,6 +191,8 @@ records:
       of `ls` with filename or directory as arguments', updated: '2020-12-23', url: 'https://github.com/swcarpentry/shell-novice/pull/1165'}
   - {number: 1161, title: Additional detail in the solution to the "Doing a Dry Run"
       exercise, updated: '2021-01-05', url: 'https://github.com/swcarpentry/shell-novice/pull/1161'}
+  - {number: 1167, title: Add note to navigate to home directory, updated: '2021-01-06',
+    url: 'https://github.com/swcarpentry/shell-novice/pull/1167'}
   url: https://github.com/swcarpentry/shell-novice
 - description: Git
   ident: swcarpentry/git-novice
@@ -314,8 +316,6 @@ records:
     url: 'https://github.com/swcarpentry/git-novice/issues/765'}
   - {number: 691, title: 'Consider replacing "checkout" with "switch" and "restore",
       if widely available in the future', updated: '2020-10-13', url: 'https://github.com/swcarpentry/git-novice/issues/691'}
-  - {number: 761, title: Best practices to switch from master to main, updated: '2020-10-28',
-    url: 'https://github.com/swcarpentry/git-novice/issues/761'}
   - {number: 759, title: Suggestion for improving the git staging area graphic, updated: '2020-11-09',
     url: 'https://github.com/swcarpentry/git-novice/issues/759'}
   - {number: 769, title: Suggestion for the clarification of `git diff` command in
@@ -324,6 +324,8 @@ records:
       lesson, updated: '2020-12-11', url: 'https://github.com/swcarpentry/git-novice/issues/771'}
   - {number: 766, title: Lesson contribution - nano text editor commands, updated: '2021-01-04',
     url: 'https://github.com/swcarpentry/git-novice/issues/766'}
+  - {number: 761, title: Best practices to switch from master to main, updated: '2021-01-06',
+    url: 'https://github.com/swcarpentry/git-novice/issues/761'}
   pulls:
   - {number: 395, title: Regular windows and echo for editing suggested, updated: '2018-06-08',
     url: 'https://github.com/swcarpentry/git-novice/pull/395'}
@@ -1018,11 +1020,8 @@ records:
       their information visible on our websites, updated: '2020-10-02', url: 'https://github.com/carpentries/amy/issues/1719'}
   - {number: 1711, title: Re-activate fields for pre/post surveys, updated: '2020-10-02',
     url: 'https://github.com/carpentries/amy/issues/1711'}
-  - {number: 1722, title: Add Time & Time Zone to WRF, updated: '2020-10-14', url: 'https://github.com/carpentries/amy/issues/1722'}
   - {number: 1738, title: Include registration code in search function, updated: '2020-11-03',
     url: 'https://github.com/carpentries/amy/issues/1738'}
-  - {number: 1749, title: Gather consent during profile creation, updated: '2020-11-12',
-    url: 'https://github.com/carpentries/amy/issues/1749'}
   - {number: 1752, title: Viewing events assigned to others, updated: '2020-11-19',
     url: 'https://github.com/carpentries/amy/issues/1752'}
   - {number: 1534, title: Remove deprecated features of AMY, updated: '2020-11-22',
@@ -1060,13 +1059,14 @@ records:
   - {number: 1759, title: WRF Website Slug Validation, updated: '2020-12-16', url: 'https://github.com/carpentries/amy/issues/1759'}
   - {number: 1760, title: Attendance Count Breakdown for Training Events, updated: '2020-12-18',
     url: 'https://github.com/carpentries/amy/issues/1760'}
+  - {number: 1749, title: Gather consent during profile creation, updated: '2021-01-06',
+    url: 'https://github.com/carpentries/amy/issues/1749'}
+  - {number: 1722, title: Add Time & Time Zone to WRF, updated: '2021-01-06', url: 'https://github.com/carpentries/amy/issues/1722'}
   pulls:
   - {number: 1747, title: 'Admin dashboard: change conditions and calculations in
       "Current events", "Unpublished events" columns', updated: '2020-12-06', url: 'https://github.com/carpentries/amy/pull/1747'}
   - {number: 1750, title: 'Switch to PostgreSQL and upgrade dependencies, tests',
     updated: '2020-12-22', url: 'https://github.com/carpentries/amy/pull/1750'}
-  - {number: 1762, title: Bump urijs from 1.19.1 to 1.19.4, updated: '2021-01-04',
-    url: 'https://github.com/carpentries/amy/pull/1762'}
   url: https://github.com/carpentries/amy
 - description: Software Carpentry Website
   ident: swcarpentry/website
@@ -1080,4 +1080,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2021-01-05T19:16:59Z'
+timestamp: '2021-01-06T18:45:15Z'
