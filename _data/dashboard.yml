@@ -883,12 +883,11 @@ records:
   - {number: 657, title: 'Define fuzzy search in Seeking Help episode ', updated: '2020-09-25',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/657'}
   - {number: 540, title: Remove plyr dependency, updated: '2020-11-10', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/540'}
-  - {number: 674, title: Rename (or split) episode "Exploring Data Frames", updated: '2020-11-30',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/674'}
   pulls:
   - {number: 552, title: Make gentler intro for ggplot2 lesson, updated: '2019-08-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/552'}
   - {number: 551, title: update links, updated: '2020-09-25', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/551'}
+  - {number: 678, title: Add stringsAsFactors = TRUE, updated: '2021-01-06', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/678'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1080,4 +1079,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2021-01-06T18:45:15Z'
+timestamp: '2021-01-07T18:49:36Z'

@@ -75,6 +75,21 @@
     "start_date": "2021-01-08"
   },
   {
+    "instructors": "Tim Dennis,Jamie Jamison,Geno Sanchez,Elizabeth McAulay,Doug Daniels",
+    "end_date": "2021-02-26",
+    "url": "https://ucla-data-archive.github.io/2021-01-08-UCLA-iSchool/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "UCLA iSchool",
+    "longitude": -118.44177,
+    "slug": "2021-01-08-UCLA-iSchool",
+    "tag_name": "LC,online,automated-email",
+    "helpers": "Tim Dennis,Jamie Jamison,Geno Sanchez,Elizabeth McAulay,Doug Daniels",
+    "host_name": "University of California Los Angeles",
+    "latitude": 34.07552,
+    "start_date": "2021-01-08"
+  },
+  {
     "instructors": "Anne Fouilloux,Samantha Wittke",
     "end_date": "2021-01-08",
     "url": "https://coderefinery.github.io/2021-01-08-coderefinery-online/",
