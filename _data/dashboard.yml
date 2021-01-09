@@ -1063,6 +1063,7 @@ records:
   - {number: 1749, title: Gather consent during profile creation, updated: '2021-01-06',
     url: 'https://github.com/carpentries/amy/issues/1749'}
   - {number: 1722, title: Add Time & Time Zone to WRF, updated: '2021-01-06', url: 'https://github.com/carpentries/amy/issues/1722'}
+  - {number: 1764, title: change default email address, updated: '2021-01-08', url: 'https://github.com/carpentries/amy/issues/1764'}
   pulls:
   - {number: 1747, title: 'Admin dashboard: change conditions and calculations in
       "Current events", "Unpublished events" columns', updated: '2020-12-06', url: 'https://github.com/carpentries/amy/pull/1747'}
@@ -1081,4 +1082,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2021-01-08T18:49:16Z'
+timestamp: '2021-01-09T18:24:08Z'
