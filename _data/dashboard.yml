@@ -1021,15 +1021,9 @@ records:
       their information visible on our websites, updated: '2020-10-02', url: 'https://github.com/carpentries/amy/issues/1719'}
   - {number: 1711, title: Re-activate fields for pre/post surveys, updated: '2020-10-02',
     url: 'https://github.com/carpentries/amy/issues/1711'}
-  - {number: 1738, title: Include registration code in search function, updated: '2020-11-03',
-    url: 'https://github.com/carpentries/amy/issues/1738'}
-  - {number: 1752, title: Viewing events assigned to others, updated: '2020-11-19',
-    url: 'https://github.com/carpentries/amy/issues/1752'}
   - {number: 1534, title: Remove deprecated features of AMY, updated: '2020-11-22',
     url: 'https://github.com/carpentries/amy/issues/1534'}
   - {number: 1755, title: Support for multiple hosts, updated: '2020-11-24', url: 'https://github.com/carpentries/amy/issues/1755'}
-  - {number: 1754, title: 'Introduce warning if membership term is not one year ',
-    updated: '2020-12-03', url: 'https://github.com/carpentries/amy/issues/1754'}
   - {number: 1756, title: Release notes aren't visible in the docs, updated: '2020-12-06',
     url: 'https://github.com/carpentries/amy/issues/1756'}
   - {number: 1716, title: 'Include Supporting Instructors in count in  "Unpublished
@@ -1062,8 +1056,16 @@ records:
     url: 'https://github.com/carpentries/amy/issues/1760'}
   - {number: 1749, title: Gather consent during profile creation, updated: '2021-01-06',
     url: 'https://github.com/carpentries/amy/issues/1749'}
-  - {number: 1722, title: Add Time & Time Zone to WRF, updated: '2021-01-06', url: 'https://github.com/carpentries/amy/issues/1722'}
   - {number: 1764, title: change default email address, updated: '2021-01-08', url: 'https://github.com/carpentries/amy/issues/1764'}
+  - {number: 1765, title: Prepare automated emails to go automatically for every event,
+    updated: '2021-01-10', url: 'https://github.com/carpentries/amy/issues/1765'}
+  - {number: 1754, title: 'Introduce warning if membership term is not one year ',
+    updated: '2021-01-10', url: 'https://github.com/carpentries/amy/issues/1754'}
+  - {number: 1752, title: Viewing events assigned to others, updated: '2021-01-10',
+    url: 'https://github.com/carpentries/amy/issues/1752'}
+  - {number: 1738, title: Include registration code in search function, updated: '2021-01-10',
+    url: 'https://github.com/carpentries/amy/issues/1738'}
+  - {number: 1722, title: Add Time & Time Zone to WRF, updated: '2021-01-10', url: 'https://github.com/carpentries/amy/issues/1722'}
   pulls:
   - {number: 1747, title: 'Admin dashboard: change conditions and calculations in
       "Current events", "Unpublished events" columns', updated: '2020-12-06', url: 'https://github.com/carpentries/amy/pull/1747'}
@@ -1082,4 +1084,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2021-01-09T18:24:08Z'
+timestamp: '2021-01-10T18:25:02Z'
