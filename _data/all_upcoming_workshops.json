@@ -1,17 +1,17 @@
 [
   {
-    "instructors": "Sarah Stevens,Tobin Magle,Jessica Vera",
-    "end_date": "2021-01-11",
-    "url": "https://uw-madison-datascience.github.io/2021-01-04-uwmadison-swc/",
+    "instructors": "Boryana Koseva,Elizabeth Everman,Casey Russell",
+    "end_date": "2021-01-15",
+    "url": "https://kulibraries.github.io/2021-01-04-ku-dc-online/",
     "country": "US",
-    "curriculum": "swc-python-gapminder",
-    "venue": "University of Wisconsin-Madison (online)",
-    "longitude": -122.332071,
-    "slug": "2021-01-04-uwmadison-swc",
-    "tag_name": "SWC,online,automated-email",
-    "helpers": "Christina Koch,Trisha Adamus",
-    "host_name": "University of Wisconsin - Madison",
-    "latitude": 47.606209,
+    "curriculum": "dc-genomics",
+    "venue": "University of Kansas (online)",
+    "longitude": -95.238251,
+    "slug": "2021-01-04-ku-dc-online",
+    "tag_name": "DC,online,automated-email",
+    "helpers": "Boryana Koseva,Jamene Brooks-Kieffer,Casey Russell",
+    "host_name": "University of Kansas",
+    "latitude": 38.973148,
     "start_date": "2021-01-04"
   },
   {
@@ -210,6 +210,21 @@
     "start_date": "2021-01-20"
   },
   {
+    "instructors": "Ian Lessing,Torin White,Sanjeev Kolli",
+    "end_date": "2021-01-21",
+    "url": "https://ucsbcarpentry.github.io/2021-01-21-SWC-Bash-online/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of California, Santa Barbara (online)",
+    "longitude": -1,
+    "slug": "2021-01-21-SWC-Bash-online",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": "Kristi Liu",
+    "host_name": "University of California Santa Barbara",
+    "latitude": 45,
+    "start_date": "2021-01-21"
+  },
+  {
     "instructors": "Amanda Charbonneau,Sarah Brown",
     "end_date": "2021-01-22",
     "url": "https://brownsarahm.github.io/2021-01-21-ttt-online-EST/",
@@ -237,6 +252,21 @@
     "helpers": null,
     "host_name": "African Library and Information Associations and Institutions",
     "latitude": 0,
+    "start_date": "2021-01-22"
+  },
+  {
+    "instructors": "Jon Jablonski,Kristi Liu,Torin White",
+    "end_date": "2021-01-22",
+    "url": "https://ucsbcarpentry.github.io/2021-01-22-SWC-Git-online/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of California, Santa Barbara (online)",
+    "longitude": -1,
+    "slug": "2021-01-22-SWC-Git-online",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": "Renata Curty",
+    "host_name": "University of California Santa Barbara",
+    "latitude": 45,
     "start_date": "2021-01-22"
   },
   {
@@ -315,6 +345,21 @@
     "start_date": "2021-01-29"
   },
   {
+    "instructors": "Christina Koch,Melissa Ko",
+    "end_date": "2021-02-04",
+    "url": "https://christinalk.github.io/2021-02-01-ttt-online-PST/",
+    "country": "W3",
+    "curriculum": null,
+    "venue": "Internet",
+    "longitude": -123.393333,
+    "slug": "2021-02-01-ttt-online-PST",
+    "tag_name": "TTT,online",
+    "helpers": null,
+    "host_name": "Instructor Training",
+    "latitude": -48.876667,
+    "start_date": "2021-02-01"
+  },
+  {
     "instructors": "Damien Irving,Holger Wolff,Claire Trenham",
     "end_date": "2021-02-04",
     "url": "https://damienirving.github.io/2021-02-04-amos/",
@@ -372,6 +417,21 @@
     "helpers": null,
     "host_name": "American Meteorological Society",
     "latitude": 42.35688,
+    "start_date": "2021-03-02"
+  },
+  {
+    "instructors": "Trisha Adamus,Jennifer Lee,Saranya Canchi",
+    "end_date": "2021-03-03",
+    "url": "https://jenniferleeucalgary.github.io/2021-03-02-macmla-NNLM/",
+    "country": "US",
+    "curriculum": "lc",
+    "venue": "Mid-Atlantic Chapter of the Medical Library Association (online)",
+    "longitude": 0,
+    "slug": "2021-03-02-macmla-NNLM",
+    "tag_name": "LC,online,automated-email",
+    "helpers": null,
+    "host_name": "Network of the National Library of Medicine",
+    "latitude": 0,
     "start_date": "2021-03-02"
   },
   {

@@ -60,7 +60,22 @@
     "start_date": "2021-01-07"
   },
   {
-    "instructors": "Ashar Malik,Akshita Kumar,Roland Huber",
+    "instructors": "Sarah Stevens,Tobin Magle,Jessica Vera",
+    "end_date": "2021-01-11",
+    "url": "https://uw-madison-datascience.github.io/2021-01-04-uwmadison-swc/",
+    "country": "US",
+    "curriculum": "swc-python-gapminder",
+    "venue": "University of Wisconsin-Madison (online)",
+    "longitude": -122.332071,
+    "slug": "2021-01-04-uwmadison-swc",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": "Christina Koch,Trisha Adamus",
+    "host_name": "University of Wisconsin - Madison",
+    "latitude": 47.606209,
+    "start_date": "2021-01-04"
+  },
+  {
+    "instructors": "Ashar Malik,Akshita Kumar,Shilpa Yadahalli,Roland Huber",
     "end_date": "2020-12-23",
     "url": "https://proteinmechanic.github.io/2020-12-21-BioinformaticsInstitute/",
     "country": "SI",
@@ -7422,21 +7437,6 @@
     "helpers": "Rodolfo Montez",
     "host_name": "University of California Davis",
     "latitude": 21.28999,
-    "start_date": "2020-01-04"
-  },
-  {
-    "instructors": "Boryana Koseva,Elizabeth Everman,Casey Russell",
-    "end_date": "2020-01-15",
-    "url": "https://kulibraries.github.io/2021-01-04-ku-dc-online/",
-    "country": "US",
-    "curriculum": "dc-genomics",
-    "venue": "University of Kansas (online)",
-    "longitude": -95.238251,
-    "slug": "2021-01-04-ku-dc-online",
-    "tag_name": "DC,online,automated-email",
-    "helpers": "Boryana Koseva,Jamene Brooks-Kieffer,Casey Russell",
-    "host_name": "University of Kansas",
-    "latitude": 38.973148,
     "start_date": "2020-01-04"
   },
   {
