@@ -1,5 +1,20 @@
 [
   {
+    "instructors": "Zena Lapp,Kelly Sovacool",
+    "end_date": "2021-01-12",
+    "url": "https://umswc.github.io/2021-01-11-UMich-WISE-online/",
+    "country": "US",
+    "curriculum": "mix-and-match",
+    "venue": "University of Michigan (online)",
+    "longitude": -1,
+    "slug": "2021-01-11-UMich-WISE-online",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": "Sarah Tomkovich,Catherine Barnier",
+    "host_name": "University of Michigan",
+    "latitude": 45,
+    "start_date": "2021-01-11"
+  },
+  {
     "instructors": "Anne Fouilloux,Samantha Wittke",
     "end_date": "2021-01-08",
     "url": "https://coderefinery.github.io/2021-01-08-coderefinery-online/",
@@ -1315,7 +1330,7 @@
     "slug": "2020-10-21-nord-online",
     "tag_name": "DC,online",
     "helpers": "Tadeu Nogueira,Abdurhman Ali,Kari Alterskjær",
-    "host_name": "Nord University",
+    "host_name": "Nordic eInfrastructure Collaboration",
     "latitude": -48.876667,
     "start_date": "2020-10-21"
   },
@@ -1540,7 +1555,7 @@
     "slug": "2020-10-14-nord-online",
     "tag_name": "DC,online",
     "helpers": "Tadeu Nogueira,Abdurhman Ali,Kari Alterskjær",
-    "host_name": "Nord University",
+    "host_name": "Nordic eInfrastructure Collaboration",
     "latitude": -48.876667,
     "start_date": "2020-10-14"
   },
@@ -2260,7 +2275,7 @@
     "slug": "2020-09-16-nord-online",
     "tag_name": "DC,online",
     "helpers": "Tadeu Nogueira,Abdurhman Ali,Kari Alterskjær",
-    "host_name": "Nord University",
+    "host_name": "Nordic eInfrastructure Collaboration",
     "latitude": 0,
     "start_date": "2020-09-16"
   },
@@ -6460,7 +6475,7 @@
     "slug": "2020-02-10-utm",
     "tag_name": "SWC,DC",
     "helpers": "Elizabeth Parke,Deborah (Debbie) Buehler,Katy Czajkowski",
-    "host_name": "University of Toronto (Mississauga)",
+    "host_name": "University of Toronto",
     "latitude": 43.5511869,
     "start_date": "2020-02-10"
   },

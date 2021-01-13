@@ -45,21 +45,6 @@
     "start_date": "2021-01-08"
   },
   {
-    "instructors": "Zena Lapp,Kelly Sovacool",
-    "end_date": "2021-01-12",
-    "url": "https://umswc.github.io/2021-01-11-UMich-WISE-online/",
-    "country": "US",
-    "curriculum": "mix-and-match",
-    "venue": "University of Michigan (online)",
-    "longitude": -1,
-    "slug": "2021-01-11-UMich-WISE-online",
-    "tag_name": "online,Circuits,automated-email",
-    "helpers": "Sarah Tomkovich,Catherine Barnier",
-    "host_name": "University of Michigan",
-    "latitude": 45,
-    "start_date": "2021-01-11"
-  },
-  {
     "instructors": "Rob Lane,Satwinder Singh,Mengzhen Sun,Aaron Limoges",
     "end_date": "2021-01-14",
     "url": "https://columbiaswc.github.io/2021-01-11-columbia-python/",
@@ -105,7 +90,7 @@
     "start_date": "2021-01-11"
   },
   {
-    "instructors": "Jeffrey Oliver,Trisha Adamus",
+    "instructors": "Erin Becker,Jeffrey Oliver",
     "end_date": "2021-01-14",
     "url": "https://jcoliver.github.io/2021-01-13-ttt-online-PST/",
     "country": "W3",
@@ -285,6 +270,21 @@
     "start_date": "2021-01-22"
   },
   {
+    "instructors": "Katherine Simeon,Rohit Goswami,Elnaz Amanzadeh Jajin,Nadine Bestard",
+    "end_date": "2021-01-25",
+    "url": "https://elnazamanzadeh.github.io/2021-01-23-stonybrook-online/",
+    "country": "US",
+    "curriculum": "swc-reproducible-science",
+    "venue": "Stonebrook",
+    "longitude": -1,
+    "slug": "2021-01-23-stonybrook-online",
+    "tag_name": "SWC,online,automated-email",
+    "helpers": null,
+    "host_name": "Stony Brook University",
+    "latitude": 45,
+    "start_date": "2021-01-23"
+  },
+  {
     "instructors": "Ed Bennett,Mark Dawson,Michele Mesiti,Ben Thorpe",
     "end_date": "2021-01-29",
     "url": "https://sa2c.github.io/2021-01-25-swansea",
@@ -297,6 +297,21 @@
     "helpers": "Tom Pritchard",
     "host_name": "Swansea University",
     "latitude": 51.6,
+    "start_date": "2021-01-25"
+  },
+  {
+    "instructors": "Florian Huber,Thea Van Rossum,Hugo Tavares,Fotis Psomopoulos,Renato Alves,Gaurav Diwan",
+    "end_date": "2021-01-29",
+    "url": "https://unode.github.io/2021-01-25-heidelberg/",
+    "country": "DE",
+    "curriculum": "mix-and-match",
+    "venue": "EMBL (online)",
+    "longitude": 8.709586,
+    "slug": "2021-01-25-heidelberg",
+    "tag_name": "online,Circuits,automated-email",
+    "helpers": "Christian Schudoma,Ece Kartal",
+    "host_name": "European Molecular Biology Laboratory",
+    "latitude": 49.384517,
     "start_date": "2021-01-25"
   },
   {
@@ -388,6 +403,21 @@
     "host_name": "Massachusetts Institute of Technology",
     "latitude": 42.359689,
     "start_date": "2021-02-04"
+  },
+  {
+    "instructors": "Liz Ing-Simmons,Aleksander Jankowski,MONAH ABOU ALEZZ,Tobias Busch",
+    "end_date": "2021-02-19",
+    "url": "https://ajank.github.io/2021-02-16-mdc-online/",
+    "country": "DE",
+    "curriculum": "dc-ecology-r",
+    "venue": "Max Delbrück Center for Molecular Medicine (online)",
+    "longitude": 13.385371,
+    "slug": "2021-02-16-mdc-online",
+    "tag_name": "DC,online,automated-email",
+    "helpers": null,
+    "host_name": "Max Delbrück Center for Molecular Medicine - Helmholtz Einstein (HEIBRiDS)",
+    "latitude": 52.526259,
+    "start_date": "2021-02-16"
   },
   {
     "instructors": "Scott Peterson,Jennifer Lee,Annajiat Alim Rasel",

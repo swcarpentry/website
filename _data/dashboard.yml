@@ -882,16 +882,12 @@ records:
     updated: '2020-09-22', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/661'}
   - {number: 633, title: 'Current release build broken - Rv4.0 incompatibilities?',
     updated: '2020-09-22', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/633'}
-  - {number: 657, title: 'Define fuzzy search in Seeking Help episode ', updated: '2020-09-25',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/657'}
   - {number: 540, title: Remove plyr dependency, updated: '2020-11-10', url: 'https://github.com/swcarpentry/r-novice-gapminder/issues/540'}
   pulls:
   - {number: 552, title: Make gentler intro for ggplot2 lesson, updated: '2019-08-23',
     url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/552'}
   - {number: 551, title: update links, updated: '2020-09-25', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/551'}
   - {number: 678, title: Add stringsAsFactors = TRUE, updated: '2021-01-06', url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/678'}
-  - {number: 679, title: Define fuzzy search in episode 3 (seeking help), updated: '2021-01-12',
-    url: 'https://github.com/swcarpentry/r-novice-gapminder/pull/679'}
   url: https://github.com/swcarpentry/r-novice-gapminder
 - description: R (Gapminder Data)
   ident: swcarpentry/r-novice-gapminder-es
@@ -1077,8 +1073,6 @@ records:
 - description: Software Carpentry Website
   ident: swcarpentry/website
   issues:
-  - {number: 1086, title: The Carpentries Tagathon - Suggest Relevant Tags for Blog
-      Posts, updated: '2019-10-24', url: 'https://github.com/swcarpentry/website/issues/1086'}
   - {number: 1164, title: Lesson table issue, updated: '2019-12-11', url: 'https://github.com/swcarpentry/website/issues/1164'}
   pulls:
   - {number: 1166, title: Updating tags for 2013 SC blog entries, updated: '2020-10-14',
@@ -1086,4 +1080,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2021-01-12T18:54:05Z'
+timestamp: '2021-01-13T19:08:37Z'
