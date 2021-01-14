@@ -478,10 +478,8 @@ records:
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/305'}
   - {number: 319, title: Update list of maintainers in README, updated: '2020-06-04',
     url: 'https://github.com/swcarpentry/sql-novice-survey/issues/319'}
-  - {number: 326, title: 'Suggestion: run an example query before applying .mode column
-      .header on', updated: '2020-09-29', url: 'https://github.com/swcarpentry/sql-novice-survey/issues/326'}
   - {number: 329, title: 'Sharing experiences: How much time is needed for this lesson?',
-    updated: '2020-11-12', url: 'https://github.com/swcarpentry/sql-novice-survey/issues/329'}
+    updated: '2021-01-14', url: 'https://github.com/swcarpentry/sql-novice-survey/issues/329'}
   pulls:
   - {number: 274, title: adding a solution of a challange (Ordering When Concatenating),
     updated: '2018-12-13', url: 'https://github.com/swcarpentry/sql-novice-survey/pull/274'}
@@ -1080,4 +1078,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2021-01-13T19:08:37Z'
+timestamp: '2021-01-14T19:00:06Z'
