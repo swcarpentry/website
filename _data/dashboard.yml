@@ -790,8 +790,6 @@ records:
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/896'}
   - {number: 891, title: Adding figure with lesson goal/overview, updated: '2020-12-23',
     url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/891'}
-  - {number: 897, title: Slightly widened figure to fix cut-off text., updated: '2021-01-07',
-    url: 'https://github.com/swcarpentry/python-novice-inflammation/pull/897'}
   url: https://github.com/swcarpentry/python-novice-inflammation
 - description: R (Inflammation Data)
   ident: swcarpentry/r-novice-inflammation
@@ -1078,4 +1076,4 @@ records:
   - {number: 1118, title: Tagging blog posts, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1118'}
   - {number: 1089, title: file added, updated: '2020-10-14', url: 'https://github.com/swcarpentry/website/pull/1089'}
   url: https://github.com/swcarpentry/website
-timestamp: '2021-01-14T19:00:06Z'
+timestamp: '2021-01-15T19:01:45Z'
