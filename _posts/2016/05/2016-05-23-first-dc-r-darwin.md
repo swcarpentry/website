@@ -13,7 +13,7 @@ The [COMBINE](https://combine.org.au/) [Data Carpentry](http://www.datacarpentry
 [Charles Darwin University](http://www.cdu.edu.au/) was filled with joy, enthusiastic attendees 
 and extra degrees of warm.
 
-This was a self-organised workshop led by COMBINE with help of local organisers mainly 
+This was a Self-Organised workshop led by COMBINE with help of local organisers mainly 
 from the [Menzies School of Health Research](http://www.menzies.edu.au/). After some emailing back 
 and forth, three months before the workshop, we planned to have an R data carpentry workshop based 
 on the answers of a custom-made survey (prepared by Steven). Then, two COMBINE instructors were called, 

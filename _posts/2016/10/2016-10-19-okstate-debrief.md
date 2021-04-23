@@ -7,7 +7,7 @@ time: "11:59:30"
 tags: ["Oklahoma State", "Workshops"]
 ---
 
-I recently instructed Git for the third time at a self-organized
+I recently instructed Git for the third time at a Self-Organised
 workshop on the Oklahoma State University main campus. I enjoy
 instructing and helping with the Software Carpentry workshops (and
 hopefully will get to do a Data Carpentry soon) and each workshop is
@@ -106,7 +106,7 @@ decided to go ahead and do a five-hour session for Day One, and then
 do the normal 9am-4pm schedule for Day Two.
 
 **Coordinating:** Because I've coordinated one of our local
-self-organized workshops, I helped a team member who was going to be
+Self-Organised workshops, I helped a team member who was going to be
 more active with the coordination duties get this workshop set
 up. Once he filled out the
 [SWC workshop request form](https://amy.carpentries.org/workshops/swc/request/),

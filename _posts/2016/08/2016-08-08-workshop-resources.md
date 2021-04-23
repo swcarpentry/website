@@ -10,17 +10,17 @@ tags: ["Workshops"]
 A successful workshop is the result of coordinated effort among many different types of participants,
 including instructors, helpers, hosts, learners and staff.
 Software and Data Carpentry offer two types of workshops:
-self-organized and centrally-organized.
+Self-Organised and centrally-organized.
 These workshop types differ in terms of instructor training requirements,
 fee structures,
 and participant responsibilities,
-with local hosts and instructors at self-organized workshops taking on administrative responsibilities
+with local hosts and instructors at Self-Organised workshops taking on administrative responsibilities
 normally handled by Carpentry staff.  
 
 Instructors (both new and experienced) and workshop hosts
 often have questions about their roles in workshops logistics,
 especially with how their responsibilities differ
-between self-organized and centrally-organized workshops.
+between Self-Organised and centrally-organized workshops.
 To help clarify the roles played by the different participants,
 and the differences between self- and centrally-organized workshops,
 we've put together some resources
@@ -28,13 +28,13 @@ to guide participants through the workshop organizational process.
 
 These resources are available on Data Carpentry's
 "[Host a Workshop]({{site.dc_url}}/workshops-host/)"
-and "[Self-organized Workshops]({{site.dc_url}}/self-organized-workshops/)" pages
+and "[Self-Organised Workshops]({{site.dc_url}}/self-organized-workshops/)" pages
 and include:  
 
 - Checklists for:  
     - [instructors]({{site.dc_url}}/instructor-checklist/)  
     - [hosts for centrally-organized workshops]({{site.dc_url}}/host-checklist/)
-    - [hosts/lead instructors for self-organized workshops]({{site.dc_url}}/self-org-lead/) 
+    - [hosts/lead instructors for Self-Organised workshops]({{site.dc_url}}/self-org-lead/) 
     - and [lead instructors for centrally-organized workshops]({{site.dc_url}}/hosted-lead/)  
 - [Email templates]({{site.dc_url}}/email-templates/) for communicating with co-instructors, helpers, and learners  
 - An [accessibility]({{site.dc_url}}/accessibility/) checklist  
