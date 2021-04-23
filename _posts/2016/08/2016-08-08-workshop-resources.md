@@ -10,7 +10,7 @@ tags: ["Workshops"]
 A successful workshop is the result of coordinated effort among many different types of participants,
 including instructors, helpers, hosts, learners and staff.
 Software and Data Carpentry offer two types of workshops:
-Self-Organised and centrally-organized.
+Self-Organised and Centrally-Organised.
 These workshop types differ in terms of instructor training requirements,
 fee structures,
 and participant responsibilities,
@@ -20,9 +20,9 @@ normally handled by Carpentry staff.
 Instructors (both new and experienced) and workshop hosts
 often have questions about their roles in workshops logistics,
 especially with how their responsibilities differ
-between Self-Organised and centrally-organized workshops.
+between Self-Organised and Centrally-Organised workshops.
 To help clarify the roles played by the different participants,
-and the differences between self- and centrally-organized workshops,
+and the differences between self- and Centrally-Organised workshops,
 we've put together some resources
 to guide participants through the workshop organizational process.  
 
@@ -33,9 +33,9 @@ and include:
 
 - Checklists for:  
     - [instructors]({{site.dc_url}}/instructor-checklist/)  
-    - [hosts for centrally-organized workshops]({{site.dc_url}}/host-checklist/)
+    - [hosts for Centrally-Organised workshops]({{site.dc_url}}/host-checklist/)
     - [hosts/lead instructors for Self-Organised workshops]({{site.dc_url}}/self-org-lead/) 
-    - and [lead instructors for centrally-organized workshops]({{site.dc_url}}/hosted-lead/)  
+    - and [lead instructors for Centrally-Organised workshops]({{site.dc_url}}/hosted-lead/)  
 - [Email templates]({{site.dc_url}}/email-templates/) for communicating with co-instructors, helpers, and learners  
 - An [accessibility]({{site.dc_url}}/accessibility/) checklist  
 - A list of necessary [equipment]({{site.dc_url}}/equipment-checklist/) and  
