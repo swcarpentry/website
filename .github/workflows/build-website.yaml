@@ -69,7 +69,7 @@ jobs:
         run: make site
 
       - name: Get current version from S3
-        uses: prewk/s3-cp-action@master
+        uses: prewk/s3-cp-action@0.1.1
         with:
           args: --recursive
         env:
