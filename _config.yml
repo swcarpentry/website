@@ -8,6 +8,14 @@
 plugins:
   - jekyll-paginate
   - jekyll-redirect-from
+   -jekyll-get-json
+
+## external data sources
+jekyll_get_json:
+  - data: swc_past_workshops
+    json: 'https://feeds.carpentries.org/swc_past_workshops.json'
+  - data: swc_upcoming_workshops
+    json: 'https://feeds.carpentries.org/swc_upcoming_workshops.json'
 
 
 #
@@ -42,7 +50,7 @@ filesurl: '/files'
 
 # Software Carpentry-specific configuration values.
 # FIXME: eliminate some of these (duplicate social media information)
-amy_url         : "https://amy.software-carpentry.org/workshops"
+amy_url         : "https://amy.carpentries.org/workshops"
 board_inquiries : "board-inquiries@software-carpentry.org"
 contact         : "team@carpentries.org"
 dc_url          : "http://datacarpentry.org"

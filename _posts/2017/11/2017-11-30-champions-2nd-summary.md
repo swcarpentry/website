@@ -70,7 +70,7 @@ At the beginning of the call, as an icebreaker activity, we asked them to descri
 
 - [Kiwi foo](http://www.baacamp.org/), an 'unconference' bringing together creatives, government, policy wonks and technologists to think about making a better world.
 - [Bayesian Models in Ecology Workshop at SESYNC](https://www.sesync.org/opportunities/bayesian-modeling-data), a great combination of lecture/theory and working in small groups, with an emphasis on peer learning.
-- [Fosdem](https://www.fosdem.org), the Free and Open Source Developers European Meeting, run by volunteers, with a wide range of topics. While it had a very self-organised vibe, everything pretty much worked.
+- [Fosdem](https://www.fosdem.org), the Free and Open Source Developers European Meeting, run by volunteers, with a wide range of topics. While it had a very Self-Organised vibe, everything pretty much worked.
 - [useR 2017](https://user2017.brussels/), a first time of connecting with the R community in person. Open, welcoming, attendees of diverse backgrounds, amazing food - I learned so much!
 - Midwest Data Librarian Symposium, a form of un-conference, but in a active learning and participating environment.
 - [CODATA-RDA Research Data Science Summer School, Trieste, Italy](http://indico.ictp.it/event/7974/) - Most of the instructors are from the Carpentries and the quality of lessons is great - a variety of tools/skills taught over 2 weeks (from Unix to Machine Learning in R).

@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/swcarpentry/website.svg?branch=gh-pages)](https://travis-ci.org/swcarpentry/website)
+![check, build, deploy site](https://github.com/swcarpentry/website/workflows/check,%20build,%20deploy%20site/badge.svg)
 
 # Software Carpentry Website
 
@@ -14,7 +14,7 @@ Please submit additions and fixes as pull requests to [our GitHub repository](ht
 *   [The Details](#details)
 
 Lessons are not stored in this repository:
-please see [the lessons page](http://software-carpentry.org/lessons/)
+please see [the lessons page](https://software-carpentry.org/lessons/)
 for links to their repositories.
 
 > Software Carpentry is an open project,
@@ -27,7 +27,7 @@ for links to their repositories.
 ## Setup <a name="setup"></a>
 
 The website uses [Jekyll](http://jekyllrb.com/), a static website generator written in Ruby.
-You need to have Version 2.1.0 or higher of Ruby and the package manager Bundler (The package manager is used to make sure you use exactly the same versions of software as GitHub Pages).
+You need to have Version 2.7.1 or higher of Ruby and the package manager Bundler (The package manager is used to make sure you use exactly the same versions of software as GitHub Pages).
 Bundler can be installed with `$ gem install bundler`.
 If you are on Linux, you will need to install the Ruby header files (e.g., `$ sudo apt-get install ruby-dev` on Debian/Ubuntu).
 After checking out the repository, please run:
@@ -57,9 +57,7 @@ Instead, you should use the following commands:
 *   `make clean` removes the `_site` directory and any Emacs editor backup files littering the source directories.
 
 The [details](#details) describes a few more advanced commands as well.
-Please note that rebuilding this site can take 3-4 minutes on a moderately powerful laptop,
-and occasionally times out on GitHub.
-We're working on it...
+Please note that rebuilding this site can take 3-4 minutes on a moderately powerful laptop.
 
 ## Development <a name="development"></a>
 
@@ -116,8 +114,8 @@ which is used to generate the site's pull-down navigation menu.
 
 <a name="workshop"></a>
 To **add a workshop**,
-fill in the [workshop request form](https://amy.software-carpentry.org/workshops/swc/request/) online.
-You should fill in this form even for self-organized workshops in order to get your workshop into our database.
+fill in the [workshop request form](https://amy.carpentries.org/workshops/swc/request/) online.
+You should fill in this form even for Self-Organised workshops in order to get your workshop into our database.
 
 Do *not* edit the YAML in `_data/amy.yml`:
 this is overwritten every time the website is rebuilt on the server.
@@ -126,13 +124,8 @@ this is overwritten every time the website is rebuilt on the server.
 
 ### Data Files
 
-This website depends on three data files,
+This website depends on the dashboard data file,
 each of which is rebuilt by `make`:
-
-*   `make amy` regenerates `_data/amy.yml`,
-    which contains information about upcoming workshops, instructors' locations, and so on
-    that is fetched from [our online workshop management tool](https://github.com/swcarpentry/amy/).
-    You must be logged in to [AMY](http://amy.software-carpentry.org) in order to run this.
 
 *   `make dashboard` generates `_data/dashboard.yml`,
     which contains information about the state of our GitHub repositories.
@@ -140,31 +133,27 @@ each of which is rebuilt by `make`:
     you must get a [GitHub API token](https://github.com/blog/1509-personal-api-tokens)
     and store it in `$HOME/.git-token`.
 
-*   `make includes` to rebuild the data file `_data/includes.yml`.
-    This does not require special permissions,
-    but is only necessary if you have added more people to `_includes/people` or more projects to `_includes/projects`.
-    (We plan to move the content of these two directories to `_data` so that `make includes` will no longer be needed.)
-
-We cache the output of these commands in the `_data` directory
-so that people can rebuild the site without needing special permissions.
-
 ### Styles
 
 The files in the `_sass` and `assets` directories control the appearance of this site.
-Their contents are pulled in manually from a stand-alone [https://github.com/swcarpentry/styles](styles) repository,
-which also controls the appearance of
-the [workshop template](https://github.com/swcarpentry/workshop-template)
-and [lesson template](https://github.com/swcarpentry/lesson-template).
-Please [contact us](mailto:admin@software-carpentry.org) before modifying any of these files
-so that we can figure out the best way to incorporate your improvements.
 
-### Rebuilding the Main Web Site
+### Build and Deploy
 
-A copy of the shell script `bin/rebuild-site.sh` is installed in the website's home directory on our server
-and re-run hourly by cron.
-If you are able to ssh to the server,
-it can be re-run manually as:
+The website is build with a GitHub Actions (see [this file](https://github.com/swcarpentry/website/blob/main/.github/workflows/build-website.yaml)).
 
-~~~
-$ ssh software-carpentry.org ./rebuild-site.sh
-~~~
+Each time a commit is pushed to the default branch of the repository (`main`)
+and every 6 hours, the GitHub Action does the following:
+
+1. it validates the YAML headers of all the pages and blog posts
+1. it builds the website using the latest versions of our [data
+   feeds](https://feeds.carpentries.org) to generate the dynamic content on the
+   site (list of workshops, etc.). For this, we use
+   the [Jekyll Get JSON](https://github.com/brockfanning/jekyll-get-json)
+   plugin.
+1. it pushes the content of the site to an AWS S3 Bucket
+1. files that have changed since the last website update are invalidated in the AWS CloudFront distribution.
+
+
+### Previewing the live site
+
+Once changes to the site are merged, they can take several hours to go live.  In the meantime, changes can be [previewed here](http://software-carpentry.org.s3-website-us-east-1.amazonaws.com/). 
