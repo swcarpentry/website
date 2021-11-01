@@ -18,6 +18,27 @@
     <link href='//fonts.googleapis.com/css?family=Lato:400,700,400italic|Volkhov' rel='stylesheet' type='text/css' />
   </noscript>
 
+        <!-- Matomo -->
+        <script>
+          var _paq = window._paq = window._paq || [];
+          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+          _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+          _paq.push(["setDomains", ["*.software-carpentry.org"]]);
+          _paq.push(["setDoNotTrack", true]);
+          _paq.push(["disableCookies"]);
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+              var u="https://carpentries.matomo.cloud/";
+              _paq.push(['setTrackerUrl', u+'matomo.php']);
+              _paq.push(['setSiteId', '10']);
+              var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+              g.async=true; g.src='//cdn.matomo.cloud/carpentries.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+        <noscript><p><img src="https://carpentries.matomo.cloud/matomo.php?idsite=10&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+        <!-- End Matomo Code -->
+
   {% if site.google_site_verification %}<meta name="google-site-verification" content="{{ site.google_site_verification}}" />{% endif %}
 	{% if site.bing_webmastertools_id %}<meta name="msvalidate.01" content="{{ site.bing_webmastertools_id }}" />{% endif %}
 	{% if page.meta_description %}<meta name="description" content="{{ page.meta_description | strip_html | escape }}"/>{% elsif page.teaser %}<meta name="description" content="{{ page.teaser | strip_html | escape }}" />{% elsif site.description %}<meta name="description" content="{{ site.description | strip_html | escape }}" />{% endif %}
