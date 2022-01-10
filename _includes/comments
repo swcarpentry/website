@@ -5,7 +5,7 @@
                                         repo="{{ site.utterances_gh_repo }}"
                                         issue-term="url"
                                         theme="github-light"
-                                        label="🛠️software-carpentry.org"
+                                        label="🛠 software-carpentry.org"
                                         crossorigin="anonymous"
                                         async>
                                 </script>
