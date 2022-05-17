@@ -172,3 +172,16 @@ Use as <p class="person">...</p> or <a href="..." class="person">...</a>
     font-weight: bold;
     font-style: italic;
 }
+
+
+*:target:not([id^='fn:']):not([id^='fnref:']) {
+    &::before {
+        content: " ";
+        width: 0;
+        height: 0;
+
+        display: block;
+        padding-top: 50px;
+        margin-top: -50px;
+    }
+}
