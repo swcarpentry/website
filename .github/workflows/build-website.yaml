@@ -68,16 +68,6 @@ jobs:
       - name: Build site
         run: make site
 
-      - name: Get current version from S3
-        uses: prewk/s3-cp-action@0.1.1
-        with:
-          args: --recursive
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          SOURCE: 's3://${{ secrets.AWS_S3_BUCKET }}'
-          DEST: './_site_prev'
-
       - name: Deploy to AWS S3
         id: deploy
         uses: fmichonneau/s3-sync-action@log-output
@@ -89,17 +79,10 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           SOURCE_DIR: _site/
 
-      - name: Identify files to invalidate
-        uses: docker://fmichonneau/ga-compare-folders:latest
-        env:
-          FOLDER_1: _site_prev/
-          FOLDER_2: _site/
-          OUTPUT: changed_files.txt
-
       - name: Invalidate CloudFront
         uses: chetan/invalidate-cloudfront-action@master
         env:
-          PATHS_FROM: changed_files.txt
+          PATHS: /*
           AWS_REGION: 'us-east-1'
           DISTRIBUTION: ${{ secrets.DISTRIBUTION }}
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
