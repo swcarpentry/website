@@ -21,9 +21,9 @@ jobs:
         uses: actions/checkout@master
 
       - name: Set up Ruby
-        uses: actions/setup-ruby@v1
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.0'
+          ruby-version: '2.7'
 
       - name: Set up Python
         uses: actions/setup-python@v2
