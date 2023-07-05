@@ -1,0 +1,30 @@
+# Social icon names are the fully qualified
+#   Font-Awesome Icon names as found here: https://fontawesome.com/v4.7.0/icons/
+people:
+
+- name_personal: Samantha
+  name_family: Ahern
+  role: Co-chair
+  github: quirksahern
+  country: GB
+  social:
+    - icon: fab fa-github
+      url: https://github.com/quirksahern
+
+- name_personal: Valentina
+  name_family: Ahern
+  role: Co-chair
+  github: vhmcck
+  country: AU
+  social:
+    - icon: fab fa-github
+      url: https://github.com/vhmcck
+
+- name_personal: Martino
+  name_family: Sorbaro
+  role: Secretary
+  github: martinosorb
+  country: CH
+  social:
+    - icon: fab fa-github
+      url: https://github.com/martinosorb
