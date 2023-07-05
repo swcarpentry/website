@@ -90,8 +90,6 @@
     url: "/blog/categories/"
   - title: "Blog Posts by Date"
     url: "/blog/dates/"
-  - title: "Commenting Policy"
-    url: "/commenting/"
 
 - title: "Contact"
   url: "/contact/"
