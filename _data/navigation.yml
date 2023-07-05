@@ -78,14 +78,12 @@
   - title: "Reading Material"
     url: "/reading/"
 
-- title: Blog
+- title: "Blog Archive"
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Recent Posts"
+  - title: "All Posts"
     url: "/blog/"
-  - title: "Blog Archive"
-    url: "/blog/archive/"
   - title: "Blog Posts by Category"
     url: "/blog/categories/"
   - title: "Blog Posts by Date"
