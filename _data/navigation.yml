@@ -94,7 +94,7 @@
     url: "/commenting/"
 
 - title: "Contact"
-  url: "/contact/"
+  url: "https://carpentries.org/contact/"
   side: right
 
 - title: "Search"
