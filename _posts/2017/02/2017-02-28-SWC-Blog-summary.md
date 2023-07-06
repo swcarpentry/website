@@ -9,7 +9,7 @@ tags: ["Community"]
 
 ##Highlights
 
-* The Carpentries [stand for inclusivity]({{site.baseurl}}/blog/2017/02/inclusion.html) and freedom of movement for each and every volunteer, researcher, or professional in industry. If you have been affected by any action or policy that is preventing you from partaking in the carpentries in any way, please [contact us](https://software-carpentry.org/contact/). 
+* The Carpentries [stand for inclusivity]({{site.baseurl}}/blog/2017/02/inclusion.html) and freedom of movement for each and every volunteer, researcher, or professional in industry. If you have been affected by any action or policy that is preventing you from partaking in the carpentries in any way, please [contact us](https://carpentries.org/contact/). 
 * The second [Career Pathway Panel]({{site.baseurl}}/blog/2017/02/careerpanel.html) will be held on 1 March 2017, please register.
 
 ##Tweets

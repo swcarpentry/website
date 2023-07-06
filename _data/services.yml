@@ -1,7 +1,7 @@
 - menu_name: "Services"
 
 - name: "Contact"
-  url: "/contact/"
+  url: "https://carpentries.org/contact/"
   title: "Contact"
 
 - name: "RSS"
