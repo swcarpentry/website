@@ -14,6 +14,9 @@
     });
   </script>
 
+  <!-- Adding Font Awesome -->
+  <script src="https://kit.fontawesome.com/3a6fac633d.js" crossorigin="anonymous"></script>
+
   <noscript>
     <link href='//fonts.googleapis.com/css?family=Lato:400,700,400italic|Volkhov' rel='stylesheet' type='text/css' />
   </noscript>

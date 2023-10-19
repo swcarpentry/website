@@ -1,51 +1,19 @@
 - name: GitHub
   url: http://github.com/swcarpentry
-  class: icon-github
+  class: fab fa-github
   title: "Source on GitHub"
 
-- name: Twitter
-  url: http://twitter.com/swcarpentry
-  class: icon-twitter
-  title: "Software Carpentry on Twitter"
+- name: Mastodon
+  url: https://hachyderm.io/@thecarpentries
+  class: fab fa-mastodon
+  title: "The Carpentries on Mastodon"
 
 - name: YouTube
   url: https://www.youtube.com/user/softwarecarpentry
-  class: icon-youtube
+  class: fab fa-youtube
   title: "Software Carpentry Videos"
 
 - name: LinkedIn
   url: https://www.linkedin.com/groups/8279689
-  class: icon-linkedin
+  class: fab fa-linkedin-in
   title: "LinkedIn Instructors Group"
-
-#------------------------------------------------------------
-
-# - name: Facebook
-#   url: http://www.facebook.com/phlow.media
-#   class: icon-facebook
-#   title: "Lass uns Freunde sein!"
-
-# - name: Soundcloud
-#   url: http://soundcloud.com/phlow
-#   class: icon-soundcloud
-#   title: "Sounds und Downloads und mehr"
-
-# - name: Instagram
-#   url: http://instagram.com/phlowmedia
-#   class: icon-instagram
-#   title: "Bilder und Impressionen mit und ohne Filter..."
-
-# - name: Pinterest
-#   url: http://www.pinterest.com/phlowmedia/
-#   class: icon-pinterest
-#   title: "Bilder, Fotos, Illustrationen, Grafiken sammeln..."
-
-# - name: Mixcloud
-#   url: http://www.mixcloud.com/phlow/
-#   class: icon-cloud
-#   title: "Mixe, was sonst?"
-
-# - name: Xing
-#   url: https://www.xing.com/profile/Moritzmo_Sauer
-#   class: icon-xing
-#   title: Xing Profil
