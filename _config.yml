@@ -40,7 +40,7 @@ description: "Software Carpentry is a volunteer project dedicated to teaching ba
 author: gvwilson
 
 # This URL identifies the domain.
-url: 'http://software-carpentry.org'
+url: 'https://software-carpentry.org'
 
 # This URL is the root of the site below the domain.
 baseurl: ''
@@ -53,26 +53,26 @@ filesurl: '/files'
 amy_url         : "https://amy.carpentries.org/workshops"
 board_inquiries : "board-inquiries@software-carpentry.org"
 contact         : "team@carpentries.org"
-dc_url          : "http://datacarpentry.org"
+dc_url          : "https://datacarpentry.org"
 lc_url          : "https://librarycarpentry.org"
 facebook_url    : "https://www.facebook.com/SoftwareCarpentry"
 github_url      : "https://github.com/swcarpentry"
-github_io_url   : "http://swcarpentry.github.io"
+github_io_url   : "https://swcarpentry.github.io"
 paypal_url      : "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MYSDWRR8HWFR6"
 linkedin_url    : "https://www.linkedin.com/grp/home?gid=8279689"
-rss_url         : "http://software-carpentry.org/feed.xml"
+rss_url         : "https://software-carpentry.org/feed.xml"
 twitter_name    : "@swcarpentry"
 twitter_url     : "https://twitter.com/swcarpentry"
-slack_signup_url: "http://slack-invite.carpentries.org/"
-msl_url         : "http://mozillascience.org"
-store_url       : "http://www.cafepress.com/swcarpentry"
-pad_url         : "http://pad.software-carpentry.org"
-mailing_lists   : "http://lists.software-carpentry.org"
+slack_signup_url: "https://slack-invite.carpentries.org/"
+msl_url         : "https://wiki.mozilla.org/ScienceLab"
+store_url       : "https://www.cafepress.com/swcarpentry"
+pad_url         : "https://pad.software-carpentry.org"
+mailing_lists   : "https://carpentries.topicbox.com"
 flag_size       : 16
 v4_url          : "https://v4.software-carpentry.org"
-releases_io_url : "http://swcarpentry.github.io/swc-releases"
-training_url    : "http://carpentries.github.io/instructor-training"
-carp_gh_io_url  : "http://carpentries.github.io"
+releases_io_url : "https://swcarpentry.github.io/swc-releases"
+training_url    : "https://carpentries.github.io/instructor-training"
+carp_gh_io_url  : "https://carpentries.github.io"
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
