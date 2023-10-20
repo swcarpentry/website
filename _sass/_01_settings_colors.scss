@@ -82,9 +82,10 @@ $topbar-bg-color: #fff;
 $topbar-dropdown-toggle-color: $swc-blue;
 
 $topbar-link-color: #000;
-$topbar-link-color-hover: #000;
-$topbar-link-color-active: #000;
-$topbar-link-color-active-hover: #000;
+$topbar-link-color-hover: #fff;
+$topbar-link-color-active: #fff;
+$topbar-link-color-active-hover: #fff;
+$topbar-expanded-link-color: #fff;
 
 $topbar-dropdown-label-color: $swc-blue-light;
 $topbar-dropdown-link-bg-hover: $swc-blue-med;
@@ -94,7 +95,7 @@ $topbar-link-bg-hover: $swc-blue-med;
 $topbar-link-bg-active-hover: $swc-blue-light;
 
 $topbar-dropdown-bg: $swc-blue-med; // Background Mobile Navigation
-$topbar-dropdown-link-color: #000;
+$topbar-dropdown-link-color: #fff;
 $topbar-dropdown-link-bg: $swc-blue-light;
 
 $topbar-menu-link-color-toggled: $swc-blue;
