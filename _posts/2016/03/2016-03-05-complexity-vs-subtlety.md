@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Complexity vs. Subtlety"
 date: 2016-03-05
 time: "08:00:00"
-tags: ["Opinion"]
+tags: ["Opinion", "Software Carpentry"]
 ---
 I gave a lightning talk on Software Carpentry for the [OICR](http://oicr.on.ca/) yesterday,
 and in discussion afterward,

@@ -4,7 +4,7 @@ authors: ["Martin Dreyer"]
 title: "15 - 30 November, 2016:  Instructor Training, UCSF Library, Code of Conduct, Announcement List, Steering Committee minutes."
 date: 2016-11-30
 time: "23:00:00"
-tags: ["Community"]
+tags: ["Community", "Software Carpentry"]
 ---
 
 ##Highlights

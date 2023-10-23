@@ -4,7 +4,7 @@ authors: ["Raniere Silva"]
 title: "Software Carpentry on TalkPython"
 date: 2017-01-05
 time: "10:00:00"
-tags: ["NOTICED"]
+tags: ["NOTICED", "Software Carpentry"]
 ---
 
 On January 3rd, 2017 [TalkPython](https://talkpython.fm/)

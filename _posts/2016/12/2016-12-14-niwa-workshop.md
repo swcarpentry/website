@@ -4,7 +4,7 @@ authors: ["Wolfgang Hayek", "Aleksandra Pawlik"]
 title: "Software Carpentry workshop in severe conditions"
 date: 2016-12-19
 time: "15:00:00"
-tags: ["workshops"]
+tags: ["workshops", "Software Carpentry"]
 ---
 
 Usually the main struggles preceding Software and Data Carpentry workshops involve the laptop setup, signposting the room and making sure the washrooms are unlocked. But the recent [workshop](https://tinyendian.github.io/2016-11-15-wellington/) in New Zealand, held at [National Institute of Water and Atmospheric Research](https://www.niwa.co.nz/) (NIWA) was facing much more extreme conditions.

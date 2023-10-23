@@ -4,7 +4,7 @@ authors: ["Kate Hertweck"]
 title: "October 2016 Maintainers' Meeting"
 date: 2016-10-13
 time: "00:14:30"
-tags: ["Community"]
+tags: ["Community", "Software Carpentry"]
 ---
 
 This week's meeting of our lesson maintainers made some great progress in streamlining our decision-making process,

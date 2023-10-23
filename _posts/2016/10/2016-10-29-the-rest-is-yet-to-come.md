@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "The Rest Is Yet To Come"
 date: 2016-10-29
 time: "00:12:45"
-tags: ["Opinion"]
+tags: ["Opinion", "Software Carpentry"]
 ---
 
 I co-taught an instructor training workshop earlier this week,

@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Small Teaching"
 date: 2016-09-05
 time: "00:01:30"
-tags: ["Teaching"]
+tags: ["Teaching", "Software Carpentry"]
 ---
 
 Elizabeth Green's *[Building a Better Teacher]({{site.url}}/blog/2014/09/building-better-teachers.html)*

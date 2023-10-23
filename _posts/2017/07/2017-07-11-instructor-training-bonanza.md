@@ -5,7 +5,7 @@ title: "Help Update the Instructor Training Materials"
 date: 2017-07-11
 time: "08:00:00"
 authors: ["Erin Becker"]
-tags: ["curriculum"]
+tags: ["curriculum", "Software Carpentry"]
 ---
 
 The [Carpentry Instructor Training curriculum](http://swcarpentry.github.io/instructor-training/) helps prepare new instructors to teach Carpentry workshops. It 

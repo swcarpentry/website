@@ -4,7 +4,7 @@ authors: ["Anelda van der Walt"]
 title: "17 January - 1 February, 2016: SCF Election Candidates, Lessons Learned, Instructor Survey Results, and an Intermediate R Lesson"
 date: 2016-02-01
 time: "23:00:00"
-tags: ["Community"]
+tags: ["Community", "Software Carpentry"]
 ---
 
 ##Highlights: Steering Committee Election

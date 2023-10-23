@@ -4,7 +4,7 @@ authors: ["Paula Andrea Martinez"]
 title: "Darwin Data Carpentry at Charles Darwin University"
 date: 2016-05-23
 time: "00:00:01"
-tags: ["Workshops"]
+tags: ["Workshops", "Software Carpentry"]
 ---
 
 ##First Data Carpentry workshop in Darwin Australia##

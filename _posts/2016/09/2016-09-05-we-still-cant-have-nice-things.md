@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "We Still Can't Have Nice Things Together"
 date: 2016-09-05
 time: "00:01:00"
-tags: ["Opinion"]
+tags: ["Opinion", "Software Carpentry"]
 ---
 
 Last year I used YAML and Norway to explain why [why we can't have nice things][nice-things].

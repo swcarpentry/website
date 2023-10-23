@@ -4,7 +4,7 @@ authors: ["Alexander Konovalov"]
 title: "Programming with GAP"
 date: 2016-11-18
 time: "15:00:00"
-tags: ["Lessons"]
+tags: ["Lessons", "Software Carpentry"]
 ---
 
  Software Carpentry is more than just a set of workshops and lessons. It is

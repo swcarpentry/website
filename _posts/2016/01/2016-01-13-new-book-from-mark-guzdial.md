@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "A New Book from Mark Guzdial"
 date: 2016-01-13
 time: "06:00:00"
-tags: ["Teaching"]
+tags: ["Teaching", "Software Carpentry"]
 ---
 Regular readers will know that I am a huge fan of Mark Guzdial,
 a professor at Georgia Tech whose group does world-class work on computing education,

@@ -4,7 +4,7 @@ authors: ["Daniel Chen"]
 title: "What the Carpentries Mean To Me"
 date: 2016-10-26
 time: "08:00:00"
-tags: ["Community"]
+tags: ["Community", "Software Carpentry"]
 ---
 
 October 26 marks my 3rd Github cakeday.

@@ -4,7 +4,7 @@ authors: ["Raniere Silva"]
 title: "Workshop Template Enhancement Proposal"
 date: 2018-01-16
 time: "10:00:00"
-tags: ["Workshops"]
+tags: ["Workshops", "Software Carpentry"]
 ---
 
 Over the last couple of years,

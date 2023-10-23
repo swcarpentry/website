@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Next Steps"
 date: 2016-12-14
 time: "00:10:00"
-tags: ["Community"]
+tags: ["Community", "Software Carpentry"]
 ---
 
 Software Carpentry has accomplished an amazing amount over the past six and a half years,

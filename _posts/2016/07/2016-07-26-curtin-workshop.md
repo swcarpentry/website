@@ -4,7 +4,7 @@ authors: ["Matthias Liffers", "Andrea Bedini"]
 title: "Software Carpentry at Curtin"
 date: 2016-07-26
 time: "00:00:01"
-tags: ["Workshops"]
+tags: ["Workshops", "Software Carpentry"]
 ---
 The first Software Carpentry workshop to be held at Curtin University (and the third so far in WA) started on Monday 18 July. 
 We decided early to experiment with the timetable and spread the course over four half days. 

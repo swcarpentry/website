@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Two Studies of Online Communities"
 date: 2016-09-30
 time: "00:07:00"
-tags: ["Research"]
+tags: ["Research", "Software Carpentry"]
 ---
 
 Two recent papers may be of interest to this community.  The first is

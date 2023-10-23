@@ -4,7 +4,7 @@ authors: ["Rayna Harris", "Christina Koch", "Bill Mills", "Raniere Silva"]
 title: "2016 Post-Workshop Instructor Debriefing, Round 02"
 date: 2016-02-05
 time: "13:00:00"
-tags: ["Debriefing"]
+tags: ["Debriefing", "Software Carpentry"]
 ---
 <!-- start excerpt -->
 On January 26, we ran the 2nd round of Post-Workshop Instructor Debriefing Sessions. Rayna and Christina hosted the morning debriefings while Bill and Raniere hosted the evening debriefing.  A topic of interest today was on installations. Read on for details. 

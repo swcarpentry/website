@@ -4,7 +4,7 @@ authors: ["Ben Waugh"]
 title: "Teaching Support IT Job at UCL Physics and Astronomy"
 date: 2016-12-15
 time: "16:00:00"
-tags: ["Jobs"]
+tags: ["Jobs", "Software Carpentry"]
 ---
 
 We're looking for someone with IT skills, and interests in teaching and

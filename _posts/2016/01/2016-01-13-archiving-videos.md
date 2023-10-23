@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Archiving Videos"
 date: 2016-01-13
 time: "11:00:00"
-tags: ["Lessons"]
+tags: ["Lessons", "Software Carpentry"]
 ---
 People have been asking for videos of our lessons more and more frequently over the past few months,
 so we have begun archiving links on

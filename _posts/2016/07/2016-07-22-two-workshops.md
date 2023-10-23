@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "A Tale of Two Workshops"
 date: 2016-07-22
 time: "00:00:01"
-tags: ["Workshops"]
+tags: ["Workshops", "Software Carpentry"]
 ---
 
 Brisbane and Toowoomba are 125 km apart in Queensland. Software Carpentry workshops were held in both cities 

@@ -4,7 +4,7 @@ authors: ["Erin Becker"]
 title: "Our first work cycle - Prometheus"
 date: 2017-03-26
 time: "10:00:00"
-tags: ["Staff"]
+tags: ["Staff", "Software Carpentry"]
 ---
 
 We’re wrapping up our first work cycle! Here’s what we accomplished over the past six weeks and what we’re

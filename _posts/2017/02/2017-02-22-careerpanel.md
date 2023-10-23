@@ -4,7 +4,7 @@ authors: ["Lauren Michael"]
 title: "Carpentries Career Pathways Panel - Marianne Corvellec, Bernhard Konrad, Aleksandra Pawlik"
 date: 2017-02-22
 time: "8:15"
-tags: ["Community"]
+tags: ["Community", "Software Carpentry"]
 ---
   
 **Wednesday, Mar 1, 3pm PST / 6pm EST / 11pm UTC / 9am AEST (next day)**  

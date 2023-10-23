@@ -4,7 +4,7 @@ authors: ["Sue McClatchy"]
 title: "Computational Genetics Postdoc Position with The Jackson Laboratory"
 date: 2016-11-04
 time: "11:10:00"
-tags: ["Jobs"]
+tags: ["Jobs", "Software Carpentry"]
 ---
 
 The [Carter Lab] (https://www.jax.org/research-and-faculty/research-labs/the-carter-lab) at The Jackson Laboratory

@@ -4,7 +4,7 @@ authors: ["Tracy Teal", "Kate Hertweck"]
 title: "September Carpentries Community Call"
 date: 2016-09-09
 time: "00:16:00"
-tags: ["Community"]
+tags: ["Community", "Software Carpentry"]
 ---
 
 Our next Carpentries Community Call (formerly called Lab Meeting or 

@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Active Workshops"
 date: 2016-02-02
 time: "06:00:00"
-tags: ["Community"]
+tags: ["Community", "Software Carpentry"]
 ---
 A few days ago,
 we were asked what was the greatest number of simultaneous workshops we'd ever run.

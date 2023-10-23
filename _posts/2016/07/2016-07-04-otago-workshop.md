@@ -4,7 +4,7 @@ authors: ["Mik Black", "Tom Kelly", "Murray Cadzow"]
 title: "Software Carpentry workshop at the University of Otago, New Zealand"
 date: 2016-07-04
 time: "00:00:01"
-tags: ["Workshops"]
+tags: ["Workshops", "Software Carpentry"]
 ---
 
 A three day Software Carpentry workshop was held at the [University of Otago](http://www.otago.ac.nz/)

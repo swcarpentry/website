@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Python as a Second Language"
 date: 2016-10-04
 time: "00:07:30"
-tags: ["Lessons"]
+tags: ["Lessons", "Software Carpentry"]
 ---
 
 Donny Winston, Joey Montoya, and I taught a one-day class for [Lawrence Berkeley National Laboratory](http://lbl.gov)

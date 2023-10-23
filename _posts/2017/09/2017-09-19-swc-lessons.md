@@ -4,7 +4,7 @@ authors: ["Christina Koch"]
 title: "Software Carpentry Lesson Maintenance: Be Part of the Conversation!"
 date: 2017-09-19
 time: "14:00:00"
-tags: ["Lessons"] 
+tags: ["Lessons", "Software Carpentry"] 
 ---
 
 **Come share your experience and ideas about maintaining the Software Carpentry lessons**

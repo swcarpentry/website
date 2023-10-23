@@ -4,7 +4,7 @@ authors: ["Hugh Shanahan"]
 title: "Announcing the Data Science Journal"
 date: 2016-01-06
 time: "02:00:00"
-tags: ["Community"]
+tags: ["Community", "Software Carpentry"]
 ---
 The [Data Science Journal](http://datascience.codata.org/) is,
 as its title suggests,

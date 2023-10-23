@@ -5,7 +5,7 @@ title: "Instructor Access to Workshops"
 teaser: "Working with hosts and instructors on workshop access"
 date: 2017-06-06
 time: "14:00"
-tags: ["Workshops"]
+tags: ["Workshops", "Software Carpentry"]
 ---
 
 Software and Data Carpentry share a mission to spread computational and data literacy to the broader research community at a wide range of institutional types across the world. We also share core community values of openness and inclusiveness.

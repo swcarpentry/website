@@ -4,7 +4,7 @@ authors: ["Bill Mills", "Tiffany Timbers"]
 title: "Software Carpentry Bug BBQ"
 date: 2016-05-04
 time: "13:00:00"
-tags: ["Events"]
+tags: ["Events", "Software Carpentry"]
 ---
 
 ## Software Carpentry is having a Bug BBQ on June 13th

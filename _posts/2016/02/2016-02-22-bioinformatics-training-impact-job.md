@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Bioinformatics Training Impact Coordinator"
 date: 2016-02-22
 time: "06:00:00"
-tags: ["Jobs"]
+tags: ["Jobs", "Software Carpentry"]
 ---
 The Bioinformatics Training Facility of the School of Biological Sciences, University of Cambridge
 is looking for a Training Impact Co-ordinator.

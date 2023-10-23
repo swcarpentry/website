@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Good Communities (Kinds Of)"
 date: 2016-01-09
 time: "11:00:00"
-tags: ["Community"]
+tags: ["Community", "Software Carpentry"]
 ---
 Back in October,
 [Sarah Sharp](http://sarah.thesharps.us/) posted a really useful article titled

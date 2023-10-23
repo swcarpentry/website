@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Feedback Sought on Two Papers"
 date: 2016-09-02
 time: "00:18:00"
-tags: ["Research"]
+tags: ["Research", "Software Carpentry"]
 ---
 
 We would be very grateful for feedback on two papers co-authored by members of our community:

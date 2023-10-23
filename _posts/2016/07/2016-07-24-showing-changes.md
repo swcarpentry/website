@@ -4,7 +4,7 @@ authors: ["Robin Wilson"]
 title: "Showing Changes When Teaching"
 date: 2016-07-25
 time: "00:07:00"
-tags: ["Teaching"]
+tags: ["Teaching", "Software Carpentry"]
 ---
 
 A key - but challenging - part of learning to program is moving from

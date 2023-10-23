@@ -4,7 +4,7 @@ authors: ["Martin Dreyer"]
 title: "1 - 15 May, 2017: Lesson Printing, Instructor training, Successes of the Carpentries."
 date: 2017-05-15
 time: "23:00:00"
-tags: ["Community"]
+tags: ["Community", "Software Carpentry"]
 ---
 
 ##Highlights

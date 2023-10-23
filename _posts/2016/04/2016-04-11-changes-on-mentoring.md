@@ -4,7 +4,7 @@ authors: ["Raniere Silva"]
 title: "Changes on Mentoring Subcommittee"
 date: 2016-04-11
 time: "18:00:00"
-tags: ["Mentoring"]
+tags: ["Mentoring", "Software Carpentry"]
 ---
 The first quarter of 2016 is almost over and so far the Mentoring Subcommittee
 have been very quiet although we have continued hosting the post workshop debriefing

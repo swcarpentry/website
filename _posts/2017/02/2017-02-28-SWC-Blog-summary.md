@@ -4,7 +4,7 @@ authors: ["Martin Dreyer"]
 title: "1 - 28 February, 2017: Inclusivity, Career Pathway Panel, Community Development Lead, BaseCamp."
 date: 2017-02-28
 time: "23:00:00"
-tags: ["Community"]
+tags: ["Community", "Software Carpentry"]
 ---
 
 ##Highlights

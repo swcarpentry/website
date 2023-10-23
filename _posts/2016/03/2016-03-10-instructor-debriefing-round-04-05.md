@@ -4,7 +4,7 @@ authors: ["Rayna Harris", "Sheldon McKay", "Raniere Silva", "Tiffany Timbers", "
 title: "2016 Post-Workshop Instructor Debriefings, Rounds 04 and 05"
 date: 2016-03-10
 time: "16:00:00"
-tags: ["Debriefing"]
+tags: ["Debriefing", "Software Carpentry"]
 ---
 On February 23, Rayna Harris, Sheldon McKay, and Tiffany Timbers ran the 4th round of post-workshop instructor debriefing. On March 8th, Rayna Harris, Raniere Silva, and Belinda Weaver ran the 5th round of post-workshop instructor debriefing. 
 

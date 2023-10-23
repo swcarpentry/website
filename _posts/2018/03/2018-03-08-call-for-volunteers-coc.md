@@ -4,7 +4,7 @@ authors: ["Kari L. Jordan", "Tracy Teal", "Erin Becker"]
 title: "Call for Code of Conduct Committee Volunteers "
 date: 2018-03-08
 time: "09:12:00"
-tags: ["Policy"]
+tags: ["Policy", "Software Carpentry"]
 ---
 The Carpentries are dedicated to developing and empowering a diverse community of enthusiasts around computational methods for research and data science. Whether you are an Instructor, learner, Maintainer, Mentor, Trainer, Executive Council member, Champion, or member of our Staff, you belong to this community. We are committed to creating avenues for you to contribute that are welcoming and inclusive, whether in-person or online.
 

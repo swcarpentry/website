@@ -4,7 +4,7 @@ authors: ["Ben Jolly", "Hannes Calitz", "Markus Mueller", "Wolfgang Hayek"]
 title: "Software Carpentry and HPC class hits Palmerston North (New Zealand)"
 date: 2016-06-16
 time: "00:00:01"
-tags: ["Workshops"]
+tags: ["Workshops", "Software Carpentry"]
 ---
 On 7th and 8th June 2016 we gave a Software Carpentry training consisting of four blocks. We started with bash (presented by Markus, Landcare Research Hamilton), Python (Ben, Landcare Research Palmerston North), went on to git (Hannes, Massey University) and finally had a session around using High Performance Computing (HPC) as it is offered by the NeSI, the New Zealand eScience Infrastructure (Wolfgang, NIWA Wellington and NeSI). This last session is not one of the official SWC modules, but was taylor-made and rounded up the training very well, as it used the skills acquired during the preceding three sessions. It included hands-on training, working remotely on the NeSI Pan cluster in Auckland; all attendees managed to log on and submit jobs to the SLURM scheduler successfully.
 

@@ -4,7 +4,7 @@ authors: ["Anelda van der Walt", "Bianca Peterson"]
 title: "4 - 18 March, 2016: Instructor Trainee Mentoring, Debriefing vs Lesson Sessions, Version Control, Big Data in Biology Summer School, New Lessons"
 date: 2016-03-18
 time: "09:00:00"
-tags: ["Community"]
+tags: ["Community", "Software Carpentry"]
 ---
 
 ##Instructor Training

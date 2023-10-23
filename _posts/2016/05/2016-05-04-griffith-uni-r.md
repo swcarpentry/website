@@ -4,7 +4,7 @@ authors: ["Amanda Miotto"]
 title: "Software Carpentry with R at Griffith University"
 date: 2016-05-04
 time: "00:00:01"
-tags: ["Workshops"]
+tags: ["Workshops", "Software Carpentry"]
 ---
 We had 27 people register to attend, with 22 attending the first day.
 We offered these workshops free of charge so we had been cautious about drop-out numbers.  

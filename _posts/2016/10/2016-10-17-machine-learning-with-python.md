@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Machine Learning with Python"
 date: 2016-10-17
 time: "00:07:30"
-tags: ["Community"]
+tags: ["Community", "Software Carpentry"]
 ---
 
 A new book has recently been published that may be of interest to our community:

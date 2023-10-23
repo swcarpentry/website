@@ -4,7 +4,7 @@ authors: ["Martin Dreyer"]
 title: "1 -  15 January, 2017:  CarpentryCon, Steering Committee Elections, Rubic for online Instructor training, TalkPython."
 date: 2017-01-15
 time: "23:00:00"
-tags: ["Community"]
+tags: ["Community", "Software Carpentry"]
 ---
 
 ##Highlights

@@ -4,7 +4,7 @@ authors: ["Jonah Duckles", "Tracy Teal"]
 title: "Announcing Belinda Weaver as our Community Development Lead"
 date: 2017-06-07
 time: "16:00"
-tags: ["Workshops"]
+tags: ["Workshops", "Software Carpentry"]
 ---
 
 We're excited to announce Belinda Weaver has accepted our offer to become the

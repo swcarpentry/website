@@ -4,7 +4,7 @@ authors: ["Raniere Silva"]
 title: "First bimonthly report from 2016 Steering Committee"
 date: 2016-05-11
 time: "10:00:00"
-tags: ["Community"]
+tags: ["Community", "Software Carpentry"]
 ---
 On May 8th and 9th the Steering Committee had an in-person meeting at Cold
 Spring Harbour Laboratory to conclude the discussions during the first

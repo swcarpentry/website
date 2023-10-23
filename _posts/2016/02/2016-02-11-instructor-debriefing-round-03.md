@@ -4,7 +4,7 @@ authors: ["Rayna Harris", "Raniere Silva"]
 title: "2016 Post-Workshop Instructor Debriefing, Round 03"
 date: 2016-02-11
 time: "18:00:00"
-tags: ["Debriefing"]
+tags: ["Debriefing", "Software Carpentry"]
 ---
 <!-- start excerpt -->
 On Tuesday, February 9th, we ran the 3rd round of Post-Workshop Instructor Debriefing Sessions. Rayna and Raniere hosted the morning debriefing session.  The even session was cancelled due to low attendance.

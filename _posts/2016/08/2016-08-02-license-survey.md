@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "How Well Do Developers Understand Open Source Licenses?"
 date: 2016-08-02
 time: "00:02:30"
-tags: ["Research"]
+tags: ["Research", "Software Carpentry"]
 ---
 
 You are invited to participate in a survey on software licensing

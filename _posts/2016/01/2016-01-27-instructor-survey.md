@@ -4,7 +4,7 @@ authors: ["Jonah Duckles"]
 title: "Instructor Survey Report"
 date: 2016-01-27
 time: "09:23:00"
-tags: ["Community"]
+tags: ["Community", "Software Carpentry"]
 ---
 
 Back in the fall we surveyed our then 450-strong instructor community for

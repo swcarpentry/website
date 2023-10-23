@@ -4,7 +4,7 @@ authors: ["Tracy Teal", "Erin Becker"]
 title: "Feedback on Communications"
 date: 2016-12-12
 time: "00:10:00"
-tags: ["Community"]
+tags: ["Community", "Software Carpentry"]
 ---
 
 Software and Data Carpentry have at their core a collaboration-driven ethos, and communication is key to that collaboration. 

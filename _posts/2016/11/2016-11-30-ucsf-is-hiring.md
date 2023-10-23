@@ -4,7 +4,7 @@ authors: ["Ariel Deardorff"]
 title: "UCSF is Hiring"
 date: 2016-11-30
 time: "05:00:00"
-tags: ["Jobs"]
+tags: ["Jobs", "Software Carpentry"]
 ---
 
 The UCSF Library's Data Science Initiative is hiring!

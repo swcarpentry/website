@@ -3,7 +3,7 @@ layout: post
 authors: ["François Michonneau"]
 title: "Using RMarkdown with the new lesson template"
 date: 2016-07-08
-tags: ["Tooling"]
+tags: ["Tooling", "Software Carpentry"]
 ---
 
 Our lesson template is getting a face-lift.  Actually, it is a lot more than

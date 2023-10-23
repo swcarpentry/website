@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Lessons as Lab Protocols"
 date: 2016-01-03
 time: "03:00:00"
-tags: ["Noticed"]
+tags: ["Noticed", "Software Carpentry"]
 ---
 
 A [roundabout chain of references](http://www.felienne.com/archives/4327)

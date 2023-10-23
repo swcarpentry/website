@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Seymour Papert 1928-2016"
 date: 2016-08-02
 time: "00:01:30"
-tags: ["Noticed"]
+tags: ["Noticed", "Software Carpentry"]
 ---
 
 [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert) passed away on Sunday at the age of 88.

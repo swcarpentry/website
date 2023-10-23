@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "What the Data Says About Novice Programming Mistakes"
 date: 2016-01-09
 time: "07:00:00"
-tags: ["Research"]
+tags: ["Research", "Software Carpentry"]
 ---
 I recently had a chance to catch up with this paper from 2014:
 

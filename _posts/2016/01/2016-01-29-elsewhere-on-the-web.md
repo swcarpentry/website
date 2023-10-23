@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Elsewhere on the Web"
 date: 2016-01-29
 time: "06:00:00"
-tags: ["Community"]
+tags: ["Community", "Software Carpentry"]
 ---
 Our instructors teach a lot more than just Software Carpentry.
 For example,
