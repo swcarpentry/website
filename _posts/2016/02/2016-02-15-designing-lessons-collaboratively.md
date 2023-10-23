@@ -4,8 +4,8 @@ authors: ["Greg Wilson"]
 title: "Designing Lessons Collaboratively"
 date: 2016-02-15
 time: "00:30:00"
-tags: ["Community", "Lessons", "Software Carpentry"]
 issues: "https://github.com/swcarpentry/python-novice-gapminder/issues"
+tags: ["Community", "Lessons", "Software Carpentry"]
 ---
 A few days ago,
 I asked for feedback on a new Python lesson aimed at people who've never programmed before.

@@ -4,8 +4,8 @@ title: "Job Opportunity: Community Development Lead"
 date: 2017-02-21
 time: 12:30
 categories: ["Jobs", "Community"]
-tags: ["Community", "Jobs", "Team", "Software Carpentry"]
 authors: ["Tracy Teal", "Jonah Duckles"]
+tags: ["Community", "Jobs", "Team", "Software Carpentry"]
 ---
 
 [Software Carpentry and Data Carpentry are hiring a Community Development Lead!](http://www.software-carpentry.org/jobs/)

@@ -5,7 +5,6 @@ title: "Challenges Assessing Data Science"
 date: 2017-12-11
 time: "00:00:00"
 tags: ["Assessment", "Software Carpentry"]
-
 ---
 
 The [Assessment Network](https://docs.carpentries.org/topic_folders/assessment/assessment-network.html) was established as a space for those working on assessment within the open source/research computing community to collaborate and share resources. During our quarterly meeting in November, we engaged one another in a conversation revolving around data science education. This meeting was organized and hosted online by Kari Jordan, and six community members attended. 

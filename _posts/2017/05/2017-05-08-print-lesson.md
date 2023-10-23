@@ -4,7 +4,7 @@ authors: ["Raniere Silva"]
 title: "How to print our lessons?"
 date: 2017-05-08
 time: "18:00:00"
-tags: ["Community","Tools","Lessons"]
+tags: ["Community","Tools","Lessons","Software Carpentry"]
 ---
 
 From the time that I joined Software Carpentry,

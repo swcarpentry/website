@@ -5,7 +5,6 @@ title: "My Favourite Tool - RStudio"
 date: 2017-11-07
 time: "00:00:00"
 tags: ["Statistics", "R","RStudio", "Shiny", "Software Carpentry"]
-
 ---
 
 My favorite tool is [RStudio](https://www.rstudio.com/). This integrated development environment (IDE) is really a force multiplier for data analysis and reporting.

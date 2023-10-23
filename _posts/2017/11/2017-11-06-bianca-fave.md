@@ -5,7 +5,6 @@ title: "My Favourite Tool - R"
 date: 2017-11-06
 time: "17:00:00"
 tags: ["Statistics", "R", "Software Carpentry"]
-
 ---
 
 [R](https://www.r-project.org/) can do anything - from making presentations, analyzing and plotting data to version control (Git). 

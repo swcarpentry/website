@@ -5,7 +5,6 @@ title: "Our long-term assessment results are in!"
 date: 2017-10-18
 time: "00:00:00"
 tags: [ "Assessment", "Surveys", "Software Carpentry"]
-
 ---
 
 ### A discussion of learner outcomes more than six months after attending a Carpentries workshop

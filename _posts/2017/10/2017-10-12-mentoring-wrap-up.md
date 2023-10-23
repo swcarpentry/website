@@ -5,7 +5,6 @@ title: "Carpentries Mentorship Program - 2.0"
 date: 2017-10-12
 time: "00:00:00"
 tags: [ "Community", "Mentoring", "Community Building", "Software Carpentry"]
-
 ---
 
 ### We're starting a new round of mentoring groups, centered on specific lessons

@@ -5,7 +5,6 @@ title: "Waxing poetical in a Software Carpentry workshop"
 date: 2017-08-31
 time: "20:00:00"
 tags: ["Workshops", "Macquarie University", "Reflections", "Software Carpentry"]
-
 ---
 
 Hi everyone! I just finished running my first segment of a [Software Carpentry workshop](https://denubis.github.io/2017-08-31-MacquarieUniversity/). I massively overprepared last evening and my notes for the first four lessons of [unix shell](http://swcarpentry.github.io/shell-novice/) are on [google drive](https://docs.google.com/document/d/1GpKZISA4GP2mxWgkuQbcvXElDKzMO80XqxHbR6RBbGc/edit) if anyone would care to reuse them.

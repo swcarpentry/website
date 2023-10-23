@@ -4,7 +4,7 @@ authors: ["Rayna Harris"]
 title: "What is the reward for empowering others?"
 date: 2017-05-14
 time: "20:00:00"
-tags: ["Community","Teaching","Education","Workshops","Mentoring"]
+tags: ["Community","Teaching","Education","Workshops","Mentoring","Software Carpentry"]
 ---
 
 Following a few round-table discussions with Software Carpentry instructors, I gained some insight into what drives so many of us to volunteer our time so enthusiastically. I came to the conclusion that many of us share a sense of accomplishment when we empower others through mentoring and education. Software Carpentry gives us a fountain-full of opportunities to contibute through community developed lessons, community supported workshops, and world-wide community conversations. We start out volunteering a little when there is time, but we soon carve out more and more space in our schedule for Software Carpentry events and activities that provide the opportunity to empower others.  

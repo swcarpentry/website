@@ -5,7 +5,6 @@ title: "Mentoring is Back! Round Two of the Carpentries Mentoring Program begins
 date: "2017-10-05"
 time: "06:00:00"
 tags: ["Mentoring", "Champions", "Community Building", "Software Carpentry"]
-
 ---
 
 ### Mentoring groups provide experienced instructors with the chance to help small groups develop confidence in teaching, lesson maintenance and community building

@@ -4,7 +4,7 @@ authors: ["Peter Steinbach"]
 title: "HPC in a day?"
 date: 2017-06-20
 time: "06:00:00"
-tags: ["Community","Teaching"]
+tags: ["Community","Teaching", "Software Carpentry"]
 ---
 
 __Preface__

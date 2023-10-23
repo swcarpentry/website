@@ -5,7 +5,6 @@ title: "Poster Competition Now Open"
 date: 2017-12-11
 time: "00:00:00"
 tags: [ "CarpentryCon 2018", "Competitions", "Designs", "Software Carpentry"]
-
 ---
 
 ### Design a Promotional Poster for CarpentryCon 2018
