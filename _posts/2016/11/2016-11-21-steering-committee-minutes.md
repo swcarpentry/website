@@ -4,7 +4,7 @@ authors: ["Raniere Silva"]
 title: "Minutes of Steering Committee Meeting"
 date: 2016-11-21
 time: "10:00:00"
-tags: ["Steering Committee"]
+tags: ["Steering Committee", "Software Carpentry"]
 ---
 The Steering Committee informs that the minutes of their third quarter are now linked on [the Software Carpentry Foundation page]({{site.url}}/scf/) as well on the [README of the board GitHub repository]({{site.github_url}}/board). If you have critics and suggestions related to the minutes
 please send those by email to our Secretary, Raniere Silva, at [raniere@rgaics.com](mailto:raniere@rgaiacs.com).

@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "And Now There Are Three"
 date: 2016-10-04
 time: "07:45:00"
-tags: ["Book Review"]
+tags: ["Book Review", "Software Carpentry"]
 ---
 
 A new book has just been published that covers much of the same material as Software Carpentry,

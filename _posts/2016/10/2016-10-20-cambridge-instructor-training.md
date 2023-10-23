@@ -4,7 +4,7 @@ authors: ["Steve Crouch", "Laurent Gatto", "Karin Lagesen", "Greg Wilson"]
 title: "Cambridge Instructor Training 19-20 September 2016"
 date: 2016-10-20
 time: "18:00:00"
-tags: ["Community", "Instructor Training"]
+tags: ["Community", "Instructor Training", "Software Carpentry"]
 ---
 
 Last month, Steve and Karin taught an instructor training

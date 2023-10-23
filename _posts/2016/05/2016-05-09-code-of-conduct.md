@@ -4,7 +4,7 @@ authors: ["Jonah Duckles", "Tracy Teal"]
 title: "Our Code of Conduct"
 date: 2016-05-09
 time: "11:00:00"
-tags: ["Community","Code of Conduct"]
+tags: ["Community","Code of Conduct", "Software Carpentry"]
 ---
 
 The amazing Software and Data Carpentry community of instructors and learners is

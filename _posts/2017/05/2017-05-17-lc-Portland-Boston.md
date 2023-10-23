@@ -4,7 +4,7 @@ authors: ["Juliane Schneider"]
 title: "Three Instructors, Two Coasts and One Spatula"
 date: 2017-05-17
 time: "10:00:00"
-tags: ["Instructor training","Library Carpentry","Workshops"]
+tags: ["Instructor training","Library Carpentry","Workshops", "Software Carpentry"]
 ---
 
 In the space of a year, interest and participation in the [Library Carpentry](https://librarycarpentry.github.io) community has exploded like an amoeba who over-ate at an algae banquet and attempted one too many pseudopods.

@@ -4,7 +4,7 @@ authors: ["Erin Becker"]
 title: "Apply to Become a Carpentry Instructor Trainer!"
 date: 2017-05-31
 time: "10:00:00"
-tags: ["Instructor Training"]
+tags: ["Instructor Training", "Software Carpentry"]
 ---
 
 The Carpentry community is growing! This month we welcomed ten new Instructor Trainers to our community. Now we

@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Instructor Curriculum Updated"
 date: 2017-08-14
 time: "16:00"
-tags: ["Instructor training", "Hackathons", "Bug BBQ"]
+tags: ["Instructor training", "Hackathons", "Bug BBQ", "Software Carpentry"]
 ---
 
 Sixty-seven pull requests were successfully merged during the recent update of the 

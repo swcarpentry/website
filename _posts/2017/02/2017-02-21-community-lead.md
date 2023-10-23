@@ -4,7 +4,7 @@ title: "Job Opportunity: Community Development Lead"
 date: 2017-02-21
 time: 12:30
 categories: ["Jobs", "Community"]
-tags: ["Community", "Jobs", "Team"]
+tags: ["Community", "Jobs", "Team", "Software Carpentry"]
 authors: ["Tracy Teal", "Jonah Duckles"]
 ---
 

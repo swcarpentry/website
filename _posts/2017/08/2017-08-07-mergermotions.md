@@ -4,7 +4,7 @@ authors: ["Rayna Harris"]
 title: "Motions approved for Data Carpentry & Software Carpentry Merger"
 date: 2017-08-07
 time: "16:00"
-tags: ["Steering Committee", "Community", "Data Carpentry"]
+tags: ["Steering Committee", "Community", "Data Carpentry", "Software Carpentry"]
 ---
 
 I am happy to announce that the Steering Committees of both Software Carpentry and Data Carpentry have approved 4 motions regarding the structure and leadership of the mergered Carpentries organization. The approved motions are: 

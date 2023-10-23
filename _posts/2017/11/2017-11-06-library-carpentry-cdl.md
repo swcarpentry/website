@@ -4,7 +4,7 @@ authors: ["John Chodacki"]
 title: "Skills Training for Librarians: Expanding Library Carpentry"
 date: 2017-11-06
 time: "00:08:00"
-tags: ["Community", "Library Carpentry"]
+tags: ["Community", "Library Carpentry", "Software Carpentry"]
 ---
 
 

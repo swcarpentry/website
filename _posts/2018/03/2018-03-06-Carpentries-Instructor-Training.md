@@ -4,7 +4,7 @@ authors: ["Martin Dreyer"]
 title: "First African Carpentries Instructor Training of 2018."
 date: 2018-03-06
 time: "23:00:00"
-tags: ["Community", "Instructors"]
+tags: ["Community", "Instructors", "Software Carpentry"]
 ---
 
 On 21-23 February 2018, the fourth South African Carpentries instructor training for African based Instructors took place in Kleinmond, Western Cape. The workshop was funded through the Rural Campuses Connection Project Phase II (RCCPII) Tertiary. 

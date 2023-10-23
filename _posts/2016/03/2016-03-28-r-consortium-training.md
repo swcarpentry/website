@@ -4,7 +4,7 @@ authors: ["Laurent Gatto"]
 title: "An R-based Instructor Training Sponsored by the R Consortium"
 date: 2016-03-28
 time: "13:30:00"
-tags: ["Instructor Training", "R Consortium"]
+tags: ["Instructor Training", "R Consortium", "Software Carpentry"]
 ---
 
 The [R consortium Infrastructure Steering Committee awards](https://www.r-consortium.org/news/announcement/2016/03/r-consortium-funds-technical-initiatives-community-events-and-training)

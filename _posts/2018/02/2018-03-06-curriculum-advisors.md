@@ -4,7 +4,7 @@ authors: ["Erin Becker", "Christina Koch"]
 title: "Call for Contributions: Data Carpentry Ecology and Software Carpentry Curriculum Advisory Committees"
 date: 2018-03-06
 time: "00:00:00"
-tags: [ "Curriculum"]
+tags: [ "Curriculum", "Software Carpentry"]
 ---
 
 In mid-2017, Data Carpentry piloted a Curriculum Advisory Committee (CAC) for the Genomics curriculum. 

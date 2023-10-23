@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Why Should You Sponsor CarpentryCon 2018?"
 date: 2018-01-18
 time: "00:00:00"
-tags: ["CarpentryCon", "Sponsorship", "Community Building"]
+tags: ["CarpentryCon", "Sponsorship", "Community Building", "Software Carpentry"]
 ---
 
 The inaugural [CarpentryCon 2018](http://www.carpentrycon.org/) will take place on 30 May-1 June at [University College Dublin](http://www.ucd.ie/).

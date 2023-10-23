@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Feedback of Champions"
 date: 2017-08-24
 time: "06:00:00"
-tags: [ "Community", "Champions", "Community Building"]
+tags: [ "Community", "Champions", "Community Building", "Software Carpentry"]
 ---
 
 Jonah Duckles and I hosted our first Community Champions call on 22 August (23 August for us southern hemisphereans).

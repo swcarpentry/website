@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "What's new in Library Carpentry"
 date: 2017-04-06
 time: "10:00:00"
-tags: ["Library Carpentry"]
+tags: ["Library Carpentry", "Software Carpentry"]
 ---
 
 There is lots of current [Library Carpentry](https://librarycarpentry.github.io) activity. Our big news is Library Carpentry won the [British Library Labs award](http://labs.bl.uk/British+Library+Labs+Awards) in 2016 for teaching and learning. 

@@ -4,7 +4,7 @@ authors: ["Juan Steyn"]
 title: "Juan Steyn: Nomination for 2018 Steering Committee"
 date: 2017-11-09
 time: "00:00:00"
-tags: ["Steering Committee"]
+tags: ["Steering Committee", "Software Carpentry"]
 ---
 
 ### 2018 Election: Juan Steyn

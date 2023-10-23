@@ -4,7 +4,7 @@ authors: ["Jonah Duckles"]
 title: "Meet the 2016 Election Candidates"
 date: 2016-01-21
 time: "10:35:00"
-tags: ["Election 2016", "Steering Committee"]
+tags: ["Election 2016", "Steering Committee", "Software Carpentry"]
 ---
 
 The candidates for the 2016 election are set. The election will take place

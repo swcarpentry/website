@@ -4,7 +4,7 @@ authors: ["Carrie Andrew"]
 title: "Why attend a Software & Data Carpentry instructor training workshop?"
 date: 2016-07-06
 time: "00:00:01"
-tags: ["Instructor Training"]
+tags: ["Instructor Training", "Software Carpentry"]
 ---
 *Note:* the following post was written by Carrie Andrew, University of Oslo, after a request to write a testimonial of her participation in a Software/Data Carpentry instructor training workshop.
 

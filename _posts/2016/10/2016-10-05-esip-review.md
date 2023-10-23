@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Request for Review: ESIP's Software Guidelines"
 date: 2016-10-05
 time: "00:07:30"
-tags: ["Community", "ESIP"]
+tags: ["Community", "ESIP", "Software Carpentry"]
 ---
 
 ESIP (the Federation of Earth Science Information Partners) has been

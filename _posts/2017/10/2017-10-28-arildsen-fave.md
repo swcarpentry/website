@@ -4,7 +4,7 @@ authors: ["Thomas Arildsen"]
 title: "My Favourite Tool: Jupyter Notebook"
 date: 2017-10-28
 time: "09:00:00"
-tags: ["Python", "IPython", "Jupyter", "Teaching"]
+tags: ["Python", "IPython", "Jupyter", "Teaching", "Software Carpentry"]
 ---
 
 #### My favorite tool is ... the Jupyter Notebook.

@@ -4,7 +4,7 @@ authors: ["Francesco Montanari"]
 title: "My Favorite Tool - Emacs"
 date: 2017-11-03
 time: "18:00:00"
-tags: ["Emacs", "Text editors"]
+tags: ["Emacs", "Text editors", "Software Carpentry"]
 ---
 
 My favorite tool is [Emacs](https://www.gnu.org/software/emacs/).

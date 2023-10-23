@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Updating Library Carpentry"
 date: 2016-06-06
 time: "00:00:01"
-tags: ["sprints", "hackathons", "Data Carpentry"]
+tags: ["sprints", "hackathons", "Data Carpentry", "Software Carpentry"]
 redirect_from:
   - /blog/2016/06/LibrarCarpentrysprint.html
 ---

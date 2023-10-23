@@ -4,7 +4,7 @@ authors: ["Raniere Silva"]
 title: "Lesson Infrastructure Subcommittee 2017 September meeting"
 date: 2017-09-12
 time: "10:00:00"
-tags: ["Community", "Lesson Infrastructure Subcommittee"]
+tags: ["Community", "Lesson Infrastructure Subcommittee", "Software Carpentry"]
 ---
 
 On 5 September 2017 at 14:00UTC+0,

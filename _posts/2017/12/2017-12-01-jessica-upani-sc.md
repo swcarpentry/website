@@ -4,7 +4,7 @@ authors: ["Jessica Upani"]
 title: "Jessica Upani: Nomination for 2018 Steering Committee"
 date: 2017-12-01
 time: "00:00:00"
-tags: ["Governance", "Steering Committee"]
+tags: ["Governance", "Steering Committee", "Software Carpentry"]
 ---
 
 ### 2018 Election : Jessica Upani

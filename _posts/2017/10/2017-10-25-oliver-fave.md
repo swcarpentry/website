@@ -4,7 +4,7 @@ authors: ["Jeff Oliver"]
 title: "My Favourite Tool: Git/GitHub"
 date: 2017-10-25
 time: "06:00:00"
-tags: ["Version control", "Tools", "Git", "GitHub", "Best practices"]
+tags: ["Version control", "Tools", "Git", "GitHub", "Best practices", "Software Carpentry"]
 ---
 
 #### My favorite tool is ...

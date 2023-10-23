@@ -4,7 +4,7 @@ authors: ["Kally Chung"]
 title: "Workshop at Unicamp"
 date: 2016-06-13
 time: "00:12:01"
-tags: ["Unicamp", "Workshops"]
+tags: ["Unicamp", "Workshops", "Software Carpentry"]
 ---
 A Software Carpentry workshop took place at Unicamp (State University of Campinas, Brazil) on May 23rd and 24th.
 Raniere Costa was the host and lead instructor,

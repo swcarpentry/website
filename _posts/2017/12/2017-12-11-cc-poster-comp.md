@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Poster Competition Now Open"
 date: 2017-12-11
 time: "00:00:00"
-tags: [ "CarpentryCon 2018", "Competitions", "Designs"]
+tags: [ "CarpentryCon 2018", "Competitions", "Designs", "Software Carpentry"]
 
 ---
 

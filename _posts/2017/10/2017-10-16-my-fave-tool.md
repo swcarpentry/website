@@ -4,7 +4,7 @@ authors: ["Paula Andrea Martinez"]
 title: "My Favourite Tool: R"
 date: 2017-10-16
 time: "06:00:00"
-tags: ["Data Science", "Tools"]
+tags: ["Data Science", "Tools", "Software Carpentry"]
 ---
 
 ### My favorite tool for data analysis is [R](https://www.r-project.org/). 

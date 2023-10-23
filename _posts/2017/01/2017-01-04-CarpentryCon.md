@@ -4,7 +4,7 @@ authors: ["Alix Keener", "Rayna Harris", "Greg Wilson"]
 title: "Announcing the CarpentryCon Proposal"
 date: 2017-01-04
 time: "09:00:00"
-tags: ["Community", "Data Carpentry", "Library Carpentry", "CarpentryCon"]
+tags: ["Community", "Data Carpentry", "Library Carpentry", "CarpentryCon", "Software Carpentry"]
 ---
 
 To date, we have not yet had an opportunity to bring together all the members of our communities. Enter: CarpentryCon! We are proposing a two-and-a-half day conference, tentatively held in May 2017 at the University of Michigan. 

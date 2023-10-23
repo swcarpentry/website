@@ -4,7 +4,7 @@ authors: ["Aleksandra Pawlik"]
 title: "Instructor Traininig Intercontinental"
 date: 2016-12-22
 time: "15:00:00"
-tags: ["instructor training"]
+tags: ["instructor training", "Software Carpentry"]
 ---
 
 The end of the calendar year is a usual opportunity to make look back at the past 365 days. The summary of mine would be “Instructor Training Intercontinental”.  I have always considered myself to be incredibly lucky working with Software and Data Carpentry and certainly in 2016 I hit another jackpot. I run 7 Instructor Training workshops, in 6 countries on 3 continents. But the highlight was, as it has always been with SWC and DC, the people.

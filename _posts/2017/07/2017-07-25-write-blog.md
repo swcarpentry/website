@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Keep Calm and Write a Blog Post"
 date: 2017-07-25
 time: "06:00:00"
-tags: [ "Blog posts", "Community news", "Workshops", "Reports"]
+tags: [ "Blog posts", "Community news", "Workshops", "Reports", "Software Carpentry"]
 ---
 
 Writing a blog post should not be hard. A blank screen can seem very daunting, but if you populate it with a few questions, 

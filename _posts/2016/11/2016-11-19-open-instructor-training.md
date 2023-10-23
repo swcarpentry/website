@@ -4,7 +4,7 @@ authors: ["Erin Becker", "Greg Wilson"]
 title: "Open Instructor Training"
 date: 2016-11-19
 time: "10:00:00"
-tags: ["Instructor Training"]
+tags: ["Instructor Training", "Software Carpentry"]
 ---
 
 *(Originally posted on [the Data Carpentry blog]({{site.dc_url}}/blog/open-instructor-training/).)*

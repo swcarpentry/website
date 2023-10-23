@@ -4,7 +4,7 @@ authors: ["Lauren Michael"]
 title: "2016 Election: Lauren Michael"
 date: 2016-01-14
 time: "18:00:00"
-tags: ["Software Carpentry Foundation", "Election 2016"]
+tags: ["Software Carpentry Foundation", "Election 2016", "Software Carpentry"]
 ---
 ## About Me
 

@@ -4,7 +4,7 @@ authors: ["Andrea Zonca"]
 title: "Python Education Summit at PyCon 2016"
 date: 2016-03-23
 time: "13:30:00"
-tags: ["Python", "Education"]
+tags: ["Python", "Education", "Software Carpentry"]
 ---
 
 The Python Education Summit is a gathering of educators from all venues (school, colleges, universities, community workshops, online courses, government) that share interest and passion in teaching Python.

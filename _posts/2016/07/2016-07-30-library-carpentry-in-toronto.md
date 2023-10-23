@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Library Carpentry in Toronto"
 date: 2016-07-30
 time: "00:08:00"
-tags: ["Library Carpentry", "Workshops"]
+tags: ["Library Carpentry", "Workshops", "Software Carpentry"]
 ---
 
 On July 28-29, a group of volunteers from the University of Toronto's libraries

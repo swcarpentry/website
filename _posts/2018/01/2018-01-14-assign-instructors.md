@@ -4,7 +4,7 @@ authors: ["Maneesha Sane"]
 title: "How do instructors get placed at workshops?"
 date: 2018-01-14
 time: "00:00:00"
-tags: [ "Instructors", "workshops", "Placement"]
+tags: [ "Instructors", "workshops", "Placement", "Software Carpentry"]
 ---
 
 If you are a badged Carpentries Instructor, you have most likely received emails about upcoming workshops that need Instructors.

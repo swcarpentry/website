@@ -4,7 +4,7 @@ authors: ["Kate Hertweck"]
 title: "Summary of May Community Call: Restructuring the Carpentries"
 date: 2017-05-19
 time: "16:00:00"
-tags: ["Community","Software Carpentry Foundation","Steering Committee"]
+tags: ["Community","Software Carpentry Foundation","Steering Committee", "Software Carpentry"]
 ---
 
 Thanks to those of you who attended the May Community Calls, the topic of which was 

@@ -4,7 +4,7 @@ authors: ["Jonah Duckles", "Belinda Weaver"]
 title: "Community Building Catchup"
 date: 2017-11-30
 time: "hh:mm:00"
-tags: [ "Community Building"]
+tags: [ "Community Building", "Software Carpentry"]
 ---
 
 The last Carpentries' Champions call led by Jonah Duckles was well attended, with representatives from Australia, South Africa, Ethiopia, the US, the UK, New Zealand and Norway.

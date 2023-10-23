@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Rubric for Open Instructor Training"
 date: 2017-01-03
 time: "11:00:00"
-tags: ["Instructor Training", "Community"]
+tags: ["Instructor Training", "Community", "Software Carpentry"]
 ---
 
 The Software Carpentry Foundation's Steering Committee recently resolved

@@ -4,11 +4,11 @@ title: "Developing GitHub labels for The Carpentries lessons"
 teaser: "The process of developing GitHub labels for our lessons."
 categories:
     - blog
-tags: ["Maintainers", "Contributing"]
+tags: ["Maintainers", "Contributing", "Software Carpentry"]
 comments: true
 show_meta: true
 authors: ["François Michonneau"]
-tags: [ "Carpentries Maintainers", "Skillshare"]
+tags: [ "Carpentries Maintainers", "Skillshare", "Software Carpentry"]
 ---
 
 

@@ -4,7 +4,7 @@ authors: ["Clifton Franklund"]
 title: "My Favourite Tool - RStudio"
 date: 2017-11-07
 time: "00:00:00"
-tags: ["Statistics", "R","RStudio", "Shiny"]
+tags: ["Statistics", "R","RStudio", "Shiny", "Software Carpentry"]
 
 ---
 

@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Designing a New Novice Python Lesson"
 date: 2016-04-10
 time: "05:00:00"
-tags: ["Lessons", "Python", "Teaching"]
+tags: ["Lessons", "Python", "Teaching", "Software Carpentry"]
 ---
 
 Last November,

@@ -4,7 +4,7 @@ authors: ["Kathy Chung"]
 title: "What Digital Humanists Do"
 date: 2016-05-25
 time: "00:05:00"
-tags: ["Digital Humanities"]
+tags: ["Digital Humanities", "Software Carpentry"]
 ---
 I have started gathering user stories from humanists
 to give us a better sense of what they do

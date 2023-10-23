@@ -7,7 +7,7 @@ header:
  image_fullwidth: "light-blue-wood-texture.jpg"
 categories:
    - blog
-tags: [ "Community", "Feedback", "Assessment" ]
+tags: [ "Community", "Feedback", "Assessment" , "Software Carpentry"]
 comments: true
 show_meta: true
 authors: ["Kari L. Jordan"]

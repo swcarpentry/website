@@ -4,7 +4,7 @@ authors: ["Jason Williams"]
 title: "2016 Election: Jason Williams"
 date: 2016-01-14
 time: "15:00:00"
-tags: ["Software Carpentry Foundation","Election 2016"]
+tags: ["Software Carpentry Foundation","Election 2016", "Software Carpentry"]
 ---
 
 #2016 Election: Jason Williams

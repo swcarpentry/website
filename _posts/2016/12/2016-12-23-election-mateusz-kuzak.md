@@ -4,7 +4,7 @@ authors: ["Mateusz Kuzak"]
 title: "2017 Election: Mateusz Kuzak"
 date: 2016-12-23
 time: "12:00:00"
-tags: ["Software Carpentry Foundation", "Election 2017", "Steering Committee"]
+tags: ["Software Carpentry Foundation", "Election 2017", "Steering Committee", "Software Carpentry"]
 ---
 
 Hi, I’m standing up for election to the Software Carpentry Steering

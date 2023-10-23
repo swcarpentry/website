@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Celebrate the Wins of 2017: Join the year's final community call"
 date: 2017-12-05
 time: "00:00:00"
-tags: [ "Community calls"]
+tags: [ "Community calls", "Software Carpentry"]
 ---
 
 When Carpentries staff get a win, we call it a **#greensticky**. These are things to celebrate with a resounding 'Yay!' 

@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "A Counterpoint to Collaborative Lesson Design"
 date: 2016-02-16
 time: "00:30:00"
-tags: ["Community", "Lessons"]
+tags: ["Community", "Lessons", "Software Carpentry"]
 repo: "https://github.com/swcarpentry/modern-scientific-authoring"
 site: "https://swcarpentry.github.io/modern-scientific-authoring"
 ---

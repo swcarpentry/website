@@ -4,7 +4,7 @@ authors: ["Brian Ballsun-Stanton"]
 title: "Waxing poetical in a Software Carpentry workshop"
 date: 2017-08-31
 time: "20:00:00"
-tags: ["Workshops", "Macquarie University", "Reflections"]
+tags: ["Workshops", "Macquarie University", "Reflections", "Software Carpentry"]
 
 ---
 

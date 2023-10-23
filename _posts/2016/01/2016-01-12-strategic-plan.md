@@ -4,7 +4,7 @@ authors: ["Katy Huff"]
 title: "A Strategic Plan for the Software Carpentry Foundation"
 date: 2016-01-12
 time: "17:00:00"
-tags: ["Software Carpentry Foundation"]
+tags: ["Software Carpentry Foundation", "Software Carpentry"]
 ---
 
 The Software Carpentry Foundation Steering Committee held a strategic planning

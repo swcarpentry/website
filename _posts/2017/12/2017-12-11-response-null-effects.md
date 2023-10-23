@@ -4,7 +4,7 @@ authors: ["Karen Word"]
 title: "When Do Workshops Work? A Response to the 'Null Effects' paper from Feldon et al."
 date: 2017-12-11
 time: "00:00:00"
-tags: [ "Bootcamps", "Workshops", "Training", "Assessment"]
+tags: [ "Bootcamps", "Workshops", "Training", "Assessment", "Software Carpentry"]
 ---
 
 *Author:* Karen R. Word

@@ -4,7 +4,7 @@ authors: ["Giacomo Peru"]
 title: "2016 Election: Giacomo Peru"
 date: 2016-01-15
 time: "12:45:00"
-tags: ["Software Carpentry Foundation", "Election 2016", "Steering Committee"]
+tags: ["Software Carpentry Foundation", "Election 2016", "Steering Committee", "Software Carpentry"]
 ---
 
 ## 2016 Election: Giacomo Peru

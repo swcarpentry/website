@@ -4,7 +4,7 @@ authors: ["Greg Wilson", "Laurent Gatto"]
 title: "R Instructor Training Applications Open"
 date: 2016-05-16
 time: "12:00:00"
-tags: ["Instructor Training"]
+tags: ["Instructor Training", "Software Carpentry"]
 ---
 Thanks to generous sponsorship from the [R Consortium](https://www.r-consortium.org/),
 Software Carpentry is running a two-day R instructor training class

@@ -4,7 +4,7 @@ authors: ["Christina Koch"]
 title: "2017 Election: Christina Koch"
 date: 2016-12-22
 time: "07:30:00"
-tags: ["Election 2017", "Software Carpentry Foundation", "Steering Committee"]
+tags: ["Election 2017", "Software Carpentry Foundation", "Steering Committee", "Software Carpentry"]
 ---
 
 To begin, I present: 

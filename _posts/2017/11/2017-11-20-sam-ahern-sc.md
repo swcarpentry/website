@@ -4,7 +4,7 @@ authors: ["Samantha Ahern"]
 title: "Samantha Ahern: Steering Committee Nomination"
 date: 2017-11-20
 time: "00:00:00"
-tags: ["Governance", "Steering Committee"]
+tags: ["Governance", "Steering Committee", "Software Carpentry"]
 ---
 
 ### Samantha Ahern: Steering Committee Nomination

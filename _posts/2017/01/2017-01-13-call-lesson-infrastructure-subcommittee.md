@@ -4,7 +4,7 @@ authors: ["Raniere Silva"]
 title: "Announcing for Lesson Infrastructure Subcommittee"
 date: 2017-01-13
 time: "16:00:00"
-tags: ["Lesson Infrastructure Subcommittee"]
+tags: ["Lesson Infrastructure Subcommittee", "Software Carpentry"]
 ---
 
 One of the issues that we have with the

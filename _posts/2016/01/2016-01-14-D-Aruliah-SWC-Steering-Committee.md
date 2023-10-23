@@ -4,7 +4,7 @@ authors: ["Dhavide Aruliah"]
 title: "2016 Election: Dhavide Aruliah"
 date: 2016-01-14
 time: "09:30:00"
-tags: ["Steering Committee", "Election 2016"]
+tags: ["Steering Committee", "Election 2016", "Software Carpentry"]
 ---
 My name is Dhavide Aruliah. I am standing for election to the Steering Committee of Software Carpentry for 2016.
 

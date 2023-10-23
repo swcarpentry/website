@@ -4,7 +4,7 @@ authors: ["Raniere Silva"]
 title: "Lesson Infrastructure Subcommittee 2018 February meeting"
 date: 2018-02-28
 time: "10:00:00"
-tags: ["Community", "Lesson Infrastructure Subcommittee"]
+tags: ["Community", "Lesson Infrastructure Subcommittee", "Software Carpentry"]
 ---
 
 On 14 February 2018 at 18:00 UTC+0,

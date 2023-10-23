@@ -4,7 +4,7 @@ authors: ["Richard Vankoningsveld"]
 title: "My Favorite tool - A Coding Sandbox"
 date: 2017-12-21
 time: "00:00:00"
-tags: ["Tools", "Favorites", "Research Tools", "Community"]
+tags: ["Tools", "Favorites", "Research Tools", "Community", "Software Carpentry"]
 ---
 
 My favorite tool is [repl.it](https://repl.it/), a 'sandbox' tool to help me test and refine Python code.

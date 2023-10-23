@@ -4,7 +4,7 @@ authors: ["Christina Koch"]
 title: "Community Service Awards - 2017 Edition"
 date: 2017-09-18
 time: "08:00:00"
-tags: ["Community", "Software Carpentry Foundation"]
+tags: ["Community", "Software Carpentry Foundation", "Software Carpentry"]
 tagline: "Recognizing our most valuable assest -- our community members"
 ---
 

@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "Making the Case for CarpentryCon"
 date: 2018-02-08
 time: "00:00:00"
-tags: [ "CarpentryCon"]
+tags: [ "CarpentryCon", "Software Carpentry"]
 ---
 
 Getting a PhD is, was or will be a major career milestone for many in our community. 

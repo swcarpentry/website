@@ -4,7 +4,7 @@ authors: ["Kate Hertweck"]
 title: "Credit for lesson contributors"
 date: 2017-07-16
 time: "12:00:00"
-tags: [ "Lessons", "Community"]
+tags: [ "Lessons", "Community", "Software Carpentry"]
 ---
 
 In 2016, Software Carpentry instituted a twice-yearly release schedule for our lessons 

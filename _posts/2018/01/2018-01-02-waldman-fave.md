@@ -4,7 +4,7 @@ authors: ["Simon Waldman"]
 title: "My Favorite Tool - QGIS"
 date: 2018-01-02
 time: "00:00:00"
-tags: [ "Research tools", "Community", "GIS", "Geographic Information Systems"]
+tags: [ "Research tools", "Community", "GIS", "Geographic Information Systems", "Software Carpentry"]
 ---
 
 [QGIS](https://www.qgis.org/en/site/) (formerly Quantum GIS) is an open source [Geographic Information System](https://en.wikipedia.org/wiki/Geographic_information_system).

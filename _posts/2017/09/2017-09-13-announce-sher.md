@@ -4,7 +4,7 @@ authors: ["Tracy Teal"]
 title: "New Staff Member"
 date: 2017-09-13
 time: "00:00:00"
-tags: ["Staff", "Data Carpentry", "Software Carpentry"]
+tags: ["Staff", "Data Carpentry", "Software Carpentry", "Software Carpentry"]
 ---
 
 We are delighted to announce that SherAaron Hurt has accepted the job of [Workshop Administrator](http://www.datacarpentry.org/blog/ws-admin/) with the Carpentries. SherAaron is joining our team of workshop coordinators who manage workshop logistics, communicate with hosts and instructors, and respond to general workshop inquiries.

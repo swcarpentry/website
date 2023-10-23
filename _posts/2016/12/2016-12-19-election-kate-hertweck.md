@@ -4,7 +4,7 @@ authors: ["Kate Hertweck"]
 title: "2017 Election: Kate Hertweck"
 date: 2016-12-19
 time: "19:00:00"
-tags: ["Software Carpentry Foundation", "Election 2017", "Steering Committee"]
+tags: ["Software Carpentry Foundation", "Election 2017", "Steering Committee", "Software Carpentry"]
 ---
 
 I am excited to stand for election for the 2017 Software Carpentry Steering 

@@ -4,7 +4,7 @@ authors: ["Rayna Harris"]
 title: "New monthly updates from the secretary"
 date: 2017-06-20
 time: "08:00"
-tags: ["Steering Committee", "Community", "Software Carpentry Foundation"]
+tags: ["Steering Committee", "Community", "Software Carpentry Foundation", "Software Carpentry"]
 ---
 
 After 6 months, I feel that I'm settling into my role as Software Carpentry Steering Committee Secretary. 

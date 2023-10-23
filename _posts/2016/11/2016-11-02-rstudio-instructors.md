@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "RStudio Training and Consulting Directory"
 date: 2016-11-02
 time: "14:00:00"
-tags: ["R Studio", "Jobs"]
+tags: ["R Studio", "Jobs", "Software Carpentry"]
 ---
 
 [RStudio](http://rstudio.com) maintains [a directory](https://www.rstudio.com/instructors/)

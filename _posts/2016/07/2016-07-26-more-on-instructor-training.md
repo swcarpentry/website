@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "More on Instructor Training"
 date: 2016-07-26
 time: "00:08:00"
-tags: ["Instructor Training"]
+tags: ["Instructor Training", "Software Carpentry"]
 ---
 
 Since we announced yesterday that we are

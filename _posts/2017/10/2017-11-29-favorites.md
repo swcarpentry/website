@@ -4,7 +4,7 @@ authors: ["Belinda Weaver"]
 title: "People's Favorite Tools"
 date: 2017-11-29
 time: "09:00:00"
-tags: ["Python", "IPython", "Jupyter", "Teaching", "R", "Git", "GitHub", "Videoconferencing", "emacs", "RStudio", "rasterio"]
+tags: ["Python", "IPython", "Jupyter", "Teaching", "R", "Git", "GitHub", "Videoconferencing", "emacs", "RStudio", "rasterio", "Software Carpentry"]
 ---
 
 A big thank you to everyone who has responded so far to the call for short posts about their favourite tools.

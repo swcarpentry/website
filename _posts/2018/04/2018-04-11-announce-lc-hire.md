@@ -4,7 +4,7 @@ authors: ["Tracy Teal", "John Chodacki", "Chris Erdmann"]
 title: "Building Library Carpentry Community and Development"
 date: 2018-04-11
 time: "00:00:00"
-tags: [ "Community", "Library Carpentry", "Librarians"]
+tags: [ "Community", "Library Carpentry", "Librarians", "Software Carpentry"]
 ---
 
 We are excited to announce that [Chris Erdmann](https://twitter.com/libcce) has been hired as 

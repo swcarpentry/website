@@ -4,7 +4,7 @@ authors: ["Rayna Harris"]
 title: "2016 Election: Rayna Harris"
 date: 2016-01-14
 time: "16:15:00"
-tags: ["Steering Committee", "Software Carpentry Foundation", "Election 2016"]
+tags: ["Steering Committee", "Software Carpentry Foundation", "Election 2016", "Software Carpentry"]
 ---
 
 ##Background

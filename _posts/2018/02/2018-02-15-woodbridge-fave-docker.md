@@ -4,7 +4,7 @@ authors: ["Mark Woodbridge"]
 title: "My Favorite Tool - Docker"
 date: 2018-02-15
 time: "00:00:00"
-tags: [ "Research tools", "Virtualization", "Containers", "Software Testing"]
+tags: [ "Research tools", "Virtualization", "Containers", "Software Testing", "Software Carpentry"]
 ---
 
 ### What kind of tool is it?

@@ -4,7 +4,7 @@ authors: ["Jonah Duckles"]
 title: "Carpentry Champions Call"
 date: 2018-02-07
 time: "00:00:00"
-tags: ["Community", "Community building", "Champions"]
+tags: ["Community", "Community building", "Champions", "Software Carpentry"]
 ---
 
 At the 14 February Carpentry Champions call we'll be talking about the development of a new resource called 

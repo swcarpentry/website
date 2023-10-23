@@ -4,7 +4,7 @@ authors: ["Kate Hertweck"]
 title: "2016 Election: Kate Hertweck"
 date: 2016-01-13
 time: "08:00:00"
-tags: ["Steering Committee", "Election 2016", "Software Carpentry Foundation"]
+tags: ["Steering Committee", "Election 2016", "Software Carpentry Foundation", "Software Carpentry"]
 ---
 
 Hello fellow educators and coding enthusiasts! 

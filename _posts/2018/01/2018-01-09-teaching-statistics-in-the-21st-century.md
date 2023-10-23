@@ -4,7 +4,7 @@ authors: ["Greg Wilson"]
 title: "Teaching Statistics in the 21st Century"
 date: 2018-01-09
 time: "02:00:00"
-tags: ["Teaching", "Statistics"]
+tags: ["Teaching", "Statistics", "Software Carpentry"]
 ---
 
 The late 1980s saw a wave of new undergraduate programs launched in computational physics,

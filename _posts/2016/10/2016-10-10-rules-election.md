@@ -4,7 +4,7 @@ authors: ["Kate Hertweck"]
 title: "Vote Next Week to Amend Steering Committee Election Procedures"
 date: 2016-10-10
 time: "09:00:00"
-tags: ["Steering Committee"]
+tags: ["Steering Committee", "Software Carpentry"]
 ---
 
 Last month, the Steering Committee announced a 
