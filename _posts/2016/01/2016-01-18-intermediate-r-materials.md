@@ -7,6 +7,8 @@ time: "23:00:00"
 tags: ["Lessons", "R", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 We've been teaching R workshops for over a year now at the University of
 Melbourne, and one thing we've noticed is the disparity in skill level among
 workshop attendees. Researchers generally fall into one of two catergories:

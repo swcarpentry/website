@@ -7,6 +7,8 @@ time: "00:07:30"
 tags: ["Community", "ESIP", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ESIP (the Federation of Earth Science Information Partners) has been
 developing research code/software guidelines for the earth observation
 and geosciences communities, and would appreciate feedback on

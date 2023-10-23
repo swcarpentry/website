@@ -7,6 +7,8 @@ time: "06:00:00"
 tags: ["Data Science", "Tools", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ### My favorite tool for data analysis is [R](https://www.r-project.org/). 
 
 I have used it for a few years now, I feel at ease when I need to work with tabular data. 

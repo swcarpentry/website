@@ -7,6 +7,8 @@ time: "12:00:00"
 tags: ["Mentoring", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Did you miss the deadline to [join a mentoring group](https://software-carpentry.org/blog/2018/03/next-round-mentoring.html)? Do not fear, there are still openings for mentees to join groups in the following timezones:
 
 + [UTC+2](https://www.timeanddate.com/worldclock/south-africa/cape-town)

@@ -8,6 +8,8 @@ authors: ["Erin Becker"]
 tags: ["curriculum", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 The [Carpentry Instructor Training curriculum](http://swcarpentry.github.io/instructor-training/) helps prepare new instructors to teach Carpentry workshops. It 
 also impacts instructors' teaching practices when they teach in other contexts, helping to spread the 
 Carpentry pedagogical model and evidence-based teaching practices around the world!

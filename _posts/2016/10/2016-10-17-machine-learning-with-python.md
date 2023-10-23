@@ -7,6 +7,8 @@ time: "00:07:30"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 A new book has recently been published that may be of interest to our community:
 
 *[Introduction to Machine Learning with Python](http://shop.oreilly.com/product/0636920030515.do)*

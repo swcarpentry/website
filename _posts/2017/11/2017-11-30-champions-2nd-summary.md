@@ -7,6 +7,8 @@ time: "hh:mm:00"
 tags: [ "Community Building", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 The last Carpentries' Champions call led by Jonah Duckles was well attended, with representatives from Australia, South Africa, Ethiopia, the US, the UK, New Zealand and Norway.
 
 After the introductions and a review of the [last call](https://software-carpentry.org/blog/2017/08/champs-call.html), attendees were divided up into four breakout rooms to discuss (while keeping the following three questions in mind) an event that promoted a sense of excitement about new research tools.

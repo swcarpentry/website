@@ -7,6 +7,8 @@ time: "23:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Are you a new Software or Data Carpentry instructor?  Do you 
 remember what it was like to be a new instructor?  Are you 
 interested in improving your own teaching skills?  Do you want to connect 

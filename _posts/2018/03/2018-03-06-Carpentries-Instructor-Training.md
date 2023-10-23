@@ -7,6 +7,8 @@ time: "23:00:00"
 tags: ["Community", "Instructors", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 On 21-23 February 2018, the fourth South African Carpentries instructor training for African based Instructors took place in Kleinmond, Western Cape. The workshop was funded through the Rural Campuses Connection Project Phase II (RCCPII) Tertiary. 
 The lead Trainer, [Erin Becker](https://twitter.com/ErinSBecker), is the Associate Director of The Carpentries and currently based near San Francisco, California. Other Trainers included [Senzo Mpungose](https://twitter.com/senzo_mpungose), Scientific Data Center and Infrastructure Manager for Mathematical Sciences at  WITS, [Caroline Ajilogba](https://www.facebook.com/caroline.ajilogba), a Postdoctoral Researcher from the Microbial Biotechnology group, NWU Mafikeng Campus, and [Martin Dreyer](https://twitter.com/AmfDrey), an eResearch support consultant at NWU IT. 
 

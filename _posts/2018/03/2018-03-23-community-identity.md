@@ -7,6 +7,8 @@ time: "08:00:00"
 tags: ["Community", "Software Carpentry", "Steering Committee", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 When Software Carpentry became part of the merged Carpentries this January, outgoing Software Carpentry steering committee members Rayna Harris and Christina Koch were tasked with continuing the work of the steering committee.  For the past several weeks, we've been working together with a small group to determine what Software Carpentry needs as a sub-community to grow and thrive in the future, and we have identified two primary goals.  
 
 One first goal is a restatement of Software Carpentry's mission.  The Carpentries are growing by leaps and bounds, so this seems like a timely moment to stop and think about what Software Carpentry is doing as a branch of the Carpentries and why.  This exploration of mission and identity isn't just so we can have a nice tagline, but to provide direction and a reference point for future decisions that impact the community. 

@@ -7,6 +7,8 @@ time: "09:00:00"
 tags: [ "Website", "Merger", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ### Website Launch
 
 We are excited to announce that [The Carpentries](https://carpentries.org/) website is now live!

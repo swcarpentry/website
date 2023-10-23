@@ -7,6 +7,8 @@ time: "14:00:00"
 tags: ["Lessons", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 **Come share your experience and ideas about maintaining the Software Carpentry lessons**
 
 We invite all members of the Software Carpentry community to 

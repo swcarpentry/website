@@ -7,6 +7,8 @@ time: "18:00:00"
 tags: ["Data cleaning", "OpenRefine", "Tools", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 #### My favorite tool is [OpenRefine](http://openrefine.org/).
 
 

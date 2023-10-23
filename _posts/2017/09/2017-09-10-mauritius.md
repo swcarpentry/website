@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: [ "Africa", "Mauritius", "HPC", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 The Square Kilometre Array (SKA) has been branded as one of the biggest scientific projects to date and spans not only country borders but also continents. Although the SKA’s primary aim is to address many of the questions around our universe, the spin-offs of this project will touch people from all research disciplines as well as communities around the SKA sites.
 
 One of the spin-offs is expanded human and infrastructure capacity in terms of High Performance Computing (HPC) in other African countries. The South African [Centre for High Performance Computing](https://www.chpc.ac.za/) (CHPC) is involved in a programme named the HPC Ecosystems Project. The Ecosystems Project focuses on the distribution of decommissioned HPC equipment to be used as mid-tier systems at various sites across Africa. This is followed with training of the system administrators to run the equipment.

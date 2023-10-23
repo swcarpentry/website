@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: ["CarpentryCon", "Sponsorship", "Community Building", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 The inaugural [CarpentryCon 2018](http://www.carpentrycon.org/) will take place on 30 May-1 June at [University College Dublin](http://www.ucd.ie/).
 
 Planning is now well underway. We have chosen a [venue and a date](http://www.carpentrycon.org/), identified keynote speakers, and roughed out a program, but we are still missing one vital piece:

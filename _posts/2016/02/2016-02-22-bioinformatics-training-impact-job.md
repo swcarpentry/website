@@ -6,6 +6,8 @@ date: 2016-02-22
 time: "06:00:00"
 tags: ["Jobs", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 The Bioinformatics Training Facility of the School of Biological Sciences, University of Cambridge
 is looking for a Training Impact Co-ordinator.
 The post-holder will develop (building on existing work), implement, monitor, analyse and report on

@@ -8,6 +8,8 @@ tagline: "Recognizing our most valuable assest -- our community members"
 tags: ["Community", "Software Carpentry Foundation", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Is there a Software Carpentry community member you've noticed working 
 extra hard to help our organization?  
 

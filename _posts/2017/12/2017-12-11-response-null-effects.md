@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: [ "Bootcamps", "Workshops", "Training", "Assessment", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 *Author:* Karen R. Word
 
 *Contributors:* Kari Jordan, Erin Becker, Jason Williams, Pamela Reynolds, Amy Hodge, Maxim Belkin, Ben Marwick, and Tracy Teal.

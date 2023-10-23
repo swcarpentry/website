@@ -6,6 +6,8 @@ date: 2016-04-24
 time: "08:00:00"
 tags: ["Community", "Data Carpentry", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 [Data Carpentry is hiring](http://www.datacarpentry.org/jobs/)!
 
 Data Carpentry seeks to hire a full-time staff member to direct its assessment activities.

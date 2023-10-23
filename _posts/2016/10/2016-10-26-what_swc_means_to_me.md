@@ -7,6 +7,8 @@ time: "08:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 October 26 marks my 3rd Github cakeday.
 It also marks my 3 year anniversary since my first Software Carpentry workshop as a learner.
 The icing on the cake (haha?) is that it's also [Open Access Week](http://openaccessweek.org/).

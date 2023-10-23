@@ -7,6 +7,8 @@ time: "00:08:00"
 tags: ["Workshops", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 A successful workshop is the result of coordinated effort among many different types of participants,
 including instructors, helpers, hosts, learners and staff.
 Software and Data Carpentry offer two types of workshops:

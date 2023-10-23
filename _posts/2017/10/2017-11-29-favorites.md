@@ -7,6 +7,8 @@ time: "09:00:00"
 tags: ["Python", "IPython", "Jupyter", "Teaching", "R", "Git", "GitHub", "Videoconferencing", "emacs", "RStudio", "rasterio", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 A big thank you to everyone who has responded so far to the call for short posts about their favourite tools.
 
 So far we have had [Paula Martinez](https://twitter.com/orchid00) on [R](https://software-carpentry.org/blog/2017/10/my-fave-tool.html), with [Bianca Peterson](https://twitter.com/BinxiePeterson) [enthusiastically seconding](https://software-carpentry.org/blog/2017/11/bianca-fave.html), Jeff Oliver sharing his love of [Git and GitHub](https://software-carpentry.org/blog/2017/10/oliver-fave.html),

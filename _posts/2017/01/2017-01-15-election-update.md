@@ -7,6 +7,8 @@ time: "18:00:00"
 tags: ["Software Carpentry Foundation", "Election 2017", "Steering Committee", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 # 2017 Steering Committee elections and January Community Call
 
 We are pleased the announce the 2017 Steering Committee elections, which will occur from January 23-27. All members will receive a ballot via email to cast their vote via [electionbuddy](https://electionbuddy.com). Be sure to look at the [membership list](https://software-carpentry.org/scf/members/) and [let us know](mailto:admin@software-carpentry.org?subject=SCF%20membership) if you feel you've been left off by mistake; membership details are [here](https://software-carpentry.org/scf/).

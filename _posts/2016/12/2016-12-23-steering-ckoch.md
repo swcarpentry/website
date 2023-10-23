@@ -7,6 +7,8 @@ time: "07:30:00"
 tags: ["Election 2017", "Software Carpentry Foundation", "Steering Committee", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 To begin, I present: 
 
 > ## Notable events in Christina's Software Carpentry career:

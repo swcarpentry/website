@@ -7,6 +7,8 @@ time: "16:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ####Highlights
 * 15 January: Deadline for standing for the [2016 Steering Committee elections]({{site.baseurl}}/blog/2015/12/call-for-candidates-elections-2016.html)
 * [New pre- and post workshop assessments]({{site.baseurl}}/blog/2015/12/assessment-update.html) have been developed to better understand our impact amongst other things.

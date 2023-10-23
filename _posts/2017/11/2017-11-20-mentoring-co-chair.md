@@ -6,6 +6,8 @@ date: 2017-11-20
 time: "10:12:00"
 tags: [ "Mentoring ", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 How would you like to work first-hand on developing our ever growing instructor community? A Mentoring Subcommittee Co-Chair position has just opened!
 
 The leader serving in this year-long position (December 2017- December 2018) will share duties with the co-chair of the mentoring subcommittee, with a commitment averaging 1.5 hours/week.

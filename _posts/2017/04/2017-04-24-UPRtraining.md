@@ -7,6 +7,8 @@ time: "09:00:00"
 tags: ["Community","Instructor Training", "Data Carpentry", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 On March 24-25, Rayna Harris, Sue McClatchy, and Tracy Teal co-taught an instructor training workshop at the University of Puerto Rico (UPR). This was a very special workshop in many ways, and we are excited to share some of the highlights with you. 
 
 Also, be sure to check out [an accompanying blog post](https://idi-bd2k.hpcf.upr.edu/2017/03/29/healthcare-innovation-replicathon-2017-and-data-carpentry-instructor-training/) by Humberto Ortiz Zuazaga about the combined Replicathon and Instructor Training events. 

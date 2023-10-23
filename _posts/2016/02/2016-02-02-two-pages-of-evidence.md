@@ -6,6 +6,8 @@ date: 2016-02-02
 time: "06:30:00"
 tags: ["Noticed", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 Andreas Stefik and his colleagues have written
 [a two-page summary](http://quorumlanguage.com/evidence/evidence.pdf)
 of what we actually know about usability and programming language design.

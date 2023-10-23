@@ -7,6 +7,8 @@ time: "11:00:00"
 tags: ["Community","Code of Conduct", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 The amazing Software and Data Carpentry community of instructors and learners is
 the foundation of our organizations. We have more than 500 instructors from 30
 countries and have had over 20,000 learners in our workshops.

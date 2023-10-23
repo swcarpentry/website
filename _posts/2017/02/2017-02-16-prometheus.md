@@ -7,6 +7,8 @@ time: "10:30"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ## Adopting work cycles  
 The Data and Software Carpentry staff have been working together to make progress on projects that are important for our community. To 
 help us do this, we’re trying out a new work process based on BaseCamp’s six week work cycle. You can read 

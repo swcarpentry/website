@@ -6,6 +6,8 @@ date: 2016-02-05
 time: "13:00:00"
 tags: ["Debriefing", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 <!-- start excerpt -->
 On January 26, we ran the 2nd round of Post-Workshop Instructor Debriefing Sessions. Rayna and Christina hosted the morning debriefings while Bill and Raniere hosted the evening debriefing.  A topic of interest today was on installations. Read on for details. 
 <!-- end excerpt -->

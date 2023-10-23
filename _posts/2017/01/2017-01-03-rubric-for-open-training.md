@@ -7,6 +7,8 @@ time: "11:00:00"
 tags: ["Instructor Training", "Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 The Software Carpentry Foundation's Steering Committee recently resolved
 to run four open online instructor training sessions per year
 in order to help support people whom we otherwise might not be able to reach.

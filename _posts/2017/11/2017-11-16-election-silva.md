@@ -7,6 +7,8 @@ time: "10:00:00"
 tags: ["Steering Committee", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ## Who am I?
 
 My name is Raniere Silva.

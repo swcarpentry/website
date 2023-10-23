@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: ["Community", "Community building", "Champions", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 At the 14 February Carpentry Champions call we'll be talking about the development of a new resource called 
 the [Carpentries Cookbook](https://cookbook.carpentries.org/).
 

@@ -7,6 +7,8 @@ time: "14:00:00"
 tags: ["R Studio", "Jobs", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 [RStudio](http://rstudio.com) maintains [a directory](https://www.rstudio.com/instructors/)
 of people who provide training and consulting for R using their flagship product.
 If you have taught R for Data Carpentry or Software Carpentry,

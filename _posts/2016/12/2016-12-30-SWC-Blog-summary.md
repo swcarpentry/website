@@ -7,6 +7,8 @@ time: "23:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ##Highlights
 * We are pleased to announce the first ever Library Carpentry [instructor training]({{site.baseurl}}/blog/2016/12/csv-conf.html) in 2017.
 * The very first Software Carpentry [community service awards]({{site.baseurl}}/blog/2016/12/community-service-awards.html) have been awarded.

@@ -7,6 +7,8 @@ time: "11:15:00"
 tags: ["Jobs", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 The Carter Lab at The Jackson Laboratory is seeking an Associate Research Scientist in the genetics of Alzheimer’s
 disease. [Our group] (https://www.jax.org/research-and-faculty/research-labs/the-carter-lab) is developing novel
 computational methods to derive biological models from large-scale genomic data. The strategies we pursue involve

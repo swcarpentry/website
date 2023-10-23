@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: ["Community Service Award", "Community Building", "South Africa", "Capacity Building", "Workshops", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 The Carpentries are happy to honor [Anelda van der Walt]( https://twitter.com/aneldavdw) as our 2017 Community Service Award winner. We received seven independent nominations for Anelda this year, which is a testament to her commitment to both individual people and the broader community.
 
 Starting from scratch, Anelda planted the tiny seed that has now become the phenomenal growth of Software and Data Carpentry in South Africa, not to mention its spread to an ever-growing list of other African countries, such as Namibia, Botswana, Ghana, Gabon, [Mauritius](https://software-carpentry.org/blog/2017/09/mauritius.html), and [Ethiopia](https://software-carpentry.org/blog/2017/09/ethiopia.html). 

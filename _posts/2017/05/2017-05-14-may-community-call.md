@@ -7,6 +7,8 @@ time: "10:00:00"
 tags: ["Community","Software Carpentry Foundation","Steering Committee", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 The Software Carpentry Steering Committee (SWC SC) announced 
 [back in February](https://software-carpentry.org/blog/2017/02/merger-discussion.html) 
 that we were initiating discussion with Data Carpentry about potentially merging into a 

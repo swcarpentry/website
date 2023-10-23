@@ -7,6 +7,8 @@ time: "10:00:00"
 tags: ["Instructor training","Library Carpentry","Workshops", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 In the space of a year, interest and participation in the [Library Carpentry](https://librarycarpentry.github.io) community has exploded like an amoeba who over-ate at an algae banquet and attempted one too many pseudopods.
 
 For Library Carpentry, though, this is a good thing; the pseudopods are propelling us forward across institutions, disciplines, and continents. The community, grounded in collaborative tools like Github and Gitter (I always want to type Glitter) is coalescing around lesson development and holding new workshops. Why is the buzz so strong? I think it's a combination of relentless energy from people like [Belinda Weaver](https://github.com/weaverbel) and [Tim Dennis](https://github.com/jt14den) (to name just a few), the acceptance and active encouragement of new people who want to contribute in some way, and the mutual recognition by all of us that in any one thing, we are all absolute beginners, and we all give each other permission to be terrible until we aren't.

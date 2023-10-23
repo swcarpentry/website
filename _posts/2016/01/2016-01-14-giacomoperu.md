@@ -7,6 +7,8 @@ time: "12:45:00"
 tags: ["Software Carpentry Foundation", "Election 2016", "Steering Committee", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ## 2016 Election: Giacomo Peru
 
 Ciao a tutti. Many thanks for taking a minute or two to read this post about my candidature for our Software Carpentry Steering Committee. As you'll see, it was a long way from programming that I was reared, yet this opportunity for closer involvement with our work and its future brings together so much of what I have been doing all these years. Here's why...

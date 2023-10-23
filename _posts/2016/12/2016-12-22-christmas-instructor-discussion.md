@@ -7,6 +7,8 @@ time: "10:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 On December 20th we hosted our two last [Instructor Discussion Session](http://pad.software-carpentry.org/instructor-discussion) from 2016. We started 2016 with [Post-workshop Instructor Debriefing Sessions](https://software-carpentry.org/blog/2016/01/instructor-debriefing-round-01.html) that run twice (in different times) every two weeks and during the year we change its name to reflect the modifications made to better accomodate their inclusion on the Instructor Training pipeline as well as the increase of offers (twice every week). The Steering Committee is **very** grateful for all the work from the Mentoring Subcommittee as well all Instructor Discussion Session hosts without help would be impossible to provide all the hours of sharing experience among members of our community.
 
 The morning session on December 20th was hosted by me and Marian Schmidt. Markus Ankenbrand and Felipe Ferreira Bocca shared with us the experience of teaching, respectively, at the [University of Würzburg](https://swcarpentry-wuerzburg.github.io/2016-11-09-Wuerzburg/), Germany and the [University of Campinas](https://boccaff.github.io/2016-12-05-unicamp/), Brazil. Three future instructors attended from Europe and participated on a conversation about our [R lesson](https://swcarpentry.github.io/r-novice-gapminder/).

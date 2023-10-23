@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: ["Steering Committee", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ### 2018 Election: Auriel Fournier
 
 I am excited for the opportunity to stand for election for the 2018 Steering Committee of The Carpentries. 

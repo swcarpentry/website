@@ -7,6 +7,8 @@ time: "15:00:00"
 tags: ["workshops", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Usually the main struggles preceding Software and Data Carpentry workshops involve the laptop setup, signposting the room and making sure the washrooms are unlocked. But the recent [workshop](https://tinyendian.github.io/2016-11-15-wellington/) in New Zealand, held at [National Institute of Water and Atmospheric Research](https://www.niwa.co.nz/) (NIWA) was facing much more extreme conditions.
 
 The day before the workshop New Zealand was hit by what is now known [Kaikoura earthquake](https://en.wikipedia.org/wiki/2016_Kaikoura_earthquake). Wellington, where the NIWA offices are, was also affected. Fortunately, NIWA buildings remained safe and the hosts, Fabrice Cantos and Wolfgang Hayek, decided to go forward with the workshop. 

@@ -6,6 +6,8 @@ date: 2016-01-15
 time: "15:00:00"
 tags: ["Software Carpentry Foundation", "Election 2016", "Steering Committee", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 ## Who am I?
 
 I have always been involved with, and am passionate about,

@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: [ "CarpentryCon", "Diversity", "Inclusion", "Ally Skills", "Unconscious Bias", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ![Valerie Aurora](http://valerieaurora.org/pix/val_circle.png "Valerie Aurora")
 
 The Carpentries are excited to announce that Valerie Aurora will be one of four keynote speakers at this May's [CarpentryCon](http://www.carpentrycon.org/) in Dublin.

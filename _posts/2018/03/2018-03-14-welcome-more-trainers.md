@@ -7,6 +7,8 @@ time: "08:00:00"
 tags: [ "Trainers", "Instructors", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 We are excited to welcome seventeen newly badged Trainers to our community. The group recently finished their program with Karen Word and are now certified to teach new Carpentry Instructors.
 
 Join us in welcoming Tania Allard, Anne C. Axel, Mik Black, Murray Cadzow, Mesfin Diro, Caroline Fadeke Ajilogba, Anne Fouilloux, Alejandra Gonzalez-Beltran, Claire Hardgrove, Toby Hodges, SherAaron Hurt, Senzo Mpungose, David Perez-Suarez, Juliane Schneider, Nicholas Tierney, Jessica Upani, Elizabeth Williams.

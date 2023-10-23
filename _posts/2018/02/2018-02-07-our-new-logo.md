@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: [ "Logo", "Branding", "Identity", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 It must be the worst-kept secret in cyberspace - that the Carpentries have a new logo.
 
 

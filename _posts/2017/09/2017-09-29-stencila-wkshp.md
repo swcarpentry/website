@@ -4,8 +4,10 @@ authors: ["Danielle Robinson"]
 title: "Toads in Vancouver: using Stencila to teach SQL and R at UBC"
 date: 2017-09-29
 time: "00:00:00"
-tags: ["Workshops", "Coding", "Stencila", "Data Science", "Software Carpentry"] 
+tags: ["Workshops", "Coding", "Stencila", "Data Science", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 
 One of [Stencila’s](https://stenci.la/) goals is to create an easy way for people who don't yet code to learn 
 data science and statistics skills, and to feel comfortable trying out powerful scientific computing languages 

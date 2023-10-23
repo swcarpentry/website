@@ -7,6 +7,8 @@ time: "06:00:00"
 tags: ["Lesson Development", "Lesson Maintenance", "Lesson Translations", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ### Invitación a participar
 
 Las Carpentries, el Nodo Nacional de Bioinformática México (NNB), y la Sociedad Iberoamericana de Bioinformática (SoIBio) 

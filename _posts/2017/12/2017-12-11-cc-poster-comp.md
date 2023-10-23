@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: [ "CarpentryCon 2018", "Competitions", "Designs", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ### Design a Promotional Poster for CarpentryCon 2018
 
 The Carpentries are excited to announce our poster design competition where some lucky member of our community will win a **free** registration for [CarpentryCon 2018](http://www.carpentrycon.org/).

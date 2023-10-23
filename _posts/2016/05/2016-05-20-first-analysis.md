@@ -6,6 +6,8 @@ date: 2016-05-20
 time: "06:30:00"
 tags: ["Instructor Training", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 Following up on [Wednesday's post about instructor training stats]({{site.baseurl}}/blog/2016/05/looking-for-a-model.html),
 Erin Becker (Data Carpentry's new Associate Director) has [posted an analysis](http://www.datacarpentry.org/blog/instructor-metrics/).
 I was very surprised to discover that less than 20% of people trained over a year ago haven't taught yet:

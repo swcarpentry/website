@@ -7,6 +7,8 @@ time: "17:00:00"
 tags: ["Statistics", "R", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 [R](https://www.r-project.org/) can do anything - from making presentations, analyzing and plotting data to version control (Git). 
 
 I use it for absolutely everything! It's not difficult to use and it's free!

@@ -6,6 +6,8 @@ date: 2016-02-11
 time: "00:30:00"
 tags: ["Teaching", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 As a director of the [Centre for Doctoral Training in Next Generation Computational Modelling](http://ngcm.soton.ac.uk/) I spend plenty of time thinking about, working with, and particularly teaching Numerical Methods. The [general intro course](https://github.com/IanHawke/NumericalMethods) I give is Maths focussed, has around 100 participants, has about 50 contact hours over 12 weeks, and gets a range of interested students from Maths, Physics and Engineering.
 
 The past two weeks I've been teaching Numerical Methods for the [Centre for Doctoral Training in New and Sustainable Photovoltaics](http://www.cdt-pv.org/). With around a dozen participants, many of whom had minimal theory or coding background, and only 10 hours available, some changes in the teaching were required. Most of these followed Software Carpentry approaches: live coding, Jupyter notebooks, sticky notes, and a set of "authentic" examples to train underpinning principles.

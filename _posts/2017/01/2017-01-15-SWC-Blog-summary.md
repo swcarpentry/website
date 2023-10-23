@@ -7,6 +7,8 @@ time: "23:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ##Highlights
 
 * If you are interested in attending or helping with the planning of [CarpentryCon]({{site.baseurl}}/blog/2017/01/CarpentryCon.html), please sign up!

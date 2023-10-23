@@ -7,6 +7,8 @@ time: "15:00:00"
 tags: ["instructor training", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 The end of the calendar year is a usual opportunity to make look back at the past 365 days. The summary of mine would be “Instructor Training Intercontinental”.  I have always considered myself to be incredibly lucky working with Software and Data Carpentry and certainly in 2016 I hit another jackpot. I run 7 Instructor Training workshops, in 6 countries on 3 continents. But the highlight was, as it has always been with SWC and DC, the people.
 
 January 2016 kicked off with Instructor Training for ELIXIR in Switzerland which I ran together with Tracy Teal, Data Carpentry Executive Director. It was a baptism of fire for me, as I taught for the first time without Greg who could step in and save me, in case I would have messed things up. So I am very grateful to Tracy who helped me to get through the Instructor Training in Lausanne without causing any damage to the attendees. In fact, almost all of them have now completed their checkout and ELIXIR’s collaboration with Software and Data Carpentry is growing further.

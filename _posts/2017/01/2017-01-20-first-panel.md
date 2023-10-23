@@ -7,6 +7,8 @@ time: "08:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 **Tuesday, January 24, 7am PST / 10am EST / 3pm UTC / 2am AEST (next day)**  
 
 On Tuesday, January 24, the Carpentries will host the first of 

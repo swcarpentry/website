@@ -7,6 +7,8 @@ time: "00:05:00"
 tags: ["Jobs", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 The [Computational Science and Engineering](http://cse.illinois.edu/)
 program and the National Center for Supercomputing Applications at the
 [University of Illinois at Urbana-Champaign](http://illinois.edu/)

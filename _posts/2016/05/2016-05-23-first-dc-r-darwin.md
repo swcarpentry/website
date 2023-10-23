@@ -7,6 +7,8 @@ time: "00:00:01"
 tags: ["Workshops", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ##First Data Carpentry workshop in Darwin Australia##
 
 The [COMBINE](https://combine.org.au/) [Data Carpentry](http://www.datacarpentry.org/) R workshop at 

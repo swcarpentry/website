@@ -7,6 +7,8 @@ time: "00:00:01"
 tags: ["Workshops", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Brisbane Software Carpentry sputtered into life some time in 2014 when scattered local supporters finally met and began to form a group. 
 Having heard about the initiative via Twitter, I managed to contact [Nathan Watson-Haigh](https://twitter.com/watsonhaigh)
 who got me on to the 

@@ -7,6 +7,8 @@ time: "23:00:00"
 tags: ["Community", "Weekly Review", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ## Highlights
 
 * The 2016 Steering Committee invites you to help organize and develop resources and activities to support our community members by proposing new initiatives in the form of [subcommittees and task forces]({{site.baseurl}}/blog/2016/04/subcommittes-taskforces.html). Full instructions on the proposal process can be found [here](https://github.com/swcarpentry/board/blob/master/subcommittees/proposal_instructions.md). The Steering Committee will gladly help! Also check out the [subcommittee listing](https://github.com/swcarpentry/board/blob/master/subcommittees/subcommittees.md) for information on existing and past subcommittees. 

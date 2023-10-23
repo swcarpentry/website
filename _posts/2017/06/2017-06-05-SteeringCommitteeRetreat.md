@@ -7,6 +7,8 @@ time: "10:00:00"
 tags: ["Steering Committee", "Community", "Instructor Training", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 The Software Carpentry Steering Committee met in person on June 7-8 in Davis, California.   The committee members have unique journeys that brought them through the community to having a seat on the steering committee. Importantly, we have a unified vision for the future of the Software Carpentry Foundation and the roles of the steering committee. Below is a brief summary of the motions passes and detailed description of the five key areas over which the Steering Committee will continue to provide oversight. 
  
 Below, we 1) summarize the motions that were passed at the meeting, 2) describe the five key areas over which the Steering Committee provides oversight, and 3) provide a timeline for implementing our goals.

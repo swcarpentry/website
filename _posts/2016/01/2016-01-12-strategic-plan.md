@@ -7,6 +7,8 @@ time: "17:00:00"
 tags: ["Software Carpentry Foundation", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 The Software Carpentry Foundation Steering Committee held a strategic planning
 meeting in August. In that two-day, intensive meeting, we focused on developing
 a long term strategic plan for the Software Carpentry Foundation.  The process

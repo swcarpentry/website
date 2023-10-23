@@ -7,6 +7,8 @@ time: "03:00:00"
 tags: ["Noticed", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 A [roundabout chain of references](http://www.felienne.com/archives/4327)
 led me to Abbott et al's "[Programs for People: What We Can Learn from Lab Protocols](http://web.engr.oregonstate.edu/~walkiner/papers/vlhcc15-programs-for-people.pdf)"
 (presented at [VL/HCC 2015](https://sites.google.com/site/vlhcc2015/))

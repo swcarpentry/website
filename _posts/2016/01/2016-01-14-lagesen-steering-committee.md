@@ -6,6 +6,8 @@ date: 2016-01-14
 time: "11:00:00"
 tags: ["Software Carpentry Foundation", "Election 2016", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 ﻿For the past year, I have served as the Software Carpentry Steering Committee’s secretary.
 My involvement with the SCF started in 2012, when I attended a workshop in Oslo, Norway.
 I signed on as an instructor in 2013, and have taught 9 workshops since then.

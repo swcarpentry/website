@@ -7,6 +7,8 @@ time: "13:30:00"
 tags: ["Instructor Training", "R Consortium", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 The [R consortium Infrastructure Steering Committee awards](https://www.r-consortium.org/news/announcement/2016/03/r-consortium-funds-technical-initiatives-community-events-and-training)
 have been officially announced and we are happy to confirm that
 [our proposal](https://github.com/lgatto/SC-ICS-Proposal) to organise an

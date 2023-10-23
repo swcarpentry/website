@@ -7,6 +7,8 @@ time: "23:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ##Highlights
 
 * We are please to present to you the [Steering Committee]({{site.baseurl}}/blog/2017/01/announcing-the-2017-steering-committee.html) of 2017.

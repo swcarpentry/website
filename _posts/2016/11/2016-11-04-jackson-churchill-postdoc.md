@@ -7,6 +7,8 @@ time: "10:10:00"
 tags: ["Jobs", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 The [Churchill Lab] (http://churchill-lab.jax.org/website/) at The Jackson Laboratory is seeking a Postdoctoral
 Fellow in systems biology. Our group applies a systems approach to study the genetics of health and disease. We
 develop new methods and software to improve the power of quantitative trait locus mapping and high throughput

@@ -7,6 +7,8 @@ time: "10:00:00"
 tags: ["Community", "Lesson Infrastructure Subcommittee", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 On 14 February 2018 at 18:00 UTC+0,
 the Lesson Infrastructure Subcommittee had their 2018 February meeting.
 This post will cover the topics discussed and their resolutions.

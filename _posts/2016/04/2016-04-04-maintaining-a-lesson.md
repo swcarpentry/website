@@ -7,6 +7,8 @@ time: "11:00:00"
 tags: ["Lessons", "R", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 After two years as a Software Carpentry lesson maintainer of [r-novice-inflammation][],
 I am stepping down so that I can spend more time on my research
 (this thesis appears unwilling to write itself)

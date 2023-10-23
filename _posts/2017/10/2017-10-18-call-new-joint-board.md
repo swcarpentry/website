@@ -7,6 +7,8 @@ time: "18:00:00"
 tags: ["Carpentries", "Merger", "Steering Committee", "Board", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ### EDITED 2017-11-07: Board of Directors is a legal term and can't be used for a sponsored project. Changed to "Steering Committee"
 
 ### Call for Joint Carpentries Leadership: Stand for election to the joint Steering Committee of the merged Carpentries organization

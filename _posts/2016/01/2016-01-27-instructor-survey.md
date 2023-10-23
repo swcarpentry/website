@@ -7,6 +7,8 @@ time: "09:23:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Back in the fall we surveyed our then 450-strong instructor community for
 feedback on what being an instructor has done for them.
 

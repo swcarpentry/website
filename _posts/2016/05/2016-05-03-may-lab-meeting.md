@@ -7,6 +7,8 @@ time: "15:25:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Software Carpentry's next Lab Meeting calls will be at **14:00 UTC and 23:00 UTC, May 10th**; all are welcome to join in to discuss what's new and upcoming in the Software Carpentry community. Connection details are on the [Lab Meeting Etherpad](http://pad.software-carpentry.org/swc-lab-meeting-2016-05-10).
 
 Our first feature for the month is the **new Subcommittee and Task Force program**, [recently announced](blog/2016/04/subcommittes-taskforces.html) by the 2016 Steering Committee. Following on the success of our subcommittees in 2015, the Steering Committee has decided to open up the process of proposing and running projects and committees that advance Software Carpentry's mission and enrich our community to all of our community members. [More details on the proposal process can be found here](https://github.com/swcarpentry/board/blob/master/subcommittees/proposal_instructions.md); tune into the Lab Meeting to here more comments and ask questions from the program designers.

@@ -7,6 +7,8 @@ time: "00:00:01"
 tags: ["Workshops", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 A three day Software Carpentry workshop was held at the [University of Otago](http://www.otago.ac.nz/)
 from June 29 - July 1.  The instructors for the course were Mik Black, Nick Burns,
 Murray Cadzow, David Eyers, Tanya Flynn and Tom Kelly, with Anthony Shaw and Riku Takei

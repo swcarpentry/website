@@ -7,6 +7,8 @@ time: "00:00:01"
 tags: ["Workshops", "Library Carpentry", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 We held a two-day Library Carpentry workshop at [James Cook University](http://jcu.edu.au/), Townsville on 14–15 July, 2016. The workshop was a first on several fronts - the first course run by Software Carpentry trainers [Jay van Schyndel](https://twitter.com/jayvanschyndel) and [Daniel Baird](https://twitter.com/DanielBaird) from the JCU [eResearch Centre](https://eresearch.jcu.edu.au/) and the first Library Carpentry course run at JCU. [Collin Storlie](https://twitter.com/JCU_QCIF_eRA), the local [QCIF](http://www.qcif.edu.au) eResearch Analyst, agreed to help out too.
 
 *How was the workshop proposed?*

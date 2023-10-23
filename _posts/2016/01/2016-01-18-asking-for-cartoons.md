@@ -6,6 +6,8 @@ date: 2016-01-18
 time: "02:00:00"
 tags: ["Lessons", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 As we're updating our lessons this year,
 I'd like to add a few more cartoons that relate directly to what we teach.
 Two of my favorites are

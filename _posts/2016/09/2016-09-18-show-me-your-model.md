@@ -7,6 +7,8 @@ time: "00:08:00"
 tags: ["Opinion", "Research", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 As far as I can tell,
 there are no published studies showing that version control is better than mailing files around
 or sticking them in shared drives.

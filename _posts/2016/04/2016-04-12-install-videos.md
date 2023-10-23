@@ -6,6 +6,8 @@ date: 2016-04-12
 time: "13:40:00"
 tags: ["Workshops", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 I recently created videos for installing the software needed for most Software Carpentry workshops.
 Links for these videos are now added to the lessons template for a workshop and listed below.
 

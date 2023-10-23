@@ -7,6 +7,8 @@ time: "09:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ##Instructor Training
 * How can we [help instructor trainees complete their training]({{page.baseurl}}/blog/2016/03/proposal-instructor-trainees.html)? Belinda Weaver is working hard to support new instructors in Australia. Do you have any other ideas?
 * Several opportunities are now available for new and experienced instructors to join the conversations about workshops. Should we be [combining various sessions to better integrate new and old instructors and give more options for participation]({{page.baseurl}}/blog/2016/03/should-we-combine-debriefing-and-lesson-discussion.html)?

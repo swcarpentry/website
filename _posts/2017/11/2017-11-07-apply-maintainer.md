@@ -7,6 +7,8 @@ time: "00:08:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Software and Data Carpentry are currently accepting applications to join the lesson Maintainer team. 
 Carpentry Maintainers work with the community to make sure that lessons stay up-to-date, accurate, 
 functional and cohesive. Maintainers monitor their lesson repository, make sure that PRs and Issues 

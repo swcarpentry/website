@@ -7,6 +7,8 @@ time: "06:00:00"
 tags: ["Mentoring", "Champions", "Community Building", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ### Mentoring groups provide experienced instructors with the chance to help small groups develop confidence in teaching, lesson maintenance and community building
 
 The inaugural Carpentries mentoring program was a great success, and we have used the feedback we received from both mentors and mentees to craft a new and improved mentoring experience in round two. The next round will run October 25th - January 10th.

@@ -6,6 +6,8 @@ date: 2016-12-19
 time: "20:10:00"
 tags: ["Steering Committee", "Software Carpentry Foundation", "Election 2017", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 I am really excited to stand in election for the 2017 Software Carpentry (SWC) Steering Committee so that I can continue to serve this amazing community.
 
 ##Software Carpentry Involvement

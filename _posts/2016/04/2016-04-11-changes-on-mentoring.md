@@ -6,6 +6,8 @@ date: 2016-04-11
 time: "18:00:00"
 tags: ["Mentoring", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 The first quarter of 2016 is almost over and so far the Mentoring Subcommittee
 have been very quiet although we have continued hosting the post workshop debriefing
 sessions and the pre-workshop helping session.

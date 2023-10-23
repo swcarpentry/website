@@ -7,6 +7,8 @@ time: "12:00:00"
 tags: [ "Community", "Steering Committee", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Thanks to everyone for sharing questions and comments on our recent 
 [Request for Comments](https://github.com/carpentries/2017Merger) 
 regarding the upcoming merger of Software Carpentry and Data Carpentry. 

@@ -7,6 +7,8 @@ time: "00:05:00"
 tags: ["Lessons", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 The [Data Carpentry]({{site.dc_url}}) and [Software Carpentry]({{site.url}}) Steering Committees
 recently approved [a process for supporting [the incubation of new lessons]({{site.baseurl}}/lessons/incubation/).
 The goal is to provide a clear path for creating new material and getting it into the hands of people who can teach it

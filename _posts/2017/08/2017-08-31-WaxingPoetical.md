@@ -7,6 +7,8 @@ time: "20:00:00"
 tags: ["Workshops", "Macquarie University", "Reflections", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Hi everyone! I just finished running my first segment of a [Software Carpentry workshop](https://denubis.github.io/2017-08-31-MacquarieUniversity/). I massively overprepared last evening and my notes for the first four lessons of [unix shell](http://swcarpentry.github.io/shell-novice/) are on [google drive](https://docs.google.com/document/d/1GpKZISA4GP2mxWgkuQbcvXElDKzMO80XqxHbR6RBbGc/edit) if anyone would care to reuse them.
 
 In any case, one of my students (who had audited one of my [other classes](https://www.youtube.com/watch?v=r9jpe9_2z3c)) made the following [tweet](https://twitter.com/pennyjw/status/903048238030139393): "Never heard anyone present fundamental computing concepts so poetically as @DenubisX @swcarpentry #MacquarieUni"

@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: [ "Governance", "Steering Committee", "Elections", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Voting in the election for community governance of the Carpentries 
 (Executive Council, formerly named Steering Committee or Board of Directors) closed last 
 week. Out of the 501 members eligible for voting, 147 ballots were cast (29% turnout). 

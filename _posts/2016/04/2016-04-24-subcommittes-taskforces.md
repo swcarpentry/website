@@ -7,6 +7,8 @@ time: "19:00:00"
 tags: ["Community", "Steering Committee", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ## Purpose and Rationale
 Software Carpentry is volunteer-powered organization that is rapidly growing. One of the greatest things about Software Carpentry is the huge diversity of people that have come together to collaborate, teach, and share ideas and resources. Your contributions to the community have made Software Carpentry a huge success!
 

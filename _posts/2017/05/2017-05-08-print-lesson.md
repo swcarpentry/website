@@ -7,6 +7,8 @@ time: "18:00:00"
 tags: ["Community","Tools","Lessons","Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 From the time that I joined Software Carpentry,
 I remember two feature requests that often showed up on our list of issues.
 The first one was links to help navigate the lessons

@@ -6,6 +6,8 @@ date: 2016-02-02
 time: "06:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 A few days ago,
 we were asked what was the greatest number of simultaneous workshops we'd ever run.
 I didn't know,

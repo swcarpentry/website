@@ -7,6 +7,8 @@ time: "00:08:00"
 tags: ["Instructor Training", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Since we announced yesterday that we are
 [re-opening applications for instructor training]({{site.baseurl}}/blog/2016/07/reopening-instructor-training.html),
 several questions have come in by email and on Twitter.

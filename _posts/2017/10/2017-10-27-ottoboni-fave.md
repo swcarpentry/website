@@ -7,6 +7,8 @@ time: "08:00:00"
 tags: ["Python", "iPython", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 #### My favorite tool is ... IPython.
 
 [IPython](https://ipython.org/) is a Python interpreter with added features that make it an invaluable tool for interactive coding and data exploration. IPython is most commonly taught via the [Jupyter notebook](http://jupyter.org/), an interactive web-based tool for evaluating code, but IPython can be used on its own directly in the terminal as a replacement for the standard Python interpreter.

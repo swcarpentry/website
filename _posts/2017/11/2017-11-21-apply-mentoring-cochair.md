@@ -7,6 +7,8 @@ time: "hh:mm:00"
 tags: [ "Mentoring", "Subcommittees", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Dear Carpentries Community,
 
 How would you like to work first-hand on developing our ever growing instructor pool? A 

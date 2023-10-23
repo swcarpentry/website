@@ -6,6 +6,8 @@ date: 2016-01-02
 time: "10:00:00"
 tags: ["Instructor Training", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 At the end of last year
 [we announced a new checkout procedure for instructor training]({{site.baseurl}}/blog/2015/12/instructor-training-checkout-procedure.html).
 This new procedure has "an hour-long group discussion led by an experienced instructor"

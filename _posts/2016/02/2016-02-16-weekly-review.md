@@ -7,6 +7,8 @@ time: "07:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ##Highlights
 * The [2016 Software Carpentry Foundation Steering Committee election]({{page.baseurl}}/blog/2016/01/election-candidates.html) is on this week. Questions regarding the elections can be addressed to <election@software-carpentry.org>.
 * Daniel Chen has written up a fantasticly informative interview-style post about the [challenges and opportunities associated with running Software Carpentry lessons as university course]({{page.baseurl}}/blog/2016/02/swc-as-a-university-course.html). The post is well-worth the read as there are many different views and ideas that might be relevant in your own context.

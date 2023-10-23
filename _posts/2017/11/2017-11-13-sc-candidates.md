@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: ["Steering Committee", "Candidates", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Three nominations have come in so far for the new 2018 Steering Committee of the merged Carpentries.
 
 The nominations received are from [Juan Steyn](https://software-carpentry.org/blog/2017/11/2018-election-juan-steyn.html) (South Africa), 

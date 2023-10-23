@@ -7,6 +7,8 @@ time: "16:00"
 tags: ["CarpentryCon", "Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Imagine a global community event where Carpentries members and aficionados come together for a short period to exchange experiences, discuss lessons and debate teaching practices. Visualize a space where keynote speeches are closely complemented by community-driven lightning talks, and round-table panels are supported with ad-hoc informal meetings to share stories about challenges and successes. Finally, to complete the picture, consider a number of satellite events, such as social gatherings, carpentry workshops and new lesson developments. Well, this is our vision for CarpentryCon 2018!
  
 During the last meeting of the CarpentryCon task force [(2017-06-04)](https://github.com/carpentries/carpentrycon/blob/master/Minutes/2017-06-04.md), we made several concrete steps towards making this a reality. First and foremost, we started working on a draft [agenda](https://docs.google.com/document/d/1WdYsY7s1dFm9TigDAuIfvfnfLVthTwRsDOn2KIkJl1E/edit#heading=h.dyu4li4jmwfq) for the CarpentryCon event, as well as on a [bid guide](https://docs.google.com/document/d/1iLfRSnRJ_J7laBhFAQsMgjiX_-P5v3BFtQ4f5WaMZQ8/edit) for potential sites to host the event. Primary considerations in both cases were to incorporate the best experiences in conferences so far, as well as attempting to cultivate an informal but informative environment. Finally, we selected new officers for this task force: Mateusz Kuzak and Rayna Harris, after their tireless efforts so far, stepped down and passed on their responsibilities to Fotis Psomopoulos and Malvika Sharan (as chair and secretary respectively).

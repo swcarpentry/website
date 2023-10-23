@@ -7,6 +7,8 @@ time: "23:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ##Highlights
 * Listen to the postcast about  [Research in Action](http://ecampus.oregonstate.edu/research/podcast/e31/) by Dr. Tracy Teal, Executive Director of [Data Carpentry](http://www.datacarpentry.org/).
 

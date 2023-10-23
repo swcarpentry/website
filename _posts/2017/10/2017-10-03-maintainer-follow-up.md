@@ -7,6 +7,8 @@ time: "18:00:00"
 tags: ["Community", "Lessons", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Our [September community call](http://pad.software-carpentry.org/community-call-2017-09-20) on 
 lesson maintenance brought up many good ideas around the lesson maintenance process 
 for Software and Data Carpentry lessons.  If you weren't able to make the call, 

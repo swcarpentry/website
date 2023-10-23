@@ -7,6 +7,8 @@ time: "23:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ##Highlights
 * Have you previously attended a Software Carpentry workshop? Get involved with the [follow-up study]({{site.baseurl}}/blog/2016/06/WorkshopSurvey.html) on "The Efficacy and Usefulness of Software Carpentry Training" by completing a survey. Feedback on your experience will be greatly appreciated! 
 * [Minutes of the Steering Committee Meeting]({{site.baseurl}}/2016/06/steering-committee-minutes.html) is available - suggestions to modify the workflow of the minutes are welcome!

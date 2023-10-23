@@ -7,6 +7,8 @@ time: "16:00:00"
 tags: ["Community","Software Carpentry Foundation","Steering Committee", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Thanks to those of you who attended the May Community Calls, the topic of which was 
 restructuring of Software Carpentry (SWC) and Data Carpentry (DC) into a single unified 
 (umbrella) organization, with SWC and DC continuing as lesson organizations within the 

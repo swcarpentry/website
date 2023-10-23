@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: ["Statistics", "R","RStudio", "Shiny", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 My favorite tool is [RStudio](https://www.rstudio.com/). This integrated development environment (IDE) is really a force multiplier for data analysis and reporting.
 
 RStudio provides an excellent interface to the R programming language (that much should be obvious). However, it is _much_ more than that. This application affords me easy workflows and shortcuts to interact with most of the other tools that I regularly use. These include:

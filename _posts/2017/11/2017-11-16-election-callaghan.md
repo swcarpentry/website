@@ -7,6 +7,8 @@ time: "09:00:00"
 tags: ["Steering Committee", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ## 2018 Election: Martin Callaghan
 
 ### So, who are you?

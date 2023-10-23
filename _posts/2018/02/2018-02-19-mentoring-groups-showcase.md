@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: ["Community", "Mentoring", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 We just finished our second round of mentoring groups and had an amazing showcase of their work and ideas. In this round, we were more specific and focused on multiple topic areas. There were groups on community building, lesson maintenance, and preparing for instructor checkout.
  
 The feedback and outcomes were great! Participants were able to focus on specific goals, including teaching their first workshop and developing new lesson contribution material. Being part of a group that addressed something important to them, (e.g. developing new communities in Japan and Singapore), made the mentoring groups powerful and enjoyable. 

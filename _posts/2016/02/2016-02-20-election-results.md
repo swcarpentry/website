@@ -7,6 +7,8 @@ time: "14:04:00"
 tags: ["Community","Steering Committee", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 The results are in. Your 2016 steering committee, in alphabetical order by last name is:
 
 * Rayna Harris

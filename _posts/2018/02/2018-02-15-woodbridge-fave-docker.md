@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: [ "Research tools", "Virtualization", "Containers", "Software Testing", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ### What kind of tool is it?
 [Docker](https://www.docker.com/) is a virtualization tool.
 

@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: [ "Community calls", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 When Carpentries staff get a win, we call it a **#greensticky**. These are things to celebrate with a resounding 'Yay!' 
 
 So we decided to turn our regular December community call (our last for the year) into a **Happy Holidays GreenSticky Party**.

@@ -7,6 +7,8 @@ time: "15:00:00"
 tags: ["Lessons", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
  Software Carpentry is more than just a set of workshops and lessons. It is
  also a way to develop lessons, one that we have used successfully to create
  a lesson on [Programming with GAP](http://alex-konovalov.github.io/gap-lesson/).

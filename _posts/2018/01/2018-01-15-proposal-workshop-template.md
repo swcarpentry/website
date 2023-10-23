@@ -7,6 +7,8 @@ time: "10:00:00"
 tags: ["Workshops", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Over the last couple of years,
 many emails and issues on GitHub
 requested moving the setup instructions in the Workshop Template to a separate page

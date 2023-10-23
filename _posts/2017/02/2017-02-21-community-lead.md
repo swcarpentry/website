@@ -8,6 +8,8 @@ authors: ["Tracy Teal", "Jonah Duckles"]
 tags: ["Community", "Jobs", "Team", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 [Software Carpentry and Data Carpentry are hiring a Community Development Lead!](http://www.software-carpentry.org/jobs/)
 
 We are excited to announce a position as a full-time staff member to lead community development activities! Software and Data Carpentry have an active global community of researchers, volunteers, learners and member organizations. This person will cultivate and grow this community, developing communication strategies and opportunities for the community to connect with and support each other. You will become an active member of our team of staff and will work with people around the world to advance our mission of building a community teaching digital research skills to make research more productive and reproducible.

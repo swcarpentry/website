@@ -6,6 +6,8 @@ date: 2016-01-14
 time: "09:30:00"
 tags: ["Steering Committee", "Election 2016", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 My name is Dhavide Aruliah. I am standing for election to the Steering Committee of Software Carpentry for 2016.
 
 ## Who am I?

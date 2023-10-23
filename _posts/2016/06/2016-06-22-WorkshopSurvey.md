@@ -6,6 +6,8 @@ date: 2016-06-22
 time: "00:00:01"
 tags: ["Surveys", "Workshops", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 ## Calling all Software Carpentry workshop attendees! 
 
 I’d like 10 minutes of your time to complete a 

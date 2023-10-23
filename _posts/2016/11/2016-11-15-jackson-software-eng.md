@@ -7,6 +7,8 @@ time: "10:00:00"
 tags: ["Jobs", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 A scientific software engineer position is available immediately at The [Jackson Laboratory](http://www.jax.org) in
 Bar Harbor, ME. This position reports to the Associate Director of Jackson’s Computational Sciences Scientific
 Computing (CSSC) team that is primarily responsible for developing software applications for scientific research

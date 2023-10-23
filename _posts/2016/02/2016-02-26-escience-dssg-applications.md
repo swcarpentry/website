@@ -7,6 +7,8 @@ time: "10:00:00"
 tags: ["Jobs", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 The [University of Washington eScience Institute](http://escience.washington.edu/), in collaboration with
 [Urban@UW](http://urban.uw.edu/) and Microsoft, is excited to announce the 2016
 Data Science for Social Good (DSSG) summer program. The program brings together

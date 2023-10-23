@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: [ "Belinda Weaver", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Dear members of our community, we need your help.
 
 Most of you probably know that our inaugural [CarpentryCon](http://www.carpentrycon.org/)  will take place from 30 May - 1 June, 2018 at [University College Dublin](https://www.ucd.ie/).

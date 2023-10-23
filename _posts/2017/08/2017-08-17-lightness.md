@@ -7,6 +7,8 @@ time: "00:00"
 tags: ["Instructor training", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Also, there's this [thing at UCLA](https://ucla-data-archive.github.io/2017-09-08-ucla/) going on September 7-8 ...
 
 Greetings, my [Library Carpentry](https://librarycarpentry.github.io) community peeps! 

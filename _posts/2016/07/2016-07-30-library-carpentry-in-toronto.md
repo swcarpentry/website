@@ -7,6 +7,8 @@ time: "00:08:00"
 tags: ["Library Carpentry", "Workshops", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 On July 28-29, a group of volunteers from the University of Toronto's libraries
 ran a two-day workshop for thirty-five of their fellow librarians.
 People came from as far away as Sudbury, Ottawa, New York City, and even Oregon

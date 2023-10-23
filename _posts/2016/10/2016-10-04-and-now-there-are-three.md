@@ -7,6 +7,8 @@ time: "07:45:00"
 tags: ["Book Review", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 A new book has just been published that covers much of the same material as Software Carpentry,
 and a great deal more:
 Paarsch and Golyaev's

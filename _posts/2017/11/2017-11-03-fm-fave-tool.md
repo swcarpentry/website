@@ -7,6 +7,8 @@ time: "18:00:00"
 tags: ["Emacs", "Text editors", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 My favorite tool is [Emacs](https://www.gnu.org/software/emacs/).
 
 Emacs provides an extensible and unified framework to access nice interfaces to several other tools. 

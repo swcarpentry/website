@@ -6,6 +6,8 @@ date: 2016-01-29
 time: "06:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 Our instructors teach a lot more than just Software Carpentry.
 For example,
 [Christie Bahlai]({{site.baseurl}}/team/#bahlai_christie) has started teaching a course on

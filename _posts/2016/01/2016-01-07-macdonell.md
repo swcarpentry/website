@@ -6,6 +6,8 @@ date: 2016-01-08
 time: "08:00:00"
 tags: ["Steering Committee", "Election 2016", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 Background & SWC Involvement
 ----------
 

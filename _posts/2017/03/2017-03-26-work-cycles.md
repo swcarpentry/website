@@ -7,6 +7,8 @@ time: "10:00:00"
 tags: ["Staff", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 We’re wrapping up our first work cycle! Here’s what we accomplished over the past six weeks and what we’re
 still working on. To help with any of these projects, please [get in touch](mailto:ebecker@datacarpentry.org)!
 

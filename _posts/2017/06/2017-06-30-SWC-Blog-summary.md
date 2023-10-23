@@ -7,6 +7,8 @@ time: "23:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ## Highlights
 * The [reorganization timeline]({{site.baseurl}}/blog/2017/06/merger.html) has been drafted and awaiting approval from the respective steering committees.
 * Learn about the [HPC-in-a-day]({{site.baseurl}}/blog/2017/06/hpccarpentry.html) course that brings the fun back to HPC.

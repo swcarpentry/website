@@ -6,6 +6,8 @@ authors: ["Greg Wilson"]
 title: How Much Of This Should Scientists Understand?
 tags: ["Content", "Opinion", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 <p>Let's start with the problem description:</p>
 <blockquote><p>All of the Software Carpentry course material (including lecture notes, code samples, data files, and images) is stored in a Subversion repository. That's currently hosted at the University of Toronto, but I'd like to move it to the software-carpentry.org domain (along with this blog). However, software-carpentry.org is hosted with site5.com, who only provide one shell account per domain for cheap accounts like the one I bought.</p>
 <p>Why is this a problem? Because when someone wants to commit to the repository, they have to authenticate themselves. I <em>could</em> let everyone who's writing material for the course share a single user ID and password, but that would be an administration nightmare (as well as a security risk). Site5 does have a <a href="http://wiki.site5.com/SVN/Subversion_%28SVN%29_Setup_Guide#Configure_authorization">workaround</a> based on public/private keys, but it's fairly complicated&mdash;i.e., it could break in lots of hard-to-diagnose ways. Another option would be to use the mod_dav_svn plugin for Apache, but Site5 doesn't support per-domain Apache modules either. Dreamhost.com does, so I may be switching hosts in a few weeks.</p></blockquote>

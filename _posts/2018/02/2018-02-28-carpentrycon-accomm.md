@@ -7,6 +7,8 @@ time: "0:00:00"
 tags: [ "CarpentryCon", "Accommodation", "Conferences", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ## Hotel Accommodation for CarpentryCon 2018
 
 We have two hotel options for you for [CarpentryCon 2018](http://www.carpentrycon.org/). Both hotels are offering us a special CarpentryCon rate. 

@@ -7,6 +7,8 @@ time: "09:00:00"
 tags: ["Python", "IPython", "Jupyter", "Teaching", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 #### My favorite tool is ... the Jupyter Notebook.
 
 One of my favourite tools is the [Jupyter notebook](http://jupyter.org/). I use it for teaching my students scientific 

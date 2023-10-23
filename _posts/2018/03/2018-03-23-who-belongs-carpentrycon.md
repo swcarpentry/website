@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: [ "Events", "Community", "CarpentryCon", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 [CarpentryCon 2018](http://www.carpentrycon.org/) will be the key community building event in the Carpentries' annual calendar. To 
 be held in Dublin from 30 May - 1 June, 2018, CarpentryCon will be three action-packed days of skill ups, 
 breakout sessions, talks, social events (there will be a conference dinner), and workshops.

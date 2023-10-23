@@ -7,6 +7,8 @@ time: "23:00:00"
 tags: ["Instructor Training", "Africa", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 One of the main goals of our community is to make Software and Data Carpentry workshops accessible for all researchers from all disciplines and all regions of the world. In the past three years workshops in South Africa and other African countries have started gradually picking up and I think we may soon see exponential growth!
 
 This has been made possible thanks to a lot of effort and hard work from a number of amazing people, including Anelda van der Walt. In 2014 we realised that the biggest obstacle to running workshops in Africa, was the lack of qualified trainers on the continent.  Since then we’ve put significant focus on building a local instructor pool to enable research organisations in the region to run Software and Data Carpentry training. In 2015 several instructors were trained online. Last year North West University at Potchefstroom hosted the first in-person Instructor Training with attendees from South Africa and other African countries. Just last week, between 30th April and 2nd May, we (Anelda, Kari Jordan and Aleksandra Pawlik) ran another [Instructor Training in Cape Town](https://nwu-eresearch.github.io/2017-04-30-eResearchAfrica-ttt/) with 28 participants.

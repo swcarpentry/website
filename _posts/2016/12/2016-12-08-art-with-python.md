@@ -7,6 +7,8 @@ time: "00:10:00"
 tags: ["Community", "Art", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 This March I signed up for a Software Carpentry class and learned Python for the first time. I had a great time at the workshop, and I wanted to share one of the first Python projects I completed thanks to Software Carpentry. 
 
 I originally signed up for the workshop for my PhD research in mosquito behavior. I needed to automate some video analysis tasks, and several friends recommended learning Python. I ended up making the video analysis work (thanks Software Carpentry!), but this blog is actually about a Python art project that I worked on right after finishing the class.

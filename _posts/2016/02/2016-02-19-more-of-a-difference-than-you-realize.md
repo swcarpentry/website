@@ -6,6 +6,8 @@ date: 2016-02-19
 time: "04:00:00"
 tags: ["Workshops", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 We received this after an online instructor training workshop earlier this week,
 which reminded me that small differences for some people
 can be large ones for others:

@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: ["Trainers", "Training", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 As the Carpentry community continues to grow, our instructor training is increasingly in demand! In September,
 we welcomed 13 new Instructor Trainers who will help us to meet that need. We 
 are now [accepting applications](https://docs.google.com/forms/d/e/1FAIpQLSe5rbZDqNdLIuIEw9wNrXWsGexKaSS7vwkc0HaxdBGh5M7ZPQ/viewform) 

@@ -7,6 +7,8 @@ time: "00:00:01"
 tags: ["Workshops", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Brisbane and Toowoomba are 125 km apart in Queensland. Software Carpentry workshops were held in both cities 
 a week apart (11-12 July and 18-19 July). I taught at both.
 

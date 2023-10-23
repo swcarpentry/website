@@ -6,6 +6,8 @@ date: 2016-06-22
 time: "00:00:01"
 tags: ["Workshops", "Library Carpentry", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 ## Teaching Library Carpentry 
 
 I ran a two-day 'Library Carpentry' [workshop](http://weaverbel.github.io/2016-06-13-LibCarp/index.html) for librarians at [The University of Queensland](http://www.uq/edu.au/) on 13-14 June. The class covered

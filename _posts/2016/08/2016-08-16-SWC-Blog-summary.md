@@ -7,6 +7,8 @@ time: "23:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ##Highlights
 * Dr. Kari L. Jordan has been appointed as Data Carpentry's new [Deputy Director]({{site.baseurl}}/blog/2016/08/data-carpentry-assessment-director.html) of Assessment.
 * Join the Policy Subcommittee and/or provide feedback on the [Reporting Guide]({{site.baseurl}}/blog/2016/08/code-of-conduct.html) for handling potential Code of Conduct Violations.

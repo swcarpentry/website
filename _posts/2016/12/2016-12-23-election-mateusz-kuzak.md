@@ -7,6 +7,8 @@ time: "12:00:00"
 tags: ["Software Carpentry Foundation", "Election 2017", "Steering Committee", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Hi, I’m standing up for election to the Software Carpentry Steering
 Committee 2017.
 

@@ -7,6 +7,8 @@ time: "11:30:00"
 tags: ["Noticed", "Open Science Grid", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 If you could access hundreds or thousands of computers for your scholarly work, what could you do? 
 
 How could it transform your work?

@@ -6,6 +6,8 @@ date: 2016-03-08
 time: "06:50:00"
 tags: ["Instructor Training", "Mentoring", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 Instructor training is one way we grow our community worldwide. Yet many people who
 go through instructor training never go on to teach at a Software Carpentry workshop. Can that be fixed? I suggest that
 shepherding people though the final stages might help with completion rates.

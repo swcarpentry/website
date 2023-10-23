@@ -7,6 +7,8 @@ time: "00:00:01"
 tags: ["Instructor Training", "Careers", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 You've heard how Software Carpentry is important not only to get your research done but also to make it better and thus
 more likely to be published.
 

@@ -7,6 +7,8 @@ time: "16:00"
 tags: ["Workshops", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 We're excited to announce Belinda Weaver has accepted our offer to become the
 Community Development Lead. Belinda will join the Carpentries staff later this
 month, please give her a warm and enthusiastic community welcome!

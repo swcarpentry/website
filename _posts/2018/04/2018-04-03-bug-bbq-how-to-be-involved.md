@@ -11,6 +11,8 @@ authors: ["François Michonneau"]
 tags: ["Contributing", "Community", "Bug BBQ", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ## Remind me...
 
 ### When is the Bug BBQ?

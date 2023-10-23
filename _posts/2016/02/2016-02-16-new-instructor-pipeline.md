@@ -6,6 +6,8 @@ date: 2016-02-16
 time: "06:00:00"
 tags: ["Instructor Training", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 Last fall,
 we decided to [reboot]({{site.baseurl}}/blog/2015/09/rebooting-instructor-training.html)
 our [instructor training course]({{site.github_io_url}}/instructor-training/).

@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: [ "Community", "Library Carpentry", "Librarians", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 We are excited to announce that [Chris Erdmann](https://twitter.com/libcce) has been hired as 
 the [Library Carpentry Community and Development Director](http://uc3.cdlib.org/2017/11/06/skills-training-for-librarians-expanding-library-carpentry/) starting May 4, 2018. 
 

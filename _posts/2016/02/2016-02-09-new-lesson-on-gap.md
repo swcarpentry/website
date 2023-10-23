@@ -6,6 +6,8 @@ date: 2016-02-09
 time: "01:00:00"
 tags: ["Lessons", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 We are pleased to announce that
 [Alex Konovalov](http://blogs.cs.st-andrews.ac.uk/alexk/) and his colleagues
 have created a Software Carpentry-style lesson on

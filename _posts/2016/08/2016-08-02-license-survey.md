@@ -7,6 +7,8 @@ time: "00:02:30"
 tags: ["Research", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 You are invited to participate in a survey on software licensing
 designed to investigate how well software developers understand common
 open source software licenses. We are looking for software developers

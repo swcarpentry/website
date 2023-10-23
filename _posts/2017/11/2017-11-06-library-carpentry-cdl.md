@@ -7,6 +7,8 @@ time: "00:08:00"
 tags: ["Community", "Library Carpentry", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 
 **Post from the [University of California Curation Center](http://uc3.cdlib.org/2017/11/06/skills-training-for-librarians-expanding-library-carpentry/) of the California Digital Library**
 

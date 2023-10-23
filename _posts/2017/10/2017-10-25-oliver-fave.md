@@ -7,6 +7,8 @@ time: "06:00:00"
 tags: ["Version control", "Tools", "Git", "GitHub", "Best practices", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 #### My favorite tool is ...
 
 I love [Git](https://git-scm.com/) and [GitHub](https://github.com).

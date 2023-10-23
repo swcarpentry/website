@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 I am very pleased to be starting as the new Community Development Lead for Software and Data Carpentry. Building communities, 
 helping people connect, fostering skills and learning, brokering solutions - these are the 
 things that drive me. 

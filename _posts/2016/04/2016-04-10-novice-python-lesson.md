@@ -7,6 +7,8 @@ time: "05:00:00"
 tags: ["Lessons", "Python", "Teaching", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Last November,
 I volunteered to pull together a new full-day lesson on Python suitable for people with no previous programming experience.
 It has taken longer to come together than I expected,

@@ -7,6 +7,8 @@ time: "00:01:00"
 tags: ["Lessons", "Research", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 I have recently been reading and enjoying
 a new paper by Michael Kölling and Fraser McKay titled
 "[Heuristic Evaluation for Novice Programming Systems](https://kar.kent.ac.uk/55885/1/kolling-heuristics-submitted.pdf)".

@@ -7,6 +7,8 @@ time: "16:00:00"
 tags: ["Jobs", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 We're looking for someone with IT skills, and interests in teaching and
 physics, to work with us at the Department of Physics and Astronomy at
 UCL (University College London).

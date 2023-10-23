@@ -8,6 +8,8 @@ authors: ["Kari L. Jordan"]
 tags: ["surveys", "workshops", "impact", "assessment", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 We've begun to look at our pre- and post- workshop surveys and are sharing the draft reports to stimulate conversation about 
 our workshops and their impacts on learners. For this first cut, we looked at our post-workshop survey data. 
 

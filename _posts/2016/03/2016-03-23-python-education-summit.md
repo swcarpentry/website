@@ -7,6 +7,8 @@ time: "13:30:00"
 tags: ["Python", "Education", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 The Python Education Summit is a gathering of educators from all venues (school, colleges, universities, community workshops, online courses, government) that share interest and passion in teaching Python.
 It is an interesting opportunity for Software Carpentry instructors to get inspiration and tips from educators in completely different contexts.
 

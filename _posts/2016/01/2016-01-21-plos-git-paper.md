@@ -6,6 +6,8 @@ date: 2016-01-21
 time: "05:00:00"
 tags: ["Noticed", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 Our short paper
 "A Quick Introduction to Version Control with Git and GitHub"
 has been [published in PLOS Computational Biology](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668).

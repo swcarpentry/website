@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: [ "Library Carpentry", "Governance", "Community Building", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Eight of us from Australia, the UK, the US, Canada, and South Africa met last week via zoom to discuss taking 
 the [Library Carpentry](https://github.com/LibraryCarpentry) project forward.
 

@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: [ "Community", "Mentoring", "Community Building", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ### We're starting a new round of mentoring groups, centered on specific lessons
 
 Mentorship is an important part of the Carpentry experience. As Instructors, we both teach and mentor our Learners. We also mentor each other as Instructors, learning something new from each other every time we teach and interact with one another. The Mentoring Subcommittee offers guidance to new and continuing Instructors through [weekly discussion sessions](http://pad.software-carpentry.org/instructor-discussion), where Instructors from the global Carpentry community gather to share their experiences and learn from each other. This is a fantastic opportunity to interact with other Carpentry Instructors from around the world. 

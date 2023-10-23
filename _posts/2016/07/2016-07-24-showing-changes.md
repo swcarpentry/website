@@ -7,6 +7,8 @@ time: "00:07:00"
 tags: ["Teaching", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 A key - but challenging - part of learning to program is moving from
 writing technically-correct code "that works" to writing high-quality
 code that is sensibly decomposed into functions,

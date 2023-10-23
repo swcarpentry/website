@@ -6,6 +6,8 @@ date: 2016-01-09
 time: "07:00:00"
 tags: ["Research", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 I recently had a chance to catch up with this paper from 2014:
 
 > Neil C. C. Brown and Amjad Altadmri:

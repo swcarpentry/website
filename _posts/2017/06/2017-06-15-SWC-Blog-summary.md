@@ -7,6 +7,8 @@ time: "22:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ## Highlights
 
 * The Carpentries might look a bit [different]({{site.baseurl}}/blog/2017/05/may-cc-report.html) in future.

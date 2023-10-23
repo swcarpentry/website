@@ -7,6 +7,8 @@ time: "16:00"
 tags: ["Steering Committee", "Community", "Data Carpentry", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 I am happy to announce that the Steering Committees of both Software Carpentry and Data Carpentry have approved 4 motions regarding the structure and leadership of the mergered Carpentries organization. The approved motions are: 
 
 ## Motion 1

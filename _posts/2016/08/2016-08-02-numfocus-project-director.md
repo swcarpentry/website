@@ -7,6 +7,8 @@ time: "00:02:00"
 tags: ["Jobs", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 [NumFOCUS](http://numfocus.org) (the organization which shelters
 Software Carpentry, Data Carpentry, and several other open science
 projects) is seeking to hire a full-time Projects Director to develop

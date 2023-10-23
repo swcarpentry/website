@@ -7,6 +7,8 @@ time: "16:00:00"
 tags: ["Steering Committee", "Election 2016", "Software Carpentry Foundation", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ##Background
 
 My training is in Materials Science and Engineering and I have done both

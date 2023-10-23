@@ -7,6 +7,8 @@ time: "06:00:00"
 tags: ["conferences", "workshops", "r", "satRday", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 satRdays are community-led, regional conferences to support collaboration, networking and innovation within the R community.
 
 satRdays are the brainchild of [Stephanie Locke](https://twitter.com/stefflocke), and were inspired to a large extent [by the success of SQLSaturdays](https://itsalocke.com/blog/sqlsaturdays-but-for-r/). SQLSaturdays focus on developing technical knowledge around SQL Server and related technologies. The first SQLSaturday was held in 2007, and there are now well over 100 events across the globe.

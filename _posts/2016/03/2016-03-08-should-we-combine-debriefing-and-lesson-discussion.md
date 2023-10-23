@@ -6,6 +6,8 @@ date: 2016-03-08
 time: "10:00:00"
 tags: ["Instructor Training", "Mentoring", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 Belinda Weaver recently posted
 [a proposal for helping instructor trainees finish]({{site.baseurl}}/blog/2016/03/proposal-instructor-trainees.html).
 While reading her post

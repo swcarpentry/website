@@ -7,6 +7,8 @@ time: "23:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ##Highlights: Steering Committee Election
 * The [2016 Software Carpentry Foundation Steering Committee election]({{page.baseurl}}/blog/2016/01/election-candidates.html) dates are set for February 15-19. Remember to join our Community Lab Meeting on 9 February to meet the candidates. 
 * Read more about the candidates for the 2016 elections by following the links below:

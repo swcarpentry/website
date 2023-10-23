@@ -7,6 +7,8 @@ time: "05:30:00"
 tags: ["Instructor Training", "Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 For the first four months of this year, we ran hour-long lesson
 discussion sessions to give people going through instructor training a
 chance to ask questions of people who had taught our material several

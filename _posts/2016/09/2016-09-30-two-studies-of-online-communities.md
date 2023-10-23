@@ -7,6 +7,8 @@ time: "00:07:00"
 tags: ["Research", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Two recent papers may be of interest to this community.  The first is
 from Adam Crymble at [The Programming
 Historian](http://programminghistorian.org) a distributed group of

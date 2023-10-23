@@ -7,6 +7,8 @@ time: "23:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ## Highlights
 * All the details on the [joint future of the Carpentries]({{site.baseurl}}/blog/2017/09/merger.html) explained. Please feel free to ask any questions that you need answered.
 * The very [first ever Data Carpentry]({{site.baseurl}}/blog/2017/09/ethiopia.html) in Ethiopia was held and it was an extraordinary experience.

@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: [ "Community", "Community Building", "Conferences", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ### What is CarpentryCon?
 
 CarpentryCon aspires to become a major learning, skill-building and networking event for our global Carpentries community. We want to help Carpenters develop the skills they need to get the careers they want. We want to help them create supportive local communities based on our values of openness and sharing. We also want to give newcomers the chance to network with more experienced people in our community, so that a range of hard-won knowledge can be passed along to a new generation of leaders.

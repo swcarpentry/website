@@ -7,6 +7,8 @@ time: "00:15:30"
 tags: ["Community", "Assessment", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Dr. Beth Duckles,
 who did [a valuable study of our instructor community]({{site.url}}/blog/2016/01/instructor-survey.html)
 earlier this year,

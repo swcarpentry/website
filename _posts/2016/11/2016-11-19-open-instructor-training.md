@@ -7,6 +7,8 @@ time: "10:00:00"
 tags: ["Instructor Training", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 *(Originally posted on [the Data Carpentry blog]({{site.dc_url}}/blog/open-instructor-training/).)*
 
 After workshops and conferences, we frequently get questions from people who are interested in teaching with the

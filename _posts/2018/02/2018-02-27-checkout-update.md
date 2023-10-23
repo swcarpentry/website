@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: ["Instructors", "Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 This blog post is the second in a series examining the roles and contributions of the different parts of the Carpentry community. In case you missed it - read the [first post](http://www.datacarpentry.org/blog/maintainer-report/) in this series, about Maintainers.
 
 Carpentry Instructors are the core of our community. Without Instructors, there would be no workshops. Because of the vital role that Instructors play in advancing the Carpentry mission, we as a community take preparing Instructors very seriously. Before becoming certified Instructors, trainees must show familiarity with our curriculum, demonstrate their teaching skills (with a focus on the [Carpentry pedagogical model](http://carpentries.github.io/instructor-training/02-practice-learning/#the-carpentries-pedagogical-model)), and interact with the broader Carpentry community. Software Carpentry Instructors also need to demonstrate familiarity with Git and GitHub.

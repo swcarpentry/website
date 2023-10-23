@@ -7,6 +7,8 @@ time: "15:00:00"
 tags: ["Software Carpentry Foundation", "Election 2016", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ## Meet Bill
 
 I'm Bill Mills, a scientific software developer based in Vancouver, Canada, currently spearheading web development for the GRIFFIN collaboration at TRIUMF.

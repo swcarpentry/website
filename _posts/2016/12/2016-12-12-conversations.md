@@ -7,6 +7,8 @@ time: "00:10:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Software and Data Carpentry have at their core a collaboration-driven ethos, and communication is key to that collaboration. 
 We’re reaffirming our commitment to open and transparent communication, because we know we can do better! We want to give community 
 members opportunities to talk to each other, staff and Steering Committees, to get updates on efforts and activities and to generate ideas 

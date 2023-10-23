@@ -7,6 +7,8 @@ time: "23:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ##Highlights
 * Our [new steering committee]({{page.baseurl}}/blog/2016/02/election-results.html) has been elected. Congratulations to Rayna Harris, Kate Hertweck, Karin Lagesen, Bill Mills, Raniere Silva, Belinda Weaver, and Jason Williams!
 * Looking for a good model to show potentially interested stakeholders [what value Software Carpentry brings]({{page.baseurl}}/blog/2016/03/venn-diagram.html)? Jonah Duckles, our executive director, shared his views. Let us know how we can improve on this? 

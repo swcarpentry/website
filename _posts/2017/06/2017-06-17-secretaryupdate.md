@@ -7,6 +7,8 @@ time: "08:00"
 tags: ["Steering Committee", "Community", "Software Carpentry Foundation", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 After 6 months, I feel that I'm settling into my role as Software Carpentry Steering Committee Secretary. 
 In an effort to improve communication and transparency between the Steering Committee and everyone else, 
 I am commiting to writing or co-writing a montly blog post to keep you abreast on news from each meetings. 

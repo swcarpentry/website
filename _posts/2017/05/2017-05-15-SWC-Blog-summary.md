@@ -7,6 +7,8 @@ time: "23:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ##Highlights
 * [Printing]({{site.baseurl}}/blog/2017/05/print-lesson.html) our lessons has never been easier!
 * Sign up for the community call about the [restructuring of the carpentries]({{site.baseurl}}/blog/2017/05/may-community-call.html).

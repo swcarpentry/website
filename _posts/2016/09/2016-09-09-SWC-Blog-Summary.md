@@ -7,6 +7,8 @@ time: "23:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ##Highlights
 * We are amending the steering committee [election procedures]({{site.baseurl}}/blog/2016/09/election-procedures.html).
 * Some members of our community co-authored [research papers]({{site.baseurl}}/blog/2016/09/feedback-on-two-papers.html), and would appreciate some feedback.

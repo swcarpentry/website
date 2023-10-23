@@ -7,6 +7,8 @@ time: "07:00:00"
 tags: ["Community", "Programming Historian", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Our process for developing and maintaining lessons has grown and changed over time.
 Simultaneously but separately,
 an organization called [the Programming Historian](http://programminghistorian.org)

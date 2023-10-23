@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: ["Conferences", "Research Software Engineers", "RSE", "Research Software", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ![RSE Sheffield in the 2nd RSE conference](http://rse.shef.ac.uk/images/RSE17.jpg)
 
 The second RSE conference took place on the 7th and 8th of September 2017 at the Museum of Science and Industry ([MOSI](https://www.msimanchester.org.uk/)). There were over 200 attendees, 40 talks, 15 workshops, 3 keynote talks, one of which was given by our very own head honcho Mike Croucher ([slides here](https://mikecroucher.github.io/RSE_2017_keynote_presentation/)), and geeky chats galore.

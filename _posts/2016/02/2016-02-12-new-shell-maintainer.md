@@ -7,6 +7,8 @@ time: "00:30:00"
 tags: ["Community", "Lessons", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 After an application and selection process, Ashwin Srinath has been selected 
 as a new co-maintainer of the [Unix Shell]({{site.github_io_url}}/shell-novice) lesson, 
 joining Gabriel Devenyi and replacing outgoing maintainer Christina Koch.  

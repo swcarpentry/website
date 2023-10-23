@@ -7,6 +7,8 @@ time: "22:00:00"
 tags: ["Steering Committee", "Election 2017", "Software Carpentry Foundation", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 I'm pleased to announce our new steering committee for 2017.
 
 

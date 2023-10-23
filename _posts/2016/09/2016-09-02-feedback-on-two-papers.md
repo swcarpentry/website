@@ -7,6 +7,8 @@ time: "00:18:00"
 tags: ["Research", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 We would be very grateful for feedback on two papers co-authored by members of our community:
 
 *   Taschuk & Wilson: "[Ten Simple Rules for Making Research Software More Robust](http://oicr-gsi.github.io/robust-paper/)".

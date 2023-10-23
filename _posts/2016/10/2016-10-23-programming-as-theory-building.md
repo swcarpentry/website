@@ -7,6 +7,8 @@ time: "05:00:00"
 tags: ["Opinion", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 I was recently reminded of a thought-provoking but often-overlooked essay by Peter Naur from 1985
 called "Programming as Theory Building"
 ([scan here](http://pages.cs.wisc.edu/~remzi/Naur.pdf), [plain text here](http://www.dc.uba.ar/materias/plp/cursos/material/programmingAsTheoryBuilding)).

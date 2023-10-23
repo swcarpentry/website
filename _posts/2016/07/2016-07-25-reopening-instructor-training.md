@@ -7,6 +7,8 @@ time: "00:04:00"
 tags: ["Instructor Training", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 For the last ten months,
 the Software Carpentry Foundation has worked toward three goals
 for its instructor training program:

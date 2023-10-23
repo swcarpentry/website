@@ -7,6 +7,8 @@ time: "13:00:00"
 tags: ["Events", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ## Software Carpentry is having a Bug BBQ on June 13th
 
 Software Carpentry is aiming to ship a new version (5.4) of the Software Carpentry lessons 

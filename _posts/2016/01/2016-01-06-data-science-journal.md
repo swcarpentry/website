@@ -6,6 +6,8 @@ date: 2016-01-06
 time: "02:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 The [Data Science Journal](http://datascience.codata.org/) is,
 as its title suggests,
 a journal dedicated to the advancement of data science.

@@ -7,6 +7,8 @@ time: "12:30:00"
 tags: ["rOpenSci", "Jobs", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Thanks to their recent funding,
 [rOpenSci](http://ropensci.org/) is now looking for a community manager.
 Their mission is to expand access to scientific data

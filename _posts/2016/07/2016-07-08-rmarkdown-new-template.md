@@ -6,6 +6,8 @@ date: 2016-07-08
 tags: ["Tooling", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Our lesson template is getting a face-lift.  Actually, it is a lot more than
 that: all the internal mechanics are also affected.
 

@@ -6,6 +6,8 @@ date: 2016-01-03
 time: "01:00:00"
 tags: ["Noticed", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 People who are interested in integrating Data Carpentry and Software Carpentry ideas into the undergraduate curriculum may enjoy reading
 Anderson et al's paper "A Data Programming CS1 Course"
 (*SIGCSE'15*, http://dx.doi.org/10.1145/2676723.2677309).

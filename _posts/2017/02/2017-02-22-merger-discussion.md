@@ -7,6 +7,8 @@ time: "14:30"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Newcomers to our community frequently request clarification regarding the 
 distinction between Software Carpentry (SWC) and Data Carpentry (DC). SWC 
 and DC are two independently established and operated organizations that 

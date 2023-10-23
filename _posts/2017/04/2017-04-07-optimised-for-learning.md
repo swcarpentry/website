@@ -6,6 +6,8 @@ date: 2017-04-07
 time: "23:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 In 2014 I fell in love with Software Carpentry. I wasn’t quite sure what it was that was *that* appealing about the workshops, but I knew we had to run more of these in South Africa.
 
 I had been following the activities and blogs of Software Carpentry since 2012 when I started working at a next generation sequencing (NGS) facility as lead (only) bioinformatician. Working with our clients I found that most of them had no idea how to deal with NGS data and very often didn’t know how/where to access computing infrastructure that would allow them to analyse their data.

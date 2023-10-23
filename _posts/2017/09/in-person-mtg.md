@@ -7,6 +7,8 @@ time: "06:00:00"
 tags: [ "Staff Meetings", "Strategic Planning", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 The Software and Data Carpentry staff teams met for a two-day in-person meeting on 12-13 September in Davis, California. This was a very productive meeting - more on this below - and it also provided some staff the opportunity to meet others face-to-face for the first time. The team is geographically scattered with staff in the US, Australia and New Zealand. At the meeting, we welcomed new Workshop Administrator [SherAaron Hurt](http://www.datacarpentry.org/blog/announce-sheraaron/), [Business Administrator Elizabeth Williams, and Deputy Director of Instructor Training Karen Word](http://www.datacarpentry.org/blog/new-staff-intro/) (all part-timers) to what will be a merged staff team from 2018, when the [planned merger](http://www.datacarpentry.org/blog/merger/) of the two Carpentries will be complete.
 
 While we are a small team, and thus are limited in what we can achieve, we all see our main role as supporting our community. We want to make it easier for people to participate in everything we do in the Carpentries and to allow them to contribute to that work in any way they can. Accordingly, our meeting focused a lot on ways to foster engagement, remove roadblocks, streamline processes, and recognise the valuable work people do, whether it be  teaching, organizing workshops, lesson maintenance, mentoring, or serving on task forces and sub-committees.

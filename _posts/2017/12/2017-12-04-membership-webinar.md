@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: [ "Webinars", "Membership", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 [Organizational memberships](https://software-carpentry.org/membership/) are a great way to build your local Carpentries' instructor community.
 
 Members organizations can run Software and Data Carpentry workshops more often, and can organize workshops for specific communities within their institution. 

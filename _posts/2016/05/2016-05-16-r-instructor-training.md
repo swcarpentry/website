@@ -6,6 +6,8 @@ date: 2016-05-16
 time: "12:00:00"
 tags: ["Instructor Training", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 Thanks to generous sponsorship from the [R Consortium](https://www.r-consortium.org/),
 Software Carpentry is running a two-day R instructor training class
 in Cambridge, UK, on September 19-20, 2016.

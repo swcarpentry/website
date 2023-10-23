@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: ["Governance", "Steering Committee", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ### Samantha Ahern: Steering Committee Nomination
 
 #### How am I involved with the Carpentries?

@@ -7,6 +7,8 @@ time: "08:00:00"
 tags: ["Steering Committee", "Election 2016", "Software Carpentry Foundation", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Hello fellow educators and coding enthusiasts! 
 I'm terribly excited to offer myself as a candidate for the Software Carpentry Steering Committee. 
 See below for answers to a few questions you might have about whether I'd be a good fit.

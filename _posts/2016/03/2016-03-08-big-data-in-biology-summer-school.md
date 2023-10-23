@@ -7,6 +7,8 @@ time: "13:30:00"
 tags: ["University of Texas - Austin", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 The [Center for Computational Biology and Bioinformatics](http://ccbb.biosci.utexas.edu) at The University of Texas at Austin is hosting the [3rd Annual Big Data in Biology Summer School](http://ccbb.biosci.utexas.edu/summerschool.html) May 23–26, 2016.
 
 The 2016 Summer School offers eleven intensive courses that span general programming, high throughput DNA and RNA sequencing analysis, proteomics, and computational modeling. These courses provides a unique hands-on opportunity to acquire valuable skills directly from experts in the field. Each course will meet for three hours a day for four days (either in the morning or in the afternoon) for a total of twelve hours. 

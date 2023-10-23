@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: ["Videoconferencing", "Zoom", "Online Meetings", "Google Hangouts", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 My favorite tool: Videoconferencing
 
 I know most of the blog posts so far in this series have been about the tools people use to enable them to conduct 

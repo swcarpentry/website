@@ -7,6 +7,8 @@ time: "18:00:00"
 tags: ["Community", "Instructor Training", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Last month, Steve and Karin taught an instructor training
 workshop at the University of Cambridge, sponsored by the [R Consortium](https://www.r-consortium.org/).
 The event was organized by Laurent Gatto,

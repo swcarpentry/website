@@ -10,6 +10,8 @@ authors: ["François Michonneau"]
 tags: [ "Carpentries Maintainers", "Skillshare", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 
 
 In November and December of 2017, we conducted a series of interviews with lesson Maintainers. You can read the summary and see a link to the full report on [this blog post](http://www.datacarpentry.org/blog/maintainer-report/). A major theme that emerged from the interviews was that the Maintainers' jobs were sometimes difficult because it was not always clear what was expected from them or how much authority they have on deciding what can be changed in the content of the lessons. To begin to address these issues, we developed an onboarding for new Maintainers to clarify the role and responsibilities of Maintainers. We also created Curriculum Advisory Committees for the different curricula, to offer high-level guidance on lesson structure and technology choices.

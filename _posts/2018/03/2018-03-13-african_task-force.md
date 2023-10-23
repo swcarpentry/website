@@ -7,6 +7,8 @@ time: "08:00:00"
 tags: ["Community", "Africa", "Task Forces", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Over the past five years, the Carpentries have gained considerable traction in Africa. Since the first online instructor training in 
 2015, more than 100 African-based instructors have been trained of which more than 40 had qualified. An estimated 50 
 workshops have taken place on the continent in countries including South Africa, Namibia, Botswana, Mauritius, Kenya, 

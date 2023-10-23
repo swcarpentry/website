@@ -7,6 +7,8 @@ time: "23:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ##Highlights
 
 * Great news for Library Carpentry, we won the [British Library Labs Awards 2016]({{site.baseurl}}/blog/2017/04/libcarp-update.html).

@@ -7,6 +7,8 @@ time: "06:00:00"
 tags: ["Community","Teaching", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 __Preface__
 
 In today's scientific landscape, computational methods or efficient use thereof can be at the heart of the race for new insights, if not at the heart of the race with the academic competition. Learning how to automate tasks from data analysis to data preprocessing as taught by the carpentries provides the technical concepts to enter this race with an advantage. 

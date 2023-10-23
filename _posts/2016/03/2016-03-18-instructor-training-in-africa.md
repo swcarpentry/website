@@ -7,6 +7,8 @@ time: "18:00:00"
 tags: ["Instructor Training", "South Africa", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 [North-West University eResearch](http://wwww.nwu.ac.za/eresearch), [UCT eResearch](http://www.eresearch.uct.ac.za), and [Talarify](http://www.talarify.co.za) are excited to announce that a Software & Data Carpentry Instructor Training event will take place in Potchefstroom, North-West Province, South Africa from 17 - 20 April 2016.
 
 Our lead trainer will be Aleksandra Pawlik and several of the more experienced South African instructors will also join the workshop to work with the trainee instructors. 

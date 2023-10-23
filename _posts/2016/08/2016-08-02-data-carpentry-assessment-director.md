@@ -7,6 +7,8 @@ time: "00:04:00"
 tags: ["Data Carpentry", "Assessment", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Data Carpentry has just announced that
 Dr. Kari L. Jordan will be joining them as the Deputy Director of Assessment.
 Kari holds a PhD in STEM Education from Ohio State University,

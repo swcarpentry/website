@@ -7,6 +7,8 @@ time: "16:00:00"
 tags: ["Community","Tools","Teaching","Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 In March,
 we had two email threads on our [discuss mailing list](http://lists.software-carpentry.org/listinfo/discuss)
 related to nano on Windows machines

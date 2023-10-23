@@ -7,6 +7,8 @@ time: "05:00:00"
 tags: ["Jobs", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 The UCSF Library's Data Science Initiative is hiring!
 We are looking for a biomedical researcher with an entrepreneurial spirit
 and a passion for programming in R/Python, bioinformatics, data curation, statistics, data visualization

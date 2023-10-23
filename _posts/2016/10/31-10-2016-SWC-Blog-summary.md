@@ -7,6 +7,8 @@ time: "23:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ##Highlights
 * Several members of our community have published a new paper on [Ten Simple Rules for Digital Storage]({{site.baseurl}}/blog/2016/10/ten-simple-rules-for-digital-data-storage.html).
 * Library Carpentry is [one year old]({{site.baseurl}}/blog/2016/10/library-carpentry-is-one-year-old.html) and still gaining momentum. 

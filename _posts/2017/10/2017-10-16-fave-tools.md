@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: [ "Community", "Tools", "Knowledge Sharing", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 This is an open invitation to our community members to share their knowledge.
 
 We have a global community working in many different disciplines using a vast range of tools. On our blog, we would like to tap 

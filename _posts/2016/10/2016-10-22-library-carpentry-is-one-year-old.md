@@ -7,6 +7,8 @@ time: "12:00:00"
 tags: ["Library Carpentry", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 The indefatigable [James Baker](https://twitter.com/j_w_baker)
 recently wrote a blog post summarizing
 [what's happened with Library Carpentry in the past year](https://cradledincaricature.com/2016/10/06/library-carpentry-where-we-are-nearly-1-year-on/).

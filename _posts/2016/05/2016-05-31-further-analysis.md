@@ -6,6 +6,8 @@ date: 2016-05-31
 time: "08:30:00"
 tags: ["Instructor Training", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 Following [Erin Becker's analysis of our instructor training data]({{site.baseurl}}/blog/2016/05/first-analysis.html),
 Byron Smith has done [another analysis](http://blog.byronjsmith.com/instructor-survival.html)
 using survival statistics.

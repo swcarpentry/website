@@ -7,6 +7,8 @@ time: "17:12:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 I spend a good deal of my time trying to communicate with member
 organizations about what it is that the Software Carpentry Foundation can do
 to help them meet their own goals. It is part of my job to showcase to them

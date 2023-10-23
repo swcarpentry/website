@@ -7,6 +7,8 @@ time: "08:00:00"
 tags: ["Community", "Tools", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 My favorite tool is asking for help.
 You may not think of it as a tool,
 but it's something I use frequently to solve a wide range of problems,

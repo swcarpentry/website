@@ -7,6 +7,8 @@ time: "06:00:00"
 tags: [ "Community", "Champions", "Community Building", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Jonah Duckles and I hosted our first Community Champions call on 22 August (23 August for us southern hemisphereans).
 Twenty-five people signed up for the call. We had attendees from the US (several locations), the UK, Canada, the Netherlands, plus me in Australia and Jonah in New Zealand. We also had a range of expertise - some old hands, and some keen to kickstart a brand new community.
 

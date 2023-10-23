@@ -7,6 +7,8 @@ time: "00:01:00"
 tags: ["Opinion", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Last year I used YAML and Norway to explain why [why we can't have nice things][nice-things].
 We've just stumbled over a problem that has forced us to re-do some of the work we did
 to publish our lessons a couple of months ago,

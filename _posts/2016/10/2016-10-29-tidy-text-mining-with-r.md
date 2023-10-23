@@ -7,6 +7,8 @@ time: "00:12:30"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 A new online book has recently been published that may be of interest to our community:
 
 *[Tidy Text Mining with R](http://tidytextmining.com/)*

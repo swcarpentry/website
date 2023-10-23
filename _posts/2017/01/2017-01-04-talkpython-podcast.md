@@ -7,6 +7,8 @@ time: "10:00:00"
 tags: ["NOTICED", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 On January 3rd, 2017 [TalkPython](https://talkpython.fm/)
 published a podcast interview with our Executive Director,
 Jonah Duckles, that was recorded on December 6th, 2016.

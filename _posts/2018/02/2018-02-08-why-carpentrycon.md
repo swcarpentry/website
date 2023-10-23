@@ -7,6 +7,8 @@ time: "00:00:00"
 tags: [ "CarpentryCon", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Getting a PhD is, was or will be a major career milestone for many in our community. 
 
 Yet getting a PhD, momentous as that achievement is, is really just the first step on the career ladder.

@@ -6,6 +6,8 @@ date: 2016-04-13
 time: "05:30:00"
 tags: ["Tooling", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 I am the author of [Learning Cython](http://shop.oreilly.com/product/0636920046813.do),
 a new series of videos teaching [Cython](http://cython.org/).
 There are over 70 videos, making up around five and a half hours of content.

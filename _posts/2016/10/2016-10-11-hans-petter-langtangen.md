@@ -7,6 +7,8 @@ time: "00:07:30"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Hans Petter Langtangen's books
 *[Python Scripting for Computational Science](https://www.amazon.com/Python-Scripting-Computational-Science-Engineering/dp/3540739157/)*
 and

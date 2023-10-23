@@ -7,6 +7,8 @@ time: "00:00:01"
 tags: ["Attendance", "Workshops", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 Having taught and helped at a series of workshop over the past few months Tom Kelly, PhD Candidate in Genetics at the [University of Otago](http://www.otago.ac.nz/), wrote up some of his reflections on the issues related to workshop attendance. This spurred further discussion via email among the New Zealand instructors. We decided to put these thoughts together in hope that this could help other sites struggling with the attendance problems.  
 
 Please note that these are the authors' views and thus they should not be treated as representative for their home institutions.

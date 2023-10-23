@@ -6,6 +6,8 @@ date: 2018-03-08
 time: "09:12:00"
 tags: ["Policy", "Software Carpentry"]
 ---
+
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
 The Carpentries are dedicated to developing and empowering a diverse community of enthusiasts around computational methods for research and data science. Whether you are an Instructor, learner, Maintainer, Mentor, Trainer, Executive Council member, Champion, or member of our Staff, you belong to this community. We are committed to creating avenues for you to contribute that are welcoming and inclusive, whether in-person or online.
 
 Our [Code of Conduct](https://software-carpentry.org/conduct/) (CoC) serves a vital role in this commitment, as it outlines our commitment to provide a welcoming and supportive environment to *all people* regardless of who you are, or where you come from. Our CoC outlines very detailed [reporting guidelines](https://software-carpentry.org/CoC-reporting/) and an [enforcement policy](https://software-carpentry.org/CoC-enforcement/), so that, should violations occur, members of our community can rest assured that their concerns are being handled appropriately and in a timely manner. 

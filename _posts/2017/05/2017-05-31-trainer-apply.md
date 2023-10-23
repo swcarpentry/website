@@ -7,6 +7,8 @@ time: "10:00:00"
 tags: ["Instructor Training", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 The Carpentry community is growing! This month we welcomed ten new Instructor Trainers to our community. Now we
 are looking for the next group of new Trainers.   
 

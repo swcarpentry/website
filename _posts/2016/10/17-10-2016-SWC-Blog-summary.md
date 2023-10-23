@@ -7,6 +7,8 @@ time: "23:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
+<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+
 ##Highlights
 * The very first [Community Service Awards]({{site.baseurl}}/blog/2016/09/community-service-award.html) will be awarded before the end of the year.
 * We are pleased to welcome two new [Intsructor Trainers]({{site.baseurl}}/blog/2016/10/new-instructor-trainers.html) to the Carpentries.
