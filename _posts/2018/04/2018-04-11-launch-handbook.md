@@ -5,11 +5,10 @@ title: "Launching our New Handbook"
 teaser: "Find new pathways to a range of Carpentries' materials"
 categories:
     - blog
-tags: [ "Handbook", "Documentation", "Communication" , "Software Carpentry"]
 comments: true
 show_meta: true
 authors: ["Tracy Teal", "Maneesha Sane", "Belinda Weaver"]
-tags: ["Communications"]
+tags: [ "Handbook", "Documentation", "Communication" , "Software Carpentry"]
 ---
 
 As The Carpentries, we're excited to announce that we have consolidated and updated many
