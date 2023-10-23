@@ -5,11 +5,10 @@ title: "How to be involved in the Bug BBQ?"
 teaser: "A short guide on how to contribute and be involved during The Carpentries Bug BBQ."
 categories:
     - blog
-tags: ["Contributing", "Community", "Bug BBQ", "Software Carpentry"]
 comments: true
 show_meta: true
 authors: ["François Michonneau"]
-tags: ["Bug BBQ", "Software Carpentry"]
+tags: ["Contributing", "Community", "Bug BBQ", "Software Carpentry"]
 ---
 
 ## Remind me...
