@@ -4,6 +4,7 @@ title: "Software Carpentry Blog Tags"
 teaser: "Browse the posts on the Software Carpentry blog by tags"
 comments: false
 permalink: "/posts-by-tags/"
+redirect_to: "https://carpentries.org/blog/"
 ---
 
 {% include expand-side-column %}
