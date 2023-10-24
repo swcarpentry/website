@@ -7,7 +7,7 @@ time: "19:00:00"
 tags: ["Partnerships", "South Africa", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 In November 2014 the [first large-scale Software Carpentry event was run in South Africa](https://software-carpentry.org/blog/2014/12/cape-town-swc.html) as part of the [eResearch Africa conference](http://eresearch.ac.za/) in Cape Town.  Since then 15 more [Software]( https://software-carpentry.org/blog/2016/01/a-year-of-swc-in-south-africa.html), [Data](http://www.datacarpentry.org/blog/genomics-nwu/), and/or [Library Carpentry](https://cmacdonell.github.io/2016-08-25-CSIR/) events were run by the Southern African community across many disciplines and several institutions.
 

@@ -7,7 +7,7 @@ time: "16:00"
 tags: ["CarpentryCon", "Community", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 Imagine a global community event where Carpentries members and aficionados come together for a short period to exchange experiences, discuss lessons and debate teaching practices. Visualize a space where keynote speeches are closely complemented by community-driven lightning talks, and round-table panels are supported with ad-hoc informal meetings to share stories about challenges and successes. Finally, to complete the picture, consider a number of satellite events, such as social gatherings, carpentry workshops and new lesson developments. Well, this is our vision for CarpentryCon 2018!
  

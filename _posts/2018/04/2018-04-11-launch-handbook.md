@@ -11,7 +11,7 @@ authors: ["Tracy Teal", "Maneesha Sane", "Belinda Weaver"]
 tags: [ "Handbook", "Documentation", "Communication" , "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 As The Carpentries, we're excited to announce that we have consolidated and updated many
 materials and resources to more easily share them online and be a community resource.

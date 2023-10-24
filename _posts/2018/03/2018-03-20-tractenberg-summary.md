@@ -7,7 +7,7 @@ time: "08:00:00"
 tags: [ "webinars", "Assessment", "Assessment network", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 On February 2, the [Assessment Network](https://docs.carpentries.org/topic_folders/assessment/assessment-network.html) held a well-attended webinar with [Rochelle Tractenberg](https://blogs.commons.georgetown.edu/crom/rochelle-e-tractenberg/).
 Dr. Tractenberg holds two PhDs, one in Cognitive Sciences and the other in Statistics, and directs the Collaborative for Research on Outcomes and Metrics at Georgetown University, where she is a tenured professor in the Department of Neurology. It was a great privilege for our community to be able to engage in a conversation with her and to learn from her expertise.

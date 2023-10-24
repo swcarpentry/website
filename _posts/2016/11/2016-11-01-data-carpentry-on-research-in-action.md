@@ -7,7 +7,7 @@ time: "00:09:00"
 tags: ["Community", "Noticed", "Data Carpentry", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 The [latest podcast from Research in Action](http://ecampus.oregonstate.edu/research/podcast/e31/)
 features Dr. Tracy Teal,

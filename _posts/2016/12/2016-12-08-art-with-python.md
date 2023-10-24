@@ -7,7 +7,7 @@ time: "00:10:00"
 tags: ["Community", "Art", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 This March I signed up for a Software Carpentry class and learned Python for the first time. I had a great time at the workshop, and I wanted to share one of the first Python projects I completed thanks to Software Carpentry. 
 

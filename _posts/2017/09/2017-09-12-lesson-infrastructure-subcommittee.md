@@ -7,7 +7,7 @@ time: "10:00:00"
 tags: ["Community", "Lesson Infrastructure Subcommittee", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 On 5 September 2017 at 14:00UTC+0,
 the Lesson Infrastructure Subcommittee had their 2017 September meeting.

@@ -7,7 +7,7 @@ authors: ["Matthew Collins", "François Michonneau", "Brian Stucky", "Ethan Whit
 tags: ["Instructors", "Community", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 This January was the one year anniversary of our effort to bring regular
 [Software Carpentry](https://software-carpentry.org/) and  [Data

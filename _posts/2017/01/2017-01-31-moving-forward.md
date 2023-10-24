@@ -7,7 +7,7 @@ time: "13:40:00"
 tags: ["Instructor Training", "Community", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 As of January 30th, Greg Wilson has stepped down from his role as Director of Instructor Training to start a new position as 
 [Shopify’s Computer Sciences Education Lead](https://software-carpentry.org/blog/2016/12/next-steps.html).  

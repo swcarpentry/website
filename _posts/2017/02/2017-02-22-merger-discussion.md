@@ -7,7 +7,7 @@ time: "14:30"
 tags: ["Community", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 Newcomers to our community frequently request clarification regarding the 
 distinction between Software Carpentry (SWC) and Data Carpentry (DC). SWC 

@@ -7,7 +7,7 @@ title: Fighting Spam
 tags: ["Tooling", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 <p>We recently experienced a spate of spam and fake user accounts on the course discussion forums.  In this post I'll briefly explain what we're doing to stop that from happening again, and how the technology works.</p>
 <p>The course forums are powered by <a href="http://bbpress.org">bbPress</a>, the forum software written by the WordPress folks.  When I first installed it I left it with the default configuration settings and without doing anything in particular to lock it down from spammers.  <a href="http://bbpress.org/forums/tags/spam">Bad idea</a>.  When I checked this morning we had over fifty fake user accounts, and two spam postings.</p>
 <p>I had to manually remove the fake user accounts &mdash; luckily this is easy to do since either the names (e.g. "google directions plus") or the user's website is obviously spammy.  I then activated two plugins: <a href="http://akismet.com/">Akismet</a> to filter out any future spam posts and <a href="http://www.google.com/recaptcha">reCAPTCHA</a> to stop automated computer programs (i.e. <a href="http://en.wikipedia.org/wiki/Internet_bot">bots</a>) from registering fake user accounts.</p>

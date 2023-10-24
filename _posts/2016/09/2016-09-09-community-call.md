@@ -7,7 +7,7 @@ time: "00:16:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 Our next Carpentries Community Call (formerly called Lab Meeting or 
 Town Hall meeting) will be Thursday, September 15 (September 16 Aus/NZ). These meetings will now be 

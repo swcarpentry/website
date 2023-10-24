@@ -7,7 +7,7 @@ time: "10:00:00"
 tags: ["Steering Committee", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 The Steering Committee informs that the minutes of their third quarter are now linked on [the Software Carpentry Foundation page]({{site.url}}/scf/) as well on the [README of the board GitHub repository]({{site.github_url}}/board). If you have critics and suggestions related to the minutes
 please send those by email to our Secretary, Raniere Silva, at [raniere@rgaics.com](mailto:raniere@rgaiacs.com).
 

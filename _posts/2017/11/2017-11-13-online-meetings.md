@@ -7,7 +7,7 @@ time: "00:00:13"
 tags: ["Online meetings", "Zoom", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
  
 Online meetings are a fact of life for most of us in the Carpentries and other distributed projects. So how do we make them as effective as we can?
 

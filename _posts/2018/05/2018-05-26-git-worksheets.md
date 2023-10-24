@@ -7,7 +7,7 @@ time: "11:39:00"
 tags: ["Workshops", "Teaching", "Git", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 I attended my first Software Carpentry workshop in 2015 as a helper and was
 mesmerized by how Ivan Gonzalez taught the Git lesson using an easel pad and

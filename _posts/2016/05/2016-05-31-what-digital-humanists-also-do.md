@@ -7,7 +7,7 @@ time: "00:05:00"
 tags: ["Digital Humanities", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 Following up on [an earlier post]({{site.baseurl}}/blog/2016/05/what-digital-humanists-do.html),
 here are two more user stories from digital humanists
 to help us figure out what they need and how we can help.

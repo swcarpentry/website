@@ -7,7 +7,7 @@ time: "00:11:00"
 tags: ["Teaching", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 PLOS has published a very useful set of articles called [Ten Simple Rules](http://collections.plos.org/ten-simple-rules)
 that covers everything from effective statistical practice to winning a Nobel Prize.

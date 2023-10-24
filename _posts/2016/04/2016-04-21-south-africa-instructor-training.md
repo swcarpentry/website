@@ -7,7 +7,7 @@ time: "18:00:00"
 tags: ["Instructor Training", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 Thanks a lot of hard work from Anelda van der Walt and the support from the [North-West University](http://www.nwu.ac.za/), [University of Cape Town](http://www.uct.ac.za/) and [Talarify](http://www.talarify.co.za/)
 we were able to run the first face-to-face instructor training in South Africa. We trained 23 new instructors
  from South Africa, Namibia, Zimbabwe and Kenya. The event was a great success and we are looking forward to

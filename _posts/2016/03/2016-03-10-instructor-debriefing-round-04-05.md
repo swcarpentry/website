@@ -7,7 +7,7 @@ time: "16:00:00"
 tags: ["Debriefing", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 On February 23, Rayna Harris, Sheldon McKay, and Tiffany Timbers ran the 4th round of post-workshop instructor debriefing. On March 8th, Rayna Harris, Raniere Silva, and Belinda Weaver ran the 5th round of post-workshop instructor debriefing. 
 
 ## New lesson materials

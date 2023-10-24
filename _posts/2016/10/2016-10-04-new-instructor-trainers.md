@@ -7,7 +7,7 @@ time: "07:00:00"
 tags: ["Instructor Training", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 We are very pleased to welcome [Karin Lagesen]({{page.root}}/team/#lagesen_k)
 and [Anelda van der Walt]({{page.root}}/team/#van-der-walt_anelda)

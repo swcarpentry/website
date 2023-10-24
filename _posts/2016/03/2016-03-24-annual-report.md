@@ -7,7 +7,7 @@ time: "15:30:00"
 tags: ["Software Carpentry Foundation", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 We're pleased to announce the publication of the first SCF annual report summarizing what we have done this year to to further our goals of promoting reproducibility and reliability in all branches of science, and helping researchers be more productive. 
 

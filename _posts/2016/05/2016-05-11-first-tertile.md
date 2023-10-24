@@ -7,7 +7,7 @@ time: "10:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 On May 8th and 9th the Steering Committee had an in-person meeting at Cold
 Spring Harbour Laboratory to conclude the discussions during the first
 two months and make plans for the next ten months of activities.

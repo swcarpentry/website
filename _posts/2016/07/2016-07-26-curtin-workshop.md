@@ -7,7 +7,7 @@ time: "00:00:01"
 tags: ["Workshops", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 The first Software Carpentry workshop to be held at Curtin University (and the third so far in WA) started on Monday 18 July. 
 We decided early to experiment with the timetable and spread the course over four half days. 
 Monday was for the [Unix Shell](https://twitter.com/CurtinIC/status/754850455797190657), 

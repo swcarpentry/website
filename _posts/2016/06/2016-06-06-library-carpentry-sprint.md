@@ -9,7 +9,7 @@ redirect_from:
 tags: ["sprints", "hackathons", "Data Carpentry", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 A global team worked to update the [Library Carpentry](https://github.com/LibraryCarpentry) curriculum and lesson material at
 this year’s [Mozilla Science Lab Global sprint](https://science.mozilla.org/programs/events/global-sprint-2016).
 

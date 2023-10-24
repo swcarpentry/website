@@ -8,7 +8,7 @@ time: "14:00"
 tags: ["Workshops", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 Software and Data Carpentry share a mission to spread computational and data literacy to the broader research community at a wide range of institutional types across the world. We also share core community values of openness and inclusiveness.
 

@@ -7,7 +7,7 @@ time: "02:00:00"
 tags: ["Teaching", "Statistics", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 The late 1980s saw a wave of new undergraduate programs launched in computational physics,
 as the advent of affordable workstations and PCs made the power to compute and simulate more accessible.

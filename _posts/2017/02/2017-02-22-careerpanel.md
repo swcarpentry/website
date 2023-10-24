@@ -7,7 +7,7 @@ time: "8:15"
 tags: ["Community", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
   
 **Wednesday, Mar 1, 3pm PST / 6pm EST / 11pm UTC / 9am AEST (next day)**  
 

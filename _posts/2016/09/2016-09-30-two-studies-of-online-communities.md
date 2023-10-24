@@ -7,7 +7,7 @@ time: "00:07:00"
 tags: ["Research", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 Two recent papers may be of interest to this community.  The first is
 from Adam Crymble at [The Programming

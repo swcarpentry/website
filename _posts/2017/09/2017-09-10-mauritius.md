@@ -7,7 +7,7 @@ time: "00:00:00"
 tags: [ "Africa", "Mauritius", "HPC", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 The Square Kilometre Array (SKA) has been branded as one of the biggest scientific projects to date and spans not only country borders but also continents. Although the SKA’s primary aim is to address many of the questions around our universe, the spin-offs of this project will touch people from all research disciplines as well as communities around the SKA sites.
 

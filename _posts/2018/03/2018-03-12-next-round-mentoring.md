@@ -7,7 +7,7 @@ time: "hh:mm:00"
 tags: ["Community", "Mentoring", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 In February, we held our mentoring groups [virtual showcase](http://www.datacarpentry.org/blog/Mentoring-Groups-Virtual-Showcase/), 
 and community members engaged with mentors and mentees virtually to hear about the accomplishments they made over the course 

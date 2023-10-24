@@ -7,7 +7,7 @@ time: "00:00:01"
 tags: ["Workshops", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 A two day Software Carpentry course was hosted at the
 [University of Canterbury (UC)](http://www.canterbury.ac.nz/) the 22nd and 23rd of June.

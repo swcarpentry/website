@@ -7,7 +7,7 @@ time: "00:01:00"
 tags: ["Lessons", "Research", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 I have recently been reading and enjoying
 a new paper by Michael Kölling and Fraser McKay titled

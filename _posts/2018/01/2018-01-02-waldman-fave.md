@@ -7,7 +7,7 @@ time: "00:00:00"
 tags: [ "Research tools", "Community", "GIS", "Geographic Information Systems", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 [QGIS](https://www.qgis.org/en/site/) (formerly Quantum GIS) is an open source [Geographic Information System](https://en.wikipedia.org/wiki/Geographic_information_system).
 

@@ -7,7 +7,7 @@ time: "hh:mm:00"
 tags: [ "Conferences", "Open Access", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 Along with fellow Software Carpenters [Rayna Harris](https://twitter.com/raynamharris/) and [Paula Martinez](https://twitter.com/orchid00/), I attended [OpenCon 2017](http://www.opencon2017.org/) held over the weekend of 11-13 November, 2017 in Berlin. The conference was held in the Harnack Haus in Dahlem, the home of the Max Planck Society, where the friendly ghosts of Einstein, Heisenberg and other stellar scientists smiled on our endeavours to promote open access, open education and open data.
 

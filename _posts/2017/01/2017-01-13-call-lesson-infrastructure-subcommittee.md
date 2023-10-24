@@ -7,7 +7,7 @@ time: "16:00:00"
 tags: ["Lesson Infrastructure Subcommittee", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 One of the issues that we have with the
 [styles](https://github.com/swcarpentry/styles),

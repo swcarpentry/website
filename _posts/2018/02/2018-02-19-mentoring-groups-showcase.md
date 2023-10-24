@@ -7,7 +7,7 @@ time: "00:00:00"
 tags: ["Community", "Mentoring", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 We just finished our second round of mentoring groups and had an amazing showcase of their work and ideas. In this round, we were more specific and focused on multiple topic areas. There were groups on community building, lesson maintenance, and preparing for instructor checkout.
  

@@ -7,7 +7,7 @@ time: "06:00:00"
 tags: [ "Blog posts", "Community news", "Workshops", "Reports", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 Writing a blog post should not be hard. A blank screen can seem very daunting, but if you populate it with a few questions, 
 such as Who? What? Where? When? Why? and How?, then you have the genesis of a post. 

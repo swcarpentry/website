@@ -7,7 +7,7 @@ time: "09:00:00"
 tags: ["Gabon", "Africa", "Bioinformatics", "Workshop", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 Over the past five years, researchers from the University of New Orleans (UNO) in the USA and the Université des Sciences et 
 Techniques de Masuku (USTM), Franceville, Gabon and University of Buea (UB) - 

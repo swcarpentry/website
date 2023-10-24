@@ -7,7 +7,7 @@ time: "15:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 Are you preparing to teach a workshop in a few months? 
 Have you been trained as an instructor but are hesitant to sign up to teach? 

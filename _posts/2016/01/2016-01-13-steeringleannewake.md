@@ -7,7 +7,7 @@ time: "15:00:00"
 tags: ["Software Carpentry Foundation", "Election 2016", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 ## Academic background
 
 You can find me in the Department of Geography in the [University of Northumbria at Newcastle, UK](https://www.northumbria.ac.uk/about-us/our-staff/w/dr-leanne-mary-wake/).  In 2010 I obtained my PhD in Geophysics from Durham University, UK.  I would describe myself, broadly, as an Earth system modeller. I try to understand the workings of a complex world through the 0s and 1s of code but I have been known get my hands dirty with fieldwork!  

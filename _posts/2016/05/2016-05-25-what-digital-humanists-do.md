@@ -7,7 +7,7 @@ time: "00:05:00"
 tags: ["Digital Humanities", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 I have started gathering user stories from humanists
 to give us a better sense of what they do
 and how (or whether) our kind of skills training might help.

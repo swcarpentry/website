@@ -7,7 +7,7 @@ time: "00:00:00"
 tags: [ "Curriculum", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 In mid-2017, Data Carpentry piloted a Curriculum Advisory Committee (CAC) for the Genomics curriculum. 
 The goals for this committee were to provide general oversight, vision, and leadership for the full Genomics lesson stack, to ensure 

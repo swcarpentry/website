@@ -7,7 +7,7 @@ time: "06:00:00"
 tags: ["Mentoring", "Champions", "Community Building", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 ### Mentoring groups provide experienced instructors with the chance to help small groups develop confidence in teaching, lesson maintenance and community building
 

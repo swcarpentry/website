@@ -7,7 +7,7 @@ time: "00:00:00"
 tags: ["Workshops", "Coding", "Stencila", "Data Science", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 One of [Stencila’s](https://stenci.la/) goals is to create an easy way for people who don't yet code to learn 
 data science and statistics skills, and to feel comfortable trying out powerful scientific computing languages 

@@ -7,7 +7,7 @@ time: "23:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 ## Highlights
 * The [reorganization timeline]({{site.baseurl}}/blog/2017/06/merger.html) has been drafted and awaiting approval from the respective steering committees.

@@ -7,7 +7,7 @@ time: "18:00:00"
 tags: ["Debriefing", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 <!-- start excerpt -->
 On Tuesday, February 9th, we ran the 3rd round of Post-Workshop Instructor Debriefing Sessions. Rayna and Raniere hosted the morning debriefing session.  The even session was cancelled due to low attendance.
  

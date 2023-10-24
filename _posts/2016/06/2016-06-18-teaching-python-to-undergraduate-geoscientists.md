@@ -7,7 +7,7 @@ time: "00:00:01"
 tags: ["Teaching", "Python", "Education", "Jupyter", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 In 2010, a [new course](http://ggorman.github.io/Introduction-to-programming-for-geoscientists/) commenced at [Imperial College London](http://www.imperial.ac.uk/engineering/departments/earth-science/) that aimed to teach undergraduate geoscience students how to program in Python. Over the course of five years (2010 to 2014 inclusive) our teaching methodology evolved significantly in response to student feedback and examination performance. The course lecturers ([Gerard Gorman](http://www.imperial.ac.uk/people/g.gorman) and myself, [Christian Jacobs](http://christianjacobs.uk)) along with several of our Teaching Assistants also undertook Software Carpentry instructor training which offered a fantastic pedagogical insight into how to effectively teach novices how to program. As a result, many of our teaching techniques were influenced by this which helped to greatly improve our course. **In this blog post we summarise what we changed throughout the five years and why**, in the hope that this will benefit other instructors currently offering, or planning to offer, an undergraduate computer programming course.
 

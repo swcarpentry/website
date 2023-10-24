@@ -7,7 +7,7 @@ time: "18:00:00"
 tags: ["Software Carpentry Foundation", "Election 2016", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 ## About Me
 
 - B.Sc. Biology, Chemistry - Truman State University

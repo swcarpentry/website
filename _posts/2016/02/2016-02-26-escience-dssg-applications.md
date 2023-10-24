@@ -7,7 +7,7 @@ time: "10:00:00"
 tags: ["Jobs", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 The [University of Washington eScience Institute](http://escience.washington.edu/), in collaboration with
 [Urban@UW](http://urban.uw.edu/) and Microsoft, is excited to announce the 2016

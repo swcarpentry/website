@@ -7,7 +7,7 @@ time: "18:00:00"
 tags: ["Emacs", "Text editors", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 My favorite tool is [Emacs](https://www.gnu.org/software/emacs/).
 

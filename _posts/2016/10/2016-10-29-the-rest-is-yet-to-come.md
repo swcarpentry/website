@@ -7,7 +7,7 @@ time: "00:12:45"
 tags: ["Opinion", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 I co-taught an instructor training workshop earlier this week,
 then taught a second one on my own a couple of days later.

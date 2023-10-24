@@ -7,7 +7,7 @@ time: "01:00:00"
 tags: ["UC Davis", "Teaching", "Online", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 We have been experimenting with half-day workshops on specialized topics
 that are broadcast over the web.
 They have been [going very well](http://ivory.idyll.org/blog/2015-d3.js-annoc.html),

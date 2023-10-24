@@ -7,7 +7,7 @@ time: "07:00:00"
 tags: ["Community", "Teaching", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 [Andreas Stefik](https://ramblesblog.files.wordpress.com/2016/05/inpraiseoftweaking.pdf)
 (who discusses what we know about the usability of programming languages

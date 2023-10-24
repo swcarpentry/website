@@ -7,7 +7,7 @@ time: "15:00:00"
 tags: ["Lessons", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
  Software Carpentry is more than just a set of workshops and lessons. It is
  also a way to develop lessons, one that we have used successfully to create

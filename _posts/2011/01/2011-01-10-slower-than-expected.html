@@ -7,7 +7,7 @@ title: Slower Than Expected
 tags: ["Content", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 <p>We've started work on the high-performance computing lecture, and as part of that, we'd like to set a puzzle for our more advanced readers. We've written several versions of invasion percolation; the two of interest here use a list-based representation for the underlying grid, and a NumPy array. Run either program as:</p>
 <pre>python filename.py -g -n 31 -v 100</pre>
 <p><code>-g</code> turns off the end-of-run graphical display; <code>-n 31</code> tells the program to use a 31&times;31 grid; and <code>-v 100</code> tells it to initialize cells to random values between 0 and 100. Try varying the size, compare the speeds of the two programs, see if you can figure out why one is faster than the other, and then tell us:</p>

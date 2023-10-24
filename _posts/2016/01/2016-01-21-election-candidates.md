@@ -7,7 +7,7 @@ time: "10:35:00"
 tags: ["Election 2016", "Steering Committee", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 The candidates for the 2016 election are set. The election will take place
 during the week of February 15th-19th. Look for electionbuddy ballot information in your email if you're a [member]({{page.baseurl}}/scf/members/).

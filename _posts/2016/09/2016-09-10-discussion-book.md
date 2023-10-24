@@ -7,7 +7,7 @@ time: "06:30:00"
 tags: ["Teaching", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 Hot on the heels of *[Small Teaching](https://www.amazon.com/Small-Teaching-Everyday-Lessons-Learning/dp/1118944496/)*
 (which we reviewed [last week]({{site.url}}/blog/2016/09/small-teaching.html))

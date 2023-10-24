@@ -7,7 +7,7 @@ time: "11:00:00"
 tags: ["Community","Tools","Teaching", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 The Software Carpentry [Code of Conduct](https://software-carpentry.org/conduct/) includes 
 a somewhat tongue-in-cheek reference to nondiscrimination based on "choice of text 

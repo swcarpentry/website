@@ -7,7 +7,7 @@ time: "00:00:00"
 tags: ["Instructors", "Community", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 This blog post is the second in a series examining the roles and contributions of the different parts of the Carpentry community. In case you missed it - read the [first post](http://www.datacarpentry.org/blog/maintainer-report/) in this series, about Maintainers.
 

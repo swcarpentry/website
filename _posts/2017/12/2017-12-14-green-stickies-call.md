@@ -7,7 +7,7 @@ time: "00:00:00"
 tags: ["Community Calls", "Community Building", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 When Carpentries' staff score a win, we call it a **#greensticky**. So for our
 [final community calls for 2017](http://pad.software-carpentry.org/community-call-2017-12-14), we hosted two 

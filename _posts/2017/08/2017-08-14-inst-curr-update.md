@@ -7,7 +7,7 @@ time: "16:00"
 tags: ["Instructor training", "Hackathons", "Bug BBQ", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 Sixty-seven pull requests were successfully merged during the recent update of the 
 Software and Data Carpentry [instructor training curriculum](http://swcarpentry.github.io/instructor-training/). Most of these PRs 

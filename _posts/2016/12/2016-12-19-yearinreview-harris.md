@@ -7,7 +7,7 @@ time: "20:10:00"
 tags: ["Steering Committee", "Software Carpentry Foundation", "Election 2016", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 # A year in review 
 I want to thank you for giving me the prilege to serve on the Software Carpentry Steering Committee. Here is a very brief recap of the year. Click [this link]({{site.baseurl}}/blog/2016/01/steering-harris.html) to read my 2017 election post. 

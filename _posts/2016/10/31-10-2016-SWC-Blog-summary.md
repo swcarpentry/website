@@ -7,7 +7,7 @@ time: "23:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 ##Highlights
 * Several members of our community have published a new paper on [Ten Simple Rules for Digital Storage]({{site.baseurl}}/blog/2016/10/ten-simple-rules-for-digital-data-storage.html).

@@ -7,7 +7,7 @@ time: "03:00:00"
 tags: ["Community", "Data Carpentry", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 Thanks to the efforts of Len Epp at Leanpub and Tracy Teal at Data Carpentry,
 50% of the royalties from the book *[How to Be a Modern Scientist](https://leanpub.com/modernscientist/)*
 will be donated to Data Carpentry.

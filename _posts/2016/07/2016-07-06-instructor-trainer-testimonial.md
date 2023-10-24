@@ -7,7 +7,7 @@ time: "00:00:01"
 tags: ["Instructor Training", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 *Note:* the following post was written by Carrie Andrew, University of Oslo, after a request to write a testimonial of her participation in a Software/Data Carpentry instructor training workshop.
 
 The SWC/DC initiative  is a cutting-edge program that promotes computer and data skills to those who need the greatest help, but are often the most put-out to learn: beginners.  It is taught by an ever-increasing, diverse assemblage of people across private and public, academic and non-academic, research institutions.  The common denominator is that all have an interest and motivation to promote computer and data skills within STEM organizations.  Even more interesting: The program is designed to be self-destructing.  Once educational and research organizations are globally saturated with keen, well-trained individuals who can stand-in as the SWC/DC person(s) for their institutions, the initiative promises to end.  When the need is met, it self-destructs, thus promoting change from the bottom-up, a grass-roots initiative for our futures!

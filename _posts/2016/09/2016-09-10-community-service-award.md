@@ -7,7 +7,7 @@ time: "08:00:00"
 tags: ["Community", "Software Carpentry Foundation", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 The Software Carpentry Foundation relies on volunteer efforts to
 achieve many of its goals. It is now inaugurating a Community Service

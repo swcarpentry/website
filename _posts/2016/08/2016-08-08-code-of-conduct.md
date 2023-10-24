@@ -7,7 +7,7 @@ time: "00:02:30"
 tags: ["Software Carpentry Foundation", "Community", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 The Carpentries are proud to share a common Code of Conduct (CoC), which outlines acceptable standards of behavior for our community members and those interacting with the Carpentries at in-person events and online spaces. Historically, however, we have not had an official process for reporting potential Code of Conduct violations or for adjudication and resolution of reported incidents. Thanks to input from our community, we recognize that defining these procedures is an important step in ensuring that any such issues are dealt with transparently in order to keep our community welcoming and safe for all. 
 

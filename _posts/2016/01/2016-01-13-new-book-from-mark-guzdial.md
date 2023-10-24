@@ -7,7 +7,7 @@ time: "06:00:00"
 tags: ["Teaching", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 Regular readers will know that I am a huge fan of Mark Guzdial,
 a professor at Georgia Tech whose group does world-class work on computing education,
 and who [blogs about it](https://computinged.wordpress.com/) regularly and incisively.

@@ -7,7 +7,7 @@ time: "00:00:00"
 tags: ["Fiscal sponsorship", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/) have combined
 their separate projects into a new project, now known as The Carpentries.

@@ -7,7 +7,7 @@ time: "07:45:00"
 tags: ["Book Review", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 A new book has just been published that covers much of the same material as Software Carpentry,
 and a great deal more:

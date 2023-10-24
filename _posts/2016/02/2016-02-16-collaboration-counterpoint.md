@@ -9,7 +9,7 @@ site: "https://swcarpentry.github.io/modern-scientific-authoring"
 tags: ["Community", "Lessons", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 Discussion of our proposed lesson on
 [on modern scientific authoring]({{site.github_url}}/modern-scientific-authoring)
 is an instructive counterpoint to our previous post

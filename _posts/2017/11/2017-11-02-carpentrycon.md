@@ -7,7 +7,7 @@ time: "00:00:00"
 tags: ["CarpentryCon", "Community Building", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
  
 The Carpentries are excited to announce that the 2018 CarpentryCon will take place from 30 May - 1 June, 2018 at [University College Dublin](http://www.ucd.ie/) (UCD).
  

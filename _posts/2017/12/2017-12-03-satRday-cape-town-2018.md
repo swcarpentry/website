@@ -7,7 +7,7 @@ time: "06:00:00"
 tags: ["conferences", "workshops", "r", "satRday", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 satRdays are community-led, regional conferences to support collaboration, networking and innovation within the R community.
 

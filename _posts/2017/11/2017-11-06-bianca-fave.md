@@ -7,7 +7,7 @@ time: "17:00:00"
 tags: ["Statistics", "R", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 [R](https://www.r-project.org/) can do anything - from making presentations, analyzing and plotting data to version control (Git). 
 

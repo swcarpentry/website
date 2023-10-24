@@ -7,7 +7,7 @@ time: "00:08:00"
 tags: ["Opinion", "Research", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 As far as I can tell,
 there are no published studies showing that version control is better than mailing files around

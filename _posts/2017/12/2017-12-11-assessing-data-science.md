@@ -7,7 +7,7 @@ time: "00:00:00"
 tags: ["Assessment", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 The [Assessment Network](https://docs.carpentries.org/topic_folders/assessment/assessment-network.html) was established as a space for those working on assessment within the open source/research computing community to collaborate and share resources. During our quarterly meeting in November, we engaged one another in a conversation revolving around data science education. This meeting was organized and hosted online by Kari Jordan, and six community members attended. 
 

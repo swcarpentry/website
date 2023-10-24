@@ -7,7 +7,7 @@ time: "00:00:01"
 tags: ["Workshops", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 We had 27 people register to attend, with 22 attending the first day.
 We offered these workshops free of charge so we had been cautious about drop-out numbers.  
 

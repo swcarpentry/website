@@ -7,7 +7,7 @@ time: "13:30:00"
 tags: ["University of Texas - Austin", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 The [Center for Computational Biology and Bioinformatics](http://ccbb.biosci.utexas.edu) at The University of Texas at Austin is hosting the [3rd Annual Big Data in Biology Summer School](http://ccbb.biosci.utexas.edu/summerschool.html) May 23–26, 2016.
 

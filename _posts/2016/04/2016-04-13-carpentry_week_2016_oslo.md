@@ -7,7 +7,7 @@ time: "13:40:00"
 tags: ["University of Oslo", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 
 Cross-posted from the author's [blog](https://flxlexblog.wordpress.com/2016/04/11/carpentry-week-2016-at-the-university-of-oslo).

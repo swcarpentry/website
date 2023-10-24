@@ -7,7 +7,7 @@ time: "00:00:00"
 tags: ["Membership", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 We are fortunate in the Carpentries to have many [member organizations](https://software-carpentry.org/scf/partners/) who support our work. However, if we are to continue reaching out to new disciplines and to build communities in under-served countries, we need a broader and more diverse membership base.  
 

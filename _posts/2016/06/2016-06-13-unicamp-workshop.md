@@ -7,7 +7,7 @@ time: "00:12:01"
 tags: ["Unicamp", "Workshops", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 A Software Carpentry workshop took place at Unicamp (State University of Campinas, Brazil) on May 23rd and 24th.
 Raniere Costa was the host and lead instructor,
 while Felipe Bocca, Monique Oliveira, and I completed the instructor's team.

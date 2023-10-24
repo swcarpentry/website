@@ -7,7 +7,7 @@ time: "23:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 ## Highlights
 *  It should not be a painful experience to write a blog post, so please [reach out to us](https://docs.google.com/forms/d/e/1FAIpQLSeyLIAMdh9ylq-LhgZm4XK7PNsLaiWOUiEScCS-br1EO0pXrQ/viewform)!

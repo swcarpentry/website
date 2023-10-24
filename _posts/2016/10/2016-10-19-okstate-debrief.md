@@ -7,7 +7,7 @@ time: "11:59:30"
 tags: ["Oklahoma State", "Workshops", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 I recently instructed Git for the third time at a Self-Organised
 workshop on the Oklahoma State University main campus. I enjoy

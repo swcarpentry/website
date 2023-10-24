@@ -7,7 +7,7 @@ time: "09:00:00"
 tags: ["Python", "IPython", "Jupyter", "Teaching", "R", "Git", "GitHub", "Videoconferencing", "emacs", "RStudio", "rasterio", "GIS", "Coding", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 Thank you to all the people who have sent in short posts about their favourite tools. We are up to fourteen now, and the variety
 of tools is great to see. Finding out what other people use - and possibly more importantly - *why* they use it, and for what, is a great 

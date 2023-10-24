@@ -7,7 +7,7 @@ time: "10:30"
 tags: ["Diversity", "Community", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 Our goal as Software and Data Carpentry is to build a community teaching digital research skills. We teach essential computing skills to thousands of researchers in academia and industry each year. As an international organization we rely on the volunteer efforts of hundreds of researchers and professionals from around the world. Our volunteers come from diverse backgrounds, countries of origin, and beliefs. These individuals generously donate their time with the goal of helping to speed the discovery of new knowledge and the creation of new technology.
 

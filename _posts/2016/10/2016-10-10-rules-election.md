@@ -7,7 +7,7 @@ time: "09:00:00"
 tags: ["Steering Committee", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 Last month, the Steering Committee announced a 
 [special election to amend the procedure for Steering Committee elections]({{site.url}}/blog/2016/09/election-procedures.html). 

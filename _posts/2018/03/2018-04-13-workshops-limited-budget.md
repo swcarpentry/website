@@ -7,7 +7,7 @@ time: "00:00:00"
 tags: ["Workshops", "Funding", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 Anelda van der Walt and co-host Toby Hodges ran the first themed discussion session in March to brainstorm ideas 
 about running workshops with little to no funding. Attendees from Australia, the US, the UK, and Canada joined to hear and 

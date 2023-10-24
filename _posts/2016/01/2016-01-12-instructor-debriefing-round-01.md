@@ -7,7 +7,7 @@ time: "10:00:00"
 tags: ["Debriefing", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 <!-- start excerpt -->
 On January 11, 2016 we ran the 1st round of post-workshop instructor debriefing of the calendar year! The mentoring committee ran 22 debriefing session in 2015, and we are exciting about continuing to host and improve these sessions this year. 
 

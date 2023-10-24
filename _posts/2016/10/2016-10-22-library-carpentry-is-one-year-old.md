@@ -7,7 +7,7 @@ time: "12:00:00"
 tags: ["Library Carpentry", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 The indefatigable [James Baker](https://twitter.com/j_w_baker)
 recently wrote a blog post summarizing

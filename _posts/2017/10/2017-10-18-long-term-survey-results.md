@@ -7,7 +7,7 @@ time: "00:00:00"
 tags: [ "Assessment", "Surveys", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 ### A discussion of learner outcomes more than six months after attending a Carpentries workshop
 

@@ -7,7 +7,7 @@ time: "12:00:00"
 tags: [ "Lessons", "Community", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 In 2016, Software Carpentry instituted a twice-yearly release schedule for our lessons 
 (see [here](https://software-carpentry.org/lessons/previous/) for previous releases). 

@@ -7,7 +7,7 @@ time: "07:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 ##Highlights
 * The [2016 Software Carpentry Foundation Steering Committee election]({{page.baseurl}}/blog/2016/01/election-candidates.html) is on this week. Questions regarding the elections can be addressed to <election@software-carpentry.org>.

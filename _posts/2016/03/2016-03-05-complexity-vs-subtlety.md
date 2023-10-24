@@ -7,7 +7,7 @@ time: "08:00:00"
 tags: ["Opinion", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 I gave a lightning talk on Software Carpentry for the [OICR](http://oicr.on.ca/) yesterday,
 and in discussion afterward,
 [Jonathan Dursi](http://www.dursi.ca/) made an observation that I've been thinking about since.

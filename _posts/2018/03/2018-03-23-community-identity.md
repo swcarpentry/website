@@ -7,7 +7,7 @@ time: "08:00:00"
 tags: ["Community", "Software Carpentry", "Steering Committee", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 When Software Carpentry became part of the merged Carpentries this January, outgoing Software Carpentry steering committee members Rayna Harris and Christina Koch were tasked with continuing the work of the steering committee.  For the past several weeks, we've been working together with a small group to determine what Software Carpentry needs as a sub-community to grow and thrive in the future, and we have identified two primary goals.  
 

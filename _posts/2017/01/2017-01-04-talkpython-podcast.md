@@ -7,7 +7,7 @@ time: "10:00:00"
 tags: ["NOTICED", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 On January 3rd, 2017 [TalkPython](https://talkpython.fm/)
 published a podcast interview with our Executive Director,

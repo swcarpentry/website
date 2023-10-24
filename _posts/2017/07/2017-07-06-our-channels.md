@@ -7,7 +7,7 @@ time: "06:00:00"
 tags: [ "Outreach", "Community-Building", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 I was writing a talk about [community building in the Carpentries](http://www.ands.org.au/partners-and-communities/ands-communities/tech-talks#Skills_and_Community_Engagement_7_Jul_2017-1)
 for the [ANDS Tech Talk](http://www.ands.org.au/partners-and-communities/ands-communities/tech-talks) series, and 

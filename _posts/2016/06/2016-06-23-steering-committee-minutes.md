@@ -7,7 +7,7 @@ time: "16:00:00"
 tags: ["Steering Committee", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 The Steering Committee informs that the minutes of their last meeting held last week
 are now available on [GitHub](https://github.com/swcarpentry/board/blob/master/minutes/minutes-2016-06-16.md).
 

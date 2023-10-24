@@ -7,7 +7,7 @@ time: "09:00:00"
 tags: ["Community", "Data Carpentry", "Library Carpentry", "CarpentryCon", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 To date, we have not yet had an opportunity to bring together all the members of our communities. Enter: CarpentryCon! We are proposing a two-and-a-half day conference, tentatively held in May 2017 at the University of Michigan. 
 

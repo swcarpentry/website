@@ -7,7 +7,7 @@ time: "10:00:00"
 tags: ["Carpentries Lessons","Translations","Latin America", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 The idea of translating Carpentries’ lessons into Spanish and other languages is not new [[1](https://software-carpentry.org/blog/2014/06/translating-software-carpentry-into-spanish.html), [2](https://software-carpentry.org/blog/2014/11/korean-translation.html), [3](https://software-carpentry.org/blog/2014/07/translating-software-carpentry-into-portuguese.html)]. At the end of 2017, a group of volunteers (see Initial Group members below) embarked on the goal of making Spanish translations a reality. We are very happy that many more volunteers joined us in this effort. We did it, and today we can make the fruit of these months of work known to the entire community!
 

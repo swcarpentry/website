@@ -7,7 +7,7 @@ title: Performance Curves, Curriculum Design, and Trust
 tags: ["Education", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 <p>Suppose you have a processing pipeline with three stages:</p>
 <p><img src="{{site.filesurl}}/2012/03/pipeline.png" /></p>
 <p>Each stage takes one second to run; what's its overall performance? As Roger Hockney pointed out in the 1980s, that question isn't well formed. What we really need to ask is, how does its performance change as a function of the size of its input? It takes 3 seconds to process one piece of data, 4 to process two, 5 to process three, and so on. Inverting those numbers, its rate is 1/3 result per second for one piece of data, 2/4 = 1/2 result/sec for two, 3/5 for 3, etc. If we draw this curve, we get:</p>

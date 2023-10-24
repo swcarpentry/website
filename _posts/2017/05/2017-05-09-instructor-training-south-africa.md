@@ -7,7 +7,7 @@ time: "23:00:00"
 tags: ["Instructor Training", "Africa", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 One of the main goals of our community is to make Software and Data Carpentry workshops accessible for all researchers from all disciplines and all regions of the world. In the past three years workshops in South Africa and other African countries have started gradually picking up and I think we may soon see exponential growth!
 

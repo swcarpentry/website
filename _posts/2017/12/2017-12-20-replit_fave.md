@@ -7,7 +7,7 @@ time: "00:00:00"
 tags: ["Tools", "Favorites", "Research Tools", "Community", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 My favorite tool is [repl.it](https://repl.it/), a 'sandbox' tool to help me test and refine Python code.
 

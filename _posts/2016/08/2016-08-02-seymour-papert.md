@@ -7,7 +7,7 @@ time: "00:01:30"
 tags: ["Noticed", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert) passed away on Sunday at the age of 88.
 I never had the privilege of meeting him,

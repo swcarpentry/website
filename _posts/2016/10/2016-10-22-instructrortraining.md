@@ -7,7 +7,7 @@ time: "16:00:00"
 tags: ["Instructor Training", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 I have co-taught three instructor training workshops this year (one online and one in-person with Christina Koch and one online with Greg Wilson. 
 

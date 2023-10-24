@@ -8,7 +8,7 @@ issues: "https://github.com/swcarpentry/python-novice-gapminder/issues"
 tags: ["Community", "Lessons", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 A few days ago,
 I asked for feedback on a new Python lesson aimed at people who've never programmed before.
 The [outline]({{site.github_url}}/python-novice-gapminder/blob/gh-pages/index.md)

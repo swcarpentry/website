@@ -7,7 +7,7 @@ time: "00:00:00"
 tags: ["Staff", "Data Carpentry", "Software Carpentry", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 We are delighted to announce that SherAaron Hurt has accepted the job of [Workshop Administrator](http://www.datacarpentry.org/blog/ws-admin/) with the Carpentries. SherAaron is joining our team of workshop coordinators who manage workshop logistics, communicate with hosts and instructors, and respond to general workshop inquiries.
 

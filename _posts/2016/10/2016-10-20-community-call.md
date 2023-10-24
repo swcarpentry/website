@@ -13,7 +13,7 @@ authors: ["Kari L. Jordan"]
 tags: [ "Community", "Feedback", "Assessment" , "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 Dr. Kari L. Jordan, Data Carpentry’s Deputy Director of Assessment, will be speaking on the [Community Call](http://pad.software-carpentry.org/community-call-2016-10-20) on the impact our workshops have on our learners. Kari will cover the results of our post-workshop surveys including learner attitudes, learner data management and analysis skills prior to and following our workshops, and learner attitudes toward Data Carpentry instructors. Come and hear about our successes and share your thoughts. It’s going to be an informative community call.
 

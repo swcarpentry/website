@@ -7,7 +7,7 @@ time: "00:00:00"
 tags: [ "Instructors", "workshops", "Placement", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 If you are a badged Carpentries Instructor, you have most likely received emails about upcoming workshops that need Instructors.
 After the emails go out, we sometimes get questions about how Instructors are actually chosen and placed, so we want to share our methods with you.

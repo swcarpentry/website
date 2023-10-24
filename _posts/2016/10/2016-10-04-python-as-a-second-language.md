@@ -7,7 +7,7 @@ time: "00:07:30"
 tags: ["Lessons", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 Donny Winston, Joey Montoya, and I taught a one-day class for [Lawrence Berkeley National Laboratory](http://lbl.gov)
 on [Python as a Second Language](http://swcarpentry.github.io/python-second-language/) last week.

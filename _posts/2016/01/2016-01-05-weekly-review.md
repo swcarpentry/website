@@ -7,7 +7,7 @@ time: "16:00:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 ####Highlights
 * 15 January: Deadline for standing for the [2016 Steering Committee elections]({{site.baseurl}}/blog/2015/12/call-for-candidates-elections-2016.html)

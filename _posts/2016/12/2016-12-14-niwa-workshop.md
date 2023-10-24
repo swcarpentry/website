@@ -7,7 +7,7 @@ time: "15:00:00"
 tags: ["workshops", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 Usually the main struggles preceding Software and Data Carpentry workshops involve the laptop setup, signposting the room and making sure the washrooms are unlocked. But the recent [workshop](https://tinyendian.github.io/2016-11-15-wellington/) in New Zealand, held at [National Institute of Water and Atmospheric Research](https://www.niwa.co.nz/) (NIWA) was facing much more extreme conditions.
 

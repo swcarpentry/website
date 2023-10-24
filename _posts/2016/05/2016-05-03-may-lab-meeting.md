@@ -7,7 +7,7 @@ time: "15:25:00"
 tags: ["Community", "Software Carpentry"]
 ---
 
-<h2>This post originally appeared on the [Software Carpentry website](https://software-carpentry.org/)</h2>
+<p><b>This post originally appeared on the <a href="https://software-carpentry.org/">Software Carpentry website.</a></b></p>
 
 Software Carpentry's next Lab Meeting calls will be at **14:00 UTC and 23:00 UTC, May 10th**; all are welcome to join in to discuss what's new and upcoming in the Software Carpentry community. Connection details are on the [Lab Meeting Etherpad](http://pad.software-carpentry.org/swc-lab-meeting-2016-05-10).
 
