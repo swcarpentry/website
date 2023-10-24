@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Erin Becker"]
 title: "Our first work cycle - Prometheus"
 date: 2017-03-26

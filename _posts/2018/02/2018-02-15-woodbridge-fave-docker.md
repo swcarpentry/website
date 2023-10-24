@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Mark Woodbridge"]
 title: "My Favorite Tool - Docker"
 date: 2018-02-15

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Kate Hertweck"]
 title: "Announcing the 2018 Executive Council for the Carpentries"
 date: 2017-12-12

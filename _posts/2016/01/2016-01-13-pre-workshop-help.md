@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Kate Hertweck"]
 title: "Pre-workshop help sessions for 2016"
 date: 2016-01-13

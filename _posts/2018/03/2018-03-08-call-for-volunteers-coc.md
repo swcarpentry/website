@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Kari L. Jordan", "Tracy Teal", "Erin Becker"]
 title: "Call for Code of Conduct Committee Volunteers "
 date: 2018-03-08

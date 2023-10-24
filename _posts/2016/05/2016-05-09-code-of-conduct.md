@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Jonah Duckles", "Tracy Teal"]
 title: "Our Code of Conduct"
 date: 2016-05-09

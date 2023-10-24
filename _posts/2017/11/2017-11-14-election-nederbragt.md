@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Lex Nederbragt"]
 title: "Lex Nederbragt: Nomination for 2018 Steering Committee"
 date: 2017-11-14

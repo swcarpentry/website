@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Bill Mills"]
 title: "Save the Date: Software Carpentry Lab Meeting May 10"
 date: 2016-05-03

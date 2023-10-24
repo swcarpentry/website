@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Erin Becker"]
 title: "Code of Conduct and Call for Volunteers for Policy Subcommittee"
 date: 2016-08-08

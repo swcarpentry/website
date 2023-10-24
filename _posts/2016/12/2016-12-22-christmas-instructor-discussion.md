@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Raniere Silva"]
 title: "Christmas Instructor Discussion"
 date: 2016-12-22

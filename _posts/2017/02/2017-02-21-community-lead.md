@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Job Opportunity: Community Development Lead"
 date: 2017-02-21
 time: 12:30

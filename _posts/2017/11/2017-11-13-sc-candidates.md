@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Belinda Weaver"]
 title: "Nominating for 2018 Steering Committee"
 date: 2017-11-13

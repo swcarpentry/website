@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Lex Nederbragt"]
 title: "10 tips and tricks for instructing and teaching by means of live coding"
 date: 2016-04-20

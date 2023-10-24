@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Anelda van der Walt"]
 title: "2016 Election: Anelda van der Walt"
 date: 2016-01-15

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "Two Pages of Evidence"
 date: 2016-02-02

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Belinda Weaver"]
 title: "Be our Advocate"
 date: 2018-01-24

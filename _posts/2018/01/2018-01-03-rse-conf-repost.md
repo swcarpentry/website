@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Tania Sanchez"]
 title: "A Successful 2nd RSE Conference"
 date: 2018-01-03

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Juan Steyn"]
 title: "Juan Steyn: Nomination for 2018 Steering Committee"
 date: 2017-11-09

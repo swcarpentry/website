@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Carrie Andrew"]
 title: "Why attend a Software & Data Carpentry instructor training workshop?"
 date: 2016-07-06

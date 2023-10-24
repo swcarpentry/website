@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Richard Clare","Paul Gardner", "Constantine Zakkaroff"]
 title: "Software Carpentry workshop at the University of Canterbury, New Zealand"
 date: 2016-06-30

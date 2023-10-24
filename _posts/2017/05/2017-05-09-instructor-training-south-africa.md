@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Aleksandra Pawlik", "Kari Jordan", "Anelda van der Walt"]
 title: "Instructor Training in South Africa 2.0"
 date: 2017-05-09

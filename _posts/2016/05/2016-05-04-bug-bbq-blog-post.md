@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Bill Mills", "Tiffany Timbers"]
 title: "Software Carpentry Bug BBQ"
 date: 2016-05-04

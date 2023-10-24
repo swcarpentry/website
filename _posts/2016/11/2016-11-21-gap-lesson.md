@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Alexander Konovalov"]
 title: "Programming with GAP"
 date: 2016-11-18

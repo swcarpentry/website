@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Raniere Silva"]
 title: "First bimonthly report from 2016 Steering Committee"
 date: 2016-05-11

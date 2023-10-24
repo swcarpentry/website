@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Bianca Peterson"]
 title: "My Favourite Tool - R"
 date: 2017-11-06

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "Machine Learning with Python"
 date: 2016-10-17

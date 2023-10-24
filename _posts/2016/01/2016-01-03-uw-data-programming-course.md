@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "A Data Programming CS1 Course at the University of Washington"
 date: 2016-01-03

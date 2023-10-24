@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Jonah Duckles", "Tracy Teal"]
 title: "Announcing Belinda Weaver as our Community Development Lead"
 date: 2017-06-07

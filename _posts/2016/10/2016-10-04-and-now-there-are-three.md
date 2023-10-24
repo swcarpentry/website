@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "And Now There Are Three"
 date: 2016-10-04

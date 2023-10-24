@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Belinda Weaver", "Toby Hodges", "Anelda van der Walt"]
 title: "Running workshops on limited budgets"
 date: 2018-04-13

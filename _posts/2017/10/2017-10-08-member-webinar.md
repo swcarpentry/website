@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Belinda Weaver"]
 title: "All about Membership"
 date: 2017-10-08

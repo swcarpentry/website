@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Martin Dreyer"]
 title: "1 - 15 June, 2017: Steering Committee retreat, Community Development Lead, Library Carpentry Instructors,CarpentryCon."
 date: 2017-06-19

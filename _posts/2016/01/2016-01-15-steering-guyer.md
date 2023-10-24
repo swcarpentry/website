@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Jonathan Guyer"]
 title: "2016 Election: Jonathan Guyer"
 date: 2016-01-15

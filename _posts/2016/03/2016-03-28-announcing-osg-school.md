@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Christina Koch"]
 title: "Announcing the Open Science Grid User School 2016"
 date: 2016-03-28

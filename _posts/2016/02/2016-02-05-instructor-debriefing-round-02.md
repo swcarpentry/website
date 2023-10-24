@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Rayna Harris", "Christina Koch", "Bill Mills", "Raniere Silva"]
 title: "2016 Post-Workshop Instructor Debriefing, Round 02"
 date: 2016-02-05

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Anelda van der Walt"]
 title: "16 February - 3 March, 2016: New Steering Committee, Software Carpentry Value Proposition, Webinar, Vacancies,  Community Building, Instructor Training, and Modern Scientific Authoring"
 date: 2016-03-03

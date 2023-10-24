@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Anelda van der Walt"]
 title: "South Africa's North-West University Becomes Software and Data Carpentry’s first African Partner"
 date: 2017-01-20

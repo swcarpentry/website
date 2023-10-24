@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Kellie Ottoboni"]
 title: "My Favourite Tool: IPython"
 date: 2017-10-27

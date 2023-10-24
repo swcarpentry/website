@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Tracy Teal", "Belinda Weaver"]
 title: "Launching The Carpentries Website"
 date: 2018-04-25

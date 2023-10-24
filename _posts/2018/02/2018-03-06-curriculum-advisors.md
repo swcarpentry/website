@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Erin Becker", "Christina Koch"]
 title: "Call for Contributions: Data Carpentry Ecology and Software Carpentry Curriculum Advisory Committees"
 date: 2018-03-06

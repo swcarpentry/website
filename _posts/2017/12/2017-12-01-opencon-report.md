@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Belinda Weaver"]
 title: "OpenCon in Berlin - Impressions"
 date: 2017-11-30

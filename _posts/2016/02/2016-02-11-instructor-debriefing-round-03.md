@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Rayna Harris", "Raniere Silva"]
 title: "2016 Post-Workshop Instructor Debriefing, Round 03"
 date: 2016-02-11

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Tracy Teal", "Elizabeth Williams", "Karen Word"]
 title: "Introducing Elizabeth Williams and Karen Word"
 date: 2017-09-19

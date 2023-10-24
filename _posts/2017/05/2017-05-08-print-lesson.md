@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Raniere Silva"]
 title: "How to print our lessons?"
 date: 2017-05-08

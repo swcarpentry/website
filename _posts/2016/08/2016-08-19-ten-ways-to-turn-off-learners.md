@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "Ten Ways to Turn Off Learners"
 date: 2016-08-19

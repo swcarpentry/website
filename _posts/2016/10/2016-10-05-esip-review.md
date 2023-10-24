@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "Request for Review: ESIP's Software Guidelines"
 date: 2016-10-05

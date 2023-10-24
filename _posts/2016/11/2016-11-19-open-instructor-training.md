@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Erin Becker", "Greg Wilson"]
 title: "Open Instructor Training"
 date: 2016-11-19

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Carpentries Staff and Steering Committees"]
 title: "Standing for Inclusivity"
 date: 2017-02-02

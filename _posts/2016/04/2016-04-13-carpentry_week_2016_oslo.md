@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Lex Nederbragt"]
 title: "Carpentry week 2016 at the University of Oslo"
 date: 2016-04-12

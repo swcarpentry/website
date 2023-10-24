@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Maneesha Sane"]
 title: "How do instructors get placed at workshops?"
 date: 2018-01-14

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Robin Wilson"]
 title: "Showing Changes When Teaching"
 date: 2016-07-25

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Samantha Ahern"]
 title: "Samantha Ahern: Steering Committee Nomination"
 date: 2017-11-20

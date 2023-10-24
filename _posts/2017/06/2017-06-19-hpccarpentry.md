@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Peter Steinbach"]
 title: "HPC in a day?"
 date: 2017-06-20

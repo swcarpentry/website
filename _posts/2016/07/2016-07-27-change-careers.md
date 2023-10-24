@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Marco Fahmi"]
 title: "How Software Carpentry can help you switch careers"
 date: 2016-07-27

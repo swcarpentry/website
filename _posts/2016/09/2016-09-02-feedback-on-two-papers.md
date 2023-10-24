@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "Feedback Sought on Two Papers"
 date: 2016-09-02

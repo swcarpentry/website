@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Kally Chung"]
 title: "Workshop at Unicamp"
 date: 2016-06-13

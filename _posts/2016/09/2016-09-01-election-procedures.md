@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Kate Hertweck"]
 title: "Election Announcement: Amending Steering Committee election procedures"
 date: 2016-09-01

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Anelda van der Walt", "Bryan Johnston"]
 title: "Software Carpentry Introduces Mauritian HPC Users to Tools for Data Analysis"
 date: 2017-09-10

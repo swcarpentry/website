@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Kari L. Jordan"]
 title: "Mentoring Groups Showcase their Accomplishments"
 date: 2018-02-19

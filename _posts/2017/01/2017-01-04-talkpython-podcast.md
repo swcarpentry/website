@@ -1,5 +1,5 @@
 ---
-layout: post  
+layout: page  
 authors: ["Raniere Silva"]
 title: "Software Carpentry on TalkPython"
 date: 2017-01-05

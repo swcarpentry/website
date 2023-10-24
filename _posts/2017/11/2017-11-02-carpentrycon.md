@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Fotis Psomopoulos", "Belinda Weaver"]
 title: "Pack Your Bags for Dublin!"
 date: 2017-11-02

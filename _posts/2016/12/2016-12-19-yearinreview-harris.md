@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Rayna Harris"]
 title: "Rayna Harris's Year in Summary 2016"
 date: 2016-12-19

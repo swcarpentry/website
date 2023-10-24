@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Raniere Silva"]
 title: "Plans for Windows Installer"
 date: 2017-05-04

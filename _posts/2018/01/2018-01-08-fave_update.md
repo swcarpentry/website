@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Belinda Weaver"]
 title: "Fourteen and Counting - People's Favorite Tools"
 date: 2018-01-08

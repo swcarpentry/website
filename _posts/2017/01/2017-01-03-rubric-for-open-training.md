@@ -1,5 +1,5 @@
 ---
-layout: post  
+layout: page  
 authors: ["Greg Wilson"]
 title: "Rubric for Open Instructor Training"
 date: 2017-01-03

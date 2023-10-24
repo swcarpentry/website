@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "My Favorite Tool - Asking for Help"
 date: 2017-11-28

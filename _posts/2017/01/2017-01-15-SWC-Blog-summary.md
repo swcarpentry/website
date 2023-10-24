@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Martin Dreyer"]
 title: "1 -  15 January, 2017:  CarpentryCon, Steering Committee Elections, Rubic for online Instructor training, TalkPython."
 date: 2017-01-15

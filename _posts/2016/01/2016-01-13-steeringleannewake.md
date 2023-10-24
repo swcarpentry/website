@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Leanne Wake"]
 title: "2016 Election: Leanne Wake"
 date: 2016-01-12

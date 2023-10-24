@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Martin Dreyer"]
 title: "First African Carpentries Instructor Training of 2018."
 date: 2018-03-06

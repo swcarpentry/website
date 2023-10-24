@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Belinda Weaver"]
 title: "Making the Case for CarpentryCon"
 date: 2018-02-08

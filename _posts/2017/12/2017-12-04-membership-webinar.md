@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Belinda Weaver"]
 title: "Upcoming Membership Webinar"
 date: 2017-12-04

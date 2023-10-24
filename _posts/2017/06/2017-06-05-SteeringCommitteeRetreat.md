@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["The 2017 Steering Committee"]
 title: "Summary of the 2017 Software Carpentry Steering Committee Retreat "
 date: 2017-05-31

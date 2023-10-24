@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "In Memoriam: Hans Petter Langtangen"
 date: 2016-10-11

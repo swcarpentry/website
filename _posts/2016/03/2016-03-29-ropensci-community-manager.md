@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "rOpenSci is Looking for a Community Manager"
 date: 2016-03-29

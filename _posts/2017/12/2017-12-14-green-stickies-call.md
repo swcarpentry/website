@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Belinda Weaver"]
 title: "Green Stickies for 2017: Report from the Happy Holidays Green Sticky Party Calls"
 date: 2017-12-14

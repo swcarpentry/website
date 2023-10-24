@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Martin Dreyer"]
 title: "1-15 November, 2016:  Research in Action, The Jackson Laboratory, Reproducability of Research, Announcement List, RStudio."
 date: 2016-11-18

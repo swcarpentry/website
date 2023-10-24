@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Erin Becker"]
 title: "State of the State: Instructor Checkout"
 date: 2018-02-27

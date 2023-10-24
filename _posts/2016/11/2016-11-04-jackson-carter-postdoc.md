@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Sue McClatchy"]
 title: "Computational Genetics Postdoc Position with The Jackson Laboratory"
 date: 2016-11-04

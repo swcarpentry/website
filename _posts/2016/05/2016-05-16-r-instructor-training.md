@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson", "Laurent Gatto"]
 title: "R Instructor Training Applications Open"
 date: 2016-05-16

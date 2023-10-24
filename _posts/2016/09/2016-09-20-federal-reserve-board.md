@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Chris Hamm"]
 title: "Teaching at the Board"
 date: 2016-09-20

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "Teaching Programming to the Blind"
 date: 2016-09-23

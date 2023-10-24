@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["François Michonneau"]
 title: "Using RMarkdown with the new lesson template"
 date: 2016-07-08

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Belinda Weaver"]
 title: "Celebrate the Wins of 2017: Join the year's final community call"
 date: 2017-12-05

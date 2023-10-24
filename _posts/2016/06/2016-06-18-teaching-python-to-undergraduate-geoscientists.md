@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Christian T. Jacobs", "Gerard J. Gorman", "Huw E. Rees", "Lorraine E. Craig"]
 title: "Teaching Python to undergraduate geoscientists: A summary of our approaches and experiences over the years"
 date: 2016-06-18

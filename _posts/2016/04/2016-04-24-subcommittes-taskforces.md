@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["The 2016 Steering Committee"]
 title: "Call for Software Carpentry Foundation Subcommittees and Task Forces"
 date: 2016-04-24

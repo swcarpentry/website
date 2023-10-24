@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Erin Becker"]
 title: "Apply to Become a Carpentry Maintainer"
 date: 2017-11-07

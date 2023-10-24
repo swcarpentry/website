@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Belinda Weaver"]
 title: "A Tale of Two Workshops"
 date: 2016-07-22

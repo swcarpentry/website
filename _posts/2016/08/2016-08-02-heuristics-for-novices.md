@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "Heuristic Evaluation for Novice Programming Systems"
 date: 2016-08-02

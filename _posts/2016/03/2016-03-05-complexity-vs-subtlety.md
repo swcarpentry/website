@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "Complexity vs. Subtlety"
 date: 2016-03-05

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Anelda van der Walt"]
 title: "Optimised for Learning"
 date: 2017-04-07

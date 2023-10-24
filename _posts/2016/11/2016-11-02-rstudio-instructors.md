@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "RStudio Training and Consulting Directory"
 date: 2016-11-02

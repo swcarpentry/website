@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Elizabeth Wickes"]
 title: "Elizabeth Wickes: Nomination for 2018 Steering Committee"
 date: 2017-11-12

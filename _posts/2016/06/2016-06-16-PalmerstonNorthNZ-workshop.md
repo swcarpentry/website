@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Ben Jolly", "Hannes Calitz", "Markus Mueller", "Wolfgang Hayek"]
 title: "Software Carpentry and HPC class hits Palmerston North (New Zealand)"
 date: 2016-06-16

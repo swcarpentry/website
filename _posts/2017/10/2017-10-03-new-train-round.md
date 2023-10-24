@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Karen Word"]
 title: "Trainer Training Announcement"
 date: 2017-10-03

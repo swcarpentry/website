@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Hugh Shanahan"]
 title: "Announcing the Data Science Journal"
 date: 2016-01-06

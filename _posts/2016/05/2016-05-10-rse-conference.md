@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Simon Hettrick"]
 title: "First Conference of Research Software Engineers: Call for Participation"
 date: 2016-05-10

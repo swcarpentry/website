@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Aleksandra Pawlik"]
 title: "Instructor Traininig Intercontinental"
 date: 2016-12-22

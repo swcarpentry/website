@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Belinda Weaver"]
 title: "The Carpentries' In-Person Staff Meeting"
 date: 2017-09-18

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Kate Hertweck", "Karen Cranston"]
 title: "RFCs and lessons learned"
 date: 2017-10-17

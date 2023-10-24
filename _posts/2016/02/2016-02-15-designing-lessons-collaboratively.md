@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "Designing Lessons Collaboratively"
 date: 2016-02-15

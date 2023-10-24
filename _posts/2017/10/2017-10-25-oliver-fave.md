@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Jeff Oliver"]
 title: "My Favourite Tool: Git/GitHub"
 date: 2017-10-25

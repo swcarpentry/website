@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Katy Huff"]
 title: "A Strategic Plan for the Software Carpentry Foundation"
 date: 2016-01-12

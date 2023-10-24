@@ -1,5 +1,5 @@
 ---
-layout: post  
+layout: page  
 authors: ["Raniere Silva"]
 title: "Announcing for Lesson Infrastructure Subcommittee"
 date: 2017-01-13

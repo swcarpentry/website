@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Raniere Silva"]
 title: "Minutes of Steering Committee Meeting"
 date: 2016-11-21

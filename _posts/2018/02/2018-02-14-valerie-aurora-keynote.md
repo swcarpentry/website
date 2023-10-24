@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Belinda Weaver"]
 title: "Valerie Aurora to Keynote at CarpentryCon 2018"
 date: 2018-02-14

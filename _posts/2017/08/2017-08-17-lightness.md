@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Juliane Schneider"]
 title: "The Totally Bearable Lightness of Being an Instructor ... So Finish that Training!"
 date: 2017-08-17

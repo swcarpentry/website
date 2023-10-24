@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "Designing a New Novice Python Lesson"
 date: 2016-04-10

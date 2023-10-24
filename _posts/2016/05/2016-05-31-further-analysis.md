@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "Further Analysis of Instructor Training Data"
 date: 2016-05-31

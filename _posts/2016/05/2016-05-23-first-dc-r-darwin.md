@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Paula Andrea Martinez"]
 title: "Darwin Data Carpentry at Charles Darwin University"
 date: 2016-05-23

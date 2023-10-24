@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Marianne Corvellec", "Kari L. Jordan"]
 title: "Challenges Assessing Data Science"
 date: 2017-12-11

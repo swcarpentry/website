@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "Library Carpentry in Toronto"
 date: 2016-07-30

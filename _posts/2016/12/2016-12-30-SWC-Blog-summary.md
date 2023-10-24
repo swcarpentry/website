@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Martin Dreyer"]
 title: "1 -  31 December, 2016:  Instructor Training, Community Service Awards, Career paths, Steering Committee Elections."
 date: 2016-12-31

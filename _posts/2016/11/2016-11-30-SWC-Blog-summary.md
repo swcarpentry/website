@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Martin Dreyer"]
 title: "15 - 30 November, 2016:  Instructor Training, UCSF Library, Code of Conduct, Announcement List, Steering Committee minutes."
 date: 2016-11-30

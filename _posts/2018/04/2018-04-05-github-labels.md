@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Developing GitHub labels for The Carpentries lessons"
 teaser: "The process of developing GitHub labels for our lessons."
 categories:

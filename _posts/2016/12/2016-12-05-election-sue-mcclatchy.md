@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Sue McClatchy"]
 title: "2017 Election: Sue McClatchy"
 date: 2016-12-05

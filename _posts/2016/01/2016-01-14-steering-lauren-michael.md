@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Lauren Michael"]
 title: "2016 Election: Lauren Michael"
 date: 2016-01-14

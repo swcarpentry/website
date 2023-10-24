@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Matthias Liffers", "Andrea Bedini"]
 title: "Software Carpentry at Curtin"
 date: 2016-07-26

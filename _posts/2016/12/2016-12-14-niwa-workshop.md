@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Wolfgang Hayek", "Aleksandra Pawlik"]
 title: "Software Carpentry workshop in severe conditions"
 date: 2016-12-19

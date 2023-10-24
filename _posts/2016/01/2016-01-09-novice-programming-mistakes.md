@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "What the Data Says About Novice Programming Mistakes"
 date: 2016-01-09

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "Tracy Teal on Research in Action"
 date: 2016-11-01

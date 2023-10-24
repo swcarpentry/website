@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Belinda Weaver"]
 title: "Instructor Curriculum Updated"
 date: 2017-08-14

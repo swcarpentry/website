@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Rayna Harris", "Sheldon McKay", "Raniere Silva", "Tiffany Timbers", "Belinda Weaver"]
 title: "2016 Post-Workshop Instructor Debriefings, Rounds 04 and 05"
 date: 2016-03-10

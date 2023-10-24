@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Amanda Miotto"]
 title: "Software Carpentry with R at Griffith University"
 date: 2016-05-04

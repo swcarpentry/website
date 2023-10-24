@@ -1,5 +1,5 @@
 ---
-layout: post  
+layout: page  
 authors: ["Erin Becker"]
 title: "Moving Forward"
 date: 2017-01-31

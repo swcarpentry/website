@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Bianca Peterson"]
 title: "1 - 30 June, 2016:  Efficacy and Usefulness, Minutes, Discussions, Onboarding Documents, Teaching Undergraduates, and Library Carpentry Material"
 date: 2016-06-30

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Kate Hertweck", "Rayna Harris"]
 title: "Beginning the conversation: Potential merger with Data Carpentry"
 date: 2017-02-22

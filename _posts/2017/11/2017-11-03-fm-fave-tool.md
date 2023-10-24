@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Francesco Montanari"]
 title: "My Favorite Tool - Emacs"
 date: 2017-11-03

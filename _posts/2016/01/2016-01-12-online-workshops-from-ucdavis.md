@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["C. Titus Brown"]
 title: "Online Workshops from UC Davis"
 date: 2016-01-12

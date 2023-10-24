@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Launching our New Handbook"
 teaser: "Find new pathways to a range of Carpentries' materials"

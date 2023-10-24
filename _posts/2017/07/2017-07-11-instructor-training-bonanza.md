@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Curriculum"
 title: "Help Update the Instructor Training Materials"
 date: 2017-07-11

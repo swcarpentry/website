@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Bill Mills"]
 title: "2016 Election: Bill Mills"
 date: 2016-01-14

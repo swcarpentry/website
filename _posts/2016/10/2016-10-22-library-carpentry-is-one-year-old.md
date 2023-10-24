@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "Library Carpentry is One Year Old"
 date: 2016-10-22

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Jonah Duckles"]
 title: "Carpentry Champions Call"
 date: 2018-02-07

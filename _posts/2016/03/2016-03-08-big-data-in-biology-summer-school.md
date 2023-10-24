@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Rayna Harris"]
 title: "3rd Annual Big Data in Biology Summer School"
 date: 2016-03-08

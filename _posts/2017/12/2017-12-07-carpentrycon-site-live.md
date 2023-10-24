@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Belinda Weaver"]
 title: "CarpentryCon 2018 - Website is Live!"
 date: 2017-12-07

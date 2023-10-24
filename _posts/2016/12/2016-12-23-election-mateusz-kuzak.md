@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Mateusz Kuzak"]
 title: "2017 Election: Mateusz Kuzak"
 date: 2016-12-23

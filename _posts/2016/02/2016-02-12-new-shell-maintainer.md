@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Christina Koch", "Ashwin Srinath"]
 title: "Announcing New Unix Shell Maintainer"
 date: 2016-02-12

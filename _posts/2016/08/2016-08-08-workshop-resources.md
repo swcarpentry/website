@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Erin Becker"]
 title: "Resources for Running Workshops"
 date: 2016-08-08

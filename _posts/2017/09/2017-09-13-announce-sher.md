@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Tracy Teal"]
 title: "New Staff Member"
 date: 2017-09-13

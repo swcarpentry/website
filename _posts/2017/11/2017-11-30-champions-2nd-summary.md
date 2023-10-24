@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Jonah Duckles", "Belinda Weaver"]
 title: "Community Building Catchup"
 date: 2017-11-30

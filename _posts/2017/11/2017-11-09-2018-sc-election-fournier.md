@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Auriel Fournier"]
 title: "Auriel Fournier: Nomination for 2018 Steering Committee"
 date: 2017-11-09

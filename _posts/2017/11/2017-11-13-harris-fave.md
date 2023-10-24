@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Rayna Harris"]
 title: "My Favourite Tool - Videoconferencing"
 date: 2017-11-13

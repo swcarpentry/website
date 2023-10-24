@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Kate Hertweck"]
 title: "Don't forget to submit your post to stand for the 2017 Steering Committee"
 date: 2016-12-12

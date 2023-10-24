@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Clifton Franklund"]
 title: "My Favourite Tool - RStudio"
 date: 2017-11-07

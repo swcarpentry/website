@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Colin Sauze"]
 title: "My Favorite Tool - Midnight Commander"
 date: 2018-01-14

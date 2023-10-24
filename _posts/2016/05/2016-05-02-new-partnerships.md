@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Tracy Teal", "Jonah Duckles"]
 title: "New Joint Partnerships with Data Carpentry"
 date: 2016-05-02

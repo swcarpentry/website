@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Kari L. Jordan", "Tracy Teal", "Erin Becker", "Karen Word"]
 title: "Our long-term assessment results are in!"
 date: 2017-10-18

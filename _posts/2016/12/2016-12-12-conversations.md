@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Tracy Teal", "Erin Becker"]
 title: "Feedback on Communications"
 date: 2016-12-12

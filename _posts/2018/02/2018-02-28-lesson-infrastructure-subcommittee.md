@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Raniere Silva"]
 title: "Lesson Infrastructure Subcommittee 2018 February meeting"
 date: 2018-02-28

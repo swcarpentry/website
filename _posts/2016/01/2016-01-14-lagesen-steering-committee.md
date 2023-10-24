@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Karin Lagesen"]
 title: "2016 Election: Karin Lagesen"
 date: 2016-01-14

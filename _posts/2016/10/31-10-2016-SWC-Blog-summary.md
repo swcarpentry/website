@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Martin Dreyer"]
 title: "18 - 31 October, 2016:  Community Call on Assessment, Steering Committee, Library Carpentry, Machine Learning."
 date: 2016-10-31

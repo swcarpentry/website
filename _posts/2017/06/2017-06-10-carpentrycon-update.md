@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Fotis Psomopoulos"]
 title: "The road to CarpentryCon 2018"
 date: 2017-06-10

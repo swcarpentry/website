@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Giacomo Peru"]
 title: "2016 Election: Giacomo Peru"
 date: 2016-01-15

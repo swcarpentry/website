@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Paula Andrea Martinez"]
 title: "My Favourite Tool: R"
 date: 2017-10-16

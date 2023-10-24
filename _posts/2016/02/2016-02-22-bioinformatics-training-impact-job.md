@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "Bioinformatics Training Impact Coordinator"
 date: 2016-02-22

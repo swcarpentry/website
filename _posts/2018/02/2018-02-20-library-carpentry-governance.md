@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Belinda Weaver"]
 title: "Library Carpentry Governance - An Update"
 date: 2018-02-20

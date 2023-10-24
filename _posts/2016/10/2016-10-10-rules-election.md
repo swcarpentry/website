@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Kate Hertweck"]
 title: "Vote Next Week to Amend Steering Committee Election Procedures"
 date: 2016-10-10

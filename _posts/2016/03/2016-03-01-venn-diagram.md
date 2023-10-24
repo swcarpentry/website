@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Jonah Duckles"]
 title: "Communities: The Foundation of Impactful Workshops"
 date: 2016-03-01

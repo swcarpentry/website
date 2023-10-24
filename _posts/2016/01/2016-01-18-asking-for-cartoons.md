@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "What Are Your Favorite Cartoons?"
 date: 2016-01-18

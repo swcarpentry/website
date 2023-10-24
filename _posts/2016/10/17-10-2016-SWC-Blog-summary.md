@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Martin Dreyer"]
 title: "12 September - 17 October, 2016:  Community Service Awards, Steering Comminty Elections, Lesson Maintainers Meeting, Newsletter, Carpentries Community Call."
 date: 2016-10-17

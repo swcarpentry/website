@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "A New Version of 'Lessons Learned'"
 date: 2016-01-28

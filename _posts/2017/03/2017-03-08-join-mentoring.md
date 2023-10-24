@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Christina Koch"]
 title: "Get Involved With Mentoring"
 date: 2017-03-08

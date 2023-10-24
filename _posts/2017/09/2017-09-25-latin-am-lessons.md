@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Heladia Salgado", "Paula Andrea Martinez", "Sue McClatchy"]
 title: "Invitación a Participar / Invitation to Participate "
 date: 2017-09-25

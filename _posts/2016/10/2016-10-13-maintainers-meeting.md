@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Kate Hertweck"]
 title: "October 2016 Maintainers' Meeting"
 date: 2016-10-13

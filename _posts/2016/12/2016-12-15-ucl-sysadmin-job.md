@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Ben Waugh"]
 title: "Teaching Support IT Job at UCL Physics and Astronomy"
 date: 2016-12-15

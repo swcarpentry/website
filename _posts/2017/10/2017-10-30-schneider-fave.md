@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Juliane Schneider"]
 title: "My Favourite Tool: OpenRefine"
 date: 2017-10-30

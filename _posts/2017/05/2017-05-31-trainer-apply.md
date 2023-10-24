@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Erin Becker"]
 title: "Apply to Become a Carpentry Instructor Trainer!"
 date: 2017-05-31

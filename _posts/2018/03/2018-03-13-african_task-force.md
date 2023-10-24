@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Caroline Ajilogba", "Mesfin Diro", "Erika Mias", "Lactatia Motsuku", "Kayleigh Lino", "Juan Steyn", "Katrin Tirok", "Anelda van der Walt"]
 title: "Revival of the African Task Force"
 date: 2018-03-13

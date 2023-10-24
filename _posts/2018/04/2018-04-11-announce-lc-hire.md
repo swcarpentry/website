@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Tracy Teal", "John Chodacki", "Chris Erdmann"]
 title: "Building Library Carpentry Community and Development"
 date: 2018-04-11

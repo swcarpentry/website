@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "Training Coordinator Position at NCSA"
 date: 2016-08-10

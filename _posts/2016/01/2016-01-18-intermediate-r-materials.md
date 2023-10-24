@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Scott Ritchie"]
 title: "Presenting Materials for Intermediate UseRs"
 date: 2016-01-18

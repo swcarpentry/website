@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Rayna Harris"]
 title: "New monthly updates from the secretary"
 date: 2017-06-20

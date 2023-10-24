@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Rayna Harris"]
 title: "A Comparison of Online and In-person Instructor Training Workshops"
 date: 2016-10-22

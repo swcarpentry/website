@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Assessment"
 title: "Analysis of Software Carpentry Workshop Impact"
 date: 2017-07-10

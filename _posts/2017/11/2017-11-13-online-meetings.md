@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Belinda Weaver"]
 title: "Running effective online meetings with Zoom (or Google Hangouts, or ...)"
 date: 2017-11-08

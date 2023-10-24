@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Leo Browning"]
 title: "SWC: First Impressions"
 date: 2016-09-28

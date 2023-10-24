@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "How Well Do Developers Understand Open Source Licenses?"
 date: 2016-08-02

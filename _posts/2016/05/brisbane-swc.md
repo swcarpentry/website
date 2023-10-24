@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Belinda Weaver"]
 title: "Software Carpentry in Brisbane"
 date: 2016-05-12

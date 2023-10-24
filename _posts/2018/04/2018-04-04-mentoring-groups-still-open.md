@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Kari L. Jordan"]
 title: "Mentoring Groups Open for Multiple Timezones"
 date: 2018-04-04

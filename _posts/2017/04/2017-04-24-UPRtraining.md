@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Rayna Harris", "Sue McClatchy", "Tracy Teal"]
 title: "Instructor Training in Puerto Rico"
 date: 2017-04-24

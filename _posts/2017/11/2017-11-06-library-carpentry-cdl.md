@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["John Chodacki"]
 title: "Skills Training for Librarians: Expanding Library Carpentry"
 date: 2017-11-06

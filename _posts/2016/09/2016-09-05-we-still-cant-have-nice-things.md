@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "We Still Can't Have Nice Things Together"
 date: 2016-09-05

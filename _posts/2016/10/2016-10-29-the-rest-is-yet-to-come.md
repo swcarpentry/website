@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "The Rest Is Yet To Come"
 date: 2016-10-29

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "New Book: Tidy Text Mining with R"
 date: 2016-10-29

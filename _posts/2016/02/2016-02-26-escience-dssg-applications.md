@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Ariel Rokem"]
 title: "Applications due March 1st: 2016 eScience Data Science for Social Good summer program"
 date: 2016-02-26

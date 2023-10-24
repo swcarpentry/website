@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "Summarizing Our Lesson Discussion Sessions"
 date: 2016-04-29

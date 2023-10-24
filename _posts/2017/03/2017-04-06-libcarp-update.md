@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Belinda Weaver"]
 title: "What's new in Library Carpentry"
 date: 2017-04-06

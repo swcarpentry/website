@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Tom Kelly", "Mik Black", "Sung Bae", "Wolfgang Hayek", "Aleksandra Pawlik"]
 title: "Software Carpentry Workshop Attendance: a New Zealand Perspective"
 date: 2016-09-28

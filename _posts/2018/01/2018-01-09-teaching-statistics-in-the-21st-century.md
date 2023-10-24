@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "Teaching Statistics in the 21st Century"
 date: 2018-01-09

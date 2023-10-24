@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Erin Becker", "Kari L. Jordan", "Tracy Teal", "Christina Koch"]  
 title: "Carpentries Mentorship Program - 2.0"
 date: 2017-10-12

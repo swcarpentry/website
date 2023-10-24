@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "More of a Difference Than You Realize"
 date: 2016-02-19

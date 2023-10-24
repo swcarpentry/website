@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Ian Hawke"]
 title: "Context when teaching Numerical Methods"
 date: 2016-02-11

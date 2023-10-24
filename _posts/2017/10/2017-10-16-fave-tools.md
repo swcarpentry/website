@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Belinda Weaver"]
 title: "Blogging for the Carpentries - We Want to Hear From You"
 date: 2017-10-16

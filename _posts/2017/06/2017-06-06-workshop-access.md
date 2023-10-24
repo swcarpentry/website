@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Erin Becker", "Jonah Duckles", "Kari L. Jordan", "Maneesha Sane", "Tracy Teal"]
 title: "Instructor Access to Workshops"
 teaser: "Working with hosts and instructors on workshop access"

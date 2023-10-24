@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Juliane Schneider"]
 title: "Three Instructors, Two Coasts and One Spatula"
 date: 2017-05-17

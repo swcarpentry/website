@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Sue McClatchy"]
 title: "Software engineer position at The Jackson Laboratory"
 date: 2016-11-15

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Tracy Teal", "Gina Helfrich"]
 title: "Carpentries Transition From Fiscally Sponsored Project to NumFOCUS Community Alliance Member"
 date: 2018-01-30

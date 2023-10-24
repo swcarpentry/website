@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Martin Dreyer"]
 title: "1 - 28 February, 2017: Inclusivity, Career Pathway Panel, Community Development Lead, BaseCamp."
 date: 2017-02-28

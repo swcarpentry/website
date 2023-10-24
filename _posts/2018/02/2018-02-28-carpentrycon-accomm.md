@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Belinda Weaver", "Fotis Psomopoulos"]
 title: "CarpentryCon - Hotel Accommodation Options"
 date: 2018-02-28

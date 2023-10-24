@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Anelda van der Walt", "Aleksandra Pawlik"]
 title: "Software and Data Carpentry Instructor Training Comes to Africa"
 date: 2016-03-18

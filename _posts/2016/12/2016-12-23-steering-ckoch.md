@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Christina Koch"]
 title: "2017 Election: Christina Koch"
 date: 2016-12-22

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Kate Hertweck"]
 title: "Call for Candidates for the 2017 Steering Committee"
 date: 2016-10-24

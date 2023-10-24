@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Jon Calder"]
 title: "satRday Cape Town 2018"
 date: 2017-12-03

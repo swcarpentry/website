@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Dhavide Aruliah"]
 title: "2016 Election: Dhavide Aruliah"
 date: 2016-01-14

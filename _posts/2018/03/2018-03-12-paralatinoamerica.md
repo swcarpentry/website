@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Paula Andrea Martinez", "Alejandra Gonzalez-Beltran"]
 title: "Carpentries para Latinoamerica"
 date: 2018-03-12

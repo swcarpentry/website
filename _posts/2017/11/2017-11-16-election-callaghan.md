@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Martin Callaghan"]
 title: "Martin Callaghan: Nomination for 2018 Steering Committee"
 date: 2017-11-16

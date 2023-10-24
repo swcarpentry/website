@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Sarah Stevens"]
 title: "Installation Video Tutorials"
 date: 2016-04-12

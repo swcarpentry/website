@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Jonah Duckles"]
 title: "Instructor Survey Report"
 date: 2016-01-27

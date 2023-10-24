@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Leah Wasser"]
 title: "Hello, Spatio-temporal Data Carpentry"
 date: 2016-03-28

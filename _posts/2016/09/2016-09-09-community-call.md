@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Tracy Teal", "Kate Hertweck"]
 title: "September Carpentries Community Call"
 date: 2016-09-09

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Karen Cranston"]
 title: "Call for Nominations to Joint Board"
 date: 2017-10-18

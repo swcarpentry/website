@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Adina Howe"]
 title: "2015 Annual Report"
 date: 2016-03-23

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Richard Vankoningsveld"]
 title: "My Favorite tool - A Coding Sandbox"
 date: 2017-12-21

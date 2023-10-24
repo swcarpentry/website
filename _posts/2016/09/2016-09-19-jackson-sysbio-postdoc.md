@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Sue McClatchy"]
 title: "Systems Biology Postdoc Position with The Jackson Laboratory"
 date: 2016-09-19

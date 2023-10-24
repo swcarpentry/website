@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Danielle Robinson"]
 title: "Toads in Vancouver: using Stencila to teach SQL and R at UBC"
 date: 2017-09-29

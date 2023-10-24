@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Jay van Schyndel"]
 title: "Library Carpentry workshop at James Cook University, Townsville"
 date: 2016-07-29

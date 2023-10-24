@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Aleksandra Pawlik"]
 title: "Instructor Training in South Africa"
 date: 2016-04-21

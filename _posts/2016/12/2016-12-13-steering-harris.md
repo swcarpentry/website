@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Rayna Harris"]
 title: "2017 Election: Rayna Harris"
 date: 2016-12-19

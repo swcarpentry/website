@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "A New Lesson on GAP"
 date: 2016-02-09

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Auriel Fournier"]
 title: "My Favorite Tool - Todoist"
 date: 2017-12-11

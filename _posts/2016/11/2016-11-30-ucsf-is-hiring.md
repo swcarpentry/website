@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Ariel Deardorff"]
 title: "UCSF is Hiring"
 date: 2016-11-30

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Anelda van der Walt"]
 title: "2 - 16 February, 2016: Election Week, University Courses, New Lessons and a Shell Co-Maintainer, An Interview, and Teaching Strategies"
 date: 2016-02-16

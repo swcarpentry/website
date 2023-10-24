@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "NumFOCUS Project Director"
 date: 2016-08-02

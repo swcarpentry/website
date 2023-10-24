@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Christina Koch"]
 title: "Software Carpentry: Considering the Future"
 date: 2018-03-23

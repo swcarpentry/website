@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Thomas Arildsen"]
 title: "My Favourite Tool: Jupyter Notebook"
 date: 2017-10-28

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Raniere Silva"]
 title: "Changes on Mentoring Subcommittee"
 date: 2016-04-11

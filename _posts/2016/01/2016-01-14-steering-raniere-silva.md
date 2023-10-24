@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Raniere Silva"]
 title: "2016 Election: Raniere Silva"
 date: 2016-01-14

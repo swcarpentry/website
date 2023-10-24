@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "Building Software, Building Community: Lessons from the rOpenSci Project"
 date: 2016-02-17

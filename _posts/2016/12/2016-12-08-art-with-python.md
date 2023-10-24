@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Eleanor Lutz"]
 title: "Making art with Python: Projects after Software Carpentry"
 date: 2016-12-08

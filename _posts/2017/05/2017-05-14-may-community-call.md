@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Kate Hertweck"]
 title: "May Community Call: Restructuring the Carpentries"
 date: 2017-05-14

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Mik Black", "Tom Kelly", "Murray Cadzow"]
 title: "Software Carpentry workshop at the University of Otago, New Zealand"
 date: 2016-07-04

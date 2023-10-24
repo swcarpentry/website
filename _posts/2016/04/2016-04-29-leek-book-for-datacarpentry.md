@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Jeff Leek"]
 title: "Buy This Book and Support Data Carpentry"
 date: 2016-04-29

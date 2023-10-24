@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["John Blischak"]
 title: "Maintaining a Lesson"
 date: 2016-04-04

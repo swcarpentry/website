@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Pariksheet Nanda"]
 title: "Git lesson using worksheets"
 date: 2018-05-26

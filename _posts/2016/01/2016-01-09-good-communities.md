@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "Good Communities (Kinds Of)"
 date: 2016-01-09

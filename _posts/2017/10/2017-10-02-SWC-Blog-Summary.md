@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Martin Dreyer"]
 title: "1 - 30 September, 2017: Future of the Carpentries, New Staff Members, Community Service Awards, CarpentryCon"
 date: 2017-10-02

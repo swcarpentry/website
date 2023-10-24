@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Caleb Hattingh"]
 title: "So You Want to Make a Screencast"
 date: 2016-04-13

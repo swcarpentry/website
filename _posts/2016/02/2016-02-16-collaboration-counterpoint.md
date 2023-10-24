@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "A Counterpoint to Collaborative Lesson Design"
 date: 2016-02-16

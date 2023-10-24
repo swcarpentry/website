@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "Our New Instructor Pipeline"
 date: 2016-02-16

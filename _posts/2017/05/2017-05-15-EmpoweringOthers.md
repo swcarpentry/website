@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Rayna Harris"]
 title: "What is the reward for empowering others?"
 date: 2017-05-14

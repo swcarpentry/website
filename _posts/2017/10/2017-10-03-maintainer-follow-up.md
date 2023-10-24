@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Christina Koch"]
 title: "Maintaining Lessons - Community Perspectives"
 date: 2017-10-03

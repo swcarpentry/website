@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Lauren Michael"]
 title: "Carpentries Career Pathways Panel: Raniere Silva, Geneviève Smith, Tiffany Timbers"
 date: 2017-01-20

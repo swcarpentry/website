@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Christina Koch"]
 title: "Software Carpentry Lesson Maintenance: Be Part of the Conversation!"
 date: 2017-09-19

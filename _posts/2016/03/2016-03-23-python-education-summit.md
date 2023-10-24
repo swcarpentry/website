@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Andrea Zonca"]
 title: "Python Education Summit at PyCon 2016"
 date: 2016-03-23

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline:
 title: "Community Call on Assessment"
 teaser: "Discussion of our workshop survey results"

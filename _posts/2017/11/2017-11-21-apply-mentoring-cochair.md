@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Marian Schmidt", "Jamie Hadwin"]
 title: "Call for Applicants: Mentoring Subcommittee Co-Chair"
 date: 2017-11-21

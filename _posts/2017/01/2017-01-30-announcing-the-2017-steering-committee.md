@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Jonah Duckles"]
 title: "Announcing the 2017 Steering Committee"
 date: 2017-01-30

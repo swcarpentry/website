@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "Lessons as Lab Protocols"
 date: 2016-01-03

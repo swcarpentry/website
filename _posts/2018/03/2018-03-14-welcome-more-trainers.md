@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Karen Word", "Erin Becker"]
 title: "Welcome to New Trainers"
 date: 2018-03-14

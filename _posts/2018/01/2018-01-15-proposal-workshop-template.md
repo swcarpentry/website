@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Raniere Silva"]
 title: "Workshop Template Enhancement Proposal"
 date: 2018-01-16

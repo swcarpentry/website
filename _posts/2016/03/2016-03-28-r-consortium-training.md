@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Laurent Gatto"]
 title: "An R-based Instructor Training Sponsored by the R Consortium"
 date: 2016-03-28

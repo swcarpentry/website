@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Marianne Corvellec", "Karen Word"]
 title: "Webinar with Rochelle Tractenberg: Debrief"
 date: 2018-03-20

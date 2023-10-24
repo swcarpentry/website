@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Rayna Harris"]
 title: "Motions approved for Data Carpentry & Software Carpentry Merger"
 date: 2017-08-07

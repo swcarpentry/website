@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["John Blischak", "Emily Davenport", "Greg Wilson"]
 title: "Our Introduction to Git Has Been Published"
 date: 2016-01-21

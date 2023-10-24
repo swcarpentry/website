@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "Data Carpentry's New Deputy Director of Assessment"
 date: 2016-08-02

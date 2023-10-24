@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Martin Dreyer"]
 title: "15 - 30 June, 2017: Reorganisational Timeline, HPC-in-a-day, Good Enough Practices for Scientific Computing, Opensource Survey."
 date: 2017-06-30

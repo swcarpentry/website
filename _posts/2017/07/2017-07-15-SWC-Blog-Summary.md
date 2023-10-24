@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Martin Dreyer"]
 title: "1 - 15 July, 2017: Learner Impact, Instructor Training, Community Building, Author Information."
 date: 2017-07-17

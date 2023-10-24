@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Nicola Anthony", "Katy Morgan", "Courtney Miller", "Anelda van der Walt"]
 title: "CAB-Alliance Bioinformatics Workshop in Franceville, Gabon"
 date: 2017-11-09

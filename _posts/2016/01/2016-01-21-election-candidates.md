@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Jonah Duckles"]
 title: "Meet the 2016 Election Candidates"
 date: 2016-01-21

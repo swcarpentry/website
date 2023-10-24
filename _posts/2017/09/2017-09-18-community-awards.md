@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Christina Koch"]
 title: "Community Service Awards - 2017 Edition"
 date: 2017-09-18

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Jonah Duckles"]
 title: "Software Carpentry Steering Committee Candidates 2017"
 date: 2017-01-15

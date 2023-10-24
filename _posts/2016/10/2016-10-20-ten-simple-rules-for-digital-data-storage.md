@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Greg Wilson"]
 title: "Ten Simple Rules for Digital Data Storage"
 date: 2016-10-20

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Christina Koch", "Kate Hertweck"]
 title: "Our 2017 Community Service Award winner: Anelda van der Walt"
 date: 2017-12-13

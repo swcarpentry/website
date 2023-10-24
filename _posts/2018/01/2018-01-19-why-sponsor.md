@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Belinda Weaver"]
 title: "Why Should You Sponsor CarpentryCon 2018?"
 date: 2018-01-18

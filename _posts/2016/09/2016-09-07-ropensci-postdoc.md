@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Karthik Ram"]
 title: "Post-doc Position with rOpenSci"
 date: 2016-09-07

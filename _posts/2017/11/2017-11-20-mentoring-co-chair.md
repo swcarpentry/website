@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Marian Schmidt", "Jamie Hadwin"]
 title: "Work first-hand on developing our ever growing instructor community"
 date: 2017-11-20

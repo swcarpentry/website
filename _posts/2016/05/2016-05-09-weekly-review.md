@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Bianca Peterson", "Anelda van der Walt"]
 title: "24 April - 4 May, 2016: Subcommittees and Task Forces, Partnerships,  Instructor Training, A Vacancy, Lab Meeting, Bug Barbeque, Discuss, and New Videos and a Book"
 date: 2016-05-09

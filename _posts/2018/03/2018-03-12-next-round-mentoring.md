@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Kari L. Jordan"]
 title: "Mentoring Groups are Back!"
 date: 2018-03-12

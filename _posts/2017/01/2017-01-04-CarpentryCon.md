@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Alix Keener", "Rayna Harris", "Greg Wilson"]
 title: "Announcing the CarpentryCon Proposal"
 date: 2017-01-04

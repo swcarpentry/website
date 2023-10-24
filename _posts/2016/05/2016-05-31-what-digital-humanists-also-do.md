@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 authors: ["Kathy Chung"]
 title: "What Digital Humanists Also Do"
 date: 2016-05-30
