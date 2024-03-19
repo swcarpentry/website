@@ -2,7 +2,7 @@
 
 # Software Carpentry Website
 
-This is the repository for the new [Software Carpentry website](http://software-carpentry.org).
+This is the repository for the new [Software Carpentry website](https://software-carpentry.org).
 Please submit additions and fixes as pull requests to [our GitHub repository](https://github.com/swcarpentry/website).
 
 *   [Setup](#setup)
@@ -21,12 +21,12 @@ for links to their repositories.
 > and we welcome contributions of all kinds.
 > By contributing,
 > you are agreeing that Software Carpentry may redistribute your work
-> under [these licenses](http://software-carpentry.org/license/),
-> and to abide by [our code of conduct](http://software-carpentry.org/conduct/).
+> under [these licenses](https://software-carpentry.org/license/),
+> and to abide by [our code of conduct](https://software-carpentry.org/conduct/).
 
 ## Setup <a name="setup"></a>
 
-The website uses [Jekyll](http://jekyllrb.com/), a static website generator written in Ruby.
+The website uses [Jekyll](https://jekyllrb.com/), a static website generator written in Ruby.
 You need to have Version 2.7.1 or higher of Ruby and the package manager Bundler (The package manager is used to make sure you use exactly the same versions of software as GitHub Pages).
 Bundler can be installed with `$ gem install bundler`.
 If you are on Linux, you will need to install the Ruby header files (e.g., `$ sudo apt-get install ruby-dev` on Debian/Ubuntu).
@@ -41,7 +41,7 @@ $ bundle install
 to install Jekyll and the software it depends on.
 You may consult [Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages/) for further instructions.
 
-You will also need [Python 3](http://python.org/) with
+You will also need [Python 3](https://python.org/) with
 [PyYAML](https://pypi.python.org/pypi/PyYAML/) available in order to
 re-generate the [data files](#details) the site depends on.
 
@@ -69,7 +69,7 @@ YYYY is the 4-digit year of the post, MM the 2-digit month, and DD the 2-digit d
 `some-title` can be any hyphenated string of words that do not include special characters such as quotes.
 Please do *not* use underscores or periods in the names.
 When published,
-your blog post will appear as `http://software-carpentry.org/blog/YYYY/MM/some-title.html`.
+your blog post will appear as `https://software-carpentry.org/blog/YYYY/MM/some-title.html`.
 
 The YAML header of a blog post must look like this:
 
@@ -156,4 +156,4 @@ and every 6 hours, the GitHub Action does the following:
 
 ### Previewing the live site
 
-Once changes to the site are merged, they can take several hours to go live.  In the meantime, changes can be [previewed here](http://software-carpentry.org.s3-website-us-east-1.amazonaws.com/). 
+Once changes to the site are merged, they can take several hours to go live.  In the meantime, changes can be [previewed here](https://software-carpentry.org.s3-website-us-east-1.amazonaws.com/). 
