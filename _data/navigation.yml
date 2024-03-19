@@ -76,17 +76,6 @@
   - title: "Reading Material"
     url: "/reading/"
 
-- title: "Blog Archive"
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "All Posts"
-    url: "/blog/"
-  - title: "Blog Posts by Category"
-    url: "/blog/categories/"
-  - title: "Blog Posts by Date"
-    url: "/blog/dates/"
-
 - title: "Contact"
   url: "https://carpentries.org/contact/"
   side: right
