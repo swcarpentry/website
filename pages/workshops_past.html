@@ -2,47 +2,14 @@
 layout: page-fullwidth
 permalink: /workshops/past/
 title: Past Workshops
-map_url: workshops_past.json
-map_element: map_canvas
-redirect_from:
-  - /workshops/previous.html
 excerpt: listing of all our past workshops
 ---
 
-{% assign first_workshop_date = site.data.swc_past_workshops | group_by: "start_date" | sort: "name" | map: "name" | first %}
-
-{% assign n_workshops = site.data.swc_past_workshops | size %}
-
-{% assign flags = site.data.swc_past_workshops | group_by: "country" | sort: "name" | map: "name"  %}
-
-{% assign n_countries = flags | size %}
-
-
-<div>
- Since {{ first_workshop_date | date_to_long_string }}, we have run {{ n_workshops }} workshops in {{ n_countries }} countries.
-</div>
-
-
-<div id="map_canvas" style="width: 98%; height: 500px; margin-left:auto; margin-right: auto; margin-bottom: 15px"></div>
-
-<div style="text-align: center; margin-bottom: 15px">
-  {% for flag in flags %}
-  {% if flag != "" %}
-  <img src="/assets/img/flags/32/{{flag | downcase }}.png" title="{{flag | replace: '-',' ' | downcase }}" alt="{{flag | replace: '-',' '}}" />
-  {% endif %}
-    {% unless forloop.last %}
-      {% assign loopindex = forloop.index0 | modulo: 16 %}
-      {% if loopindex == 15 %}
-      <br/>
-      {% endif %}
-    {% endunless %}
-  {% endfor %}
-</div>
-
 <div class="row">
   <div class="medium-12 columns">
-    <h3>Past Workshops</h3>
-    {% assign workshop_list = site.data.swc_past_workshops %}
-    {% include workshop_table.md %}
-  </div>
-</div><!--end of row-->
+
+<b><a href="/workshops/upcoming/">Check out our upcoming workshops here</a>.</b><hr>
+{% assign workshop_list = site.data.swc_past_workshops %}
+{% include workshop_table.md %}
+</div>
+</div>
