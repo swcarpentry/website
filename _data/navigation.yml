@@ -1,84 +1,23 @@
 - title: Home
   url: "/"
   side: left
-
-- title: About
-  url: "/about/"
-  side: left
   dropdown:
-  - title: "About Us"
-    url: "/about/"
-  - title: "Code of Conduct"
-    url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
-  - title: "Community Governance"
-    url: "/governance/"
-  - title: "Our Members"
-    url: "https://carpentries.org/members/"
-  - title: "Become a Member Organization"
-    url: "https://carpentries.org/membership/"
-  - title: "Our History"
-    url: "/scf/history/"
-  - title: "Community Service Awards"
-    url: "/scf/awards/"
-  - title: "Privacy Policy"
-    url: "https://docs.carpentries.org/topic_folders/policies/privacy.html"
-  - title: "Assessment"
-    url: "https://carpentries.org/assessment/"
+  - title: Governance
+    url: /governance/
+  - title: Curriculum Advisors
+    url: /curriculum-advisors/
 
 - title: "Workshops"
-  url: "/workshops/"
   side: left
   dropdown:
-  - title: "Our Workshops"
-    url: "/workshops/"
-  - title: "Code of Conduct"
-    url: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
-  - title: "Request a Workshop"
-    url: "/workshops/request/"
-  - title: "Pitching a Workshop"
-    url: "/workshops/pitch/"
-  - title: "Our Audience"
-    url: "/audience/"
-  - title: "Testimonials"
-    url: "/testimonials/"
-  - title: "Workshop Operations"
-    url: "/workshops/operations/"
+  - title: "Upcoming Workshops"
+    url: "/workshops-upcoming"
   - title: "Past Workshops"
-    url: "/workshops/past/"
+    url: "/workshops-past"
 
 - title: Lessons
   url: "/lessons/"
   side: left
-  dropdown:
-  - title: "Our Lessons"
-    url: "/lessons/"
-  - title: "License"
-    url: "/license/"
-  - title: "Development Dashboard"
-    url: "/lessons/dashboard/"
-  - title: "Curriculum Advisors"
-    url: "/curriculum-advisors/"
-
-- title: "Get Involved"
-  url: "/join/"
-  side: left
-  dropdown:
-  - title: "Join Us"
-    url: "https://carpentries.org/community/"
-  - title: "Donate"
-    url: "https://carpentries.org/donate/"
-  - title: "Our Instructors"
-    url: "https://carpentries.org/instructors/"
-  - title: "Related Projects"
-    url: "/join/projects/"
-  - title: "Help Wanted"
-    url: "/join/help/"
-  - title: "Reading Material"
-    url: "/reading/"
-
-- title: "Contact"
-  url: "https://carpentries.org/contact/"
-  side: right
 
 - title: "Search"
   url: "/search/"
