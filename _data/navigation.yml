@@ -11,9 +11,9 @@
   side: left
   dropdown:
   - title: "Upcoming Workshops"
-    url: "/workshops-upcoming"
+    url: "/workshops/upcoming"
   - title: "Past Workshops"
-    url: "/workshops-past"
+    url: "/workshops/past"
 
 - title: Lessons
   url: "/lessons/"
