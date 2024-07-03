@@ -67,22 +67,20 @@ excerpt: definition of a Software Carpentry workshop
 <div id="map_canvas" style="width: 98%; height: 500px; margin-left:auto; margin-right: auto; margin-bottom: 15px"></div>
 
 <div id="future">
-  <h2>Future Workshops</h2>
+<h2>Future Workshops</h2>
   <p>For more information about any workshop below, please contact the person listed on that workshop's webpage.  For all general inquiries please <a href="mailto:{{site.contact}}">email us</a>.</p>
+  {% assign workshop_list = site.data.swc_upcoming_workshops %}
+  {% include workshop_table.md %}
 
-
-<div class="row">
-  <div class="medium-12 columns">
-    <h3>Past Workshops</h3>
-    {% assign workshop_list = site.data.swc_upcoming_workshops %}
-    {% include workshop_table.md %}
+<h2>Past Workshops</h2>
+    <div align="center">
+      <h4><a href="{{site.baseurl}}/workshops/past/">See where our past workshops have been!</a></h4>
+    </div>
   </div>
 </div><!--end of row-->
 </div>
 
 
-<div align="center">
-  <h4><a href="{{site.baseurl}}/workshops/past/">See where our past workshops have been!</a></h4>
-</div>
+
 
 </div>
