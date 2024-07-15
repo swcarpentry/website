@@ -19,6 +19,10 @@
   url: "/lessons/"
   side: left
 
+- title: The Carpentries
+  url: "https://carpentries.org"
+  side: left
+
 - title: "Search"
   url: "/search/"
   side: right
