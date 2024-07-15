@@ -2,8 +2,8 @@
 
 url: 		'https://swcarpentry-website-preview.netlify.app/'
 baseurl: 	''
-filesurl: 'https://swcarpentry-website-preview.netlify.app//files'
-urlimg: 'https://swcarpentry-website-preview.netlify.app//images'
+filesurl: 'https://swcarpentry-website-preview.netlify.app/files'
+urlimg: 'https://swcarpentry-website-preview.netlify.app/images'
 
 # See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support
 gist:
