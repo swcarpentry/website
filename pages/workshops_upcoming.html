@@ -1,0 +1,15 @@
+---
+layout: page-fullwidth
+permalink: /workshops/upcoming/
+title: Upcoming Workshops
+excerpt: listing of all our past workshops
+---
+
+<div class="row">
+  <div class="medium-12 columns">
+
+<b><a href="/workshops/past/">Check out our past workshops here</a>.</b><hr>
+{% assign workshop_list = site.data.swc_upcoming_workshops %}
+{% include workshop_table.md %}
+</div>
+</div>
