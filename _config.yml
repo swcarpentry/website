@@ -52,6 +52,7 @@ filesurl: '/files'
 # FIXME: eliminate some of these (duplicate social media information)
 amy_url         : "https://amy.carpentries.org/workshops"
 board_inquiries : "board-inquiries@software-carpentry.org"
+carpentries_url : "https://carpentries.org"
 contact         : "team@carpentries.org"
 dc_url          : "https://datacarpentry.org"
 lc_url          : "https://librarycarpentry.org"
