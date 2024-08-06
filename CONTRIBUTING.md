@@ -1,6 +1,6 @@
 # Contributing
 
-[Software Carpentry][swc-site] and [Data Carpentry][dc-site] are open source projects,
+[Software Carpentry][swc-site], [Data Carpentry][dc-site], and [Library Carpentry][lc-site] are open source projects,
 and we welcome contributions of all kinds:
 blog posts,
 fixes to existing material,
@@ -11,9 +11,8 @@ and reviews of proposed changes are all welcome.
 
 By contributing,
 you agree that we may redistribute your work under [our license](LICENSE.md).
-Everyone involved in [Software Carpentry][swc-site] and [Data Carpentry][dc-site]
+Everyone involved in [Software Carpentry][swc-site], [Data Carpentry][dc-site], and [Library Carpentry][lc-site]
 agrees to abide by our [code of conduct][conduct].
-
 
 ## How to Contribute a Fix or Suggested Change
 
@@ -107,7 +106,7 @@ Separate the header block from the post proper by a new line.
   
 ## Other Resources
 
-General discussion of [Software Carpentry][swc-site] and [Data Carpentry][dc-site]
+General discussion of [Software Carpentry][swc-site], [Data Carpentry][dc-site], and [Library Carpentry][lc-site]
 happens on the [discussion mailing list][discuss-list],
 which everyone is welcome to join.
 You can also [reach us by email][contact].
@@ -123,6 +122,7 @@ You can also [reach us by email][contact].
 [github-join]: https://github.com/join
 [how-contribute]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
 [issues]: https://github.com/swcarpentry/website/issues/
+[lc-site]: https://librarycarpentry.org/
 [repo]: https://github.com/swcarpentry/website/
 [swc-issues]: https://github.com/issues?q=user%3Aswcarpentry
 [swc-lessons]: http://software-carpentry.org/lessons/
