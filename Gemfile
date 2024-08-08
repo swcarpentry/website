@@ -6,3 +6,5 @@ group :jekyll_plugins do
   gem 'jekyll-get-json', "~> 1.0.0"
   gem 'jekyll', '3.8.7'
 end
+
+gem "webrick", "~> 1.8"
